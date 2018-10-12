@@ -1,7 +1,9 @@
 ---
-title: "Reading Groups"
-date: 2018-10-12T13:29:34+01:00
-draft: true
+title: Reading Group Guide
+date: 2017-01-04T15:04:10.000Z
+description: >-
+  Reading groups can inspire actionable steps
+image: /img/reading-groups.jpg
 ---
 
 Reading Group Guide
