@@ -6,8 +6,6 @@ description: >-
 image: /img/reading-groups.jpg
 ---
 
-Reading Group Guide
-
 # What is a reading group?
 
 Reading groups range from a few friends who meet regularly to talk about particular books that 	they have all read, often sharing a few bottles of wine to ease the discussion along, to more formal meetings, perhaps led by an academic, which explore literature in a more structured manner, rather like a seminar.
