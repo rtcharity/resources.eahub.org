@@ -1,4 +1,4 @@
-baseURL = "https://elated-khorana-8fa445.netlify.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "EA Hub"
 theme = "ananke"
