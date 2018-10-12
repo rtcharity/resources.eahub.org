@@ -15,9 +15,8 @@ Current URL: https://elated-khorana-8fa445.netlify.com/
 
 # Changing content using Netlify CMS
 * Go to https://elated-khorana-8fa445.netlify.com/admin/
-* Login
-  * Email address: sebbecker@gmx.net
-  * Password: EA123!
+* Signup with email address and password
+* Follow link sent to your email. If it doesn't redirect to admin page, go to https://elated-khorana-8fa445.netlify.com/admin/ again
 * Change content
 * Save
 * Set status to "ready" to make changes ready for publication
