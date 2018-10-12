@@ -2,3 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "EA Hub"
 theme = "ananke"
+
+[params]
+featured_image = "/img/ParallaxFaces19.png"
