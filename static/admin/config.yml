@@ -1,9 +1,10 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  media_folder: "site/static/img" # Folder where user uploaded files should go
-  public_folder: "site/static/img"
-  publish_mode: editorial_workflow #prevents changes from going live immediately after being saved.
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "site/static/img"
+publish_mode: editorial_workflow #prevents changes from going live immediately after being saved.
 
 
 collections: # A list of collections the CMS should be able to edit
