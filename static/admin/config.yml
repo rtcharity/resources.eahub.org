@@ -1,0 +1,35 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  media_folder: "site/static/img" # Folder where user uploaded files should go
+  public_folder: "site/static/img"
+  publish_mode: editorial_workflow #prevents changes from going live immediately after being saved.
+
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "resource-trail" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Resource-Trail" # Used in the UI, ie.: "New Post"
+    folder: "site/content/resource-trail" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Featured_Immage, name: featured_image, widget: image}
+      - file: "site/content/resource_trail/_index.md"
+        label: "Resource Trail"
+        name: "resource_trail"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Feature_Image, name: featured_image, widget: image}
