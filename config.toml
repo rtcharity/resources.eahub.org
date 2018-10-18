@@ -5,5 +5,12 @@ theme = "ananke"
 
 SectionPagesMenu = "main"
 
+[menu]
+    [[menu.main]]
+    identifier = "resource-trail"
+    name       = "Resource Trail"
+    url        = "/resource-trail"
+    weight     = 1
+
 [params]
 featured_image = "/img/ParallaxFaces19.png"

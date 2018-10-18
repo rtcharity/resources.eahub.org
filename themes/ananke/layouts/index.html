@@ -11,6 +11,8 @@
   {{ if ge $section_count 1 }}
     {{/* Derive the section name  */}}
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
+
+    <!-- Navigation -->
     {{ partial "site-navigation.html" . }}
 
     <div class="pa3 pa4-ns w-100 w-70-ns center">
