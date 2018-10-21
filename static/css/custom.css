@@ -1,0 +1,20 @@
+@import 'colors';
+
+.carousel_links {
+  text-decoration: none;
+  color: #635274;;
+}
+
+.carousel_links:hover {
+  opacity: 0.7
+}
+
+.carousel_links:visited {
+  color: #635274;;
+}
+
+.carousel_links_text {
+  margin-top: 10px;
+  text-align: center;
+  display: block;
+}

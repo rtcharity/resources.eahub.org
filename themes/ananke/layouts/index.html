@@ -12,9 +12,13 @@
     {{/* Derive the section name  */}}
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
+    <!-- Carousel -->
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Sections }}
-        <a href="{{ .URL }}">{{ .Title }}</a>
+        <a class="carousel_links" href="{{ .URL }}">
+          <img src={{ .Params.link_image }} />
+          <div class="carousel_links_text">{{ .Title }}</div>
+        </a>
       {{ end }}
     </section>
 
