@@ -18,26 +18,29 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-- name: "events_and_activities" # Used in routes, ie.: /admin/collections/:slug/edit
-  label: "Events and Activities" # Used in the UI, ie.: "New Post"
-  folder: "content/events_and_activities" # The path to the folder where the documents are stored
-  create: true # Allow users to create new documents in this collection
-  fields: # The fields each document in this collection have
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Publish Date", name: "date", widget: "datetime"}
-    - {label: "Description", name: "description", widget: "text"}
-    - {label: "Image", name: "image", widget: "image", required: false}
-    - {label: "Body", name: "body", widget: "markdown"}
-- name: "guides_and_tips" # Used in routes, ie.: /admin/collections/:slug/edit
-  label: "Guides and Tips" # Used in the UI, ie.: "New Post"
-  folder: "content/guides_and_tips" # The path to the folder where the documents are stored
-  create: true # Allow users to create new documents in this collection
-  fields: # The fields each document in this collection have
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Publish Date", name: "date", widget: "datetime"}
-    - {label: "Description", name: "description", widget: "text"}
-    - {label: "Image", name: "image", widget: "image", required: false}
-    - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "events_and_activities" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Events and Activities" # Used in the UI, ie.: "New Post"
+    folder: "content/events_and_activities" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "guides_and_tips" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Guides and Tips" # Used in the UI, ie.: "New Post"
+    folder: "content/guides_and_tips" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "start_group" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Start an EA Group" # Used in the UI, ie.: "New Post"
     folder: "content/start_group" # The path to the folder where the documents are stored
@@ -48,23 +51,25 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "templates_and_materials" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Templates and Materials" # Used in the UI, ie.: "New Post"
-    folder: "content/templates_and_materials" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "content/_index.md"
-        label: "Home Page"
-        name: "home"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Featured_Immage, name: featured_image, widget: image}
+
+    - name: "templates_and_materials" # Used in routes, ie.: /admin/collections/:slug/edit
+      label: "Templates and Materials" # Used in the UI, ie.: "New Post"
+      folder: "content/templates_and_materials" # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      fields: # The fields each document in this collection have
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Description", name: "description", widget: "text"}
+        - {label: "Image", name: "image", widget: "image", required: false}
+        - {label: "Body", name: "body", widget: "markdown"}
+
+- name: "pages"
+  label: "Pages"
+  files:
+    - file: "content/_index.md"
+      label: "Home Page"
+      name: "home"
+      fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Description, name: description, widget: string}
+        - {label: Featured_Immage, name: featured_image, widget: image}
