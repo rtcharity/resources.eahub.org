@@ -63,13 +63,13 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-- name: "pages"
-  label: "Pages"
-  files:
-    - file: "content/_index.md"
-      label: "Home Page"
-      name: "home"
-      fields:
-        - {label: Title, name: title, widget: string}
-        - {label: Description, name: description, widget: string}
-        - {label: Featured_Immage, name: featured_image, widget: image}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Featured_Immage, name: featured_image, widget: image}
