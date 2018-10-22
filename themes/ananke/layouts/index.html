@@ -15,10 +15,12 @@
     <!-- Carousel -->
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Sections }}
+      {{ if not (eq .Title "Popular_articles") }}
         <a class="carousel_links" href="{{ .URL }}">
           <img src={{ .Params.link_image }} />
           <div class="carousel_links_text">{{ .Title }}</div>
         </a>
+      {{ end }}
       {{ end }}
     </section>
 
@@ -26,7 +28,7 @@
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">
-            Recent Articles in {{ .Title }}
+            Popular articles
           </h1>
         {{ end }}
 

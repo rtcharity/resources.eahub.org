@@ -63,6 +63,15 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "popular_articles"
+    label: "Popular Articles"
+    widget: "list"
+    folder: "content/popular_articles"
+    create: "true"
+    fields:
+      - {label: "Title", name: "title", widget: "string" }
+      - {label: "URL", name: "url", widget: "string" }
+
   - name: "pages"
     label: "Pages"
     files:
