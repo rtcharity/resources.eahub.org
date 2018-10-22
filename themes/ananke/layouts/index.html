@@ -15,12 +15,12 @@
     <!-- Carousel -->
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Sections }}
-      {{ if not (eq .Title "Popular_articles") }}
+      {{ if eq .Params.menu_item "true" }}
         <a class="carousel_links" href="{{ .URL }}">
           <img src={{ .Params.link_image }} />
           <div class="carousel_links_text">{{ .Title }}</div>
         </a>
-      {{ end }}
+      {{ end }}  
       {{ end }}
     </section>
 
