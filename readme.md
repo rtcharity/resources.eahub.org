@@ -17,6 +17,7 @@ Current URL: https://elated-khorana-9gb345.netlify.com
 * Go to https://elated-khorana-9gb345.netlify.com/admin/
 * Signup with email address and password
 * Follow link sent to your email. If it doesn't redirect to admin page, go to https://elated-khorana-9gb345.netlify.com/admin/ again
+* (When logging in next time, you might get a "Logged in as [Your username] message". If you close it, it   sends you back to the login page. Click login again, and you're redirected to the admin page. )
 * Change content
 * Save
 * Set status to "ready" to make changes ready for publication
