@@ -18,6 +18,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "String"}
+      - {label: "Author", name: "author", widget: "String"}
 
   - name: "events_and_activities" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Events and Activities" # Used in the UI, ie.: "New Post"
@@ -29,6 +31,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "String"}
+      - {label: "Author", name: "author", widget: "String"}
 
   - name: "guides_and_tips" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Guides and Tips" # Used in the UI, ie.: "New Post"
@@ -40,6 +44,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "String"}
+      - {label: "Author", name: "author", widget: "String"}
 
   - name: "start_group" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Start an EA Group" # Used in the UI, ie.: "New Post"
@@ -51,6 +57,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "String"}
+      - {label: "Author", name: "author", widget: "String"}
 
   - name: "templates_and_materials" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Templates and Materials" # Used in the UI, ie.: "New Post"
@@ -62,15 +70,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: "popular_articles"
-    label: "Popular Articles"
-    widget: "list"
-    folder: "content/popular_articles"
-    create: "true"
-    fields:
-      - {label: "Title", name: "title", widget: "string" }
-      - {label: "URL", name: "url", widget: "string" }
+      - {label: "Tag", name: "tag", widget: "String"}
+      - {label: "Author", name: "author", widget: "String"}
 
   - name: "pages"
     label: "Pages"
