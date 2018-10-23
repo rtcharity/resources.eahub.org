@@ -1,11 +1,10 @@
 ---
 title: Reading Group Guide
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Reading groups can inspire actionable steps
-image: "/img/reading-groups.jpg"
-
-author: "Unsung hero"
+description: Reading groups can inspire actionable steps
+image: /img/reading-groups.jpg
+tag: popular
+author: Unsung hero
 ---
 
 # What is a reading group?
