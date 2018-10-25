@@ -1,6 +1,6 @@
 ---
 title: Resource Trail
-description: Home Page of the Resource Trail
+description: Collaboration for the greater good
 featured_image: /img/ParallaxFaces19.png
 actionLinks:
   - name: Find or offer volunteering opportunities
@@ -8,4 +8,4 @@ actionLinks:
   - name: Subscribe to EA newsletter
     url: 'https://eahub.org/'
 ---
-
+Guides, resources and articles from the EA Community to help you start and grow an EA group.
