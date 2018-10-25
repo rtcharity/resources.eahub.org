@@ -1,4 +1,7 @@
-@import 'colors';
+.action_links {
+  display: block;
+  margin-bottom: 10px;
+}
 
 .carousel_links {
   text-decoration: none;
