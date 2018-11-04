@@ -40,3 +40,11 @@
   opacity: 0.8;
   display: inline-block;
 }
+
+@media(max-width: 720px) {
+  .nav_links {
+    display: block;
+    text-align: right;
+    font-size: 14px;
+  }
+}
