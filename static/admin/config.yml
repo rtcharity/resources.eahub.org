@@ -106,5 +106,6 @@ collections: # A list of collections the CMS should be able to edit
   - name: "images"
     label: "Images"
     folder: "/static/img"
+    create: true # Allow users to create new documents in this collection
     fields:
       - {label: "EA Calendar", name: "ea_calendar", widget: "image"}
