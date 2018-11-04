@@ -7,7 +7,8 @@ actionLinks:
     url: 'http://www.eawork.club/'
   - name: Subscribe to EA newsletter
     url: 'https://eahub.org/'
-eaGroupCalendar:
-  - url: 'https://www.ealondon.com/events/'
+groupCalendar:
+  imageLink: /site/static/img/calendar.png
+  url: 'https://www.ealondon.com/events'
 ---
 
