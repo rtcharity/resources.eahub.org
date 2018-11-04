@@ -4,7 +4,7 @@ Rebooting the resource trail of the EA Hub
 
 Current URL: https://elated-khorana-9gb345.netlify.com
 
-## Stack
+## Stack
 * Hosting: netlifycms
 * Static site generator: Hugo
 
