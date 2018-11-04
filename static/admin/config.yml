@@ -86,6 +86,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
 
+  - name: "ea_group_calendar"
+    label: "EA Group Calendar"
+    folder: "/content/ea_group_calendar"
+    create: true # Allow users to create new documents in this collection
+    fields:
+      - {label: "URL", name: "url", widget: "string"}
+      - {label: "ImageLink", name: "image_link", widget: "image"}
+
   - name: "pages"
     label: "Pages"
     files:
@@ -102,11 +110,3 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "URL", name: "url", "widget": "string"}
-
-  - name: "ea_group_calendar"
-    label: "EA Group Calendar"
-    folder: "/content/ea_group_calendar"
-    create: true # Allow users to create new documents in this collection
-    fields:
-      - {label: "URL", name: "url", widget: "string"}
-      - {label: "ImageLink", name: "image_link", widget: "image"}
