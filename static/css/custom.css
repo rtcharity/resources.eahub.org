@@ -21,3 +21,22 @@
   text-align: center;
   display: block;
 }
+
+.nav_container {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.nav_sections {
+  vertical-align: text-top;
+  display: inline-block;
+}
+
+.nav_links {
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  opacity: 0.8;
+  display: inline-block;
+}
