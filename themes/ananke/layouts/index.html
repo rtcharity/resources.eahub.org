@@ -17,7 +17,8 @@
     <div class="landing_main">
 
     <!-- Selection of popular articles -->
-    <div class="landing_columns col-12 col-md-6">
+    <div class="landing_columns">
+      <div class="landing_item">
       <h2 class="flex-none">Selection of Popular Articles</h2>
       {{ range .Pages }}
         {{ if eq .Params.Tag "popular" }}
@@ -27,22 +28,26 @@
         <p class="f6 lh-copy mv0">By {{ .Params.Author }}</p>
         {{ end }}
       {{ end }}
+      </div>
     </div>
 
-    <div class="landing_columns col-12 col-md-6">
+    <div class="landing_columns">
       <!-- Action links -->
+      <div class="landing_item">
       <h2 class="flex-none">Actions</h2>
         {{ range .Params.actionLinks }}
           <div class="action_links">
             <a class="color-inherit dim link" target="_blank" href="{{ .url }}">{{ .name }}</a>
           </div>
         {{ end }}
+      </div>
 
+      <div class="landing_item">
       <h2 class="flex-none">EA Group Calendar</h2>
-
-        <!-- <a class="color-inherit dim link" target="_blank" href='blabla'>
-          <img src='static/img/calendar' />
-        </a> -->
+        <a class="color-inherit dim link" target="_blank" href={{ .Params.groupCalendar.url }}>
+          <img width="150px" src={{ .Params.groupCalendar.imageLink }}></img>
+        </a>
+      </div>
     </div>
 
     </div> <!-- end of Main Body -->
