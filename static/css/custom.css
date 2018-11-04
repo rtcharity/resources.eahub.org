@@ -24,7 +24,7 @@
 
 .nav_container {
   display: flex;
-
+  align-items: baseline;
   justify-content: space-between;
 }
 
@@ -41,7 +41,8 @@
   display: inline-block;
 }
 
-@media(max-width: 720px) {
+/* navigation vertically listed for mobile */
+@media(max-width: 1000px) {
   .nav_links {
     display: block;
     text-align: right;
