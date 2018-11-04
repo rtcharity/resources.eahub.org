@@ -104,6 +104,7 @@ collections: # A list of collections the CMS should be able to edit
             - {label: "URL", name: "url", "widget": "string"}
           - label: "EA Group Calendar"
             name: "eaGroupCalendar"
+            widget: "object"
             fields:
             - {label: "Image Link", name: "imageLink", widget: "image"}
             - {label: "URL", name: "url", "widget": "string"}
