@@ -102,3 +102,9 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "URL", name: "url", "widget": "string"}
+
+  - name: "images"
+    label: "Images"
+    folder: "/static/img"
+    fields:
+      - {label: "EA Calendar", name: "ea_calendar", widget: "image"}

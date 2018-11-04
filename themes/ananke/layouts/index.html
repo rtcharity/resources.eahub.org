@@ -13,31 +13,34 @@
       {{ end }}
     </section>
 
-    <!-- Selection of popular articles -->
+    <!-- Main Body -->
+    <div class="landing_main">
 
-    <div class="pa2 pa4-ns w-100 w-70-ns center">
-      <h1 class="flex-none">Selection of Popular Articles</h1>
+    <!-- Selection of popular articles -->
+    <div class="landing_columns col-12 col-md-6">
+      <h2 class="flex-none">Selection of Popular Articles</h2>
       {{ range .Pages }}
         {{ if eq .Params.Tag "popular" }}
         <h1 class="f3 fw1 athelas mt0 lh-title">
           <a href="{{.URL}}" class="color-inherit dim link"> {{ .Title }}</a>
         </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          {{ .Summary }}
-        </div>
         <p class="f6 lh-copy mv0">By {{ .Params.Author }}</p>
         {{ end }}
       {{ end }}
     </div>
 
-    <!-- Action links -->
-    <div class="pa2 pa4-ns w-100 w-70-ns center">
-      <h1 class="flex-none">Actions</h1>
+    <div class="landing_columns col-12 col-md-6">
+      <!-- Action links -->
+      <h2 class="flex-none">Actions</h2>
         {{ range .Params.actionLinks }}
           <div class="action_links">
             <a class="color-inherit dim link" target="_blank" href="{{ .url }}">{{ .name }}</a>
           </div>
         {{ end }}
+
+      <h2 class="flex-none">EA Group Calendar</h2>
     </div>
+
+    </div> <!-- end of Main Body -->
 
 {{ end }}

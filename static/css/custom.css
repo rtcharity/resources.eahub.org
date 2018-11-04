@@ -22,6 +22,17 @@
   display: block;
 }
 
+.landing_columns {
+  padding-top: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.landing_main {
+  display: flex;
+  justify-content: center;
+}
+
 .nav_container {
   display: flex;
   align-items: baseline;
