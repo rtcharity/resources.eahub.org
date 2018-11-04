@@ -88,7 +88,6 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: "ea_group_calendar"
     label: "EA Group Calendar"
-    folder: "/content/ea_group_calendar"
     create: true # Allow users to create new documents in this collection
     fields:
       - {label: "URL", name: "url", widget: "string"}
