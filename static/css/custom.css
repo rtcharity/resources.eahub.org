@@ -60,8 +60,13 @@
   display: inline-block;
 }
 
-/* navigation vertically listed for mobile */
+.popular_title {
+  margin-bottom: 10px;
+}
+
+
 @media(max-width: 1000px) {
+  /* navigation vertically listed for mobile */
   .nav_links {
     display: block;
     text-align: right;

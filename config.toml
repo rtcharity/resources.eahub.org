@@ -5,6 +5,8 @@ theme = "ananke"
 
 SectionPagesMenu = "main"
 
+summarylength = 6
+
 [params]
 featured_image = "/img/ParallaxFaces19.png"
 custom_css = ["css/custom.css"]

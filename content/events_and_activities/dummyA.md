@@ -1,17 +1,13 @@
 ---
-title: Reading Group Guide
-date: 2018-11-04T15:04:10.000Z
-description: Reading groups can inspire actionable steps
+title: Dummy title A
+date: 2018-01-04T15:04:10.000Z
 image: /img/reading-groups.jpg
-tag: popular
-author: Unsung hero
+author: John DoeAskill
 ---
 
-# What is a reading group?
+# What is a title A?
 
-Reading groups range from a few friends who meet regularly to talk about particular books that 	they have all read, often sharing a few bottles of wine to ease the discussion along, to more formal meetings, perhaps led by an academic, which explore literature in a more structured manner, rather like a seminar.
-
-Many reading group members find their reading becomes more rewarding, more focused, and that exchange of ideas with others can provide a whole new slant on a book. Readers in a rut will be introduced to books they would never have thought of reading, thanks to the recommendations of other group members.
+If no description is set, this shows the first two sentences of the article.
 
 # What are the goals of a reading group?
 

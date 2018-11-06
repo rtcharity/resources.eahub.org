@@ -22,7 +22,7 @@
       <h2 class="flex-none">Selection of Popular Articles</h2>
       {{ range .Pages }}
         {{ if eq .Params.Tag "popular" }}
-        <h1 class="f3 fw1 athelas mt0 lh-title">
+        <h1 class="f3 fw1 athelas popular_title">
           <a href="{{.URL}}" class="color-inherit dim link"> {{ .Title }}</a>
         </h1>
         <p class="f6 lh-copy mv0">By {{ .Params.Author }}</p>
@@ -36,7 +36,7 @@
       <div class="landing_item">
       <h2 class="flex-none">Actions</h2>
         {{ range .Params.actionLinks }}
-          <div class="action_links">
+          <div class="f4 action_links">
             <a class="color-inherit dim link" target="_blank" href="{{ .url }}">{{ .name }}</a>
           </div>
         {{ end }}
