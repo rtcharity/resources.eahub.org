@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-media_folder: "static/img" # Folder where user uploaded files should go
+media_folder: "img" # Folder where user uploaded files should go
 publish_mode: editorial_workflow #prevents changes from going live immediately after being saved.
 
 
