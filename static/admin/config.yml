@@ -3,7 +3,6 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "static/img"
 publish_mode: editorial_workflow #prevents changes from going live immediately after being saved.
 
 
