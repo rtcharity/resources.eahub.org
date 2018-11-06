@@ -1,15 +1,13 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Content }}
-  </article>
-
     <!-- Navigation -->
-    <section class="flex-ns flex-wrap justify-around mt5">
+    <section class="flex-ns flex-wrap justify-around mt5 nav_home">
       {{ range .Sections.ByWeight }}
-        <a class="carousel_links" href="{{ .URL }}">
-          <img src={{ .Params.link_image }} />
-          <div class="carousel_links_text">{{ .Title }}</div>
-        </a>
+        <div class="nav_home_containers">
+          <a class="nav_home_links" href="{{ .URL }}">
+            <img src={{ .Params.link_image }} />
+            <div class="nav_home_links_text">{{ .Title }}</div>
+          </a>
+        </div>
       {{ end }}
     </section>
 
@@ -36,7 +34,7 @@
       <div class="landing_item">
       <h2 class="flex-none">Actions</h2>
         {{ range .Params.actionLinks }}
-          <div class="f4 action_links">
+          <div class="action_links">
             <a class="color-inherit dim link" target="_blank" href="{{ .url }}">{{ .name }}</a>
           </div>
         {{ end }}

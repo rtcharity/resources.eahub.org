@@ -3,23 +3,37 @@
   margin-bottom: 10px;
 }
 
-.carousel_links {
-  text-decoration: none;
-  color: #635274;;
+.nav_home_containers {
+  margin: 10px 10px 20px 10px;
 }
 
-.carousel_links:hover {
+.nav_home_links {
+  text-decoration: none;
+  color: #635274;
+}
+
+.nav_home_links:hover {
   opacity: 0.7
 }
 
-.carousel_links:visited {
+.nav_home_links:visited {
   color: #635274;;
 }
 
-.carousel_links_text {
+.nav_home_links_text {
   margin-top: 10px;
   text-align: center;
   display: block;
+}
+
+.header {
+  height: 400px;
+  background-position: 0px -60px;
+  text-align: center;
+}
+
+.header_title {
+  margin-top: 0px;
 }
 
 .landing_main {
@@ -47,6 +61,13 @@
   justify-content: space-between;
 }
 
+.nav_home {
+  margin-top: 0px;
+  padding-top: 20px;
+  background-color: transparent;
+  text-align: center;
+}
+
 .nav_sections {
   vertical-align: text-top;
   display: inline-block;
@@ -64,6 +85,10 @@
   margin-bottom: 10px;
 }
 
+.pb7 {
+  background-color: #F4F4F4;
+}
+
 
 @media(max-width: 1000px) {
   /* navigation vertically listed for mobile */
@@ -79,5 +104,9 @@
 
   .landing_columns {
     width: 100%;
+  }
+
+  .header {
+    background-position: center top;
   }
 }
