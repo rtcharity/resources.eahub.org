@@ -9,5 +9,7 @@ actionLinks:
     url: 'https://eahub.org/'
 groupCalendar:
   imageLink: img/calendar.png
-  url: 'https://www.ealondon.com/events'
+  url: >-
+    https://calendar.google.com/calendar/embed?src=9b52kjqi2jhsu3quhcidrcp0gc@group.calendar.google.com&ctz=Europe/London&fbclid=IwAR0HrKbRLtbt_tMP-pFjTnV0qA5VuFRvUeYwEpAH3tIP8G9lJ2w0cFUeRRU&pli=1
 ---
+
