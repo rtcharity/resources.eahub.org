@@ -102,9 +102,10 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "URL", name: "url", widget: "string"}
-          - label: "Group Calendar"
-            name: "groupCalendar"
+          - label: "Calendar"
+            name: "calendar"
             widget: "object"
             fields:
+            - {label: "Title", name: "title", widget: "string"}
             - {label: "URL", name: "url", widget: "string"}
             - {label: "Image Link", name: "imageLink", widget: "image"}
