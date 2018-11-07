@@ -1,18 +1,17 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="nav_container">
     <!-- Home Button -->
-    <div class="nave_home_button">
       <a href="{{ .Site.BaseURL }}" class="f3 fw2 hover-white no-underline white-90 dib">
         <img class="logo" src="{{ .Site.Params.logo }}"></img>
       </a>
-    </div>
+    
 
     <!-- Sections Navigation if not on home page-->
     <section class="nav_sections">
       {{ if ne .Page.Title "Resource Trail" }}
         {{ range .Site.Sections.ByWeight }}
-          <a class="carousel_links" href="{{ .URL }}">
-            <div class="nav_links">{{ .Title }}</div>
+          <a class="nav_links" href="{{ .URL }}">
+            {{ .Title }}
           </a>
         {{ end }}
       {{ end }}
