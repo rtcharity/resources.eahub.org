@@ -3,6 +3,10 @@
   margin-bottom: 10px;
 }
 
+.footer {
+  background-color: #512B52;
+}
+
 .nav_home_containers {
   margin: 10px 10px 20px 10px;
 }
@@ -13,11 +17,11 @@
 }
 
 .nav_home_links:hover {
-  opacity: 0.7
+  opacity: 0.7;
 }
 
 .nav_home_links:visited {
-  color: #635274;;
+  color: #635274;
 }
 
 .nav_home_links_text {
