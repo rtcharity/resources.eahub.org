@@ -4,18 +4,22 @@
       <a href="{{ .Site.BaseURL }}" class="f3 fw2 hover-white no-underline white-90 dib">
         <img class="logo" src="{{ .Site.Params.logo }}"></img>
       </a>
-    
+
 
     <!-- Sections Navigation if not on home page-->
-    <section class="nav_sections">
-      {{ if ne .Page.Title "Resource Trail" }}
-        {{ range .Site.Sections.ByWeight }}
-          <a class="nav_links" href="{{ .URL }}">
-            {{ .Title }}
-          </a>
-        {{ end }}
-      {{ end }}
-    </section>
+    <div class="drop_down">
+      <label for="menu_burger">Three bars</label>
+      <input type="checkbox" id="menu_burger">
+      <section class="nav_sections">
+
+          {{ range .Site.Sections.ByWeight }}
+            <a class="nav_links" href="{{ .URL }}">
+              {{ .Title }}
+            </a>
+          {{ end }}
+        
+      </section>
+    </div>
 
   </div>
 </nav>
