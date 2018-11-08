@@ -10,7 +10,7 @@ author: Julia Wise
 ---
 ## When journalists come to local groups or events, how can group members and organizers prepare?
 
-****
+- - -
 
 **Risks and benefits**
 
@@ -18,15 +18,11 @@ Media coverage can provide an opportunity to spread EA ideas to wider audiences.
 
 There is also a problem of being associated with media outlets that are controversial, and of the media outlet’s brand polluting or seeping into the EA brand. This means that it’s often best to avoid media opportunities with a very strong political bent or that deal in controversial topics outside the scope of EA.
 
-
-
 **Getting advice:**
 
 We’re happy to have journalists contact CEA with questions. Please refer them to info@centreforeffectivealtruism.org.
 
 If a journalist wants to talk with you or your EA group, it’s a good idea to talk to us (at the above address) for any pointers and for help deciding about whether to meet with them.
-
-
 
 **Saying no:**
 
@@ -37,8 +33,6 @@ You can close events to the press. Having media there creates extra work for org
 > _“I wanted to let you know that we're happy to have you there as a community member who’s interested in effective altruism, but the event is closed to the press and we won't be allowing interviews, etc. at the event.”_
 
 Of course, people can always notes and write about their experience, but you can decide whether they record people at your event.
-
-
 
 **During a visit:**
 
@@ -68,8 +62,6 @@ You can always ask to fact-check a piece, though they may refuse. In some countr
 
 (For example, someone once published a piece on me saying I was so frugal I don’t even use public transportation but walk everywhere to save money! They seem to have completely made this up or misunderstood something, and I wish I had asked to check the piece for major inaccuracies. You may also want to ask for tone changes, like the piece that called my husband by his name but referred to me as “Mom.”)
 
-
-
 **Thoughts on tone and substance**
 
 Take a positive tone about EA, but don’t oversell it.
@@ -84,6 +76,4 @@ Don’t get drawn into argument, especially where there’s a strong emotive com
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
 
-
-
-![](/img/sample_image.jpg)
+![null](/img/sample_image.jpg)
