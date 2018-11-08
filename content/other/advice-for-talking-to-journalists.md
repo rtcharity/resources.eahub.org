@@ -10,17 +10,23 @@ author: Julia Wise
 ---
 When journalists come to local groups or events, how can group members and organizers prepare?
 
+
+
 **Risks and benefits**
 
 Media coverage can provide an opportunity to spread EA ideas to wider audiences. However, given that you are rarely in control of a media story’s angle or the editorial decisions that will contribute to the story’s message, a story can just perpetuate misinformation, or a quote you give may be taken out of context to sensationalize EA. The adage ‘all publicity is good publicity’ is probably not the one to follow.
 
 There is also a problem of being associated with media outlets that are controversial, and of the media outlet’s brand polluting or seeping into the EA brand. This means that it’s often best to avoid media opportunities with a very strong political bent or that deal in controversial topics outside the scope of EA.
 
+
+
 **Getting advice:**
 
 We’re happy to have journalists contact CEA with questions. Please refer them to info@centreforeffectivealtruism.org.
 
 If a journalist wants to talk with you or your EA group, it’s a good idea to talk to us (at the above address) for any pointers and for help deciding about whether to meet with them.
+
+
 
 **Saying no:**
 
@@ -31,6 +37,8 @@ You can close events to the press. Having media there creates extra work for org
 _“I wanted to let you know that we're happy to have you there as a community member who’s interested in effective altruism, but the event is closed to the press and we won't be allowing interviews, etc. at the event.”_
 
 Of course, people can always notes and write about their experience, but you can decide whether they record people at your event.
+
+
 
 **During a visit:**
 
@@ -50,6 +58,8 @@ _….._
 
 _I grew up after the Cold War, but it’s frightening to look back and see how close the world came to nuclear war many times. I’m really grateful to the people who worked hard to prevent that. I think we have an important responsibility to think about the technologies being developed now and how to use them safely so that our grandchildren look back and feel relieved that things worked out all right._
 
+__
+
 **Afterwards:**
 
 Write and offer to answer any questions that come up as they’re putting the piece together.
@@ -57,6 +67,8 @@ Write and offer to answer any questions that come up as they’re putting the pi
 You can always ask to fact-check a piece, though they may refuse. In some countries fact-checking by the person interviewed is considered standard, while in others it’s considered a compromise of journalistic ethics.
 
 (For example, someone once published a piece on me saying I was so frugal I don’t even use public transportation but walk everywhere to save money! They seem to have completely made this up or misunderstood something, and I wish I had asked to check the piece for major inaccuracies. You may also want to ask for tone changes, like the piece that called my husband by his name but referred to me as “Mom.”)
+
+
 
 **Thoughts on tone and substance**
 
