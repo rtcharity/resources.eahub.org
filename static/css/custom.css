@@ -30,13 +30,17 @@
   height: 240px;
 }
 
-.header_title {
+.header_text {
   margin-top: -150px;
   text-align: center;
 }
 
+.header_title {
+  font-size: 48px;
+}
+
 .header_subtitle {
-  font-size: 28px;
+  font-size: 24px;
 }
 
 input[type=checkbox] {
@@ -96,8 +100,8 @@ label {
 }
 
 .nav_home {
-  margin-top: 0px;
-  padding-top: 0px;
+  margin-top: 5px;
+  padding-top: 10px;
   background-color: transparent;
   text-align: center;
 }
@@ -152,14 +156,17 @@ label {
   background-color: #F4F4F4;
 }
 
-
 @media(max-width: 1000px) {
+
+  .header_title {
+    font-size: 40px;
+  }
 
   .header_subtitle {
     font-size: 18px;
   }
 
-  .header_title {
+  .header_text {
     padding-top: 20px;
   }
 

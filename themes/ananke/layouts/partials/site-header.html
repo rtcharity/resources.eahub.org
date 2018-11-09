@@ -2,8 +2,8 @@
   <!-- Add "bg-black-60" to class to get darker banner -->
   <div class="header_shadow">
     {{ partial "site-navigation.html" .}}
-    <div class="header_title">
-      <h1 class="f1-l fw2 white-80">
+    <div class="header_text">
+      <h1 class="fw2 header_title white-80">
         {{ .Title | default .Site.Title }}
       </h1>
       {{ with .Params.description }}
