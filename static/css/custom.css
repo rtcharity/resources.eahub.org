@@ -43,7 +43,7 @@ input[type=checkbox]:checked ~ .nav_sections {
   height: 420px;
   background-position: -25px 0px;
   background-repeat: no-repeat;
-
+  text-align: center;
 }
 
 .header_title {
