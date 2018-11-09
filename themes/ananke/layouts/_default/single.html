@@ -6,7 +6,7 @@
 
 
 {{ define "main" }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph3 ph0-l">
+  <article class="article_container flex-l flex-wrap justify-between mw8 center ph3 ph0-l">
 
     <header class="mt4 w-100">
       <p class="f6 b helvetica tracked">
@@ -25,17 +25,15 @@
       </time>
     </header>
 
-    <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <main class="serif nested-img mid-gray">
+        <img class="article_image" src="{{ .Params.image }}"></img>
+
         {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">
         {{ template "_internal/disqus.html" . }}
       </div>
     </main>
-
-    <aside class="w-30-l mt6-l">
-      {{- partial "menu-contextual.html" . -}}
-    </aside>
 
   </article>
 {{ end }}
