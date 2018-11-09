@@ -8,6 +8,6 @@ SectionPagesMenu = "main"
 summarylength = 6
 
 [params]
-featured_image = "/img/ParallaxFaces19.png"
-logo = "/img/logo-180x360.png"
+featured_image = "/img/LandingBanner.png"
+logo = "/img/logo_transparent.png"
 custom_css = ["css/custom.css"]

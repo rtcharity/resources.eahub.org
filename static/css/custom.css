@@ -40,9 +40,10 @@ input[type=checkbox]:checked ~ .nav_sections {
 }
 
 .header {
-  height: 400px;
-  background-position: 0px -60px;
-  text-align: center;
+  height: 420px;
+  background-position: -25px 0px;
+  background-repeat: no-repeat;
+
 }
 
 .header_title {
@@ -69,8 +70,8 @@ input[type=checkbox]:checked ~ .nav_sections {
 }
 
 .menu_bar {
-  width: 35px;
-  height: 5px;
+  width: 25px;
+  height: 3px;
   background-color: white;
   margin: 6px 0;
 }
@@ -87,7 +88,7 @@ input[type=checkbox]:checked ~ .nav_sections {
 
 .nav_home {
   margin-top: 0px;
-  padding-top: 20px;
+  padding-top: 0px;
   background-color: transparent;
   text-align: center;
 }
@@ -115,18 +116,23 @@ input[type=checkbox]:checked ~ .nav_sections {
   display: block;
 }
 
-.nav_sections {
-    visibility: hidden;
-    text-align: right;
-}
-
 .nav_links {
   color: white;
+  font-size: 18px;
   padding-left: 10px;
   padding-bottom: 2px;
   text-decoration: none;
   opacity: 0.8;
   display: block;
+}
+
+.nav_links:hover {
+  opacity: 0.4;
+}
+
+.nav_sections {
+    visibility: hidden;
+    text-align: right;
 }
 
 .popular_title {
