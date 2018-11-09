@@ -4,4 +4,3 @@ featured_image: '/img/ParallaxFaces19.png'
 link_image: '/img/evaluation-strategy.png'
 weight: 4
 ---
-Here you can find articles on evaluation and strategy
