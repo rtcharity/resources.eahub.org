@@ -17,6 +17,15 @@
   margin-left: auto;
 }
 
+.article_keyquote {
+  background-color: #635274;
+  padding: 10px;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
 .bodyClass {
   font-family: 'Open Sans', sans-serif;
 }
@@ -168,11 +177,16 @@ label {
   background-color: #F4F4F4;
 }
 
+/* mobile responsive */
 @media(max-width: 1000px) {
 
   .article_container {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .article_keyquote {
+    font-size: 18px;
   }
 
   .header_title {

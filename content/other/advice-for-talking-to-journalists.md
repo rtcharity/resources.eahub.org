@@ -24,11 +24,13 @@ We’re happy to have journalists contact CEA with questions. Please refer them 
 
 If a journalist wants to talk with you or your EA group, it’s a good idea to talk to us (at the above address) for any pointers and for help deciding about whether to meet with them.
 
+{{< keyquote "This is the keyquote that sums up the article" >}}
+
 **Saying no:**
 
 You don’t have to talk to journalists, and it’s often a better idea not to. You can always say, “Sorry, I’m really not the best person to talk to about that.”
 
-You can close events to the press. Having media there creates extra work for organizers, and you will not always have time for that. For example, here’s the message we send to journalists who apply to EA Global: 
+You can close events to the press. Having media there creates extra work for organizers, and you will not always have time for that. For example, here’s the message we send to journalists who apply to EA Global:
 
 > _“I wanted to let you know that we're happy to have you there as a community member who’s interested in effective altruism, but the event is closed to the press and we won't be allowing interviews, etc. at the event.”_
 
@@ -42,7 +44,7 @@ Assign the journalist a friendly guide to introduce them to interesting people, 
 
 Find out what they already know about EA so you can correct misperceptions. For example, many journalists have heard about EA’s connection with effective charitable giving and earning to give, but may not know about the focus on careers that do good directly. They may also be familiar with one or two cause areas but not realize that there is a broader spread.
 
-Very few journalists will do an in-depth piece on the fundamentals of EA, so be sure they get some main ideas summed up concisely. 
+Very few journalists will do an in-depth piece on the fundamentals of EA, so be sure they get some main ideas summed up concisely.
 
 A few journalists want to make us look strange or unreasonable, but many of them come away impressed by the deep moral commitment that many EAs have. Help them find the human interest story. Give them the opportunity to see not just what we do, but why. Two examples:
 
