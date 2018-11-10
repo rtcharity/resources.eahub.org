@@ -5,6 +5,10 @@
   margin-bottom: 10px;
 }
 
+.article_author {
+  font-style: italic;
+}
+
 .article_container {
   padding-right: 100px;
   padding-left: 100px;
