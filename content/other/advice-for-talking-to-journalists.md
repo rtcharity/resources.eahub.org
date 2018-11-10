@@ -4,7 +4,7 @@ date: 2018-11-08T21:41:41.081Z
 description: >-
   This is a sample description of a sample article. We should use a smaller and
   more adequate picture than this one.
-illustration: /img/stock_journalism.jpg
+illustration: /img/snowden_tissot.jpg
 tag: popular
 author: Julia Wise
 ---
