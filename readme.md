@@ -28,6 +28,16 @@ Current URL: https://elated-khorana-9gb345.netlify.com
 * "Publish" to make changes go live
 * If you want content to be listed under "Selection of popular articles", add tag "popular"
 
+### Changing structure/style
+* The page is based on Hugo's ananke theme, and then customised.
+* The HTML template files are located in the themes/ananke/layouts folder:
+  * Landing page: index.html
+  * Template of the sections pages: default/list.html
+  * Template of the articles pages: default/single.html
+  * Header on sections and landing pages: partials/site-header.html
+  * Header on article pages: partials/page-header.html  
+* The customised CSS classes are located in static/css/custom.css
+
 ### Access to Netlify account (for devs)
 * https://app.netlify.com
 * Ask Seb (sebbecker@gmx.net) for login details
