@@ -54,15 +54,15 @@
 }
 
 .header {
-  height: 350px;
-  background-position: 0px 100px;
-  background-repeat: repeat;
+  height: 230px;
+  background-position: 0px -40px;
+  background-repeat: no-repeat;
   text-align: center;
 }
 
 .header_shadow {
-  background-color: rgba(0,0,0,0.0);
-  height: 240px;
+  background-color: rgba(0,0,0,0.5);
+  height: 230px;
 }
 
 .header_text {
@@ -77,7 +77,7 @@
 
 .header_subtitle {
   font-size: 24px;
-  
+
 }
 
 input[type=checkbox] {
