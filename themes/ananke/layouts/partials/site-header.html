@@ -1,16 +1,19 @@
 <header class="cover header" style="background-image: url('{{ .Site.Params.featured_image }}');">
-  <!-- Add "bg-black-60" to class to get darker banner -->
   <div class="header_shadow">
     {{ partial "site-navigation.html" .}}
     <div class="header_text">
+      <div class="block">
       <h1 class="fw2 header_title white-80">
         {{ .Title | default .Site.Title }}
       </h1>
+      </div>
+      <div class="block">
       {{ with .Params.description }}
         <h2 class="fw1 header_subtitle white-80 center">
           {{ . }}
         </h2>
       {{ end }}
+      </div>
       </div>
   </div>
 </header>

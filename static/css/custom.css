@@ -34,12 +34,18 @@
   text-align: center;
 }
 
+.bg-black-box {
+  background-color: black;
+  display: inline-block;
+  padding: 3px;
+}
+
 .bodyClass {
   font-family: 'Open Sans', sans-serif;
 }
 
 .drop_down {
-  margin-top: -50px;
+  margin-top: -60px;
   text-align: right;
 }
 
@@ -55,7 +61,7 @@
 }
 
 .header_shadow {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.5);
   height: 240px;
 }
 
@@ -65,11 +71,14 @@
 }
 
 .header_title {
-  font-size: 48px;
+  font-size: 54px;
+  margin-bottom: 50px;
+  text-shadow: 2px 2px black;
 }
 
 .header_subtitle {
   font-size: 24px;
+  text-shadow: 2px 2px black;
 }
 
 input[type=checkbox] {
@@ -180,6 +189,7 @@ label {
 .nav_sections {
     visibility: hidden;
     text-align: right;
+    text-shadow: 1px 1px black;
 }
 
 .popular_title {
@@ -204,14 +214,21 @@ label {
 
   .header {
     background-position: center top;
+    height: 300px;
   }
 
-  .header_title {
-    font-size: 40px;
+  .header_shadow {
+    height: 300px;
   }
 
   .header_subtitle {
     font-size: 18px;
+  }
+
+  .header_title {
+    margin-top: 130px;
+    font-size: 40px;
+    margin-bottom: 10px;
   }
 
   .header_text {
