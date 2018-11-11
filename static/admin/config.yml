@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
-        required: "false"
+        required: false
         fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
-        required: "false"
+        required: false
         fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
@@ -63,7 +63,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
-        required: "false"
+        required: false
         fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
@@ -83,7 +83,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
-        required: "false"
+        required: false
         fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
@@ -103,7 +103,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
-        required: "false"
+        required: false
         fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
@@ -123,7 +123,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Related Articles"
         name: "relatedArticles"
         widget: "list"
-        required: "false"
+        required: false
         fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
