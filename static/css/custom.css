@@ -15,10 +15,14 @@
 }
 
 .article_image {
-  height: auto;
-  width: 200px !important;
+  max-height: 400px;
+  max-width: 400px !important;
   margin-right: auto;
   margin-left: auto;
+}
+
+.article_meta {
+  margin-bottom: 20px;
 }
 
 .article_keyquote {

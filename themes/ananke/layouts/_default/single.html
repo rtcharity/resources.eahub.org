@@ -20,17 +20,19 @@
       <h1 class="f1 athelas mb1">
         {{- .Title -}}
       </h1>
-      {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-      <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-        {{- .Date.Format "January 2, 2006" -}}
-      </time>
-      <div class="article_author">
-          by&nbsp;{{- .Params.author -}}
+      <div class="article_meta">
+        {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+        <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{- .Date.Format "January 2, 2006" -}}
+        </time>
+        <div class="article_author">
+            by&nbsp;{{- .Params.author -}}
+        </div>
       </div>
     </header>
 
     <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray w-two-thirds-l">
-        <img class="article_image" src="{{ .Params.image }}"></img>
+        <img class="article_image" src="{{ .Params.illustration }}"></img>
 
         {{- .Content -}}
       {{- partial "tags.html" . -}}
