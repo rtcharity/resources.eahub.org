@@ -54,31 +54,30 @@
 }
 
 .header {
-  height: 240px;
-  background-position: 0px -30px;
-  background-repeat: no-repeat;
+  height: 350px;
+  background-position: 0px 100px;
+  background-repeat: repeat;
   text-align: center;
 }
 
 .header_shadow {
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.0);
   height: 240px;
 }
 
 .header_text {
-  margin-top: -150px;
+  margin-top: -220px;
   text-align: center;
 }
 
 .header_title {
   font-size: 54px;
   margin-bottom: 50px;
-  text-shadow: 2px 2px black;
 }
 
 .header_subtitle {
   font-size: 24px;
-  text-shadow: 2px 2px black;
+  
 }
 
 input[type=checkbox] {

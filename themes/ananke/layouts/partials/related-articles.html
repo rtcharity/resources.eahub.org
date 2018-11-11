@@ -1,0 +1,10 @@
+<ul class="pa0">
+  {{ range .Params.relatedArticles }}
+  <h2 class="article_related_heading">Related Articles</h2>
+   <li class="list">
+     <a href="{{ .URL }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+       {{ .title }}
+     </a>
+   </li>
+  {{ end }}
+</ul>

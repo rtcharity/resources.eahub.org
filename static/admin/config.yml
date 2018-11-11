@@ -20,6 +20,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "events_and_activities" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Events and Activities" # Used in the UI, ie.: "New Post"
@@ -33,6 +39,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "guides_and_tips" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Guides and Tips" # Used in the UI, ie.: "New Post"
@@ -46,6 +58,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "start_group" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Start an EA Group" # Used in the UI, ie.: "New Post"
@@ -59,6 +77,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "templates_and_materials" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Templates and Materials" # Used in the UI, ie.: "New Post"
@@ -72,6 +96,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "other" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Other" # Used in the UI, ie.: "New Post"
@@ -85,6 +115,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "pages"
     label: "Pages"
