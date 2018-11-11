@@ -54,7 +54,7 @@
 }
 
 .header {
-  height: 230px;
+  height: 240px;
   background-position: 0px -40px;
   background-repeat: no-repeat;
   text-align: center;
@@ -62,17 +62,17 @@
 
 .header_shadow {
   background-color: rgba(0,0,0,0.5);
-  height: 230px;
+  height: 240px;
 }
 
 .header_text {
-  margin-top: -220px;
+  margin-top: -150px;
   text-align: center;
 }
 
 .header_title {
   font-size: 54px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .header_subtitle {
