@@ -34,6 +34,14 @@
   text-align: center;
 }
 
+.article_related_heading {
+  color: #635274;
+}
+
+.article_related_list {
+  display: inline-block;
+}
+
 .bg-black-box {
   background-color: black;
   display: inline-block;
