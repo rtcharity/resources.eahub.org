@@ -2,9 +2,13 @@
 title: Reading Group Guide
 date: 2018-11-04T15:04:10.000Z
 description: Reading groups can inspire actionable steps
-image: /img/reading-groups.jpg
 tag: popular
 author: Unsung hero
+relatedArticles:
+  - title: Dummy title B
+    url: 'https://elated-khorana-9gb345.netlify.com/events_and_activities/dummyb/'
+  - title: Advice for talking to journalists
+    url: 'http://localhost:1313/other/advice-for-talking-to-journalists/'
 ---
 
 # What is a reading group?
