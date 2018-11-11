@@ -7,6 +7,11 @@ description: >-
 illustration: /img/snowden_tissot.jpg
 tag: popular
 author: Julia Wise
+relatedArticles:
+  - title: Dummy title B
+    url: 'https://elated-khorana-9gb345.netlify.com/events_and_activities/dummyb/'
+  - title: Reading Group Guide
+    url: 'https://elated-khorana-9gb345.netlify.com/events_and_activities/reading-groups/'
 ---
 ## When journalists come to local groups or events, how can group members and organizers prepare?
 
@@ -24,7 +29,7 @@ We’re happy to have journalists contact CEA with questions. Please refer them 
 
 If a journalist wants to talk with you or your EA group, it’s a good idea to talk to us (at the above address) for any pointers and for help deciding about whether to meet with them.
 
-{{< keyquote "This is the keyquote that sums up the article" >}}
+{{< keyquote "This is the keyquote that sums up the article. It can go over a couple of lines." >}}
 
 **Saying no:**
 

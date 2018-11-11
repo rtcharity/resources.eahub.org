@@ -16,7 +16,7 @@
 
 .article_image {
   max-height: 400px;
-  max-width: 400px !important;
+  max-width: 600px !important;
   margin-right: auto;
   margin-left: auto;
 }
@@ -28,10 +28,11 @@
 .article_keyquote {
   background-color: #635274;
   padding: 10px;
-  color: black;
+  color: #F5F5F5;
   font-size: 24px;
-  font-weight: bold;
+  font-weight: ;
   text-align: center;
+  border-radius: 5px;
 }
 
 .article_related_heading {
