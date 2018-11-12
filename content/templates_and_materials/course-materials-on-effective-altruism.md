@@ -174,4 +174,4 @@ You can [join the course](https://www.coursera.org/learn/altruism) to see all ma
 
 [Giving Games](https://docs.google.com/document/d/1S9hK8LeW0VEHRh12WZ-fsf4uNz0UsrEjF8DLFeX7gcU/edit) by The Life You Can Save, including lesson plan
 
-[Students for High-Impact Charity](http://highimpactstudents.org/)
+[Students for High-Impact Charity](https://shicschools.org/)
