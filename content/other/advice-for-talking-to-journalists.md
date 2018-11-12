@@ -1,5 +1,5 @@
 ---
-title: Advice for talking to journalists
+title: '[Sample text] Advice for talking to journalists'
 date: 2018-11-08T21:41:41.081Z
 description: >-
   This is a sample description of a sample article. We should use a smaller and
