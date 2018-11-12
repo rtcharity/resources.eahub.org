@@ -50,8 +50,6 @@ Assign the journalist a friendly guide to introduce them to interesting people, 
 
 {{< keyquote "Nobody expects a random quote interruption in the middle of the text. According to Wikipeia, Effective altruism is a philosophy and social movement that uses evidence and reasoning to determine the most effective ways to benefit others. Effective altruism encourages individuals to consider all causes and actions and to act in the way that brings about the greatest positive impact, based upon their values. It is the broad, evidence-based approach that distinguishes effective altruism from traditional altruism or charity.
 
-
-
 Illuminati confirmed." >}}
 
 Find out what they already know about EA so you can correct misperceptions. For example, many journalists have heard about EA’s connection with effective charitable giving and earning to give, but may not know about the focus on careers that do good directly. They may also be familiar with one or two cause areas but not realize that there is a broader spread.
