@@ -1,11 +1,15 @@
 <header class="cover header" style="background-image: url('{{ .Site.Params.featured_image }}');">
   <div class="header_shadow">
     {{ partial "site-navigation.html" .}}
-    <div class="header_text">
+    {{ if .Params.description }}
+    <div class="header_text_landing">
+    {{ else }}
+    <div class="header_text_section">
+    {{ end }}
       <div class="block">
-      <h1 class="fw2 header_title white-80">
-        {{ .Title | default .Site.Title }}
-      </h1>
+        <h1 class="fw2 header_title white-80">
+          {{ .Title | default .Site.Title }}
+        </h1>
       </div>
       <div class="block">
       {{ with .Params.description }}
