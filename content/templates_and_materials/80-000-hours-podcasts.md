@@ -8,4 +8,4 @@ author: Rob Wiblin
 relatedArticles:
   - {}
 ---
-**All episodes are available **[**here**](https://80000hours.org/podcast/episodes/)**.**
+**All episodes are available under the following link: **<https://80000hours.org/podcast/episodes/>
