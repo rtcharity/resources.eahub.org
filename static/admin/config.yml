@@ -9,7 +9,7 @@ publish_mode: editorial_workflow #prevents changes from going live immediately a
 
 collections: # A list of collections the CMS should be able to edit
   - name: "evaluation_and_strategy" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Evaluation and Stratgey" # Used in the UI, ie.: "New Post"
+    label: "Evaluation and Strategy" # Used in the UI, ie.: "New Post"
     folder: "content/evaluation_and_strategy" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
