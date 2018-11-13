@@ -18,6 +18,8 @@ actionLinks:
       https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I
   - name: Join the EA Organisers' Facebook group
     url: 'https://www.facebook.com/groups/956362287803174/'
+  - name: Get a free website for your group
+    url: 'https://github.com/rtcharity/lean-site-template'
 calendar:
   imageLink: /img/hubcalendar.png
   title: EA Calendar
