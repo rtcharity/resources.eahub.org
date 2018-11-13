@@ -3,8 +3,6 @@ title: Dummy title A
 date: 2018-01-04T15:04:10.000Z
 description: This is a description of this article.
 author: John DoeAskill
-license:
-  - name: ''
 ---
 # What is a title A?
 
