@@ -21,6 +21,11 @@
   margin-left: auto;
 }
 
+.article_license {
+  font-style: italic;
+  font-size: 80%;
+}
+
 .article_meta {
   margin-bottom: 20px;
 }

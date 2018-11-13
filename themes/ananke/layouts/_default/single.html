@@ -41,7 +41,12 @@
         {{ template "_internal/disqus.html" . }}
       </div>
       <div class="article_license">
-        {{ .Params.license }}
+        {{ if .Params.license }}
+        This article is under a <a href="{{ .Params.license.url }}">{{ .Params.license.name }}</a> license.
+        {{ else }}
+        This article is under a <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">
+          Creative Commons Attribution-SharaAlike 3.0</a> license.
+        {{ end }}
       </div>
     </main>
 
