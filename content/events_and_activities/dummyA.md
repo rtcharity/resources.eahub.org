@@ -6,7 +6,7 @@ author: John DoeAskill
 ---
 # What is a title A?
 
-If no description is set, this shows the first two sentences of the article. Checking something.
+If no description is set, this shows the first two sentences of the article. Checking something again.
 
 # What are the goals of a reading group?
 
