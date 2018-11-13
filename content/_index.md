@@ -3,32 +3,32 @@ title: Resource Trail
 description: 'Guides, resources and articles for EA Groups'
 featured_image: /img/ParallaxFaces19.png
 actionLinks:
-  - name: Find or offer volunteering opportunities
-    url: 'http://www.eawork.club/'
+  - name: Get a free website for your group
+    url: 'https://github.com/rtcharity/lean-site-template'
   - name: Subscribe to the EA Groups Newsletter
     url: 'http://eepurl.com/cZz32T'
+  - name: Submit items for the EA Group newsletter
+    url: >-
+      https://goo.gl/CUc5Wg?fbclid=IwAR2iFknaodBLLTlYv1J-a8INNtAQaW5LuuOdUlYG3DrEUGLZWf71Yu5sPWc
   - name: Update information about your group
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSeoCCtf21WwKtDVKHdmIDFyPZb9BjnWOg-BCjLiY0hMiwVJmw/viewform?usp=sf_link
-  - name: Group email configuration guide
-    url: >-
-      https://docs.google.com/document/d/1_D0RMEwTJKuS7oLczZA4K6JfDA-m2BIyExl2cKoyhAE/edit
   - name: Join the EA Groups Slack team
     url: >-
       https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I
   - name: Join the EA Organisers' Facebook group
     url: 'https://www.facebook.com/groups/956362287803174/'
-  - name: Get a free website for your group
-    url: 'https://github.com/rtcharity/lean-site-template'
-  - name: Submit items for the EA Group newsletter
-    url: >-
-      https://goo.gl/CUc5Wg?fbclid=IwAR2iFknaodBLLTlYv1J-a8INNtAQaW5LuuOdUlYG3DrEUGLZWf71Yu5sPWc
-  - name: Sign the EA Group Cooperation Agreement
-    url: 'https://goo.gl/forms/eoagK6ude2T0MXI13'
   - name: Book a call with the LEAN team
     url: 'https://calendly.com/localeanetwork'
   - name: Contact LEAN
     url: 'mailto:lean@eahub.org'
+  - name: Sign the EA Group Cooperation Agreement
+    url: 'https://goo.gl/forms/eoagK6ude2T0MXI13'
+  - name: Group email configuration guide
+    url: >-
+      https://docs.google.com/document/d/1_D0RMEwTJKuS7oLczZA4K6JfDA-m2BIyExl2cKoyhAE/edit
+  - name: Find or offer volunteering opportunities
+    url: 'http://www.eawork.club/'
 calendar:
   imageLink: /img/hubcalendar.png
   title: EA Calendar
