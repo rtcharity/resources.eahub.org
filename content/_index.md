@@ -25,6 +25,10 @@ actionLinks:
       https://goo.gl/CUc5Wg?fbclid=IwAR2iFknaodBLLTlYv1J-a8INNtAQaW5LuuOdUlYG3DrEUGLZWf71Yu5sPWc
   - name: Sign the EA Group Cooperation Agreement
     url: 'https://goo.gl/forms/eoagK6ude2T0MXI13'
+  - name: Book a call with the LEAN team
+    url: 'https://calendly.com/localeanetwork'
+  - name: Contact LEAN
+    url: 'mailto:lean@eahub.org'
 calendar:
   imageLink: /img/hubcalendar.png
   title: EA Calendar
