@@ -1,8 +1,14 @@
 <footer class="bg-near-black footer bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-    &copy; {{ now.Format "2006" }} {{ .Site.Title }}
-  </a>
-    <div>{{ partial "social-follow.html" . }}</div>
-  </div>
+    <a class="footer_copyright f4 hover-white no-underline white-70 " href="{{ .Site.BaseURL }}" >
+      &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+    </a>
+    <div class="footer_license white-70">
+      <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0">
+        <img alt="Creative Commons Licence" style="border-width:0" src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" />
+      </a>
+      <div class="text">
+        This work is licensed under a
+        <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0">Creative Commons Attribution-ShareAlike 3.0 License</a>.
+      </div>
+    </div>
 </footer>

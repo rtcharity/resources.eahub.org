@@ -60,6 +60,21 @@
 
 .footer {
   background-color: #512B52;
+  display: block;
+  text-align: center;
+}
+
+.footer_license {
+  margin-top: 15px;
+}
+
+.footer_license a {
+  color: hsla(0,0%,100%,.7);
+  text-decoration: none;
+}
+
+.footer_license a:hover {
+  opacity: 0.5;
 }
 
 .header {
