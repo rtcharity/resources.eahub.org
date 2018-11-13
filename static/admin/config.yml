@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "License"
         name: "license"
         widget: "list"
-        required: true
+        required: false
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
