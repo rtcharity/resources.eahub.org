@@ -53,3 +53,7 @@ If you already have a grants account and are interested in passing on the manage
 If you don’t have an account but would like to set one up, your charity needs to be registered and based in one of the [eligible countries](https://support.google.com/grants/answer/46027?hl=en-GB) for a grants account.
 
 For further info, [Google have detailed instructions](https://support.google.com/grants/topic/3500127?hl=en-GB&ref_topic=3500091,3500123,3540513,). Also feel free to [contact me](https://forum.effectivealtruism.org/inbox?select=XZgPAtLPCrXMw6cRu) if you need further help.
+
+---
+
+This article was [originally posted on the Effective Altruism Forum](https://forum.effectivealtruism.org/posts/Ys97mD6QGsHXxogTR/would-any-ea-chapters-like-help-running-an-adwords-grants).
