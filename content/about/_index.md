@@ -1,6 +1,5 @@
 ---
-title: "About"
-featured_image: '/img/ParallaxFaces19.png'
+Title: "About"
 weight: 10
 carousel: false
 ---

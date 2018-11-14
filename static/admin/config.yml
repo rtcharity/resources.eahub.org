@@ -20,6 +20,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -47,7 +48,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -75,6 +76,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -102,6 +104,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -129,6 +132,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -156,6 +160,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - label: "License"
         name: "license"
         widget: "list"

@@ -40,10 +40,14 @@
       <div class="mt6">
         {{ template "_internal/disqus.html" . }}
       </div>
+      {{ if .Params.originalPublicationURL }}
+      <div class="article_original">
+        This article was originally published <a href="{{ .Params.originalPublicationURL }}">here</a>.
+      </div>
+      {{ end }}
       <div class="article_license">
           This article is under a <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">
             Creative Commons Attribution-ShareAlike 3.0</a> license.
-        
       </div>
     </main>
 

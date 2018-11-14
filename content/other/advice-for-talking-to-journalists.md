@@ -7,6 +7,7 @@ description: >-
 illustration: /img/snowden_tissot.jpg
 tag: popular
 author: Julia Wise
+originalPublicationURL: "https://www.centreforeffectivealtruism.org/team/julia-wise/"
 relatedArticles:
   - title: Dummy title B
     url: 'https://elated-khorana-9gb345.netlify.com/events_and_activities/dummyb/'

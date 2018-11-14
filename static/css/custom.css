@@ -21,6 +21,12 @@
   margin-left: auto;
 }
 
+.article_original {
+  font-style: italic;
+  font-size: 80%;
+  margin-bottom: 10px;
+}
+
 .article_license {
   font-style: italic;
   font-size: 80%;
