@@ -6,8 +6,7 @@ author: Various authors
 license:
   - name: Creative Commons Attribution-SharaAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
-relatedArticles:
-  - {}
+relatedArticles: []
 ---
 See also [agenda](https://docs.google.com/document/d/1xcQ4pJ7CJmXKvv3XZMcPDpbx8de-UMvkHRaphzhlw80/edit#), [reading list](https://docs.google.com/document/d/1rKbxgX4V_FBMKQLOeHLeKTK1wAhrQz8eC5dDcyTfMjA/edit), [participation guide](https://docs.google.com/document/d/13Y3Fkjup3d559Br_9WZEsr4Gl8Y4dw5Rzpsim_bvnP0/edit)
 
