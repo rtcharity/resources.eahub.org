@@ -7,7 +7,7 @@ description: >-
   general as a fundraising initiative.
 author: James Aung
 license:
-  - name: Creative Commons Attribution-SharaAlike 3.0
+  - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}

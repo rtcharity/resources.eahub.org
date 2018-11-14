@@ -8,7 +8,7 @@ description: >-
   reasoning to figure out how to do so as effectively as possible’.
 author: Centre for Effective Altruism
 license:
-  - name: Creative Commons Attribution-SharaAlike 3.0
+  - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}

@@ -3,6 +3,9 @@ title: E-mail introducing EA ideas
 date: 2018-11-13T14:53:35.207Z
 description: A template.
 author: Richenda Herzig
+license:
+  - name: Creative Commons Attribution-ShareAlike 3.0
+    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}
 ---
@@ -39,7 +42,7 @@ If you have any questions, please feel free to ask me! There are also many usefu
 
 * [A very well written essay introducing effective altruism](http://www.effective-altruism.com/ea/5e/efficient_charity_do_unto_others/)
 * [The most famous video introducing effective altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)
-* [The Wikipedia page for effective altruism](https://en.wikipedia.org/wiki/Effective_altruism) 
+* [The Wikipedia page for effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)
 * [A book length collection of great posts about effective altruism that goes into more depth on the different areas of effective altruism](https://www.effectivealtruism.org/handbook/). You don't have to read all of it in order to learn from it.
 
 If you’d like to become more involved, do let us know.

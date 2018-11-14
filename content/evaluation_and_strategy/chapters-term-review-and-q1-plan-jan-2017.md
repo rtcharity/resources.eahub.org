@@ -4,7 +4,7 @@ date: 2018-11-14T02:22:50.647Z
 description: Overview of the state of EA chapters
 author: Centre for Effective Altruism
 license:
-  - name: Creative Commons Attribution-SharaAlike 3.0
+  - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}

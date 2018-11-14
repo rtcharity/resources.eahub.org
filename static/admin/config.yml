@@ -25,7 +25,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         required: false
         fields:
-        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
       - label: "Related Articles"
         name: "relatedArticles"
@@ -53,7 +53,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         required: false
         fields:
-        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
       - label: "Related Articles"
         name: "relatedArticles"
@@ -80,7 +80,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         required: false
         fields:
-        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
       - label: "Related Articles"
         name: "relatedArticles"
@@ -107,7 +107,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         required: false
         fields:
-        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
       - label: "Related Articles"
         name: "relatedArticles"
@@ -134,7 +134,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         required: false
         fields:
-        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
       - label: "Related Articles"
         name: "relatedArticles"
@@ -161,7 +161,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         required: false
         fields:
-        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-SharaAlike 3.0"}
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
       - label: "Related Articles"
         name: "relatedArticles"

@@ -4,6 +4,9 @@ date: 2018-11-13T14:35:16.633Z
 description: A compendium of ways to pitch parts of EA.
 tag: popular
 author: EA London
+license:
+  - name: Creative Commons Attribution-ShareAlike 3.0
+    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}
 ---
@@ -87,7 +90,7 @@ Source
 
 **Effectivealtruism.org**
 
-If you are reading this, you are in an extraordinary position. 
+If you are reading this, you are in an extraordinary position.
 
 It has never been more possible for you to have a meaningful, positive impact on a massive scale. With the rise of evidence-driven interventions, we each have an unprecedented opportunity to save lives and prevent unnecessary suffering.
 
@@ -172,7 +175,7 @@ Source
 
 **Head & Heart - Peter Singer**
 
-...More and more people are \[joining Effective Altruism]. It's important because it combines both the heart and the head. The heart, of course, you felt. You felt the empathy for that child. But it's really important to use the head as well to make sure that what you do is effective and well-directed, and not only that, but also I think reason helps us to understand that other people, wherever they are, are like us, that they can suffer as we can, that parents grieve for the deaths of their children, as we do, and that just as our lives and our well-being matter to us, it matters just as much to all of these people. 
+...More and more people are \[joining Effective Altruism]. It's important because it combines both the heart and the head. The heart, of course, you felt. You felt the empathy for that child. But it's really important to use the head as well to make sure that what you do is effective and well-directed, and not only that, but also I think reason helps us to understand that other people, wherever they are, are like us, that they can suffer as we can, that parents grieve for the deaths of their children, as we do, and that just as our lives and our well-being matter to us, it matters just as much to all of these people.
 
 Source
 
@@ -210,7 +213,7 @@ So this could be research on how effective different charities are or what the b
 
 ~ Get 'yes' answer
 
-Great in which case lets get you signed up on our email list  . . . 
+Great in which case lets get you signed up on our email list  . . .
 
 ~ Offer /point to laptop
 
@@ -276,7 +279,7 @@ ME: Based on the way you’ve described yourself, it sounds like you’re a good
 
 PERSON: What’s that?
 
-ME: It’s a global group of entrepreneurs, programmers, scientists, CEOs, designers, economists, and other folks \[include their profession in the list] who, like you, \[care about X, where X is their EA-related identity piece/motivation]. 
+ME: It’s a global group of entrepreneurs, programmers, scientists, CEOs, designers, economists, and other folks \[include their profession in the list] who, like you, \[care about X, where X is their EA-related identity piece/motivation].
 
 Riff off of EA origin stories
 
@@ -290,15 +293,15 @@ This list compiled by Tom Ash might be helpful.
 
 The Idea
 
-It starts out with a friend or someone asking you to do something inconvenient, but which they can't make you do. In traditional economics, some might suggest you offer to do the task for a price, but as we know this can appear selfish and be erosive of friendships. So instead you offer to do the task if the person donates a certain amount to an effective charity (you can get them to donate via smartphone). This can't appear selfish, and immediately brings them to ask questions about the charity and why you are doing this. 
+It starts out with a friend or someone asking you to do something inconvenient, but which they can't make you do. In traditional economics, some might suggest you offer to do the task for a price, but as we know this can appear selfish and be erosive of friendships. So instead you offer to do the task if the person donates a certain amount to an effective charity (you can get them to donate via smartphone). This can't appear selfish, and immediately brings them to ask questions about the charity and why you are doing this.
 
 Benefits
 
 If the inconvenience happens to be that they want you to drive them somewhere: you now have a captive audience and can discuss what makes the charity effective and other things about effective altruism.
 
-Unlike most other techniques, this technique makes sure a small amount is donated, and without any feelings of loss aversion. You feel like the other person is donating when basically the situation is equivalent to them paying you to do something, and then you donating your payment. 
+Unlike most other techniques, this technique makes sure a small amount is donated, and without any feelings of loss aversion. You feel like the other person is donating when basically the situation is equivalent to them paying you to do something, and then you donating your payment.
 
-By getting people to donate, there may be some buy in effect. People see that they gave to something important, and don’t want to rationalize this as a mistake. It may be similar to how the military uses small tasks to condition obedience for orders. It is similar to foot in the door technique. 
+By getting people to donate, there may be some buy in effect. People see that they gave to something important, and don’t want to rationalize this as a mistake. It may be similar to how the military uses small tasks to condition obedience for orders. It is similar to foot in the door technique.
 
 
 
@@ -366,7 +369,7 @@ Source - adapted from source
 
 Analogy
 
-Imagine you hear babies crying in a house that’s on fire. You jump through the window and see that there are two babies in the crib. Luckily, you have precisely the resources available to you to save exactly two babies: you have exactly two arms. I think you would agree that choosing to use both arms to save only one baby would be the wrong choice - it would be a choice to let the other baby burn. 
+Imagine you hear babies crying in a house that’s on fire. You jump through the window and see that there are two babies in the crib. Luckily, you have precisely the resources available to you to save exactly two babies: you have exactly two arms. I think you would agree that choosing to use both arms to save only one baby would be the wrong choice - it would be a choice to let the other baby burn.
 
 Ryan: This seems ‘too obvious’ . . . (?)
 
@@ -444,7 +447,7 @@ Elevator Pitches
 
 EAs practice “global empathy” - the view that every life has equal value.
 
-An explanation of this: http://effective-altruism.com/ea/bz/how_can_you_compare_helping_two_different_people/ 
+An explanation of this: http://effective-altruism.com/ea/bz/how_can_you_compare_helping_two_different_people/
 
 **The Drowning Child - Peter Singer**
 
@@ -456,7 +459,7 @@ Once we are all clear about our obligations to rescue the drowning child in fron
 
 Source
 
-Ryan: It's better to stretch the empathy out, starting with anti-racism, gender equality, then cosmopolitanism, then global empathy. relevant: effective-altruism.com/ea/6w/cosmopolitanism/ 
+Ryan: It's better to stretch the empathy out, starting with anti-racism, gender equality, then cosmopolitanism, then global empathy. relevant: effective-altruism.com/ea/6w/cosmopolitanism/
 
 Ryan: Here its drawbacks: http://lesswrong.com/lw/hr5/some_reservations_about_singers_childinthepond/
 

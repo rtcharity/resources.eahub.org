@@ -8,7 +8,7 @@ description: >-
   should be similar with other webmail clients such as Yahoo or Hotmail.
 author: Local Area Effective Altruism Network
 license:
-  - name: Creative Commons Attribution-SharaAlike 3.0
+  - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}

@@ -7,6 +7,9 @@ description: >
   are both for building up your members and can also be used for advertising a
   single event.
 author: Sam
+license:
+  - name: Creative Commons Attribution-ShareAlike 3.0
+    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}
 ---
@@ -42,7 +45,7 @@ Talk to the people you know: friends, coworkers, family members, etc.  If you’
 
 Ask everyone you know if they would come to a single event to try and find out a bit more about effective altruism. Recommend an event that you think they may be interested in. For example, if  they are thinking about jobs then they may be interested in a discussion of effective careers.
 
-Ask your friends to volunteer. This could be volunteering in a tiny way, directly with you, to help start the chapter. Or it could be volunteering with THINK or other EA organizations in some way 
+Ask your friends to volunteer. This could be volunteering in a tiny way, directly with you, to help start the chapter. Or it could be volunteering with THINK or other EA organizations in some way
 
 
 
@@ -78,7 +81,7 @@ Run an event with another organisation, Choose groups based around a topic like 
 
 Get similar societies to advertise you
 
-If they are supporting a good cause likely they would happily plug THINK to their members. 
+If they are supporting a good cause likely they would happily plug THINK to their members.
 
 Maybe also consider turning up to events for other organisations and talking to people there and see if they would be interested in joining THINK.
 
@@ -90,7 +93,7 @@ Also go talk for other societies. Some societies will be looking for a speaker T
 
 Get a professor to give credit for attending THINK modules
 
-If you can do this expect amazing results!! This will not be possible at every university. 
+If you can do this expect amazing results!! This will not be possible at every university.
 
 Consider offering a course with a certificate yourself, or in partnership with another organisation. For example a course in “practical ethics”.
 
@@ -108,7 +111,7 @@ Take Action:
 
 
 
-E.g. List 3 organizations relevant to THINK on campus 
+E.g. List 3 organizations relevant to THINK on campus
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Way to contact: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\___
 
@@ -192,7 +195,7 @@ Four Professors who would be interested in Effective Altruism
 
 Practice your pitch
 
-See the 2 minute THINK tabeling pitch, tweak it to your audience and conversation style then practice it in front of the mirror. 
+See the 2 minute THINK tabeling pitch, tweak it to your audience and conversation style then practice it in front of the mirror.
 
 
 
@@ -202,7 +205,7 @@ See the 2 minute THINK tabeling pitch, tweak it to your audience and conversatio
 
 Find a famous person (and host an awesome launch event)
 
-Are there any famous academics or other famous people (journalists, politicians, etc) either at your university or in your university town. Also have a look at our list of potential famous speaker here.  Contact them (calling or writing is better than email), explain THINK and ask if they would be willing to talk at a THINK event. 
+Are there any famous academics or other famous people (journalists, politicians, etc) either at your university or in your university town. Also have a look at our list of potential famous speaker here.  Contact them (calling or writing is better than email), explain THINK and ask if they would be willing to talk at a THINK event.
 
 (If they turn you down ask if they would officially endorse THINK / become an official patron of the student group, / provide a supportive quote / etc)
 
@@ -262,11 +265,11 @@ To interested faculty members / to grad students / to relevant departments / to 
 
 Advertise online:
 
-Create a facebook page (see the tips here). Invite all of your friends to join. Ask for shares from other college connected pages. 
+Create a facebook page (see the tips here). Invite all of your friends to join. Ask for shares from other college connected pages.
 
 
 
-Put up flyers: 
+Put up flyers:
 
 In dorms / on dorm billboards, walls and doors / in dorm bathrooms & stalls / in hallways and elevators / in locations designated for flyers / at bus stops or community centers. (Sample flyers can be found here)
 
@@ -354,7 +357,7 @@ Make sure the table looks attractive and professional.
 
 **SAMPLE TABLING RAP**
 
-You need a reasonable idea of things to say to stop and get people’s attention. Trial and error and giving each other feedback will help a lot with developing an effective pitch. Perhaps start with something like 
+You need a reasonable idea of things to say to stop and get people’s attention. Trial and error and giving each other feedback will help a lot with developing an effective pitch. Perhaps start with something like
 
 
 

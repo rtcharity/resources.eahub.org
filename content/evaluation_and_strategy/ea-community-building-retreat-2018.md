@@ -4,7 +4,7 @@ date: 2018-11-14T00:58:58.046Z
 description: Various notes and minutes from the EA Community Building Retreat in 2018.
 author: Various authors
 license:
-  - name: Creative Commons Attribution-SharaAlike 3.0
+  - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
