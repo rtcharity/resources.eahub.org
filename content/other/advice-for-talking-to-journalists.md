@@ -14,9 +14,7 @@ relatedArticles:
     url: >-
       https://elated-khorana-9gb345.netlify.com/events_and_activities/reading-groups/
 ---
-## When journalists come to local groups or events, how can group members and organizers prepare?
-
-- - -
+### When journalists come to local groups or events, how can group members and organizers prepare?
 
 **Risks and benefits**
 
@@ -64,7 +62,6 @@ A few journalists want to make us look strange or unreasonable, but many of them
 >
 > _I grew up after the Cold War, but it’s frightening to look back and see how close the world came to nuclear war many times. I’m really grateful to the people who worked hard to prevent that. I think we have an important responsibility to think about the technologies being developed now and how to use them safely so that our grandchildren look back and feel relieved that things worked out all right._
 
-__
 
 **Afterwards:**
 
