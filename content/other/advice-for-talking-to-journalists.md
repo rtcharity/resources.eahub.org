@@ -15,17 +15,17 @@ relatedArticles:
     url: >-
       https://elated-khorana-9gb345.netlify.com/events_and_activities/reading-groups/
 ---
-## When journalists come to local groups or events, how can group members and organizers prepare?
-
-- - -
+### When journalists come to local groups or events, how can group members and organizers prepare?
 
 **Risks and benefits**
+
+[This](#getting) is an internal link.
 
 Media coverage can provide an opportunity to spread EA ideas to wider audiences. However, given that you are rarely in control of a media story’s angle or the editorial decisions that will contribute to the story’s message, a story can just perpetuate misinformation, or a quote you give may be taken out of context to sensationalize EA. The adage ‘all publicity is good publicity’ is probably not the one to follow.
 
 There is also a problem of being associated with media outlets that are controversial, and of the media outlet’s brand polluting or seeping into the EA brand. This means that it’s often best to avoid media opportunities with a very strong political bent or that deal in controversial topics outside the scope of EA.
 
-**Getting advice:**
+**<a name="getting"></a>Getting advice:**
 
 We’re happy to have journalists contact CEA with questions. Please refer them to info@centreforeffectivealtruism.org.
 
@@ -63,7 +63,6 @@ A few journalists want to make us look strange or unreasonable, but many of them
 >
 > _I grew up after the Cold War, but it’s frightening to look back and see how close the world came to nuclear war many times. I’m really grateful to the people who worked hard to prevent that. I think we have an important responsibility to think about the technologies being developed now and how to use them safely so that our grandchildren look back and feel relieved that things worked out all right._
 
-__
 
 **Afterwards:**
 
