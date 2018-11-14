@@ -1,13 +1,15 @@
 {{ define "main" }}
-    <!-- Navigation -->
+    <!-- Carousel -->
     <section class="flex-ns flex-wrap justify-around mt5 nav_home">
       {{ range .Sections.ByWeight }}
+        {{ if .Params.carousel }}
         <div class="nav_home_containers">
           <a class="nav_home_links" href="{{ .URL }}">
             <img src={{ .Params.link_image }} />
             <div class="nav_home_links_text">{{ .Title }}</div>
           </a>
         </div>
+        {{ end }}
       {{ end }}
     </section>
 
