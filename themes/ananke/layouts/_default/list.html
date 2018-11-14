@@ -1,5 +1,6 @@
 {{ define "main" }}
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">
+    {{ .Content }}
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}
         <div class="relative w-100 w-30-l mb4 bg-white">

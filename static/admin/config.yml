@@ -180,9 +180,11 @@ collections: # A list of collections the CMS should be able to edit
     label: "About" # Used in the UI, ie.: "New Post"
     folder: "content/about" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
-    fields:
+    files:
+    - file: "content/about/_index.md"
     - {label: "Title", name: "title", widget: "string"}
-    - {label: "URL", name: "url", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Image", name: image, widget: image}
 
 
   - name: "pages"
