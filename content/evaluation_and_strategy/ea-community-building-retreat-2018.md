@@ -1318,11 +1318,7 @@ If our main goal (or even just one of our goals) is for members to pursue highly
 
 
 ### Finally, here are two wonderful things to keep in mind
-
-
-    1.       What is the most important thing you could be working on at the moment?
-
-
-    2.       Why are you not doing it?
+1. What is the most important thing you could be working on at the moment?
+2. Why are you not doing it?
 
 (these are [Hamming questions](https://vkrakovna.wordpress.com/2015/05/17/hamming-questions-and-bottlenecks/))
