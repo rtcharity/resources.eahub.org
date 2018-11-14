@@ -1,10 +1,9 @@
 ---
 Title: "About"
-Image: "/img/paperchain2.png"
+Image: "/img/PaperChain2.png"
 weight: 10
 carousel: false
 ---
-
 
 The EA Hub is a platform designed to inspire and facilitate collaboration between Effective Altruists. Whether you want to launch a project, run a group, network with other EAs or explore EA Survey data, the Hub is your port of call.
 
