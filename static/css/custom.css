@@ -7,6 +7,33 @@
   display: block;
 }
 
+.about_emails {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+
+.about_emails_btn {
+  text-decoration: none;
+  color: white;
+  width: 150px;
+  height: 70px;
+  padding: 4px 4px 4px 4px;
+  font-size: 18px;
+}
+
+.about_tech {
+  background-color: #A7DBAB;
+  line-height: 60px;
+}
+
+.about_suggestions {
+  background-color: #635274;
+  line-height: 30px;
+}
+
 .action_links {
   display: block;
   margin-bottom: 10px;
