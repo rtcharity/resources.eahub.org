@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/PaperChain2.png
+image: /img/paperchain3.png
 techSupportEmail:
   email: tech@rtcharity.org
   linkText: Tech Support
