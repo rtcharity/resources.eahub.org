@@ -1,7 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 
 .about_img {
-  width: 100px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .action_links {
@@ -194,6 +197,10 @@ label {
 .nav_home_links {
   text-decoration: none;
   color: #635274;
+}
+
+.nav_home_links_img {
+  max-width: 150px;
 }
 
 .nav_home_links:hover {

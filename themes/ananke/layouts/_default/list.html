@@ -1,9 +1,5 @@
 {{ define "main" }}
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-    {{ if .Content }}
-    <img style="width:200px; height: 200px; margin-left: auto; margin-right: auto" src="{{ .Params.Image }}" />
-    {{ .Content }}
-    {{ end }}
 
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}
