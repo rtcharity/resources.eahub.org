@@ -4,6 +4,12 @@ Image: "/img/PaperChain2.png"
 weight: 10
 carousel: false
 type: "about"
+suggestionsemail:
+- linkText: Suggestions or Requests
+  email: lean@eahub.org
+techSupportEmail:
+- linkText: Tech Support
+  email: tech@rtcharity.org
 ---
 
 The EA Hub is a platform designed to inspire and facilitate collaboration between Effective Altruists. Whether you want to launch a project, run a group, network with other EAs or explore EA Survey data, the Hub is your port of call.
