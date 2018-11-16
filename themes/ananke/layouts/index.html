@@ -18,7 +18,7 @@
 
     <!-- Selection of popular articles -->
     <div class="landing_columns">
-      <div class="landing_item">
+      <div class="landing_item landing_item_popular">
       <h2 class="landing_headings flex-none">Selection of Popular Articles</h2>
       {{ range .Pages }}
         {{ if eq .Params.Tag "popular" }}

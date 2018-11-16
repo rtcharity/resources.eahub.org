@@ -183,9 +183,15 @@ label {
   text-align: left;
   display: inline-block;
   width: 80%;
-  padding-top: 50px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 0px 10px 20px 30px;
+  text-align: left;
+  display: inline-block;
+  width: 80%;
+}
+
+.landing_item_popular {
+  background-color: #D7D7D7;
+  border-radius: 5px;
 }
 
 .landing_headings {
@@ -218,7 +224,7 @@ label {
 }
 
 .nav_home_containers {
-  margin: 10px 10px 20px 10px;
+  margin: 10px 10px 40px 10px;
 }
 
 .nav_home_links {
