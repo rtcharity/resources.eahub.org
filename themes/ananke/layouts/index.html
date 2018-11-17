@@ -41,7 +41,9 @@
       <h2 class="landing_headings flex-none">Actions</h2>
         {{ range .Params.actionLinks }}
           <div class="action_links">
-            <a class="color-inherit dim link" target="_blank" href="{{ .url }}">{{ .name }}</a>
+            <a target="_blank" href="{{ .url }}">
+              <div class="color-inherit">{{ .name }}</div>
+            </a>
           </div>
         {{ end }}
       </div>

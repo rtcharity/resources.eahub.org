@@ -35,8 +35,24 @@
 }
 
 .action_links {
+  background-color: #A7DBAB;
+  border-radius: 10px;
   display: block;
+  line-height: 25px;
+  min-height: 30px;
   margin-bottom: 10px;
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+  width: 70%;
+}
+
+.action_links:hover {
+  opacity: 0.7;
+}
+
+.action_links a {
+  color: black;
+  text-decoration: none;
 }
 
 .article {
@@ -291,6 +307,10 @@ label {
 
 /* mobile responsive */
 @media(max-width: 1000px) {
+
+  .action_links {
+    width: 90%
+  }
 
   .article {
     padding-left: 20px;
