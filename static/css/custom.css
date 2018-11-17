@@ -35,7 +35,7 @@
 }
 
 .action_links {
-  background-color: #A7DBAB;
+  background-color: #635274;
   border-radius: 10px;
   display: block;
   line-height: 25px;
@@ -51,7 +51,7 @@
 }
 
 .action_links a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -287,9 +287,12 @@ label {
 }
 
 .nav_sections {
-  visibility: hidden;
+  background-color: #635274;
+  border-radius: 10px;
+  padding: 3px 10px 3px 3px;
   text-align: right;
   text-shadow: 1px 1px black;
+  visibility: hidden;
 }
 
 .popular_card a {
