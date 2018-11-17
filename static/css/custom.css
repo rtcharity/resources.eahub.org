@@ -120,9 +120,67 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.carousel {
+  margin-top: 5px;
+  padding-top: 10px;
+  background-color: transparent;
+  text-align: center;
+}
+
+.carousel_containers {
+  margin: 10px 10px 40px 10px;
+}
+
+.carousel_links {
+  text-decoration: none;
+  color: #635274;
+}
+
+.carousel_links_img {
+  max-width: 150px;
+}
+
+.carousel_links:hover {
+  opacity: 0.7;
+}
+
+.carousel_links:visited {
+  color: #635274;
+}
+
+.carousel_links_text {
+  margin-top: 10px;
+  text-align: center;
+  display: block;
+}
+
 .drop_down {
   margin-top: -60px;
   text-align: right;
+}
+
+.drop_down_link {
+  color: white;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-bottom: 2px;
+  text-decoration: none;
+  opacity: 0.9;
+  display: block;
+}
+
+.drop_down_link:hover {
+  opacity: 0.4;
+}
+
+.drop_down_links {
+  background-color: #635274;
+  border-radius: 10px;
+  margin-top: -10px;
+  padding: 3px 10px 3px 3px;
+  text-align: right;
+  text-shadow: 1px 1px black;
+  visibility: hidden;
 }
 
 .footer {
@@ -163,12 +221,12 @@
 
 .header_title {
   font-size: 54px;
-  margin-bottom: 40px;
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 
 .header_subtitle {
   font-size: 24px;
-
 }
 
 input[type=checkbox] {
@@ -177,7 +235,7 @@ input[type=checkbox] {
    left: -9999px;
 }
 
-input[type=checkbox]:checked ~ .nav_sections {
+input[type=checkbox]:checked ~ .drop_down_links {
   visibility: visible;
 }
 
@@ -238,63 +296,6 @@ label {
   justify-content: space-between;
 }
 
-.nav_home {
-  margin-top: 5px;
-  padding-top: 10px;
-  background-color: transparent;
-  text-align: center;
-}
-
-.nav_home_containers {
-  margin: 10px 10px 40px 10px;
-}
-
-.nav_home_links {
-  text-decoration: none;
-  color: #635274;
-}
-
-.nav_home_links_img {
-  max-width: 150px;
-}
-
-.nav_home_links:hover {
-  opacity: 0.7;
-}
-
-.nav_home_links:visited {
-  color: #635274;
-}
-
-.nav_home_links_text {
-  margin-top: 10px;
-  text-align: center;
-  display: block;
-}
-
-.nav_links {
-  color: white;
-  font-size: 16px;
-  padding-left: 10px;
-  padding-bottom: 2px;
-  text-decoration: none;
-  opacity: 0.9;
-  display: block;
-}
-
-.nav_links:hover {
-  opacity: 0.4;
-}
-
-.nav_sections {
-  background-color: #635274;
-  border-radius: 10px;
-  padding: 3px 10px 3px 3px;
-  text-align: right;
-  text-shadow: 1px 1px black;
-  visibility: hidden;
-}
-
 .popular_card a {
   text-decoration: none;
   color: black;
@@ -336,13 +337,13 @@ label {
   }
 
   .header_title {
-    margin-top: -20px;
+    margin-top: -15px;
     font-size: 40px;
-    margin-bottom: 10px;
+    margin-bottom: -10px;
   }
 
   .header_text_landing {
-    margin-top: 10px;
+    margin-top: 5px;
     text-align: center;
   }
 
@@ -364,7 +365,7 @@ label {
     display: block;
   }
 
-  .nav_links {
+  .drop_down {
     display: block;
     text-align: right;
     font-size: 14px;

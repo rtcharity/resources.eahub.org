@@ -13,10 +13,10 @@
         <div class="menu_bar"></div>
       </label>
       <input type="checkbox" id="menu_burger">
-      <section class="nav_sections">
+      <section class="drop_down_links">
 
           {{ range .Site.Sections.ByWeight }}
-            <a class="nav_links" href="{{ .URL }}">
+            <a class="drop_down_link" href="{{ .URL }}">
               {{ .Title }}
             </a>
           {{ end }}
