@@ -22,10 +22,14 @@
       <h2 class="landing_headings flex-none">Selection of Popular Articles</h2>
       {{ range .Pages }}
         {{ if eq .Params.Tag "popular" }}
-        <h1 class="f3 fw1 athelas popular_title">
-          <a href="{{.URL}}" class="color-inherit dim link"> {{ .Title }}</a>
-        </h1>
-        <p class="f6 lh-copy mv0">By {{ .Params.Author }}</p>
+        <div class="popular_card">
+        <a href="{{ .URL }}">
+          <h1 class="f3 fw1 athelas popular_title">
+            <div class="dim link"> {{ .Title }}</div>
+          </h1>
+          <p class="f6 lh-copy mv0">By {{ .Params.Author }}</p>
+        </a>
+        </div>
         {{ end }}
       {{ end }}
       </div>
