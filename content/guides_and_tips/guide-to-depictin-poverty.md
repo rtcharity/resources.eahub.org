@@ -1,5 +1,5 @@
 ---
-title: Guide To Depictin Poverty
+title: Guide To Depicting Poverty
 date: 2018-11-14T17:40:53.876Z
 description: >-
   Representing poverty is a complex and controversial matter, and doing it in a
