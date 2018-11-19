@@ -1,9 +1,10 @@
 ---
 title: Dummy title C
 date: 2018-09-04T15:04:10.000Z
-description: This is a description of dummy title C. Descriptions are snappy summaries of the articles.
-image: /img/reading-groups.jpg
-tag: popular
+description: >-
+  This is a description of dummy title C. Descriptions are snappy summaries of
+  the articles.
+tag: ''
 author: John DoeAskill
 ---
 
