@@ -2,6 +2,7 @@
 title: EA Community Building Retreat 2018
 date: 2018-11-14T00:58:58.046Z
 description: Various notes and minutes from the EA Community Building Retreat in 2018.
+tag: popular
 author: Various authors
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
