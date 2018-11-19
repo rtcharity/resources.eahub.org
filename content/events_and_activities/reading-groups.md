@@ -2,7 +2,7 @@
 title: Reading Group Guide
 date: 2018-11-04T15:04:10.000Z
 description: Reading groups can inspire actionable steps
-tag: popular
+tag: ''
 author: Unsung hero
 relatedArticles:
   - title: Dummy title B
