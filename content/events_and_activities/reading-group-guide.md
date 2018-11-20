@@ -2,6 +2,7 @@
 title: Reading Group Guide
 date: 2018-11-14T16:06:13.586Z
 description: RGG
+tag: popular
 author: Risto Uuk
 originalPublicationURL: >-
   https://docs.google.com/document/d/1bYJ7ssdy9SEqdrX7ybtSO0Xnhuz1oFSpYPedjj9VxWw/edit#

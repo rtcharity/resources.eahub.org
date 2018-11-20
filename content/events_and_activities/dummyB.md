@@ -2,8 +2,7 @@
 title: Dummy title B
 date: 2016-01-04T15:04:10.000Z
 description: This is a description of dummy title B
-image: /img/reading-groups.jpg
-tag: popular
+tag: ''
 author: John DoeAskill
 ---
 

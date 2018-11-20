@@ -1,5 +1,5 @@
 ---
-title: '[Sample text] Advice for talking to journalists'
+title: Advice for talking to journalists
 date: 2018-11-08T21:41:41.081Z
 description: >-
   This is a sample description of a sample article. We should use a smaller and
@@ -7,13 +7,10 @@ description: >-
 illustration: /img/snowden_tissot.jpg
 tag: popular
 author: Julia Wise
-originalPublicationURL: "https://www.centreforeffectivealtruism.org/team/julia-wise/"
+originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
 relatedArticles:
   - title: Dummy title B
-    url: 'https://elated-khorana-9gb345.netlify.com/events_and_activities/dummyb/'
   - title: Reading Group Guide
-    url: >-
-      https://elated-khorana-9gb345.netlify.com/events_and_activities/reading-groups/
 ---
 ### When journalists come to local groups or events, how can group members and organizers prepare?
 
