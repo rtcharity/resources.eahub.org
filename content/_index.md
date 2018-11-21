@@ -1,6 +1,6 @@
 ---
-title: Resource Trail
-description: 'Guides, resources and articles for EA Groups'
+title: EA Resource Trail
+description: 'Guides and Templates for EA Group Organisers'
 featured_image: /img/ParallaxFaces19.png
 actionLinks:
   - name: Get a free website for your group
@@ -35,4 +35,3 @@ calendar:
   url: >-
     https://calendar.google.com/calendar/embed?src=9b52kjqi2jhsu3quhcidrcp0gc@group.calendar.google.com&ctz=Europe/London&fbclid=IwAR0HrKbRLtbt_tMP-pFjTnV0qA5VuFRvUeYwEpAH3tIP8G9lJ2w0cFUeRRU&pli=1
 ---
-

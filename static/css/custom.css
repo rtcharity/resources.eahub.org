@@ -330,6 +330,10 @@ label {
     margin-right: 30px;
   }
 
+  .drop_down {
+    width: 240px;
+  }
+
   .drop_down_link {
     font-size: 14px;
   }
@@ -345,11 +349,11 @@ label {
   }
 
   .header_subtitle {
-    font-size: 18px;
+    font-size: 14px;
   }
 
   .header_title {
-    margin-top: -25px;
+    margin-top: -20px;
     font-size: 40px;
     margin-bottom: -10px;
   }
