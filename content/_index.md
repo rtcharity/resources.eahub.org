@@ -1,6 +1,6 @@
 ---
 title: EA Resource Trail
-description: 'Guides and Templates for EA Group Organisers'
+description: 'Curated Guides and Templates for EA Groups'
 featured_image: /img/ParallaxFaces19.png
 actionLinks:
   - name: Get a free website for your group

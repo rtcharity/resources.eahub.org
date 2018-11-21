@@ -353,9 +353,10 @@ label {
   }
 
   .header_title {
-    margin-top: -20px;
     font-size: 40px;
     margin-bottom: -10px;
+    margin-top: -20px;
+    padding-left: 10px;
   }
 
   .header_text_landing {
