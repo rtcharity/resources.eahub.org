@@ -353,14 +353,14 @@ label {
   }
 
   .header_title {
-    font-size: 40px;
+    font-size: 36px;
     margin-bottom: -10px;
     margin-top: -20px;
-    padding-left: 10px;
   }
 
   .header_text_landing {
     margin-top: 5px;
+    padding-left: 5px;
     text-align: center;
   }
 
