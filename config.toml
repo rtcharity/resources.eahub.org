@@ -8,6 +8,6 @@ SectionPagesMenu = "main"
 summarylength = 6
 
 [params]
-featured_image = "/img/LandingBanner-lower.png"
+featured_image = "/img/LandingBanner-lower2.png"
 logo = "/img/logo_transparent.png"
 custom_css = ["css/custom.css"]

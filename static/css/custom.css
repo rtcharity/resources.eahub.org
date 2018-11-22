@@ -205,10 +205,11 @@
 .header {
   height: 400px;
   background-size: cover;
-  margin-top: -10px;
-  margin-left: -10px;
-  background-position: center;
+  background-position: center bottom;
   background-repeat: repeat;
+  display: block;
+  margin-top: auto;
+  margin-left: -10px;
   text-align: center;
 }
 
@@ -348,9 +349,6 @@ label {
   }
 
   .header {
-    background-size: cover;
-    background-position: center;
-    background-repeat: repeat;
     margin-top: -10px;
     margin-left: -10px;
     text-align: center;
