@@ -1,5 +1,5 @@
 <ul class="pa0">
-  {{ if .Params.relatedArticles }}
+  {{ if isset .Params "relatedArticles" }}
   <h2 class="article_related_heading">Related Articles</h2>
   {{ range .Params.relatedArticles }}
    <li class="list article_related_list">
