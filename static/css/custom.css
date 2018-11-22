@@ -77,14 +77,11 @@
 }
 
 .article_keyquote {
-  background-color: #635274;
+  background-color: #A7DBAB; /* EAHub green */
   padding: 10px;
-  color: #F5F5F5;
+  color: black;
   font-size: 24px;
-  margin-left: 70px;
-  margin-right: 70px;
   text-align: center;
-  border-radius: 5px;
 }
 
 .article_license {
@@ -326,8 +323,6 @@ label {
 
   .article_keyquote {
     font-size: 18px;
-    margin-left: 30px;
-    margin-right: 30px;
   }
 
   .drop_down {
