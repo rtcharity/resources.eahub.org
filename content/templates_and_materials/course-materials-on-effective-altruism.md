@@ -6,20 +6,6 @@ author: Julia Wise
 relatedArticles:
   - {}
 ---
-|Name|Links|Notes|
-|---|---|---|
-|**The Psychology of Effective Altruism**<br />University of New Mexico|[Syllabus](https://www.primalpoly.com/s/syllabus-draft-jan24d.docx)|Spring 2018, Geoffrey Miller
-
-
-
-**“Training Changemakers” program**
-
-Spring 2018, [Philanthropy Advisory Fellowship](http://www.harvardea.org/blog/changemakers) at Harvard University
-
-[Program plan](https://static1.squarespace.com/static/55f47404e4b06b1754d1df07/t/5ade657e0e2e723a8dab77b8/1524524415364/Schmidt+Futures+EA+Final+Report.pdf)
-
-
-
 **“The Psychology of Effective Altruism” at University of New Mexico**
 
 Spring 2018, Geoffrey Miller
