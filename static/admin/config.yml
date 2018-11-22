@@ -120,9 +120,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
 
-  - name: "templates_and_materials" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Templates and Materials" # Used in the UI, ie.: "New Post"
-    folder: "content/templates_and_materials" # The path to the folder where the documents are stored
+  - name: "materials_and_templates" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Materials and Templates" # Used in the UI, ie.: "New Post"
+    folder: "content/materials_and_templates" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}

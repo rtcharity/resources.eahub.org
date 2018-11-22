@@ -207,7 +207,7 @@
   background-size: cover;
   margin-top: -10px;
   margin-left: -10px;
-  background-position: 50% 130px;
+  background-position: center;
   background-repeat: repeat;
   text-align: center;
 }
@@ -349,7 +349,7 @@ label {
 
   .header {
     background-size: cover;
-    background-position: 50% 160px;
+    background-position: center;
     background-repeat: repeat;
     margin-top: -10px;
     margin-left: -10px;
@@ -374,6 +374,8 @@ label {
     font-size: 36px;
     margin-bottom: -10px;
     margin-top: -20px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .header_text_landing {
