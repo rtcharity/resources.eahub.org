@@ -1,8 +1,18 @@
 {{/* Article page */}}
 
 {{ define "header" }}
-
-  {{ partial "page-header.html" . }}
+<header class="header header_page">
+  <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="header_shadow">
+    {{ partial "site-navigation.html" .}}
+    <div class="block">
+      <h1 class="fw2 header_page_title white-80">
+        {{with .CurrentSection.Title }}{{. }}{{end}}
+      </h1>
+    </div>
+  </div>
+  </nav>
+</header>
 {{ end }}
 
 
@@ -17,7 +27,7 @@
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </p>
-      <h1 class="f1 mb1">
+      <h1 class="f1 mb1 article_title">
         {{- .Title -}}
       </h1>
       <div class="article_meta">

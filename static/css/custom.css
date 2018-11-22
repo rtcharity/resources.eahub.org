@@ -107,6 +107,10 @@
   display: inline-block;
 }
 
+.article_title {
+  color: #512B52; /* EAHub purple */
+}
+
 .bg-black-box {
   background-color: black;
   display: inline-block;
@@ -206,6 +210,16 @@
   background-position: 50% 130px;
   background-repeat: repeat;
   text-align: center;
+}
+
+.header_page {
+  background-color: #7BB0A8; /* EAHub Banner green */
+  height: 240px;
+}
+
+.header_page_title {
+  margin-top: -100px;
+  font-size: 54px;
 }
 
 .header_text_landing {
@@ -341,6 +355,15 @@ label {
     margin-left: -10px;
     text-align: center;
     height: 440px;
+  }
+
+  .header_page {
+    height: 340px;
+  }
+
+  .header_page_title {
+    font-size: 36px;
+    margin-top: 0px;
   }
 
   .header_subtitle {
