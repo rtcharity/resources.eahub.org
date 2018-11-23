@@ -1,8 +1,10 @@
 ---
 title: Chapters Term Review and Q1 Plan (Jan 2017)
 date: 2018-11-14T02:22:50.647Z
-description: Overview of the state of EA chapters
-author: Centre for Effective Altruism
+description: A general overview of the EA chapters from 2017.
+author: CEA
+originalPublicationURL: >-
+  https://docs.google.com/document/d/1tTHOnTfUKfMNLk9y0rBvj0Wq8W9irzjBMF7hWbziIJo/edit?usp=sharing
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
