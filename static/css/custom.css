@@ -204,8 +204,8 @@
 
 .header {
   height: 400px;
-  background-size: cover;
-  background-position: center bottom;
+  background-size: 100% 100%;
+  background-position: bottom;
   background-repeat: repeat;
   display: block;
   margin-top: auto;
