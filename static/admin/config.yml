@@ -165,6 +165,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "URL", name: "url", widget: "string"}
+            - {label: "contact", name: "contact", widget: "boolean", required: false}
           - label: "Calendar"
             name: "calendar"
             widget: "object"
