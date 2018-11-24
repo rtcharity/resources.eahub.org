@@ -1,9 +1,15 @@
 ---
-title: Reading Group Guide
+title: Reading Group Guide for EA Groups
 date: 2018-11-04T15:04:10.000Z
-description: Reading groups can inspire actionable steps
-tag: ''
-author: Unsung hero
+description: >-
+  I'm Risto Uuk and I run EA Estonia. We started organizing reading groups last
+  semester. We tried to find relevant guides for that, but weren't able to find
+  anything comprehensive in the EA community. Because of the need, we started to
+  create a guide ourselves. 
+tag: popular
+author: Risto Uuk
+originalPublicationURL: >-
+  https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups
 relatedArticles:
   - title: Dummy title B
     url: 'https://elated-khorana-9gb345.netlify.com/events_and_activities/dummyb/'
