@@ -40,11 +40,17 @@
       <div class="landing_item">
       <h2 class="landing_headings flex-none">Actions</h2>
         {{ range .Params.actionLinks }}
-          <div class="action_links">
-            <a target="_blank" href="{{ .url }}">
-              <div class="color-inherit">{{ .name }}</div>
-            </a>
-          </div>
+        {{ if .contact }}
+        <div class="action_links_contact">
+        {{ else }}
+        <div class="action_links_no_contact">
+        {{ end }}
+        <div class="action_links">
+          <a target="_blank" href="{{ .url }}">
+            <div class="color-inherit">{{ .name }}</div>
+          </a>
+        </div>
+        </div>
         {{ end }}
       </div>
 

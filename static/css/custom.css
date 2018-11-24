@@ -35,7 +35,6 @@
 }
 
 .action_links {
-  background-color: #635274;
   border-radius: 10px;
   display: block;
   line-height: 25px;
@@ -43,6 +42,15 @@
   margin-bottom: 10px;
   padding: 10px 10px 10px 10px;
   text-align: left;
+}
+
+.action_links_contact {
+  background-color: #7BB0A8; /* EAHub Banner green */
+  width: 70%;
+}
+
+.action_links_no_contact {
+  background-color: #635274;
   width: 70%;
 }
 
