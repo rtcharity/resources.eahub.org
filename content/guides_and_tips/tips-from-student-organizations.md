@@ -29,7 +29,7 @@ We ran three events in the year, one of which was a lecture from Peter Singer, w
 
 We have found most attendees to be Philosophy students. I am a philosophy student myself so it may be that we've simply had greater access to advertising to that group, but I think it also has something to do with the content. If you were thinking of running a lecture event, then philosophy students are great to advertise to.
 
-Next year we're planning on doing a 'Giving Game', which is on this website.
+Next year we're planning on doing a 'Giving Game', which is on [this website](http://www.apaththatsclear.com/).
 
 <a name="stutips-stanford"></a>
 
@@ -59,11 +59,11 @@ I’m not sure how to fix this in general; suggestions include:
 
 * Lower expectations of initial turnout/clarify that chapter leaders will likely need to wait around 1-2 years until the group is large and self-sustaining-ish
 * Focus more on initial recruitment, to make it more likely that the group gets big and sustainable quickly
-* Not sure if this will work; I feel like our history, the norms we’ve established through trial and error, and our community are important above and beyond the number of individual members. One possibility is to hope that there is shared community at the start, via either LW or people who are already EA’s in an area
+* Not sure if this will work; I feel like our history, the norms we’ve established through trial and error, and our community are important above and beyond the number of individual members. One possibility is to hope that there is shared community at the start, via either LW or people who are already EA’s in an area.
 
-\### Establish A Regular Meeting That Draws People
+### Establish A Regular Meeting That Draws People
 
-We described ours here; all materials are here
+We described ours [here](https://forum.effectivealtruism.org/posts/3S3WsFJDtq529Yneu/how-we-run-discussions-at-stanford-ea); all materials are [here](https://drive.google.com/drive/folders/0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00?usp=drive_open)
 
 Other models: Harvard brings in speakers, Berkeley teaches a class
 
