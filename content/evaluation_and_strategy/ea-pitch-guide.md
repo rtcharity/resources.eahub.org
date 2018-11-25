@@ -39,290 +39,204 @@ Table of Contents
   * [Source](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/)
 
 * The Three Part Pitch - CEA
+  * Effective altruism is a growing social movement founded on the desire to make the world as good a place as it can be, the use of evidence and reason to find out how to do so, and the audacity to actually try.
+  * [Source](https://centreforeffectivealtruism.org/)
 
-Effective altruism is a growing social movement founded on the desire to make the world as good a place as it can be, the use of evidence and reason to find out how to do so, and the audacity to actually try.
+* Wikipedia
 
-Source
+  * Effective altruism is a philosophy and social movement which applies evidence and reason to determining the most effective ways to improve the world. Effective altruists consider all causes and actions, and then act in the way that brings about the greatest positive impact.
+  * [Source](http://en.wikipedia.org/wiki/Effective_altruism)
 
+* Effectivealtruism.org
 
+  * If you are reading this, you are in an extraordinary position.
+  * It has never been more possible for you to have a meaningful, positive impact on a massive scale. With the rise of evidence-driven interventions, we each have an unprecedented opportunity to save lives and prevent unnecessary suffering.
+  * Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reason. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
+  * [Source](http://www.effectivealtruism.org/about-ea/)
 
-**Wikipedia**
+* Two Part Pitch + EA virtues
 
-Effective altruism is a philosophy and social movement which applies evidence and reason to determining the most effective ways to improve the world. Effective altruists consider all causes and actions, and then act in the way that brings about the greatest positive impact.
+  * Effective altruism has two parts:
+    * Figure out how to do the most good
+    * Do it
+  * Effective altruists try to embody three virtues
+    * Excitement about doing the most good
+    * Scientific mindset
+    * Action orientation
+  * [Source](http://www.youtube.com/watch?v=C-ngjEFkhOM&t=19m28s)
 
-Source
+#### “High-status community” Pitches
 
+* Global Community of Impressive People (EffectiveAltruism.org copy) - Tyler Alterman
 
+  * The Effective Altruist Network is a global community of entrepreneurs, programmers, scientists, CEOs, students, designers, billionaires, economists, politicians, philosophers, and more, united in support of the most high-impact causes.
+  * [Source](http://www.effectivealtruism.org/)
 
-**Effectivealtruism.org**
+* The Name Drop (for conversations)
 
-If you are reading this, you are in an extraordinary position.
+  * It’s a movement championed by people like the philosopher Peter Singer, the founders of Skype and PayPal….
 
-It has never been more possible for you to have a meaningful, positive impact on a massive scale. With the rise of evidence-driven interventions, we each have an unprecedented opportunity to save lives and prevent unnecessary suffering.
+#### Pitches Aimed at Self-Efficacy and/or Self-Actualization
 
-Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reason. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
+* Easier than You Thought - Ben Kuhn
+  * It turns out it’s actually very easy to do things that have a huge positive impact, if you think critically about finding them
+  * [Source](http://www.benkuhn.net/about/)
+* Share your luck with others - Aaron Gertler
+  * I feel very lucky/privileged to live in the developed world, to have been educated, to be literate, to have access to good food and medical care, etc.
+  A lot of people aren’t as lucky, and it doesn’t seem fair that I should get to live in luxury, relative to almost everyone else, because I happened to be born lucky. Even to the extent that I’ve worked hard and used my natural talents, I was lucky to have been born in a society that rewards hard work and talent. I want to share my good luck with people who aren’t as fortunate, and EA helps me do that.
+  * [Source](http://aarongertler.net/donations) (there are probably better sources for the “lucky birth” argument)
 
-Source
+* Doing good is a major part of living a fully satisfying life - Will MacAskill / Roman Duda / Ben Todd**
 
+  * Elements:
+    * Emphasis on doing good as an approach goal, rather than an avoidance goal (e.g. to avoid guilt, to avoid breaking moral obligations)
+    * Emphasis doing good because of wanting to improve the lives of others, without needing to use moral / ethical terms
+    * Emphasis on being a do-gooder as one of the things that people who are really self-actualised do, as it’s a core human need, and how fulfilling and worthwhile this is (e.g. Will’s ‘altruism may be the only thing you never regret’). Not focusing on altruism in your life is a sign that you’re missing out on the opportunity to reach the dizzying heights of a truly worthwhile and well rounded life
 
+#### “Reason + Altruism” Pitches
 
-**Two Part Pitch + EA virtues**
+* “Combining empathy with evidence” - CEA
+  * [Source](https://centreforeffectivealtruism.org/)
 
-Effective altruism has two parts:
+* Head & Heart - Peter Singer
+  * ...More and more people are \[joining Effective Altruism]. It's important because it combines both the heart and the head. The heart, of course, you felt. You felt the empathy for that child. But it's really important to use the head as well to make sure that what you do is effective and well-directed, and not only that, but also I think reason helps us to understand that other people, wherever they are, are like us, that they can suffer as we can, that parents grieve for the deaths of their children, as we do, and that just as our lives and our well-being matter to us, it matters just as much to all of these people.
+  * [Source](http://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism)
+  * Alternate phrasing: when you really care about someone, and when that person needs help, you don’t just want any random kind of help for them. You want the best possible help. Effective Altruism is about showing that we really care by using research and evidence to give people the best possible help.
+  * [Source](http://www.givinggladly.com/2011/12/cold-research.html)
 
-* Figure out how to do the most good
-* Do it
+* Effective Altruism as an opportunity
 
-Effective altruists try to embody three virtues
+  * Because of the current state of the world (global inequality, 2bn in absolute poverty, ability to easily move money/resources, technology that allows us to research the effectiveness of interventions) we in the developed world have a uniquely huge opportunity to do good to save lives and to prevent suffering. Almost no human who has existed in the generations prior to us will have had so much power to help others. And it is plausible that no generation following will be able to achieve so much good.
+  * \[description of charity research] . . . We in the developed world have a huge opportunity to do good with our relative wealth. Each of us could save the lives of tens or hundreds of children or prevent the suffering of thousands of people, without even making a significant difference to our own standards of living.
+  * Source: Lines added by Sam Hilton based on ideas in talk by Toby Ord
 
-* Excitement about doing the most good
-* Scientific mindset
-* Action orientation
+#### Effective altruism pitch for student freshers fairs
 
-Source
+* Do you want to make the world a better place? pitch
+  * Do you want to make the world a better place?
+    * Get 'yes' answer
+  * We are Effective Altruism \[Uni Name] and we want to connect students to the most up-to-date research and evidence about how to do good in the world. Make sense so far?
+    * Get 'yes' answer
+  * So this could be research on how effective different charities are or what the best careers to go into in order to make as big an impact as possible. Sounds useful?
+    * Get 'yes' answer
+  * Great in which case lets get you signed up on our email list  . . .
+    * Offer /point to laptop
+  * . . . . you will get details of upcoming events and some of the research we have done so far and you can unsubscribe in like 1 click.
+  * Source: Best pitch came up with after freshers fairs at lots of unis (Sam Hilton)
 
-
-
-**“High-status community” Pitches **
-
-Global Community of Impressive People (EffectiveAltruism.org copy) - Tyler Alterman
-
-The Effective Altruist Network is a global community of entrepreneurs, programmers, scientists, CEOs, students, designers, \[billionaires], economists, politicians, philosophers, and more, united in support of the most high-impact causes.
-
-Source
-
-
-
-**The Name Drop (for conversations)**
-
-It’s a movement championed by people like the philosopher Peter Singer, the founders of Skype and PayPal….
-
-****
-
-**Pitches Aimed at Self-Efficacy and/or Self-Actualization**
-
-Easier than You Thought - Ben Kuhn
-
-It turns out it’s actually very easy to do things that have a huge positive impact, if you think critically about finding them
-
-Source
-
-
-
-**Share your luck with others - Aaron Gertler**
-
-I feel very lucky/privileged to live in the developed world, to have been educated, to be literate, to have access to good food and medical care, etc.
-
-A lot of people aren’t as lucky, and it doesn’t seem fair that I should get to live in luxury, relative to almost everyone else, because I happened to be born lucky. Even to the extent that I’ve worked hard and used my natural talents, I was lucky to have been born in a society that rewards hard work and talent. I want to share my good luck with people who aren’t as fortunate, and EA helps me do that.
-
-Source (there are probably better sources for the “lucky birth” argument)
-
-****
-
-**Doing good is a major part of living a fully satisfying life - Will MacAskill / Roman Duda / Ben Todd**
-
-Elements:
-
-Emphasis on doing good as an approach goal, rather than an avoidance goal (e.g. to avoid guilt, to avoid breaking moral obligations)
-
-Emphasis doing good because of wanting to improve the lives of others, without needing to use moral / ethical terms
-
-Emphasis on being a do-gooder as one of the things that people who are really self-actualised do, as it’s a core human need, and how fulfilling and worthwhile this is (e.g. Will’s ‘altruism may be the only thing you never regret’). Not focusing on altruism in your life is a sign that you’re missing out on the opportunity to reach the dizzying heights of a truly worthwhile and well rounded life
-
-****
-
-**“Reason + Altruism” Pitches**
-
-“Combining empathy with evidence” - CEA
-
-Source
-
-****
-
-**Head & Heart - Peter Singer**
-
-...More and more people are \[joining Effective Altruism]. It's important because it combines both the heart and the head. The heart, of course, you felt. You felt the empathy for that child. But it's really important to use the head as well to make sure that what you do is effective and well-directed, and not only that, but also I think reason helps us to understand that other people, wherever they are, are like us, that they can suffer as we can, that parents grieve for the deaths of their children, as we do, and that just as our lives and our well-being matter to us, it matters just as much to all of these people.
-
-Source
-
-Alternate phrasing: when you really care about someone, and when that person needs help, you don’t just want any random kind of help for them. You want the best possible help. Effective Altruism is about showing that we really care by using research and evidence to give people the best possible help.
-
-Source
-
-
-
-**Effective Altruism as an opportunity**
-
-Because of the current state of the world (global inequality, 2bn in absolute poverty, ability to easily move money/resources, technology that allows us to research the effectiveness of interventions) we in the developed world have a uniquely huge opportunity to do good to save lives and to prevent suffering. Almost no human who has existed in the generations prior to us will have had so much power to help others. And it is plausible that no generation following will be able to achieve so much good.
-
-\[description of charity research] . . . We in the developed world have a huge opportunity to do good with our relative wealth. Each of us could save the lives of tens or hundreds of children or prevent the suffering of thousands of people, without even making a significant difference to our own standards of living.
-
-Source: Lines added by Sam Hilton based on ideas in talk by Toby Ord
-
-
-
-**Effective altruism pitch for student freshers fairs**
-
-****
-
-**Do you want to make the world a better place? pitch**
-
-Do you want to make the world a better place?
-
-~ Get 'yes' answer
-
-We are Effective Altruism \[Uni Name] and we want to connect students to the most up-to-date research and evidence about how to do good in the world. Make sense so far?
-
-~ Get 'yes' answer
-
-So this could be research on how effective different charities are or what the best careers to go into in order to make as big an impact as possible. Sounds useful?
-
-~ Get 'yes' answer
-
-Great in which case lets get you signed up on our email list  . . .
-
-~ Offer /point to laptop
-
-. . . . you will get details of upcoming events and some of the research we have done so far and you can unsubscribe in like 1 click.
-
-Source: Best pitch came up with after freshers fairs at lots of unis (Sam Hilton)
-
-
-
-**Links to Send**
+### Links to Send
 *“Links to Send” are links for pitching EA across various cyberspace platforms*
 
-Effective Altruism – Wikipedia
+* [Effective Altruism](http://en.wikipedia.org/wiki/Effective_altruism) – Wikipedia
 
-'Effective Altruists' Are a New Type of Nice Person – Huw Oliver (Vice article)
+* ['Effective Altruists' Are a New Type of Nice Person](http://vice.com/en_uk/read/why-are-young-people-being-so-altruistic-209) – Huw Oliver (Vice article)
 
-What is the Greatest Good? -- Derek Thompson (Atlantic article)
+* [What is the Greatest Good?](http://www.theatlantic.com/business/archive/2015/06/what-is-the-greatest-good/395768/) -- Derek Thompson (Atlantic article)
 
-Introduction to Effective Altruism – EA Forum (lists lots of other articles)
+* [Introduction to Effective Altruism](http://effective-altruism.com/ea/6x/introduction_to_effective_altruism/) – EA Forum (lists lots of other articles)
 
-What is Effective Altruism? – William MacAskill
+* [What is Effective Altruism?](http://effective-altruism.com/ea/45/what_is_effective_altruism/) – William MacAskill
 
-List of Introductory EA Presentations – Peter Hurford
+* [List of Introductory EA Presentations](http://effective-altruism.com/ea/d1/list_of_introductory_ea_presentations/) – Peter Hurford
 
-The Why and How of Effective Altruism – Peter Singer (TED talk)
+* [The Why and How of Effective Altruism](http://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) – Peter Singer (TED talk)
 
-How to Save Hundreds of Lives – Toby Ord (TEDx talk)
+* [How to Save Hundreds of Lives](https://www.youtube.com/watch?v=ZGAkrpwyu1k) – Toby Ord (TEDx talk)
 
-\[ Four Areas of Effective Altruism – Luke Muehlhauser - not introductory]
+* \[ [Four Areas of Effective Altruism](http://effective-altruism.com/ea/4k/four_focus_areas_of_effective_altruism/) – Luke Muehlhauser - not introductory]
 
+### Misc Tactics
 
+####“You are already a tribe member” (in-person recruiting tactic) - Tyler Alterman**
 
-**Misc Tactics**
+* The Idea
+  * Instead of trying to convince people of EA, convince them that they already are EAs.
+  * This approach incorporates a mix of the findings on “story-editing” and consistency.
 
-****
+* Implementation
 
-**“You are already a tribe member” (in-person recruiting tactic) - Tyler Alterman**
+  * Ask open-ended questions like, “What sorts of things do you think about?” and “What makes you do what you do?” to learn about their motivations and personal narrative.
 
-The Idea
+  * Pay attention for anything that might identify them as EA-aligned.
 
-Instead of trying to convince people of EA, convince them that they already are EAs.
+  * Note to them how they are already EAs/are already EA-aligned.
 
-This approach incorporates a mix of the findings on “story-editing” and consistency.
+* Examples
 
-Implementation
+  * Large audience
 
-Ask open-ended questions like, “What sorts of things do you think about?” and “What makes you do what you do?” to learn about their motivations and personal narrative.
+    * During my TEDx talk, I asked people to raise their hands if they wanted to know the answer to the question, “Using the resources I have, how can I do the most good?” (Virtually everyone raised their hands.)
 
-Pay attention for anything that might identify them as EA-aligned.
+    * Then I informed them that given their interest in the question, they are likely ready to join the movement.
 
-Note to them how they are already EAs/are already EA-aligned.
+    * One-on-one
 
-Examples
+      * ME: Based on the way you’ve described yourself, it sounds like you’re a good candidate for joining the Effective Altruist network.
 
-Large audience
+      * PERSON: What’s that?
 
-During my TEDx talk, I asked people to raise their hands if they wanted to know the answer to the question, “Using the resources I have, how can I do the most good?” (Virtually everyone raised their hands.)
+      * ME: It’s a global group of entrepreneurs, programmers, scientists, CEOs, designers, economists, and other folks \[include their profession in the list] who, like you, \[care about X, where X is their EA-related identity piece/motivation].
 
-Then I informed them that given their interest in the question, they are likely ready to join the movement.
+      * Riff off of EA origin stories
 
-One-on-one
+        * [This list](http://effective-altruism.com/ea/da/a_taxonomy_of_ea_origin_stories/) compiled by Tom Ash might be helpful.
 
-ME: Based on the way you’ve described yourself, it sounds like you’re a good candidate for joining the Effective Altruist network.
+#### Effective Altruism “mugging” (in-person recruiting/donating tactic) - Matthew Gentzel
 
-PERSON: What’s that?
+* The Idea
 
-ME: It’s a global group of entrepreneurs, programmers, scientists, CEOs, designers, economists, and other folks \[include their profession in the list] who, like you, \[care about X, where X is their EA-related identity piece/motivation].
+  * It starts out with a friend or someone asking you to do something inconvenient, but which they can't make you do. In traditional economics, some might suggest you offer to do the task for a price, but as we know this can appear selfish and be erosive of friendships. So instead you offer to do the task if the person donates a certain amount to an effective charity (you can get them to donate via smartphone). This can't appear selfish, and immediately brings them to ask questions about the charity and why you are doing this.
 
-Riff off of EA origin stories
+* Benefits
 
-This list compiled by Tom Ash might be helpful.
+  * If the inconvenience happens to be that they want you to drive them somewhere: you now have a captive audience and can discuss what makes the charity effective and other things about effective altruism.
 
+  * Unlike most other techniques, this technique makes sure a small amount is donated, and without any feelings of loss aversion. You feel like the other person is donating when basically the situation is equivalent to them paying you to do something, and then you donating your payment.
 
+  * By getting people to donate, there may be some buy in effect. People see that they gave to something important, and don’t want to rationalize this as a mistake. It may be similar to how the military uses small tasks to condition obedience for orders. It is similar to [foot in the door technique](http://en.wikipedia.org/wiki/Foot-in-the-door_technique#Charitable_donation).
 
-****
+<a name="pitch-causes"</a>
+## Cause-Neutrality
 
-**Effective Altruism “mugging” (in-person recruiting/donating tactic) - Matthew Gentzel**
+### Elevator Pitches
 
-The Idea
+#### Take a step back
 
-It starts out with a friend or someone asking you to do something inconvenient, but which they can't make you do. In traditional economics, some might suggest you offer to do the task for a price, but as we know this can appear selfish and be erosive of friendships. So instead you offer to do the task if the person donates a certain amount to an effective charity (you can get them to donate via smartphone). This can't appear selfish, and immediately brings them to ask questions about the charity and why you are doing this.
+* What would happen if instead of saying: “my mother died of cancer, so I will support cancer charities”, people said: “my mother died of cancer, so I will support the charities that save the lives of as many mothers as possible”?
+* (This pitch could offend some people)
+* [Source](http://closetomyhead.com/2012/04/15/why-closetomyhead/)
 
-Benefits
+#### Rich countries give to rich countries
 
-If the inconvenience happens to be that they want you to drive them somewhere: you now have a captive audience and can discuss what makes the charity effective and other things about effective altruism.
+* Most of your friends and and families will live in very rich countries too. And of course, it’s people in rich countries who are able to give the most to charity, at least in absolute terms. This means the “cause close to my heart” effect results in lots of support for charities which work in very rich countries. But our money doesn’t go very far in very rich countries. In the developing world people die of diseases that could be prevented or cured for a few pounds or even less.
 
-Unlike most other techniques, this technique makes sure a small amount is donated, and without any feelings of loss aversion. You feel like the other person is donating when basically the situation is equivalent to them paying you to do something, and then you donating your payment.
+* [Source](http://closetomyhead.com/2012/04/15/why-closetomyhead/)
 
-By getting people to donate, there may be some buy in effect. People see that they gave to something important, and don’t want to rationalize this as a mistake. It may be similar to how the military uses small tasks to condition obedience for orders. It is similar to foot in the door technique.
+### Links to Send
 
+* [A framework for strategically selecting a cause](https://80000hours.org/2013/12/a-framework-for-strategically-selecting-a-cause/) - 80,000 Hours
 
+* [Strategic cause selection](http://blog.givewell.org/2012/05/02/strategic-cause-selection/) - Holden Karnofsky
 
-**Cause-Neutrality**
+* [What is Effective Altruism?](http://effective-altruism.com/ea/45/what_is_effective_altruism/) - William MacAskill
 
-Elevator Pitches
+* [What are the biggest problems in the world?](https://80000hours.org/career-guide/framework/cause-selection/) - 80,000 Hours
 
-Take a step back
+* [Yardsticks: How to compare the scale of different social problems?](https://80000hours.org/career-guide/framework/cause-selection/yardsticks/) - 80,000 Hours
 
-What would happen if instead of saying: “my mother died of cancer, so I will support cancer charities”, people said: “my mother died of cancer, so I will support the charities that save the lives of as many mothers as possible”?
+* [Why “a cause close to my head”?](http://closetomyhead.com/2012/04/15/why-closetomyhead/) - Catriona Mackay
 
-Source
 
-(This pitch could offend some people)
+<a name='pitch-cost-effectiveness'></a>
+## Cost-Effectiveness
 
+### Elevator Pitches
 
+#### Price comparison site analogy
+* http://givewell.org is like a price comparison site for charities. It has excellent in-depth analysis of the best charities and causes in the world.
+* [Source](http://effective-altruism.com/ea/cq/top_tips_on_how_to_choose_an_effective_charity/)
 
-**Rich countries give to rich countries**
-
-Most of your friends and and families will live in very rich countries too. And of course, it’s people in rich countries who are able to give the most to charity, at least in absolute terms. This means the “cause close to my heart” effect results in lots of support for charities which work in very rich countries. But our money doesn’t go very far in very rich countries. In the developing world people die of diseases that could be prevented or cured for a few pounds or even less.
-
-Source
-
-
-
-**Links to Send**
-
-A framework for strategically selecting a cause - 80,000 Hours
-
-Strategic cause selection - Holden Karnofsky
-
-What is Effective Altruism? - William MacAskill
-
-What are the biggest problems in the world? - 80,000 Hours
-
-Yardsticks: How to compare the scale of different social problems? - 80,000 Hours
-
-Why “a cause close to my head”? - Catriona Mackay
-
-
-
-**Cost-Effectiveness**
-
-Elevator Pitches
-
-Price comparison site analogy
-
-http://givewell.org is like a price comparison site for charities. It has excellent in-depth analysis of the best charities and causes in the world.
-
-Source
-
-
-
-**Scarcity of resources**
+#### Scarcity of resources
 
 Emphasis that if we are doing good we have to make some Decision about where to give our limited resources.
 
