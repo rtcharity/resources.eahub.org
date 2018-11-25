@@ -10,8 +10,7 @@ license:
 relatedArticles:
   - {}
 ---
-A compendium of ways to pitch parts of EA. Please add your own!
-
+## A compendium of ways to pitch parts of EA. Please [add your own](lean@eahub.org)!
 
 
 Table of Contents
@@ -22,57 +21,27 @@ Table of Contents
 
 
 
-EA in General
+[EA in General](#pitch-eageneral)
+[Cause-Neutrality](#pitch-causes)
+[Cost-Effectiveness](#pitch-cost-effectiveness)
+[Counterfactual Reasoning & Replaceability](#pitch-counterfactual)
+[Impartiality](#pitch-impartiality)
+[General Pitching Resources](#pitch-resources)
 
-Elevator Pitches
+<a name="pitch-eageneral"></a>
+## EA in General
 
-Links to Send
+### Elevator Pitches
 
-Misc Tactics
+#### General Pitches
 
-Cause-Neutrality
+* EA as a Question - Helen Toner
 
-Elevator Pitches
+  * Effective altruism is a movement united by the question, “Using the resources I have, how can I do the most good?”
 
-Links to Send
+  * [Source](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/)
 
-Cost-Effectiveness
-
-Elevator Pitches
-
-Links to Send
-
-Counterfactual Reasoning & Replaceability
-
-Elevator Pitches
-
-Links to Send
-
-Impartiality
-
-Elevator Pitches
-
-Links to Send
-
-General Pitching Resources
-
-EA in General
-
-Elevator Pitches
-
-General Pitches
-
-
-
-**EA as a Question - Helen Toner**
-
-Effective altruism is a movement united by the question, “Using the resources I have, how can I do the most good?”
-
-Source
-
-
-
-**The Three Part Pitch - CEA**
+* The Three Part Pitch - CEA
 
 Effective altruism is a growing social movement founded on the desire to make the world as good a place as it can be, the use of evidence and reason to find out how to do so, and the audacity to actually try.
 
