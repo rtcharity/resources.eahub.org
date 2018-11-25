@@ -18,7 +18,7 @@ relatedArticles:
 ---
 We organised an EA weekend in London for people who are already familiar with EA. [A review of CZEA "Intense EA Weekend"](https://forum.effectivealtruism.org/posts/r8Qv7QHjJyafmiLnp/review-of-czea-intense-ea-weekend-retreat) retreat was helpful to us so I am sharing the lessons we learned as well.
 
-## Table of contents
+*Table of contents*
 
 1. [Main lesson: 1 on 1s seem to be very useful](#1on1-1)
 
@@ -38,7 +38,7 @@ We organised an EA weekend in London for people who are already familiar with EA
 
 4.5 ["How to talk about EA" workshop](#1on1-45)
 
-5. [Application forms](#1on1-5) 
+5. [Application forms](#1on1-5)
 
 <a name="1on1-1"></a>
 ## Main lesson: 1 on 1s seem to be very useful
