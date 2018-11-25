@@ -4,6 +4,8 @@ date: 2018-11-13T14:35:16.633Z
 description: A compendium of ways to pitch parts of EA.
 tag: popular
 author: EA London
+originalPublicationURL: >-
+  https://docs.google.com/document/d/1vsQdWIcL1nWdTTdQtB4uH1f_rIjDo27-CwaZUnfqEG4/edit
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
