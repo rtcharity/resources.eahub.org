@@ -268,13 +268,13 @@ One easy way that HEA achieved surprising or impressive-seeming things is that w
 
 An incomplete list of things that we’ve needed non-student help for:
 
-Our amazing faculty adviser Nir gave us a lot of suggestions and introductions to speakers, checked in periodically when we were having organizational problems, gave us advice on hosting speakers, and was generally all-around ridiculously helpful.
+* Our amazing faculty adviser Nir gave us a lot of suggestions and introductions to speakers, checked in periodically when we were having organizational problems, gave us advice on hosting speakers, and was generally all-around ridiculously helpful.
 
-HEA was actually required to have a faculty adviser per Harvard’s regulations, but I highly recommend having one even if your school doesn’t require you to—you can invite a sympathetic professor to be your official adviser and then meet with them, ask them advice by email, or whatever works for you.
+* HEA was actually required to have a faculty adviser per Harvard’s regulations, but I highly recommend having one even if your school doesn’t require you to—you can invite a sympathetic professor to be your official adviser and then meet with them, ask them advice by email, or whatever works for you.
 
-Other Harvard faculty mentioned our activities in their classes, advertised our speakers, donated to our fundraiser, or had discussions over dinner with our members. These were all immensely helpful. In retrospect I wish we had tried to interact with more faculty, and more closely, than we did—I think many of them would have been happy to help even more.
+* Other Harvard faculty mentioned our activities in their classes, advertised our speakers, donated to our fundraiser, or had discussions over dinner with our members. These were all immensely helpful. In retrospect I wish we had tried to interact with more faculty, and more closely, than we did—I think many of them would have been happy to help even more.
 
-If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try emailing me, as I may be able to connect you with other folks nearby.
+* If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try [emailing me](https://www.benkuhn.net/about/), as I may be able to connect you with other folks nearby.
 
 Jeff and Julia usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
 
