@@ -83,6 +83,9 @@ _Originally published on <a href="benkuhn.net">benkuhn.net</a>, May 2014_
 
 Many effective altruists want to spread EA ideas. As co-president of [Harvard Effective Altruism](http://www.harvardea.org/) for the last two years, I have some experience in this area that I thought might be helpful to share. My experience is specific to Harvard Effective Altruism, but the lessons generalize to creating other groups of like-minded people from scratch.
 
+{{< keyquote "
+What’s the common thread among our best-performing outreach methods? I’m guessing it’s that they select for latent interest in effective altruism. The best advertising we did was passive: we put blurbs in the right places and hoped they piqued people’s interest. Although this probably resulted in a smaller response by the numbers, the people we got were more enthused about EA." >}}
+
 ### Word of mouth
 
 When I first took over HEA, I hoped that we’d be able to spread by word-of-mouth—that I’d find a few friends who seemed like good fits and get them as excited about HEA as I was, and then they’d recruit their own friends and the cycle would repeat.
@@ -133,9 +136,9 @@ After the fall philanthropy fellowship ended, we essentially lost touch with man
 
 But it’s hard to find things for college students to do that satisfy all of the following desirable criteria:
 
-* can be done in the context of an extracurricular activity with a reasonable time commitment per week
-* are plausibly an effective use of time for college students
-* look like a reasonable use of time for college students to a casual observer
+1. can be done in the context of an extracurricular activity with a reasonable time commitment per week
+2. are plausibly an effective use of time for college students
+3. look like a reasonable use of time for college students to a casual observer
 
 We brainstormed a lot at the end of the semester and came up with some candidate activities, so hopefully we’ll have solved this problem next semester. But it would have been helpful to have thought of them earlier, and we’re still looking for more exciting ones.
 
