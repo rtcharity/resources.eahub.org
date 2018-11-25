@@ -22,6 +22,7 @@ For general advice on how to get the best out of people in discussions, as well 
 How to use these modules: Things that the organiser should read out to the group are in italics. Directions to the organiser are in bold. If you can read over the module beforehand, the presentation will go better, as the text will be in your own words.
 
 [Global Extreme Poverty Reduction](#discussion-poverty)
+
 [Careers](#discussion-careers)
 
 <a name="discussion-poverty"></a>
