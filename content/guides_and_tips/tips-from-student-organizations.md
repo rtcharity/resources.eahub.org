@@ -264,7 +264,7 @@ I had the same experience again and again—room booking, financial forms, adver
 
 ### Outside support
 
-One easy way that HEA achieved surprising or impressive-seeming things is that we reached out to lots of speakers. A second is that we had a ton of support from folks who weren’t in our “core audience” of Harvard students. Both Harvard faculty and other EA-minded people gave us huge amounts of information, technical assistance, introductions, and even offers of funding if we needed it.
+One easy way that HEA achieved surprising or impressive-seeming things is that we reached out to [lots of speakers](https://www.benkuhn.net/good-speakers). A second is that we had a ton of support from folks who weren’t in our “core audience” of Harvard students. Both Harvard faculty and other EA-minded people gave us huge amounts of information, technical assistance, introductions, and even offers of funding if we needed it.
 
 An incomplete list of things that we’ve needed non-student help for:
 
