@@ -14,83 +14,53 @@ license:
 relatedArticles:
   - {}
 ---
-Charitable Giving Game Instruction Manual
+## How to play the charitable giving game
+
+Contents
+
+I.    [Introduction](#game-intro)    
+
+1.    [Welcome](#game-intro-1)
+
+2.    [Overall Advice](#game-intro-2)    
+
+3.    [Your responsibilities](#game-intro-3)    
+
+II.    [Elements of a game]((#game-elements))    
+
+1.    [Players](#game-elements-1)    
+
+2.    [The Choice of Charities](#game-elements-2)    
+
+3.    [Context](#game-elements-3)    
+
+4.    [Voting Structure](#game-elements-4)    
+
+5.    [Prize](#game-elements-5)    
+
+6.    [Follow-ups](#game-elements-6)    
+
+7.    [Data Collection](#game-elements-7)    
+
+III.  [Combining the Elements](#game-combining)    
+
+1.    [Basics of Game design](#game-combining-1)    
+
+2.    [Types of Games](#game-combining-2)    
+
+IV.   [Higher Level Game Design Strategy](#game-higher-level)
+
+1.    [Estimating the expected value of a game](#game-higher-level-1)
+
+2.    [Multi game strategy](#game-higher-level-2)
 
 
 
-Contents
+<a name="game-intro"></a>
+## Introduction
 
-I.    Introduction    
-
-1.    Welcome    
-
-2.    Overall Advice    
-
-3.    Your responsibilities    
-
-II.    Elements of a game    
-
-A.    Players    
-
-1.    Where to Find Players    
-
-2.    How to invite players    
-
-B.    The Choice of Charities    
-
-1.    How to Frame the Choice of Charities    
-
-2.    Suggestions for Charities to use    
-
-C.    Context    
-
-1.    Information about the charities    
-
-2.    Activities to engage players    
-
-3.    Tips for moderating a discussion    
-
-D.    Voting Structure    
-
-1.    How to structure the voting    
-
-E.    Prize    
-
-1.    How big should the prize be?    
-
-2.    Donation Logistics    
-
-F.    Follow-ups    
-
-1.    Why you should offer Follow-ups    
-
-2.    Suggested Follow-Ups to offer    
-
-G.    Data Collection    
-
-1.    Why we’re collecting information    
-
-2.    What to collect    
-
-3.    Privacy Policy    
-
-III.    Combining the Elements    
-
-A.    Basics of Game design    
-
-B.    Types of Games    
-
-IV.    Higher Level Game Design Strategy    
-
-1.    Estimating the expected value of a game    
-
-2.    Multi game strategy    
-
-
-
-Introduction
-
-Welcome
+<a name="game-intro-1"></a>
+### Welcome
 
 
 
@@ -102,9 +72,8 @@ APathThatsClear.com is funding Giving Games to meet its goal of getting people t
 
 This document should be viewed as a work in progress, and will be updated as we learn.  Please send feedback or questions to sponsor@apaththatsclear.com, or discuss it on Basecamp.
 
-General Advice 
-
-
+<a name="game-intro-2"></a>
+### Overall Advice
 
 Before getting started, consider these general suggestions:
 
@@ -114,11 +83,9 @@ Think about the big picture.  If a game doesn’t play out the way you intended,
 
 Keep records.  Take notes.  The more detailed a picture we have, the more we’ll be able to understand what’s important.  “Small and apparently insignificant details can have major impacts on people’s behavior.  A good rule of thumb is to assume that ‘everything matters.’”   Be as attentive to recording problems as you are to successes.
 
- 
 
-Your responsibilities
-
-
+<a name="game-intro-3"></a>
+### Your responsibilities
 
 Please understand that organizing games funded by APathThatsClear.com carries certain responsibilities:
 
@@ -128,7 +95,8 @@ Provide observations and feedback to APathThatsClear.com
 
 Inform players and sponsor of their mutual obligations (see Privacy Policy)
 
-Elements of a game
+<a name="#game-elements"></a>
+## Elements of a game
 
 Players
 
@@ -176,7 +144,7 @@ How to Frame the Choice of Charities
 
 
 
-Try to frame the players’ choice as “Good vs. Good” or “Good vs. Better” rather than “Good vs. Bad”.  That said, certain charity pairings will inescapably be viewed as having a right and wrong answer.  If an EA runs a game pairing the players’ student organization vs. AMF and tries to frame the choices as equally valid, they’re likely to insult the players’ intelligence.  In that case, the EA should try to emphasize that they’re differently valid; each is the right choice by a particular line of reasoning.  This is different from suggesting that one choice is valid and the other isn’t, which you should avoid and discourage. 
+Try to frame the players’ choice as “Good vs. Good” or “Good vs. Better” rather than “Good vs. Bad”.  That said, certain charity pairings will inescapably be viewed as having a right and wrong answer.  If an EA runs a game pairing the players’ student organization vs. AMF and tries to frame the choices as equally valid, they’re likely to insult the players’ intelligence.  In that case, the EA should try to emphasize that they’re differently valid; each is the right choice by a particular line of reasoning.  This is different from suggesting that one choice is valid and the other isn’t, which you should avoid and discourage.
 
 If the players think the choice is a bad one, just give them a better one!  At the outset, or on the fly, you can introduce a rule that a (super?)majority of players can vote to change the pairing.  Their complaint will presumably be that one charity isn’t good enough.  Let them suggest new charities, and you can offer ideas of your own. If the game turns into a brainstorming session about high impact giving opportunities, that’s great!  
 
@@ -348,7 +316,7 @@ To simplify the logistics, we’ll try to avoid making lots of tiny donations.  
 
 Donations over $50 will be made through a “Donor Advised Fund”, to provide independent confirmation that the donations are being made.   The fund is called the Just Compassion Initiative, and is administered by Fidelity Charitable.  The money I’ve put into this fund already has to be donated to charity, so in a sense it’s like it’s in escrow and players don’t need to worry that I won’t put up the money.  Due to how DAFs are structured, the donations in the Game should not be represented as legally binding contracts.
 
-Donations can be made “In honor of XYZ” or “In XYZ’s name.”  If a particular dedication should be used, please indicate this on the Post Game Report Card, available here:  http://www.apaththatsclear.com/postgame-report-card.html 
+Donations can be made “In honor of XYZ” or “In XYZ’s name.”  If a particular dedication should be used, please indicate this on the Post Game Report Card, available here:  http://www.apaththatsclear.com/postgame-report-card.html
 
 
 
@@ -384,7 +352,7 @@ Set up a one on one talk with one of the organizers or another EA
 
 Suggested reading
 
-Always Be Closing… It’s better, for example, to sign someone up for GiveWell’s mailing list on the spot than to ask them to do so in the future. 
+Always Be Closing… It’s better, for example, to sign someone up for GiveWell’s mailing list on the spot than to ask them to do so in the future.
 
 
 
@@ -418,7 +386,7 @@ Waivers:  see Privacy Policy below
 
 Observer Assessments.  Whoever runs the game should write up their thoughts.   Many games also include an observer, who should do the same.  The more perspectives we can get, the better.  
 
-The primary organizer should fill out this Postgame Report Card: http://www.apaththatsclear.com/postgame-report-card.html 
+The primary organizer should fill out this Postgame Report Card: http://www.apaththatsclear.com/postgame-report-card.html
 
 
 
@@ -455,8 +423,8 @@ If you think something is borderline or questionable, escalate it.  Raise a ques
 If a privacy agreement is a sticking point in setting up a game, use this as a learning opportunity.  Try to understand the underlying motivations.  You can also emphasize that we’re planning on playing a lot of games, so each data point will only get so much attention.
 
 
-
-Combining the Elements
+<a name="game-combining"></a>
+## Combining the Elements
 
 Basics of Game design
 
@@ -464,7 +432,7 @@ Basics of Game design
 
 The first step in designing a good game is to set one or more goals (e.g. raise the expected social value of players’ lifetime giving).  Then, try to combine the elements of the game in a coherent fashion to meet your goals.  Certain combinations work better than others- don’t ask players to listen to lecture about malaria, and then choose between a charter school and a microfinance organization.  
 
-Try to be explicit about your logic, and why you think your design will work.  Write down the assumptions you’re making, and revisit them after the game. 
+Try to be explicit about your logic, and why you think your design will work.  Write down the assumptions you’re making, and revisit them after the game.
 
 If you’re having trouble getting started, pick one element of the game to begin with.  As you get a better idea of what you want to do for that element, other aspects of the design will become clearer.
 
@@ -504,7 +472,7 @@ Experimental games are designed to test hypotheses by manipulating one or move v
 
 An online game randomly assigns players to receive “Emotional” or “Logical” descriptions of the charities.
 
-An Organizer wants to improve a promising game structure that didn’t generate many follow-ups.  They run a similar game, but add food and drinks to encourage players to linger over the signup sheets. 
+An Organizer wants to improve a promising game structure that didn’t generate many follow-ups.  They run a similar game, but add food and drinks to encourage players to linger over the signup sheets.
 
 Activity games have players engage in a task before voting.  Examples:
 
@@ -543,8 +511,8 @@ An EA organization sets up a stall at a student activities fair, and invites peo
 An EA goes around the quad starting conversations, and invites interested people to play on online game at their convenience
 
 
-
-Higher Level Game Design Strategy
+<a name="game-higher-level"></a>
+## Higher Level Game Design Strategy
 
 
 
@@ -562,7 +530,7 @@ How likely is the game to change where players donate?
 
 If they do donate to different causes, how much better (worse) are they?
 
-This framework helps explain certain common sense conclusions.  For instance, a game that’s expected to get people to give to better charities will have a higher EV if it targets Economics majors than Poetry majors.  Since the former group will likely donate larger dollar sums, improving the impact of their donations will lead to more social benefit. 
+This framework helps explain certain common sense conclusions.  For instance, a game that’s expected to get people to give to better charities will have a higher EV if it targets Economics majors than Poetry majors.  Since the former group will likely donate larger dollar sums, improving the impact of their donations will lead to more social benefit.
 
 
 
