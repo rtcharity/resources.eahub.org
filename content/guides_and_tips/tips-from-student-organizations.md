@@ -3,7 +3,9 @@ title: Tips from Student Organizations
 date: 2018-11-07T17:34:03.999Z
 description: Tips from student organizers on how to run EA university groups.
 tag: popular
-author: Julia Wise
+author: Julia Wise (editor)
+originalPublicationURL: >-
+  https://docs.google.com/document/d/1m4SQ9-kXiu1TPzQSsYvC2LvlDR3a3yO8ZwRQ_S5RNbw/edit#
 ---
 ## How to run an EA student organization? Here are some tips from other student organizers
 
