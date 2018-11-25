@@ -21,8 +21,7 @@ For general advice on how to get the best out of people in discussions, as well 
 
 How to use these modules: Things that the organiser should read out to the group are in italics. Directions to the organiser are in bold. If you can read over the module beforehand, the presentation will go better, as the text will be in your own words.
 
-[Global Extreme Poverty Reduction](#discussion-poverty) 
-
+[Global Extreme Poverty Reduction](#discussion-poverty)
 [Careers](#discussion-careers)
 
 <a name="discussion-poverty"></a>
@@ -37,11 +36,11 @@ It should take around one to one and a half hours, best for 3-15 people.
 
 ### The activity
 
-_Welcome everyone to the event, thank them for coming, point out where snacks are if there are any._
+_Welcome everyone to the event, thank them for coming, point out where snacks are if there are any_
 
 Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
 
-Today we’re going to look at one way that many effective altruists think people can have a huge amount of impact on the world - in eradicating Extreme Poverty on a global scale
+Today we’re going to look at one way that many effective altruists think people can have a huge amount of impact on the world - in eradicating Extreme Poverty on a global scale.
 
 What is extreme poverty? The world bank defines extreme poverty as living on $1.50 or less. \[Point out what that would be in local currency]. 1.22 billion people live in extreme poverty. Personally I find that figure really hard to get my head around, and impossible to visualise. What do people think about this?
 
@@ -72,7 +71,7 @@ _Play [https://www.gapminder.org/videos/dont-panic-end-poverty](https://www.gapm
 So global poverty is a problem that is fixable - but the sooner we fix it, the fewer people that have to suffer. So how can we solve it as soon as possible? Lots of people donate money to charities, but it’s hard to tell which ones will do the most good. Let’s look at four charities you might choose to donate to:
 
 * The Against Malaria Foundation works to distribute insecticide treated bednets in the poorest parts of the world.
-* The Schistosomiasis Control Initiative works to control a parasitic infection known as schistosomiasis (Here’s how to pronounce it)  by distributing medicines
+* The Schistosomiasis Control Initiative works to control a parasitic infection known as schistosomiasis (Here’s how to pronounce it)  by distributing medicines.
 * GiveDirectly gives your money directly to the poorest people on Earth, with no strings attached.
 * Playpumps builds water pumps that are powered by children playing on merry-go-rounds so that children can have a place to play while delivering water
 
@@ -105,9 +104,7 @@ We’re all extremely privileged to be wealthy compared to the rest of the world
 
 Thank you all for coming, and if you’d like to keep chatting (about EA or otherwise), we’re going to go to the pub / have drinks here and I’d love to see you at our next meet up.
 
-_Make sure to get people’s emails if you haven’t already._
-
-{{< keyquote "But despite extreme poverty being a huge source of suffering in the world, it is a problem that is solvable. In fact, in the last century or two, there has been an enormous amount of progress in trying to fix extreme poverty, progress that we maybe don’t hear enough about in the media." >}}
+_Make sure to get people’s emails if you haven’t already.  _
 
 <a name="discussion-careers"></a>
 
@@ -136,7 +133,7 @@ A lot of lists on these criteria on the internet talk about four criteria that m
 
 Now which career do you think ranks the best on all of these criteria?
 
-_1-2 minute discussion_
+_1-2 minute discussion._
 
 One career that scores very highly on these measures is an actuary! Someone who compiles statistical tables, often for use by insurance companies. Does anyone actually want to be an actuary here? It’s highly-paid, low-stress, and you get to sit in a nice office all day.
 
@@ -159,7 +156,7 @@ A key career aim that people often neglect is the importance of helping others. 
 
 How would you judge which careers do the most good? What are some criteria you could use to decide?
 
-_Lead a discussion on this topic for 5 minutes_
+_Lead a discussion on this topic for 5 minutes._
 
 80,000 Hours use the following points to decide.
 
@@ -178,13 +175,13 @@ Often overlooked is personal fit. How good are you at the job? If you’re not e
 
 What does everyone think of these measures?
 
-_Lead a discussion on this topic for 5 minutes_
+_Lead a discussion on this topic for 5 minutes._
 
-Direct everyone to take the careers quiz at <https://80000hours.org/career-quiz>
+Direct everyone to take the careers quiz at [https://80000hours.org/career-quiz](https://80000hours.org/career-quiz).
 
 _Go around the group and discuss why that career was suggested to that person. Use 80,000 Hours' criteria that are listed above. Keep going until you finish or run out of things to say._
 
-_Reiterate that anyone who wants more careers advice should get in touch with 80,000 Hours. _
+_Reiterate that anyone who wants more careers advice should get in touch with 80,000 Hours._
 
 We've only looked at the surface of the careers guide here, but we’re clear that choosing a personally rewarding career doesn’t have to mean getting loads of money or ‘selling out’, but in fact can be combined with making the world a better place. And that is what Effective Altruism is all about.
 
