@@ -15,12 +15,6 @@ relatedArticles:
 
 Table of Contents
 
-“Elevator Pitches” are bits for plugging into blog posts, talks, pub rants, etc
-
-“Links to Send” are links for pitching EA across various cyberspace platforms
-
-
-
 [EA in General](#pitch-eageneral)
 [Cause-Neutrality](#pitch-causes)
 [Cost-Effectiveness](#pitch-cost-effectiveness)
@@ -28,10 +22,13 @@ Table of Contents
 [Impartiality](#pitch-impartiality)
 [General Pitching Resources](#pitch-resources)
 
+
+
 <a name="pitch-eageneral"></a>
 ## EA in General
 
 ### Elevator Pitches
+*“Elevator Pitches” are bits for plugging into blog posts, talks, pub rants, etc*
 
 #### General Pitches
 
@@ -193,6 +190,7 @@ Source: Best pitch came up with after freshers fairs at lots of unis (Sam Hilton
 
 
 **Links to Send**
+*“Links to Send” are links for pitching EA across various cyberspace platforms*
 
 Effective Altruism – Wikipedia
 
