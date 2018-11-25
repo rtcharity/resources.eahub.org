@@ -28,19 +28,19 @@ How to use these modules: Things that the organiser should read out to the group
 
 ## Global Extreme Poverty Reduction
 
-\*This module is based on lessons from Students for High Impact Charity, and the example of the Playpump is taken from Doing Good Better by Will MacAskill.
+_This module is based on lessons from Students for High Impact Charity, and the example of the Playpump is taken from Doing Good Better by Will MacAskill._
 
-It would work well as a very first meetup, with no prior knowledge of Effective Altruism needed. It may not be very interesting to people who have read a lot about EA before.
+_It would work well as a very first meetup, with no prior knowledge of Effective Altruism needed. It may not be very interesting to people who have read a lot about EA before._
 
-It should take around one to one and a half hours, best for 3-15 people.*
+_It should take around one to one and a half hours, best for 3-15 people._
 
 Welcome everyone to the event, thank them for coming, point out where snacks are if there are any
 
-> Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
->
-> Today we’re going to look at one way that many effective altruists think people can have a huge amount of impact on the world - in eradicating Extreme Poverty on a global scale
->
-> What is extreme poverty? The world bank defines extreme poverty as living on $1.50 or less. \[Point out what that would be in local currency]. 1.22 billion people live in extreme poverty. Personally I find that figure really hard to get my head around, and impossible to visualise. What do people think about this?
+Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
+
+Today we’re going to look at one way that many effective altruists think people can have a huge amount of impact on the world - in eradicating Extreme Poverty on a global scale
+
+What is extreme poverty? The world bank defines extreme poverty as living on $1.50 or less. \[Point out what that would be in local currency]. 1.22 billion people live in extreme poverty. Personally I find that figure really hard to get my head around, and impossible to visualise. What do people think about this?
 
 Ask if anyone has had experience with extreme poverty, and if not then can people imagine living on $1.50 a day?
 
