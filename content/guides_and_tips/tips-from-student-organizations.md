@@ -103,9 +103,9 @@ We also tried using more passive outreach channels: we set up a booth at the “
 
 I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
-\### The Philanthropy Fellowship
+### The Philanthropy Fellowship
 
-Our main project for the past year was running a speaker series called the Philanthropy Fellowship. Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
+Our main project for the past year was running a speaker series called the [Philanthropy Fellowship](http://www.harvardea.org/news/2014/01/29/apply/). Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
 
 Although we accepted almost all applicants, I think that having an application was helpful in screening for fellows who were at least somewhat interested in EA already. It also made the fellowship feel more legitimate and official to those we accepted. (And it also helped us screen out a few people who were obviously participating only to promote their favorite organization.)
 
@@ -115,7 +115,7 @@ On the other hand, both semesters saw substantial attrition in the number of fel
 
 ### High-profile speakers
 
-We also brought in a few very high-profile speakers. The most famous were philosopher Peter Singer and Skype cofounder Jaan Tallinn. While these speakers drew large audiences (Prof. Singer overflowed a 350-seat room), my sense was that most of the audience wasn’t very interested in the rest of HEA’s activities, so we may not have gained very many followers from it.
+We also brought in a few very high-profile speakers. The most famous were philosopher [Peter Singer](https://www.princeton.edu/~psinger/) and Skype cofounder [Jaan Tallinn](https://en.wikipedia.org/wiki/Jaan_Tallinn). While these speakers drew large audiences (Prof. Singer overflowed a 350-seat room), my sense was that most of the audience wasn’t very interested in the rest of HEA’s activities, so we may not have gained very many followers from it.
 
 That’s not to say that I think the talks weren’t worth it. Having high-profile speakers lent credibility to our philanthropy fellowship, which was a good outreach tool. It also gave us more cachet as a group and provided a good task for the core group members to rally around accomplishing.
 
