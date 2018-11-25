@@ -164,7 +164,7 @@ Far and away the most important factor in HEA’s success is that we had two co-
 
 At first, it was just me running things, and my motivation and excitement about my plans came in bursts. I would get a new idea for a project or event and start organizing it in a flurry of energy—but soon problems would come up, I’d start to think it was doomed to failure and get demoralized, and everything I’d set in motion would grind to a halt. Obviously this was self-defeating and not very helpful for our club’s operations.
 
-Fortunately, towards the end of the first year, John Sturm took the initiative and got involved with organizing events as well. With John to take care of half the organizational burden (and frequently more) and plug away even when I was demoralized, I felt much less overwhelmed about running things. This broke down my aversion that running more events would start another boom-bust motivation cycle for me, and allowed us to do way more things than we could have with just me.
+Fortunately, towards the end of the first year, [John Sturm](http://jasturm.blogspot.com/) took the initiative and got involved with organizing events as well. With John to take care of half the organizational burden (and frequently more) and plug away even when I was demoralized, I felt much less overwhelmed about running things. This broke down my aversion that running more events would start another boom-bust motivation cycle for me, and allowed us to do way more things than we could have with just me.
 
 If you’re more resilient to setbacks and more of a natural leader than I am, it may be less important for you to have a co-organizer. But given that finding a second person is also one of the most popular pieces of startup advice, it seems like it applies to most people, even if they’re as resilient and leader-y as most startup founders. So I’d recommend making it a high priority to find a co-organizer.
 
@@ -202,9 +202,9 @@ After three hours of such pitches we had a grand total of one person who came ba
 
 The reason our publicity was so disastrously bad is that I was bad at talking to people, for a couple of reasons:
 
-I realized that the idea of HEA seemed crazy: “join us and we’ll try to figure out how to maximize the good we do in the world!”—it combined the tired cliche of trying to save the world with the taboo of declaring that some ways of saving it were better than others. But my mistake was letting other people know that I knew HEA seemed crazy. As soon as they realized that I myself felt goofy, it was game over for convincing them to get involved.
+1. I realized that the idea of HEA seemed crazy: “join us and we’ll try to figure out how to maximize the good we do in the world!”—it combined the tired cliche of trying to save the world with the taboo of declaring that some ways of saving it were better than others. But my mistake was letting other people know that I knew HEA seemed crazy. As soon as they realized that I myself felt goofy, it was game over for convincing them to get involved.
 
-Because I felt like I was pushing a crazy idea, I was also worried about wasting people’s time. This was just silly. If the students didn’t want their time wasted, they shouldn’t have tried to run the activities-fair gauntlet. And anyway, they were perfectly capable of extracting themselves from the pitch if they wanted to. We should have been less polite.
+2. Because I felt like I was pushing a crazy idea, I was also worried about wasting people’s time. This was just silly. If the students didn’t want their time wasted, they shouldn’t have tried to run the activities-fair gauntlet. And anyway, they were perfectly capable of extracting themselves from the pitch if they wanted to. We should have been less polite.
 
 By contrast, here’s a similar pitch from when we were advertising in a dining hall this year:
 
@@ -236,7 +236,7 @@ By this time, I had gotten over my feeling of goofiness, and just powered throug
 
 ### Getting good speakers
 
-If there’s one thing that I’m proud of about my tenure running HEA, it’s our programming. Last year we had over 10 speakers come to give talks to HEA, including Peter Singer, Jaan Tallinn, and many other extremely popular and busy people. We also raised thousands of dollars to cover honoraria from these speakers. How?
+If there’s one thing that I’m proud of about my tenure running HEA, it’s our programming. Last year we had over 10 speakers come to give talks to HEA, including Peter Singer, Jaan Tallinn, and [many other extremely popular and busy people](http://www.harvardea.org/events/#past). We also raised thousands of dollars to cover honoraria from these speakers. How?
 
 The trick is to be well-connected like me and John so that you know a diverse pool of famous people and deep-pocketed university organizations to lean on for favors. If you don’t have such a pool already, get out there and network!
 
