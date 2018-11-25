@@ -104,7 +104,7 @@ We also tried using more passive outreach channels: we set up a booth at the “
 
 I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
-\### The Philanthropy Fellowship 
+### The Philanthropy Fellowship 
 
 Our main project for the past year was running a speaker series called the [Philanthropy Fellowship](http://www.harvardea.org/news/2014/01/29/apply/). Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
 
