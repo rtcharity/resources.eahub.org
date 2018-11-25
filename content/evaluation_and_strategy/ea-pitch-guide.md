@@ -238,136 +238,116 @@ Table of Contents
 
 #### Scarcity of resources
 
-Emphasis that if we are doing good we have to make some Decision about where to give our limited resources.
+* Emphasis that if we are doing good we have to make some Decision about where to give our limited resources.
 
-A cataract operation can cure someone of blindness for about $35 \[1] . The same person can be provided with a guide dog for $50,000. There are charities doing each. Both charities are definitely helping people and doing good. But one is helping a lot more people with the same resources. There’s something awkward here. It feels nicer to give a bit to all the good causes. But in a world with scarce resources, that’s a very costly attitude to have.
+* A cataract operation can cure someone of blindness for about $35 \[1] . The same person can be provided with a guide dog for $50,000. There are charities doing each. Both charities are definitely helping people and doing good. But one is helping a lot more people with the same resources. There’s something awkward here. It feels nicer to give a bit to all the good causes. But in a world with scarce resources, that’s a very costly attitude to have.
 
-Source - adapted from source
+* [Source](http://effective-altruism.com/ea/cq/top_tips_on_how_to_choose_an_effective_charity/) - adapted from [source](https://80000hours.org/2012/09/is-there-such-thing-as-a-bad-charity/)
 
+#### Babies in a Burning Building - Tyler Alterman
 
+* Analogy
 
-**Babies in a Burning Building - Tyler Alterman**
+  * Imagine you hear babies crying in a house that’s on fire. You jump through the window and see that there are two babies in the crib. Luckily, you have precisely the resources available to you to save exactly two babies: you have exactly two arms. I think you would agree that choosing to use both arms to save only one baby would be the wrong choice - it would be a choice to let the other baby burn.
 
-Analogy
+* Analogical transfer
 
-Imagine you hear babies crying in a house that’s on fire. You jump through the window and see that there are two babies in the crib. Luckily, you have precisely the resources available to you to save exactly two babies: you have exactly two arms. I think you would agree that choosing to use both arms to save only one baby would be the wrong choice - it would be a choice to let the other baby burn.
+  * Right now this is similar to the situation that governments, NGOs, and individual donors are in: they can use their resources they have right now to save more lives or fewer lives. And they are choosing to let one baby burn by not prioritizing the most resource-effective interventions.
 
-Ryan: This seems ‘too obvious’ . . . (?)
+* Empowerment
 
-Connor: I second this thought
+  * The good news is that it is within our power to change that. Even a small donor can save a life by funding cost-effective interventions. And you and I have the ability to influence donors, NGOs, and even governments.
 
+#### Trimtabs - Tyler Alterman
 
+* Analogy
 
-**Analogical transfer**
+  * Do you know what the great engineer, Buckminster Fuller, had engraved on his headstone? “Call me trimtab.” Do you know what a trimtab is? It’s a tiny little rudder on a ship that can radically influence the ship’s direction.
 
-Right now this is similar to the situation that governments, NGOs, and individual donors are in: they can use their resources they have right now to save more lives or fewer lives. And they are choosing to let one baby burn by not prioritizing the most resource-effective interventions.
+  * Imagine that all of humanity, including you and me, is on one giant ship. Governments, NGOs, and individual donors and are trying to turn this ship back toward Eden. The bad news is that right now, this lumbering ship is not headed for Eden, it’s headed toward the edge of the world. It is our task to redirect this ship as fast as we can. Do you think we can do it in time?
 
+  * It turns out, that there are two ways we can redirect this ship. The first way is that we spend a large amount of precious time, money, and talent building huge tug boats that may be able to turn the ship around. However, there is a second way that is orders of magnitude less costly: we build trimtabs.
 
+  * Concern: Maybe too much new information here . . . (?)
 
-**Empowerment**
 
-The good news is that it is within our power to change that. Even a small donor can save a life by funding cost-effective interventions. And you and I have the ability to influence donors, NGOs, and even governments.
+* Analogical transfer
 
-**Trimtabs - Tyler Alterman**
+  * It turns out that some interventions for saving human lives are orders of magnitude less costly than other interventions. It is our duty to tell the two apart and to put our hands to work on the most effective interventions.
 
-Analogy
+* Empowerment
 
-Do you know what the great engineer, Buckminster Fuller, had engraved on his headstone? “Call me trimtab.” Do you know what a trimtab is? It’s a tiny little rudder on a ship that can radically influence the ship’s direction.
+  * The good news is that we’ve already identified a good many trimtabs, where even a small donor can save a life by funding cost-effective interventions. And you and I have the ability to influence donors, NGOs, and even governments by showing them where the trimtabs are.                        
 
-Imagine that all of humanity, including you and me, is on one giant ship. Governments, NGOs, and individual donors and are trying to turn this ship back toward Eden. The bad news is that right now, this lumbering ship is not headed for Eden, it’s headed toward the edge of the world. It is our task to redirect this ship as fast as we can. Do you think we can do it in time?
+### Links to Send
 
-It turns out, that there are two ways we can redirect this ship. The first way is that we spend a large amount of precious time, money, and talent building huge tug boats that may be able to turn the ship around. However, there is a second way that is orders of magnitude less costly: we build trimtabs.
+* [The Moral Imperative Towards Cost-Effectiveness](http://effective-altruism.com/ea/70/the_moral_imperative_towards_costeffectiveness/) - Toby Ord
 
-Typer: Maybe too much new information here . . . (?)
+* [Is there such thing as a ‘bad’ charity](https://80000hours.org/2012/09/is-there-such-thing-as-a-bad-charity/) - 80,000 Hours
 
+<a name="pitch-counterfactual"></a>
+## Counterfactual Reasoning & Replaceability
 
+### Elevator Pitches
 
-**Analogical transfer**
+#### CPR - Will MacAskill
 
-It turns out that some interventions for saving human lives are orders of magnitude less costly than other interventions. It is our duty to tell the two apart and to put our hands to work on the most effective interventions.
+* Suppose you come across a woman who’s had a heart attack. Luckily, someone trained in CPR is keeping her alive until the ambulance arrives. But you also know CPR. Should you push this other person out of the way and take over? The answer is obviously “no.” You wouldn’t be a hero; you wouldn’t have made a difference.
 
+#### The Lawyer and the Soup Kitchen - Eliezer Yudkowsky
 
+* There is this very, very old puzzle/observation in economics about the lawyer who spends an hour volunteering at the soup kitchen, instead of working an extra hour and donating the money to hire someone to work for five hours at the soup kitchen.
 
-**Empowerment**
+* [Source](http://lesswrong.com/lw/65/money_the_unit_of_caring/)
 
-The good news is that we’ve already identified a good many trimtabs, where even a small donor can save a life by funding cost-effective interventions. And you and I have the ability to influence donors, NGOs, and even governments by showing them where the trimtabs are.                        
+### Links to Send
 
-**Links to Send**
+* [How many lives does a doctor save?](https://80000hours.org/2012/08/how-many-lives-does-a-doctor-save/) -- 80,000 Hours
 
-The Moral Imperative Towards Cost-Effectiveness - Toby Ord
+<a name="pitch-impartiality"></a>
+## Impartiality
 
-Is there such thing as a ‘bad’ charity - 80,000 Hours
+### Elevator Pitches
 
-Counterfactual Reasoning & Replaceability
+#### Global Empathy - Tyler Alterman
 
+* EAs practice “global empathy” - the view that every life has equal value.
 
+* An [explanation of this](http://effective-altruism.com/ea/bz/how_can_you_compare_helping_two_different_people/)
 
-Elevator Pitches
+#### The Drowning Child - Peter Singer
 
-**CPR - Will MacAskill**
+* To challenge my students to think about the ethics of what we owe to people in need, I ask them to imagine that their route to the university takes them past a shallow pond. One morning, I say to them, you notice a child has fallen in and appears to be drowning. To wade in and pull the child out would be easy but it will mean that you get your clothes wet and muddy, and by the time you go home and change you will have missed your first class.
 
-Suppose you come across a woman who’s had a heart attack. Luckily, someone trained in CPR is keeping her alive until the ambulance arrives. But you also know CPR. Should you push this other person out of the way and take over? The answer is obviously “no.” You wouldn’t be a hero; you wouldn’t have made a difference.
+* I then ask the students: do you have any obligation to rescue the child? Unanimously, the students say they do. The importance of saving a child so far outweighs the cost of getting one’s clothes muddy and missing a class, that they equally be able to rescue the child but are not doing so? No, the students reply, the fact that others are not doing what they ought to do is no reason why I should refuse to consider it any kind of excuse for not saving the child. Does it make a difference, I ask, that there are other people walking past the pond who would not do what I ought to do.
 
-**The Lawyer and the Soup Kitchen - Eliezer Yudkowsky**
+* Once we are all clear about our obligations to rescue the drowning child in front of us, I ask: would it make any difference if the child were far away, in another country perhaps, but similarly in danger of death, and equally within your means to save, at no great cost – and absolutely no danger – to yourself? Virtually all agree that distance and nationality make no moral difference to the situation. I then point out that we are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a very small cost to us: the cost of a new CD, a shirt or a night out at a restaurant or concert, can mean the difference between life and death to more than one person somewhere in the world – and overseas aid agencies like Oxfam overcome the problem of acting at a distance.
 
-There is this very, very old puzzle/observation in economics about the lawyer who spends an hour volunteering at the soup kitchen, instead of working an extra hour and donating the money to hire someone to work for five hours at the soup kitchen.
+* [Source](http://effective-altruism.com/ea/6u/the_drowning_child_and_the_expanding_circle/)
+* Discussion
+  * Better to stretch the empathy out, starting with anti-racism, gender equality, then cosmopolitanism, then global empathy. See [this](effective-altruism.com/ea/6w/cosmopolitanism/)
+  * [Drawbacks of Singer's "child in the pond"](http://lesswrong.com/lw/hr5/some_reservations_about_singers_childinthepond/)
 
-Source
+### Links to Send
 
-Links to Send
+* [The Drowning Child and the Expanding Circle](http://effective-altruism.com/ea/6u/the_drowning_child_and_the_expanding_circle/) - Peter Singer
 
-How many lives does a doctor save? -- 80,000 Hours
+* [The Drowning Child](http://www.philosophybro.com/post/120721529553/peter-singers-drowning-child-argument) - Philosophy Bro version, very short/sweet
 
-Impartiality
+* [The Life You Can Save in 3 minutes by Peter Singer](https://www.youtube.com/watch?v=onsIdBanynY) -  inspiring 3 min video
 
+* [How can you compare helping two different people](http://effective-altruism.com/ea/bz/how_can_you_compare_helping_two_different_people/)
 
 
-Elevator Pitches
-
-**Global Empathy - Tyler Alterman**
-
-EAs practice “global empathy” - the view that every life has equal value.
-
-An explanation of this: http://effective-altruism.com/ea/bz/how_can_you_compare_helping_two_different_people/
-
-**The Drowning Child - Peter Singer**
-
-To challenge my students to think about the ethics of what we owe to people in need, I ask them to imagine that their route to the university takes them past a shallow pond. One morning, I say to them, you notice a child has fallen in and appears to be drowning. To wade in and pull the child out would be easy but it will mean that you get your clothes wet and muddy, and by the time you go home and change you will have missed your first class.
-
-I then ask the students: do you have any obligation to rescue the child? Unanimously, the students say they do. The importance of saving a child so far outweighs the cost of getting one’s clothes muddy and missing a class, that they equally be able to rescue the child but are not doing so? No, the students reply, the fact that others are not doing what they ought to do is no reason why I should refuse to consider it any kind of excuse for not saving the child. Does it make a difference, I ask, that there are other people walking past the pond who would not do what I ought to do.
-
-Once we are all clear about our obligations to rescue the drowning child in front of us, I ask: would it make any difference if the child were far away, in another country perhaps, but similarly in danger of death, and equally within your means to save, at no great cost – and absolutely no danger – to yourself? Virtually all agree that distance and nationality make no moral difference to the situation. I then point out that we are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a very small cost to us: the cost of a new CD, a shirt or a night out at a restaurant or concert, can mean the difference between life and death to more than one person somewhere in the world – and overseas aid agencies like Oxfam overcome the problem of acting at a distance.
-
-Source
-
-Ryan: It's better to stretch the empathy out, starting with anti-racism, gender equality, then cosmopolitanism, then global empathy. relevant: effective-altruism.com/ea/6w/cosmopolitanism/
-
-Ryan: Here its drawbacks: http://lesswrong.com/lw/hr5/some_reservations_about_singers_childinthepond/
-
-Links to Send
-
-The Drowning Child and the Expanding Circle - Peter Singer
-
-The Drowning Child (Philosophy Bro version, very short/sweet)
-
-The Life You Can Save in 3 minutes by Peter Singer (inspiring 3 min video)
-
-http://effective-altruism.com/ea/bz/how_can_you_compare_helping_two_different_people/
-
-****
-
-**General Pitching Resources**
-
-Influence: Science and Practice - Robert Cialdini
-
-Probably the greatest book on persuasion tactics with large effect sizes. - Tyler Alterman
-
-
-
-**EA specific advice on pitching**
-
- http://effective-altruism.wikia.com/wiki/Talking_about_effective_altruism
-
-Facebook discussion on talking about EA
-
-GWWC’s Big Awesome Super Duper Starter Packet for Chapters
+<a name="pitch-resources"></a>
+## General Pitching Resources
+
+#### General advice on pitching
+* Influence: Science and Practice - Robert Cialdini
+  * Probably the greatest book on persuasion tactics with large effect sizes. - Tyler Alterman
+  * [Source](http://www.amazon.com/Influence-Practice-Robert-B-Cialdini/dp/0205609996/ref=sr_1_1?ie=UTF8&qid=1419842630&sr=8-1&keywords=influence+science+and+practice)
+
+#### EA specific advice on pitching
+* [Talking about effective altruism](http://effective-altruism.wikia.com/wiki/Talking_about_effective_altruism)
+* [Facebook discussion on talking about EA](https://www.facebook.com/groups/effective.altruists/permalink/521898141199881/)
+* [GWWC’s Big Awesome Super Duper Starter Packet for Chapters](https://docs.google.com/document/d/1mRDbZgRIefzQ45w6T8xFuluFBFkIc0WNnUX5dpKqjuY/edit#heading=h.lnxbz9)
