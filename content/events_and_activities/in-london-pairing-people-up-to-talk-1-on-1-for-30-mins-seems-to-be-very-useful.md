@@ -24,11 +24,17 @@ We organised an EA weekend in London for people who are already familiar with EA
 2. [Overall feedback](#1on1-2)
 3. [Schedule](#1on1-3)
 4. [Event descriptions and lessons from running them](#1on1-4)
+
 4.1 [One-minute introductions](#1on1-41)
+
 4.2 [Explaining concepts](#1on1-42)
+
 4.3 [Productive disagreements workshop](#1on1-43)
+
 4.4 [Discussing various topics in small groups](#1on1-44)
+
 4.5 ["How to talk about EA" workshop](#1on1-45)
+
 5. [Application forms](#1on1-5)
 
 <a name="1on1-1"></a>
