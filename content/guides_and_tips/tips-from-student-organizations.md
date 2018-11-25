@@ -276,7 +276,7 @@ An incomplete list of things that we’ve needed non-student help for:
 
 * If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try [emailing me](https://www.benkuhn.net/about/), as I may be able to connect you with other folks nearby.
 
-Jeff and Julia usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
+[Jeff](https://www.jefftk.com/index) and [Julia](http://www.givinggladly.com/) usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
 
 An (anonymous) local effective altruist sponsored a matching challenge for our first winter fundraiser, which made it much more credible and much more motivating for people to donate. This made the fundraiser way more exciting both to the students running it and to the folks who donated.
 
