@@ -293,23 +293,23 @@ The event we ran that really got our membership going was what we called the “
 
 1. We cold-emailed a bunch of awesome people asking them to give talks for Harvard Effective Altruism’s philanthropy fellowship.
 
-We also got an anonymous donor to promise to match any funds our philanthropy fellowship raised for the term.
+2. We also got an [anonymous donor](https://www.benkuhn.net/support) to promise to match any funds our philanthropy fellowship raised for the term.
 
-At all of our events at the beginning of the year, we told everyone that we were running a “philanthropy fellowship” program in which fellows would apply and be accepted to attend a series of talks and dinners with our awesome speakers, and run a fundraiser at the end. At this point I believe our list of promised speakers included Peter Singer and Jaan Tallinn, so this generated a fair amount of interest.
+3. At all of our events at the beginning of the year, we told everyone that we were running a “philanthropy fellowship” program in which fellows would apply and be accepted to attend a series of talks and dinners with our awesome speakers, and run a fundraiser at the end. At this point I believe our list of promised speakers included Peter Singer and Jaan Tallinn, so this generated a fair amount of interest.
 
-We put up an application with some basic questions, gave it a deadline, and publicized it to a ton of mailing lists (both ones for which it was on-topic, and dorm-wide mailing lists where it was permissible to hawk random clubs/activities.
+4. We put up an application with some basic questions, gave it a deadline, and publicized it to a ton of mailing lists (both ones for which it was on-topic, and dorm-wide mailing lists where it was permissible to hawk random clubs/activities.
 
-After the deadline, we called back all the applicants we thought were a good fit for a short one-on-one interview with one of the HEA organizers, where we asked them a couple questions (mostly to get to know them) and gave a little spiel about how the fellowship would go (schedule, expectations for attendance, the fundraiser at the end, etc.).
+5. After the deadline, we called back all the applicants we thought were a good fit for a short one-on-one interview with one of the HEA organizers, where we asked them a couple questions (mostly to get to know them) and gave a little spiel about how the fellowship would go (schedule, expectations for attendance, the fundraiser at the end, etc.).
 
 We weren’t very selective at all with the application—we mainly used it to screen out people who were obviously there just to promote their own charities, and I think we invited everyone who interviewed to do the fellowship.
 
 But it still ended up creating a core group of people who came to nearly all of our events and engaged with HEA a lot. I’m not sure about all the factors that led to the success of the philanthropy fellowship, but I have a couple theories. (Note that these are only theories, i.e., not empirically verified—so generalize at your own risk!)
 
-There was a big incentive for joining the fellowship. Although our speakers’ talks were open to the public, the dinners with them were restricted to members of the philanthropy fellowship. We advertised this fact heavily and I’m sure the prospect of dinner with Peter Singer got at least one person to join.
+1. There was a big incentive for joining the fellowship. Although our speakers’ talks were open to the public, the dinners with them were restricted to members of the philanthropy fellowship. We advertised this fact heavily and I’m sure the prospect of dinner with Peter Singer got at least one person to join.
 
-Scarcity creates value. If people perceive your group as hard to get into—even if it isn’t—then they’ll value their membership in it more, and get more excited about your events. This is why we had an application process, even though it was more work for us and we only rejected a couple people.
+2. Scarcity creates value. If people perceive your group as hard to get into—even if it isn’t—then they’ll value their membership in it more, and get more excited about your events. This is why we had an application process, even though it was more work for us and we only rejected a couple people.
 
-We asked for an explicit commitment to attend events first. A problem for a lot of groups is that students are really interested at the beginning of the semester, but as classwork piles on they start to feel swamped and stop going to as many events. Since we asked students to commit to attending the entire fellowship at the beginning of the semester, they tended to make it a higher priority.
+3. We asked for an explicit commitment to attend events first. A problem for a lot of groups is that students are really interested at the beginning of the semester, but as classwork piles on they start to feel swamped and stop going to as many events. Since we asked students to commit to attending the entire fellowship at the beginning of the semester, they tended to make it a higher priority.
 
 ### Advertising strategies
 
@@ -321,7 +321,7 @@ HEA tried a lot of different ways of getting people’s attention. Here are some
 
 One thing almost all student groups do a lot of is tabling. We’ve found that interactive activities work pretty well—we often run Giving Games where we put up $1 for each participant and they decide to donate it to one of a list of charities we provide, based on which one they think will be the most effective.
 
-Giving Games are cool in that tdisplay peoples’ charity choices on a computer, you can very easily randomize what text and what options people see. You can then measure how many people give you their emails at the end of the Giving Game, as a proxy for how engaging they found the game. HEA did some of this research at the end of last semester and found some interesting results.
+Giving Games are cool in that to display peoples’ charity choices on a computer, you can very easily randomize what text and what options people see. You can then measure how many people give you their emails at the end of the Giving Game, as a proxy for how engaging they found the game. HEA did [some of this research](http://harvardea.org/news/2014/06/13/research/) at the end of last semester and found some interesting results.
 
 First, including more speculative charities may decrease people’s engagement. HEA tested a group of three global poverty charities against a group of one global poverty charity, one “meta” charity, and one charity working on existential risks, and found that people offered the latter choice were significantly less likely to put down their emails.
 
@@ -331,11 +331,11 @@ If you’re running an EA group and want to run one, there’s more information 
 
 #### Giant eye-catching posters
 
-And I do mean giant. Harvard has a set of four sandwich boards at the gate between Harvard Yard and the Science Center, which can be reserved one face at a time. Most student organizations take their normal event posters and tile the entire face of the sandwich board with about 20 of these. For our first talk of the semester, we instead decided to blow up our poster of Larry Temkin‘s face by a factor of 20. A surprising number of folks at the event told us that the poster was how they found out about it, and I think a lot of this was that it was more eye-catching than the typical student-group poster.
+And I do mean giant. Harvard has a set of four sandwich boards at the gate between Harvard Yard and the Science Center, which can be reserved one face at a time. Most student organizations take their normal event posters and tile the entire face of the sandwich board with about 20 of these. For our first talk of the semester, we instead decided to blow up our poster of [Larry Temkin‘s](http://en.wikipedia.org/wiki/Larry_Temkin) face by a factor of 20. A surprising number of folks at the event told us that the poster was how they found out about it, and I think a lot of this was that it was more eye-catching than the typical student-group poster.
 
 #### Professors
 
-Often if you’re holding an academic-ish event, professors in related fields will happily promote it in their classes. HEA has had success asking professors in philosophy, economics, and public health to advertise various of our events. Professors also make great allies in general, and asking them to introduce your event in class can be a great icebreaker.
+Often if you’re holding an academic-ish event, professors in related fields will happily promote it in their classes. HEA has had success asking professors in philosophy, economics, and public health to advertise various of our events. Professors also make [great allies in general](https://www.benkuhn.net/support), and asking them to introduce your event in class can be a great icebreaker.
 
 #### Personal appeals
 
@@ -345,7 +345,7 @@ Asking your friends to go to your events isn’t particularly scalable. But for 
 
 HEA has a mailing list of a few hundred students, and we also sent out emails to a number of general-interest mailing lists (e.g. dorm-specific mailing lists).
 
-It looks a bit nicer to send emails to each list individually, and include a little bit of list-specific content in the email. But that’s annoying, because it means you have to cut-and-paste your email to a bunch of different lists. To speed up that process, you can set up a mail merge in Gmail and send a batch of emails with customizations from a spreadsheet.
+It looks a bit nicer to send emails to each list individually, and include a little bit of list-specific content in the email. But that’s annoying, because it means you have to cut-and-paste your email to a bunch of different lists. To speed up that process, you can set up a [mail merge in Gmail](http://lifehacker.com/5508283/how-to-set-up-a-mail-merge-in-gmail-for-personalized-mass-emails) and send a batch of emails with customizations from a spreadsheet.
 
 We also used mail-merges sometimes when emailing applicants for the philanthropy fellowship, and it’s possible that you could use it for cold-emailing professors as well (although we haven’t tried it, and it takes some care to make the writing good enough and specific enough that the generic parts don’t sound bad).
 
@@ -357,17 +357,17 @@ We created Facebook events for all of our talks and mass-invited our classmates 
 
 Mass-inviting all your relevant Facebook friends to every event is a huge slog, of course, because if you don’t want to spam people you have to manually curate the list of people you invite, which means looking through your entire friend list and making a decision for each friend for each event. Fortunately, there’s a much easier way, which takes advantage of the fact that if you make a “friend list” on Facebook, their algorithms will automatically suggest that you add other similar friends to it. Here’s how it works:
 
-First, create a Friend List and add maybe 50 or so classmates on it that you want to invite to your group’s events. Then go to the list and look at the friend suggestions—Facebook will suggest that you add the rest of your classmates. Add whomever you want (I suggest all of them, since invite spam is normal, but if you want to curate the list more heavily, Facebook will get smarter about who it suggests to be on the list).
+1. First, create a Friend List and add maybe 50 or so classmates on it that you want to invite to your group’s events. Then go to the list and look at the friend suggestions—Facebook will suggest that you add the rest of your classmates. Add whomever you want (I suggest all of them, since invite spam is normal, but if you want to curate the list more heavily, Facebook will get smarter about who it suggests to be on the list).
 
-Now add a bookmark in your browser to the following link: javascript:elms=document.getElementsByName("checkableitems\[]");for (i=0;i<elms.length;i++){if (elms\[i].type="checkbox")elms\[i].click()};
+2. Now add a bookmark in your browser to the following link: javascript:elms=document.getElementsByName("checkableitems\[]");for (i=0;i<elms.length;i++){if (elms\[i].type="checkbox")elms\[i].click()};
 
-Now when you want to mass-invite these people to an event, go to the event page and click “Invite Friends”. Click the dropdown that says “Search by Name” and select the list that you made in step 1. You should now see all the people on the list show up below.
+3. Now when you want to mass-invite these people to an event, go to the event page and click “Invite Friends”. Click the dropdown that says “Search by Name” and select the list that you made in step 1. You should now see all the people on the list show up below.
 
-Scroll all the way down that list (this is important—the later checkboxes won’t appear until you scroll down, so you won’t end up inviting everybody otherwise).
+4. Scroll all the way down that list (this is important—the later checkboxes won’t appear until you scroll down, so you won’t end up inviting everybody otherwise).
 
-Click the bookmark you made in step 2. Everyone should be checked off and you can invite them!
+5. Click the bookmark you made in step 2. Everyone should be checked off and you can invite them!
 
-Facebook limits the number of people you can invite in one swoop, so to double-check that you invited everyone, repeat steps 3-4 and verify that all the checkboxes are greyed-out (this means the friend has already been invited). If not, repeat steps 3-5 as necessary.
+6. Facebook limits the number of people you can invite in one swoop, so to double-check that you invited everyone, repeat steps 3-4 and verify that all the checkboxes are greyed-out (this means the friend has already been invited). If not, repeat steps 3-5 as necessary.
 
 This is way faster than manually checking a bunch of boxes—about 30 seconds instead of 5-10 minutes for me. It also means that we can reliably get all the organizers to invite their friends, which means our Facebook events have a much broader reach.
 
