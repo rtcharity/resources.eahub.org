@@ -1,11 +1,12 @@
 ---
-title: Tips from student organizations
+title: Tips from Student Organizations
 date: 2018-11-07T17:34:03.999Z
 description: Tips from student organizers on how to run EA university groups.
 tag: popular
 author: Julia Wise
 ---
 
+## How to run an EA student organization? Here you can find tips from other student organizers. 
 
 From [UC Berkeley](#stutips-berkeley)
 
