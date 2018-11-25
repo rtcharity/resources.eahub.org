@@ -14,7 +14,7 @@ license:
 relatedArticles:
   - {}
 ---
-## How to play the charitable giving game
+### How to play the charitable giving game
 
 Contents
 
@@ -218,7 +218,7 @@ An easy way to engage players is simply to get them to participate in a conversa
 
 {{< keyquote "Positively reinforce “good” behavior.  This doesn’t mean you should interrupt the flow of the conversation, but particularly at the beginning and end of the game you’ll have opportunities to do this.  Offer praise and thanks.  Remind people of the good the donation will do, and that they’re helping a broader cause of understanding giving behavior." >}}
 
-#### Tips for moderating a discussion 
+#### Tips for moderating a discussion
 
 Discussions are an important part of many games.  If you’re moderating or participating in a discussion, please consider the following advice:
 

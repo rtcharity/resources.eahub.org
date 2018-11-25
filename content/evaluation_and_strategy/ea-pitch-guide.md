@@ -10,16 +10,21 @@ license:
 relatedArticles:
   - {}
 ---
-## A compendium of ways to pitch parts of EA. Please [add your own](lean@eahub.org)!
+### A compendium of ways to pitch parts of EA. Please [add your own](lean@eahub.org)!
 
 
 Table of Contents
 
 [EA in General](#pitch-eageneral)
+
 [Cause-Neutrality](#pitch-causes)
+
 [Cost-Effectiveness](#pitch-cost-effectiveness)
+
 [Counterfactual Reasoning & Replaceability](#pitch-counterfactual)
+
 [Impartiality](#pitch-impartiality)
+
 [General Pitching Resources](#pitch-resources)
 
 

@@ -7,7 +7,7 @@ author: Julia Wise (editor)
 originalPublicationURL: >-
   https://docs.google.com/document/d/1m4SQ9-kXiu1TPzQSsYvC2LvlDR3a3yO8ZwRQ_S5RNbw/edit#
 ---
-## How to run an EA student organization? Here are some tips from other student organizers
+### How to run an EA student organization? Here are some tips from other student organizers
 
 From Michael at [King’s College London](#stutips-kcl)
 

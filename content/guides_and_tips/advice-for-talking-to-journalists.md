@@ -8,9 +8,7 @@ illustration: /img/snowden_tissot.jpg
 tag: popular
 author: Julia Wise
 originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
-relatedArticles:
-  - title: Dummy title B
-  - title: Reading Group Guide
+
 ---
 ### When journalists come to local groups or events, how can group members and organizers prepare?
 

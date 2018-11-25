@@ -13,7 +13,7 @@ license:
 relatedArticles:
   - {}
 ---
-## How to run discussions at your EA meetup
+### How to run discussions at your EA meetup
 
 These modules are intended for people just starting out with their group, and provide a very structured guide to running a discussion meetup. There is a list of more starting points for discussions in the LEAN guide to running a meetup, though they are not as structured.
 
