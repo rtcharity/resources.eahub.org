@@ -21,7 +21,8 @@ For general advice on how to get the best out of people in discussions, as well 
 
 How to use these modules: Things that the organiser should read out to the group are in italics. Directions to the organiser are in bold. If you can read over the module beforehand, the presentation will go better, as the text will be in your own words.
 
-[Global Extreme Poverty Reduction](#discussion-poverty)
+[Global Extreme Poverty Reduction](#discussion-poverty) 
+
 [Careers](#discussion-careers)
 
 <a name="discussion-poverty"></a>
@@ -36,7 +37,7 @@ It should take around one to one and a half hours, best for 3-15 people.
 
 ### The activity
 
-_Welcome everyone to the event, thank them for coming, point out where snacks are if there are any_
+_Welcome everyone to the event, thank them for coming, point out where snacks are if there are any._
 
 Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
 
