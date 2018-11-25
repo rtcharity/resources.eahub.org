@@ -1,5 +1,5 @@
 ---
-title: Effective Thesis Project Review 2
+title: Effective Thesis Project Review
 date: 2018-11-25T19:09:58.351Z
 description: >-
   Within the Czech EA Association we have been running the Effective Thesis
