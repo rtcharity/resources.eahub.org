@@ -13,9 +13,9 @@ Julia Wise
 
 From [UC Berkeley](#stutips-berkeley)
 
-From Michael at King’s College London:
+From Michael at [King’s College London](#stutips-kcl)
 
-From Alex Richard at Stanford:
+From Alex Richard at [Stanford](#stutips-stanford)
 
 Getting Official Approval
 
@@ -79,7 +79,7 @@ Extensive writeup here.
 
 
 
-From Michael at King’s College London:
+<a name="stutips-kcl">From Michael at King’s College London:
 
 We ran three events in the year, one of which was a lecture from Peter Singer, which we were amazingly lucky to get. The Singer event was very popular, with around 350 people turning up. The other couple of events we've had have been a series of mini lectures from guest speakers on certain topics. They needed a lot of work to advertise and to ensure people came along, but we got turn outs of around 30-40 people, which is a good number.
 
@@ -87,7 +87,7 @@ We have found most attendees to be Philosophy students. I am a philosophy studen
 
 Next year we're planning on doing a 'Giving Game', which is on this website.
 
-From Alex Richard at Stanford:
+<a name="stutips-stanford">From Alex Richard at Stanford:
 
 Thanks to Michael Dickens, Caroline Ellison, and Kelsey Piper for providing feedback on this section.
 
