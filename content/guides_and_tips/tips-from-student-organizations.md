@@ -356,17 +356,17 @@ We created Facebook events for all of our talks and mass-invited our classmates 
 
 Mass-inviting all your relevant Facebook friends to every event is a huge slog, of course, because if you don’t want to spam people you have to manually curate the list of people you invite, which means looking through your entire friend list and making a decision for each friend for each event. Fortunately, there’s a much easier way, which takes advantage of the fact that if you make a “friend list” on Facebook, their algorithms will automatically suggest that you add other similar friends to it. Here’s how it works:
 
-First, create a Friend List and add maybe 50 or so classmates on it that you want to invite to your group’s events. Then go to the list and look at the friend suggestions—Facebook will suggest that you add the rest of your classmates. Add whomever you want (I suggest all of them, since invite spam is normal, but if you want to curate the list more heavily, Facebook will get smarter about who it suggests to be on the list).
+1. First, create a Friend List and add maybe 50 or so classmates on it that you want to invite to your group’s events. Then go to the list and look at the friend suggestions—Facebook will suggest that you add the rest of your classmates. Add whomever you want (I suggest all of them, since invite spam is normal, but if you want to curate the list more heavily, Facebook will get smarter about who it suggests to be on the list).
 
-Now add a bookmark in your browser to the following link: javascript:elms=document.getElementsByName("checkableitems\[]");for (i=0;i<elms.length;i++){if (elms\[i].type="checkbox")elms\[i].click()};
+2. Now add a bookmark in your browser to the following link: javascript:elms=document.getElementsByName("checkableitems\[]");for (i=0;i<elms.length;i++){if (elms\[i].type="checkbox")elms\[i].click()};
 
-Now when you want to mass-invite these people to an event, go to the event page and click “Invite Friends”. Click the dropdown that says “Search by Name” and select the list that you made in step 1. You should now see all the people on the list show up below.
+3. Now when you want to mass-invite these people to an event, go to the event page and click “Invite Friends”. Click the dropdown that says “Search by Name” and select the list that you made in step 1. You should now see all the people on the list show up below.
 
-Scroll all the way down that list (this is important—the later checkboxes won’t appear until you scroll down, so you won’t end up inviting everybody otherwise).
+4. Scroll all the way down that list (this is important—the later checkboxes won’t appear until you scroll down, so you won’t end up inviting everybody otherwise).
 
-Click the bookmark you made in step 2. Everyone should be checked off and you can invite them!
+5. Click the bookmark you made in step 2. Everyone should be checked off and you can invite them!
 
-Facebook limits the number of people you can invite in one swoop, so to double-check that you invited everyone, repeat steps 3-4 and verify that all the checkboxes are greyed-out (this means the friend has already been invited). If not, repeat steps 3-5 as necessary.
+6. Facebook limits the number of people you can invite in one swoop, so to double-check that you invited everyone, repeat steps 3-4 and verify that all the checkboxes are greyed-out (this means the friend has already been invited). If not, repeat steps 3-5 as necessary.
 
 This is way faster than manually checking a bunch of boxes—about 30 seconds instead of 5-10 minutes for me. It also means that we can reliably get all the organizers to invite their friends, which means our Facebook events have a much broader reach.
 
