@@ -1,5 +1,5 @@
 ---
-title: Why Develop National-level Effective Altruism Organizations?
+title: Why Develop National-Level Effective Altruism Organizations?
 date: 2018-11-22T19:55:20.951Z
 description: >-
   This is the first part of a two-part document on why and how to develop
