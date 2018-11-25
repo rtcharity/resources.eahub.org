@@ -19,11 +19,13 @@ From Ben, [Update on Harvard Activities, Part 1](#stutips-harvard-aug-2014)
 
 From Lynette Bye, [Update on Harvard Activities, Part 2](#stutips-harvard-jan-2015)
 
-<a name="stutips-berkeley"></a> ## From UC Berkeley
+<a name="stutips-berkeley"></a>
+## From UC Berkeley
 
 Extensive writeup here.
 
-<a name="stutips-kcl"></a> ## From Michael at King’s College London
+<a name="stutips-kcl"></a>
+## From Michael at King’s College London
 
 We ran three events in the year, one of which was a lecture from Peter Singer, which we were amazingly lucky to get. The Singer event was very popular, with around 350 people turning up. The other couple of events we've had have been a series of mini lectures from guest speakers on certain topics. They needed a lot of work to advertise and to ensure people came along, but we got turn outs of around 30-40 people, which is a good number.
 
@@ -31,7 +33,8 @@ We have found most attendees to be Philosophy students. I am a philosophy studen
 
 Next year we're planning on doing a 'Giving Game', which is on this website.
 
-<a name="stutips-stanford"></a> ## From Alex Richard at Stanford
+<a name="stutips-stanford"></a>
+## From Alex Richard at Stanford
 
 *Thanks to Michael Dickens, Caroline Ellison, and Kelsey Piper for providing feedback on this section.*
 
@@ -79,7 +82,8 @@ Other models: Harvard brings in speakers, Berkeley teaches a class
 
 * General outreach: e.g. sharing our website/mailing list, handing out flyers, etc. Was probably not effective, at least in terms of getting new attendees to our meetings
 
-<a name="stutips-harvard-may2014"></a> ## From Ben at Harvard
+<a name="stutips-harvard-may2014"></a>
+## From Ben at Harvard
 
 *Originally published on <a href="benkuhn.net">benkuhn.net</a>, May 2014*
 
@@ -149,7 +153,8 @@ What’s the common thread among our best-performing outreach methods? I’m gue
 
 By contrast, our temptation when doing active outreach is to make EA sound as attractive as possible—for instance by bragging about high-profile endorsements, how many smart people are involved, or how interesting/fun/fulfilling it is. But actually, I’m not sure how useful it is to try to arouse interest in people when it’s not already there.
 
-<a name="stutips-harvard-aug-2014"></a> ## From Ben, Update on Harvard Activities, Part 1
+<a name="stutips-harvard-aug-2014"></a>
+## From Ben, Update on Harvard Activities, Part 1
 
 *Originally published on <a href="benkuhn.net">benkuhn.net</a>, August 2014*
 
@@ -369,7 +374,8 @@ Facebook limits the number of people you can invite in one swoop, so to double-c
 
 This is way faster than manually checking a bunch of boxes—about 30 seconds instead of 5-10 minutes for me. It also means that we can reliably get all the organizers to invite their friends, which means our Facebook events have a much broader reach.
 
-<a name="stutips-harvard-jan-2015"></a> ## From Lynette Bye, Update on Harvard Activities, Part 2
+<a name="stutips-harvard-jan-2015"></a>
+## From Lynette Bye, Update on Harvard Activities, Part 2
 
 *January 2015*
 
