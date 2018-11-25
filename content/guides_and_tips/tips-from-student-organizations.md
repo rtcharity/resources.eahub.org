@@ -344,7 +344,7 @@ Asking your friends to go to your events isn’t particularly scalable. But for 
 
 HEA has a mailing list of a few hundred students, and we also sent out emails to a number of general-interest mailing lists (e.g. dorm-specific mailing lists).
 
-It looks a bit nicer to send emails to each list individually, and include a little bit of list-specific content in the email. But that’s annoying, because it means you have to cut-and-paste your email to a bunch of different lists. To speed up that process, you can set up a mail merge in Gmail and send a batch of emails with customizations from a spreadsheet.
+It looks a bit nicer to send emails to each list individually, and include a little bit of list-specific content in the email. But that’s annoying, because it means you have to cut-and-paste your email to a bunch of different lists. To speed up that process, you can set up a [mail merge in Gmail](https://lifehacker.com/5508283/how-to-set-up-a-mail-merge-in-gmail-for-personalized-mass-emails) and send a batch of emails with customizations from a spreadsheet.
 
 We also used mail-merges sometimes when emailing applicants for the philanthropy fellowship, and it’s possible that you could use it for cold-emailing professors as well (although we haven’t tried it, and it takes some care to make the writing good enough and specific enough that the generic parts don’t sound bad).
 
