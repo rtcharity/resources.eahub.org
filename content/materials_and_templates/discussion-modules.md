@@ -13,53 +13,39 @@ license:
 relatedArticles:
   - {}
 ---
-In Depth Discussion Modules
+## How to run discussions at your EA meetup
 
 These modules are intended for people just starting out with their group, and provide a very structured guide to running a discussion meetup. There is a list of more starting points for discussions in the LEAN guide to running a meetup, though they are not as structured.
-
-
 
 For general advice on how to get the best out of people in discussions, as well as general logistical points that are easy to forget when running a meetup, see here, and here.
 
 
 
-How to use these modules: Things that the organiser should read out to the group are in italics. Directions to the organiser are in bold. If you can read over the module beforehand, the presentation will go better, as the text will be in your own words. 
+How to use these modules: Things that the organiser should read out to the group are in italics. Directions to the organiser are in bold. If you can read over the module beforehand, the presentation will go better, as the text will be in your own words.
 
+[Global Extreme Poverty Reduction](#discussion-poverty)
+[Careers](#discussion-careers)
 
+<a name="discussion-poverty"></a>
+## Global Extreme Poverty Reduction
 
-Global Extreme Poverty Reduction
+*This module is based on lessons from Students for High Impact Charity, and the example of the Playpump is taken from Doing Good Better by Will MacAskill.
 
-Careers
+It would work well as a very first meetup, with no prior knowledge of Effective Altruism needed. It may not be very interesting to people who have read a lot about EA before.
 
-
-
-Global Extreme Poverty Reduction
-
-This module is based on lessons from Students for High Impact Charity, and the example of the Playpump is taken from Doing Good Better by Will MacAskill. 
-
-It would work well as a very first meetup, with no prior knowledge of Effective Altruism needed. It may not be very interesting to people who have read a lot about EA before. 
-
-It should take around one to one and a half hours, best for 3-15 people.
-
-
-
-
+It should take around one to one and a half hours, best for 3-15 people.*
 
 Welcome everyone to the event, thank them for coming, point out where snacks are if there are any
 
-
-
-Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?” 
+Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
 
 Today we’re going to look at one way that many effective altruists think people can have a huge amount of impact on the world - in eradicating Extreme Poverty on a global scale
-
-
 
 What is extreme poverty? The world bank defines extreme poverty as living on $1.50 or less. \[Point out what that would be in local currency]. 1.22 billion people live in extreme poverty. Personally I find that figure really hard to get my head around, and impossible to visualise. What do people think about this?
 
 
 
-Ask if anyone has had experience with extreme poverty, and if not then can people imagine living on $1.50 a day? 
+Ask if anyone has had experience with extreme poverty, and if not then can people imagine living on $1.50 a day?
 
 
 
@@ -77,7 +63,7 @@ This figure takes into account the value of growing own food. Someone who grows 
 
 How is this possible? I couldn’t imagine living on $1.50 a day
 
-Extreme poverty entails a huge amount of complex and ongoing hardship. 
+Extreme poverty entails a huge amount of complex and ongoing hardship.
 
 Usually people in extreme poverty aren’t able to afford the required calorie intake and are more likely to die, and die earlier on average.
 
@@ -97,11 +83,11 @@ Play https://www.gapminder.org/videos/dont-panic-end-poverty/ from 2:50-4:51, th
 
 
 
-So global poverty is a problem that is fixable - but the sooner we fix it, the fewer people that have to suffer. So how can we solve it as soon as possible? Lots of people donate money to charities, but it’s hard to tell which ones will do the most good. Let’s look at four charities you might choose to donate to: 
+So global poverty is a problem that is fixable - but the sooner we fix it, the fewer people that have to suffer. So how can we solve it as soon as possible? Lots of people donate money to charities, but it’s hard to tell which ones will do the most good. Let’s look at four charities you might choose to donate to:
 
 
 
-The Against Malaria Foundation works to distribute insecticide treated bednets in the poorest parts of the world. 
+The Against Malaria Foundation works to distribute insecticide treated bednets in the poorest parts of the world.
 
 The Schistosomiasis Control Initiative works to control a parasitic infection known as schistosomiasis (Here’s how to pronounce it)  by distributing medicines
 
@@ -111,7 +97,7 @@ Playpumps builds water pumps that are powered by children playing on merry-go-ro
 
 
 
-Based on that brief run-down of the charities, which would you donate to? 
+Based on that brief run-down of the charities, which would you donate to?
 
 
 
@@ -119,7 +105,7 @@ Get everyone to close their eyes and raise their hands for the one they would do
 
 
 
-Unfortunately what makes us feel good when thinking about charity is not always what does good. Let’s watch this video: 
+Unfortunately what makes us feel good when thinking about charity is not always what does good. Let’s watch this video:
 
 
 
@@ -131,17 +117,17 @@ Spend 5 minutes asking what people think the problems with the playpumps were. I
 
 
 
-Because the playpump used the energy of the merry-go-round to power a pump, the merry-go-round felt like it had a lot of friction. The children playing on the Playpump would get tired quickly and stop playing. 
+Because the playpump used the energy of the merry-go-round to power a pump, the merry-go-round felt like it had a lot of friction. The children playing on the Playpump would get tired quickly and stop playing.
 
-In some villages, the children had to get paid to pump water, some kids fell off and broke limbs, and others vomited from the spinning motion. 
+In some villages, the children had to get paid to pump water, some kids fell off and broke limbs, and others vomited from the spinning motion.
 
-Most of time the women ended up pushing the merry‐go‐ round, which many found tiring and demeaning. 
+Most of time the women ended up pushing the merry‐go‐ round, which many found tiring and demeaning.
 
-Some of the villages had regular handpumps before playpump international turned up, and no one asked them if they wanted these new pumps. 
+Some of the villages had regular handpumps before playpump international turned up, and no one asked them if they wanted these new pumps.
 
-The old handpumps were far better than playpumps, which were less tiring to use, pumped 5 times the amount of water, and cost a quarter of the price. 
+The old handpumps were far better than playpumps, which were less tiring to use, pumped 5 times the amount of water, and cost a quarter of the price.
 
-The playpumps also broke down regularly, leaving the village without water at all, because no one in the village had the tools or knowledge to fix them. 
+The playpumps also broke down regularly, leaving the village without water at all, because no one in the village had the tools or knowledge to fix them.
 
 
 
@@ -151,11 +137,11 @@ Overall, the money spent on the playpump was wasted.
 
 
 
-It’s not simple to work out which charities do the most good. It takes hundreds of hours of careful analysis. But it can be done, and several organisations try to do so, perhaps the most influential being GiveWell. In fact the other three charities are all highly-recommended by GiveWell, and may be up to one hundred times more effective than other charities. You don’t have to take my word for it - you can read every step of their reasoning on their website. 
+It’s not simple to work out which charities do the most good. It takes hundreds of hours of careful analysis. But it can be done, and several organisations try to do so, perhaps the most influential being GiveWell. In fact the other three charities are all highly-recommended by GiveWell, and may be up to one hundred times more effective than other charities. You don’t have to take my word for it - you can read every step of their reasoning on their website.
 
 
 
-The last thing we’ll do today is to look at how rich we all are. We might feel that our donations are insignificant in the scale of things We might feel pretty poor compared to multi-million-dollar CEOs and bankers, but we are actually all very rich globally speaking. 
+The last thing we’ll do today is to look at how rich we all are. We might feel that our donations are insignificant in the scale of things We might feel pretty poor compared to multi-million-dollar CEOs and bankers, but we are actually all very rich globally speaking.
 
 
 
@@ -163,11 +149,11 @@ All take the test on phones etc. Google ‘How rich am I Giving What We Can’
 
 
 
-We’re all extremely privileged to be wealthy compared to the rest of the world, and we can all make a huge difference. If we choose what to do carefully (using the head as well as the heart), we can save many people’s lives, and help the fight against global poverty. And using the head and the heart is what effective altruism is all about. 
+We’re all extremely privileged to be wealthy compared to the rest of the world, and we can all make a huge difference. If we choose what to do carefully (using the head as well as the heart), we can save many people’s lives, and help the fight against global poverty. And using the head and the heart is what effective altruism is all about.
 
 
 
-Thank you all for coming, and if you’d like to keep chatting (about EA or otherwise), we’re going to go to the pub / have drinks here and I’d love to see you at our next meet up. 
+Thank you all for coming, and if you’d like to keep chatting (about EA or otherwise), we’re going to go to the pub / have drinks here and I’d love to see you at our next meet up.
 
 
 
@@ -181,9 +167,9 @@ Make sure to get people’s emails if you haven’t already.
 
 
 
-Careers 
+Careers
 
-This module is based on the careers guide by 80,000 Hours, as well as the Careers Workshop module written by the Local Effective Altruism Network. Make sure to encourage people to take a look at the full careers guide - this module only scratches the surface. 
+This module is based on the careers guide by 80,000 Hours, as well as the Careers Workshop module written by the Local Effective Altruism Network. Make sure to encourage people to take a look at the full careers guide - this module only scratches the surface.
 
 It would work well as a second meetup for a general EA group, or a first meetup for an EA group that focusses more on careers, with no prior knowledge of Effective Altruism needed.
 
@@ -215,7 +201,7 @@ Is it going to be highly paid in the future?
 
 Is is stressful?
 
-Is the working environment unpleasant? 
+Is the working environment unpleasant?
 
 
 
@@ -249,7 +235,7 @@ Discuss some of the other criteria that people came up with in the discussion be
 
 
 
-Work that’s engaging 
+Work that’s engaging
 
 Work that helps others
 
@@ -275,7 +261,7 @@ Lead a discussion on this topic for 5 minutes
 
 
 
-80,000 Hours use the following points to decide. 
+80,000 Hours use the following points to decide.
 
 
 
@@ -301,7 +287,7 @@ Is the problem solvable? If there’s no way you could make any progress in your
 
 
 
-Often overlooked is personal fit. How good are you at the job? If you’re not especially charismatic, party politics may not be for you. 
+Often overlooked is personal fit. How good are you at the job? If you’re not especially charismatic, party politics may not be for you.
 
 
 
@@ -323,7 +309,7 @@ Go around the group and discuss why that career was suggested to that person. Us
 
 Reiterate that anyone who wants more careers advice should get in touch with 80,000 Hours. We've only looked at the surface of the careers guide here, but we’re clear that choosing a personally rewarding career doesn’t have to mean getting loads of money or ‘selling out’, but in fact can be combined with making the world a better place. And that is what Effective Altruism is all about.
 
-Thank you all for coming, and if you’d like to keep chatting (about EA or otherwise), we’re going to go to the pub / have drinks here and I’d love to see you at our next meet up. 
+Thank you all for coming, and if you’d like to keep chatting (about EA or otherwise), we’re going to go to the pub / have drinks here and I’d love to see you at our next meet up.
 
 
 
