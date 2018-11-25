@@ -40,18 +40,19 @@
   line-height: 25px;
   min-height: 30px;
   margin-bottom: 10px;
-  padding: 10px 10px 10px 10px;
   text-align: left;
+  width: 70%;
 }
 
 .action_links_contact {
   background-color: #7BB0A8; /* EAHub Banner green */
-  width: 70%;
+  padding: 10px 10px 10px 10px;
 }
 
 .action_links_no_contact {
   background-color: #635274;
-  width: 70%;
+  padding: 10px 10px 10px 10px;
+
 }
 
 .action_links:hover {
@@ -335,7 +336,7 @@ label {
 @media(max-width: 1000px) {
 
   .action_links {
-    width: 90%
+    width: 100%
   }
 
   .article {
