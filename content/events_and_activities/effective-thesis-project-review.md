@@ -1,5 +1,5 @@
 ---
-title: 'Effective Thesis Project Review 12323213 '
+title: Effective Thesis Project Review
 date: 2018-11-22T19:40:52.732Z
 description: >-
   Within the Czech EA Association we have been running the Effective Thesis
