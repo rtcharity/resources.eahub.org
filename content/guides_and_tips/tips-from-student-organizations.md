@@ -6,7 +6,7 @@ tag: popular
 author: Julia Wise
 ---
 
-## How to run an EA student organization? Here are some tips from other student organizers 
+## How to run an EA student organization? Here are some tips from other student organizers
 
 From [UC Berkeley](#stutips-berkeley)
 
@@ -385,3 +385,5 @@ Similar to what Ben mentioned about keeping people engaged, we are trying to cre
 So far the groups are working well but are developing slowly and mostly consist of a few really involved people. As each group matures, we hope to have more people outside of leadership roles. For now, however, the key is a few really involved people taking each working group and running with it. My working group, the 80k working group, is comprised of three main members who did everything last semester, including hosting one training for potential new members. Next semester we hope to train a team of students to do basic 80k career coaching.
 
 In sum, we are making smaller working groups that people can stay actively involved in after completing the fellowship/joining EA, but it's taking some time to get these groups up and running so that people can join without taking a leadership role. We're hoping to have the groups ready for new members to transition into next semester, but that might be overly optimistic. It will probably take us a while to build them up.
+
+yes.
