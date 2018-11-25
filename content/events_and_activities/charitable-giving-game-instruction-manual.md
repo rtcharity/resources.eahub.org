@@ -98,49 +98,47 @@ Inform players and sponsor of their mutual obligations (see Privacy Policy)
 <a name="#game-elements"></a>
 ## Elements of a game
 
-Players
+<a name="game-elements-1"></a>
+### Players
 
-Where to Find Players
-
+#### Where to Find Players
 
 
 You can find players anywhere.  Some suggestions:
 
-Friends and family.  These people are likely to agree to a request, and you’ll be able to tailor games to suit their interests.
+* Friends and family.  These people are likely to agree to a request, and you’ll be able to tailor games to suit their interests.
 
-Groups with a collective identity (e.g. a sports team, a band, a group of friends, etc.)  This is an efficient strategy, since you inherently get numbers.  Target leaders or people with influence for additional leverage.
+* Groups with a collective identity (e.g. a sports team, a band, a group of friends, etc.)  This is an efficient strategy, since you inherently get numbers.  Target leaders or people with influence for additional leverage.
 
-Random people.  Set up in a high traffic area and invite people to play.  \[see “Pop-up” games in Types of Games]
+* Random people.  Set up in a high traffic area and invite people to play.  \[see “Pop-up” games in Types of Games]
 
-People who are already gathered.  Find settings with a lot of people that could be turned into an opportunity to talk about some EA issues.  \[see “Add-on” games in Types of Games]   
+* People who are already gathered.  Find settings with a lot of people that could be turned into an opportunity to talk about some EA issues.  \[see “Add-on” games in Types of Games]   
 
-People who show interest in a cause.  If someone’s always talking about social justice issues, or even just wearing an Amnesty International button, they’d probably be open to a discussion.  
+* People who show interest in a cause.  If someone’s always talking about social justice issues, or even just wearing an Amnesty International button, they’d probably be open to a discussion.  
 
 
-
-How to invite players
+#### How to invite players
 
 Here are some suggestions on how to approach potential players
 
-Be proactive.  Actively seek out opportunities to invite players.  The more people you invite, the more acceptances you’ll get.  It can’t hurt to ask- it’s not a problem if people say no.
+* Be proactive.  Actively seek out opportunities to invite players.  The more people you invite, the more acceptances you’ll get.  It can’t hurt to ask- it’s not a problem if people say no.
 
-Listen to their input.  Work with the players to come up with a game that fits their interests.    Explain the basic concept, and work with the players to come up with an appealing game design that is likely to encourage better giving.  If you’re asking them to play a specific game, get their feedback and suggestions.
+* Listen to their input.  Work with the players to come up with a game that fits their interests.    Explain the basic concept, and work with the players to come up with an appealing game design that is likely to encourage better giving.  If you’re asking them to play a specific game, get their feedback and suggestions.
 
-Direct people to online games.  If someone expresses interest in games, you can refer people to the online games at APathThatsClear.com, which they can play at their convenience.
+* Direct people to online games.  If someone expresses interest in games, you can refer people to the online games at [APathThatsClear.com](http://www.apaththatsclear.com/), which they can play at their convenience.
 
-Tailor the game to the players’ interests.   Explain to the invitee how effective giving connects to their interest.  Understand the frameworks they’re comfortable with, and give them a choice that’s relevant to their mission.  If you’re inviting a group of volunteer tutors, give a choice of great education charities rather than microfinance vs. soup kitchen.
+* Tailor the game to the players’ interests.   Explain to the invitee how effective giving connects to their interest.  Understand the frameworks they’re comfortable with, and give them a choice that’s relevant to their mission.  If you’re inviting a group of volunteer tutors, give a choice of great education charities rather than microfinance vs. soup kitchen.
 
-Prepare a simple negotiation strategy.  Have a plan, and you’re guaranteed to be more prepared than the person you’re talking to.  Anchor their expectations low, then beat them.  Think about how you can get the most bang for the buck from your resources (budget and time).
+* Prepare a simple negotiation strategy.  Have a plan, and you’re guaranteed to be more prepared than the person you’re talking to.  Anchor their expectations low, then beat them.  Think about how you can get the most bang for the buck from your resources (budget and time).
 
-Keep records.  Take notes about who you invite, how you invite them, and how they respond.  Try to record as much detail as possible.  We’ll analyze across many peoples experiences, and distribute tips on best practices.  
+* Keep records.  Take notes about who you invite, how you invite them, and how they respond.  Try to record as much detail as possible.  We’ll analyze across many peoples experiences, and distribute tips on best practices.  
 
-Explain your own interest.  Help the invitee understand why this is important to you, which will increase their social obligation and their willingness to participate.
+* Explain your own interest.  Help the invitee understand why this is important to you, which will increase their social obligation and their willingness to participate.
 
+<a name="game-elements-2"></a>
+### The Choice of Charities
 
-
-The Choice of Charities
-
-How to Frame the Choice of Charities
+#### How to Frame the Choice of Charities
 
 
 
@@ -148,61 +146,59 @@ Try to frame the players’ choice as “Good vs. Good” or “Good vs. Better�
 
 If the players think the choice is a bad one, just give them a better one!  At the outset, or on the fly, you can introduce a rule that a (super?)majority of players can vote to change the pairing.  Their complaint will presumably be that one charity isn’t good enough.  Let them suggest new charities, and you can offer ideas of your own. If the game turns into a brainstorming session about high impact giving opportunities, that’s great!  
 
-Suggestions for Charities to use
+#### Suggestions for Charities to use
 
 
 
-GiveWell.org is a highly respected charity evaluator, and is a widely used resource among the EA community.  GiveWell is focused on identifying excellent giving opportunities, and their recommendations can be found here:
-
-http://www.givewell.org/charities/top-charities
+GiveWell.org is a highly respected charity evaluator, and is a widely used resource among the EA community.  GiveWell is focused on identifying excellent giving opportunities, and their recommendations can be found [here](http://www.givewell.org/charities/top-charities).
 
 Other ideas for great charities include:
 
-Deworm the world
+* Deworm the world
 
-GiveWell
+* GiveWell
 
-Future of Humanity Institute
+* Future of Humanity Institute
 
-Ploughshares Fund (nuclear disarmament advocacy)
+* Ploughshares Fund (nuclear disarmament advocacy)
 
-Compassion in World Farming
+* Compassion in World Farming
 
-Nurse Family Partnership
+* Nurse Family Partnership
 
-Singularity Institute
+* Singularity Institute
 
-Wikipedia
+* Wikipedia
 
-Khan Academy
+* Khan Academy
 
-TED Talks
+* TED Talks
 
-Acumen Fund
+* Acumen Fund
 
 Some games might pair a great charity with a charity that players might otherwise give to.  These “default” charities might be large, well known organizations, or causes that the players have an obvious connection to.  Some example might include:
 
-Oxfam
+* Oxfam
 
-Red Cross
+* Red Cross
 
-American Cancer Society
+* American Cancer Society
 
-Alma mater
+* Alma mater
 
-Religious causes
+* Religious causes
 
-Etc.
+* Etc.
 
 
-
-Context
+<a name="game-elements-3"></a>
+### Context
 
 
 
 This element of the game encapsulates everything the players do before making their decision (e.g. online survey, having a group discussion, or listening to a lecture).  The information players are given, and the environment they are put in, will both impact the way they think about the question at hand.  
 
-Information about the charities
+#### Information about the charities
 
 
 
@@ -210,7 +206,7 @@ Think about what type of information players will want when making their decisio
 
 
 
-Activities to engage players
+#### Activities to engage players
 
 
 
@@ -222,7 +218,7 @@ An easy way to engage players is simply to get them to participate in a conversa
 
 
 
-Tips for moderating a discussion
+#### Tips for moderating a discussion
 
 
 
@@ -253,16 +249,16 @@ Use arguments suited to the audience.  Some people will respond to a hyper-ratio
 Having an observer present will help you focus on moderating.  An observer can take notes, and can offer objective feedback to the moderator afterwards.  This way the moderator won’t be trying to do too things at once.
 
 
+<a name="game-elements-4"></a>
+### Voting Structure
 
-Voting Structure
-
-How to structure the voting
+#### How to structure the voting
 
 
 
 When thinking about which voting structure to use, be sure to consider a few key issues.
 
-Public vs. Private Voting
+#### Public vs. Private Voting
 
 Public voting is easiest from a logistical standpoint.  However, some people might feel resistant to expressing an unpopular view.  
 
@@ -272,7 +268,7 @@ Anonymous voting is likely to elicit the most honest voting from players.
 
 However, this structure might make players hesitant to give their opinions during discussion, since it might “give away” their answers; in other words, this structure can implicitly validate the notion that charitable decisions shouldn’t be discussed.
 
-Proportional vs. Winner Take All
+#### Proportional vs. Winner Take All
 
 Proportional structures empower each player equally, and every player’s decision leads to real world consequences.  
 
@@ -283,10 +279,10 @@ As we learn to how to design environments likely to encourage a majority of play
 Subtler design choices also matter.  For instance, if players reveal their votes sequentially, later players might be influenced by how others have already behaved.  Before and after voting is particularly helpful.  By taking a preliminary vote prior to any discussion or activities, we’ll be able to directly observe whether and how the Game changed people’s decisions.
 
 
+<a name="game-elements-5"></a>
+### Prize
 
-Prize
-
-How big should the prize be?
+#### How big should the prize be?
 
 
 
@@ -308,7 +304,7 @@ Larger prizes might be appropriate if they help raise additional charitable fund
 
 
 
-Donation Logistics
+#### Donation Logistics
 
 
 
@@ -319,10 +315,10 @@ Donations over $50 will be made through a “Donor Advised Fund”, to provide i
 Donations can be made “In honor of XYZ” or “In XYZ’s name.”  If a particular dedication should be used, please indicate this on the Post Game Report Card, available here:  http://www.apaththatsclear.com/postgame-report-card.html
 
 
+<a name="game-elements-6"></a>
+### Follow-ups
 
-Follow-ups
-
-Why you should offer Follow-ups
+#### Why you should offer Follow-ups
 
 
 
@@ -330,81 +326,71 @@ After the game, players will already be in a generous mood and thinking about ch
 
 
 
-Suggested Follow-Ups to offer
+#### Suggested Follow-Ups to offer
+
+* Join EA chapter (organizations with giving requirements offer a better indication of future donor behavior)
+
+* Join GiveWell mailing list or subscribe to givewell blog
+
+* Join [apaththatsclear.com](www.apaththatsclear.com) mailing list
+
+* Attend meeting
+
+* Play another giving game
+
+* Tell friends about giving games
+
+* Share [apaththatsclear.com](www.apaththatsclear.com) and [givewell.org](www.givewell.org) with social networks
+
+* Set up a one on one talk with one of the organizers or another EA
+
+* Suggested reading
+
+* Always Be Closing… It’s better, for example, to sign someone up for GiveWell’s mailing list on the spot than to ask them to do so in the future.
 
 
-
-Join EA chapter (organizations with giving requirements offer a better indication of future donor behavior)
-
-Join GiveWell mailing list or subscribe to givewell blog
-
-Join apaththatsclear.com mailing list
-
-Attend meeting
-
-Play another giving game
-
-Tell friends about giving games
-
-Share apaththatsclear.com and givewell.org with social networks
-
-Set up a one on one talk with one of the organizers or another EA
-
-Suggested reading
-
-Always Be Closing… It’s better, for example, to sign someone up for GiveWell’s mailing list on the spot than to ask them to do so in the future.
+<a name="game-elements-7"></a>
+### Data Collection
 
 
-
-Data Collection
-
-
-
-Why we’re collecting information
+#### Why we’re collecting information
 
 
 
 Each game should collect information that will help us interpret the results, and learn how to improve future iterations.  We’ll try to standardize aspects of the data collection to facilitate cross-game analysis, though different games will collect different amounts and types of information.  
 
-What to collect
+#### What to collect
 
 
+* Voting results.  How many people voted for each option.
 
+* Player surveys.  Surveys are a great way to gather feedback about the games, and learn more about the players.
 
+* \[link to template survey, which should include link to privacy policy].  
 
-Voting results.  How many people voted for each option.
+* Metrics on follow-ups.  What follow ups were offered?  How many people accepted each option?
 
-Player surveys.  Surveys are a great way to gather feedback about the games, and learn more about the players.
+* Audio/video Recordings.  When feasible, try to record the games.  Video is preferable, but audio is probably easiest, and can be done with a smartphone.  Recordings are incredibly valuable in analyzing games.
 
-\[link to template survey, which should include link to privacy policy].  
+* Waivers:  see Privacy Policy below
 
-Metrics on follow-ups.  What follow ups were offered?  How many people accepted each option?
+* Observer Assessments.  Whoever runs the game should write up their thoughts.   Many games also include an observer, who should do the same.  The more perspectives we can get, the better.  
 
-Audio/video Recordings.  When feasible, try to record the games.  Video is preferable, but audio is probably easiest, and can be done with a smartphone.  Recordings are incredibly valuable in analyzing games.
+* The primary organizer should fill out [this](http://www.apaththatsclear.com/postgame-report-card.html) Postgame Report Card.
 
-Waivers:  see Privacy Policy below
+#### Privacy Policy
 
-Observer Assessments.  Whoever runs the game should write up their thoughts.   Many games also include an observer, who should do the same.  The more perspectives we can get, the better.  
+Goals:
 
-The primary organizer should fill out this Postgame Report Card: http://www.apaththatsclear.com/postgame-report-card.html
+* Respect the privacy of the players and other participants
 
+* Provide an environment that provides honest discourse
 
-
-Privacy Policy
-
-
-
-Goals
-
-Respect the privacy of the players and other participants
-
-Provide an environment that provides honest discourse
-
-Collect sufficient information to conduct effective post-Game analysis and discussion.
+* Collect sufficient information to conduct effective post-Game analysis and discussion.
 
 These goals can obviously come into tension with each other.  The less information we’re allowed to obtain or disclose, the less we’ll be able to interpret the results or explain them to others.  So the key is to find a sensible balance between these goals.  We can use the following principles to get started, and refine them based on feedback.
 
-Principles
+#### Principles
 
 By default, we should not publish any Player names without explicit permission.  So, for example, quotes from discussions and surveys that are posted on the website should all be anonymous.
 
@@ -414,7 +400,7 @@ Be reasonable and use common sense.  Think of what the Players might reasonably 
 
 For example, our first pilot game was with a Princeton singing group.  They were OK with that level of description, but didn’t want the name of the group to be publicized.  That’s a reasonable solution that meets everyone’s needs.
 
-Best practices
+#### Best practices
 
 As mentioned above, try to get some sort of paper trail of consent.
 
@@ -426,9 +412,8 @@ If a privacy agreement is a sticking point in setting up a game, use this as a l
 <a name="game-combining"></a>
 ## Combining the Elements
 
-Basics of Game design
-
-
+<a name="game-combining-1"></a>
+### Basics of Game design
 
 The first step in designing a good game is to set one or more goals (e.g. raise the expected social value of players’ lifetime giving).  Then, try to combine the elements of the game in a coherent fashion to meet your goals.  Certain combinations work better than others- don’t ask players to listen to lecture about malaria, and then choose between a charter school and a microfinance organization.  
 
@@ -436,88 +421,83 @@ Try to be explicit about your logic, and why you think your design will work.  W
 
 If you’re having trouble getting started, pick one element of the game to begin with.  As you get a better idea of what you want to do for that element, other aspects of the design will become clearer.
 
-
-
-Types of Games
-
-
+<a name="game-combining-2"></a>
+### Types of Games
 
 Here are some example frameworks to help get you started thinking strategically about designing games.  These overlap considerably, and aren’t meant to be exhaustive.
 
 Win/Win games ask players to choose between two exceptional charities, ensuring that the donation will be used as efficiently as possible.  Examples:
 
-AMF vs. SCI, GiveWell’s two top recommend charities.
+  * AMF vs. SCI, GiveWell’s two top recommend charities.
 
-Players vote between a best in class world poverty charity and a best in class existential risk charity
+  * Players vote between a best in class world poverty charity and a best in class existential risk charity
 
-Suggestive games are constructed to imply a particular framework for thinking about charity.  Examples:
+  * Suggestive games are constructed to imply a particular framework for thinking about charity.  Examples:
 
-After a lecture about the cost effectiveness of third world interventions relative to first world interventions, players vote between AMF and US based Nurse Family Partnership
+  * After a lecture about the cost effectiveness of third world interventions relative to first world interventions, players vote between AMF and US based Nurse Family Partnership
 
-An EA chapter organizes a game between AMF and Make a Wish Foundation
+  * An EA chapter organizes a game between AMF and Make a Wish Foundation
 
 Group discussion games feature a conversation between the players.  This discussion can be led by a moderator, or freeform.  Examples:
 
-An Resident Assistant moderates a discussion with their residents
+* A Resident Assistant moderates a discussion with their residents
 
-An EA starts a game during a lunch conversation with friends
+* An EA starts a game during a lunch conversation with friends
 
 Online games at APathThatsClear.com can take many forms, are distinctive in that they allow people all over the world to collaborate, and allow individuals to play a Giving Game at their own convenience.  Online games are also highly anonymous.  Examples:
 
-Players choose between two charities related to a TED talk they watch before voting
+* Players choose between two charities related to a TED talk they watch before voting
 
-Players take a survey about their giving philosophies before voting
+* Players take a survey about their giving philosophies before voting
 
 Experimental games are designed to test hypotheses by manipulating one or move variables, and observing the impact on people’s behavior.  Examples:
 
-An online game randomly assigns players to receive “Emotional” or “Logical” descriptions of the charities.
+* An online game randomly assigns players to receive “Emotional” or “Logical” descriptions of the charities.
 
-An Organizer wants to improve a promising game structure that didn’t generate many follow-ups.  They run a similar game, but add food and drinks to encourage players to linger over the signup sheets.
+* An Organizer wants to improve a promising game structure that didn’t generate many follow-ups.  They run a similar game, but add food and drinks to encourage players to linger over the signup sheets.
 
 Activity games have players engage in a task before voting.  Examples:
 
-Players watch a Bill Gates TED talk about malaria and US charter schools, then vote between AMF and KIPP.
+* Players watch a Bill Gates TED talk about malaria and US charter schools, then vote between AMF and KIPP.
 
-At an EA themed dinner party, guests use THINK’s DIY Charity Assessment module (which teaches the difficulty of assessing charities using intuition), and then vote between AMF and SCI, the two top recommended charities of the top charity evaluator.
+* At an EA themed dinner party, guests use THINK’s DIY Charity Assessment module (which teaches the difficulty of assessing charities using intuition), and then vote between AMF and SCI, the two top recommended charities of the top charity evaluator.
 
-Skin in the Game contests ask participants to contribute some, or all, of the donation.
+* Skin in the Game contests ask participants to contribute some, or all, of the donation.
 
-Each player contributes $5 to the donation, and APathThatsClear.com matches their contribution.
+* Each player contributes $5 to the donation, and APathThatsClear.com matches their contribution.
 
-A featured lecturer uses some, or all, of their honorarium to fund the Prize.
+* A featured lecturer uses some, or all, of their honorarium to fund the Prize.
 
-Add-on games find a pre-existing conversation, and attach a relevant giving game.
+* Add-on games find a pre-existing conversation, and attach a relevant giving game.
 
-After a lecture about third world poverty, attendees are allowed to donate to AMF or SCI
+* After a lecture about third world poverty, attendees are allowed to donate to AMF or SCI
 
-Organizers of a charity softball tournament let the participants vote between two great causes to support with the proceeds
+* Organizers of a charity softball tournament let the participants vote between two great causes to support with the proceeds
 
-Viral games try to engage as many players as possible by encouraging players to recruit more people.  
+Viral games try to engage as many players as possible by encouraging players to recruit more people. Examples:
 
-After an online game, Players are asked to forward a link to the game to their friends, with the Player who refers the most friends winning $50 to the charity of their choice.
+* After an online game, Players are asked to forward a link to the game to their friends, with the Player who refers the most friends winning $50 to the charity of their choice.
 
-A student organization chooses between giving $100 to AMF, keeping it for their own budget, or using the money to run games of their own to support the causes they care about
+* A student organization chooses between giving $100 to AMF, keeping it for their own budget, or using the money to run games of their own to support the causes they care about
 
 Topical  games use current events to start a conversation about charity.  Examples:
 
-In the aftermath of a natural disaster, EAs set up a stall asking people to contribute to the most effective charity helping the impacted people.  Afterwards, people who donate are given funds that they can donate to that same charity or a charity like AMF that helps people who suffering with less publicity.    
+* In the aftermath of a natural disaster, EAs set up a stall asking people to contribute to the most effective charity helping the impacted people.  Afterwards, people who donate are given funds that they can donate to that same charity or a charity like AMF that helps people who suffering with less publicity.    
 
-After the US election, Organizers invite the campus Democrats, Republicans, Independents, etc. to try and find areas of agreement by playing a game.
+* After the US election, Organizers invite the campus Democrats, Republicans, Independents, etc. to try and find areas of agreement by playing a game.
 
 Pop-up games involve simply setting up shop in a high traffic area and inviting people to play. Examples:
 
-An EA organization sets up a stall at a student activities fair, and invites people to play a quick Giving Game
+* An EA organization sets up a stall at a student activities fair, and invites people to play a quick Giving Game
 
-An EA goes around the quad starting conversations, and invites interested people to play on online game at their convenience
+* An EA goes around the quad starting conversations, and invites interested people to play on online game at their convenience
 
 
 <a name="game-higher-level"></a>
 ## Higher Level Game Design Strategy
 
-
-
-Estimating the expected value of a game
-
+<a name="game-higher-level"></a>
+### Estimating the expected value of a game
 
 
 The “expected value” (EV) of a game is simply how much “good” it will cause.  Of course this concept is nebulous and impossible to measure (since we can’t know how players would have behaved having never played). However, we can estimate a game’s EV by thinking about a few basic questions.
@@ -532,11 +512,8 @@ If they do donate to different causes, how much better (worse) are they?
 
 This framework helps explain certain common sense conclusions.  For instance, a game that’s expected to get people to give to better charities will have a higher EV if it targets Economics majors than Poetry majors.  Since the former group will likely donate larger dollar sums, improving the impact of their donations will lead to more social benefit.
 
-
-
-Multi game strategy
-
-
+<a name="game-higher-level-2"></a>
+### Multi game strategy
 
 Another crucial component of a game EV is the information it provides, and the impact that information will have on the EV of future games.  At these early stages in this project, this component is magnified, as each game represents a significant portion of our experience.  Furthermore, a robust sample size of games will help garner additional support.
 
