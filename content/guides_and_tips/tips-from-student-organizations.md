@@ -5,10 +5,7 @@ description: Tips from student organizers on how to run EA university groups.
 tag: popular
 author: Julia Wise
 ---
-
-## How to run an EA student organization? Here are some tips from other student organizers 
-
-From [UC Berkeley](#stutips-berkeley)
+## How to run an EA student organization? Here are some tips from other student organizers
 
 From Michael at [King’s College London](#stutips-kcl)
 
@@ -20,12 +17,10 @@ From Ben, [Update on Harvard Activities, Part 1](#stutips-harvard-aug-2014)
 
 From Lynette Bye, [Update on Harvard Activities, Part 2](#stutips-harvard-jan-2015)
 
-<a name="stutips-berkeley"></a>
-## From UC Berkeley
-
-Extensive writeup here.
+From [UC Berkeley](#stutips-berkeley)
 
 <a name="stutips-kcl"></a>
+
 ## From Michael at King’s College London
 
 We ran three events in the year, one of which was a lecture from Peter Singer, which we were amazingly lucky to get. The Singer event was very popular, with around 350 people turning up. The other couple of events we've had have been a series of mini lectures from guest speakers on certain topics. They needed a lot of work to advertise and to ensure people came along, but we got turn outs of around 30-40 people, which is a good number.
@@ -35,9 +30,10 @@ We have found most attendees to be Philosophy students. I am a philosophy studen
 Next year we're planning on doing a 'Giving Game', which is on this website.
 
 <a name="stutips-stanford"></a>
+
 ## From Alex Richard at Stanford
 
-*Thanks to Michael Dickens, Caroline Ellison, and Kelsey Piper for providing feedback on this section.*
+_Thanks to Michael Dickens, Caroline Ellison, and Kelsey Piper for providing feedback on this section._
 
 ### Getting Official Approval
 
@@ -60,12 +56,10 @@ Crucial for groups’ early survival is that the original founders/founder and f
 I’m not sure how to fix this in general; suggestions include:
 
 * Lower expectations of initial turnout/clarify that chapter leaders will likely need to wait around 1-2 years until the group is large and self-sustaining-ish
-
 * Focus more on initial recruitment, to make it more likely that the group gets big and sustainable quickly
-
 * Not sure if this will work; I feel like our history, the norms we’ve established through trial and error, and our community are important above and beyond the number of individual members. One possibility is to hope that there is shared community at the start, via either LW or people who are already EA’s in an area
 
-### Establish A Regular Meeting That Draws People
+\### Establish A Regular Meeting That Draws People
 
 We described ours here; all materials are here
 
@@ -74,23 +68,20 @@ Other models: Harvard brings in speakers, Berkeley teaches a class
 ### Recruitment Methods We’ve Tried
 
 * Relying on personal contacts: Generally low yield, but produced committed people. Was better for us at the start; we eventually basically ran out of easily recruitable and interested people we knew.
-
 * Posting to EA Forum and LW Meetups list: super effective given the minimal time it takes. We got maybe ¼ of our regular attendees from these posts.
-
 * Blind emails: Not effective. We ‘recruited’ exactly one person this way.
-
 * Advertising in-person to interested groups: Effective for us. (e.g. relevant classes, other relevant student groups)
-
 * General outreach: e.g. sharing our website/mailing list, handing out flyers, etc. Was probably not effective, at least in terms of getting new attendees to our meetings
 
 <a name="stutips-harvard-may2014"></a>
+
 ## From Ben at Harvard
 
-*Originally published on <a href="benkuhn.net">benkuhn.net</a>, May 2014*
+_Originally published on <a href="benkuhn.net">benkuhn.net</a>, May 2014_
 
 Many effective altruists want to spread EA ideas. As co-president of Harvard Effective Altruism for the last two years, I have some experience in this area that I thought might be helpful to share. My experience is specific to Harvard Effective Altruism, but the lessons generalize to creating other groups of like-minded people from scratch.
 
-### Word of mouth
+\### Word of mouth
 
 When I first took over HEA, I hoped that we’d be able to spread by word-of-mouth—that I’d find a few friends who seemed like good fits and get them as excited about HEA as I was, and then they’d recruit their own friends and the cycle would repeat.
 
@@ -110,7 +101,7 @@ We also tried using more passive outreach channels: we set up a booth at the “
 
 I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
-### The Philanthropy Fellowship
+\### The Philanthropy Fellowship
 
 Our main project for the past year was running a speaker series called the Philanthropy Fellowship. Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
 
@@ -141,9 +132,7 @@ After the fall philanthropy fellowship ended, we essentially lost touch with man
 But it’s hard to find things for college students to do that satisfy all of the following desirable criteria:
 
 * can be done in the context of an extracurricular activity with a reasonable time commitment per week
-
 * are plausibly an effective use of time for college students
-
 * look like a reasonable use of time for college students to a casual observer
 
 We brainstormed a lot at the end of the semester and came up with some candidate activities, so hopefully we’ll have solved this problem next semester. But it would have been helpful to have thought of them earlier, and we’re still looking for more exciting ones.
@@ -155,9 +144,10 @@ What’s the common thread among our best-performing outreach methods? I’m gue
 By contrast, our temptation when doing active outreach is to make EA sound as attractive as possible—for instance by bragging about high-profile endorsements, how many smart people are involved, or how interesting/fun/fulfilling it is. But actually, I’m not sure how useful it is to try to arouse interest in people when it’s not already there.
 
 <a name="stutips-harvard-aug-2014"></a>
+
 ## From Ben, Update on Harvard Activities, Part 1
 
-*Originally published on <a href="benkuhn.net">benkuhn.net</a>, August 2014*
+_Originally published on <a href="benkuhn.net">benkuhn.net</a>, August 2014_
 
 During my last two years at Harvard, I co-ran Harvard Effective Altruism, bringing it from a membership of one to an organizational board of ten students and scores more who routinely attended our talks. In the hope that some of these tips will help other students start groups of their own, I’ll share the lessons I learned in a series of posts.
 
@@ -376,12 +366,19 @@ Facebook limits the number of people you can invite in one swoop, so to double-c
 This is way faster than manually checking a bunch of boxes—about 30 seconds instead of 5-10 minutes for me. It also means that we can reliably get all the organizers to invite their friends, which means our Facebook events have a much broader reach.
 
 <a name="stutips-harvard-jan-2015"></a>
+
 ## From Lynette Bye, Update on Harvard Activities, Part 2
 
-*January 2015*
+_January 2015_
 
 Similar to what Ben mentioned about keeping people engaged, we are trying to create activities that people can contribute to without needing to take on a huge leadership role. We tend to have a few members get really involved after the fellowship and the rest just drop away. So this semester we started several working groups that new members can join. We temporarily cut back the fellowship to focus on getting the other groups going. We will run a modified fellowship again next spring with part of the curriculum transitioning the new members into these working groups toward the end.
 
 So far the groups are working well but are developing slowly and mostly consist of a few really involved people. As each group matures, we hope to have more people outside of leadership roles. For now, however, the key is a few really involved people taking each working group and running with it. My working group, the 80k working group, is comprised of three main members who did everything last semester, including hosting one training for potential new members. Next semester we hope to train a team of students to do basic 80k career coaching.
 
 In sum, we are making smaller working groups that people can stay actively involved in after completing the fellowship/joining EA, but it's taking some time to get these groups up and running so that people can join without taking a leadership role. We're hoping to have the groups ready for new members to transition into next semester, but that might be overly optimistic. It will probably take us a while to build them up.
+
+<a name="stutips-berkeley"></a>
+
+## From UC Berkeley
+
+Extensive writeup [here](https://docs.google.com/document/d/1KQQXMeD3sIY0quu1jXn19uL10fucjh8-fzCJjDBtXBU/edit).
