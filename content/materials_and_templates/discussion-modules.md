@@ -21,7 +21,8 @@ For general advice on how to get the best out of people in discussions, as well 
 
 How to use these modules: Things that the organiser should read out to the group are in italics. Directions to the organiser are in bold. If you can read over the module beforehand, the presentation will go better, as the text will be in your own words.
 
-[Global Extreme Poverty Reduction](#discussion-poverty)
+[Global Extreme Poverty Reduction](#discussion-poverty) 
+
 [Careers](#discussion-careers)
 
 <a name="discussion-poverty"></a>
@@ -36,7 +37,7 @@ It should take around one to one and a half hours, best for 3-15 people.
 
 ### The activity
 
-_Welcome everyone to the event, thank them for coming, point out where snacks are if there are any_
+_Welcome everyone to the event, thank them for coming, point out where snacks are if there are any._
 
 Hi everyone, and welcome to \[Name of group]. Effective Altruism is a growing social movement that combines both the heart and the head: compassion guided by data and reasoning. It's about dedicating a significant part of one's life to improving the world and rigorously asking the question, “Of all the possible ways to make a difference, how can I make the greatest difference?”
 
@@ -104,7 +105,9 @@ We’re all extremely privileged to be wealthy compared to the rest of the world
 
 Thank you all for coming, and if you’d like to keep chatting (about EA or otherwise), we’re going to go to the pub / have drinks here and I’d love to see you at our next meet up.
 
-_Make sure to get people’s emails if you haven’t already.  _
+_Make sure to get people’s emails if you haven’t already._
+
+{{< keyquote "But despite extreme poverty being a huge source of suffering in the world, it is a problem that is solvable. In fact, in the last century or two, there has been an enormous amount of progress in trying to fix extreme poverty, progress that we maybe don’t hear enough about in the media." >}}
 
 <a name="discussion-careers"></a>
 
@@ -181,7 +184,7 @@ Direct everyone to take the careers quiz at <https://80000hours.org/career-quiz>
 
 _Go around the group and discuss why that career was suggested to that person. Use 80,000 Hours' criteria that are listed above. Keep going until you finish or run out of things to say._
 
-_Reiterate that anyone who wants more careers advice should get in touch with 80,000 Hours._
+_Reiterate that anyone who wants more careers advice should get in touch with 80,000 Hours. _
 
 We've only looked at the surface of the careers guide here, but we’re clear that choosing a personally rewarding career doesn’t have to mean getting loads of money or ‘selling out’, but in fact can be combined with making the world a better place. And that is what Effective Altruism is all about.
 
