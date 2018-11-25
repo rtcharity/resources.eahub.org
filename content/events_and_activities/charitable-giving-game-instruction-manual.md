@@ -216,11 +216,9 @@ If you’re looking for a ready-to-run activity, THINK has created a selection o
 
 An easy way to engage players is simply to get them to participate in a conversation about an interesting topic that can be related to an EA concept.  Keep an eye out for interesting articles/videos/etc. that could be the basis for a good conversation.  You can find links to some interesting materials here: http://www.apaththatsclear.com/links.html.  Alternatively, you can simply run a live version of one of the online games (http://www.apaththatsclear.com/play-now.html), by having a group discussion around their content.
 
-
+{{< keyquote "Positively reinforce “good” behavior.  This doesn’t mean you should interrupt the flow of the conversation, but particularly at the beginning and end of the game you’ll have opportunities to do this.  Offer praise and thanks.  Remind people of the good the donation will do, and that they’re helping a broader cause of understanding giving behavior." >}}
 
 #### Tips for moderating a discussion
-
-
 
 Discussions are an important part of many games.  If you’re moderating or participating in a discussion, please consider the following advice:
 
