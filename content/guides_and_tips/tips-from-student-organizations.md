@@ -320,7 +320,7 @@ HEA tried a lot of different ways of getting people’s attention. Here are some
 
 One thing almost all student groups do a lot of is tabling. We’ve found that interactive activities work pretty well—we often run Giving Games where we put up $1 for each participant and they decide to donate it to one of a list of charities we provide, based on which one they think will be the most effective.
 
-Giving Games are cool in that tdisplay peoples’ charity choices on a computer, you can very easily randomize what text and what options people see. You can then measure how many people give you their emails at the end of the Giving Game, as a proxy for how engaging they found the game. HEA did some of this research at the end of last semester and found some interesting results.
+Giving Games are cool in that to display peoples’ charity choices on a computer, you can very easily randomize what text and what options people see. You can then measure how many people give you their emails at the end of the Giving Game, as a proxy for how engaging they found the game. HEA did some of this [research](http://www.harvardea.org/news/2014/06/13/research/) at the end of last semester and found some interesting results.
 
 First, including more speculative charities may decrease people’s engagement. HEA tested a group of three global poverty charities against a group of one global poverty charity, one “meta” charity, and one charity working on existential risks, and found that people offered the latter choice were significantly less likely to put down their emails.
 
@@ -330,11 +330,11 @@ If you’re running an EA group and want to run one, there’s more information 
 
 #### Giant eye-catching posters
 
-And I do mean giant. Harvard has a set of four sandwich boards at the gate between Harvard Yard and the Science Center, which can be reserved one face at a time. Most student organizations take their normal event posters and tile the entire face of the sandwich board with about 20 of these. For our first talk of the semester, we instead decided to blow up our poster of Larry Temkin‘s face by a factor of 20. A surprising number of folks at the event told us that the poster was how they found out about it, and I think a lot of this was that it was more eye-catching than the typical student-group poster.
+And I do mean giant. Harvard has a set of four sandwich boards at the gate between Harvard Yard and the Science Center, which can be reserved one face at a time. Most student organizations take their normal event posters and tile the entire face of the sandwich board with about 20 of these. For our first talk of the semester, we instead decided to blow up our poster of [Larry Temkin](https://en.wikipedia.org/wiki/Larry_Temkin)‘s face by a factor of 20. A surprising number of folks at the event told us that the poster was how they found out about it, and I think a lot of this was that it was more eye-catching than the typical student-group poster.
 
 #### Professors
 
-Often if you’re holding an academic-ish event, professors in related fields will happily promote it in their classes. HEA has had success asking professors in philosophy, economics, and public health to advertise various of our events. Professors also make great allies in general, and asking them to introduce your event in class can be a great icebreaker.
+Often if you’re holding an academic-ish event, professors in related fields will happily promote it in their classes. HEA has had success asking professors in philosophy, economics, and public health to advertise various of our events. Professors also make [great allies in general](https://www.benkuhn.net/support), and asking them to introduce your event in class can be a great icebreaker.
 
 #### Personal appeals
 
