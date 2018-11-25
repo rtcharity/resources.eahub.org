@@ -84,7 +84,7 @@ Many effective altruists want to spread EA ideas. As co-president of [Harvard Ef
 
 {{< keyquote "What’s the common thread among our best-performing outreach methods? I’m guessing it’s that they select for latent interest in effective altruism. The best advertising we did was passive: we put blurbs in the right places and hoped they piqued people’s interest. Although this probably resulted in a smaller response by the numbers, the people we got were more enthused about EA." >}}
 
-\### Word of mouth
+### Word of mouth
 
 When I first took over HEA, I hoped that we’d be able to spread by word-of-mouth—that I’d find a few friends who seemed like good fits and get them as excited about HEA as I was, and then they’d recruit their own friends and the cycle would repeat.
 
@@ -104,7 +104,7 @@ We also tried using more passive outreach channels: we set up a booth at the “
 
 I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
-### The Philanthropy Fellowship 
+### The Philanthropy Fellowship
 
 Our main project for the past year was running a speaker series called the [Philanthropy Fellowship](http://www.harvardea.org/news/2014/01/29/apply/). Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
 
