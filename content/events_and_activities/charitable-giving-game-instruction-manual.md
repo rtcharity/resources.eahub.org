@@ -218,7 +218,7 @@ An easy way to engage players is simply to get them to participate in a conversa
 
 {{< keyquote "Positively reinforce “good” behavior.  This doesn’t mean you should interrupt the flow of the conversation, but particularly at the beginning and end of the game you’ll have opportunities to do this.  Offer praise and thanks.  Remind people of the good the donation will do, and that they’re helping a broader cause of understanding giving behavior." >}}
 
-#### Tips for moderating a discussion
+#### Tips for moderating a discussion 
 
 Discussions are an important part of many games.  If you’re moderating or participating in a discussion, please consider the following advice:
 
@@ -266,7 +266,7 @@ Anonymous voting is likely to elicit the most honest voting from players.
 
 However, this structure might make players hesitant to give their opinions during discussion, since it might “give away” their answers; in other words, this structure can implicitly validate the notion that charitable decisions shouldn’t be discussed.
 
-#### Proportional vs. Winner Take All
+#### Proportional vs. Winner Take All
 
 Proportional structures empower each player equally, and every player’s decision leads to real world consequences.  
 
