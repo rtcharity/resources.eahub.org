@@ -107,7 +107,7 @@ However, eventually many of my friends did get more interested in EA, seemingly 
 
 We also tried using more passive outreach channels: we set up a booth at the “extracurriculars fair” at the beginning of the year, asked THINK to list us as a chapter on their website, had our events listed in various directories, and so on.
 
-I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and throughtful group.
+I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
 ### The Philanthropy Fellowship
 
