@@ -63,9 +63,9 @@ I’m not sure how to fix this in general; suggestions include:
 
 ### Establish A Regular Meeting That Draws People
 
-We described ours [here](https://forum.effectivealtruism.org/posts/3S3WsFJDtq529Yneu/how-we-run-discussions-at-stanford-ea); all materials are [here](https://drive.google.com/drive/folders/0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00?usp=drive_open)
+* We described ours [here](https://forum.effectivealtruism.org/posts/3S3WsFJDtq529Yneu/how-we-run-discussions-at-stanford-ea); all materials are [here](https://drive.google.com/drive/folders/0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00?usp=drive_open)
 
-Other models: Harvard brings in speakers, Berkeley teaches a class
+* Other models: Harvard brings in speakers, Berkeley teaches a class
 
 ### Recruitment Methods We’ve Tried
 
@@ -81,9 +81,9 @@ Other models: Harvard brings in speakers, Berkeley teaches a class
 
 _Originally published on <a href="benkuhn.net">benkuhn.net</a>, May 2014_
 
-Many effective altruists want to spread EA ideas. As co-president of Harvard Effective Altruism for the last two years, I have some experience in this area that I thought might be helpful to share. My experience is specific to Harvard Effective Altruism, but the lessons generalize to creating other groups of like-minded people from scratch.
+Many effective altruists want to spread EA ideas. As co-president of [Harvard Effective Altruism](http://www.harvardea.org/) for the last two years, I have some experience in this area that I thought might be helpful to share. My experience is specific to Harvard Effective Altruism, but the lessons generalize to creating other groups of like-minded people from scratch.
 
-\### Word of mouth
+### Word of mouth
 
 When I first took over HEA, I hoped that we’d be able to spread by word-of-mouth—that I’d find a few friends who seemed like good fits and get them as excited about HEA as I was, and then they’d recruit their own friends and the cycle would repeat.
 
