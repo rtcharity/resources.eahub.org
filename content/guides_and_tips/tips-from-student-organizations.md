@@ -11,7 +11,7 @@ Julia Wise
 
 
 
-From UC Berkeley
+From [UC Berkeley](#stutips-berkeley)
 
 From Michael at King’s College London:
 
@@ -73,7 +73,7 @@ Facebook event invitations
 
 Update on Harvard activities
 
-From UC Berkeley
+<a name="stutips-berkeley"></a>From UC Berkeley
 
 Extensive writeup here.
 
