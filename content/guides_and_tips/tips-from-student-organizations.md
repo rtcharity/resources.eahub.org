@@ -61,10 +61,9 @@ I’m not sure how to fix this in general; suggestions include:
 * Focus more on initial recruitment, to make it more likely that the group gets big and sustainable quickly
 * Not sure if this will work; I feel like our history, the norms we’ve established through trial and error, and our community are important above and beyond the number of individual members. One possibility is to hope that there is shared community at the start, via either LW or people who are already EA’s in an area.
 
-### Establish A Regular Meeting That Draws People
+### Establish A Regular Meeting That Draws People
 
 * We described ours [here](https://forum.effectivealtruism.org/posts/3S3WsFJDtq529Yneu/how-we-run-discussions-at-stanford-ea); all materials are [here](https://drive.google.com/drive/folders/0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00?usp=drive_open)
-
 * Other models: Harvard brings in speakers, Berkeley teaches a class
 
 ### Recruitment Methods We’ve Tried
@@ -105,7 +104,7 @@ We also tried using more passive outreach channels: we set up a booth at the “
 
 I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
-### The Philanthropy Fellowship 
+\### The Philanthropy Fellowship 
 
 Our main project for the past year was running a speaker series called the [Philanthropy Fellowship](http://www.harvardea.org/news/2014/01/29/apply/). Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
 
@@ -202,7 +201,6 @@ After three hours of such pitches we had a grand total of one person who came ba
 The reason our publicity was so disastrously bad is that I was bad at talking to people, for a couple of reasons:
 
 1. I realized that the idea of HEA seemed crazy: “join us and we’ll try to figure out how to maximize the good we do in the world!”—it combined the tired cliche of trying to save the world with the taboo of declaring that some ways of saving it were better than others. But my mistake was letting other people know that I knew HEA seemed crazy. As soon as they realized that I myself felt goofy, it was game over for convincing them to get involved.
-
 2. Because I felt like I was pushing a crazy idea, I was also worried about wasting people’s time. This was just silly. If the students didn’t want their time wasted, they shouldn’t have tried to run the activities-fair gauntlet. And anyway, they were perfectly capable of extracting themselves from the pitch if they wanted to. We should have been less polite.
 
 By contrast, here’s a similar pitch from when we were advertising in a dining hall this year:
@@ -268,19 +266,12 @@ One easy way that HEA achieved surprising or impressive-seeming things is that w
 An incomplete list of things that we’ve needed non-student help for:
 
 * Our amazing faculty adviser Nir gave us a lot of suggestions and introductions to speakers, checked in periodically when we were having organizational problems, gave us advice on hosting speakers, and was generally all-around ridiculously helpful.
-
 * HEA was actually required to have a faculty adviser per Harvard’s regulations, but I highly recommend having one even if your school doesn’t require you to—you can invite a sympathetic professor to be your official adviser and then meet with them, ask them advice by email, or whatever works for you.
-
 * Other Harvard faculty mentioned our activities in their classes, advertised our speakers, donated to our fundraiser, or had discussions over dinner with our members. These were all immensely helpful. In retrospect I wish we had tried to interact with more faculty, and more closely, than we did—I think many of them would have been happy to help even more.
-
 * If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try [emailing me](https://www.benkuhn.net/about/), as I may be able to connect you with other folks nearby.
-
 * [Jeff](https://www.jefftk.com/index) and [Julia](http://www.givinggladly.com/) usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
-
 * An (anonymous) local effective altruist sponsored a matching challenge for our first winter fundraiser, which made it much more credible and much more motivating for people to donate. This made the fundraiser way more exciting both to the students running it and to the folks who donated.
-
 * Another supporter offered us a substantial amount of money in back-up funds if the Harvard grants that we were applying for didn’t come through. Although we didn’t end up needing the funds last year, it was very helpful to be able to promise speakers with certainty that we’d be able to reimburse their travel and lodging expenses.
-
 * Other folks from the local Boston EA group came to our talks, advertised them to their friends, donated to our fundraiser, let us know when interesting speakers were passing through Boston, and generally provided a ton of miscellaneous advice and help.
 
 I can’t speak for other kinds of student groups, but if you’re starting an effective altruism student group in particular, finding people who are willing to help is pretty easy—just post in the [Facebook group](https://www.facebook.com/groups/effective.altruists/?ref=br_tf) or email me and I’ll put you in touch with folks who can help!
@@ -290,13 +281,9 @@ I can’t speak for other kinds of student groups, but if you’re starting an e
 The event we ran that really got our membership going was what we called the “philanthropy fellowship.” Although the content was specific to HEA’s mission, I think the idea and lessons generalize to any kind of student group. Here’s how the philanthropy fellowship worked:
 
 1. We cold-emailed a bunch of awesome people asking them to give talks for Harvard Effective Altruism’s philanthropy fellowship.
-
 2. We also got an [anonymous donor](https://www.benkuhn.net/support) to promise to match any funds our philanthropy fellowship raised for the term.
-
 3. At all of our events at the beginning of the year, we told everyone that we were running a “philanthropy fellowship” program in which fellows would apply and be accepted to attend a series of talks and dinners with our awesome speakers, and run a fundraiser at the end. At this point I believe our list of promised speakers included Peter Singer and Jaan Tallinn, so this generated a fair amount of interest.
-
 4. We put up an application with some basic questions, gave it a deadline, and publicized it to a ton of mailing lists (both ones for which it was on-topic, and dorm-wide mailing lists where it was permissible to hawk random clubs/activities.
-
 5. After the deadline, we called back all the applicants we thought were a good fit for a short one-on-one interview with one of the HEA organizers, where we asked them a couple questions (mostly to get to know them) and gave a little spiel about how the fellowship would go (schedule, expectations for attendance, the fundraiser at the end, etc.).
 
 We weren’t very selective at all with the application—we mainly used it to screen out people who were obviously there just to promote their own charities, and I think we invited everyone who interviewed to do the fellowship.
@@ -304,9 +291,7 @@ We weren’t very selective at all with the application—we mainly used it to s
 But it still ended up creating a core group of people who came to nearly all of our events and engaged with HEA a lot. I’m not sure about all the factors that led to the success of the philanthropy fellowship, but I have a couple theories. (Note that these are only theories, i.e., not empirically verified—so generalize at your own risk!)
 
 1. There was a big incentive for joining the fellowship. Although our speakers’ talks were open to the public, the dinners with them were restricted to members of the philanthropy fellowship. We advertised this fact heavily and I’m sure the prospect of dinner with Peter Singer got at least one person to join.
-
 2. Scarcity creates value. If people perceive your group as hard to get into—even if it isn’t—then they’ll value their membership in it more, and get more excited about your events. This is why we had an application process, even though it was more work for us and we only rejected a couple people.
-
 3. We asked for an explicit commitment to attend events first. A problem for a lot of groups is that students are really interested at the beginning of the semester, but as classwork piles on they start to feel swamped and stop going to as many events. Since we asked students to commit to attending the entire fellowship at the beginning of the semester, they tended to make it a higher priority.
 
 ### Advertising strategies
@@ -356,15 +341,10 @@ We created Facebook events for all of our talks and mass-invited our classmates 
 Mass-inviting all your relevant Facebook friends to every event is a huge slog, of course, because if you don’t want to spam people you have to manually curate the list of people you invite, which means looking through your entire friend list and making a decision for each friend for each event. Fortunately, there’s a much easier way, which takes advantage of the fact that if you make a “friend list” on Facebook, their algorithms will automatically suggest that you add other similar friends to it. Here’s how it works:
 
 1. First, create a Friend List and add maybe 50 or so classmates on it that you want to invite to your group’s events. Then go to the list and look at the friend suggestions—Facebook will suggest that you add the rest of your classmates. Add whomever you want (I suggest all of them, since invite spam is normal, but if you want to curate the list more heavily, Facebook will get smarter about who it suggests to be on the list).
-
 2. Now add a bookmark in your browser to the following link: javascript:elms=document.getElementsByName("checkableitems\[]");for (i=0;i<elms.length;i++){if (elms\[i].type="checkbox")elms\[i].click()};
-
 3. Now when you want to mass-invite these people to an event, go to the event page and click “Invite Friends”. Click the dropdown that says “Search by Name” and select the list that you made in step 1. You should now see all the people on the list show up below.
-
 4. Scroll all the way down that list (this is important—the later checkboxes won’t appear until you scroll down, so you won’t end up inviting everybody otherwise).
-
 5. Click the bookmark you made in step 2. Everyone should be checked off and you can invite them!
-
 6. Facebook limits the number of people you can invite in one swoop, so to double-check that you invited everyone, repeat steps 3-4 and verify that all the checkboxes are greyed-out (this means the friend has already been invited). If not, repeat steps 3-5 as necessary.
 
 This is way faster than manually checking a bunch of boxes—about 30 seconds instead of 5-10 minutes for me. It also means that we can reliably get all the organizers to invite their friends, which means our Facebook events have a much broader reach.
