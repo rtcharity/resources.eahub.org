@@ -7,6 +7,8 @@ author: Julia Wise
 ---
 ## How to run an EA student organization? Here are some tips from other student organizers
 
+From [UC Berkeley](#stutips-berkeley)
+
 From Michael at [King’s College London](#stutips-kcl)
 
 From Alex Richard at [Stanford](#stutips-stanford)
@@ -17,7 +19,11 @@ From Ben, [Update on Harvard Activities, Part 1](#stutips-harvard-aug-2014)
 
 From Lynette Bye, [Update on Harvard Activities, Part 2](#stutips-harvard-jan-2015)
 
-From [UC Berkeley](#stutips-berkeley)
+<a name="stutips-berkeley"></a>
+
+## From UC Berkeley
+
+Extensive writeup here.
 
 <a name="stutips-kcl"></a>
 
@@ -27,7 +33,7 @@ We ran three events in the year, one of which was a lecture from Peter Singer, w
 
 We have found most attendees to be Philosophy students. I am a philosophy student myself so it may be that we've simply had greater access to advertising to that group, but I think it also has something to do with the content. If you were thinking of running a lecture event, then philosophy students are great to advertise to.
 
-Next year we're planning on doing a 'Giving Game', which is on this website.
+Next year we're planning on doing a 'Giving Game', which is on [this website](http://www.apaththatsclear.com/).
 
 <a name="stutips-stanford"></a>
 
@@ -59,9 +65,9 @@ I’m not sure how to fix this in general; suggestions include:
 * Focus more on initial recruitment, to make it more likely that the group gets big and sustainable quickly
 * Not sure if this will work; I feel like our history, the norms we’ve established through trial and error, and our community are important above and beyond the number of individual members. One possibility is to hope that there is shared community at the start, via either LW or people who are already EA’s in an area
 
-\### Establish A Regular Meeting That Draws People
+### Establish A Regular Meeting That Draws People
 
-We described ours here; all materials are here
+We described ours [here](https://forum.effectivealtruism.org/posts/3S3WsFJDtq529Yneu/how-we-run-discussions-at-stanford-ea); all materials are [here](https://drive.google.com/drive/folders/0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00)
 
 Other models: Harvard brings in speakers, Berkeley teaches a class
 
@@ -79,9 +85,9 @@ Other models: Harvard brings in speakers, Berkeley teaches a class
 
 _Originally published on <a href="benkuhn.net">benkuhn.net</a>, May 2014_
 
-Many effective altruists want to spread EA ideas. As co-president of Harvard Effective Altruism for the last two years, I have some experience in this area that I thought might be helpful to share. My experience is specific to Harvard Effective Altruism, but the lessons generalize to creating other groups of like-minded people from scratch.
+Many effective altruists want to spread EA ideas. As co-president of [Harvard Effective Altruism](http://www.harvardea.org/) for the last two years, I have some experience in this area that I thought might be helpful to share. My experience is specific to Harvard Effective Altruism, but the lessons generalize to creating other groups of like-minded people from scratch.
 
-\### Word of mouth
+### Word of mouth
 
 When I first took over HEA, I hoped that we’d be able to spread by word-of-mouth—that I’d find a few friends who seemed like good fits and get them as excited about HEA as I was, and then they’d recruit their own friends and the cycle would repeat.
 
@@ -97,13 +103,13 @@ However, eventually many of my friends did get more interested in EA, seemingly 
 
 ### Passive discoverability
 
-We also tried using more passive outreach channels: we set up a booth at the “extracurriculars fair” at the beginning of the year, asked THINK to list us as a chapter on their website, had our events listed in various directories, and so on.
+We also tried using more passive outreach channels: we set up a booth at the “extracurriculars fair” at the beginning of the year, asked [THINK](http://thehighimpactnetwork.org/) to list us as a chapter on their website, had our events listed in various directories, and so on.
 
 I’m quite happy with these strategies. Perhaps surprisingly, our booth at the extracurriculars fair is how we found two of our most dedicated members, who both now sit on HEA’s board. THINK also sent a few enthusiastic people to us, and was fairly low-effort from our point of view. And an event we held during Harvard’s visit weekend for high school seniors, which was advertised only through a handbook given to them at the start of the weekend, attracted a surprisingly engaged and thoughtful group.
 
-\### The Philanthropy Fellowship
+### The Philanthropy Fellowship
 
-Our main project for the past year was running a speaker series called the Philanthropy Fellowship. Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
+Our main project for the past year was running a speaker series called the [Philanthropy Fellowship](http://harvardea.org/news/2014/01/29/apply/). Fellows applied to attend dinners with various speakers, some from within Harvard but many from outside. At the end of the semester we picked a project to do as a group: in the fall we fundraised for GiveWell’s three top charities, and in the spring we did a small randomized controlled trial on the best ways to get people engaged. (Data for the trial will be forthcoming shortly.)
 
 Although we accepted almost all applicants, I think that having an application was helpful in screening for fellows who were at least somewhat interested in EA already. It also made the fellowship feel more legitimate and official to those we accepted. (And it also helped us screen out a few people who were obviously participating only to promote their favorite organization.)
 
@@ -113,7 +119,7 @@ On the other hand, both semesters saw substantial attrition in the number of fel
 
 ### High-profile speakers
 
-We also brought in a few very high-profile speakers. The most famous were philosopher Peter Singer and Skype cofounder Jaan Tallinn. While these speakers drew large audiences (Prof. Singer overflowed a 350-seat room), my sense was that most of the audience wasn’t very interested in the rest of HEA’s activities, so we may not have gained very many followers from it.
+We also brought in a few very high-profile speakers. The most famous were philosopher [Peter Singer](https://www.princeton.edu/~psinger/) and Skype cofounder [Jaan Tallinn](https://en.wikipedia.org/wiki/Jaan_Tallinn). While these speakers drew large audiences (Prof. Singer overflowed a 350-seat room), my sense was that most of the audience wasn’t very interested in the rest of HEA’s activities, so we may not have gained very many followers from it.
 
 That’s not to say that I think the talks weren’t worth it. Having high-profile speakers lent credibility to our philanthropy fellowship, which was a good outreach tool. It also gave us more cachet as a group and provided a good task for the core group members to rally around accomplishing.
 
@@ -159,7 +165,7 @@ Far and away the most important factor in HEA’s success is that we had two co-
 
 At first, it was just me running things, and my motivation and excitement about my plans came in bursts. I would get a new idea for a project or event and start organizing it in a flurry of energy—but soon problems would come up, I’d start to think it was doomed to failure and get demoralized, and everything I’d set in motion would grind to a halt. Obviously this was self-defeating and not very helpful for our club’s operations.
 
-Fortunately, towards the end of the first year, John Sturm took the initiative and got involved with organizing events as well. With John to take care of half the organizational burden (and frequently more) and plug away even when I was demoralized, I felt much less overwhelmed about running things. This broke down my aversion that running more events would start another boom-bust motivation cycle for me, and allowed us to do way more things than we could have with just me.
+Fortunately, towards the end of the first year, [John Sturm](http://jasturm.blogspot.com/) took the initiative and got involved with organizing events as well. With John to take care of half the organizational burden (and frequently more) and plug away even when I was demoralized, I felt much less overwhelmed about running things. This broke down my aversion that running more events would start another boom-bust motivation cycle for me, and allowed us to do way more things than we could have with just me.
 
 If you’re more resilient to setbacks and more of a natural leader than I am, it may be less important for you to have a co-organizer. But given that finding a second person is also one of the most popular pieces of startup advice, it seems like it applies to most people, even if they’re as resilient and leader-y as most startup founders. So I’d recommend making it a high priority to find a co-organizer.
 
@@ -231,13 +237,13 @@ By this time, I had gotten over my feeling of goofiness, and just powered throug
 
 ### Getting good speakers
 
-If there’s one thing that I’m proud of about my tenure running HEA, it’s our programming. Last year we had over 10 speakers come to give talks to HEA, including Peter Singer, Jaan Tallinn, and many other extremely popular and busy people. We also raised thousands of dollars to cover honoraria from these speakers. How?
+If there’s one thing that I’m proud of about my tenure running HEA, it’s our programming. Last year we had over 10 speakers come to give talks to HEA, including Peter Singer, Jaan Tallinn, and [many other extremely popular and busy people](http://harvardea.org/events/#past). We also raised thousands of dollars to cover honoraria from these speakers. How?
 
 The trick is to be well-connected like me and John so that you know a diverse pool of famous people and deep-pocketed university organizations to lean on for favors. If you don’t have such a pool already, get out there and network!
 
-…just kidding. I didn’t actually know most of our speakers before I invited them to speak. I just sent them a cold email asking if they wanted to give a talk for HEA (sometimes with an introduction from a friend or our excellent faculty adviser, Nir). We got a lot of silence—my archives are littered with the corpses of unanswered invitations—but we also got a lot of responses, and our awesome lineup of speakers was definitely worth the additional messages cast into the void.
+…just kidding. I didn’t actually know most of our speakers before I invited them to speak. I just sent them a cold email asking if they wanted to give a talk for HEA (sometimes with an introduction from a friend or our excellent faculty adviser, [Nir](http://bioethics.hms.harvard.edu/people/eyal/). We got a lot of silence—my archives are littered with the corpses of unanswered invitations—but we also got a lot of responses, and our awesome lineup of speakers was definitely worth the additional messages cast into the void.
 
-I also have an important sub-tip here. For emailing potential speakers—and also for life in general—I found Boomerang to be totally indispensable. I set any sent emails to return to my inbox in a week if the recipient didn’t respond, and often if I sent them a second follow-up email I’d get a response after that. In fact, Boomerang is practically a requirement to communicate with some professors, who I suspect just have a policy of never responding to email the first time it’s sent… Again—if you rely on email to make important things happen and you don’t have Boomerang, start using Boomerang NOW.
+I also have an important sub-tip here. For emailing potential speakers—and also for life in general—I found [Boomerang](http://www.boomeranggmail.com/referral_download.html?ref=4sbhr) to be totally indispensable. (This is a referral link which will give both of us a month of free paid service if you sign up.) I set any sent emails to return to my inbox in a week if the recipient didn’t respond, and often if I sent them a second follow-up email I’d get a response after that. In fact, Boomerang is practically a requirement to communicate with some professors, who I suspect just have a policy of never responding to email the first time it’s sent… Again—if you rely on email to make important things happen and you don’t have Boomerang, start using Boomerang NOW.
 
 Psychologically, I often found it demoralizing to send cold emails, since each one individually had a fairly low chance of turning into a talk further down the road—it often felt like most of my work was wasted (although our response rate was a lot higher than I thought it would be). I tried to fight this by valuing effort instead of results—I would phrase my goals in terms of “high-quality emails sent” instead of “responses received” or “talks scheduled.”
 
@@ -253,25 +259,25 @@ After spending one too many afternoons on tenterhooks waiting for the room reser
 
 Instead of the hard-nosed, battle-ready bureaucrat I’d been imagining, I was greeted by a very pleasant gentleman named Ron. Ron had gotten some files out of order and then been swamped by requests, because it was the beginning of the semester and all the student groups wanted space. He hadn’t realized we’d been waiting so long, and was happy I’d stopped by to ask about it—especially since we had to have some back-and-forth about the logistics, which went much faster in person than over email.
 
-As a software developer, I’ve been trained to think that if Harvard specifies an interface for students to communicate with institutions, that interface is a Holy Abstraction Barrier That Shall Not Be Crossed. But it turns out that bureaucratic abstractions leak even more than computational ones—the specified interfaces don’t really work very well. Combine that with the depersonalizing medium of email, where everyone is tempted to be rude or stop replying, and you have a recipe for unpleasant experiences.
+As a software developer, I’ve been trained to think that if Harvard specifies an interface for students to communicate with institutions, that interface is a Holy Abstraction Barrier That Shall Not Be Crossed. But it turns out that bureaucratic abstractions [leak](http://www.joelonsoftware.com/articles/LeakyAbstractions.html) even more than computational ones—the specified interfaces don’t really work very well. Combine that with the depersonalizing medium of email, where everyone is tempted to be rude or stop replying, and you have a recipe for unpleasant experiences.
 
 I had the same experience again and again—room booking, financial forms, advertising space, and practically everything else we did went much more smoothly if we showed up in person when we got confused or had something complicated to do. I still try to avoid it when possible—it takes up people’s time and would probably get annoying if we did it excessively, and having to resolve issues in person is a red flag that we’re getting some other part of the process wrong. But if bureaucracy starts to drag on, showing up in person is an almost sure-fire way to speed things along.
 
 ### Outside support
 
-One easy way that HEA achieved surprising or impressive-seeming things is that we reached out to lots of speakers. A second is that we had a ton of support from folks who weren’t in our “core audience” of Harvard students. Both Harvard faculty and other EA-minded people gave us huge amounts of information, technical assistance, introductions, and even offers of funding if we needed it.
+One easy way that HEA achieved surprising or impressive-seeming things is that we reached out to [lots of speakers](http://www.benkuhn.net/good-speakers). A second is that we had a ton of support from folks who weren’t in our “core audience” of Harvard students. Both Harvard faculty and other EA-minded people gave us huge amounts of information, technical assistance, introductions, and even offers of funding if we needed it.
 
 An incomplete list of things that we’ve needed non-student help for:
 
-Our amazing faculty adviser Nir gave us a lot of suggestions and introductions to speakers, checked in periodically when we were having organizational problems, gave us advice on hosting speakers, and was generally all-around ridiculously helpful.
+* Our amazing faculty adviser Nir gave us a lot of suggestions and introductions to speakers, checked in periodically when we were having organizational problems, gave us advice on hosting speakers, and was generally all-around ridiculously helpful.
 
-HEA was actually required to have a faculty adviser per Harvard’s regulations, but I highly recommend having one even if your school doesn’t require you to—you can invite a sympathetic professor to be your official adviser and then meet with them, ask them advice by email, or whatever works for you.
+* HEA was actually required to have a faculty adviser per Harvard’s regulations, but I highly recommend having one even if your school doesn’t require you to—you can invite a sympathetic professor to be your official adviser and then meet with them, ask them advice by email, or whatever works for you.
 
-Other Harvard faculty mentioned our activities in their classes, advertised our speakers, donated to our fundraiser, or had discussions over dinner with our members. These were all immensely helpful. In retrospect I wish we had tried to interact with more faculty, and more closely, than we did—I think many of them would have been happy to help even more.
+* Other Harvard faculty mentioned our activities in their classes, advertised our speakers, donated to our fundraiser, or had discussions over dinner with our members. These were all immensely helpful. In retrospect I wish we had tried to interact with more faculty, and more closely, than we did—I think many of them would have been happy to help even more.
 
-If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try emailing me, as I may be able to connect you with other folks nearby.
+* If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try emailing [me](http://www.benkuhn.net/contact/), as I may be able to connect you with other folks nearby.
 
-Jeff and Julia usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
+[Jeff](https://www.jefftk.com/index) and [Julia](http://www.givinggladly.com/) usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
 
 An (anonymous) local effective altruist sponsored a matching challenge for our first winter fundraiser, which made it much more credible and much more motivating for people to donate. This made the fundraiser way more exciting both to the students running it and to the folks who donated.
 
@@ -279,13 +285,13 @@ Another supporter offered us a substantial amount of money in back-up funds if t
 
 Other folks from the local Boston EA group came to our talks, advertised them to their friends, donated to our fundraiser, let us know when interesting speakers were passing through Boston, and generally provided a ton of miscellaneous advice and help.
 
-I can’t speak for other kinds of student groups, but if you’re starting an effective altruism student group in particular, finding people who are willing to help is pretty easy—just post in the Facebook group or email me and I’ll put you in touch with folks who can help!
+I can’t speak for other kinds of student groups, but if you’re starting an effective altruism student group in particular, finding people who are willing to help is pretty easy—just post in the [Facebook group](https://www.facebook.com/groups/effective.altruists/?ref=br_tf) or email me and I’ll put you in touch with folks who can help!
 
 ### Lessons from the Philanthropy Fellowship
 
 The event we ran that really got our membership going was what we called the “philanthropy fellowship.” Although the content was specific to HEA’s mission, I think the idea and lessons generalize to any kind of student group. Here’s how the philanthropy fellowship worked:
 
-We cold-emailed a bunch of awesome people asking them to give talks for Harvard Effective Altruism’s philanthropy fellowship.
+1. We cold-emailed a bunch of awesome people asking them to give talks for Harvard Effective Altruism’s philanthropy fellowship.
 
 We also got an anonymous donor to promise to match any funds our philanthropy fellowship raised for the term.
 
@@ -376,9 +382,3 @@ Similar to what Ben mentioned about keeping people engaged, we are trying to cre
 So far the groups are working well but are developing slowly and mostly consist of a few really involved people. As each group matures, we hope to have more people outside of leadership roles. For now, however, the key is a few really involved people taking each working group and running with it. My working group, the 80k working group, is comprised of three main members who did everything last semester, including hosting one training for potential new members. Next semester we hope to train a team of students to do basic 80k career coaching.
 
 In sum, we are making smaller working groups that people can stay actively involved in after completing the fellowship/joining EA, but it's taking some time to get these groups up and running so that people can join without taking a leadership role. We're hoping to have the groups ready for new members to transition into next semester, but that might be overly optimistic. It will probably take us a while to build them up.
-
-<a name="stutips-berkeley"></a>
-
-## From UC Berkeley
-
-Extensive writeup [here](https://docs.google.com/document/d/1KQQXMeD3sIY0quu1jXn19uL10fucjh8-fzCJjDBtXBU/edit).
