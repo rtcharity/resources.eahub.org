@@ -12,8 +12,7 @@ relatedArticles:
 ---
 ### A compendium of ways to pitch parts of EA. Please [add your own](lean@eahub.org)!
 
-
-Table of Contents
+*Table of contents*
 
 [EA in General](#pitch-eageneral)
 

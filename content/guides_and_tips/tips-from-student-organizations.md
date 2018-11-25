@@ -9,6 +9,8 @@ originalPublicationURL: >-
 ---
 ### How to run an EA student organization? Here are some tips from other student organizers
 
+*Table of contents*
+
 From Michael at [King’s College London](#stutips-kcl)
 
 From Alex Richard at [Stanford](#stutips-stanford)

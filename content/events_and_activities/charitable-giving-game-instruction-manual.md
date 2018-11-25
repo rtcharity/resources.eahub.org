@@ -16,7 +16,7 @@ relatedArticles:
 ---
 ### How to play the charitable giving game
 
-Contents
+*Table of contents*
 
 I.    [Introduction](#game-intro)    
 
