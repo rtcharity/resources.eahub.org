@@ -32,9 +32,9 @@ This module is based on lessons from Students for High Impact Charity, and the e
 
 It would work well as a very first meetup, with no prior knowledge of Effective Altruism needed. It may not be very interesting to people who have read a lot about EA before.
 
-It should take around one to one and a half hours, best for 3-15 people.*
+It should take around one to one and a half hours, best for 3-15 people.
 
-\### The activity
+### The activity
 
 _Welcome everyone to the event, thank them for coming, point out where snacks are if there are any_
 
@@ -66,7 +66,7 @@ _Draw the discussion to a close, making sure to thank people for what they had t
 
 But despite extreme poverty being a huge source of suffering in the world, it is a problem that is solvable. In fact, in the last century or two, there has been an enormous amount of progress in trying to fix extreme poverty, progress that we maybe don’t hear enough about in the media. I’m going to play a clip from Hans Rosling, Professor of International Health at Karolinska Institutet and co-founder and chairman of the Gapminder Foundation.
 
-_Play https://www.gapminder.org/videos/dont-panic-end-poverty/ from 2:50-4:51, then 35:50 to 41:38._
+_Play [https://www.gapminder.org/videos/dont-panic-end-poverty](https://www.gapminder.org/videos/dont-panic-end-poverty) from 2:50-4:51, then 35:50 to 41:38._
 
 So global poverty is a problem that is fixable - but the sooner we fix it, the fewer people that have to suffer. So how can we solve it as soon as possible? Lots of people donate money to charities, but it’s hard to tell which ones will do the most good. Let’s look at four charities you might choose to donate to:
 
@@ -108,7 +108,7 @@ _Make sure to get people’s emails if you haven’t already.  _
 
 <a name="discussion-careers"></a>
 
-\## Careers
+## Careers
 
 This module is based on the careers guide by 80,000 Hours, as well as the Careers Workshop module written by the Local Effective Altruism Network. Make sure to encourage people to take a look at the full careers guide - this module only scratches the surface.
 
@@ -116,7 +116,7 @@ It would work well as a second meetup for a general EA group, or a first meetup 
 
 It should take around one hour, best for 3-10 people.
 
-\### The activity
+### The activity
 
 _Welcome everyone to the event, thank them for coming, point out where snacks are if there are any._
 
