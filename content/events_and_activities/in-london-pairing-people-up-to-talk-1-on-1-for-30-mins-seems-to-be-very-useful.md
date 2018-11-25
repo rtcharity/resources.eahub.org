@@ -20,17 +20,18 @@ We organised an EA weekend in London for people who are already familiar with EA
 
 ## Table of contents
 
-1. Main lesson: 1 on 1s seem to be very useful
-2. Overall feedback
-3. Schedule
-4. Event descriptions and lessons from running them
-5. One-minute introductions
-6. Explaining concepts
-7. Productive disagreements workshop
-8. Discussing various topics in small groups
-9. "How to talk about EA" workshop
-10. Application forms
+1. [Main lesson: 1 on 1s seem to be very useful]('#1on1-1')
+2. [Overall feedback]('#1on1-2')
+3. [Schedule]('#1on1-3')
+4. [Event descriptions and lessons from running them]('#1on1-4')
+4.1 [One-minute introductions]('#1on1-41')
+4.2 [Explaining concepts]('#1on1-42')
+4.3 [Productive disagreements workshop]('#1on1-43')
+4.4 [Discussing various topics in small groups]('#1on1-44')
+4.5 ["How to talk about EA" workshop]('#1on1-45')
+5. [Application forms]('#1on1-5')
 
+<a name="1on1-1"></a>
 ## Main lesson: 1 on 1s seem to be very useful
 
 We experimented with various event formats. In a feedback form we asked to rate how useful each event was (for having a greater positive impact) on a scale of 1 to 10. According to the feedback, the most valuable event was pairing people up to talk 1 on 1 for 30 minutes:
@@ -62,6 +63,7 @@ We gave each of the participants a piece of paper with [a list of questions](htt
 
 The rest of this post does not contain anything important but could be useful to people who are organising similar events.
 
+<a name="1on1-2"></a>
 ## Overall feedback
 
 30 people attended on at least one of the days (excluding 4 organisers). 25 attendees filled the feedback form. One of the questions was:
@@ -82,6 +84,7 @@ It’s unclear how good people are at answering such a difficult question but ov
 
 You can see a full summary of responses to the feedback form [here](https://docs.google.com/document/d/1ZYT56An4CtOWp_Hc4PCy7QMYtDWcy2msSuTs55tgExA). It includes answers to some free text questions that are not discussed in this post.
 
+<a name="1on1-3"></a>
 ## Schedule
 
 **Saturday**
@@ -138,9 +141,11 @@ You can see a full summary of responses to the feedback form [here](https://docs
 
 Slides from the event can be seen [here](https://docs.google.com/presentation/d/18hXjwkBrhf89xskL3vL2MKCucChOcODkPO5mhCIEbj8/edit#slide=id.p).
 
+<a name="1on1-4"></a>
 ## Event descriptions and lessons from running them
 
-**One-minute introductions**
+<a name="1on1-41"></a>
+### One-minute introductions
 
 Everyone had 1 minute to introduce themselves. The purpose was for people who have something to talk about to know about each other. The following slide was shown to give people ideas on what to talk about:
 
@@ -148,11 +153,13 @@ Everyone had 1 minute to introduce themselves. The purpose was for people who ha
 
 Questions were ordered and picked in a way to make it less intimidating to talk. However, it caused many of the answers to be less informative. It would’ve probably been better to put questions like “What’s your plan for improving the world?” first. It was also difficult to hear what many people said partly due to bad acoustics. Two people wrote that they were uncomfortable introducing themselves. Overall, some online document or a sheet on the wall would have probably been better.
 
-**Explaining concepts**
+<a name="1on1-42"></a>
+### Explaining concepts**
 
 This is an idea we took from [CZEA "Intense EA Weekend" retreat](https://forum.effectivealtruism.org/ea/1mu/review_of_czea_intense_ea_weekend_retreat/) because this was rated as the most useful event at that retreat. The participants were asked to pick from a list of interesting concepts (e.g. scope insensitivity, optimiser’s curse) which ones they would like to have explained to them or explain to others. We used a different sheet from CZEA. Our sheet can be seen [here](https://docs.google.com/spreadsheets/d/18wOt5SljGBXdYIrc1F6Z4JybFfMggoHAo05ToY9MxDo/edit?usp=sharing). We asked people to divide into pairs or small groups and find different people when they hear a gong (every 15 minutes). We told that it is ok to skip topics if they don’t want to explain them or have them explain. According to the feedback, this was not a successful event.
 
-**Productive disagreements workshop**
+<a name="1on1-42"></a>
+### Productive disagreements workshop
 
 This idea was taken from an [event that was ran in New York](https://www.facebook.com/spencer.greenberg/posts/10103261151258532) and adapted for EA purposes. First, I gave a short talk on how to disagree productively. I then asked everyone to rate whether they "agree", "disagree" or are "unsure" on various controversial EA topics and give their opinions on the importance of various causes. A sheet of questions can be seen [here](https://docs.google.com/spreadsheets/d/1rTJ4btZQq6sSj9jsjyfVB_cmlT98M2qfYUIENyDjdjg/edit?usp=sharing) (note that there are two tabs). We then asked participants to pair up, compare sheets, find disagreements and discuss. Every 15 minutes we asked everyone to find a different pair.
 
@@ -160,7 +167,8 @@ One piece of feedback about the event was: “Hard to find disagreement. Many st
 
 One idea was that explaining concepts and productive disagreements workshops could help people to have more productive discussions during 1 on 1s because it sets a tone of talking about EA topics. What is more, people could continue one of these activities during the 1 on 1s. Some people told me that events were successful in this regard. However, it still seems like overall they weren’t very successful.
 
-**Discussing various topics in small groups**
+<a name="1on1-44"></a>
+### Discussing various topics in small groups
 
 The idea was:
 
@@ -170,13 +178,14 @@ The idea was:
 
 This is the way discussions are organised at a philosophy meetup I occasionally attend. One mistake I made is not giving people a minute to think of topics to discuss. The only topics suggested were
 
-* Diversity within EA community 
+* Diversity within EA community
 * Value drift
 * Productivity and self-improvement (this wasn’t really a topic, it had prepared materials)
 
 We separated into three groups to discuss these. Discussions did not work too well, possibly because the groups were too big.
 
-**"How to talk about EA" workshop**
+<a name="1on1-44"></a>
+### "How to talk about EA" workshop
 
 We separated into 4 groups based on which subtopic we wanted to discuss. Subtopics were:
 
@@ -187,6 +196,7 @@ We separated into 4 groups based on which subtopic we wanted to discuss. Subtopi
 
 In the feedback form, two people mentioned that they’d rather this was a workshop (possibly a one that includes roleplay) rather than a discussion.
 
+<a name="1on1-5"></a>
 ## Application forms
 
 We publicly advertised an [expression of interest google form](https://docs.google.com/forms/d/e/1FAIpQLSev-l0qBwH0RPmL3ZA2e7Lq_dXeDAVcsnp_B1FJYyCOXw37SA/viewform). Purposes were:
