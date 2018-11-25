@@ -268,7 +268,7 @@ Anonymous voting is likely to elicit the most honest voting from players.
 
 However, this structure might make players hesitant to give their opinions during discussion, since it might “give away” their answers; in other words, this structure can implicitly validate the notion that charitable decisions shouldn’t be discussed.
 
-#### Proportional vs. Winner Take All
+#### Proportional vs. Winner Take All
 
 Proportional structures empower each player equally, and every player’s decision leads to real world consequences.  
 
