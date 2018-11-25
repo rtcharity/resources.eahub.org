@@ -276,39 +276,39 @@ An incomplete list of things that we’ve needed non-student help for:
 
 * If you don’t know where to look for faculty, try the professors of philosophy (especially ethics), economics (especially development), public health (especially medical ethics), and psychology (especially moral psychology). Also try [emailing me](https://www.benkuhn.net/about/), as I may be able to connect you with other folks nearby.
 
-[Jeff](https://www.jefftk.com/index) and [Julia](http://www.givinggladly.com/) usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
+* [Jeff](https://www.jefftk.com/index) and [Julia](http://www.givinggladly.com/) usually give the first talk of every semester, introducing new members to the ideas of effective altruism. Since they’re more relatable to college students than HEA’s typical speakers are (many of whom are professors or nonprofit executives), they’re great at providing a friendly and welcoming introduction to effective altruism.
 
-An (anonymous) local effective altruist sponsored a matching challenge for our first winter fundraiser, which made it much more credible and much more motivating for people to donate. This made the fundraiser way more exciting both to the students running it and to the folks who donated.
+* An (anonymous) local effective altruist sponsored a matching challenge for our first winter fundraiser, which made it much more credible and much more motivating for people to donate. This made the fundraiser way more exciting both to the students running it and to the folks who donated.
 
-Another supporter offered us a substantial amount of money in back-up funds if the Harvard grants that we were applying for didn’t come through. Although we didn’t end up needing the funds last year, it was very helpful to be able to promise speakers with certainty that we’d be able to reimburse their travel and lodging expenses.
+* Another supporter offered us a substantial amount of money in back-up funds if the Harvard grants that we were applying for didn’t come through. Although we didn’t end up needing the funds last year, it was very helpful to be able to promise speakers with certainty that we’d be able to reimburse their travel and lodging expenses.
 
-Other folks from the local Boston EA group came to our talks, advertised them to their friends, donated to our fundraiser, let us know when interesting speakers were passing through Boston, and generally provided a ton of miscellaneous advice and help.
+* Other folks from the local Boston EA group came to our talks, advertised them to their friends, donated to our fundraiser, let us know when interesting speakers were passing through Boston, and generally provided a ton of miscellaneous advice and help.
 
-I can’t speak for other kinds of student groups, but if you’re starting an effective altruism student group in particular, finding people who are willing to help is pretty easy—just post in the Facebook group or email me and I’ll put you in touch with folks who can help!
+I can’t speak for other kinds of student groups, but if you’re starting an effective altruism student group in particular, finding people who are willing to help is pretty easy—just post in the [Facebook group](https://www.facebook.com/groups/effective.altruists/?ref=br_tf) or email me and I’ll put you in touch with folks who can help!
 
 ### Lessons from the Philanthropy Fellowship
 
 The event we ran that really got our membership going was what we called the “philanthropy fellowship.” Although the content was specific to HEA’s mission, I think the idea and lessons generalize to any kind of student group. Here’s how the philanthropy fellowship worked:
 
-We cold-emailed a bunch of awesome people asking them to give talks for Harvard Effective Altruism’s philanthropy fellowship.
+1. We cold-emailed a bunch of awesome people asking them to give talks for Harvard Effective Altruism’s philanthropy fellowship.
 
-We also got an anonymous donor to promise to match any funds our philanthropy fellowship raised for the term.
+2. We also got an [anonymous donor](https://www.benkuhn.net/support) to promise to match any funds our philanthropy fellowship raised for the term.
 
-At all of our events at the beginning of the year, we told everyone that we were running a “philanthropy fellowship” program in which fellows would apply and be accepted to attend a series of talks and dinners with our awesome speakers, and run a fundraiser at the end. At this point I believe our list of promised speakers included Peter Singer and Jaan Tallinn, so this generated a fair amount of interest.
+3. At all of our events at the beginning of the year, we told everyone that we were running a “philanthropy fellowship” program in which fellows would apply and be accepted to attend a series of talks and dinners with our awesome speakers, and run a fundraiser at the end. At this point I believe our list of promised speakers included Peter Singer and Jaan Tallinn, so this generated a fair amount of interest.
 
-We put up an application with some basic questions, gave it a deadline, and publicized it to a ton of mailing lists (both ones for which it was on-topic, and dorm-wide mailing lists where it was permissible to hawk random clubs/activities.
+4. We put up an application with some basic questions, gave it a deadline, and publicized it to a ton of mailing lists (both ones for which it was on-topic, and dorm-wide mailing lists where it was permissible to hawk random clubs/activities.
 
-After the deadline, we called back all the applicants we thought were a good fit for a short one-on-one interview with one of the HEA organizers, where we asked them a couple questions (mostly to get to know them) and gave a little spiel about how the fellowship would go (schedule, expectations for attendance, the fundraiser at the end, etc.).
+5. After the deadline, we called back all the applicants we thought were a good fit for a short one-on-one interview with one of the HEA organizers, where we asked them a couple questions (mostly to get to know them) and gave a little spiel about how the fellowship would go (schedule, expectations for attendance, the fundraiser at the end, etc.).
 
 We weren’t very selective at all with the application—we mainly used it to screen out people who were obviously there just to promote their own charities, and I think we invited everyone who interviewed to do the fellowship.
 
 But it still ended up creating a core group of people who came to nearly all of our events and engaged with HEA a lot. I’m not sure about all the factors that led to the success of the philanthropy fellowship, but I have a couple theories. (Note that these are only theories, i.e., not empirically verified—so generalize at your own risk!)
 
-There was a big incentive for joining the fellowship. Although our speakers’ talks were open to the public, the dinners with them were restricted to members of the philanthropy fellowship. We advertised this fact heavily and I’m sure the prospect of dinner with Peter Singer got at least one person to join.
+1. There was a big incentive for joining the fellowship. Although our speakers’ talks were open to the public, the dinners with them were restricted to members of the philanthropy fellowship. We advertised this fact heavily and I’m sure the prospect of dinner with Peter Singer got at least one person to join.
 
-Scarcity creates value. If people perceive your group as hard to get into—even if it isn’t—then they’ll value their membership in it more, and get more excited about your events. This is why we had an application process, even though it was more work for us and we only rejected a couple people.
+2. Scarcity creates value. If people perceive your group as hard to get into—even if it isn’t—then they’ll value their membership in it more, and get more excited about your events. This is why we had an application process, even though it was more work for us and we only rejected a couple people.
 
-We asked for an explicit commitment to attend events first. A problem for a lot of groups is that students are really interested at the beginning of the semester, but as classwork piles on they start to feel swamped and stop going to as many events. Since we asked students to commit to attending the entire fellowship at the beginning of the semester, they tended to make it a higher priority.
+3. We asked for an explicit commitment to attend events first. A problem for a lot of groups is that students are really interested at the beginning of the semester, but as classwork piles on they start to feel swamped and stop going to as many events. Since we asked students to commit to attending the entire fellowship at the beginning of the semester, they tended to make it a higher priority.
 
 ### Advertising strategies
 
