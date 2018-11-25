@@ -6,7 +6,7 @@ tag: popular
 author: Julia Wise
 ---
 
-## How to run an EA student organization? Here you can find tips from other student organizers. 
+## How to run an EA student organization? Here are some tips from other student organizers 
 
 From [UC Berkeley](#stutips-berkeley)
 
