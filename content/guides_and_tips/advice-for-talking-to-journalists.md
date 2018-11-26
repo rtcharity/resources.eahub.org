@@ -1,9 +1,9 @@
 ---
-title: Advice for talking to journalists
+title: Advice for Talking to Journalists
 date: 2018-11-08T21:41:41.081Z
 description: >-
-  When journalists come to local groups or events, how can group members and organizers prepare?
-illustration: 
+  When journalists come to local groups or events, how can group members and
+  organizers prepare?
 tag: popular
 author: Julia Wise
 originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
