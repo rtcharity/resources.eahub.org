@@ -5,6 +5,7 @@ description: >
   In our experience leading Harvard EA and Oxford EA, we've made a lot of
   failures and therefore have a fair number of tips we would give to our past
   selves.
+illustration: /img/hubcompass.png
 author: Ales Flidr
 license:
   - name: Creative Commons Attribution-SharaAlike 3.0
