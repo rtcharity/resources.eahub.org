@@ -4,6 +4,7 @@ date: 2018-11-08T21:41:41.081Z
 description: >-
   When journalists come to local groups or events, how can group members and
   organizers prepare?
+illustration: /img/hubcamerashadow.png
 tag: popular
 author: Julia Wise
 originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
@@ -71,3 +72,5 @@ Be gracious about people with differing viewpoints or approaches to doing good. 
 Don’t get drawn into argument, especially where there’s a strong emotive component or a potential for things to get acrimonious. Be calm and even-handed.
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
+
+![Camera]()
