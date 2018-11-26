@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "EA Resource Trail"
+title = "EA Resources"
 theme = "ananke"
 
 SectionPagesMenu = "main"
