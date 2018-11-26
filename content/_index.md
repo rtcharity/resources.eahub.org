@@ -28,7 +28,7 @@ actionLinks:
     url: 'https://goo.gl/forms/eoagK6ude2T0MXI13'
   - name: Group email configuration guide
     url: >-
-      https://docs.google.com/document/d/1_D0RMEwTJKuS7oLczZA4K6JfDA-m2BIyExl2cKoyhAE/edit
+      https://docs.google.com/document/d/1YdkjLgYMoydn_lZ9NRDAsvrMTHeANp2WcoOa9EwMD7M/edit#heading=h.nezv3crs9dlu
   - name: Find or offer volunteering opportunities
     url: 'http://www.eawork.club/'
 calendar:
