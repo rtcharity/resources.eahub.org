@@ -2,6 +2,7 @@
 title: E-mail introducing EA ideas
 date: 2018-11-13T14:53:35.207Z
 description: A template.
+illustration: /img/hubenvelope.png
 author: Richenda Herzig
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
