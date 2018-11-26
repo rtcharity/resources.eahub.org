@@ -4,7 +4,7 @@ date: 2018-11-08T21:41:41.081Z
 description: >-
   This is a sample description of a sample article. We should use a smaller and
   more adequate picture than this one.
-illustration: /img/snowden_tissot.jpg
+illustration: ''
 tag: popular
 author: Julia Wise
 originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
@@ -82,4 +82,4 @@ Don’t get drawn into argument, especially where there’s a strong emotive com
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
 
-![null](/img/sample_image.jpg)
+![null](/img/hubcamerashadow.png)
