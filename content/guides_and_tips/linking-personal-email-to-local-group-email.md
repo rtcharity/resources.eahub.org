@@ -17,7 +17,7 @@ license:
 relatedArticles:
   - {}
 ---
-If you already sort of know how to do this, you can skip ahead to the Configuration settings for the tech-savvy. If you don’t have time to do the setup yet but urgently need to check your group mailbox, use your new Migadu webmail account (details below). Otherwise read on and follow all the steps.
+If you already sort of know how to do this, you can skip ahead to the Configuration settings for the tech-savvy. If you don’t have time to do the setup yet but urgently need to check your group mailbox, use your new [Migadu](https://www.migadu.com/en/index.html) webmail account (details below). Otherwise read on and follow all the steps.
 
 How to use webmail
 How to change your Migadu webmail password
@@ -28,13 +28,11 @@ Configuration settings for the tech-savvy
 
 ## How to use webmail
 
-
 To check your EA Group mailbox directly without it going through to your personal email client (eg. Gmail, Outlook, etc), you may visit https://webmail.migadu.com/ where you can login using the account details we give you, and navigate to the inbox. To enter this way, enter your full group email address (eg. crystal@ealondon.com) and the password of your Migadu email account. This is the place where you will always be able to see your emails, even if the import into your personal (e.g. gmail) mailbox isn’t working.
 
 **If this is your first time using webmail**, we will send a default password to you by email (please contact tech@rtcharity.org if you don’t have a default password). The first thing you must do is change the default password to something new.
 
 How to change your Migadu webmail password
-
 
 **Step 1**
 Log in to Migadu webmail using the steps above. Once logged in, there are three icons in the bottom left corner, click the cog (the third one) which will open a menu:
@@ -46,8 +44,8 @@ In this menu, click Password:
 In “Current password” put the default password you were given. Make a new password (We recommend either very long plain passwords or passwords with special characters, numbers, uppercase, and lowercase letters). Click “Set new password”.
 
 ## 
-A note about aliases
 
+A note about aliases
 
 An alias is like a “nickname” for email. For example, we can make info@example.com be an alias that passes everything it receives to crystal@example.com. This is a very powerful way to have more than one address without actually having more than one mailbox! 
 
@@ -63,8 +61,8 @@ Use these steps to set up donations@eanorthpole.com so that you can send from th
 If Sally decides to leave EA North Pole and instead Billy will be taking care of donations, you will need to ask us to set up a mailbox for Billy and change the alias to send to Billy. Billy will still be able to see the entire history of the donations mailbox through webmail, which is neat.
 
 ## 
-Step-by-step guide to configure EA Group email addresses in Gmail
 
+Step-by-step guide to configure EA Group email addresses in Gmail
 
 **PREREQUISITE**
 
@@ -107,8 +105,8 @@ If you have any trouble with the above steps, feel free to contact tech@rtcharit
 Please note: the steps for configuring your personal mail client are similar across different providers like Hotmail, Outlook, Yahoo etc. However if you can’t work it out, we are happy to help.
 
 ## 
-Sending from an EA Group alias address in Gmail
 
+Sending from an EA Group alias address in Gmail
 
 **NOTE:**
 You **do not** need to do this if you just finished all of Steps 1 through 11 in the step-by-step guide. Also make sure you’ve changed the password for the alias mailbox. Also make sure you’ve read this.
@@ -140,9 +138,9 @@ You should reach this lovely screen:
 **Step 7**
 You’re almost home free. Login to webmail to the alias mailbox. You should see a Gmail confirmation email. Copy the verification over into the popup from above, click “Verify”, and you should be good to go! You should now see your alias address listed in “Send mail as” in your Gmail settings area.
 
-##  
-Configuration settings for the tech-savvy
+## 
 
+Configuration settings for the tech-savvy
 
 For people who already know all about configuring and connecting email accounts, here are the details you’ll need:
 
