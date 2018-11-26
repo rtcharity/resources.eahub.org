@@ -7,6 +7,7 @@
   <div class="header_shadow">
     {{ partial "site-navigation.html" .}}
     <div class="block">
+      {{/* Check whether article is blocked. If, don't show action title. */}}
       {{ if .Params.block }}
       {{ else }}
       <h1 class="fw2 header_page_title white-80">
@@ -20,6 +21,7 @@
 
 
 {{ define "main" }}
+{{/* Check whether article is blocked. If, show 404 message. */}}
 {{ if .Params.block }}
 {{ partial "partial404.html" }}
 {{ else }}
