@@ -4,6 +4,7 @@ date: 2018-11-22T19:57:43.137Z
 description: >-
   Suggestions how to develop national-level effective altruism organizations so
   that they are robustly beneficial.
+illustration: /img/hubclipboard.png
 author: Jan Kulveit
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/QofjcgYDbCxZQe8nQ/suggestions-for-developing-national-level-effective-altruism
