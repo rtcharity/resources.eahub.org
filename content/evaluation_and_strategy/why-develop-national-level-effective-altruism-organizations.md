@@ -4,6 +4,7 @@ date: 2018-11-22T19:55:20.951Z
 description: >-
   This is the first part of a two-part document on why and how to develop
   national-level effective altruism organizations.
+illustration: /img/hubglobe.png
 author: Jan Kulveit
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/a6LXyzYPtCyEZmpS6/why-develop-national-level-effective-altruism-organizations
