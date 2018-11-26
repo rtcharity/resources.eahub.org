@@ -7,6 +7,7 @@ description: >-
   Effective Altruism Norway and the Effect foundation (Stiftelsen Effekt)
   started in September a project to reach out to companies and convince them to
   donate as part of their corporate social responsibility (CSR) efforts.
+illustration: /img/copy-of-reportassessment2.png
 author: 'Bruno, Eirin'
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/BEb36kr8MoY835eKS/project-report-on-the-potential-of-norwegian-csr-donations
