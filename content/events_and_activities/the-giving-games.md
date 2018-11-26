@@ -1,11 +1,12 @@
 ---
-title: The Giving Games
+title: Giving Games
 date: 2018-11-14T15:45:14.506Z
 description: >-
   We give you real money and let you decide which charity is most worthy. If you
   are a student or a teacher, you might like to try our Giving Game designed to
   use with groups on www.shicschools.org. To learn by yourself, continue this
   online course! 
+illustration: /img/chesspiecepurple.png
 author: SHIC
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
