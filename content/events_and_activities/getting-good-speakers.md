@@ -2,6 +2,7 @@
 title: Getting Good Speakers
 date: 2018-11-14T15:41:53.303Z
 description: Tapping into a diverse pool of exceptional speakers.
+illustration: /img/speakers.png
 author: Ben Kuhn
 relatedArticles:
   - {}
