@@ -2,6 +2,7 @@
 title: EA Pitch Guide
 date: 2018-11-13T14:35:16.633Z
 description: A compendium of ways to pitch parts of EA.
+illustration: /img/chatbubble.png
 tag: popular
 author: EA London
 originalPublicationURL: >-
