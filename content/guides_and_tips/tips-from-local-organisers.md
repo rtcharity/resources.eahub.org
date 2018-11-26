@@ -4,6 +4,7 @@ date: 2018-11-15T22:02:37.669Z
 description: >-
   A list of general tips from local organisers as well as specific tips
   regarding locations, discussions, contact management, invitations and RSVPs.
+illustration: /img/copy-of-brainstorm2.png
 author: Julia Wise
 license:
   - name: Creative Commons Attribution-SharaAlike 3.0
