@@ -5,32 +5,21 @@ featured_image: /img/ParallaxFaces19.png
 actionLinks:
   - name: Get a free website for your group
     url: 'https://github.com/rtcharity/lean-site-template'
-  - name: Subscribe to the EA Groups Newsletter
-    url: 'http://eepurl.com/cZz32T'
-  - name: Submit items for the EA Group newsletter
+  - name: Subscribe to the Groups Newsletter
+    url: 'https://eahub.us11.list-manage.com/subscribe?u=48139d2c8cadf4a1bce00bb6f&id=8698ba3df9'
+  - name: Submit items for the Groups Newsletter
     url: >-
       https://goo.gl/CUc5Wg?fbclid=IwAR2iFknaodBLLTlYv1J-a8INNtAQaW5LuuOdUlYG3DrEUGLZWf71Yu5sPWc
-  - name: Update information about your group
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSeoCCtf21WwKtDVKHdmIDFyPZb9BjnWOg-BCjLiY0hMiwVJmw/viewform?usp=sf_link
-  - name: Join the EA Groups Slack team
+  - name: Join other organizers on Slack
     url: >-
       https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I
-  - name: Join the EA Organisers' Facebook group
+  - name: Join other organizers on Facebook
     url: 'https://www.facebook.com/groups/956362287803174/'
-  - contact: true
-    name: Book a call with the LEAN team
-    url: 'https://calendly.com/localeanetwork'
+  - name: Find or offer work opportunities
+    url: 'http://www.eawork.club/'
   - contact: true
     name: Contact LEAN
     url: 'mailto:lean@eahub.org'
-  - name: Sign the EA Group Cooperation Agreement
-    url: 'https://goo.gl/forms/eoagK6ude2T0MXI13'
-  - name: Group email configuration guide
-    url: >-
-      https://docs.google.com/document/d/1YdkjLgYMoydn_lZ9NRDAsvrMTHeANp2WcoOa9EwMD7M/edit#heading=h.nezv3crs9dlu
-  - name: Find or offer volunteering opportunities
-    url: 'http://www.eawork.club/'
 calendar:
   imageLink: /img/hubcalendar.png
   title: EA Calendar
