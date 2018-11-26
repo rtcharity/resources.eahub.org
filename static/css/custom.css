@@ -213,6 +213,10 @@
   visibility: hidden;
 }
 
+.error404 {
+  text-align: center;
+}
+
 .footer {
   background-color: #512B52;
   display: block;

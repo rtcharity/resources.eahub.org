@@ -1,13 +1,18 @@
 {{/* Article page */}}
 
+
+
 {{ define "header" }}
 <header class="header header_page">
   <div class="header_shadow">
     {{ partial "site-navigation.html" .}}
     <div class="block">
+      {{ if .Params.block }}
+      {{ else }}
       <h1 class="fw2 header_page_title white-80">
         {{with .CurrentSection.Title }}{{. }}{{end}}
       </h1>
+      {{ end }}
     </div>
   </div>
 </header>
@@ -15,6 +20,9 @@
 
 
 {{ define "main" }}
+{{ if .Params.block }}
+{{ partial "partial404.html" }}
+{{ else }}
   <article class="article flex-l flex-wrap justify-between mw8 center ph3 ph0-l">
 
     <header class="mt4 w-100">
@@ -60,4 +68,6 @@
     </main>
 
   </article>
+{{ end }}
+
 {{ end }}
