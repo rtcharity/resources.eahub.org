@@ -7,6 +7,7 @@ description: >-
   We organised an EA weekend in London for people who are already familiar with
   EA. A review of CZEA "Intense EA Weekend" retreat was helpful to us so I am
   sharing the lessons we learned as well.
+illustration: /img/handshake.png
 author: Saulius
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/9ozoJpPoNBL6Z5BX5/a-lesson-from-an-ea-weekend-in-london-pairing-people-up-to
