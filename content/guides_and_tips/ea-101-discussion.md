@@ -2,6 +2,7 @@
 title: EA 101 Discussion
 date: 2018-11-14T18:11:02.078Z
 description: Basic discussion guides.
+illustration: /img/hublego.png
 author: CEA
 originalPublicationURL: >-
   https://docs.google.com/document/d/18rSQCuMq4nSwfffJvMNqbChKDVq72UAawNT_wFALoPU/edit
