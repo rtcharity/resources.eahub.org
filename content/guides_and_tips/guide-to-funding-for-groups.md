@@ -6,6 +6,7 @@ description: >-
   further the aim to ‘create a global community of people who have made helping
   others a core part of their lives, and who use evidence and scientific
   reasoning to figure out how to do so as effectively as possible’.
+illustration: /img/copy-of-money2.png
 author: Centre for Effective Altruism
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0

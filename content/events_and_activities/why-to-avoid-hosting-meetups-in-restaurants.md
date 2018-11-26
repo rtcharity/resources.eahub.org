@@ -2,6 +2,7 @@
 title: Why To Avoid Hosting Meetups In Restaurants
 date: 2018-11-14T15:27:33.156Z
 description: Not eating out as an effective social norm?
+illustration: /img/dinnerset.png
 author: Ben Kuhn
 relatedArticles:
   - {}

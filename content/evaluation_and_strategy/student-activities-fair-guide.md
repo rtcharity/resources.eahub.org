@@ -4,6 +4,7 @@ date: 2018-11-13T14:22:03.119Z
 description: >-
   Strategies for how to get as much value as possible for your EA group at the
   student extracurricular fairs.
+illustration: /img/fresherfair.png
 author: CEA
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0

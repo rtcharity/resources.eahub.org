@@ -2,13 +2,17 @@
 title: Advice for talking to journalists
 date: 2018-11-08T21:41:41.081Z
 description: >-
-  When journalists come to local groups or events, how can group members and organizers prepare?
-illustration: 
+  This is a sample description of a sample article. We should use a smaller and
+  more adequate picture than this one.
+illustration: ''
 tag: popular
 author: Julia Wise
 originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
+relatedArticles:
+  - title: Dummy title B
+  - title: Reading Group Guide
 ---
-### When journalists come to local groups or events, how can group members and organizers prepare?
+## When journalists come to local groups or events, how can group members and organizers prepare?
 
 **Risks and benefits**
 
@@ -23,6 +27,8 @@ There is also a problem of being associated with media outlets that are controve
 We’re happy to have journalists contact CEA with questions. Please refer them to info@centreforeffectivealtruism.org.
 
 If a journalist wants to talk with you or your EA group, it’s a good idea to talk to us (at the above address) for any pointers and for help deciding about whether to meet with them.
+
+{{< keyquote "This is the keyquote that sums up the article. It can go over a couple of lines." >}}
 
 **Saying no:**
 
@@ -76,4 +82,4 @@ Don’t get drawn into argument, especially where there’s a strong emotive com
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
 
-![Camera](/img/hubcamerashadow.png)
+![null](/img/hubcamerashadow.png)

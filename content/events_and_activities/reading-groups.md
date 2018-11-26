@@ -6,6 +6,7 @@ description: >-
   semester. We tried to find relevant guides for that, but weren't able to find
   anything comprehensive in the EA community. Because of the need, we started to
   create a guide ourselves. 
+illustration: /img/mugbook.png
 tag: popular
 author: Risto Uuk
 originalPublicationURL: >-

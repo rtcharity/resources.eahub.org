@@ -2,6 +2,7 @@
 title: 'Burnout: What is it and how to Treat it'
 date: 2018-11-22T20:00:02.716Z
 description: Burnout
+illustration: /img/hubpuzzle.png
 tag: popular
 author: Elizabeth
 license:

@@ -5,6 +5,7 @@ description: >-
   The EA community actively grows through word of mouth and on the internet to a
   degree many organizations may not notice, and there is consistent demand for
   volunteer opportunities.
+illustration: /img/hublego.png
 author: Evan Gaensbauer
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/MYth4Ju4kbfHmJRbA/remote-volunteering-opportunities-in-effective-altruism

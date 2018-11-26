@@ -2,6 +2,7 @@
 title: Empirical data on value drift
 date: 2018-11-22T20:01:55.898Z
 description: Why It’s Important to Know the Risk of Value Drift
+illustration: /img/valuedrifttwo.png
 author: Joey
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/mZWFEFpyDs3R6hD3r/empirical-data-on-value-drift

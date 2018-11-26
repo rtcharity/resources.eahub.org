@@ -4,6 +4,7 @@ date: 2018-11-14T18:06:27.500Z
 description: >-
   These modules are intended for people just starting out with their group, and
   provide a very structured guide to running a discussion meetup.
+illustration: /img/copy-of-templates1.png
 author: LEAN
 originalPublicationURL: >-
   https://docs.google.com/document/d/1UuKYUIdbexN88WX32xjnPVUf73101-jH2URP8ztN5dA
