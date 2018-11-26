@@ -22,7 +22,7 @@ Lessons from giving lectures and career workshops in the Netherlands
 
 1. Introduction
 
-The goal of this post is to share my experiences giving EA career workshops and general EA lectures. Both the good ones and the bad ones. I won’t focus on how to give good workshops in general and won’t focus on the marketing. I won’t focus on the content of the workshop (the what) but will focus on the format (the how) of the workshop, for ideas on the content you can visit 80000hours.org. I aim for this to be a very small encyclopedia with ideas which hopefully help other people to set up or improve their own workshops/lectures. 
+The goal of this post is to share my experiences giving EA career workshops and general EA lectures. Both the good ones and the bad ones. I won’t focus on how to give good workshops in general and won’t focus on the marketing. I won’t focus on the content of the workshop (the what) but will focus on the format (the how) of the workshop, for ideas on the content you can visit 80000hours.org. I aim for this to be a very small encyclopedia with ideas which hopefully help other people to set up or improve their own workshops/lectures.
 
 Who is this document for?
 
@@ -94,7 +94,7 @@ Notes
 
 Looking for: Effective Altruism, learning, learning how to do good better
 
-Lack: A spark 
+Lack: A spark
 
 Frequency: approx. 1 in 15
 
@@ -102,7 +102,7 @@ Every workshop there happens to be always at least 1 person who is very enthusia
 
 Recommendation: ensure there is sufficient philosophical depth
 
-3.2 One trick ponies 
+3.2 One trick ponies
 
 Are looking for: certainty, closure
 
@@ -114,17 +114,17 @@ Some people have the idea that there is only one real problem in the world and a
 
 I imagine these people aren’t good at dealing with open ends and uncertainty about the world. Combining this with an online echo chamber and/or social isolation leads them to a firm belief they understand the single cause of much of the worlds suffering.
 
-They often don’t disrupt a workshop too much. I found they mostly ask two types of questions (and ask them only once or twice): 
+They often don’t disrupt a workshop too much. I found they mostly ask two types of questions (and ask them only once or twice):
 
-i. “But aren’t you then just treating symptoms?” 
+i. “But aren’t you then just treating symptoms?”
 
-ii. “And what is the effect of this intervention on \[their pet problem]”. 
+ii. “And what is the effect of this intervention on \[their pet problem]”.
 
 Examples of these questions I’ve encountered: “But if you are giving people unconditional cash, aren’t you just treating the symptoms? Cause what you really want is to help them to be self-supporting in the long run…”, “And what is the effect of treating people for Schistosomiasis on the ground water quality. Because of course these pills all end up in nature and \[… some anecdote of where ground water quality turned was overlooked and turned out to be super important…].” The hard thing about these people that they are usually expert on their small kingdom and you just don’t happen to know the answer.
 
 Recommendation: I don’t feel like these people are the people where EA is looking for so I don’t put too much effort in convincing these people. I just try to keep their disruption to a minimum and make sure they leave happy. Usually it suffices to just be really polite about their question and just say you don’t know (and don’t tell them too directly that you expect their pet cause isn’t really that important).
 
-3.3 The traditionalist 
+3.3 The traditionalist
 
 Are looking for: recognition, feeling in the loop, consensus, being part of the good guys.
 
@@ -134,17 +134,17 @@ Frequency: approx. 1 in 5
 
 Sometimes they are older people with a history of working for an NGO’s, or an altruistic branch of a government or university. Sometimes they are young people studying something with the words “sustainable”,”international” or “development” in the title and preferably all three. You can recognise them by their clothing, which is really run of the mill and slightly formal.
 
-I’ve found these people to be really entrenched in their way of thinking. Somehow they have turned truth into a popularity contest. A logical sound argument doesn’t convince, an appeal to authority does. Showing raw data of an RCT hardly convinces, dressing the right way does. Being a statistician and recommending AMF doesn’t really convince, being an experienced biologist and recommending AMF does. You have to speak the proper and up-to-date jargon. Your slides need to look the part. You get extra points if you exude that things are trivial to you and if you refer to common knowledge in an offhand way. Personal anecdotes, evocative language and stating your professional experience definitely also work. Finally you have to frequently mention how difficult and complex altruism is. Basically, when you encounter a talk which feels like a commercial or Hollywood movie you know you’re listening to a traditionalist. 
+I’ve found these people to be really entrenched in their way of thinking. Somehow they have turned truth into a popularity contest. A logical sound argument doesn’t convince, an appeal to authority does. Showing raw data of an RCT hardly convinces, dressing the right way does. Being a statistician and recommending AMF doesn’t really convince, being an experienced biologist and recommending AMF does. You have to speak the proper and up-to-date jargon. Your slides need to look the part. You get extra points if you exude that things are trivial to you and if you refer to common knowledge in an offhand way. Personal anecdotes, evocative language and stating your professional experience definitely also work. Finally you have to frequently mention how difficult and complex altruism is. Basically, when you encounter a talk which feels like a commercial or Hollywood movie you know you’re listening to a traditionalist.
 
 It might seem I’m exaggerating but I’m definitely not (think politicians during election time and how you’d expect them to be rational and compare this to how they are actually behaving). Just a couple of short of anecdotes to illustrate how this affected me.
 
 i. During one of my workshops I had someone attending who was there to figure out if they wanted to host one of my workshops themselves. Before the workshop started I made the mistake asking what was on her laptop. It turned out to be the infographic of the sustainable development goals (which I didn’t recognize). You could see in her eyes that at that point I had lost all credibility (took me only 20 seconds! Beat that guys :P ). Needless to say, I didn’t get invited to do a workshop there.
 
-ii. Another time Sjir Hoeijmakers (co-founder of EAN) and I had a conference call with someone who was interested in hosting a workshop. The first 15 minutes she asked me questions and I tried to answer honestly and in detail. It was clear she wasn’t convinced. At a certain point in time she asked a question which Sjir answered... Well kind of answered... I couldn’t understand the answer but it contained a lot of difficult words, different countries, Oxford etc. After this she said: “hmmm, I wasn’t that convinced, but this actually sounds really good!”. I was absolutely sure she couldn’t have followed what Sjir was saying. 
+ii. Another time Sjir Hoeijmakers (co-founder of EAN) and I had a conference call with someone who was interested in hosting a workshop. The first 15 minutes she asked me questions and I tried to answer honestly and in detail. It was clear she wasn’t convinced. At a certain point in time she asked a question which Sjir answered... Well kind of answered... I couldn’t understand the answer but it contained a lot of difficult words, different countries, Oxford etc. After this she said: “hmmm, I wasn’t that convinced, but this actually sounds really good!”. I was absolutely sure she couldn’t have followed what Sjir was saying.
 
 iii. Again, when talking to someone who was interested in hosting a workshop the SDG’s (sustainable development goals) passed the conversation. She was talking about how she really would like an advanced workshop  she voiced something along the lines: “You don’t want to start all over. Some people don’t even know the SDG’s!” (with the tone of surprise I would voice when some adult doesn’t know how to do multiplication).
 
-I wondered how this truth as popularity contest came to be. I can imagine a couple of reasons but can only speculate: First, in computer science your program either runs or doesn’t. In mathematics, a proof is right or wrong. In engineering your bridge either holds or doesn’t. I feel that the most common background for traditionalists might be more focused on writing essays. Writing essays might be more biased towards making a persuasive argument (rather than a correct argument). Might be more biased towards writing something your teacher likes (rather than something correct). Later in their life this might continue because they have to write proposals for policymakers for certain grants. Once again, the reward is given for convincing someone, not for the correctness of the idea. Second might be that it is self-sustaining (only those who are popular make the rules) and a final reason: imagine that you’ve been working in the field for 40 years, how easy is it to face the idea that you might not have been all that effective? 
+I wondered how this truth as popularity contest came to be. I can imagine a couple of reasons but can only speculate: First, in computer science your program either runs or doesn’t. In mathematics, a proof is right or wrong. In engineering your bridge either holds or doesn’t. I feel that the most common background for traditionalists might be more focused on writing essays. Writing essays might be more biased towards making a persuasive argument (rather than a correct argument). Might be more biased towards writing something your teacher likes (rather than something correct). Later in their life this might continue because they have to write proposals for policymakers for certain grants. Once again, the reward is given for convincing someone, not for the correctness of the idea. Second might be that it is self-sustaining (only those who are popular make the rules) and a final reason: imagine that you’ve been working in the field for 40 years, how easy is it to face the idea that you might not have been all that effective?
 
 In the workshop these people can be tough. They can judge you in the first 5 minutes and not like you for the remainder of the workshop, based solely on how you present the information (rather than on the information itself). The good news is that they’re quite conformist and polite so as long as the rest of the group likes you they’ll usually not give you too much trouble.
 
@@ -164,7 +164,7 @@ Steve Howard: Let’s go all-in on selling sustainability A classical example of
 
 Rory Stewart OBE: “Failed states and how not to fix them” (long) Actually a lovely lecture of a traditionalist talk done in the right way.
 
-www.drawdown.org This seems the traditionalist version of EA. They try to compare different options on reducing climate change. They lack epistemic rigour (no info on discounting, they only look at the scale of a solution, not at tractability) but sell it very well (a lot of evocative adjectives). 
+www.drawdown.org This seems the traditionalist version of EA. They try to compare different options on reducing climate change. They lack epistemic rigour (no info on discounting, they only look at the scale of a solution, not at tractability) but sell it very well (a lot of evocative adjectives).
 
 3.4 The warm fuzzy altruists
 
@@ -174,9 +174,9 @@ They lack: a reason to become consequentialists, logical reasoning
 
 Frequency: Approx. 1 in 5
 
-!exaggeration alert!  This person just took a gap year and went backpacking (or volunteering somewhere). He/she got closer to nature, got inspired by all the friendly people. Now they have an extra piercing somewhere (or a man bun for men), have turned vegan, got into meditation and are wondering why people are so materialistic and selfish. Their clothing is usually informal. They are really focused on minimizing their own impact, carefully recycling waste, buying local and avoiding the car. Terms like gluten free, revitalized water and alternative medicine are more frequent among warm fuzzy altruists. They really hate big corporations (Shell!). I’ve experienced these people referring to EA as: “Not my type of altruism” or “too cold and calculating”. 
+!exaggeration alert!  This person just took a gap year and went backpacking (or volunteering somewhere). He/she got closer to nature, got inspired by all the friendly people. Now they have an extra piercing somewhere (or a man bun for men), have turned vegan, got into meditation and are wondering why people are so materialistic and selfish. Their clothing is usually informal. They are really focused on minimizing their own impact, carefully recycling waste, buying local and avoiding the car. Terms like gluten free, revitalized water and alternative medicine are more frequent among warm fuzzy altruists. They really hate big corporations (Shell!). I’ve experienced these people referring to EA as: “Not my type of altruism” or “too cold and calculating”.
 
-They usually are only slightly challenging to have in your workshop as they are usually very well intentioned. The main challenge is that they might confound the discussion by making slightly irrelevant remarks. Couple of examples: 
+They usually are only slightly challenging to have in your workshop as they are usually very well intentioned. The main challenge is that they might confound the discussion by making slightly irrelevant remarks. Couple of examples:
 
 i. At a completely random moment someone started making a speech on how banks invest your money in cluster bombs and terrible things and that it is really easy to switch to another bank (well intentioned and she was a lovely person, but was off topic).
 
@@ -186,9 +186,9 @@ iii. They sometimes start telling people that “the system” is the problem, t
 
 Recommendation:
 
-\* When they go off topic I noticed little to no effect in trying to point out the logical flaws in their reasoning. Nowadays I usually just let them explain what they like, agree with how terrible things can be, and then try to steer things back on track ASAP. 
+\* When they go off topic I noticed little to no effect in trying to point out the logical flaws in their reasoning. Nowadays I usually just let them explain what they like, agree with how terrible things can be, and then try to steer things back on track ASAP.
 
-\* I don’t feel these people are usually the best fit for EA. I therefore don’t put a lot of effort into convincing these people. I usually tease them a little (challenge their way of thinking) and see if it sticks and if it doesn’t that’s fine. 
+\* I don’t feel these people are usually the best fit for EA. I therefore don’t put a lot of effort into convincing these people. I usually tease them a little (challenge their way of thinking) and see if it sticks and if it doesn’t that’s fine.
 
 \* I recommend 6.3.1 The everyday altruism quiz if you expect an audience consisting of many warm fuzzy altruists.
 
@@ -196,13 +196,13 @@ Recommendation:
 
 3.5 The Capitalist
 
-Are looking for: being successful, being good at what they do, efficiency 
+Are looking for: being successful, being good at what they do, efficiency
 
 They lack: a social circle where altruism is important, the belief that aiming to help other people actually has a significant impact
 
 Frequency: only occurs in specific audiences
 
-Two times I gave workshops to a group of people who were very far from altruism (workshop 2 and workshop 9 in the list in section 2.2). These people tend to be skeptical about the effectiveness of altruism in general and or don’t feel like it is worth a lot. They are more inclined to wear suits, often aim to go into politics or business and expect to earn a lot of money strategy consulting. They sometimes go looking for a discussion just for the sake of it (the intellectual and social challenge). I feel they aren’t really against altruism, they just have been in surroundings where other values were more pronounced. 
+Two times I gave workshops to a group of people who were very far from altruism (workshop 2 and workshop 9 in the list in section 2.2). These people tend to be skeptical about the effectiveness of altruism in general and or don’t feel like it is worth a lot. They are more inclined to wear suits, often aim to go into politics or business and expect to earn a lot of money strategy consulting. They sometimes go looking for a discussion just for the sake of it (the intellectual and social challenge). I feel they aren’t really against altruism, they just have been in surroundings where other values were more pronounced.
 
 In a workshop they can be really sceptical (also see yellers in section 3.7). But usually they are pleasantly surprised by EA (they probably expected a warm fuzzy altruist to do the talk).
 
@@ -210,7 +210,7 @@ Recommendations:
 
 \* In my experience this is a surprisingly good audience. They quickly take to the efficiency/effectiveness of EA.  
 
-\* Don’t push them to do altruism (they’ll just push right back), instead just focus on “given that you want to do altruism, what is the most effective way to do this?” 
+\* Don’t push them to do altruism (they’ll just push right back), instead just focus on “given that you want to do altruism, what is the most effective way to do this?”
 
 \* Say you’re not there to preach (this is what they expect and would dislike)
 
@@ -224,7 +224,7 @@ Recommendations:
 
 \* Embrace them being sceptical (this is a personality trait we love!). Sometimes they might apologise themselves or other people will apologise for them (tell them that you love it).
 
-3.6. The (genetic) lottery winner 
+3.6. The (genetic) lottery winner
 
 Is looking for: inspiring people / surroundings / community
 
@@ -234,7 +234,7 @@ Some people are lucky in the lottery of nature. Some of these are even lucky in 
 
 Almost by definition these people must exist. Needless to say, these people are great catches for EA (if only for their general mental ability). I feel that they actually, compared to other people, are relatively likely to attend your workshop (hence the frequency 1 in 10) and usually quick to grasp and agree with the EA mindset. So everything seems right with the world. So where is the catch?
 
-I believe there are three challenges, first of all, although they are a great catch they aren’t an easy catch by any means. EA isn’t the only organisation looking for the genetic lottery winner. And since my goal was to scout talent to work for EA directly, EA needs to compete with companies like google, BCG and your local employer of the year. Assuming the genetic lottery winner cares for job satisfaction (instead of only altruism) this requires EA to compete with all other companies on things as colleagues, hygiene factors, growth opportunities, pay etc. So suddenly your presentation isn’t just about the effectiveness of effective altruism anymore but also about being inspiring, friendly, warm, welcoming etc. This adds a whole new dimension, and a hard dimension at that, to your workshops. A dimension which hardly matters for other groups. 
+I believe there are three challenges, first of all, although they are a great catch they aren’t an easy catch by any means. EA isn’t the only organisation looking for the genetic lottery winner. And since my goal was to scout talent to work for EA directly, EA needs to compete with companies like google, BCG and your local employer of the year. Assuming the genetic lottery winner cares for job satisfaction (instead of only altruism) this requires EA to compete with all other companies on things as colleagues, hygiene factors, growth opportunities, pay etc. So suddenly your presentation isn’t just about the effectiveness of effective altruism anymore but also about being inspiring, friendly, warm, welcoming etc. This adds a whole new dimension, and a hard dimension at that, to your workshops. A dimension which hardly matters for other groups.
 
 The second challenge is that (at least in the Netherlands) we are stereotyping and defining talent in terms of ‘similarity to us’. So if you are from a STEM background you get bonus points, if you like riddles or board games you get bonus points, if you simulate neural networks for fun in your free time you get bonus points. These bonus points are all good and well as long as they are bonus points, but I think we fail to realize that this still is a heuristic. I feel that the genetic lottery winner who just happens to like anthropology better than maths, goes to study anthropology, adapts well to the surrounding (meaning having good writing/speaking skills, having good social skills) and comes to a local meetup will not be recognized as a genetic lottery winner. This person will then be and feel judged and be appalled at the lack of social skills and never to return. I know that (in the Netherlands) we fail to see potential looking only at the current level and similarity to us.
 
@@ -250,7 +250,7 @@ Recommendations:
 
 \* Avoid weird ice breakers (!) see section 6.1
 
-\* Also focus on just having a good time at the workshop. 
+\* Also focus on just having a good time at the workshop.
 
 \* Read about the socially ill-calibrated EA fanatic (section 3.8) who seems to be the nemesis of attracting some of the more socially inclined genetic lottery winner.
 
@@ -262,7 +262,7 @@ Frequency: 1 in 15
 
 Some people have a fragile ego and seem to find self-delusion at the expense of others the easiest road. They want to be the big fish (never mind that it is in a small pond). They engage in (subtle) struggles for power. They do so sometimes by addressing the whole group usually for an extended period of time with a very serious tone of voice. Sometimes but not always they put a question mark at the end of their statement.
 
-In a workshop these people can be the most annoying of them all. 
+In a workshop these people can be the most annoying of them all.
 
 Recommendations:
 
@@ -270,7 +270,7 @@ Recommendations:
 
 \* Recognising yellers can be hard, especially distinguishing from the critical capitalist (who is actually just a critical thinker which we love) or distinguishing them from the warm fuzzy altruist (who just cares about the world that they sometimes have to say stuff).
 
-\* The first time they show some kind of power struggle be really kind and thankful to them as a gesture of good faith (a peace offering). Second time keep it short. Third time you know they won’t let up and the battle is on. 
+\* The first time they show some kind of power struggle be really kind and thankful to them as a gesture of good faith (a peace offering). Second time keep it short. Third time you know they won’t let up and the battle is on.
 
 \* Most of the times (4 times out of 5) you can avoid the battle. In my opinion if you never notice yellers doing battle with you it is just that, you don’t notice.
 
@@ -278,7 +278,7 @@ Recommendations:
 
 \* If the audience knows each other, it is an informal workshop and you expect resistance I recommend asking at the beginning: “Who is going to be the most troublesome in this audience?” (tone of voice: fun, like you’re up for a challenge and friendly). They usually love to answer and it defuses the tension.
 
-3.8 Socially ill-calibrated EA fanatic 
+3.8 Socially ill-calibrated EA fanatic
 
 Looking for: Truth, being helpful, ego
 
@@ -288,9 +288,9 @@ Unfortunately not all self-identified EA’s are perfect at everything. One type
 
 There are a couple of challenges with the socially ill calibrated EA fanatic. First and foremost, they scare away talented people from EA (see also section 3.6). Unfortunately I’ve seen this happen on countless occasions in the Netherlands (based on self-reports when I talked to these people afterwards). Being socially ill calibrated gives rise to a whole variety of problems when attracting potential EA’ers to the community. Examples:
 
-First they might love (weird) ice-breakers but don’t feel the negative kind of awkwardness underneath for some participants (these participants usually being the more socially sensitive people in the group who unfortunately happen to be the people not expressing this feeling easily which leads the socially ill calibrated EA fanatic to conclude the ice-breakers are great). 
+First they might love (weird) ice-breakers but don’t feel the negative kind of awkwardness underneath for some participants (these participants usually being the more socially sensitive people in the group who unfortunately happen to be the people not expressing this feeling easily which leads the socially ill calibrated EA fanatic to conclude the ice-breakers are great).
 
-Second example is that they might be using a lot of jargon without explaining any of this to new people (this is also a way to recognize socially ill calibrated, they use difficult words even when these words are a disadvantage… think: career capital, short feedback loops, pipelining, moral circle expansion, Sparta/Athens, s-risk, epistemic modesty, signalling, bias A, bias B etc). 
+Second example is that they might be using a lot of jargon without explaining any of this to new people (this is also a way to recognize socially ill calibrated, they use difficult words even when these words are a disadvantage… think: career capital, short feedback loops, pipelining, moral circle expansion, Sparta/Athens, s-risk, epistemic modesty, signalling, bias A, bias B etc).
 
 Talking/telling too much
 
@@ -308,7 +308,7 @@ Recommendations:
 
 \* I think the best way forward would to have some data on this. Basically I want data on the following question: what is someone's expected value to EA conditioned on how fashionable they look. Is there anyone who knows any data on this (or on anything somewhat related)? (please only data no explanations or thought, I have plenty of those, I’m already familiar with 80k talent survey but I want real data (not a collection of opinions)).
 
-4. Frequently asked questions (by your audience) 
+4. Frequently asked questions (by your audience)
 
 Relevant if: you have some time on your hands (not really important but usually useful to know I’d say).
 
@@ -318,15 +318,15 @@ I used to think that people ask questions because they want the answer. While th
 
 Examples:
 
-“How do you measure human rights?”, 
+“How do you measure human rights?”,
 
-“You cannot compare poverty to climate change.” 
+“You cannot compare poverty to climate change.”
 
-“You cannot put a number on the value of a life.” 
+“You cannot put a number on the value of a life.”
 
 “How do you take into account uncertainty? We have seen many examples where one year a study claims one thing and the next year another study claims something else?”
 
-“Don’t you think it is questionable whether or not this scientific/numerical approach allows space for developing personal morality, wrestling with subjective/objective dilemmas, or for being driven by something more fundamental to the individual human spirit even if it’s contrary to available impact-based evidence – all things which can help develop long-lasting good habits in doing good?” 
+“Don’t you think it is questionable whether or not this scientific/numerical approach allows space for developing personal morality, wrestling with subjective/objective dilemmas, or for being driven by something more fundamental to the individual human spirit even if it’s contrary to available impact-based evidence – all things which can help develop long-lasting good habits in doing good?”
 
 Asked by: warm fuzzy altruists and traditionalists
 
@@ -340,15 +340,15 @@ Possible responses (summarized, paraphrased, I noticed other people had much bet
 
 \* Alje (\**): failed (too much new stuff for the audience, doesn’t really work) You’d expect two different causes to have a 10% difference in effectiveness. In reality the difference might easily be a factor 10 or even 100. So even with a lot of uncertainty the differences are still big enough to get an accurate picture.
 
-\* Alje (\*): failed (too complicated, easily misconstrued and they don’t like the implication of focussing on things which are easy to measure) Some causes are really hard to measure, some causes are easier to measure. Comparing between causes which are easier to measure will be easier and thereby the comparison between those causes will be better. You’d therefore expect the expected best easy to measure cause to be more effective than the expected best hard to measure cause (assuming no a priori difference in the effectiveness distribution depending on how easy it is to measure). Since money now seems allocated with little regard for how easy it is to measure a cause you’d expect the easy to measure causes to be underfunded. It therefore makes sense at the moment to focus more on things which are easy to measure. 
+\* Alje (\*): failed (too complicated, easily misconstrued and they don’t like the implication of focussing on things which are easy to measure) Some causes are really hard to measure, some causes are easier to measure. Comparing between causes which are easier to measure will be easier and thereby the comparison between those causes will be better. You’d therefore expect the expected best easy to measure cause to be more effective than the expected best hard to measure cause (assuming no a priori difference in the effectiveness distribution depending on how easy it is to measure). Since money now seems allocated with little regard for how easy it is to measure a cause you’d expect the easy to measure causes to be underfunded. It therefore makes sense at the moment to focus more on things which are easy to measure.
 
 4.2 Holistic
 
-Examples: 
+Examples:
 
 “Poverty is much more than a lack of money. We see that everything influences everything else and therefore only an integrated and coordinated approach will work.”
 
-“But isn’t saving lives by donating money to AMF just treating the symptoms? I mean, we’re already overpopulated and the local situation might just not be able to sustain the number of people.” 
+“But isn’t saving lives by donating money to AMF just treating the symptoms? I mean, we’re already overpopulated and the local situation might just not be able to sustain the number of people.”
 
 “But aren’t unconditional cash transfers just treating the symptoms? We need a way that these people can sustain themselves.”
 
@@ -362,9 +362,9 @@ Suggested response:
 
 (\*\*\*\**) “Ah yes! That is really important. You are obviously referring to the well known problem in developmental aid where everything is linked together. Because people are poor they cannot afford good health care, then because they cannot afford good health care they will be sick more often which will negatively impact education, which in turn will impact economy which etc. And this is just an example, health, education, living conditions, corruption etc. all influence each other. Really well known phenomenon. And this makes it hard to say which is a root cause and which is the symptom as they all affect each other one way or another. So it might seem that an integral or holistic approach where you look at the system as a whole is needed. But actually, because everything is so interconnected, what you actually can do is have a really targeted intervention on a really small part of the problem. Because improving one thing will lead to an improvement in the next and the next and the next, and you can cause a domino effect. So exactly because everything is connected we can look for the single small thing we can do which has the highest impact on the whole system. And we actually see that this works in practice as well.
 
-Rationale: 
+Rationale:
 
-\* I don’t like these questions. I usually get them from traditionalists who seem to want to engage in some power struggle (which really annoys me). The example response above is a bit longer than my average answer, but it shows well what I’d do if I really feel someone is just testing me (instead of being honestly interested in the answer). 
+\* I don’t like these questions. I usually get them from traditionalists who seem to want to engage in some power struggle (which really annoys me). The example response above is a bit longer than my average answer, but it shows well what I’d do if I really feel someone is just testing me (instead of being honestly interested in the answer).
 
 \* I start with “That is really important” because traditionalists will not take you seriously if you do not consider this important
 
@@ -376,7 +376,7 @@ Recommendations:
 
 \* Also works really well proactively (just raising the question yourself and this as planned part of your workshop/lecture)
 
-\* Even though this question is often just a struggle for power, it is actually a really good question. To understand where these questions are coming from I wholeheartedly recommend watching the following lecture Rory Stewart OBE: "Failed States - and How Not to Fix Them" 
+\* Even though this question is often just a struggle for power, it is actually a really good question. To understand where these questions are coming from I wholeheartedly recommend watching the following lecture Rory Stewart OBE: "Failed States - and How Not to Fix Them"
 
 \* For some people this answer is not enough. If they keep the power struggle going, mention that focussing on a small part of the system isn’t just theory as randomized controlled trials show that a non-holistic approach can have real results. Be sure you are familiar with the evidence behind some charities (AMF/CoolEarth work well for me). Usually the person will keep going and as you mention any RCT’s will ask “but how does A cause B” to which you answer: “the RCT doesn’t tell us, it just shows us it works, that is the nature of an RCT”. Usually that is a (kind of) happy end.
 
@@ -390,7 +390,7 @@ Example questions:
 
 “It seems kind of cold and calculating, altruism is about the intention as well right?
 
-“You have talking a lot about donating, careers and charities but hardly about what someone can do as a person.” 
+“You have talking a lot about donating, careers and charities but hardly about what someone can do as a person.”
 
 Question behind the question:
 
@@ -400,7 +400,7 @@ Possible responses:
 
 (\*\*\*\*) Recently at Schiphol airport they faced the following problem. They were looking for a new air conditioning system for one of their terminals. They had the choice between a cheaper air conditioning and one which was more expensive and more efficient and thus more environmental friendly. The people telling me this were really happy that in the end they got the more efficient one.  But then I wonder, what else could they have done for this money? Perhaps a neighbouring airport has a really really old air conditioning which needs replacement a lot more. Why look for solutions only in your own backyard? The world doesn’t care where CO2 is saved. Is it not the best idea to spend the money where the most CO2 is reduced?
 
-(\*\**) Does the end justify the means? One might be tempted to just minimize their own impact?  But is this really the best thing for the world? For example, can you take the airplane to a climate conference? I’d say yes because \[…]. 
+(\*\**) Does the end justify the means? One might be tempted to just minimize their own impact?  But is this really the best thing for the world? For example, can you take the airplane to a climate conference? I’d say yes because \[…].
 
 (\*\**) You might be tempted to put solar panels on your roof. And that is really good, hooray! But… why do you put the solar panels on your roof? I mean, the world doesn’t care if they are on your roof or somewhere else. And perhaps the roof of the neighbour actually catches more sun because it has a better angle. We are all so focussed on making the impact ourselves that we might sometimes forget that there are better opportunities a little farther from home. I mean it might feel good to have solar panels on your roof, but the world doesn’t care. I mean I’m all in favor of getting solar panels on your roof, but let’s not pretend this is the best thing you can do.
 
@@ -410,7 +410,7 @@ Possible responses:
 
 (?to test) Someone I recently met said she used to be all about minimizing her own impact. She said she changed towards EA once she realized that this would imply that no matter what she did she would always have a net negative impact in her life. I’ll experiment to see if this line of reasoning resonates with others as well.
 
-Recommendations: 
+Recommendations:
 
 \* Probably obvious but: be sure to let them know very explicitly that you aren’t against being vegan, recycling waste etc.
 
@@ -442,13 +442,13 @@ I feel these questions are usually asked because someone has a pet project (one-
 
 Possible responses:
 
- (\*\*) Mention you frequently get these kind of questions and give them examples. Tell them that you don’t know the answer to this question but that you’ll look it up. Mention that the research is generally really thorough and that you haven’t encountered anyone in a workshop who came up with a question that hasn’t been thought of before so you feel safe to say that it probably will not be an issue. 
+ (\*\*) Mention you frequently get these kind of questions and give them examples. Tell them that you don’t know the answer to this question but that you’ll look it up. Mention that the research is generally really thorough and that you haven’t encountered anyone in a workshop who came up with a question that hasn’t been thought of before so you feel safe to say that it probably will not be an issue.
 
 (?to test): Something better. I don’t know yet. Perhaps mention the importance of track record? Perhaps mention the importance of transparency? Perhaps not taking on the responsibility of answering this question? (But rather tell them to look it up themselves and let you know if they find anything)? Anyone any ideas?
 
 Recommendations:
 
-\* These questions usually don’t really contribute anything for the whole group and I’d recommend trying to keep this answer short. 
+\* These questions usually don’t really contribute anything for the whole group and I’d recommend trying to keep this answer short.
 
 \* The first couple of times I spend 4-6 hours looking up the answer of a single question. Because the questions are usually really specific there usually aren’t clear cut answers to be found. For example I once looked up the poison which is used to impregnate the nets and possible effects on water ecosystems. It does turn out to be really poisonous to fish (luckily not to mammals, except cats if I remember correctly). The nets do appear to be (very infrequently) used for fishing. Calculating things show me that massive fishing in a smaller lake with new nets does tend to make the concentration of the poison in the lake rise close to dangerous levels. However the half life time of the poison in water is about 3 days. This made me conclude that there any serious effects are unlikely. Now, this would have been worth my time if I’d have gotten this question more often (but I haven’t). So I stopped looking up these random questions. I recommend you not looking up every question you get until you know for sure it is something you’d be asked more frequently.
 
@@ -470,7 +470,7 @@ Although this document is mainly aimed at people already experienced in giving w
 
 \* When looking for organisations to host your workshop, leverage your connections. Sjir and I found that doing an approach where you didn’t know anyone was nearly impossible. But having one enthusiastic person in a company makes it much easier. Just mentioning someone’s name can literally open doors.
 
-\* Promotion does matter a lot. One time at a really big university (workshop #6)  we had 15 participants. Another time someone else did the promotion and we had around 50 applications for only 20 spots in a much smaller university (workshop #7). This last one had a selection based on resume. Just one datapoint, but it might be worth noting that announcing a selection based on CV can be a good idea. 
+\* Promotion does matter a lot. One time at a really big university (workshop #6)  we had 15 participants. Another time someone else did the promotion and we had around 50 applications for only 20 spots in a much smaller university (workshop #7). This last one had a selection based on resume. Just one datapoint, but it might be worth noting that announcing a selection based on CV can be a good idea.
 
 \* When giving workshops professionally I’ve found that if you ask more money you are on average actually more likely to be hired. Rather surprising, but perhaps this is because they feel you’re more of a professional if you ask more. As an indication, around 9/13 workshop I did for free (because I felt it would be really effective). When I do the workshops professionally I currently ask around 1250 euro for 4 hours (excl VAT).
 
@@ -478,7 +478,7 @@ Although this document is mainly aimed at people already experienced in giving w
 
 \* When doing a workshop/lecture for an unfamiliar audience I find it always really helps to try and find some video clips or written documents (notes of a meeting). This usually really helps me to determine how to dress, behave and which workshop style to go for.
 
-\* If your talk is part of something bigger (a meeting, a conference) someone might be writing a summary of your talk afterwards. Try to get your hands on these as they give you an idea of how someone in your audience has perceived your talk. Sometimes this makes you happy and sometimes really sad. My saddest anecdote is about notes which included the following line: “according to effective altruism the top-3 charities are: Against malaria foundation, no poverty and SCI (Service Civil International)”. I have no clue how they got this idea, I never said that these are the overall top-3 charities, I’m completely unfamiliar with any charity called “no poverty” and Schistosomiasis Control Initiative somehow became Service Civil International. 
+\* If your talk is part of something bigger (a meeting, a conference) someone might be writing a summary of your talk afterwards. Try to get your hands on these as they give you an idea of how someone in your audience has perceived your talk. Sometimes this makes you happy and sometimes really sad. My saddest anecdote is about notes which included the following line: “according to effective altruism the top-3 charities are: Against malaria foundation, no poverty and SCI (Service Civil International)”. I have no clue how they got this idea, I never said that these are the overall top-3 charities, I’m completely unfamiliar with any charity called “no poverty” and Schistosomiasis Control Initiative somehow became Service Civil International.
 
 \* Avoid the mathematics teacher’s fallacy. Stories like the one above, articles like this one and basic common sense show us the importance of being accurate, having high fidelity and being nuanced in how and what you communicate. There is one caveat however which I call the mathematics teacher’s fallacy. Imagine someone teaching multiplication to primary school children in the following ways:
 
@@ -486,17 +486,17 @@ Although this document is mainly aimed at people already experienced in giving w
 
 “Multiplication is a mathematical operation that at its simplest is an abbreviated process of adding an integer to zero a specified number of times and that is extended to other numbers in accordance with laws that are valid for integers.”
 
-As we can see these explanations are really accurate, properly nuanced and have high fidelity but at the same time they suck when explaining multiplication. Teaching someone complex stuff cannot be done in one pass and often requires some stepping stones before reaching full detail. The mathematician teacher’s fallacy is like forcing your video encoder to do it in one pass, YouTube deciding to only support the 4K resolution and non-progressive JPEG. I therefore consider the mathematics teacher’s fallacy to be a severe overfocus on fidelity, details and nuance at the expense of clarity. 
+As we can see these explanations are really accurate, properly nuanced and have high fidelity but at the same time they suck when explaining multiplication. Teaching someone complex stuff cannot be done in one pass and often requires some stepping stones before reaching full detail. The mathematician teacher’s fallacy is like forcing your video encoder to do it in one pass, YouTube deciding to only support the 4K resolution and non-progressive JPEG. I therefore consider the mathematics teacher’s fallacy to be a severe overfocus on fidelity, details and nuance at the expense of clarity.
 
 The true challenge, when teaching complex stuff, therefore is to keep things as simple as possible while still ensuring that your audience will not misconstrue you message. A couple of suggestions:
 
-just avoid making any hard claims 
+just avoid making any hard claims
 
 using examples work well (use simple charities)
 
 use metaphors to link abstract concepts to things they know
 
-focus on quality not quantity (make a good selection of what you intent to tell, it is really easy to try and cram too much into a single workshop) 
+focus on quality not quantity (make a good selection of what you intent to tell, it is really easy to try and cram too much into a single workshop)
 
 focus on the basics, save the fancy stuff for later (so yes, that often means that the interesting stuff like the scale, neglectedness, tractability framework and far future will have to wait
 
@@ -524,13 +524,13 @@ In everything I do I always aim for a proper balance between three things.
 2. Come across as competent
 3. Educational value (awareness)
 
-6.1 Warming up / introduction (\*\*\*\*) 
+6.1 Warming up / introduction (\*\*\*\*)
 
 In the Netherlands we have a saying: “een goed begin is het halve werk”. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how easy of a time you’ll have the remainder of the workshop. So other than introducing EA I think this is the most important part of your workshop.
 
 I’ve got a couple of goals in my introduction: i. get to know your audience, ii. get a positive vibe going iii. expectation management. Let us look into these in a little more detail.
 
-i. Get to know you audience. There are two reasons for this. a. The best workshops are those best tailored to the audience. Audiences can be very different and therefore you need to know your audience ASAP (hence: in the introduction). Examples of things I find useful to know: how are they feeling today, what drives them, are they shy or not, what was their expectation coming in, how much do they now of EA, do they know each other etc. (I usually don’t manage to get answers to all of these questions) b. referring to stuff people have said earlier in your workshop shows that you’re paying attention and shows that this isn’t an impersonal gathering where you’re just doing the same trick you do every time. So knowing the names, perhaps some fun facts about some people (which can be turned into an inside joke later) is useful. 
+i. Get to know you audience. There are two reasons for this. a. The best workshops are those best tailored to the audience. Audiences can be very different and therefore you need to know your audience ASAP (hence: in the introduction). Examples of things I find useful to know: how are they feeling today, what drives them, are they shy or not, what was their expectation coming in, how much do they now of EA, do they know each other etc. (I usually don’t manage to get answers to all of these questions) b. referring to stuff people have said earlier in your workshop shows that you’re paying attention and shows that this isn’t an impersonal gathering where you’re just doing the same trick you do every time. So knowing the names, perhaps some fun facts about some people (which can be turned into an inside joke later) is useful.
 
 ii. Get a positive vibe going. I find the following is very important: making your introduction uncomfortable, surprising and requiring input from the audience on one hand but still feeling very safe. Being surprising and making people uncomfortable is pretty easy but I see things often going wrong on the feeling safe part so I’ll expand on this a little. Why would people find something unsafe (or dislike it): a. they think it is weird (weird introduction implies mediocre social skills of the host which implies unsafe) b. they have to expose themselves for the whole group which is scary because they might feel judged. I basically have 1 tip to make it feel safe… make it useful. So don’t do ice-breakers where the only reason is to break the ice (seriously… don’t). Use your creativity and think of something useful! Not that hard to figure this out (or just read along and you’ll find some ideas).
 
@@ -588,7 +588,7 @@ Rationale:
 
 Recommendation:
 
-\* everyone mixes up again (-> harder to know their names!), 
+\* everyone mixes up again (-> harder to know their names!),
 
 \* I haven’t found a really natural way to move to the next part (other than remarking on something remarkable to make it seem relevant and then brute forcing my way).
 
@@ -604,15 +604,15 @@ Just ask them to introduce themselves.
 
 Rationale:
 
-This is very safe as they have done this kind of thing 1000 times. 
+This is very safe as they have done this kind of thing 1000 times.
 
 Recommendation:
 
-\* Be sure to ask some interesting question. I like asking what they wanted to be when they grew up because: i. it usually gives you fun answers, ii. it already makes people realize that following your passion isn’t always the best advice (useful later on). 
+\* Be sure to ask some interesting question. I like asking what they wanted to be when they grew up because: i. it usually gives you fun answers, ii. it already makes people realize that following your passion isn’t always the best advice (useful later on).
 
 \* A good habit is to ask at least one clarifying question to each person. Shows you’re interested and aren’t just doing it by rote)
 
-\* If you ask the wrong questions you’ll get really really long answers (once for 20 people this took me 50 minutes!). This is boring. Wrong questions are: what is your current background (superboring and people will want to tell you all the details and nuance of what they are doing or they don’t know and start telling you everything they are considering), what is something altruistic you care about (people can get really into this making it hard to keep it short). 
+\* If you ask the wrong questions you’ll get really really long answers (once for 20 people this took me 50 minutes!). This is boring. Wrong questions are: what is your current background (superboring and people will want to tell you all the details and nuance of what they are doing or they don’t know and start telling you everything they are considering), what is something altruistic you care about (people can get really into this making it hard to keep it short).
 
 6.1.4 EA is growing fast (\*\*\*\*)
 
@@ -640,11 +640,11 @@ Use case: if you have a whiteboard/blackboard and too much time preparing
 
 Duration: 30 minutes
 
-Explanation: 
+Explanation:
 
 Ask them to think what makes people happy in jobs. Keep going for 10 minutes and write it all down on the blackboard. Then one by one tell them what research has to say about their guesses.
 
-Recommendation: 
+Recommendation:
 
 \* This takes a really long time to prepare (as you basically need to know and understand most of the research on this). I don’t remember where I got all my info from (I haven’t done this one in nearly 2 years) but I do recommend 80000hours.org (obviously) and reading everything in https://en.wikipedia.org/wiki/Category:Motivational_theories
 
@@ -654,7 +654,7 @@ Use case: most
 
 Duration: 10 minutes
 
-Just telling them works pretty good on this subject. 
+Just telling them works pretty good on this subject.
 
 Recommendation:
 
@@ -678,9 +678,9 @@ A quiz in groups of two. Start with a couple of disclaimers: i. if you find some
 
 Rationale:
 
-\* The questions are designed to: i. touch upon things they do everyday, ii. make them realize that thinking about this is actually useful. 
+\* The questions are designed to: i. touch upon things they do everyday, ii. make them realize that thinking about this is actually useful.
 
-\* For some reason after this quiz they treat me like I’m really competent they suddenly are much less critical of what I say. 
+\* For some reason after this quiz they treat me like I’m really competent they suddenly are much less critical of what I say.
 
 \* The disclaimers in the beginning are important to avoid discussions
 
@@ -696,7 +696,7 @@ Recommendations:
 
 6.3.2 Applied philosophy (\*\*\*\*)
 
-Use case: introduction events, attracting talent, mixed audience of new and experienced people when the new people are pretty smart, 
+Use case: introduction events, attracting talent, mixed audience of new and experienced people when the new people are pretty smart,
 
 Duration: 3 hours
 
@@ -704,17 +704,17 @@ Rationale: Many of the formats I explain here are really focussed on telling the
 
 Explanation:
 
-After an introduction I usually tell them that EA is an ideology and movement and that we’re going to look at these separately (“you can believe in god, but not in church, you can believe in equality of men and women without joining feminists for anything, you can agree with EA without joining the movement”). I then explain the ideology by using the guiding principles of CEA. 
+After an introduction I usually tell them that EA is an ideology and movement and that we’re going to look at these separately (“you can believe in god, but not in church, you can believe in equality of men and women without joining feminists for anything, you can agree with EA without joining the movement”). I then explain the ideology by using the guiding principles of CEA.
 
-I then have 3 rounds of discussions (which I call entrée, main course and dessert). 
+I then have 3 rounds of discussions (which I call entrée, main course and dessert).
 
 First round is the child in the pond and I usually follow the explanation by Peter Singer in the following clip closely: Singer: The Drowning Child. The corresponding question is “If you’re going to condemn the person not saving the drowning child, then shouldn’t you yourself also condemn people who aren’t donating to charity thus not saving people in developing countries? Are these cases morally equivalent or not?”
 
 Second round I give them the option of choosing between three questions:
 
-i. Jacob Rees-Mogg and Rory Stewart Debate Human Rights (start to 6.53)  “Would you agree that it is not justifiable to kill one person in order to harvest their organs to save five other individuals. Would you furthermore agree that if a child was in a possession of information of a ticking bomb which is going to destroy a million people in the city that it is justifiable to twist the thumb of the child to find out where that bomb was (hence saving the city). If you agree with the statements above, what about the space in between? How do we make decisions there?” 
+i. Jacob Rees-Mogg and Rory Stewart Debate Human Rights (start to 6.53)  “Would you agree that it is not justifiable to kill one person in order to harvest their organs to save five other individuals. Would you furthermore agree that if a child was in a possession of information of a ticking bomb which is going to destroy a million people in the city that it is justifiable to twist the thumb of the child to find out where that bomb was (hence saving the city). If you agree with the statements above, what about the space in between? How do we make decisions there?”
 
-ii. Anything to do with discounting lives (and population ethics). I wasn’t really happy with how this turned out so I suggest you figure out your own question here. I used: “Would you rather save 1 live this year of 50 lives in 50 years?” and “would you rather live another 10 years in great happiness, like a 9.5 out of 10 or live another 50 years kind of mediocre?”. 
+ii. Anything to do with discounting lives (and population ethics). I wasn’t really happy with how this turned out so I suggest you figure out your own question here. I used: “Would you rather save 1 live this year of 50 lives in 50 years?” and “would you rather live another 10 years in great happiness, like a 9.5 out of 10 or live another 50 years kind of mediocre?”.
 
 iii. Cause selection. Instead of just telling them the scale, tractability, neglectedness framework I let them come up with it themselves. The question: how do you compare donating to avoiding climate change to donating to research about male baldness to donating to research on malaria? I put an experienced EA’er in charge I call this comparing the incomparable. The experienced person can than lead things (but only asking questions and answering questions concerning facts). I used an introduction from Sjir (he allowed me to share this with you on youtube https://youtu.be/pyrFiZYw-aw).
 
@@ -726,9 +726,9 @@ Rationale:
 
 \* Distinguish the movement from ideology is a way to make people feel less threatened.
 
-\* I use the guiding principles primary for the more experienced EA’ers in the room as a reminder of being open, welcoming and not to lean on their experience in the discussions. I was really pleased how it helped set the tone for the discussions. (I even just read the first sentence of “collaboration” aloud). 
+\* I use the guiding principles primary for the more experienced EA’ers in the room as a reminder of being open, welcoming and not to lean on their experience in the discussions. I was really pleased how it helped set the tone for the discussions. (I even just read the first sentence of “collaboration” aloud).
 
-\* I found that many people are slumbering utilitarians and I really felt a shift from the audience towards utilitarianism/consequentialism which made me happy as I feel this is an important change. Once you consider yourself a utilitarian or consequentialist it is only a very small step to being thoroughly convinced of the need for EA. I noticed this shift because they were coming up with answers like “Rule utilitarianism” and “we tried to evaluate different causes and figured that in the end it is all about happiness. We don’t really know what function to use to evaluate this all but…”. 
+\* I found that many people are slumbering utilitarians and I really felt a shift from the audience towards utilitarianism/consequentialism which made me happy as I feel this is an important change. Once you consider yourself a utilitarian or consequentialist it is only a very small step to being thoroughly convinced of the need for EA. I noticed this shift because they were coming up with answers like “Rule utilitarianism” and “we tried to evaluate different causes and figured that in the end it is all about happiness. We don’t really know what function to use to evaluate this all but…”.
 
 \* The middle round has 3 options to choose from. I feel that people having a choice are more likely to like their choice (sense of agency?).
 
@@ -736,7 +736,7 @@ Rationale:
 
 \* I used the clip of Sjir as I feel this really adds another dimension to the workshop (visual, personal, practical, it shows the audience that working for EA isn’t just really effective it is also fun!) and I think it would be great if we have some clips of some people working for an EA organisation where:
 
-they introduces him/herself (1 min), 
+they introduces him/herself (1 min),
 
 they shows us around in their workspace (2-4 min)
 
@@ -758,13 +758,13 @@ Recommendations:
 
 \* Make sure you have enough examples on why these questions are actually really relevant and practical.
 
-\* Be prepared for lack of hypothetical thinking. Some people in your audience will lack this ability. I witnessed the following conversation. 
+\* Be prepared for lack of hypothetical thinking. Some people in your audience will lack this ability. I witnessed the following conversation.
 
-Participant 1: “Let us disregard all other stuff, there are just 2 buttons, if you press button 1 you’ll save one life this year if you press button 2 you’ll save one life in 50 years, which would you press?” 
+Participant 1: “Let us disregard all other stuff, there are just 2 buttons, if you press button 1 you’ll save one life this year if you press button 2 you’ll save one life in 50 years, which would you press?”
 
-participant 2: “yeah, but I don’t know if that is really realistic”, 
+participant 2: “yeah, but I don’t know if that is really realistic”,
 
-participant 1: “Yeah but it is a thought experiment, hypothetical. This way we can first look at it in its simplest form and then we can add in uncertainty later. \[… some more like this…] participant 2: “yeah, but I don’t think this is even possible” 
+participant 1: “Yeah but it is a thought experiment, hypothetical. This way we can first look at it in its simplest form and then we can add in uncertainty later. \[… some more like this…] participant 2: “yeah, but I don’t think this is even possible”
 
 participant 1: \[very frustrated].
 
@@ -782,11 +782,11 @@ Duration: 1.5 hour
 
 Explanation:
 
-There are 5 groups, who will all get assigned a charity and given information regarding that charity (also see supporting material) “You have 30 minutes to prepare a 3 minutes pitch (strict strict timing). The goal of this pitch is to convince as many people in this room as possible. Basically if anyone goes home after the workshop and the first thing they did was donate to your charity, you did great! There is absolutely no need to be nice to the other charities… you’re here to win! You are not to lie about statistics (but making up an anecdote about your nephew is fine). Discussion will be after all the pitches. Pitches can be given by 1 person in the group or by all. This contest is also completely unfair because some charities will have easier information than others. Good luck!” 
+There are 5 groups, who will all get assigned a charity and given information regarding that charity (also see supporting material) “You have 30 minutes to prepare a 3 minutes pitch (strict strict timing). The goal of this pitch is to convince as many people in this room as possible. Basically if anyone goes home after the workshop and the first thing they did was donate to your charity, you did great! There is absolutely no need to be nice to the other charities… you’re here to win! You are not to lie about statistics (but making up an anecdote about your nephew is fine). Discussion will be after all the pitches. Pitches can be given by 1 person in the group or by all. This contest is also completely unfair because some charities will have easier information than others. Good luck!”
 
 I recommend putting a big countdown timer on the screen (i.e. online-stopwatch.com) both for the time until the pitches start as well as during the pitches. Afterwards you ask everyone to vote on a single other team to determine who won. Alternatively you might do a giving game at this point. You discuss a little, ask for their reasons and usually they give you exactly the kind of reasons you want. When a certain point comes up which resembles something you’ve prepared (more on this in the next paragraph) you tell them that information. The goal of this is to make the interaction feel natural. At a certain point you might point at the time and proceed to tell the things you still want to tell. I usually end with introducing what effective altruism is (it should follow logically from the data presented and the discussion). Do remember to put emphasis on the fact that EA is about much more than just money. This is important because after 80 minutes of just focusing on charities and money they might not realize this is just the start.  
 
-The 5 charities I always use and the corresponding point I make are listed below. I don’t have a preset order for them to pitch in (again, I like it natural). Also in the discussion I let the group determine the order. When in doubt I stick to the order below. The material I give them can also be found in the supporting material. 
+The 5 charities I always use and the corresponding point I make are listed below. I don’t have a preset order for them to pitch in (again, I like it natural). Also in the discussion I let the group determine the order. When in doubt I stick to the order below. The material I give them can also be found in the supporting material.
 
 Scared straight! I usually give them 2 popular press pages printed in color. I use this as an example of how: i. some charities have a negative impact (so it is important to do EA) ii. this only becomes clear after quality research.
 
@@ -806,7 +806,7 @@ Schistosomiasis control initiative: I usually give them waaay too much informati
 
 Rationale:
 
-\* No need to be nice to other charities… Reason: it is great fun to be mean in good spirit. By stating that this is allowed they will usually overdo it which takes out any possible venom. Also it is lets them think more on comparing their own charity to others (which is actually what you want). 
+\* No need to be nice to other charities… Reason: it is great fun to be mean in good spirit. By stating that this is allowed they will usually overdo it which takes out any possible venom. Also it is lets them think more on comparing their own charity to others (which is actually what you want).
 
 \* No lying about statistics… reason: you want the exercise to feel real and people being able to trust what they are told (not educational otherwise).
 
@@ -814,11 +814,11 @@ Rationale:
 
 \* Why tell the contest is unfair? Reason is because it actually is unfair. Telling them this will make people okay with it.
 
-Recommendation: 
+Recommendation:
 
-\* I found that 15 minutes preparation is too short (boring pitches), 45 minutes was great (the pitches were great fun!) 
+\* I found that 15 minutes preparation is too short (boring pitches), 45 minutes was great (the pitches were great fun!)
 
-\* This is also a good moment to bring in food (if your workshop is in the evening… dinner!! worked really well). 
+\* This is also a good moment to bring in food (if your workshop is in the evening… dinner!! worked really well).
 
 \* Make sure you know how to pronounce schistosomiasis control initiative yourself :).
 
@@ -828,7 +828,7 @@ Use case: full traditionalist audience, lecture, 15-60 min, improving inclinatio
 
 Duration: 15-60 minutes (for the full workshop)
 
-Rationale: Having noticed in earlier workshops that for some people truth seemed a product of some ill-calibrated heuristics (rather than a conclusion of careful reasoning, see also section 3.3) I designed this workshop with the intention to score as well as possible on those heuristics (while still being sufficient content-wise). The results were excellent and I believe this lecture is the most effective one I designed for its use case. 
+Rationale: Having noticed in earlier workshops that for some people truth seemed a product of some ill-calibrated heuristics (rather than a conclusion of careful reasoning, see also section 3.3) I designed this workshop with the intention to score as well as possible on those heuristics (while still being sufficient content-wise). The results were excellent and I believe this lecture is the most effective one I designed for its use case.
 
 The overarching goals are to: i. frame effective altruism as new and upcoming (makes them feel privy to important information of the future of altruism),  ii. distance EA from their traditional approach, this is because you don’t want them to evaluate you based on their criteria (on which you’ll not be able to score really well for they are not really good criteria) basically they like big fishes, but you cannot fake being a big fish in their pond, so you convince them you are a big fish in another pond iii. behave like they would want their children to behave or behave like their idealized 25 year old self (reason: they will not like you thinking new stuff, but reminding them of themselves at their age makes this somehow OK…)
 
@@ -842,9 +842,9 @@ Tick the following boxes:
 
 \* Hype yourself (brag, but frame it as giving relevant background information)
 
-\* Be modest (I usually say that I’m not there to convince anyone and I’ll just introduce them to our way of thinking which they can then use to decide if they like it, this seems to disarm a lot of scepticism right from the start). 
+\* Be modest (I usually say that I’m not there to convince anyone and I’ll just introduce them to our way of thinking which they can then use to decide if they like it, this seems to disarm a lot of scepticism right from the start).
 
-\* Frame EA as being especially popular in universities, often technical studies, kind of nerdy. Be sure to drop the name Oxford in there somewhere. 
+\* Frame EA as being especially popular in universities, often technical studies, kind of nerdy. Be sure to drop the name Oxford in there somewhere.
 
 \* There are many different EA organisations around the world (I recommend a slide with the logos of some of the bigger EA organisations)
 
@@ -872,7 +872,7 @@ Use case: never
 
 Duration: 20-30 minutes
 
-Explanation: 
+Explanation:
 
 One time I thought it was a good idea to just tell the audience the rationale and the relevant research. I didn’t have much time and I thought just telling them things as logically as possible would be great! Well it wasn’t, they weren’t really enthusiastic (especially the warm fuzzy altruists didn’t like it). I learned that for some reason making it very logical actually produces a counter reaction (some people seem to be allergic to logic or something). I thought that perhaps the reason people don’t like logic is actually that they’re just missing the feeling. It wasn’t, see below (section 6.3.6).
 
@@ -882,21 +882,21 @@ Status: failed
 
 Use case: non-altruists (traditionalists, fuzzy warm), lectures, very short, but mostly never
 
-Explanation: 
+Explanation:
 
 step i: Evoke the emotion in your audience: “I don’t want people to die from \[X]”.
 
 step ii: Ask them what they really care about. Do they want to avoid people dying from \[X]  or do they want to avoid people dying in general? Is it really worse dying from \[X] then dying from \[Y]? their answer: “I just don’t want people to die regardless of the cause”.
 
-step iii. Explain that:  “this is the first step of EA. Finding out the essence of what people care about. Usually this is something pretty fundamental and not something cause-specific. This allows people to collaborate on finding the best way to achieve that fundamental principle. So without any predetermined route or cause to get there.” 
+step iii. Explain that:  “this is the first step of EA. Finding out the essence of what people care about. Usually this is something pretty fundamental and not something cause-specific. This allows people to collaborate on finding the best way to achieve that fundamental principle. So without any predetermined route or cause to get there.”
 
 step iv. give examples
 
 Rationale:
 
-\* I noticed that sometimes people felt my workshops were too rational. I therefore thought I’d emphasize the emotion some more. 
+\* I noticed that sometimes people felt my workshops were too rational. I therefore thought I’d emphasize the emotion some more.
 
-Recommendation: 
+Recommendation:
 
 \* Although I tried it only once, I wasn’t happy and didn’t see a lot of potential in this one. I’d not recommend taking this approach. It still gets 2 stars because I tried it only once and I could just have been unlucky (or misread the audience).
 
@@ -906,13 +906,13 @@ Recommendation:
 
 6.4 Introducing EA->careers (\*\*)
 
-General recommendation: people seem to like the following clip as an introduction to this: Is Your Work a Paycheck or a Calling. 
+General recommendation: people seem to like the following clip as an introduction to this: Is Your Work a Paycheck or a Calling.
 
 Introducing EA-> careers gets only two stars because I haven’t found a definite good way of doing this, although pointers and spoilers (6.4.2) seem promising. Still I feel this needs more experimenting and I expect you’ll find this one of the harder parts of your workshop to optimize.
 
 6.4.1 1-vs-1 (\*\**)
 
-Use cases: many, especially if you want to keep it kind of short 
+Use cases: many, especially if you want to keep it kind of short
 
 Duration: 10-30 minutes
 
@@ -936,7 +936,7 @@ Use case: Many, especially suited for mixed audience of people already familiar 
 
 Duration: 10-20 minutes
 
-Explanation: 
+Explanation:
 
 Somewhere in the introduction of your whole workshop you explain to them that this workshop isn’t focussed on transferring knowledge… they can just find that online and don’t need a workshop to explain it to them (in fact… the best explanation of 80.000 hours material is probably 80.000 hours themselves!). So they agree with you that you aren’t going to do stuff in the workshop that they could also do back home. This frees up time to do \[whatever you have planned]. You are however going to give them pointers where to look for certain types of information, and spoil some of the most interesting findings. You’re going to do this quickly in order to save time for other stuff.
 
@@ -966,7 +966,7 @@ Explanation:
 
 \* Divide the group into smaller groups of about 5 people
 
-\* Explain to them 8 different professions (we used: PhD in AI, Politician, TV presenter, Doctor, Math teacher, Founding an NGO, Software Engineer). 
+\* Explain to them 8 different professions (we used: PhD in AI, Politician, TV presenter, Doctor, Math teacher, Founding an NGO, Software Engineer).
 
 \* Ask to rate them high impact to low impact. Note: be really explicit that this is about comparing potential impact for someone who has a fair amount of talent for each of those professions and is a really altruistic person.
 
@@ -1022,7 +1022,7 @@ Example questions:
 
 \* Ask them to list something which is really stupid but they really enjoyed. (for example, some people like walking in the rain)
 
-\* Ask them for their dark motivation (it is really easy to choose a job based on a really noble picture of your motives, it is much harder to acknowledge undesirable motivations) 
+\* Ask them for their dark motivation (it is really easy to choose a job based on a really noble picture of your motives, it is much harder to acknowledge undesirable motivations)
 
 \* Ask them what their parents expect of them (“It is really easy to follow the route everyone expects you to, it is really hard to follow your own course. Identifying what others might expect you can help you correct for this”)
 
@@ -1032,9 +1032,9 @@ In all cases make sure you make it really clear how these questions might help t
 
 Part 8: finish with pointers and spoilers (see section 6.4.2) and end in pairs (see section 6.6.2)
 
-Rationale: 
+Rationale:
 
-\* From previous workshops I notice that people like being challenged ☺. 
+\* From previous workshops I notice that people like being challenged ☺.
 
 \* Even though things might be challenging the workshop will still feel safe because: i. the questions are useful, ii. there is relatively little sharing, iii. sharing that is done is done 1 on 1 and one can choose what to share.
 
@@ -1044,7 +1044,7 @@ Use case: mid to long career workshop,very mixed audience
 
 Duration: 20-25 minutes
 
-Explanation: 
+Explanation:
 
 After having introduced EA careers divide the group into 3 subgroups: i. people who have no idea what options they have, ii. people who have already narrowed it down to a couple of options, iii. people who have too few options (stuck in their job). For each of these groups I have a different an assignment. Group iii I just let them discuss, group ii I gave a list on which they can score their options and group (see supporting materials), group i I gave them a lot of information regarding the most pressing problems according to the 80.000hours website.
 
@@ -1068,7 +1068,7 @@ Rationale: not anything really, consider this a baseline :P.
 
 Recommendation:
 
-\* Don’t do this. I noticed that groups take a lot of time to get to know each other (5 to 10 minutes) and then take more time to understand what they are going to talk about (another 5 to 10 minutes). I’d always prefer pairs to groups and specialized groups (with a specific question which differs for every group) to every group being similar. 
+\* Don’t do this. I noticed that groups take a lot of time to get to know each other (5 to 10 minutes) and then take more time to understand what they are going to talk about (another 5 to 10 minutes). I’d always prefer pairs to groups and specialized groups (with a specific question which differs for every group) to every group being similar.
 
 6.6 Ending your workshop (\*\*)
 
@@ -1096,7 +1096,7 @@ Duration: 5 to 30 minutes
 
 Explanation: End in pairs giving them some sort of final question (can be anything) and/or some reflection on this workshop “What is something you take home from this workshop”. Ask them to fill in the feedback form. Tell them there will be no official end and that they can now go whenever they like.
 
-Rationale: 
+Rationale:
 
 \* As also mentioned a couple of times on the EA forum (example) pairs work really well and I wholeheartedly agree! Thanks for the heads up guys :).
 
