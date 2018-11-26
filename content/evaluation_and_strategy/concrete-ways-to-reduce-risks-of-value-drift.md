@@ -6,6 +6,7 @@ description: >-
   drift’ and some of the comments. Its purpose is not to argue for why you
   should avoid value drift, but to provide you with ideas and tools for how you
   can avoid it if you want to do so. 
+illustration: /img/valuedrift.png
 author: Darius Meissner
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift
