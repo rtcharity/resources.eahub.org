@@ -10,40 +10,44 @@ license:
 relatedArticles:
   - {}
 ---
-Videos
+## Videos
 
-Beth
+[Effective Altruism - TEDx Exeter, Beth Barnes (6 minutes)](https://www.youtube.com/watch?v=LtWINl3C_7s)
 
-Askill
+[What are the most important moral problems of our time? - TED, Will MacAskill (12 minutes)](https://www.youtube.com/watch?v=WyprXhvGVYk)
 
-Singer
+[The why and how of Effective Altruism - TED, Peter Singer (17 minutes)](https://www.youtube.com/watch?v=Diuv3XZQXyc)
 
-Harris
+[Will MacAskill on Joe Rogan Experience (2 hours 44 minutes)](https://www.youtube.com/watch?v=buyBzK5yM-s)
 
-Askill JRE
 
-Books
 
-EAH 2.0
+## Books
 
-Ratio Abridged
+[The Effective Altruism Handbook, 2nd Edition](https://www.effectivealtruism.org/handbook/)
 
-Ratio: AZ
+[Rationality: From AI to Zombies by Eliezer Yudkowsky](https://www.readthesequences.com/)
 
-Superintelligence
+[Rationality: Abridged Version by Quaerendo](https://www.lesswrong.com/posts/uQ3AgiaryeWNpDrBN/rationality-abridged)
 
-Superforecasting
+[Superintelligence: Paths, Dangers, Strategies by Nick Bostrom](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 
-Courses
+[Superforecasting by Philip E. Tetlock and Dan Gartner](https://en.wikipedia.org/wiki/Superforecasting)
 
-SHIC
 
-Various
 
-EA Forum
+## Courses
 
-EA Blogs
+[Students for High-Impact Charity](http://shicschools.thinkific.com/courses/pilot)
 
-LessWrong
 
-RationalNewsletter
+
+## Various
+
+[EA Forum](https://forum.effectivealtruism.org/)
+
+[EA Blogs](http://eablogs.net/)
+
+[LessWrong](https://www.lesswrong.com/)
+
+[RationalNewsletter](https://rationalnewsletter.com/)
