@@ -4,6 +4,7 @@ date: 2018-11-08T21:41:41.081Z
 description: >-
   When journalists come to local groups or events, how can group members and
   organizers prepare?
+illustration: /img/hubcamerashadow.png
 tag: popular
 author: Julia Wise
 originalPublicationURL: 'https://www.centreforeffectivealtruism.org/team/julia-wise/'
@@ -72,4 +73,4 @@ Don’t get drawn into argument, especially where there’s a strong emotive com
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
 
-![Camera](/img/hubcamerashadow.png)
+![Camera]()
