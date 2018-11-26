@@ -72,4 +72,4 @@ Don’t get drawn into argument, especially where there’s a strong emotive com
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
 
-![Camera](/img/hubcamerashadow.png)
+![Camera]()
