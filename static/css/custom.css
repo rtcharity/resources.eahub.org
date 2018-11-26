@@ -1,5 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 
+
+
+
 .about_img {
   width: 300px;
   margin-left: auto;
@@ -67,6 +70,14 @@
 .article {
   padding-right: 80px;
   padding-left: 50px;
+}
+
+.article a {
+  color: #7BB0A8 !important; /* EAHub Banner green */
+}
+
+.article a:hover {
+  opacity: 0.5
 }
 
 .article_author {
