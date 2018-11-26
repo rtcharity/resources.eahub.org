@@ -5,6 +5,7 @@ description: >-
   Perhaps the most valuable 15 minutes of your week could soon be having someone
   ask you: What are your frogs? How will you eat them? How can we improve this
   process?
+illustration: /img/paperchainhub.png
 author: Holly Morgan
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/2RvpoWWQDiFpptpam/accountability-buddies-a-proposed-system
