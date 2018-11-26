@@ -385,7 +385,7 @@ label {
   }
 
   .header {
-    background-position: 0px 50px;
+    background-position: center 50px;
     margin-top: -10px;
     margin-left: -10px;
     text-align: center;
