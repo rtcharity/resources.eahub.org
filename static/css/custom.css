@@ -79,8 +79,8 @@
 }
 
 .article_image {
-  max-height: 400px;
-  max-width: 600px !important;
+  max-height: 300px;
+  max-width: 400px !important;
   margin-right: auto;
   margin-left: auto;
 }
