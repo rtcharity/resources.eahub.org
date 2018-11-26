@@ -1,5 +1,5 @@
 ---
-title: Samplle
+title: Sample
 date: 2018-11-22T20:27:13.164Z
 description: Sample
 author: Sam Sampler
