@@ -21,6 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -49,6 +50,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -77,6 +79,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -105,6 +108,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -133,6 +137,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
