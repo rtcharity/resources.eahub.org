@@ -1,5 +1,5 @@
 ---
-title: Optimal level of hierarchy for effective altruism
+title: Optimal Level of Hierarchy for Effective Altruism
 date: 2018-11-12T20:45:03.716Z
 description: >-
   The network structure of Effective Altruism and possibilities of its
