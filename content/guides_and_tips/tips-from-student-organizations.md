@@ -2,6 +2,7 @@
 title: Tips from Student Organizations
 date: 2018-11-07T17:34:03.999Z
 description: Tips from student organizers on how to run EA university groups.
+illustration: /img/hubideas.png
 tag: popular
 author: Julia Wise (editor)
 originalPublicationURL: >-
