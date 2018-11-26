@@ -5,6 +5,7 @@ description: >-
   This document is intended to help the reader design and run Giving Games.  It
   assumes the reader has a basic familiarity with the structure of these games,
   which can be obtained at APathThatsClear.com.
+illustration: /img/chesspiecegreen.png
 author: THINK
 originalPublicationURL: >-
   https://docs.google.com/document/d/1TtZ4PZrdHr8m5IknHaNPHx291Vec_EmdNArZ8EWOmlM/edit
