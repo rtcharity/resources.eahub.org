@@ -326,6 +326,11 @@ label {
   color: #635274;
 }
 
+.main {
+  background-color: #F4F4F4;
+  padding-bottom: 50px;
+}
+
 .menu_bar {
   width: 25px;
   height: 3px;
@@ -353,9 +358,7 @@ label {
   font-weight: 400;
 }
 
-.pb7 {
-  background-color: #F4F4F4;
-}
+
 
 /* mobile responsive */
 @media(max-width: 1000px) {
