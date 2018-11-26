@@ -2,6 +2,7 @@
 title: Chapters Term Review and Q1 Plan (Jan 2017)
 date: 2018-11-14T02:22:50.647Z
 description: A general overview of the EA chapters from 2017.
+illustration: /img/checklist.png
 author: CEA
 originalPublicationURL: >-
   https://docs.google.com/document/d/1tTHOnTfUKfMNLk9y0rBvj0Wq8W9irzjBMF7hWbziIJo/edit?usp=sharing
