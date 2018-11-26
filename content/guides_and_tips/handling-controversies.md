@@ -4,6 +4,7 @@ date: 2018-11-15T08:56:17.940Z
 description: >-
   Information on how to prevent and handle controversies that commonly come up
   for groups in effective altruism.
+illustration: /img/hubcogs.png
 author: Julia Wise
 license:
   - name: Creative Commons Attribution-SharaAlike 3.0
