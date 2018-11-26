@@ -9,6 +9,7 @@ description: >-
   donate as part of their corporate social responsibility (CSR) efforts.
 illustration: /img/copy-of-reportassessment2.png
 author: 'Bruno, Eirin'
+block: true
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/BEb36kr8MoY835eKS/project-report-on-the-potential-of-norwegian-csr-donations
 license:
@@ -23,7 +24,7 @@ Postet on behalf of Bruno and Eirin since they lack the necessary karma. I'm man
 
 
 
- 
+
 
 
 
@@ -35,7 +36,7 @@ By Bruno Seifert and Eirin Evjen on behalf of Stiftelsen Effekt and Effective Al
 
 
 
- 
+
 
 
 
@@ -49,7 +50,7 @@ The idea for this project came up after the leader of Stiftelsen Effekt (SE) was
 
 
 
- 
+
 
 
 
@@ -57,7 +58,7 @@ However, CSR is a difficult area for EA in general, because businesses usually h
 
 
 
- 
+
 
 
 
@@ -65,7 +66,7 @@ This being said, there are several advantages with fundraising from companies:
 
 
 
-\    The marginal value of one more company donor is - on average - much higher than for individuals, but the marginal effort is not necessarily that much higher. 
+\    The marginal value of one more company donor is - on average - much higher than for individuals, but the marginal effort is not necessarily that much higher.
 
 \    By reaching the employees though the company CSR initiative, we get a great channel to promote effective charities to resourceful individuals who may themselves donate.
 
@@ -75,7 +76,7 @@ This being said, there are several advantages with fundraising from companies:
 
 If anyone is interested in more detail, see our more in-depth report here. This report is divided in two parts: a description of the CSR-project (pages 2-3) and a discussion of what we have learned in the first phase of the project and what we recommend going forward (page 4).
 
- 
+
 
 The CSR-project
 
@@ -85,7 +86,7 @@ The CSR-project
 
 We started by getting an overview of the CSR field in Norway through online researching and conversations with a few contacts at different companies. We also contacted companies of varying sizes and asked them about their CSR-efforts. We found that Norwegian CSR consists of four main objectives: human rights, labor rights, the environment and fight against corruption. These objectives are usually met through non-donation efforts, though it depends on the size of the company. Only a small part of larger companies’ CSR efforts are donations. Consultancies often do pro-bono work, while others focus more on enhancing eco-friendly production. Medium-sized companies had much more focus on donations, and the smaller companies even more. We also found that there were little incentives for donations in terms of tax deduction. It generally seems like effectiveness is not a big focus when it comes to CSR in Norway, but rather that the person in charge believes in the projects and that they feel like the charities fit with them.
 
- 
+
 
 2. Strategy
 
@@ -95,7 +96,7 @@ Based on the initial research, we decided to focus on SMEs onward. We also decid
 
 
 
- 
+
 
 
 
@@ -107,7 +108,7 @@ As a part of the package we present the companies, we offer that Stiftelsen Effe
 
 
 
- 
+
 
 
 
@@ -121,7 +122,7 @@ i) Donating money has positive use to them even from an economic standpoint
 
 ii) We are a better partner for them to achieve this than other mega-charities.
 
- 
+
 
 3. Graphic design
 
@@ -141,7 +142,7 @@ ii) An introduction to GiveDirectly and some information on Stiftelsen Effekt.
 
 iii) An introduction to PHC and some information on Stiftelsen Effekt.
 
- 
+
 
 4. Contacting
 
@@ -149,7 +150,7 @@ iii) An introduction to PHC and some information on Stiftelsen Effekt.
 
 To find companies which seemed worthwhile contacting we tried multiple approaches. We used a general register of companies in Norway, searching Google with keywords like ‘cost-effective’ or ‘results-oriented’, and looked on LinkedIn for employees responsible for CSR. The method that has provided the most traction this far is having an EA employee in the company as support while they try to convince the responsible persons. For this, GWWC’s handbook on workplace activism is a great resource.
 
- 
+
 
 5. Visual product
 
@@ -159,13 +160,13 @@ One of our main selling points is a visual solution based on GDLive which we can
 
 
 
- 
+
 
 
 
 The current visual product, a banner which could be placed on the side of e.g. an intranet page, shows 2-3 families at a time, with the same information as on the frontpage of GDLive. It shows name, picture, how long ago it is that they received a transfer, how much they transferred, and a few sentences on what they used the transfer on. The product also shows how much the company has donated so far, or alternatively how much that department of the firm has donated so far. Through GiveDirectly’s estimations, the product also shows a calculation of how many families the amount donated so far have gone to. There are additional ideas, mainly a version that spans across a full screen and shows a full profile, in development.
 
- 
+
 
 6. Organisational work
 
@@ -173,7 +174,7 @@ The current visual product, a banner which could be placed on the side of e.g. a
 
 The project lasted three months and we were two employees working 30%. A steering committee made up of the managing director of the Effect foundation, board chair of EA Norway and two others with valuable experience helped by giving feedback and supporting us with professional expertise. We also got feedback from other people, both from within the EA-community and outside. We got in touch with them through a post on the EA Norway Facebook group, and through ours and the board’s contacts. This was especially useful in the first phase, when we had a lot of uncertainties surrounding how CSR works in Norway and what our strategy should be.
 
- 
+
 
 Lessons learned and the way forward
 
@@ -203,7 +204,7 @@ iv) How good are our chances at competing with mega charities like the Red Cross
 
 v) Is the visual product and concept an important selling point
 
- 
+
 
 8. CSR project 2.0
 
@@ -211,7 +212,7 @@ v) Is the visual product and concept an important selling point
 
 It still is our impression that CSR can be a worthwhile endeavour for EA, but in our current position contacting companies at near-random might not be the best strategy. We should focus more on setting a few high profile partnerships in place going through EAs who are already working instead of contacting as many companies as possible. This way we might get more attention and gather experience for future projects. So as a first step we’d recommend exhausting our already existing personal network within EA / GWWC by pushing and supporting workplace activism as much as possible. If our capacities prove to be larger than our network needs we can focus on making new contacts either through a refined strategy of emails and cold calls, trying to build personal contact on fairs or through pro-bono networks before offering a partnership or new ideas not discussed this far.
 
- 
+
 
 9. Conclusion
 

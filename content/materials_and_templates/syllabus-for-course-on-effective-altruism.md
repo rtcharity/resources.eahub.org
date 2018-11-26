@@ -6,6 +6,7 @@ description: >-
   universities about Effective Altruism, conducted on behalf of PAF client
   Schmidt Futures.
 author: egastfriend
+block: true
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/6NWMo9MgAsTW288uG/syllabus-for-course-on-effective-altruism
 license:

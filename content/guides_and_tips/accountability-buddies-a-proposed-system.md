@@ -7,6 +7,7 @@ description: >-
   process?
 illustration: /img/paperchainhub.png
 author: Holly Morgan
+block: true
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/2RvpoWWQDiFpptpam/accountability-buddies-a-proposed-system
 license:
@@ -67,7 +68,7 @@ Considerations regarding the extent to which you should take my advice here
 
 \    The structure is minimal and has tailoring built in, so there's not much need to trust my ideas on what might work for you.
 
-\    It takes maybe an hour in total to test folks, come on, why are you even reading this section :P 
+\    It takes maybe an hour in total to test folks, come on, why are you even reading this section :P
 
 Other suggestions?
 

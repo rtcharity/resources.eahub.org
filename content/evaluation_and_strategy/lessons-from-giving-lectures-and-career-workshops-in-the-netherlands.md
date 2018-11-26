@@ -8,6 +8,7 @@ description: >-
   still give some non EA workshops professionally.
 illustration: /img/hubchairshadow.png
 author: Alje
+block: true
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/BMLXJ25jz4R3TBXNu/lessons-from-giving-lectures-and-career-workshops-in-the
 license:

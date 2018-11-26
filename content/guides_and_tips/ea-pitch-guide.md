@@ -5,6 +5,7 @@ description: A compendium of ways to pitch parts of EA.
 illustration: /img/chatbubble.png
 tag: ''
 author: EA London
+block: true
 originalPublicationURL: >-
   https://docs.google.com/document/d/1vsQdWIcL1nWdTTdQtB4uH1f_rIjDo27-CwaZUnfqEG4/edit
 license:

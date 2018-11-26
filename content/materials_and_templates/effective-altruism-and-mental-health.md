@@ -3,6 +3,7 @@ title: Effective Altruism and Mental Health
 date: 2018-11-14T17:51:51.539Z
 description: A wide range of considerations.
 author: Joe Gätjen
+block: true
 originalPublicationURL: >-
   https://docs.google.com/presentation/d/15lyQXSU2B5jb8x6CpKA6vBPRh8btZFTniBPqXTCFy2w/edit
 license:

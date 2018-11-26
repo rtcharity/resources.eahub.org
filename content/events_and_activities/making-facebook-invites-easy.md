@@ -6,6 +6,7 @@ description: >-
   really important to invite as many people as possible. Done right, this need
   only take a few seconds per event.
 author: 'Adam Gleave, EA Cambridge'
+block: true
 relatedArticles:
   - {}
 ---
@@ -17,7 +18,7 @@ Facebook is by far the largest driver of attendance for our events, so it’s re
 
 Step 1: choose who you want to invite
 
-There’s no point inviting people outside of Cambridge to a Cambridge-only event. Facebook does try and work out who is in Cambridge and not, but this is very inaccurate: it only detects 50% of my friends correctly. 
+There’s no point inviting people outside of Cambridge to a Cambridge-only event. Facebook does try and work out who is in Cambridge and not, but this is very inaccurate: it only detects 50% of my friends correctly.
 
 
 
@@ -59,7 +60,7 @@ Firefox: Invite All (for Facebook)
 
 
 
-Step 3: 
+Step 3:
 
 You’re now set up to invite all your friends who care about our events in just a few seconds. On any event, go to Invite->Choose Friends like usual:
 
