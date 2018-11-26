@@ -5,7 +5,7 @@ description: >-
   Representing poverty is a complex and controversial matter, and doing it in a
   sensitive and respectful manner is far from easy.
 tag: popular
-author: Julia Wise (CEA)
+author: Julia Wise
 originalPublicationURL: effective-altruism.com/ea/v4/guidelines_on_depicting_poverty/
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
