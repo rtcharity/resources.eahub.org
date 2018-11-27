@@ -11,6 +11,14 @@ license:
 relatedArticles:
   - {}
 ---
+## EA Mindset
+
+[Prospecting for Gold by Owen Cotton-Barratt](https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/)
+
+[Considering Considerateness: Why communities of do-gooders should be exceptionally considerate by Stefan Schubert, Ben Garfinkel & Owen Cotton-Barratt](https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/)
+
+
+
 ## Videos
 
 [Effective Altruism - TEDx Exeter, Beth Barnes (6 minutes)](https://www.youtube.com/watch?v=LtWINl3C_7s)
