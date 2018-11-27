@@ -8,9 +8,10 @@ description: >-
   account, or you can configure your personal email accounts to receive and send
   emails using your EA Group email address. We are on hand to give you help with
   whatever approach you prefer.
-author: Local Area Effective Altruism Network
+author: Local Effective Altruism Network
 originalPublicationURL: >-
   https://docs.google.com/document/d/1YdkjLgYMoydn_lZ9NRDAsvrMTHeANp2WcoOa9EwMD7M
+block: true
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'

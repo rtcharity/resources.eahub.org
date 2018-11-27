@@ -207,7 +207,7 @@
 }
 
 .drop_down_links {
-  background-color: rgba(220,220,220,0.3); /*light-grey*/
+ background-color: rgba(220,220,220,0.3); /*light-grey*/
   margin-top: -10px;
   padding: 3px 10px 3px 3px;
   text-align: right;
@@ -240,7 +240,7 @@
 .header {
   height: 400px;
   background-size: cover;
-  background-position: 0px 0px;
+  background-position: 0px -10px;
   background-repeat: repeat;
   display: block;
   margin-left: -10px;
