@@ -37,8 +37,6 @@ Paid staff working on the Hub are part time and temporary. We would love to fund
 
 Please check this page periodically to keep an eye on our progress. You can also speak to us in the #p-eahub channel in Rethink Charity's Slack.
 
-**List of Features in Order of Expected Delivery**
 
-Soon to be updated
 
 - - -
