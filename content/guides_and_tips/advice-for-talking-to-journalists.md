@@ -72,5 +72,3 @@ Be gracious about people with differing viewpoints or approaches to doing good. 
 Don’t get drawn into argument, especially where there’s a strong emotive component or a potential for things to get acrimonious. Be calm and even-handed.
 
 Be realistic about how people will interpret — or misinterpret — your comments, and caveat/adjust accordingly.
-
-![Camera]()
