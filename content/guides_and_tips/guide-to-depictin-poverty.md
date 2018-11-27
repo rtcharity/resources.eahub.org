@@ -41,9 +41,9 @@ This has led to a standardised way of depicting poverty, which was especially pr
 
 Consider this example:
 
-Eye contact directly from a child, who is at a lower angle than the photographer’s lens, is one of the most common visual themes in poverty photography. Notice the direct emotional connection and appeal it evokes, and how it can even distract you from the details of the image itself. The goal is to create a direct connection that elicits immediate action.
-
 ![](/img/starving_children.jpeg)
+
+Eye contact directly from a child, who is at a lower angle than the photographer’s lens, is one of the most common visual themes in poverty photography. Notice the direct emotional connection and appeal it evokes, and how it can even distract you from the details of the image itself. The goal is to create a direct connection that elicits immediate action.
 
 A closer look at this image clearly shows that the children are being thrust uncomfortably at the camera; it is worth contemplating why parents would be doing this; what did they expect from either the photographer, or the agency/public meant to see the image? Is it likely they were aware of the final usage?
 
