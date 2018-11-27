@@ -11,3 +11,4 @@ summarylength = 6
 featured_image = "/img/LandingBanner-lower3.png"
 logo = "/img/logo_transparent.png"
 custom_css = ["css/custom.css"]
+showDates = false
