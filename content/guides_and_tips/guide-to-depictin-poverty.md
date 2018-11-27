@@ -17,7 +17,7 @@ relatedArticles:
 
 **Context**
 
-In Autumn 2015, the Giving What We Can Cambridge chapter organised an event described as a "poverty simulation.” Many found the content and presentation of the event disrespectful. We thought it was important to learn from what had happened, to start a conversation on how to represent poverty in a respectful way. We asked for the help of Michael Middleton, a photographer who has worked on representations of poverty and delivered a talk on Poverty: Lessons Learned From Photography in several universities. Michael kindly wrote a set of guidelines for GWWC chapters on how to depict poverty in public forums. Marinella Capriati, Alison Woodman, Rob Wiblin, and Julia Wise summarised, re-elaborated, and built on his original guidelines. Michael Middleton was consulted for these documents, but does not necessarily agree with all sentiments in the final versions. For more information, you can contact him at mike@luxocula.com.The document below is the result of this collective work.
+In Autumn 2015, the Giving What We Can Cambridge chapter organised an event described as a "poverty simulation.” Many found the content and presentation of the event disrespectful. We thought it was important to learn from what had happened, to start a conversation on how to represent poverty in a respectful way. We asked for the help of Michael Middleton, a photographer who has worked on representations of poverty and delivered a talk on Poverty: [Lessons Learned From Photography](https://www.facebook.com/events/141705372654403/) in several universities. Michael kindly wrote a set of guidelines for GWWC chapters on how to depict poverty in public forums. Marinella Capriati, Alison Woodman, Rob Wiblin, and Julia Wise summarised, re-elaborated, and built on his original guidelines. Michael Middleton was consulted for these documents, but does not necessarily agree with all sentiments in the final versions. For more information, you can contact him at mike@luxocula.com.The document below is the result of this collective work.
 
 **Why these guidelines?**
 
@@ -27,7 +27,7 @@ Even when well-intentioned, we can make mistakes that deeply offend others. Reac
 
 While people in poverty are indeed more vulnerable than those with more resources, charity advertising has played these aspects up to an extreme extent. Despite different circumstances, people in poverty are similar to anyone else in a lot of ways. And just like anyone else, they are also not identical to one another, but marketing pressures have created an incentive to portray everyone in poverty the same way.
 
-These standardised representations of poverty can give the impression that the situation is hopeless. In 2012, Oxfam released the results of a 2,000-person survey showing that negative images of poverty had become so pervasive as to lose purpose. A full 75% of those surveyed described themselves as ‘completely desensitized’ to images showing hunger, drought and disease. While 75% did believe it was possible to end hunger in places like Africa, only 20% believed they could play an active role in achieving this outcome. This kind of paralysis is exactly what we want to avoid.
+These standardised representations of poverty can give the impression that the situation is hopeless. In 2012, Oxfam released the results of a 2,000-person [survey](http://www.bbc.com/news/uk-20842827) showing that negative images of poverty had become so pervasive as to lose purpose. A full 75% of those surveyed described themselves as ‘completely desensitized’ to images showing hunger, drought and disease. While 75% did believe it was possible to end hunger in places like Africa, only 20% believed they could play an active role in achieving this outcome. This kind of paralysis is exactly what we want to avoid.
 
 **Some history**
 
@@ -43,13 +43,17 @@ Consider this example:
 
 Eye contact directly from a child, who is at a lower angle than the photographer’s lens, is one of the most common visual themes in poverty photography. Notice the direct emotional connection and appeal it evokes, and how it can even distract you from the details of the image itself. The goal is to create a direct connection that elicits immediate action.
 
+![](/img/starving_children.jpeg)
+
 A closer look at this image clearly shows that the children are being thrust uncomfortably at the camera; it is worth contemplating why parents would be doing this; what did they expect from either the photographer, or the agency/public meant to see the image? Is it likely they were aware of the final usage?
 
 **The Charities Respond**
 
+![](/img/africa_food_markets.png)
+
 Oxfam launched an initiative to focus on telling an updated, more positive and more complex story of African poverty. The ads sought to remind people that all the help they had been giving had made a difference, and that now the story of Africa was not just one of poverty and despair; but rather, of the most complex continents in the world. This positive take on fixing poverty invited the viewer to become part of a solution that was already shown to be working, as opposed to someone throwing money at a hopeless problem.
 
-Recently, the Students’ and Academics’ International Assistance Fund (SAIH)’s video Radi-Aid: Africa for Norway, a parody of stereotypical NGO campaigns, went viral. SAIH also runs two awards: one for the fundraising video with the worst use of stereotypes (Rusty Radiator) and one for the fundraising video using creativity and creating engagement (Golden Radiator).
+Recently, the Students’ and Academics’ International Assistance Fund (SAIH)’s video [Radi-Aid: Africa for Norway](https://www.youtube.com/watch?v=oJLqyuxm96k), a parody of stereotypical NGO campaigns, went viral. SAIH also runs two awards: one for the fundraising video with the worst use of stereotypes ([Rusty Radiator](http://www.rustyradiator.com/rusty-radiator-award-2015)) and one for the fundraising video using creativity and creating engagement ([Golden Radiator](http://www.rustyradiator.com/golden-radiator-award-2015/)).
 
 **Practical guidelines**
 
@@ -101,18 +105,20 @@ Options:
 
 Some examples of images depicting people in the developing world as having competence, dignity, and agency:
 
-malawi family.jpg
+![](/img/malawi-family.jpg)
 
 Malawian family. Child health is the goal of many anti-poverty interventions.  
 
-Credit: USAID Africa
+Credit: [USAID Africa](http://www.flickr.com/photos/57424551@N06/)
+
+![](/img/measles_vaccine.png)
 
 Preparing a measles vaccine, Merawi Health Center, Ethiopia.
 
-Credit: Pete Lewis, DFID
+Credit: [Pete Lewis, DFID](https://www.flickr.com/photos/dfid/5815109845/in/album-72157626923029940/)
 
-teacher.jpg
+![](/img/teacher.jpg)
 
 Teacher in action, Rajasthan, India. This is one of the provinces in which Deworm the World operates to treat schoolchildren.
 
-Credit: Michael Foley Photography
+Credit: [Michael Foley Photography](http://www.flickr.com/photos/88475677@N00/)
