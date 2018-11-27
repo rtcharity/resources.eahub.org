@@ -42,6 +42,8 @@ In contrast, the Copenhagen Burnout Inventory has [one whole study](https://www.
 
 By far the most popular model of burnout in the literature is “[Job Demands - Resources](https://en.wikipedia.org/wiki/Job_demands-resources_model)”, or “JD-R”, which posits that high job demands lead to exhaustion, and low resources lead to cynicism and feelings of low personal efficacy. “Demands” and “Resources” are defined fairly broadly here. Demands includes things like “coping with conflicting goals” and resources includes things like chances for advancement.
 
+![](/img/job_demands_resources_model.png)
+
 There is a similar theory called [Conservation of Resources](https://en.wikipedia.org/wiki/Conservation_of_resources_theory). It has less empirical support and does not make noticeably different predictions, so I won’t pay it further attention.
 
 ## 
@@ -85,8 +87,6 @@ Of course, this advice is only actionable if you have money. However there is a 
 Vacation is commonly considered _the_ treatment for burnout, however one of the most [consistent](http://psycnet.apa.org/buy/1997-05398-006) [findings](https://www.tandfonline.com/doi/abs/10.1080/08870440108405529) in my [research](https://www.tandfonline.com/doi/abs/10.1080/10615806.2003.10382974) is that the [reduction](https://www.jstage.jst.go.jp/article/joh/51/1/51_K8004/_article/-char/ja/) in burnout following a vacation dissipates very quickly — in less than three weeks.
 
 This is one of those times I feel a struggle between what I “know” anecdotally, what research demonstrates, and my personal experience. I’ve seen people in very demanding jobs go on vacation, clear their head, and come back thinking more strategically. But this has never worked for me personally: when a job is unpleasant, it’s unpleasant, and leaving for a week doesn’t make it more pleasant. I conjecture that there are really two forms of burnout — “this job is terrible” and “this great job is very demanding”, and there simply aren’t enough of the latter to show up in studies. This is unfortunate, given that I expect it to be overrepresented among people reading this. But at a minimum, you should not count on vacation to fix a bad work environment.
-
-
 
 ## What Can Organizations do?
 
@@ -164,7 +164,5 @@ There were a number of topics I hoped to cover but couldn’t, due to a lack of 
 Thanks to [CEA](https://www.centreforeffectivealtruism.org/) for commissioning and funding this research.
 
 If you are exceptionally curious about my research, you can view my notes [here](https://docs.google.com/document/d/1HKx9BpLHE7UCElIC_Ky-kr5SQFrqL-lWJjVifm9PVFQ/edit).
-
-
 
 _For further discussion, visit the comment section under _[_the original destination_](https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it)_._
