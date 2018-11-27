@@ -1,7 +1,10 @@
 ---
-title: 'Burnout: What is it and how to Treat it'
+title: 'Burnout: What Is It and How to Treat It'
 date: 2018-11-22T20:00:02.716Z
-description: Burnout
+description: >-
+  An in-depth report examining scientific research about burnout and, when
+  possible, making recommendations about its alleviation and prevention among
+  EAs.
 illustration: /img/hubpuzzle.png
 tag: ''
 author: Elizabeth
