@@ -27,7 +27,7 @@ The new Hub is being developed by a heroic team of Rethink Charity staff and vol
 
 **Getting Involved**
 
-If you are keen to see the Hub grow faster, we have capacity for several volunteers to assist with content strategy and editing. Diversity of influence in this area is very valuable to ensure that the Hub reflects the needs of the whole community. We have limited capacity for including another front-end and/or back-end developer.
+If you are keen to see the Hub grow faster, we have capacity for several volunteers to assist with content strategy and editing. Diversity of influence in this area is very valuable to ensure that the Hub reflects the needs of the whole community. We have limited capacity for including another front-end and/or back-end developer. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdO3F4GZI_MQketXYAxBdp3WGjxS4bpEczj82x9AnuGxlX1DQ/viewform).
 
 **Room for Funding**
 
@@ -41,4 +41,4 @@ Please check this page periodically to keep an eye on our progress. You can also
 
 Soon to be updated
 
-****
+- - -
