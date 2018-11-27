@@ -10,7 +10,7 @@ tag: popular
 author: Elizabeth
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it
-block: true
+block: false
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
