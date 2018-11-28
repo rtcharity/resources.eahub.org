@@ -6,10 +6,6 @@
 <div class="flex mt2 mw8 center ph3 about">
 
   <article class="center cf pv5 mw7">
-
-    <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-      {{ .Content }}
-    </div>
     <div class="about_emails">
 
       <a class="about_emails_btn about_tech" href="mailto:{{ .Params.techSupportEmail.email }}">
@@ -21,6 +17,11 @@
       </a>
 
     </div>
+
+    <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+      {{ .Content }}
+    </div>
+
     <img class="about_img" src="{{ .Params.Image }}" />
   </article>
 </div>
