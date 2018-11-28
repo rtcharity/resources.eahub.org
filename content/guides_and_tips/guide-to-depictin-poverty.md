@@ -41,7 +41,7 @@ This has led to a standardised way of depicting poverty, which was especially pr
 
 Consider this example:
 
-![](/img/starving_children.jpeg)
+<img src="/img/starving_children.jpeg" alt="drawing" style="max-width:400px"/>
 
 Eye contact directly from a child, who is at a lower angle than the photographer’s lens, is one of the most common visual themes in poverty photography. Notice the direct emotional connection and appeal it evokes, and how it can even distract you from the details of the image itself. The goal is to create a direct connection that elicits immediate action.
 
@@ -49,7 +49,8 @@ A closer look at this image clearly shows that the children are being thrust unc
 
 **The Charities Respond**
 
-![](/img/africa_food_markets.png)
+
+<img src="/img/africa_food_markets.png" alt="drawing" style="max-width:500px"/>
 
 Oxfam launched an initiative to focus on telling an updated, more positive and more complex story of African poverty. The ads sought to remind people that all the help they had been giving had made a difference, and that now the story of Africa was not just one of poverty and despair; but rather, of the most complex continents in the world. This positive take on fixing poverty invited the viewer to become part of a solution that was already shown to be working, as opposed to someone throwing money at a hopeless problem.
 
