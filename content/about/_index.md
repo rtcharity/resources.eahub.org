@@ -8,6 +8,8 @@ suggestionsEmail:
   email: lean@eahub.org
   linkText: Suggestions or Requests
 ---
+![](/img/lean-logo-mini.png)
+
 This feature is the first of several to come as part of the new EA Hub, the relaunch of which we will announce by the end of 2018.
 
 The EA Hub is a platform designed to inspire and facilitate collaboration between Effective Altruists. Whether you want to launch a project, run a group, network with other EAs or explore EA Survey data, the Hub is your port of call.
