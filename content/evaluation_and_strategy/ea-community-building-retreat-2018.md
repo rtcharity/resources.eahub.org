@@ -5,6 +5,7 @@ description: Various notes and minutes from the EA Community Building Retreat in
 illustration: /img/hubbricks.png
 tag: popular
 author: Various authors
+block: true
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
