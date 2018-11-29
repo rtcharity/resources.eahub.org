@@ -12,7 +12,7 @@ This feature is the first of several to come as part of the new EA Hub, the rela
 
 The EA Hub is a platform designed to inspire and facilitate collaboration between Effective Altruists. Whether you want to launch a project, run a group, network with other EAs or explore EA Survey data, the Hub is your port of call.
 
-The Hub was founded by Tom Ash in 2014, and managed by .impact. The rebooted Hub will continue to be maintained by [Rethink Charity](www.rtcharity.org).
+The Hub was founded by Tom Ash in 2014, and managed by .impact. The rebooted Hub will continue to be maintained by [LEAN](https://rtcharity.org/lean/), a project of [Rethink Charity](www.rtcharity.org).
 
 The new Hub is being developed by a heroic team of Rethink Charity staff and volunteers:
 
