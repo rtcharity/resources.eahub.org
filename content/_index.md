@@ -4,7 +4,7 @@ description: Information, guides and strategy for movement builders
 featured_image: /img/ParallaxFaces19.png
 actionLinks:
   - name: Join other organizers on Slack
-    url: >-
+    url: >- 
       https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I
   - name: Join other organizers on Facebook
     url: 'https://www.facebook.com/groups/956362287803174/'
