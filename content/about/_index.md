@@ -8,7 +8,7 @@ suggestionsEmail:
   email: lean@eahub.org
   linkText: Suggestions or Requests
 ---
-This Resources feature is the first of several to come as part of the 2018/2019 EA Hub Reboot.
+This feature is the first of several to come as part of the new EA Hub, the relaunch of which we will announce by the end of 2018.
 
 The EA Hub is a platform designed to inspire and facilitate collaboration between Effective Altruists. Whether you want to launch a project, run a group, network with other EAs or explore EA Survey data, the Hub is your port of call.
 
@@ -35,8 +35,6 @@ Paid staff working on the Hub are part time and temporary. We would love to fund
 
 **Planned Features**
 
-Please check this page periodically to keep an eye on our progress. You can also speak to us in the #p-eahub channel in Rethink Charity's Slack.
-
-
+Please check this page periodically to keep an eye on our progress. You can also speak to us in the #p-eahub channel in Rethink Charity's Slack ([join here](https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I)).
 
 - - -
