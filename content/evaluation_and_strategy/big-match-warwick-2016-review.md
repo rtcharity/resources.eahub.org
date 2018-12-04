@@ -5,7 +5,7 @@ description: >-
   In this report we will be reviewing Effective Altruism Warwick's 2016 Big
   Match campaign and commenting on how effective a Big Match campaign is in
   general as a fundraising initiative.
-author: James Aung
+author: Ollie Base
 originalPublicationURL: >-
   https://docs.google.com/document/d/1Wt6JOW9elrmlI4Dw8jLl7XqoAajM94__w5h9yyCux8Q/edit
 license:
