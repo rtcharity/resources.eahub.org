@@ -8,6 +8,7 @@ description: >-
 author: 'David Janku, Jan Kulveit'
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/xgYodA7fom4mbD6v4/effective-thesis-project-review
+block: true
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
