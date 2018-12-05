@@ -1,17 +1,28 @@
 ---
 title: Effective Thesis Project Review
 date: 2018-12-05T21:00:21.422Z
-description: Soon
-author: David Janku
+description: >-
+  Within the Czech EA Association we have been running the Effective Thesis
+  project for almost a year now, and would like to share some more information
+  about the project, and our future plans.
+tag: popular
+author: 'David Janku, Jan Kulveit'
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/xgYodA7fom4mbD6v4/effective-thesis-project-review
-block: true
+block: false
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}
 ---
+**Before you read - two quick ways of engaging with the project:**
+
+1. **Inform group members about the project and encourage them to try **[**Thesis Topic Coaching**](http://effectivethesis.com/thesis-coaching/)****
+2. **Try **[**Effective Thesis Meetup**](https://docs.google.com/document/d/1hmjhnLhd4w7sRai6m7NUydPFwXDdyJMlXAj0FcES3lo/edit)**  **
+
+
+
 Within the [Czech EA Association](https://forum.effectivealtruism.org/ea/1ls/introducing_czech_association_for_effective/&sa=D&ust=1522957213401000) we have been running the [Effective Thesis](http://effectivethesis.com/) project for almost a year now, and would like to share some more information about the project, and our future plans.
 
 For those interested in contributing, such as EA-aligned researchers, or even just anybody with a great research topic idea, please contact us at [david.janku@efektivni-altruismus.cz](david.janku@efektivni-altruismus.cz)
