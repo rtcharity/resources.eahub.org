@@ -16,9 +16,11 @@
       <section class="drop_down_links">
 
           {{ range .Site.Sections.ByWeight }}
+            {{ if ne .Params.drop_down false }}
             <a class="drop_down_link" href="{{ .URL }}">
               {{ .Title }}
             </a>
+            {{ end }}
           {{ end }}
 
       </section>
