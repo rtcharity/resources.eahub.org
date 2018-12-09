@@ -1,4 +1,4 @@
 ---
-title: Contact LEAN
+title: Contact
 drop_down: false
 ---

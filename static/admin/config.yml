@@ -185,12 +185,12 @@ collections: # A list of collections the CMS should be able to edit
         - {label: Title, name: title, widget: string}
         - {label: Image, name: image, widget: image}
         - {label: Body, name: body, widget: markdown}
-        - label: "Tech Support Email"
-          name: "techSupportEmail"
+        - label: "Tech Support Contact"
+          name: "techSupportContact"
           widget: "object"
           fields:
           - {label: "LinkText", name: "linkText", widget: "string"}
-          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Link", name: "link", widget: "string"}
         - label: "Suggestions Contact"
           name: "suggestionsContact"
           widget: "object"

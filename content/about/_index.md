@@ -1,11 +1,11 @@
 ---
 title: About
 image: /img/paperchain3.png
-techSupportEmail:
-  email: tech@rtcharity.org
+techSupportContact:
+  link: /contact-tech
   linkText: Tech Support
 suggestionsContact:
-  link: /contact
+  link: /contact-lean
   linkText: Suggestions or Requests
 ---
 This feature is the first of several to come as part of the new EA Hub, the relaunch of which we will announce by the end of 2018.
