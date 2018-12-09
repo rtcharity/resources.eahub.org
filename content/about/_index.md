@@ -4,8 +4,8 @@ image: /img/paperchain3.png
 techSupportEmail:
   email: tech@rtcharity.org
   linkText: Tech Support
-suggestionsEmail:
-  email: lean@eahub.org
+suggestionsContact:
+  link: /contact
   linkText: Suggestions or Requests
 ---
 This feature is the first of several to come as part of the new EA Hub, the relaunch of which we will announce by the end of 2018.

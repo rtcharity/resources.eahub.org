@@ -191,9 +191,9 @@ collections: # A list of collections the CMS should be able to edit
           fields:
           - {label: "LinkText", name: "linkText", widget: "string"}
           - {label: "Email", name: "email", widget: "string"}
-        - label: "Suggestions Email"
-          name: "suggestionsEmail"
+        - label: "Suggestions Contact"
+          name: "suggestionsContact"
           widget: "object"
           fields:
           - {label: "LinkText", name: "linkText", widget: "string"}
-          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Link", name: "link", widget: "string"}
