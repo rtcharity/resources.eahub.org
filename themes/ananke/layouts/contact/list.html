@@ -1,0 +1,21 @@
+{{ define "header" }}
+  {{ partial "site-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="flex mt2 mw8 center ph3 contact">
+
+  <article class="center cf pv5 mw7">
+    <h2 class="contact_title">
+    Send us a message
+    </h2>
+    <form action="https://hooks.zapier.com/hooks/catch/4168909/cge0nf/" method="post" class="contact_form">
+      <input name="first_name" placeholder="Your first name" class="contact_form_field">
+      <input name="last_name" placeholder="Your last name" class="contact_form_field">
+      <input name="email" placeholder="Your email" class="contact_form_field">
+      <textarea name="body" placeholder="Your message" class="contact_form_body"></textarea>
+      <button class="contact_form_submit">Submit</button>
+    </form>
+  </article>
+</div>
+{{ end }}
