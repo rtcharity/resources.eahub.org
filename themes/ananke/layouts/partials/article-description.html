@@ -6,6 +6,9 @@
         {{ .Title }}
       </a>
     </h1>
+    <div class="section_article_description">
+      by {{ .Params.Author }}
+    </div>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ if (not .Description) }}
         {{ .Summary }}

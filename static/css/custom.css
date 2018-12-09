@@ -359,6 +359,12 @@ label {
   font-weight: 400;
 }
 
+.section_article_description {
+  font-style: italic;
+  margin-bottom: 20px;
+  color: black;
+}
+
 
 
 /* mobile responsive */
