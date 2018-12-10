@@ -14,7 +14,7 @@ license:
 relatedArticles:
   - {}
 ---
-**Author's note (Dec 5th, 2018):** _I'm not sure it's something I'd want promoted as an activity local groups should try anymore, since their comparative advantage is community building and not fundraising. I think I frame that kind of campaign in too positive a light and don't offer reasons for why a group might not want to do it implying that I think groups should run a Big Match campaign._
+**Author's note (Dec 5th, 2018):** _I'm not sure it's something I'd want promoted as an activity local groups should try anymore, since their comparative advantage is community building and not fundraising. I think I frame that kind of campaign in too positive a light and don't offer reasons for why a group might not want to do it, implying that I think groups should run a Big Match campaign._
 
 The first Big Match campaign was run here at Warwick in 2013. With this campaign, our old team raised £22,000 for AMF and managed to secure a large donation from the Vice Chancellor of the university. The campaign was replicated by Giving What We Can Oxford in 2013 and 2015 (?) and enjoyed similar success.
 
