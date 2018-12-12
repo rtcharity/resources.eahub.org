@@ -1,5 +1,5 @@
 ---
-title: 'EA Survey Series 2018: Subscribers and Identifiers'
+title: 'EA Survey 2018 Series: Community Demographics & Characteristics'
 date: 2018-12-12T21:35:56.688Z
 description: The EA survey provides an annual snapshot of the EA community.
 author: Lauren Whetstone
