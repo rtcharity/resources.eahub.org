@@ -8,12 +8,12 @@
   <article class="center cf pv5 mw7">
     <div class="about_emails">
 
-      <a class="about_emails_btn about_tech" href="mailto:{{ .Params.techSupportEmail.email }}">
-        {{ .Params.techSupportEmail.linktext }}
+      <a class="about_emails_btn about_tech" href="{{ .Params.techSupportContact.link }}">
+        {{ .Params.techSupportContact.linktext }}
       </a>
 
-      <a class="about_emails_btn about_suggestions" href="mailto:{{ .Params.suggestionsEmail.email }}">
-        {{ .Params.suggestionsEmail.linktext }}
+      <a class="about_emails_btn about_suggestions" href="{{ .Params.suggestionsContact.link }}">
+        {{ .Params.suggestionsContact.linktext }}
       </a>
 
     </div>

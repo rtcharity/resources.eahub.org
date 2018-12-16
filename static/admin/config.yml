@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
-        widget: "list"
+        
         required: false
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
@@ -185,15 +185,15 @@ collections: # A list of collections the CMS should be able to edit
         - {label: Title, name: title, widget: string}
         - {label: Image, name: image, widget: image}
         - {label: Body, name: body, widget: markdown}
-        - label: "Tech Support Email"
-          name: "techSupportEmail"
+        - label: "Tech Support Contact"
+          name: "techSupportContact"
           widget: "object"
           fields:
           - {label: "LinkText", name: "linkText", widget: "string"}
-          - {label: "Email", name: "email", widget: "string"}
-        - label: "Suggestions Email"
-          name: "suggestionsEmail"
+          - {label: "Link", name: "link", widget: "string"}
+        - label: "Suggestions Contact"
+          name: "suggestionsContact"
           widget: "object"
           fields:
           - {label: "LinkText", name: "linkText", widget: "string"}
-          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Link", name: "link", widget: "string"}

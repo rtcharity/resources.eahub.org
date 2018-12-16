@@ -65,7 +65,6 @@
 .action_links_no_contact {
   background-color: #635274;
   padding: 10px 10px 10px 10px;
-
 }
 
 .action_links:hover {
@@ -184,6 +183,45 @@
   margin-top: 10px;
   text-align: center;
   display: block;
+}
+
+.contact_form {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact_form_field {
+  display: block;
+  margin-bottom: 10px;
+  width: 98%;
+  height: 30px;
+}
+
+.contact_form_body {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  resize: none;
+  height: 200px;
+  text-align: left;
+}
+
+.contact_form_submit {
+  background-color: #635274;
+  border: none;
+  float: right;
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+
+.contact_success {
+  font-weight: 600;
+}
+
+.contact_title {
+  color: #512B52; /* EAHub purple */
+  text-align: center;
 }
 
 .drop_down {
@@ -375,6 +413,10 @@ label {
 
   .article_keyquote {
     font-size: 18px;
+  }
+
+  .contact_form {
+    max-width: 250px;
   }
 
   .drop_down {
