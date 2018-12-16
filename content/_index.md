@@ -19,7 +19,7 @@ actionLinks:
     url: 'http://www.eawork.club/'
   - contact: true
     name: Contact LEAN
-    url: '/contact'
+    url: '/contact-lean'
 calendar:
   imageLink: /img/hubcalendar.png
   title: EA Calendar
