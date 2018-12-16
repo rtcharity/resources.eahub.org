@@ -209,6 +209,7 @@
 
 .contact_form_submit {
   background-color: #635274;
+  border: none;
   float: right;
   color: white;
   padding: 10px 10px 10px 10px;
