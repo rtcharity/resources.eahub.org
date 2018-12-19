@@ -7,9 +7,9 @@ description: >-
   volunteer opportunities.
 illustration: /img/hublego.png
 author: Evan Gaensbauer
-block: true
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/MYth4Ju4kbfHmJRbA/remote-volunteering-opportunities-in-effective-altruism
+block: true
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -34,7 +34,7 @@ There is a lot of discussion in effective altruism about how to use one's career
 
 
 
-There are also several organizations part of the effective altruism or allied movements focused on causes common to EA which primarily focus on research, outreach and advocacy, Often these organizations depend on volunteers to keep costs low, spread awareness, raise funds, and run their projects. The EA community actively grows through word of mouth and on the internet to a degree many organizations may not notice, and there is consistent demand for volunteer opportunities. They're out there, but they're not written down all in one place. I've surveyed organizations in and around EA for volunteer opportunities, and I've compiled them below. For the purposes of this master list, "volunteering" is broadly defined as a designated activity or task an effective altruist can take up in their spare time.
+There are also several organizations part of the effective altruism or allied movements focused on causes common to EA which primarily focus on research, outreach and advocacy, Often these organizations depend on volunteers to keep costs low, spread awareness, raise funds, and run their projects. The EA community actively grows through word of mouth and on the internet to a degree many organizations may not notice, and there is consistent demand for volunteer opportunities. They're out there, but they're not written down all in one place. I've surveyed organizations in and around EA for volunteer opportunities, and I've compiled them below. For the purposes of this master list, "volunteering" is broadly defined as a designated activity or task an effective altruist can take up in their spare time. 
 
 How to Read This List
 
@@ -110,7 +110,7 @@ For Meetup/Community Organizers
 
 
 
-One idea for a meetup is to have an EA volunteer opportunity presentation & sign-up party. Another volunteer opportunity as a meetup organizer is to run events for effective altruists or other groups to raise awareness of effective altruism and related causes. The last section of this list is 'Volunteer to Organize A Local Event', including lists resources for EA meetups, and non-profits supporting the independent organization of advocacy, outreach, and fundraising events.
+One idea for a meetup is to have an EA volunteer opportunity presentation & sign-up party. Another volunteer opportunity as a meetup organizer is to run events for effective altruists or other groups to raise awareness of effective altruism and related causes. The last section of this list is 'Volunteer to Organize A Local Event', including lists resources for EA meetups, and non-profits supporting the independent organization of advocacy, outreach, and fundraising events. 
 
 For Organizations
 
@@ -126,6 +126,10 @@ Global Poverty Alleviation
 
 The Life You Can Save (TLYCS) is an EA organization focused on raising awareness of effective giving and fundraising for several recommended charities working in global development, public health and poverty alleviation, including Givewell's top recommended and standout charities. TLYCS is currently seeking volunteers for their social media team. TLYCS also provides resources for how to run Giving Games for global health and development charities, as well as materials for charities in other focus areas such as farm animal welfare and global catastrophic risk reduction.
 
+
+
+The Missing Maps campaign Humanitarian OpenStreetMap is an online, easy, direct volunteering initiative aimed at helping a variety of local charities and NGOs around the world become more effective through using donated satellite imagery to build open-source maps. The local teams working with this campaign can then immediately use these maps, and local people can take on and enhance them. Initiatives supported include disaster response as well as longer-term poverty alleviation, health, and human rights interventions. You can get started directly at Missing Maps website, or ping effective altruist @jamiewoodhouse on Twitter to learn more.
+
 Farm Animal Welfare
 
 
@@ -135,6 +139,10 @@ Animal Charity Evaluators (ACE) offers research internships every quarter, and h
 
 
 The Humane League (THL) is an ACE-recommended charity. THL runs the Fast Action Network, an online group which sends out easy, one-minute actions two or three times per week, including signing petitions, posting on social media, or emailing decision makers, as part of campaigns to mitigate factory farming. You can sign up to join the Fast Action Network in the United States here, in the United Kingdom here and for a Spanish version of the Fast Action Network here.
+
+
+
+Mercy For Animals, an ACE-recommended charity from 2014 through 2016, runs a similar program called Hen Heroes.
 
 
 
@@ -160,17 +168,17 @@ Animal Equality is an ACE-recommended charity providing opportunities for volunt
 
 
 
-Faunalytics is an ACE standout charity, and a non-profit research organization providing information resources to enhance and empower the effectiveness of animal advocates. They're a small organization which depends on all kinds of volunteers: library assistants, statisticians, WordPress developers, AdWords and SEO experts, professional editors, expert social science researchers, and graphic designers. You can sign up to volunteer with them at this link.
+Faunalytics is an ACE standout charity, and a non-profit research organization providing information resources to enhance and empower the effectiveness of animal advocates. They're a small organization which depends on all kinds of volunteers: library assistants, statisticians, WordPress developers, AdWords and SEO experts, professional editors, expert social science researchers, and graphic designers. You can sign up to volunteer with them at this link. 
 
 
 
-Sentience Institute (SI) is a non-profit think tank doing evidence-based research on movement-building and values-spreading for the purposes of anti-specieism and moral circle expansion. You can sign up here to join their volunteer research network. SI focuses on social movement research broadly benefiting many focuses in effective altruism, so the benefits of joining their research network are not limited to anti-specieism or farm animal welfare.
+Sentience Institute (SI) is a non-profit think tank doing evidence-based research on movement-building and values-spreading for the purposes of anti-specieism and moral circle expansion. You can sign up here to join their volunteer research network. SI focuses on social movement research broadly benefiting many focuses in effective altruism, so the benefits of joining their research network are not limited to anti-specieism or farm animal welfare. 
 
 Wild Animal Welfare
 
 
 
-Animal Ethics is a non-profit organization researching and advocating on the subject of animal welfare, including wild animal suffering due to both anthropogenic and naturogenic causes. They have volunteer opportunities for street outreach work; online outreach work; research and dissemination of information; and hosting talks and events. Animal Ethics could use the help of volunteers with technical skills in the following areas of online outreach:
+Animal Ethics is a non-profit organization researching and advocating on the subject of animal welfare, including wild animal suffering due to both anthropogenic and naturogenic causes. They have volunteer opportunities for street outreach work; online outreach work; research and dissemination of information; and hosting talks and events. Animal Ethics could use the help of volunteers with technical skills in the following areas of online outreach: 
 
 
 
@@ -204,13 +212,13 @@ You can contact Animal Ethics through their website about volunteering with them
 
 
 
-Utility Farm is an organization doing research and advocacy for gr assroots movement-building to reduce wild animal suffering, and is currently seeking volunteer writers (in English). While a basic understanding of the issues of wild animal suffering is required, no particular technical knowledge or background is required. Writers will be working on digestible and accessible blog posts and essays for Utility Farm's social change project. Sign-up information for volunteering is provided at this link.
+Utility Farm is an organization doing research and advocacy for gr assroots movement-building to reduce wild animal suffering, and is currently seeking volunteer writers (in English). While a basic understanding of the issues of wild animal suffering is required, no particular technical knowledge or background is required. Writers will be working on digestible and accessible blog posts and essays for Utility Farm's social change project. Sign-up information for volunteering is provided at this link. 
 
  AI Safety & Existential Risk
 
 
 
-The Machine Intelligence Research Institute (MIRI) is a pioneering organization in AI alignment research which provides support and funding for satellite research workshops through their MIRIx workshop program. MIRIx workshops help create exposure and spread thinking on AI alignment problems, and help MIRI identify researchers and potential hires interested in AI alignment. From MIRI's website:
+The Machine Intelligence Research Institute (MIRI) is a pioneering organization in AI alignment research which provides support and funding for satellite research workshops through their MIRIx workshop program. MIRIx workshops help create exposure and spread thinking on AI alignment problems, and help MIRI identify researchers and potential hires interested in AI alignment. From MIRI's website: 
 
 
 
@@ -232,15 +240,19 @@ The Foundational Research Institute (FRI) is a non-profit research institute foc
 
 The Existential Risk Research Assessment (TERRA) is a project by the Cambridge Centre for the Study of Existential Risk combining volunteer efforts with machine learning. TERRA accesses a searchable database of academic research, and uses human feedback on the relevance of the research to existential risk studies to train an ML "recommendation engine" to do the job of automatically constructing x-risk bibliographies. You can sign up here to join TERRA.
 
+
+
+Allfed focuses on creating solutions to feed everyone in the event of catastrophes both local and global in scale, and so is focused on both extreme global poverty alleviation and existential risk reduction. Since they are working in so many countries around the world, and the scope of their work is constantly expanding, they need researchers, developers, clerical assistance, and specialists in different countries and major languages. You can apply by contacting Allfed.
+
 EA Community (e.g., Movement-Building, Education, Outreach, etc.)
 
 
 
-Students for High Impact Charity is an international organization teaching students how to think critically about charity through their educational program with modules focused on effective charity, rationality, animal welfare, global catastrophic risks, and other topics at the heart of effective altruism. SHIC has run a very successful volunteer program within the EA community, with over 100 volunteers, several of whom have gone on to do paid and professional work with EA organizations. SHIC has opportunities for volunteering and internships both seeking in or teaching volunteers the skills of project management, copy writing and editing, web development, web marketing, outreach, communications, donor stewardship, and more! Teachers and students can also respectively sign up to become a SHIC teacher or a SHIC student leader at their own schools.
+Students for High Impact Charity is an international organization teaching students how to think critically about charity through their educational program with modules focused on effective charity, rationality, animal welfare, global catastrophic risks, and other topics at the heart of effective altruism. SHIC has run a very successful volunteer program within the EA community, with over 100 volunteers, several of whom have gone on to do paid and professional work with EA organizations. SHIC has opportunities for volunteering and internships both seeking in or teaching volunteers the skills of project management, copy writing and editing, web development, web marketing, outreach, communications, donor stewardship, and more! Teachers and students can also respectively sign up to become a SHIC teacher or a SHIC student leader at their own schools. 
 
 
 
-Rethink Charity (RC) is an EA community organization focused on movement-building and other high-impact projects such as SHIC, the Local Effective Altruism Network (LEAN), Rethink Priorities and the annual Effective Altruism Survey. RC has similar volunteer opportunities to SHIC. From Rethink Charity's website:
+Rethink Charity (RC) is an EA community organization focused on movement-building and other high-impact projects such as SHIC, the Local Effective Altruism Network (LEAN), Rethink Priorities and the annual Effective Altruism Survey. RC has similar volunteer opportunities to SHIC. From Rethink Charity's website: 
 
 
 
@@ -252,7 +264,7 @@ Check out their website to get involved. RC also provides support for online fun
 
 
 
-The Effective Thesis is a project by the Czech Effective Altruism organization and the Effective Altruists of Berkeley club at UC Berkeley aiming to focus research on areas that have the potential to greatly improve the world. They're currently seeking volunteers to help promote the Effective Thesis project via social media, to help with content creation or volunteer programmers to help with redesigning their website.
+The Effective Thesis is a project by the Czech Effective Altruism organization and the Effective Altruists of Berkeley club at UC Berkeley aiming to focus research on areas that have the potential to greatly improve the world. They're currently seeking volunteers to help promote the Effective Thesis project via social media, to help with content creation or volunteer programmers to help with redesigning their website. 
 
 Life Extension & Anti-Ageing
 
