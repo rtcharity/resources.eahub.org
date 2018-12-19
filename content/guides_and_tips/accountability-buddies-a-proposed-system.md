@@ -1,5 +1,5 @@
 ---
-title: 'Accountability buddies: a proposed system'
+title: 'Accountability Buddies: A Proposed System'
 date: 2018-11-22T19:26:08.636Z
 description: >-
   Perhaps the most valuable 15 minutes of your week could soon be having someone
