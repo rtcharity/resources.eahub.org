@@ -74,13 +74,13 @@ If you know of a volunteer opportunity for effective altruists not on this list,
 
 ## Ongoing Volunteer Opportunities
 
-Global Poverty Alleviation
+**Global Poverty Alleviation**
 
 The Life You Can Save (TLYCS) is an EA organization focused on raising awareness of effective giving and fundraising for several recommended charities working in global development, public health and poverty alleviation, including Givewell's top recommended and standout charities. TLYCS is currently seeking volunteers for their social media team. TLYCS also provides resources for how to run Giving Games for global health and development charities, as well as materials for charities in other focus areas such as farm animal welfare and global catastrophic risk reduction.
 
 The Missing Maps campaign Humanitarian OpenStreetMap is an online, easy, direct volunteering initiative aimed at helping a variety of local charities and NGOs around the world become more effective through using donated satellite imagery to build open-source maps. The local teams working with this campaign can then immediately use these maps, and local people can take on and enhance them. Initiatives supported include disaster response as well as longer-term poverty alleviation, health, and human rights interventions. You can get started directly at Missing Maps website, or ping effective altruist @jamiewoodhouse on Twitter to learn more.
 
-Farm Animal Welfare
+**Farm Animal Welfare**
 
 Animal Charity Evaluators (ACE) offers research internships every quarter, and has a research volunteer opportunity of writing detailed but readable summaries of conversations based on audio recordings or transcriptions. You can apply to an ACE research internship here, and apply to be a research volunteer here.
 
@@ -103,7 +103,7 @@ Faunalytics is an ACE standout charity, and a non-profit research organization p
 
 Sentience Institute (SI) is a non-profit think tank doing evidence-based research on movement-building and values-spreading for the purposes of anti-specieism and moral circle expansion. You can sign up here to join their volunteer research network. SI focuses on social movement research broadly benefiting many focuses in effective altruism, so the benefits of joining their research network are not limited to anti-specieism or farm animal welfare. 
 
-Wild Animal Welfare
+**Wild Animal Welfare**
 
 Animal Ethics is a non-profit organization researching and advocating on the subject of animal welfare, including wild animal suffering due to both anthropogenic and naturogenic causes. They have volunteer opportunities for street outreach work; online outreach work; research and dissemination of information; and hosting talks and events. Animal Ethics could use the help of volunteers with technical skills in the following areas of online outreach: 
 
@@ -124,13 +124,13 @@ You can contact Animal Ethics through their website about volunteering with them
 
 Utility Farm is an organization doing research and advocacy for gr assroots movement-building to reduce wild animal suffering, and is currently seeking volunteer writers (in English). While a basic understanding of the issues of wild animal suffering is required, no particular technical knowledge or background is required. Writers will be working on digestible and accessible blog posts and essays for Utility Farm's social change project. Sign-up information for volunteering is provided at this link. 
 
- AI Safety & Existential Risk
+** AI Safety & Existential Risk**
 
 The Machine Intelligence Research Institute (MIRI) is a pioneering organization in AI alignment research which provides support and funding for satellite research workshops through their MIRIx workshop program. MIRIx workshops help create exposure and spread thinking on AI alignment problems, and help MIRI identify researchers and potential hires interested in AI alignment. From MIRI's website: 
 
 * MIRI wants to support AI safety research around the world. Our MIRIx program encourages mathematicians, computer scientists, and formal philosophers to organize their own workshops, and offers to reimburse the organizers for expenses.A MIRIx workshop can be as simple as gathering some of your friends to read MIRI papers together, talk about them, eat some snacks, scribble some ideas on whiteboards, and go out to dinner together. Or it can be a multi-day research workshop pursuing a specific line of attack on a particular problem. It’s up to you.In some cases we’ll be able to send a MIRI research fellow to your first meeting to give tutorials and answer questions, or perhaps they’ll Skype in to your workshop to do the same. We’ll work out the details, and send you some tips on how to organize the workshop.
 
- You can inquire with MIRI about starting a local MIRIx workshop using this online form, or check out if there is a workshop active in your city at the MIRIx webpage.
+You can inquire with MIRI about starting a local MIRIx workshop using this online form, or check out if there is a workshop active in your city at the MIRIx webpage.
 
 The Road to AI Safety Excellence (RAISE) is an initiative to create an online course to improve the development pipeline for AI safety researchers. Those eager to volunteer with RAISE to develop the course can sign up here, and you can also join their volunteer study group.
 
@@ -140,7 +140,7 @@ The Existential Risk Research Assessment (TERRA) is a project by the Cambridge C
 
 Allfed focuses on creating solutions to feed everyone in the event of catastrophes both local and global in scale, and so is focused on both extreme global poverty alleviation and existential risk reduction. Since they are working in so many countries around the world, and the scope of their work is constantly expanding, they need researchers, developers, clerical assistance, and specialists in different countries and major languages. You can apply by contacting Allfed.
 
-EA Community (e.g., Movement-Building, Education, Outreach, etc.)
+**EA Community (e.g., Movement-Building, Education, Outreach, etc.)**
 
 Students for High Impact Charity is an international organization teaching students how to think critically about charity through their educational program with modules focused on effective charity, rationality, animal welfare, global catastrophic risks, and other topics at the heart of effective altruism. SHIC has run a very successful volunteer program within the EA community, with over 100 volunteers, several of whom have gone on to do paid and professional work with EA organizations. SHIC has opportunities for volunteering and internships both seeking in or teaching volunteers the skills of project management, copy writing and editing, web development, web marketing, outreach, communications, donor stewardship, and more! Teachers and students can also respectively sign up to become a SHIC teacher or a SHIC student leader at their own schools. 
 
@@ -152,7 +152,7 @@ Check out their website to get involved. RC also provides support for online fun
 
 The Effective Thesis is a project by the Czech Effective Altruism organization and the Effective Altruists of Berkeley club at UC Berkeley aiming to focus research on areas that have the potential to greatly improve the world. They're currently seeking volunteers to help promote the Effective Thesis project via social media, to help with content creation or volunteer programmers to help with redesigning their website. 
 
-Life Extension & Anti-Ageing
+**Life Extension & Anti-Ageing**
 
 The Life Extension Advocacy Foundation (LEAF) promotes the advancement of biomedical technologies which will increase the healthy human lifespan. By sponsoring and democratizing research efforts through crowdfunding and engaging the public in thoughtful dialogue, LEAF aims to accelerate the achievement of milestones in anti-ageing research. LEAF is seeking volunteers who are specialists in:
 
