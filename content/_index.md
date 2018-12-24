@@ -1,6 +1,6 @@
 ---
-title: EA Resources
-description: Information, guides and strategy for movement builders
+title: Resources
+description: Our recommended readings for movement builders
 featured_image: /img/ParallaxFaces19.png
 actionLinks:
   - name: Join other organizers on Slack
