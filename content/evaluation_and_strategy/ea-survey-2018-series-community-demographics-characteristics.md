@@ -26,6 +26,10 @@ The EA survey provides an annual snapshot of the EA community. Although it does 
 
 The majority of the respondents that took the survey are people aged 20-29, at 50.13% of the respondents. The ages of the respondents cluster in the categories of 20-29 and 30-39, with a long tail of older respondents. The youngest respondent that gave their age was aged 14 and the oldest was 81. The mean age of the respondents sampled was 31, which is slightly older than last year’s mean age of 29. In 2017, the median age was 27, while this year the median age was 28. The increase in age is likely driven by survey respondents who are already in the effective altruism movement aging, rather than older people joining effective altruism.
 
+![](/img/eas1.png)
+
+![](/img/eas2.png)
+
 **Gender**
 
 The majority of people who took the survey reported being male (67%), while 29% of respondents reported that they were female, and approximately 4% described themselves as other or declined to self-identify. This is closely aligned with the 2017 survey, which had the following gender breakdown: “70.1% identified as male, 26.01% identified as female, 1.9% respondents identified as “other”, and another 21 respondents preferred not to answer.”
@@ -36,17 +40,25 @@ Effective altruists report being highly educated, with roughly 83% having a post
 
 The following chart shows the numbers of respondents within each education level breakout.
 
+![](/img/eas3.png)
+
 **Subject of Study**
 
 The majority of the effective altruists surveyed reported being highly educated at a rate higher than that of the United States. The subjects that EAs have chosen to focus on vary. In order of descending popularity, the most chosen subjects of study were: computer science, math, and philosophy. A majority of effective altruists reported studying subjects considered to be STEM. This question was a multi-select, so respondents had the opportunity to select multiple different categories of studies.
+
+![](/img/eas4.png)
 
 **Careers**
 
 Most effective altruists are employed full-time (43%), followed by people who are full-time students (27%). Of the effective altruists who took the survey and answered the employment question, very few (5%) reported that they are unemployed and looking for work.  This question was asked as a multi select, so these were not mutually exclusive.
 
+![](/img/eas5.png)
+
 **Field of Employment**
 
 The fields that effective altruists are employed in are wide-ranging. Most people selected the “Other (please specify)” option (14%). The top three career paths that people are currently following include: tech, education, and nonprofits. While this year we worked to be more inclusive of different fields of work for respondents to select, it’s clear we can improve by adding more options in the next survey.
+
+![](/img/eas6.png)
 
 **Location**
 
@@ -178,6 +190,10 @@ Trondheim
 
 The following chart shows the number of respondents within each city. “Other (please specify)” is not broken out within this chart.
 
+![](/img/eas7.png)
+
+![](/img/eas8.png)
+
 **Race/Ethnicity**
 
 Of the respondents who answered the ethnicity question (which allowed for multiple selection), the majority of responses were from people who self-identified as “white” (78%). While fewer respondents selected white than last year (in 2017, 89% of respondents identified as white), there wasn’t any marked increase in other ethnicities represented due to the large percentage of people who preferred not to say or opted out of the question.
@@ -252,15 +268,21 @@ Hindu
 
 Diets of effective altruists vary, as is evidenced by the chart below. Those who eat meat and those that abstain from eating meat are present in roughly equal amounts. Compared to traditional American diets, effective altruists over-index on being vegetarian/vegan by 10x. 39% of the effective altruism population reported being vegan or vegetarian. The distribution of responses regarding dietary decisions varies according to gender, with 18% of male respondents reporting they eat meat (and not reporting an attempt to reduce their meat consumption), compared with 7% of female respondents. More women reported being vegan and pescetarian than men. Men and women reported being “reducetarian” in roughly equal amounts (~29%).
 
+![](/img/eas9.png)
+
 As diets are a personal and complex part of our lives, it was clear from the “Other (please specify)” responses that there is an even wider variety of diets that were not included in our list in 2018. This may warrant an expansion of choices in future years, such as “lacto-vegetarian.”
 
 **Political Beliefs**
 
 Our political beliefs question was somewhat limited, as it did not capture the probable variation of respondents political beliefs with respect to geography. The majority of respondents (61%) reported identifying with the “left” politically. In future reports, we may dive further into what these political orientations look like when viewed through the lens of geography.
 
+![](/img/eas10.png)
+
 **Relationship Status**
 
 In exploring the relationship statuses of effective altruists, a survey design oversight may have skewed the data. Our question was flawed in that it did not allow for people who were both “polyamorous” as well as “married” to select the appropriate status. We also did not include an “Other (please specify)” option as we did in other questions for people to share what they felt was relevant to their lives. In analyzing this question, we can consider it to be more of a general overview of how people felt that their relationships were best represented within in the confines of the offered choice set. Overall, roughly half (51%) of effective altruists reported being in some form of relationship and 36% of EAs reported that they were single at the time of this survey.
+
+![](/img/eas11.png)
 
 **Recap**
 
