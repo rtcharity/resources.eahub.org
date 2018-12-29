@@ -15,34 +15,20 @@ license:
 relatedArticles:
   - {}
 ---
-
-
 ## Summary
 
 * In this report, we will explore the difference between those who self-identify as effective altruists versus those who say they broadly subscribe to effective altruism but do not self-identify. As there is variation in levels of involvement in the effective altruism movement, we were interested in assessing people who are outside the scope of the typical analysis.
-
-
-
 * Past reports in the EA Survey Series have exclusively reported only on respondents who are aware of effective altruism, subscribe to effective altruism, and describe themselves as effective altruists.
 
 To perform this analysis, we used three questions* to classify people into two segments – “subscribers” and “identifiers.”
 
 * Subscribers are defined as those that are aware of effective altruism and broadly subscribe to the ideals, but do not identify as effective altruists
-
-
-
 * Identifiers are defined as those respondents that are aware of effective altruism, broadly subscribe to the ideals, and identify as effective altruists
 
 After analyzing the data we found:
 
 * Subscribers are demographically similar to identifiers, but on average have been involved in EA for less time.
-
-
-
 * The scope of subscriber involvement is fairly limited – they donate less money, volunteer less, and are less likely to be a part of an effective altruism group.
-
-
-
 * As this is the first year we have asked the question in this way, we do not yet have the longitudinal analysis needed to see how/if subscribers convert to identifiers. However, the population demographic similarities as well as utilization of similar resources suggests that over time subscribers may deepen their involvement and later become identifiers.
 
 ## Insights
