@@ -18,13 +18,7 @@ relatedArticles:
 ## Summary
 
 * Where people first hear of effective altruism (EA) has changed over the years: 80,000 Hours is now much more influential, and Giving What We Can (GWWC) much less so.
-
-
-
 * Personal Contacts, books, articles and blogs (other than those by major orgs) and 80,000 Hours seem to now be where most people first hear of EA.
-
-
-
 * Peter Singer is sufficiently influential that he should probably be his own category
 
 ## Methodology
@@ -32,9 +26,6 @@ relatedArticles:
 In the 2018 EA Survey, we asked individuals both:
 
 * How did you first hear about Effective Altruism? \[single select]
-
-
-
 * Which factors were important in ‘getting you into’ effective altruism, or altering your actions in its direction? Check all that apply. \[multi select]
 
 In each case, multiple options were presented by default, as well as an “Other” option with an open comment box.
