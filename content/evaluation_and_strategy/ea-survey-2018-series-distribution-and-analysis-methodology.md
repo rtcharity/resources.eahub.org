@@ -147,38 +147,36 @@ After careful consideration as well as feedback from community members we have d
 
 Next year we will be adding a clearer question to allow people to opt-out of having their data appear in the public dataset.
 
-## Credits
+**Credits**
 
-This post was written by Lauren Whetstone and Peter Hurford.
+This post was written by Lauren Whetstone.
 
-A special thanks to Lauren Whetstone for leading the 2018 EA Survey team, and Peter Hurford and David Moss for contributing analysis. Thanks to Tee Barnett for editing.
+A special thanks to Peter Hurford and David Moss for contributing analysis. Thanks to Tee Barnett, Sophie Winter, and Hannah Wilbourne for editing.
 
-We would also like to express our appreciation to the Centre for Effective Altruism, Scott Alexander of Slate Star Codex, 80,000 Hours, EA London, and Animal Charity Evaluators for their assistance in distributing the survey. Thanks also to everyone who took and shared the survey.
+We would also like to express our appreciation to the [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/), Scott Alexander of [Slate Star Codex](http://slatestarcodex.com/), [80,000 Hours](https://80000hours.org/), [EA London](https://eahub.org/groups/london-effective-altruism), and [Animal Charity Evaluators](https://animalcharityevaluators.org/) for their assistance in distributing the survey. Thanks also to everyone who took and shared the survey.
 
-The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities.
+The annual EA Survey is a project of [Rethink Charity](http://rtcharity.org/) with analysis and commentary from researchers at [Rethink Priorities](http://rethinkpriorities.org/).
 
-Supporting Documents
+**Supporting Documents**
 
 Other Articles in the 2018 EA Survey Series
 
 Future articles we write about the 2018 Survey will be added here.
 
-I - Community Demographics & Characteristics
+[I - Community Demographics & Characteristics](https://forum.effectivealtruism.org/ea/1th/ea_survey_2018_series_community_demographics/)
 
-II - Distribution & Analysis Methodology
+[II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
 
-III - EA Survey Series 2018 : How do people get involved in EA?
+[III - EA Survey Series 2018 : How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea?fbclid=IwAR1qeGtwDjydd7-4r_Wq5Z3iDevxZtYl_73HiS5mbfoUCi1WO0ErehaZKco)
 
-IV - Subscribers and Identifiers
+[IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
 
-Prior EA Surveys conducted by Rethink Charity
+**Prior EA Surveys conducted by Rethink Charity**
 
-\    The 2017 Survey of Effective Altruists
+* [The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/ea/1e0/effective_altruism_survey_2017_distribution_and/)
+* [The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/ea/zw/the_2015_survey_of_effective_altruists_results/)
+* [The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/ea/gb/the_2014_survey_of_effective_altruists_results/)
 
-\    The 2015 Survey of Effective Altruists: Results and Analysis
+**Raw Data**
 
-\    The 2014 Survey of Effective Altruists: Results and Analysis
-
-Raw Data
-
-Anonymized raw data for the entire 2018 EA Survey can be found here.
+Anonymized raw data for the entire 2018 EA Survey can be found [here.](https://github.com/peterhurford/ea-data/blob/master/data/2018/2018-ea-survey-anon-currencied-processed.csv)
