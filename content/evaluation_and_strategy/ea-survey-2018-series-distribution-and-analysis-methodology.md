@@ -137,9 +137,6 @@ An appropriate amount of caution should accompany any interpretation of the EA s
 In the past, for the [2015](https://forum.effectivealtruism.org/ea/zw/the_2015_survey_of_effective_altruists_results/) and [2017 survey](https://forum.effectivealtruism.org/ea/1e0/effective_altruism_survey_2017_distribution_and/), we established various benchmarks to ensure our survey was representative, looking at whether our various subpopulations (e.g., all EAs who took the survey from LessWrong or the EA Newsletter) successfully capture EA as a whole, and then whether we successfully capture our individual subpopulations. Below are some key considerations we have considered:
 
 * **Do our subpopulations successfully capture EA as a whole?** If we have 2.2% (19 LessWrong refers divided by 856 people who responded) of our population coming from LessWrong, is this close to the “true” number of self-identified EAs that frequent LessWrong more than other channels? Are we over- or under-sampling LessWrong or other channels? Are we systematically missing any part of EA by not identifying the correct channels in order to get people to respond?
-
-
-
 * **Do we successfully capture our subpopulations?** Are the people who take the survey from LessWrong actually representative of EAs who frequent LessWrong more than other channels? Are we systematically misrepresenting who EAs are by getting a skewed group of people who take our survey?
 
 Please [refer to previous year analysis](https://forum.effectivealtruism.org/ea/1e0/effective_altruism_survey_2017_distribution_and/) to read more.
