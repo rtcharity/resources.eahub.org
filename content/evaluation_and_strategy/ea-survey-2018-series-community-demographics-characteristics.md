@@ -6,10 +6,11 @@ description: >-
   does not sample randomly from all effective altruists, it does provide an
   important glimpse at demographic attributes among those who have taken the
   survey. 
+tag: popular
 author: Lauren Whetstone
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and
-block: true
+block: false
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -196,7 +197,7 @@ The following chart shows the number of respondents within each city. “Other (
 
 **Race/Ethnicity**
 
-Of the respondents who answered the ethnicity question (which allowed for multiple selection), the majority of responses were from people who self-identified as “white” (78%). While fewer respondents selected white than last year (in 2017, 89% of respondents identified as white), there wasn’t any marked increase in other ethnicities represented due to the large percentage of people who preferred not to say or opted out of the question.
+Of the respondents who answered the ethnicity question (which allowed for multiple selection), the majority of responses were from people who self-identified as “white” (78%). While fewer respondents selected white [than last year](https://forum.effectivealtruism.org/ea/1ex/demographics_ii/) (in 2017, 89% of respondents identified as white), there wasn’t any marked increase in other ethnicities represented due to the large percentage of people who preferred not to say or opted out of the question.
 
 **Ethnicity**
 
@@ -296,9 +297,9 @@ This post was written by Lauren Whetstone.
 
 A special thanks to Peter Hurford and David Moss for contributing analysis. Thanks to Tee Barnett, Sophie Winter, and Hannah Wilbourne for editing.
 
-We would also like to express our appreciation to the Centre for Effective Altruism, Scott Alexander of Slate Star Codex, 80,000 Hours, EA London, and Animal Charity Evaluators for their assistance in distributing the survey. Thanks also to everyone who took and shared the survey.
+We would also like to express our appreciation to the [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/), Scott Alexander of [Slate Star Codex](http://slatestarcodex.com/), [80,000 Hours](https://80000hours.org/), [EA London](https://eahub.org/groups/london-effective-altruism), and [Animal Charity Evaluators](https://animalcharityevaluators.org/) for their assistance in distributing the survey. Thanks also to everyone who took and shared the survey.
 
-The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities.
+The annual EA Survey is a project of [Rethink Charity](http://rtcharity.org/) with analysis and commentary from researchers at [Rethink Priorities](http://rethinkpriorities.org/).
 
 **Supporting Documents**
 
@@ -306,22 +307,20 @@ Other Articles in the 2018 EA Survey Series
 
 Future articles we write about the 2018 Survey will be added here.
 
-I - Community Demographics & Characteristics
+[I - Community Demographics & Characteristics](https://forum.effectivealtruism.org/ea/1th/ea_survey_2018_series_community_demographics/)
 
-II - Distribution & Analysis Methodology
+[II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
 
-III - EA Survey Series 2018 : How do people get involved in EA?
+[III - EA Survey Series 2018 : How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea?fbclid=IwAR1qeGtwDjydd7-4r_Wq5Z3iDevxZtYl_73HiS5mbfoUCi1WO0ErehaZKco)
 
-IV - Subscribers and Identifiers
+[IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
 
 **Prior EA Surveys conducted by Rethink Charity**
 
-\    The 2017 Survey of Effective Altruists
-
-\    The 2015 Survey of Effective Altruists: Results and Analysis
-
-\    The 2014 Survey of Effective Altruists: Results and Analysis
+* [The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/ea/1e0/effective_altruism_survey_2017_distribution_and/)
+* [The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/ea/zw/the_2015_survey_of_effective_altruists_results/)
+* [The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/ea/gb/the_2014_survey_of_effective_altruists_results/)
 
 **Raw Data**
 
-Anonymized raw data for the entire 2018 EA Survey can be found here.
+Anonymized raw data for the entire 2018 EA Survey can be found [here.](https://github.com/peterhurford/ea-data/blob/master/data/2018/2018-ea-survey-anon-currencied-processed.csv)
