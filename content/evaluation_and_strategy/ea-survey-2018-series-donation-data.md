@@ -55,7 +55,7 @@ As the figures in the table above show, a donation of $1000 per year (or 5% of a
 
 ## Percentages of Income Donated
 
-We also looked at the percentages of income that EAs were donating, based on the 1798 EAs who disclosed both income and donation data.[\[1]](#note1) As in previous years, most EAs were donating significantly less than the 10% Giving What We Can Pledge. However, as the graph below shows, there is a marked ‘bump’ in the donors giving at around the 10% figure, perhaps due to the Giving What We Can Pledge target around this amount, or due to the figure’s wider popularity as a target (e.g. in tithing).
+We also looked at the percentages of income that EAs were donating, based on the 1798 EAs who disclosed both income and donation data.\[[1]](#note1) As in previous years, most EAs were donating significantly less than the 10% Giving What We Can Pledge. However, as the graph below shows, there is a marked ‘bump’ in the donors giving at around the 10% figure, perhaps due to the Giving What We Can Pledge target around this amount, or due to the figure’s wider popularity as a target (e.g. in tithing).
 
 ![](/img/donation2018-income-percent.png)
 
@@ -175,7 +175,7 @@ Analysis conducted by Rethink Priorities staff, David Moss, Neil Dullaghan, Kim 
 
 Thanks to Peter Hurford and Tee Barnett for editing.
 
-_The annual EA Survey is a project of _[_Rethink Charity_](https://rtcharity.org/)_ with analysis and commentary from researchers at _[_Rethink Priorities_](http://rethinkpriorities.org/)_._
+_The annual EA Survey is a project of \[Rethink Charity](https://rtcharity.org/) with analysis and commentary from researchers at _[_Rethink Priorities_](http://rethinkpriorities.org/)_._
 
 ## Supporting Documents
 
