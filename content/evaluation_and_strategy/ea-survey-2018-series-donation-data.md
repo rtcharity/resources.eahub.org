@@ -17,65 +17,87 @@ relatedArticles:
 ---
 ![]()
 
-Summary
+## Summary
 
-\    Median donations were slightly higher than in 2016 and total donations much higher
-
-\    A small number of very large donors account for the majority of the totals donated
-
-\    A majority of EAs report donating less than they would like due to financial constraints
+* Median donations were slightly higher than in 2016 and total donations much higher
+* A small number of very large donors account for the majority of the totals donated
+* A majority of EAs report donating less than they would like due to financial constraints
 
 This post explores donation data in the 2018 EA Survey, investigating how much people are donating, where they are donating and what influences their donations.
 
 1891 out of 2607 (73%) self-identified EAs in our sample offered data about their donations. This is a significant increase from the 2017 Survey where we had donation data from 1019 EAs out of 1853 (54.9%).
 
-Totals Donated
+**Totals Donated**
 
 As in previous years, there was a very wide range in amounts donated (note the 2018 Survey collects reports on amounts donated in 2017). All amounts are in USD ($).
 
+![a table with minimum ($0), maximum ($5,100,000), mean ($9,761), and median ($739.62) 2017 donations](/img/donation2018-table1.png)
+
 This marks a significant increase in total amounts donated and median donations compared to 2015 and 2016 data.
+
+![total amounts donated and median donations compared to 2015 and 2016 data](/img/donation2018-table2.png)
 
 As the graph below shows, a very small number of very large donations dwarf the size of most others.
 
+![](/img/donation2018-graph1.png)
+
 The following histogram shows the number of donations of different sizes being made by EAs in our sample (note the log x axis).
+
+![](/img/donation2018-histogram1.png)
 
 A commenter on a previous EA Survey post asked about the proportion of total EA donations that came from donations of certain sizes and requested a cumulative donations graph (below). Perhaps, even if the largest donations are many times larger than the rest, much of the total might still be coming from a very large number of smaller donors?
 
+![](/img/cumulative-donations-graph.png)
+
 As the graph above shows, however, a relatively small portion of total donations recorded in our sample comes from those donating smaller amounts. Individuals donating $1000 or less in 2017 (47.8% of donors in our sample) accounted for $267,942.5 of donations or about 1.5% of the total. Those more in the ‘middle’, donating between $1000 and $10,000 include 40% of donors, and the substantial sum of $2,569,359.59, which is large relative to most EA projects, while still only being 14% of total donations. Conversely donors giving more than $100,000 (0.7% of donors) accounted for 57% of donations.
+
+![](/img/donation2018-percentiles.png)
 
 As the figures in the table above show, a donation of $1000 per year (or 5% of a $20,000 salary) would place one in the top half of EA donors (specifically, the 55th percentile), whereas being in the top 10% of donors would require donating $10,000 and the top 1% >$75,000.
 
-Percentages of Income Donated
+**Percentages of Income Donated**
 
 We also looked at the percentages of income that EAs were donating, based on the 1798 EAs who disclosed both income and donation data.\[1] As in previous years, most EAs were donating significantly less than the 10% Giving What We Can Pledge. However, as the graph below shows, there is a marked ‘bump’ in the donors giving at around the 10% figure, perhaps due to the Giving What We Can Pledge target around this amount, or due to the figure’s wider popularity as a target (e.g. in tithing).
 
+![](/img/donation2018-income-percent.png)
+
 The above graph shows a small number of respondents report donating more than 100% of their income in 2017. In all but three of these cases the sums reported for donations and income were very low (less than a couple of thousands dollars), so we do not view them as particularly implausible, though they may well represent unusual situations.
 
-What Explains Low Donations?
+![percentiles for % income donated](/img/donation2018-percentiles2.png)
+
+## What Explains Low Donations?
 
 In previous years, readers have commented on the large numbers of EAs who appear to be donating $0 or close to $0 and at their surprise at low donation levels overall. In earlier years, where donations and the Giving What We Can Pledge were emphasised more, compared to now where (directly) impactful career choice and upskilling EAs are emphasised more, this was perhaps a more a cause for surprise and concern. However, it is still worth investigating what explains low levels of donation.
 
-Students
+**Students**
 
 It goes without saying that many EAs are students (45.2% in our sample this year), who might therefore be expected to be donating lower amounts.
 
 True to expectations, we found that non-students donated significantly more than students:
 
-Employment
+![](/img/donation2018-students.png)
+
+**Employment**
 
 Similarly, many EAs in our sample, though not students, may not be employed or fully employed. When we exclude both students and those who are not employed full-time, median donations are, again, substantially higher:
 
+![](/img/table-6-full-time-nonstudents.png)
+
 Despite this, the percent donated even among full-time employed non-students was very low, with a median of 3.7% income donated. Indeed, only the 80th percentile of full-time employed non-students was donating more than 10% (10.591%) with the 90th percentile donating 14.52%.
 
-Income
+**Income**
 
 The fact that donations are higher among full-time employed non-students may well be expected to be largely due to higher income. Indeed, within the sample as a whole, we found that donations in 2017 were strongly correlated with the average of household and individual income in 2017 ( 0.9232, p<0.001) in the raw data. However, we should note that there are some large outliers driving this very strong relationship.
 
+![](/img/donations-income-scatter.png)
+
 To account for full-time employed non-students who were nevertheless on a low income, we also looked at full-time employed non-students who reported earning more than $20,000 USD in 2017 (762 out of 1050 full-time employed non-students, of which 747 reported donation data).
+
+![](/img/donation2018-nonstudents2.png)
 
 While the median donation among this group was substantially higher than for the sample as a whole, the percent donated remains quite far short of the level of the Giving What We Can Pledge.
 
-Self-reported reasons for donating less than desired
+**Self-reported reasons for donating less than desired**
 
 This year, for the first time, we asked respondents whether they were donating as much or less than they wanted to.
 
