@@ -45,7 +45,7 @@ The following histogram shows the number of donations of different sizes being m
 
 ![](/img/donation2018-histogram1.png)
 
-A commenter on a previous EA Survey post asked about the proportion of total EA donations that came from donations of certain sizes and requested a cumulative donations graph (below). Perhaps, even if the largest donations are many times larger than the rest, much of the total might still be coming from a very large number of smaller donors?
+A [commenter](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and#AocjWooYCyviTxSRp) on a previous EA Survey post asked about the proportion of total EA donations that came from donations of certain sizes and requested a cumulative donations graph (below). Perhaps, even if the largest donations are many times larger than the rest, much of the total might still be coming from a very large number of smaller donors?
 
 ![](/img/cumulative-donations-graph.png)
 
@@ -55,7 +55,7 @@ As the graph above shows, however, a relatively small portion of total donations
 
 As the figures in the table above show, a donation of $1000 per year (or 5% of a $20,000 salary) would place one in the top half of EA donors (specifically, the 55th percentile), whereas being in the top 10% of donors would require donating $10,000 and the top 1% >$75,000.
 
-**Percentages of Income Donated**
+## Percentages of Income Donated
 
 We also looked at the percentages of income that EAs were donating, based on the 1798 EAs who disclosed both income and donation data.\[1] As in previous years, most EAs were donating significantly less than the 10% Giving What We Can Pledge. However, as the graph below shows, there is a marked ‘bump’ in the donors giving at around the 10% figure, perhaps due to the Giving What We Can Pledge target around this amount, or due to the figure’s wider popularity as a target (e.g. in tithing).
 
@@ -139,7 +139,7 @@ This veteran versus newcomer difference is apparent within non-students, pledge 
 
 ## Predictors of Donation
 
-We examined the effect of income, student status, number of years involved with EA, and membership in GWWC as potential predictors of donations. Individual income was the strongest predictor of donation amount, followed by a positive impact of membership in GWWC interacting with income (link to regression table). Before analysis, two outliers with large influence were removed (individual incomes >$5 million), and the data were log transformed, centered and scaled to improve normality. Household income was strongly correlated with individual income (~80%) and was therefore excluded from the model. This model (AIC=3114), was slightly preferred over a model with no interaction between GWWC and income (AIC=3121), and explained about 45% of the variation in the data. The model was also preferred over a simple regression of donation vs income (AIC=3498) which accounted for 37% of the variation in the normalized data.
+We examined the effect of income, student status, number of years involved with EA, and membership in GWWC as potential predictors of donations. Individual income was the strongest predictor of donation amount, followed by a positive impact of membership in GWWC interacting with income ([link to regression table](https://docs.google.com/document/d/1DdzJ8qxg1LvUL_O2AtF5Hvey7FjpGvgQW7ibYijE6v4/edit)). Before analysis, two outliers with large influence were removed (individual incomes >$5 million), and the data were log transformed, centered and scaled to improve normality. Household income was strongly correlated with individual income (~80%) and was therefore excluded from the model. This model (AIC=3114), was slightly preferred over a model with no interaction between GWWC and income (AIC=3121), and explained about 45% of the variation in the data. The model was also preferred over a simple regression of donation vs income (AIC=3498) which accounted for 37% of the variation in the normalized data.
 
 As previously noted, there was a small negative impact of being a student on donation amount. As seen in the figure below, this effect was slightly mitigated by being a member of GWWC.
 
@@ -179,22 +179,19 @@ Thanks to Peter Hurford and Tee Barnett for editing.
 
 _The annual EA Survey is a project of _[_Rethink Charity_](https://rtcharity.org/)_ with analysis and commentary from researchers at _[_Rethink Priorities_](http://rethinkpriorities.org/)_._
 
-**Supporting Documents**
+## Supporting Documents
 
-_Other Articles in the 2018 EA Survey Series_: Future articles we write about the 2018 Survey will be added here.
+**Other Articles in the 2018 EA Survey Series**
 
-[I - Community Demographics & Characteristics](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and)
+Future articles we write about the 2018 Survey will be added here:
 
-[II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
+* [I - Community Demographics & Characteristics](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and)
+* [II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
+* [III - How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea)
+* [IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
 
-[III - How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea)
+**Prior EA Surveys conducted by Rethink Charity**
 
-[IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
-
-_Prior EA Surveys conducted by Rethink Charity_:
-
-[The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology)
-
-[The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/EqgF5amS96TahanzK/the-2015-survey-of-effective-altruists-results-and-analysis)
-
-[The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/z5swaf6342AbG93Mp/the-2014-survey-of-effective-altruists-results-and-analysis)
+* [The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology)
+* [The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/EqgF5amS96TahanzK/the-2015-survey-of-effective-altruists-results-and-analysis)
+* [The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/z5swaf6342AbG93Mp/the-2014-survey-of-effective-altruists-results-and-analysis)
