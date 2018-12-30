@@ -1,31 +1,31 @@
 ---
-title: Lessons from giving lectures and career workshops in the Netherlands
+title: Lessons from Giving Lectures and Career Workshops in the Netherlands
 date: 2018-11-22T19:48:23.212Z
 description: >-
   For the past 2 years I've been giving EA (career) workshops and lectures in
-  the Netherlands as a part of the EA the Netherlands team. My main focus was to
-  learn as much as possible. I currently am a teacher in high school and also
-  still give some non EA workshops professionally.
+  the Netherlands as a part of the EA Netherlands team. My main focus was to
+  learn as much as possible. I currently am a teacher in a high school and also
+  give some non-EA workshops professionally.
 illustration: /img/hubchairshadow.png
 author: Alje
-block: true
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/BMLXJ25jz4R3TBXNu/lessons-from-giving-lectures-and-career-workshops-in-the
+block: true
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles:
   - {}
 ---
-  Feel free to comment on or add suggest changes to this document. If you have something which might turn into a conversation or discussion I think the best place for that is the EA forum post (link).
+Feel free to comment on or suggest changes to this document. If you have something which might turn into a conversation or discussion, I think the best place for that is the EA forum [post](https://forum.effectivealtruism.org/posts/BMLXJ25jz4R3TBXNu/lessons-from-giving-lectures-and-career-workshops-in-the).
 
-Lessons from giving lectures and career workshops in the Netherlands
+# Lessons from giving lectures and career workshops in the Netherlands
 
-1. Introduction
+## 1. Introduction
 
-The goal of this post is to share my experiences giving EA career workshops and general EA lectures. Both the good ones and the bad ones. I won’t focus on how to give good workshops in general and won’t focus on the marketing. I won’t focus on the content of the workshop (the what) but will focus on the format (the how) of the workshop, for ideas on the content you can visit 80000hours.org. I aim for this to be a very small encyclopedia with ideas which hopefully help other people to set up or improve their own workshops/lectures.
+The goal of this post is to share my experiences giving EA career workshops and general EA lectures. Both the good ones and the bad ones. I won’t focus on how to give good workshops in general and won’t focus on the marketing. I won’t focus on the content of the workshop (the what) but will focus on the format (the how) of the workshop, for ideas on the content you can visit [80000hours.org](https://80000hours.org/). I aim for this to be a very small encyclopedia with ideas which hopefully help other people to set up or improve their own workshops/lectures.
 
-Who is this document for?
+**Who is this document for?**
 
 Only if you’re giving workshops, planning to give workshops, or have too much time on your hands .
 
@@ -43,15 +43,15 @@ At some times I might seem too firm or seem to be exaggerating, I think this is 
 
 This is usually the point where someone tells you what is coming up. I suggest you look at the outline on the left as I expect things to be rather self-explanatory.
 
-2. Context / background
+## 2. Context / background
 
 Relevant if: you’re interested to see how my findings can (or cannot) be generalized to your context or if you have a specific audience in mind and want to know how I approached this. I suggest you skip this :).
 
-2.1 My background
+**2.1 My background**
 
 Master Applied Mathematics (University of Twente / University of Cambridge) followed by a master’s degree in teaching. Taught in a public high school for 1 year and in a private school for the next 6 years. Also have been teaching teachers for 4 years now. I have my own company giving workshops on giving presentations for 3 years.
 
-2.2 Workshops done
+**2.2 Workshops done**
 
 All workshops have taken place in the Netherlands. Usually at the location of the audience (they usually arranged a location for me).  I feel my workshops cover a lot of different audiences, durations and workshop types. In total I think I spend around 400 hours preparing, giving and reflecting on the workshops. The most noteworthy workshops in chronological order (between brackets are the section numbers of the exercises I did). Note: this is boring.
 
@@ -81,7 +81,7 @@ Effective Altruism the Netherlands introduction event – 3 hours – An event s
 
 Rotary – 1 hour – General EA lecture – Informally considered the millionaires club who want to do something good for the world. – (6.3.4)
 
-3. Your audience
+## 3. Your audience
 
 Relevant if: you’re giving workshops to a diverse audience or if you feel like people are resisting EA (why aren’t they doing EA already?) but you don’t know why.
 
@@ -91,7 +91,7 @@ Notes
 
 \* The description of a group of people works only one way (if you are that type of people you usually match the description, if you match the description you’re not necessarily in that group)
 
-3.1 The easy catch
+**3.1 The easy catch**
 
 Looking for: Effective Altruism, learning, learning how to do good better
 
@@ -103,7 +103,7 @@ Every workshop there happens to be always at least 1 person who is very enthusia
 
 Recommendation: ensure there is sufficient philosophical depth
 
-3.2 One trick ponies
+**3.2 One trick ponies**
 
 Are looking for: certainty, closure
 
@@ -125,7 +125,7 @@ Examples of these questions I’ve encountered: “But if you are giving people 
 
 Recommendation: I don’t feel like these people are the people where EA is looking for so I don’t put too much effort in convincing these people. I just try to keep their disruption to a minimum and make sure they leave happy. Usually it suffices to just be really polite about their question and just say you don’t know (and don’t tell them too directly that you expect their pet cause isn’t really that important).
 
-3.3 The traditionalist
+**3.3 The traditionalist**
 
 Are looking for: recognition, feeling in the loop, consensus, being part of the good guys.
 
@@ -167,7 +167,7 @@ Rory Stewart OBE: “Failed states and how not to fix them” (long) Actually a 
 
 www.drawdown.org This seems the traditionalist version of EA. They try to compare different options on reducing climate change. They lack epistemic rigour (no info on discounting, they only look at the scale of a solution, not at tractability) but sell it very well (a lot of evocative adjectives).
 
-3.4 The warm fuzzy altruists
+**3.4 The warm fuzzy altruists**
 
 Are looking for: a warm feeling
 
@@ -195,7 +195,7 @@ Recommendation:
 
 \* See section 4.3 for more info on a type of question frequently asked by warm fuzzy altruists
 
-3.5 The Capitalist
+**3.5 The Capitalist**
 
 Are looking for: being successful, being good at what they do, efficiency
 
@@ -225,7 +225,7 @@ Recommendations:
 
 \* Embrace them being sceptical (this is a personality trait we love!). Sometimes they might apologise themselves or other people will apologise for them (tell them that you love it).
 
-3.6. The (genetic) lottery winner
+**3.6. The (genetic) lottery winner**
 
 Is looking for: inspiring people / surroundings / community
 
@@ -255,7 +255,7 @@ Recommendations:
 
 \* Read about the socially ill-calibrated EA fanatic (section 3.8) who seems to be the nemesis of attracting some of the more socially inclined genetic lottery winner.
 
-3.7 The yeller
+**3.7 The yeller**
 
 Is looking for: recognition, confidence
 
@@ -279,7 +279,7 @@ Recommendations:
 
 \* If the audience knows each other, it is an informal workshop and you expect resistance I recommend asking at the beginning: “Who is going to be the most troublesome in this audience?” (tone of voice: fun, like you’re up for a challenge and friendly). They usually love to answer and it defuses the tension.
 
-3.8 Socially ill-calibrated EA fanatic
+**3.8 Socially ill-calibrated EA fanatic**
 
 Looking for: Truth, being helpful, ego
 
@@ -309,13 +309,13 @@ Recommendations:
 
 \* I think the best way forward would to have some data on this. Basically I want data on the following question: what is someone's expected value to EA conditioned on how fashionable they look. Is there anyone who knows any data on this (or on anything somewhat related)? (please only data no explanations or thought, I have plenty of those, I’m already familiar with 80k talent survey but I want real data (not a collection of opinions)).
 
-4. Frequently asked questions (by your audience)
+## 4. Frequently asked questions (by your audience)
 
 Relevant if: you have some time on your hands (not really important but usually useful to know I’d say).
 
 I used to think that people ask questions because they want the answer. While this seems true when teaching mathematics, this doesn’t seem to hold for EA workshops/lectures. Questions are often people putting up resistance because you threaten their ego or world-view (as described in the previous Chapter 3). I have found much better results on focussing on the underlying reasons for the questions (i.e. dressing better) than having more logical answers to their questions. So if you get a critical question I recommend treating this as a result of violating some underlying desire as explained in the chapter 3. Still it does matter somewhat which answers you give so this section will cover some of the most frequently questions and some ideas for responses. I realize these answers aren’t the best answers (from a pure logical point of view) but are usually the best in a pragmatic way. Generally I find considering questions to be statements with a question mark at the end to be a helpful exercise.
 
-4.1 Immeasurable
+**4.1 Immeasurable**
 
 Examples:
 
@@ -343,7 +343,7 @@ Possible responses (summarized, paraphrased, I noticed other people had much bet
 
 \* Alje (\*): failed (too complicated, easily misconstrued and they don’t like the implication of focussing on things which are easy to measure) Some causes are really hard to measure, some causes are easier to measure. Comparing between causes which are easier to measure will be easier and thereby the comparison between those causes will be better. You’d therefore expect the expected best easy to measure cause to be more effective than the expected best hard to measure cause (assuming no a priori difference in the effectiveness distribution depending on how easy it is to measure). Since money now seems allocated with little regard for how easy it is to measure a cause you’d expect the easy to measure causes to be underfunded. It therefore makes sense at the moment to focus more on things which are easy to measure.
 
-4.2 Holistic
+**4.2 Holistic**
 
 Examples:
 
@@ -381,7 +381,7 @@ Recommendations:
 
 \* For some people this answer is not enough. If they keep the power struggle going, mention that focussing on a small part of the system isn’t just theory as randomized controlled trials show that a non-holistic approach can have real results. Be sure you are familiar with the evidence behind some charities (AMF/CoolEarth work well for me). Usually the person will keep going and as you mention any RCT’s will ask “but how does A cause B” to which you answer: “the RCT doesn’t tell us, it just shows us it works, that is the nature of an RCT”. Usually that is a (kind of) happy end.
 
-4.3 Local focus
+**4.3 Local focus**
 
 Example questions:
 
@@ -421,7 +421,7 @@ Recommendations:
 
 \* The tone that worked best for me was: really in favor of doing the small things, really understanding of why people might do this, but also quite firm in the message: “let us not kid ourselves that this is the best thing”.
 
-4.4 The unpredictable questions
+**4.4 The unpredictable questions**
 
 Examples
 
@@ -455,7 +455,7 @@ Recommendations:
 
 \* I switched to climate change examples as I found these to yield fewer random unpredictable questions. I feel (non-extreme risks) climate change isn’t the most popular cause area in EA but as an example it is excellent.
 
-5. General workshop tips
+## 5. General workshop tips
 
 Relevant if: you’re inexperienced in teaching/giving workshops.
 
@@ -513,7 +513,7 @@ Effective altruism is: ‘just’ critical thinking (this isn’t true as it neg
 
 You can think of effective altruism as an ideology and movement, of course it is slightly more complex than that, but it is close.” (Again, not entirely accurate, but it definitely is in the right ballpark and will be a lot clearer than many other more accurate, definitions).
 
-6. Workshop ideas
+## 6. Workshop ideas
 
 Relevant if: you’re looking for ideas for your workshop/lecture or just want to learn from my experiences (the good and the bad)
 
@@ -525,7 +525,7 @@ In everything I do I always aim for a proper balance between three things.
 2. Come across as competent
 3. Educational value (awareness)
 
-6.1 Warming up / introduction (\*\*\*\*)
+**6.1 Warming up / introduction (\*\*\*\*)**
 
 In the Netherlands we have a saying: “een goed begin is het halve werk”. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how easy of a time you’ll have the remainder of the workshop. So other than introducing EA I think this is the most important part of your workshop.
 
@@ -537,7 +537,7 @@ ii. Get a positive vibe going. I find the following is very important: making yo
 
 iii. expectation management / set the tone. Generally expectation management is a good idea. So providing structure, explaining what is coming. Let them get to know you (and the things you like/dislike). This is the moment for them to gauge what you like (I always try to convey: I like critical input, if you want to leave / go to the restroom while I’m talking, be my guest, I’m not there to preach, I’m there to make them happy, if EA is not for them that is OK). As a career workshop a certain challenge is extra pronounced: I feel people really frequently underestimate how hard career choices are. I think this is why people don’t like making these choices (they feel like they put waaay too much time into a choice which should have been easy). This underestimation leads to them to expect giant leaps forwards in your 2 hour workshop. Unrealistic, or at least I cannot deliver this much. So I usually tackle this head on by explaining that in 2 hours you won’t suddenly know.
 
-6.1.1 25 things you’d do with 500 million (\*\*\*\*)
+**6.1.1 25 things you’d do with 500 million (\*\*\*\*)**
 
 Use case: Longer workshops where you can give people a preliminary assignments, audiences where you might expect resistance.
 
@@ -569,7 +569,7 @@ Recommendation:
 
 \* You can also let them make the list during your workshop, but this takes a lot of time.
 
-6.1.2 Stand and choose (\*\*\*\*)
+**6.1.2 Stand and choose (\*\*\*\*)**
 
 Use case: shorter workshops, medium formality
 
@@ -593,7 +593,7 @@ Recommendation:
 
 \* I haven’t found a really natural way to move to the next part (other than remarking on something remarkable to make it seem relevant and then brute forcing my way).
 
-6.1.3 Vanilla introduction (\*\**)
+**6.1.3 Vanilla introduction (\*\**)**
 
 Use case: smaller groups, informal setting, longer workshops
 
@@ -615,7 +615,7 @@ Recommendation:
 
 \* If you ask the wrong questions you’ll get really really long answers (once for 20 people this took me 50 minutes!). This is boring. Wrong questions are: what is your current background (superboring and people will want to tell you all the details and nuance of what they are doing or they don’t know and start telling you everything they are considering), what is something altruistic you care about (people can get really into this making it hard to keep it short).
 
-6.1.4 EA is growing fast (\*\*\*\*)
+**6.1.4 EA is growing fast (\*\*\*\*)**
 
 Use case: slightly more formal lectures with limited possibility for interaction attended mostly by traditionalists
 
@@ -625,17 +625,17 @@ Explanation:
 
 See section 6.3.4 for this.
 
-6.1.5 personal anecdote (?? expect \*\*\*\*/\*\*\*\**)
+**6.1.5 personal anecdote (?? expect \*\*\*\*/\*\*\*\**)**
 
 Use case: many, perhaps especially effective for lectures for a bigger audience.
 
 Rationale: I haven’t tried this (I haven’t any proper anecdotes) but have seen this used to great effect. Someone I find who does this to great effect is Kellie Liket (unfortunately I could only find talks in dutch, example)
 
-6.2 Happiness / job satisfaction (\*\**)
+**6.2 Happiness / job satisfaction (\*\**)**
 
 Sometimes in order for a university (or group) to host your workshop they want you to include something on happiness (they call it student welfare). Some form of job satisfaction / happiness quickly seems relevant to include anyway. Especially for less altruistic crowds I focus quite a lot (30% of total time) on happiness (as they usually agree this is something they want). I sometimes stray into general happiness (not just job satisfaction) as this is subject I’m passionate about and happen to have read a lot about.
 
-6.2.1 put it on the board (\*\**)
+**6.2.1 Put it on the board (\*\**)**
 
 Use case: if you have a whiteboard/blackboard and too much time preparing
 
@@ -649,7 +649,7 @@ Recommendation:
 
 \* This takes a really long time to prepare (as you basically need to know and understand most of the research on this). I don’t remember where I got all my info from (I haven’t done this one in nearly 2 years) but I do recommend 80000hours.org (obviously) and reading everything in https://en.wikipedia.org/wiki/Category:Motivational_theories
 
-6.2.2 Just tell them (\*\**)
+**6.2.2 Just tell them (\*\**)**
 
 Use case: most
 
@@ -665,9 +665,9 @@ Recommendation:
 
 \* Always make sure they guess first. If you don’t the things will feel obvious (“oh, I knew this already”) whereas if they guess first they can come up with a list of 10+ things and then it is surprising to them to hear which of these have the highest impact.
 
-6.3 Introducing EA (\*\*\*\*)
+**6.3 Introducing EA (\*\*\*\*)**
 
-6.3.1 The everyday altruism quiz (\*\**)
+**6.3.1 The everyday altruism quiz (\*\**)**
 
 Use case: warm fuzzy altruists, (possibly young traditionalists), excels in short workshops, excels when the workshop is marketed as something fun
 
@@ -695,7 +695,7 @@ Recommendations:
 
 \* Make sure you’re really sure about the answers ☺ otherwise it will not come across as convincing
 
-6.3.2 Applied philosophy (\*\*\*\*)
+**6.3.2 Applied philosophy (\*\*\*\*)**
 
 Use case: introduction events, attracting talent, mixed audience of new and experienced people when the new people are pretty smart,
 
@@ -775,7 +775,7 @@ participant 1: \[very frustrated].
 
 \* I’d recommend sharing this picture (on annual spending on malaria research and male baldness research) after the group comparing different cause areas has discussed their findings.
 
-6.3.3 The 5-charities pitch (\*\*\*\*)
+**6.3.3 The 5-charities pitch (\*\*\*\*)**
 
 Use case: People with little/no familiarity with EA, mid to long workshops
 
@@ -823,7 +823,7 @@ Recommendation:
 
 \* Make sure you know how to pronounce schistosomiasis control initiative yourself :).
 
-6.3.4 New and upcoming (\*\*\*\**)
+**6.3.4 New and upcoming (\*\*\*\**)**
 
 Use case: full traditionalist audience, lecture, 15-60 min, improving inclination towards EA, get people to donate effectively
 
@@ -865,7 +865,7 @@ Tick the following boxes:
 
 \* You can just have a lecture of 15 minutes and usually there are plenty of questions afterwards
 
-6.3.5 Just tell them (*)
+**6.3.5 Just tell them (*)**
 
 Status: failed
 
@@ -877,7 +877,7 @@ Explanation:
 
 One time I thought it was a good idea to just tell the audience the rationale and the relevant research. I didn’t have much time and I thought just telling them things as logically as possible would be great! Well it wasn’t, they weren’t really enthusiastic (especially the warm fuzzy altruists didn’t like it). I learned that for some reason making it very logical actually produces a counter reaction (some people seem to be allergic to logic or something). I thought that perhaps the reason people don’t like logic is actually that they’re just missing the feeling. It wasn’t, see below (section 6.3.6).
 
-6.3.6 Start with what they like (\*\*)
+**6.3.6 Start with what they like (\*\*)**
 
 Status: failed
 
@@ -905,13 +905,13 @@ Recommendation:
 
 \* Really stress the collaboration part. People seem to like that.
 
-6.4 Introducing EA->careers (\*\*)
+**6.4 Introducing EA->careers (\*\*)**
 
 General recommendation: people seem to like the following clip as an introduction to this: Is Your Work a Paycheck or a Calling.
 
 Introducing EA-> careers gets only two stars because I haven’t found a definite good way of doing this, although pointers and spoilers (6.4.2) seem promising. Still I feel this needs more experimenting and I expect you’ll find this one of the harder parts of your workshop to optimize.
 
-6.4.1 1-vs-1 (\*\**)
+**6.4.1 1-vs-1 (\*\**)**
 
 Use cases: many, especially if you want to keep it kind of short
 
@@ -931,7 +931,7 @@ Recommendations
 
 \* You might want to let people stand on the side of the room representing their point of view and keep them standing there for the entire duration of the exercise (so works best if you’re keeping it around 5 minutes)
 
-6.4.2 Pointers and spoilers (\*\*\*\*)
+**6.4.2 Pointers and spoilers (\*\*\*\*)**
 
 Use case: Many, especially suited for mixed audience of people already familiar with 80.000hours material and those who aren’t.
 
@@ -957,7 +957,7 @@ Career capital: https://www.centreforeffectivealtruism.org/careers
 
 Choosing careers in general: waitbutwhy.com/2018/04/picking-career.html
 
-6.4.3 On the line (\*\*)
+**6.4.3 On the line (\*\*)**
 
 Status: failed
 
@@ -989,11 +989,11 @@ Recommendations (failure mode, based on 2 attempts):
 
 \* Use well known people to give a face to a certain profession.
 
-6.5 Making it personal (\*\*)
+**6.5 Making it personal (\*\*)**
 
 Theoretical information is all fun and good, but what it is all about in the end is their careers and how they are going to apply this information in their careers. This is challenging because now instead of having 20 people you tell information to which is relevant for everybody, now suddenly you have 20 people who all want specific tips & tricks. I didn’t do well at this (hence 2 stars) but I feel my last attempt was actually really successful.
 
-6.5.1 Hard choices (\*\*\*\**)
+**6.5.1 Hard choices (\*\*\*\**)**
 
 Use case: career workshop/lectures. Especially suited for audiences already (partly) familiar with 80.000hours material.
 
@@ -1039,7 +1039,7 @@ Rationale:
 
 \* Even though things might be challenging the workshop will still feel safe because: i. the questions are useful, ii. there is relatively little sharing, iii. sharing that is done is done 1 on 1 and one can choose what to share.
 
-6.5.2 Specialized groups (\*\*)
+**6.5.2 Specialized groups (\*\*)**
 
 Use case: mid to long career workshop,very mixed audience
 
@@ -1055,7 +1055,7 @@ Recommendation (failure mode):
 
 \* It doesn’t really work because the group of people who don’t have a clear picture of what they want (group i) really didn’t get anywhere. I feel that this group just contained too many people weren’t really good at making choices or setting up a constructive group setting. I The other groups were okay. I gave this 2 stars (instead of 1) because I only tried it once.
 
-6.5.3 Discussion in groups (*)
+**6.5.3 Discussion in groups (*)**
 
 Status: failed
 
@@ -1071,11 +1071,11 @@ Recommendation:
 
 \* Don’t do this. I noticed that groups take a lot of time to get to know each other (5 to 10 minutes) and then take more time to understand what they are going to talk about (another 5 to 10 minutes). I’d always prefer pairs to groups and specialized groups (with a specific question which differs for every group) to every group being similar.
 
-6.6 Ending your workshop (\*\*)
+**6.6 Ending your workshop (\*\*)**
 
 I found this to be quite challenging (hence 2 stars). Ending in pairs did seem to solve this.
 
-6.6.1 Feedback form (\*\*\*\*)
+**6.6.1 Feedback form (\*\*\*\*)**
 
 Use case: workshops and longer lectures
 
@@ -1089,7 +1089,7 @@ Recommendation:
 
 Rationale: to improve, obviously ☺
 
-6.6.2 End in pairs (\*\*\*\**)
+**6.6.2 End in pairs (\*\*\*\**)**
 
 Use case: this is a recommended ending
 
@@ -1105,7 +1105,7 @@ Rationale:
 
 \* It also avoid an awkward silence and a “what now” kind of feeling in the groups. To me this always felt like a natural end where people slowly trickle away, join other groups etc.
 
-7. Closing remarks / more info
+## 7. Closing remarks / more info
 
 I’ll be responding to comments in the corresponding forum post. Also Catherine graciously offered to let me share her email address and her invitation to help here. Feel free to contact her :).
 
