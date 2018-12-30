@@ -8,7 +8,7 @@ description: >-
 author: David Moss
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data
-block: true
+block: false
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
