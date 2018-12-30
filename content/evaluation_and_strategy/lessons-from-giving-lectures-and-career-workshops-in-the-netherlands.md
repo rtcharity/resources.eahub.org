@@ -29,17 +29,13 @@ The goal of this post is to share my experiences giving EA career workshops and 
 
 Only if you’re giving workshops, planning to give workshops, or have too much time on your hands .
 
-Notes:
+_Notes:_
 
-My primary goal of the workshops/lectures was to learn how to give them in the best way possible (and share this, hence this document). My secondary goal was to scout for and attract talent to work somewhere in the EA network. My third goal was to improve inclination towards and proper understanding of EA. I’m not usually aiming for donations or GWWC pledges.
-
-Supporting documents (some pictures, some feedback forms, my slides) can be found here. Mostly relevant if you want some more details or you want to see what it looked like. Copyright notice: Feel free to use all my stuff as long as it doesn’t pertain to other people (pictures, non-anonymous feedback forms) if the stuff isn’t mine it will be labelled as such and make sure you are allowed to use it.
-
-I aimed to make it possible to start reading anywhere in this document. Therefore you might sometimes stumble upon me repeating myself.
-
-If I’d had to summarize this document in one sentence It would be: don’t assume your audience is rational. Therefore you might sometimes see me advocate an approach which doesn’t make sense if you look at the way the world ought to be, but actually makes a lot of sense when you consider the way the world actually is.
-
-At some times I might seem too firm or seem to be exaggerating, I think this is because of three reasons: i. for the sake of clarity and brevity I didn’t put full nuance in every sentence but rather mention it once at the top, ii. I am actually rather firm that what is described here accurately describes my experiences, I’m not firm at all that these will be your experiences as well, iii. sometimes reality seems like an exaggeration (as a thought experiment I recommend thinking about modern day politics in some countries and explaining this to someone who lived 20 years ago).
+* My primary goal of the workshops/lectures was to learn how to give them in the best way possible (and share this, hence this document). My secondary goal was to scout for and attract talent to work somewhere in the EA network. My third goal was to improve inclination towards and proper understanding of EA. I’m not usually aiming for donations or GWWC pledges.
+* Supporting documents (some pictures, some feedback forms, my slides) can be found [here](https://drive.google.com/drive/folders/1AGtll2uw1TtFTCNWdVVM-S83P7thi2SK). Mostly relevant if you want some more details or you want to see what it looked like. Copyright notice: Feel free to use all my stuff as long as it doesn’t pertain to other people (pictures, non-anonymous feedback forms) if the stuff isn’t mine it will be labelled as such and make sure you are allowed to use it.
+* I aimed to make it possible to start reading anywhere in this document. Therefore you might sometimes stumble upon me repeating myself.
+* If I’d had to summarize this document in one sentence It would be: don’t assume your audience is rational. Therefore you might sometimes see me advocate an approach which doesn’t make sense if you look at the way the world ought to be, but actually makes a lot of sense when you consider the way the world actually is.
+* At some times I might seem too firm or seem to be exaggerating, I think this is because of three reasons: i. for the sake of clarity and brevity I didn’t put full nuance in every sentence but rather mention it once at the top, ii. I am actually rather firm that what is described here accurately describes my experiences, I’m not firm at all that these will be your experiences as well, iii. sometimes reality seems like an exaggeration (as a thought experiment I recommend thinking about modern day politics in some countries and explaining this to someone who lived 20 years ago).
 
 This is usually the point where someone tells you what is coming up. I suggest you look at the outline on the left as I expect things to be rather self-explanatory.
 
@@ -49,47 +45,34 @@ Relevant if: you’re interested to see how my findings can (or cannot) be gener
 
 **2.1 My background**
 
-Master Applied Mathematics (University of Twente / University of Cambridge) followed by a master’s degree in teaching. Taught in a public high school for 1 year and in a private school for the next 6 years. Also have been teaching teachers for 4 years now. I have my own company giving workshops on giving presentations for 3 years.
+Master of Applied Mathematics (University of Twente / University of Cambridge) followed by a master degree in teaching. Taught in a public high school for 1 year and in a private school for the following 6 years. Also have been teaching teachers for 4 years now. I have my own company giving workshops on giving presentations for 3 years.
 
 **2.2 Workshops done**
 
 All workshops have taken place in the Netherlands. Usually at the location of the audience (they usually arranged a location for me).  I feel my workshops cover a lot of different audiences, durations and workshop types. In total I think I spend around 400 hours preparing, giving and reflecting on the workshops. The most noteworthy workshops in chronological order (between brackets are the section numbers of the exercises I did). Note: this is boring.
 
-Amsterdam local EA group - 2.5 hours - Career workshop – people who were already familiar with EA – (6.1.3, 6.2.1, 6.4.1, 6.5.2, 6.6.1)
-
-De Kleine Consultant – 3 hours – Career workshop – a university club for people who train to become strategy consultants – (6.1.1, 6.1.3, 6.2.2, 6.3.3, 6.4, 6.6.1),
-
-University of Twente – 30 minutes – general EA lecture – students (6.3.5)
-
-Effective Altruism the Netherlands Launch – 1 hour – Career workshop – people who showed interest in EA – (6.1.3, 6.2.2, 6.3.5, 6.4.1, 6.5.3, 6.6.1)
-
-Erasmus University College – 4 hours – Career workshop – Mainly humanities students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
-
-University College Utrecht + Utrecht University – 4 hours – Career workshop – students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
-
-Erasmus sustainability days – 2 hours – Career workshop – Mainly sustainability studies students – (6.1.1, 6.3.1, 6.4.1, 6.5.3, 6.6.1)
-
-University College Guidance network – 30 minutes – 20 career counsellors who work for various dutch universities (6.3.6)
-
-Jong-VVD – 2 hours – A club for young members of a Dutch political party which supports private enterprise and economic liberalism and is one of the Dutch parties which least favors developmental aid. – (6.3.1)
-
-Nedworc – 30 minutes – A professional network of Development Cooperation Experts (think consultants for War Child, Amnesty international etc.) (6.3.4)
-
-EAGx the Netherlands – 1 hour – (6.5.1, 6.4.2)
-
-Effective Altruism the Netherlands introduction event – 3 hours – An event specifically for new people (usually friends of those already in the network) – (6.3.2)
-
-Rotary – 1 hour – General EA lecture – Informally considered the millionaires club who want to do something good for the world. – (6.3.4)
+1. Amsterdam local EA group - 2.5 hours - Career workshop – people who were already familiar with EA – (6.1.3, 6.2.1, 6.4.1, 6.5.2, 6.6.1)
+2. De Kleine Consultant – 3 hours – Career workshop – a university club for people who train to become strategy consultants – (6.1.1, 6.1.3, 6.2.2, 6.3.3, 6.4, 6.6.1),
+3. University of Twente – 30 minutes – general EA lecture – students (6.3.5)
+4. Effective Altruism the Netherlands Launch – 1 hour – Career workshop – people who showed interest in EA – (6.1.3, 6.2.2, 6.3.5, 6.4.1, 6.5.3, 6.6.1)
+5. Erasmus University College – 4 hours – Career workshop – Mainly humanities students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
+6. University College Utrecht + Utrecht University – 4 hours – Career workshop – students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
+7. Erasmus sustainability days – 2 hours – Career workshop – Mainly sustainability studies students – (6.1.1, 6.3.1, 6.4.1, 6.5.3, 6.6.1)
+8. University College Guidance network – 30 minutes – 20 career counsellors who work for various dutch universities (6.3.6)
+9. Jong-VVD – 2 hours – A club for young members of a Dutch political party which supports private enterprise and economic liberalism and is one of the Dutch parties which least favors developmental aid. – (6.3.1)
+10. Nedworc – 30 minutes – A professional network of Development Cooperation Experts (think consultants for War Child, Amnesty international etc.) (6.3.4)
+11. EAGx the Netherlands – 1 hour – (6.5.1, 6.4.2)
+12. Effective Altruism the Netherlands introduction event – 3 hours – An event specifically for new people (usually friends of those already in the network) – (6.3.2)
+13. Rotary – 1 hour – General EA lecture – Informally considered the millionaires club who want to do something good for the world. – (6.3.4)
 
 ## 3. Your audience
 
 Relevant if: you’re giving workshops to a diverse audience or if you feel like people are resisting EA (why aren’t they doing EA already?) but you don’t know why.
 
-Notes
+_Notes:_
 
-\* These are generalizations, in reality people will often be a combination of these and might not be as extreme.
-
-\* The description of a group of people works only one way (if you are that type of people you usually match the description, if you match the description you’re not necessarily in that group)
+* These are generalizations, in reality people will often be a combination of these and might not be as extreme.
+* The description of a group of people works only one way (if you are that type of people you usually match the description, if you match the description you’re not necessarily in that group)
 
 **3.1 The easy catch**
 
@@ -111,17 +94,16 @@ Frequency: approx. 1 in 15
 
 Lack: Cause neutrality, epistemic modesty
 
-Some people have the idea that there is only one real problem in the world and all the other problems just follow from this one. Sometimes they think it is overpopulation, gender inequality (wonderful example on youtube), ‘the system’, logistics… you name it. I’ve had someone come up to me after my first workshop saying: “It was a really interesting workshop, but I feel it didn’t touch on the core of things. I mean, we have too much food in the western world, too little food in the developing world so the only real problem in the world is a logistics problem.”
+Some people have the idea that there is only one real problem in the world and all the other problems just follow from this one. Sometimes they think it is overpopulation, gender inequality ([wonderful example on YouTube](https://www.youtube.com/watch?v=Tm6ESsMlvYE&feature=youtu.be&t=18m55s)), ‘the system’, logistics… you name it. I’ve had someone come up to me after my first workshop saying: _“It was a really interesting workshop, but I feel it didn’t touch on the core of things. I mean, we have too much food in the Western world, too little food in the developing world, so the only real problem in the world is the logistics problem.”_
 
 I imagine these people aren’t good at dealing with open ends and uncertainty about the world. Combining this with an online echo chamber and/or social isolation leads them to a firm belief they understand the single cause of much of the worlds suffering.
 
 They often don’t disrupt a workshop too much. I found they mostly ask two types of questions (and ask them only once or twice):
 
-i. “But aren’t you then just treating symptoms?”
+1. _“But aren’t you then just treating symptoms?”_
+2. _“And what is the effect of this intervention on \[their pet problem]”._
 
-ii. “And what is the effect of this intervention on \[their pet problem]”.
-
-Examples of these questions I’ve encountered: “But if you are giving people unconditional cash, aren’t you just treating the symptoms? Cause what you really want is to help them to be self-supporting in the long run…”, “And what is the effect of treating people for Schistosomiasis on the ground water quality. Because of course these pills all end up in nature and \[… some anecdote of where ground water quality turned was overlooked and turned out to be super important…].” The hard thing about these people that they are usually expert on their small kingdom and you just don’t happen to know the answer.
+Examples of these questions I’ve encountered: _“But if you are giving people unconditional cash, aren’t you just treating the symptoms? Cause what you really want is to help them to be self-supporting in the long run…”_, _“And what is the effect of treating people for Schistosomiasis on the ground water quality. Because of course these pills all end up in nature and_ \[… some anecdote of where ground water quality turned was overlooked and turned out to be super important…]_.”_ The hard thing about these people that they are usually expert on their small kingdom and you just don’t happen to know the answer.
 
 Recommendation: I don’t feel like these people are the people where EA is looking for so I don’t put too much effort in convincing these people. I just try to keep their disruption to a minimum and make sure they leave happy. Usually it suffices to just be really polite about their question and just say you don’t know (and don’t tell them too directly that you expect their pet cause isn’t really that important).
 
@@ -139,11 +121,9 @@ I’ve found these people to be really entrenched in their way of thinking. Some
 
 It might seem I’m exaggerating but I’m definitely not (think politicians during election time and how you’d expect them to be rational and compare this to how they are actually behaving). Just a couple of short of anecdotes to illustrate how this affected me.
 
-i. During one of my workshops I had someone attending who was there to figure out if they wanted to host one of my workshops themselves. Before the workshop started I made the mistake asking what was on her laptop. It turned out to be the infographic of the sustainable development goals (which I didn’t recognize). You could see in her eyes that at that point I had lost all credibility (took me only 20 seconds! Beat that guys :P ). Needless to say, I didn’t get invited to do a workshop there.
-
-ii. Another time Sjir Hoeijmakers (co-founder of EAN) and I had a conference call with someone who was interested in hosting a workshop. The first 15 minutes she asked me questions and I tried to answer honestly and in detail. It was clear she wasn’t convinced. At a certain point in time she asked a question which Sjir answered... Well kind of answered... I couldn’t understand the answer but it contained a lot of difficult words, different countries, Oxford etc. After this she said: “hmmm, I wasn’t that convinced, but this actually sounds really good!”. I was absolutely sure she couldn’t have followed what Sjir was saying.
-
-iii. Again, when talking to someone who was interested in hosting a workshop the SDG’s (sustainable development goals) passed the conversation. She was talking about how she really would like an advanced workshop  she voiced something along the lines: “You don’t want to start all over. Some people don’t even know the SDG’s!” (with the tone of surprise I would voice when some adult doesn’t know how to do multiplication).
+1. During one of my workshops I had someone attending who was there to figure out if they wanted to host one of my workshops themselves. Before the workshop started I made the mistake asking what was on her laptop. It turned out to be the infographic of the sustainable development goals (which I didn’t recognize). You could see in her eyes that at that point I had lost all credibility (took me only 20 seconds! Beat that guys :P ). Needless to say, I didn’t get invited to do a workshop there.
+2. Another time Sjir Hoeijmakers (co-founder of EAN) and I had a conference call with someone who was interested in hosting a workshop. The first 15 minutes she asked me questions and I tried to answer honestly and in detail. It was clear she wasn’t convinced. At a certain point in time she asked a question which Sjir answered... Well kind of answered... I couldn’t understand the answer but it contained a lot of difficult words, different countries, Oxford etc. After this she said: “hmmm, I wasn’t that convinced, but this actually sounds really good!”. I was absolutely sure she couldn’t have followed what Sjir was saying.
+3. Again, when talking to someone who was interested in hosting a workshop the SDG’s (sustainable development goals) passed the conversation. She was talking about how she really would like an advanced workshop  she voiced something along the lines: “You don’t want to start all over. Some people don’t even know the SDG’s!” (with the tone of surprise I would voice when some adult doesn’t know how to do multiplication).
 
 I wondered how this truth as popularity contest came to be. I can imagine a couple of reasons but can only speculate: First, in computer science your program either runs or doesn’t. In mathematics, a proof is right or wrong. In engineering your bridge either holds or doesn’t. I feel that the most common background for traditionalists might be more focused on writing essays. Writing essays might be more biased towards making a persuasive argument (rather than a correct argument). Might be more biased towards writing something your teacher likes (rather than something correct). Later in their life this might continue because they have to write proposals for policymakers for certain grants. Once again, the reward is given for convincing someone, not for the correctness of the idea. Second might be that it is self-sustaining (only those who are popular make the rules) and a final reason: imagine that you’ve been working in the field for 40 years, how easy is it to face the idea that you might not have been all that effective?
 
