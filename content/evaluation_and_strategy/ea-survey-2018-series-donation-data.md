@@ -103,55 +103,73 @@ This year, for the first time, we asked respondents whether they were donating a
 
 Across the sample as a whole, a majority (56.99%) reported donating less than they would like to due to financial constraints or some other reason (17.36%), whereas less than a quarter (24.42%) reported donating as much as they would like to.
 
+![](/img/reasons-donate-less-table.png)
+
 We also hand-coded the qualitative responses in the “please specify why” box. Responses could be classified as multiple different categories at once. Many people who selected this option also specified financial constraints as a reason, meaning that the total for this category was even higher. Most of the coded categories are fairly self explanatory. However, “Social” refers to social influence or social norms and most responses in this category explicitly referred to a spouse or partner. “Efficacy” refers to concerns about locating an effective charity to donate to or concern than any charities were effective donation targets. The graph below shows the frequency of these other reasons.
 
-Other Influences on Giving
+![](/img/reasons-donate-less-graph.png)
 
-Career
+## Other Influences on Giving
+
+**Career**
 
 EAs work in a variety of careers and perhaps people aren't donating money, but rather donating their time or taking a lower salary to work at a directly impactful org. Indeed, those working in research roles donate substantially less than their peers and have a lower median income.
 
-Giving What We Can Pledge
+![](/img/donation2018-career.png)
+
+**Giving What We Can Pledge**
 
 The observation that so many EAs in our survey were donating much less than 10% of their income to charity suggests the question: how much are self-reported GWWC Pledge takers donating?
 
+![](/img/table-8-pledge.png)
+
 According to this analysis, the median percent of income donated by someone who had taken the GWWC Pledge, in our sample, was 7.22%, short of the 10% target. Nevertheless, this could be influenced by GWWC Pledge takers being students, not employed or only recently having taken the Pledge. We will be exploring these issues in more detail in a dedicated post.
 
-Year First Heard of EA
+**Year First Heard of EA**
 
 Median donations, income and percentage of income donated all increase fairly steadily the longer respondents have been in EA. 2010 bucks the trend slightly owing to one very high income-high donation individual and small number of EAs within that year. One intuitive reason why this might be is that those who have more recently heard of EA tend to be younger, more likely to be students (or may be earlier in their careers) and so have a lower income. In addition, new EAs might also be expected to be less likely to be extremely dedicated or willing to donate large sums right away. There may also be some survivorship bias, where those EAs who report first hearing of EA in earlier years, and are still taking the survey in 2018, may be more likely to dedicated, highly involved (and perhaps higher donating) EAs.
 
+![](/img/table-9-year-heard-income.png)
+
 This veteran versus newcomer difference is apparent within non-students, pledge takers, those earning to give, and especially among high-income individuals. Without longitudinal data it is difficult to know if this is due to a time effect, or group-switching over time. There is very little difference between newcomer and veteran non-pledge takers, students, other career types, and other income-level individuals. This makes intuitive sense as this group are likely to now either have low incomes or not be expressly committed to donating a significant portion of income, irrespective of the length of time they have been in EA.
+
+![](/img/time-graphs.png)
 
 (Right click and open in new tab to expand image)
 
-Predictors of Donation
+**Predictors of Donation**
 
 We examined the effect of income, student status, number of years involved with EA, and membership in GWWC as potential predictors of donations. Individual income was the strongest predictor of donation amount, followed by a positive impact of membership in GWWC interacting with income (link to regression table). Before analysis, two outliers with large influence were removed (individual incomes >$5 million), and the data were log transformed, centered and scaled to improve normality. Household income was strongly correlated with individual income (~80%) and was therefore excluded from the model. This model (AIC=3114), was slightly preferred over a model with no interaction between GWWC and income (AIC=3121), and explained about 45% of the variation in the data. The model was also preferred over a simple regression of donation vs income (AIC=3498) which accounted for 37% of the variation in the normalized data.
 
 As previously noted, there was a small negative impact of being a student on donation amount. As seen in the figure below, this effect was slightly mitigated by being a member of GWWC.
 
+![](/img/regression-graph.png)
+
 There was also a very small negative effect of being aware of EA for a shorter time. There was little correlation between between years of EA involvement and individual income (16%), so the explanation for this effect may have more to do with years of commitment to charitable giving than income-related factors such as student status.
 
-Which Charities are EAs Donating to?
+**Which Charities are EAs Donating to?**
 
 We received information about which specific charities respondents donated to from 494 out of the 1363 EAs who reported donating anything in 2017. Given this, information about totals of donations to specific charities should be treated with caution.
 
 As in previous years, GiveWell charities, led by GiveDirectly, received among the most reported donations. However, unlike previous years, CEA tops the list for total reported donations. The Humane League attracted substantially more funding (mostly explained by one large donor) and donors than in 2016, among those who reported donations. In addition, AMF, GiveDirectly, GiveWell, and MIRI received the largest number of individuals donating to them.
 
-Conclusions
+![](/img/table-10-specific-charity-donations.png)
+
+![](/img/table-11-cause-areas.png)
+
+## Conclusions
 
 Total EA donations within our sample are dominated by a fairly small number of very large donors. Nevertheless, median donations do seem to be slowly increasing, compared to earlier years. Furthermore, median donations and percentages of income donated are substantially higher when excluding students, those not fully employed or those on a low income.
 
 \[1] Unless otherwise stated “income” refers to the average of individual and household income, which were reported separately. These measures were extremely highly correlated and using either of the individual measures made no difference to our analyses where we tested this.
 
-Updates and corrections
+**Updates and corrections**
 
 Corrected percentage donated values
 
 Added column labels to percentiles tables at request
 
-Credits
+**Credits**
 
 This post was written by David Moss, with contributions from Neil Dullaghan and Kim Cuddington.
 
@@ -159,11 +177,11 @@ Analysis conducted by Rethink Priorities staff, David Moss, Neil Dullaghan, Kim 
 
 Thanks to Peter Hurford and Tee Barnett for editing.
 
-The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities.
+_The annual EA Survey is a project of _[_Rethink Charity_](https://rtcharity.org/)_ with analysis and commentary from researchers at _[_Rethink Priorities_](http://rethinkpriorities.org/)_._
 
-Supporting Documents
+**Supporting Documents**
 
-Other Articles in the 2018 EA Survey Series Future articles we write about the 2018 Survey will be added here.
+_Other Articles in the 2018 EA Survey Series_: Future articles we write about the 2018 Survey will be added here.
 
 I - Community Demographics & Characteristics
 
@@ -173,7 +191,7 @@ III - How do people get involved in EA?
 
 IV - Subscribers and Identifiers
 
-Prior EA Surveys conducted by Rethink Charity
+_Prior EA Surveys conducted by Rethink Charity_:
 
 The 2017 Survey of Effective Altruists
 
