@@ -27,7 +27,7 @@ This post explores donation data in the 2018 EA Survey, investigating how much p
 
 1891 out of 2607 (73%) self-identified EAs in our sample offered data about their donations. This is a significant increase from the 2017 Survey where we had donation data from 1019 EAs out of 1853 (54.9%).
 
-**Totals Donated**
+## Totals Donated
 
 As in previous years, there was a very wide range in amounts donated (note the 2018 Survey collects reports on amounts donated in 2017). All amounts are in USD ($).
 
@@ -137,7 +137,7 @@ This veteran versus newcomer difference is apparent within non-students, pledge 
 
 (Right click and open in new tab to expand image)
 
-**Predictors of Donation**
+## Predictors of Donation
 
 We examined the effect of income, student status, number of years involved with EA, and membership in GWWC as potential predictors of donations. Individual income was the strongest predictor of donation amount, followed by a positive impact of membership in GWWC interacting with income (link to regression table). Before analysis, two outliers with large influence were removed (individual incomes >$5 million), and the data were log transformed, centered and scaled to improve normality. Household income was strongly correlated with individual income (~80%) and was therefore excluded from the model. This model (AIC=3114), was slightly preferred over a model with no interaction between GWWC and income (AIC=3121), and explained about 45% of the variation in the data. The model was also preferred over a simple regression of donation vs income (AIC=3498) which accounted for 37% of the variation in the normalized data.
 
@@ -147,7 +147,7 @@ As previously noted, there was a small negative impact of being a student on don
 
 There was also a very small negative effect of being aware of EA for a shorter time. There was little correlation between between years of EA involvement and individual income (16%), so the explanation for this effect may have more to do with years of commitment to charitable giving than income-related factors such as student status.
 
-**Which Charities are EAs Donating to?**
+## Which Charities are EAs Donating to?
 
 We received information about which specific charities respondents donated to from 494 out of the 1363 EAs who reported donating anything in 2017. Given this, information about totals of donations to specific charities should be treated with caution.
 
@@ -183,18 +183,18 @@ _The annual EA Survey is a project of _[_Rethink Charity_](https://rtcharity.org
 
 _Other Articles in the 2018 EA Survey Series_: Future articles we write about the 2018 Survey will be added here.
 
-I - Community Demographics & Characteristics
+[I - Community Demographics & Characteristics](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and)
 
-II - Distribution & Analysis Methodology
+[II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
 
-III - How do people get involved in EA?
+[III - How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea)
 
-IV - Subscribers and Identifiers
+[IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
 
 _Prior EA Surveys conducted by Rethink Charity_:
 
-The 2017 Survey of Effective Altruists
+[The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology)
 
-The 2015 Survey of Effective Altruists: Results and Analysis
+[The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/EqgF5amS96TahanzK/the-2015-survey-of-effective-altruists-results-and-analysis)
 
-The 2014 Survey of Effective Altruists: Results and Analysis
+[The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/z5swaf6342AbG93Mp/the-2014-survey-of-effective-altruists-results-and-analysis)
