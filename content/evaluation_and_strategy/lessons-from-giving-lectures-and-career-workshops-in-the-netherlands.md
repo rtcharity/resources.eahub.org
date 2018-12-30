@@ -164,7 +164,7 @@ Recommendation:
 
 * When they go off topic, I noticed little to no effect in trying to point out the logical flaws in their reasoning. Nowadays I usually just let them explain what they like, agree with how terrible things can be, and then try to steer things back on track ASAP.
 * I don’t feel these people are usually the best fit for EA. I therefore don’t put a lot of effort into convincing these people. I usually tease them a little (challenge their way of thinking) and see if it sticks and, if it doesn’t, that’s fine.
-* I recommend 6.3.1 The everyday altruism quiz if you expect an audience consisting of many warm fuzzy altruists.
+* I recommend [6.3.1 The everyday altruism quiz](#sec-6-3-1) if you expect an audience consisting of many warm fuzzy altruists.
 * See section 4.3 for more info on a type of question frequently asked by warm fuzzy altruists
 
 **3.5 The Capitalist**
@@ -639,7 +639,7 @@ Recommendation:
 
 **6.3 Introducing EA (\*\*\*\*)**
 
-**6.3.1 The everyday altruism quiz (\*\**)**
+<a name="sec-6-3-1"></a>**6.3.1 The everyday altruism quiz (\*\**)**
 
 Use case: warm fuzzy altruists, (possibly young traditionalists), excels in short workshops, excels when the workshop is marketed as something fun
 
