@@ -190,7 +190,7 @@ Recommendations:
 * Do not be afraid to criticise some charities (if you aren’t skeptical about some charities they will see you as someone who doesn’t engage in critical thinking
 * Embrace them being skeptical (this is a personality trait we love!). Sometimes they might apologise themselves or other people will apologise for them (tell them that you love it).
 
-**3.6. The (genetic) lottery winner**
+<a name="sec-3-6"></a>**3.6. The (genetic) lottery winner**
 
 Is looking for: inspiring people / surroundings / community
 
@@ -228,17 +228,12 @@ In a workshop these people can be the most annoying of them all.
 
 Recommendations:
 
-\* Make sure they like you. Flattery works.
-
-\* Recognising yellers can be hard, especially distinguishing from the critical capitalist (who is actually just a critical thinker which we love) or distinguishing them from the warm fuzzy altruist (who just cares about the world that they sometimes have to say stuff).
-
-\* The first time they show some kind of power struggle be really kind and thankful to them as a gesture of good faith (a peace offering). Second time keep it short. Third time you know they won’t let up and the battle is on.
-
-\* Most of the times (4 times out of 5) you can avoid the battle. In my opinion if you never notice yellers doing battle with you it is just that, you don’t notice.
-
-\* If the battle is on, consider them like you would the local high school bully, they will bully you if they sense weakness. Just kindness will (unfortunately) not do it (buying flowers for the high school bully will not work). I don’t have many good tips but two: i. usually if you’ve been kind the first couple of times the rest of the audience might not like this person -> good job you can now be pretty overtly just make sure they don’t say too much, ii. react to this person as if things they are saying are really trivial and obvious (hit them where it hurts).
-
-\* If the audience knows each other, it is an informal workshop and you expect resistance I recommend asking at the beginning: “Who is going to be the most troublesome in this audience?” (tone of voice: fun, like you’re up for a challenge and friendly). They usually love to answer and it defuses the tension.
+* Make sure they like you. Flattery works.
+* Recognising yellers can be hard, especially distinguishing from the critical capitalist (who is actually just a critical thinker which we love) or distinguishing them from the warm fuzzy altruist (who just cares about the world that they sometimes have to say stuff).
+* The first time they show some kind of power struggle be really kind and thankful to them as a gesture of good faith (a peace offering). Second time keep it short. Third time you know they won’t let up and the battle is on.
+* Most of the times (4 times out of 5) you can avoid the battle. In my opinion if you never notice yellers doing battle with you it is just that, you don’t notice.
+* If the battle is on, consider them like you would the local high school bully, they will bully you if they sense weakness. Just kindness will (unfortunately) not do it (buying flowers for the high school bully will not work). I don’t have many good tips but two: i. usually if you’ve been kind the first couple of times the rest of the audience might not like this person -> good job you can now be pretty overtly just make sure they don’t say too much, ii. react to this person as if things they are saying are really trivial and obvious (hit them where it hurts).
+* If the audience knows each other, it is an informal workshop and you expect resistance I recommend asking at the beginning: _“Who is going to be the most troublesome in this audience?”_ (tone of voice: fun, like you’re up for a challenge and friendly). They usually love to answer and it defuses the tension.
 
 <a name="sec-3-8"></a>**3.8 Socially ill-calibrated EA fanatic**
 
@@ -248,7 +243,7 @@ Lack: experience in ordinary social situations, social calibration, a good way o
 
 Unfortunately not all self-identified EA’s are perfect at everything. One type of imperfection worth taking special note of (at least in the Netherlands) is the socially ill calibrated experienced EA. I guess at one point in time they started lacking social experience in ordinary situations which made them avoid these situations and the cycle repeats. They seem to take pride in not caring overly about looks/clothing/fashion even to the point where (paradoxically) they care negatively about these things (so looking more fashionable becomes something negative). They highly value intellectual aptitude, but often in a self-defined way. So if they scored well on an IQ test, everyone else is measured according to IQ, if they have a wide knowledge of EA everyone else is measured based on their knowledge of EA.
 
-There are a couple of challenges with the socially ill calibrated EA fanatic. First and foremost, they scare away talented people from EA (see also section 3.6). Unfortunately I’ve seen this happen on countless occasions in the Netherlands (based on self-reports when I talked to these people afterwards). Being socially ill calibrated gives rise to a whole variety of problems when attracting potential EA’ers to the community. Examples:
+There are a couple of challenges with the socially ill calibrated EA fanatic. First and foremost, they scare away talented people from EA (see also [section 3.6](#sec-3-6)). Unfortunately, I’ve seen this happens on countless occasions in the Netherlands (based on self-reports when I talked to these people afterwards). Being socially ill-calibrated gives rise to a whole variety of problems when attracting potential EAs to the community. Examples:
 
 First they might love (weird) ice-breakers but don’t feel the negative kind of awkwardness underneath for some participants (these participants usually being the more socially sensitive people in the group who unfortunately happen to be the people not expressing this feeling easily which leads the socially ill calibrated EA fanatic to conclude the ice-breakers are great).
 
