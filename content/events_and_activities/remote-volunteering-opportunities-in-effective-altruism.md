@@ -128,11 +128,7 @@ You can contact Animal Ethics [through their website](http://animal-ethics.org/C
 
 The [Machine Intelligence Research Institute (MIRI)](https://intelligence.org/) is a pioneering organization in AI alignment research which provides support and funding for satellite research workshops through their [MIRIx workshop program](https://intelligence.org/mirix/). MIRIx workshops help create exposure and spread thinking on AI alignment problems, and help MIRI identify researchers and potential hires interested in AI alignment. From MIRI's website: 
 
-> MIRI wants to support AI safety research around the world. Our MIRIx program encourages mathematicians, computer scientists, and formal philosophers to organize their own workshops, and offers to reimburse the organizers for expenses.A MIRIx workshop can be as simple as gathering some of your friends to read 
->
-> [MIRI papers](https://intelligence.org/research/)
->
->  together, talk about them, eat some snacks, scribble some ideas on whiteboards, and go out to dinner together. Or it can be a multi-day research workshop pursuing a specific line of attack on a particular problem. It’s up to you.In some cases we’ll be able to send a MIRI research fellow to your first meeting to give tutorials and answer questions, or perhaps they’ll Skype in to your workshop to do the same. We’ll work out the details, and send you some tips on how to organize the workshop.
+> MIRI wants to support AI safety research around the world. Our MIRIx program encourages mathematicians, computer scientists, and formal philosophers to organize their own workshops, and offers to reimburse the organizers for expenses.A MIRIx workshop can be as simple as gathering some of your friends to read [MIRI papers](https://intelligence.org/research/) together, talk about them, eat some snacks, scribble some ideas on whiteboards, and go out to dinner together. Or it can be a multi-day research workshop pursuing a specific line of attack on a particular problem. It’s up to you.In some cases we’ll be able to send a MIRI research fellow to your first meeting to give tutorials and answer questions, or perhaps they’ll Skype in to your workshop to do the same. We’ll work out the details, and send you some tips on how to organize the workshop.
 
 You can inquire with MIRI about starting a local MIRIx workshop using [this online form](https://machineintelligence.typeform.com/to/RQw92J), or check out if there is a workshop active in your city at the [MIRIx webpage](https://intelligence.org/mirix/).
 
