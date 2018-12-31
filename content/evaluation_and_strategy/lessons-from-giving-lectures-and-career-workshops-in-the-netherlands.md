@@ -56,14 +56,14 @@ All workshops have taken place in the Netherlands. Usually at the location of th
 3. University of Twente – 30 minutes – general EA lecture – students (6.3.5)
 4. Effective Altruism the Netherlands Launch – 1 hour – Career workshop – people who showed interest in EA – (6.1.3, 6.2.2, 6.3.5, 6.4.1, 6.5.3, 6.6.1)
 5. Erasmus University College – 4 hours – Career workshop – Mainly humanities students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
-6. University College Utrecht + Utrecht University – 4 hours – Career workshop – students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
-7. Erasmus sustainability days – 2 hours – Career workshop – Mainly sustainability studies students – (6.1.1, 6.3.1, 6.4.1, 6.5.3, 6.6.1)
-8. University College Guidance network – 30 minutes – 20 career counsellors who work for various dutch universities (6.3.6)
-9. Jong-VVD – 2 hours – A club for young members of a Dutch political party which supports private enterprise and economic liberalism and is one of the Dutch parties which least favors developmental aid. – (6.3.1)
-10. Nedworc – 30 minutes – A professional network of Development Cooperation Experts (think consultants for War Child, Amnesty international etc.) (6.3.4)
-11. EAGx the Netherlands – 1 hour – (6.5.1, 6.4.2)
-12. Effective Altruism the Netherlands introduction event – 3 hours – An event specifically for new people (usually friends of those already in the network) – (6.3.2)
-13. Rotary – 1 hour – General EA lecture – Informally considered the millionaires club who want to do something good for the world. – (6.3.4)
+   <a name="wshop-6"></a>6. University College Utrecht + Utrecht University – 4 hours – Career workshop – students – (6.1.1, 6.2.2, 6.3.3, 6.4.3, 6.6.1)
+   <a name="wshop-7"></a>7. Erasmus sustainability days – 2 hours – Career workshop – Mainly sustainability studies students – (6.1.1, 6.3.1, 6.4.1, 6.5.3, 6.6.1)
+6. University College Guidance network – 30 minutes – 20 career counsellors who work for various dutch universities (6.3.6)
+7. Jong-VVD – 2 hours – A club for young members of a Dutch political party which supports private enterprise and economic liberalism and is one of the Dutch parties which least favors developmental aid. – (6.3.1)
+8. Nedworc – 30 minutes – A professional network of Development Cooperation Experts (think consultants for War Child, Amnesty international etc.) (6.3.4)
+9. EAGx the Netherlands – 1 hour – (6.5.1, 6.4.2)
+10. Effective Altruism the Netherlands introduction event – 3 hours – An event specifically for new people (usually friends of those already in the network) – (6.3.2)
+11. Rotary – 1 hour – General EA lecture – Informally considered the millionaires club who want to do something good for the world. – (6.3.4)
 
 ## 3. Your audience
 
@@ -107,7 +107,7 @@ Examples of these questions I’ve encountered: _“But if you are giving people
 
 Recommendation: I don’t feel like these people are the people where EA is looking for so I don’t put too much effort in convincing these people. I just try to keep their disruption to a minimum and make sure they leave happy. Usually it suffices to just be really polite about their question and just say you don’t know (and don’t tell them too directly that you expect their pet cause isn’t really that important).
 
-**3.3 The traditionalist**
+<a name="sec-3-3"></a>**3.3 The traditionalist**
 
 Are looking for: recognition, feeling in the loop, consensus, being part of the good guys.
 
@@ -376,65 +376,45 @@ Relevant if: you’re inexperienced in teaching/giving workshops.
 
 Although this document is mainly aimed at people already experienced in giving workshop, I feel some low hanging fruit may be worthwhile. Here we go:
 
-Learn all names. It is surprisingly easy to learn the names of the participants and it guarantees you a much better atmosphere as things feel more personal. When they are introducing themselves just make a map of who is sitting where. Sometimes you know who is coming in advance and it helps just spending 15 minutes learning the names. I think everything up to 20 people and over 30 minutes is definitely worth it.
-
-Logistics is key. Never underestimate the importance of a good room, enough time and some food/drinks for participants. Enough time is usually achieved by making a flexible planning (not a fixed planning). My worst workshop I gave was one where I had 30 minutes, the beamer didn’t work, during a lunch break (people were eating) in a room where I was barely audible.
-
-Expectation management. People often expect you to deliver the world in a single workshop (which you can’t). In case of a career workshop they somehow expect a really neat answer to a lot of the problems they have been struggling with in the past 2 years… in 2 hours. Good expectation management starts with the promotion (paint an accurate picture of what will be going on) and continues in your introduction (where I think it is a good habit to remind people that you can do only so much in 2 hours). I once had a girl say at the end of the workshop in the feedback form: “Overall impression: mediocre. The workshop was good, but not perhaps what I had in mind. I would recommend this to people if they’re interested in cognicence when being altruistic.” She expected things to be less rational (!?).
-
-Be pragmatic in clothes/slides. As stated in section 3.3 it does matter a lot. So put your best foot forward, which in this case is your most vain and superficial foot.
-
-When looking for organisations to host your workshop, leverage your connections. Sjir and I found that doing an approach where you didn’t know anyone was nearly impossible. But having one enthusiastic person in a company makes it much easier. Just mentioning someone’s name can literally open doors.
-
-Promotion does matter a lot. One time at a really big university (workshop #6)  we had 15 participants. Another time someone else did the promotion and we had around 50 applications for only 20 spots in a much smaller university (workshop #7). This last one had a selection based on resume. Just one datapoint, but it might be worth noting that announcing a selection based on CV can be a good idea.
-
-When giving workshops professionally I’ve found that if you ask more money you are on average actually more likely to be hired. Rather surprising, but perhaps this is because they feel you’re more of a professional if you ask more. As an indication, around 9/13 workshop I did for free (because I felt it would be really effective). When I do the workshops professionally I currently ask around 1250 euro for 4 hours (excl VAT).
-
-How many people come and talk to you afterwards seems a fair an indication of quality.
-
-When doing a workshop/lecture for an unfamiliar audience I find it always really helps to try and find some video clips or written documents (notes of a meeting). This usually really helps me to determine how to dress, behave and which workshop style to go for.
-
-If your talk is part of something bigger (a meeting, a conference) someone might be writing a summary of your talk afterwards. Try to get your hands on these as they give you an idea of how someone in your audience has perceived your talk. Sometimes this makes you happy and sometimes really sad. My saddest anecdote is about notes which included the following line: “according to effective altruism the top-3 charities are: Against malaria foundation, no poverty and SCI (Service Civil International)”. I have no clue how they got this idea, I never said that these are the overall top-3 charities, I’m completely unfamiliar with any charity called “no poverty” and Schistosomiasis Control Initiative somehow became Service Civil International.
-
-Avoid the mathematics teacher’s fallacy. Stories like the one above, articles like this one and basic common sense show us the importance of being accurate, having high fidelity and being nuanced in how and what you communicate. There is one caveat however which I call the mathematics teacher’s fallacy. Imagine someone teaching multiplication to primary school children in the following ways:
-
-“Multiplication is an arithmetical operation, defined initially in terms of repeated addition, usually written a × b, a.b, or ab, by which the product of two quantities is calculated: to multiply a by positive integral b is to add a to itself b times. Multiplication by fractions can then be defined in the light of the associative and commutative properties; multiplication by 1/n is equivalent to multiplication by 1 followed by division by n.”
-
-“Multiplication is a mathematical operation that at its simplest is an abbreviated process of adding an integer to zero a specified number of times and that is extended to other numbers in accordance with laws that are valid for integers.”
+* Learn all names. It is surprisingly easy to learn the names of the participants and it guarantees you a much better atmosphere as things feel more personal. When they are introducing themselves just make a map of who is sitting where. Sometimes you know who is coming in advance and it helps just spending 15 minutes learning the names. I think everything up to 20 people and over 30 minutes is definitely worth it.
+* Logistics is key. Never underestimate the importance of a good room, enough time and some food/drinks for participants. Enough time is usually achieved by making a flexible planning (not a fixed planning). My worst workshop I gave was one where I had 30 minutes, the beamer didn’t work, during a lunch break (people were eating) in a room where I was barely audible.
+* Expectation management. People often expect you to deliver the world in a single workshop (which you can’t). In case of a career workshop they somehow expect a really neat answer to a lot of the problems they have been struggling with in the past 2 years… in 2 hours. Good expectation management starts with the promotion (paint an accurate picture of what will be going on) and continues in your introduction (where I think it is a good habit to remind people that you can do only so much in 2 hours). I once had a girl say at the end of the workshop in the feedback form: _“Overall impression: mediocre. The workshop was good, but not perhaps what I had in mind. I would recommend this to people if they’re interested in cognisance when being altruistic.”_ She expected things to be less rational (!?).
+* Be pragmatic in clothes/slides. As stated in [section 3.3](#sec-3-3) it does matter a lot. So put your best foot forward, which in this case is your most vain and superficial foot.
+* When looking for organisations to host your workshop, leverage your connections. Sjir and I found that doing an approach where you didn’t know anyone was nearly impossible. But having one enthusiastic person in a company makes it much easier. Just mentioning someone’s name can literally open doors.
+* Promotion does matter a lot. One time at a really big university ([workshop #6](#wshop-6))  we had 15 participants. Another time someone else did the promotion and we had around 50 applications for only 20 spots in a much smaller university ([workshop #7](#wshop-7)). This last one had a selection based on resume. Just one data point, but it might be worth noting that announcing a selection based on CV can be a good idea.
+* When giving workshops professionally I’ve found that if you ask more money you are on average actually more likely to be hired. Rather surprising, but perhaps this is because they feel you’re more of a professional if you ask more. As an indication, around 9/13 workshop I did for free (because I felt it would be really effective). When I do the workshops professionally I currently ask around 1250 euro for 4 hours (excl VAT).
+* How many people come and talk to you afterwards seems a fair an indication of quality.
+* When doing a workshop/lecture for an unfamiliar audience I find it always really helps to try and find some video clips or written documents (notes of a meeting). This usually really helps me to determine how to dress, behave and which workshop style to go for.
+* If your talk is part of something bigger (a meeting, a conference) someone might be writing a summary of your talk afterwards. Try to get your hands on these as they give you an idea of how someone in your audience has perceived your talk. Sometimes this makes you happy and sometimes really sad. My saddest anecdote is about notes which included the following line: _“According to effective altruism, the top-3 charities are: Against malaria foundation, no poverty and SCI (Service Civil International)”_. I have no clue how they got this idea, I never said that these are the overall top-3 charities, I’m completely unfamiliar with any charity called “no poverty” and Schistosomiasis Control Initiative somehow became Service Civil International.
+* Avoid the mathematics teacher’s fallacy. Stories like the one above, articles like [this one](https://www.centreforeffectivealtruism.org/blog/the-fidelity-model-of-spreading-ideas/) and basic common sense show us the importance of being accurate, having high fidelity and being nuanced in how and what you communicate. There is one caveat however which I call the mathematics teacher’s fallacy. Imagine someone teaching multiplication to primary school children in the following ways:
+  * _“Multiplication is an arithmetical operation, defined initially in terms of repeated addition, usually written a × b, a.b, or ab, by which the product of two quantities is calculated: to multiply a by positive integral b is to add a to itself b times. Multiplication by fractions can then be defined in the light of the associative and commutative properties; multiplication by 1/n is equivalent to multiplication by 1 followed by division by n.”_
+  * _“Multiplication is a mathematical operation that at its simplest is an abbreviated process of adding an integer to zero a specified number of times and that is extended to other numbers in accordance with laws that are valid for integers.”_
 
 As we can see these explanations are really accurate, properly nuanced and have high fidelity but at the same time they suck when explaining multiplication. Teaching someone complex stuff cannot be done in one pass and often requires some stepping stones before reaching full detail. The mathematician teacher’s fallacy is like forcing your video encoder to do it in one pass, YouTube deciding to only support the 4K resolution and non-progressive JPEG. I therefore consider the mathematics teacher’s fallacy to be a severe overfocus on fidelity, details and nuance at the expense of clarity.
 
 The true challenge, when teaching complex stuff, therefore is to keep things as simple as possible while still ensuring that your audience will not misconstrue you message. A couple of suggestions:
 
-just avoid making any hard claims
+1. just avoid making any hard claims
+2. using examples work well (use simple charities)
+3. use metaphors to link abstract concepts to things they know
+4. focus on quality not quantity (make a good selection of what you intent to tell, it is really easy to try and cram too much into a single workshop)
+5. focus on the basics, save the fancy stuff for later (so yes, that often means that the interesting stuff like the scale, neglectedness, tractability framework and far future will have to wait
+6. tell your audience that you will not be going into the details and this is just a general picture which is only mostly accurate
+7. negation is usually pretty easy (just debunking popular misconceptions is really safe: “effective altruism is NOT just about earning to give”)
+8. simplify the things which can be safely simplified, sometimes you don’t have to be correct, as long as you’re close to correct (see example below)
 
-using examples work well (use simple charities)
+Example: one of the hardest questions to answer properly in your workshop is: “Effective Altruism is…”. Hard because it is important to get right and important to have a clear answer. There exist many really accurate definitions ([Effective Altruism is a Question (not an ideology)](https://forum.effectivealtruism.org/posts/FpjQMYQmS3rWewZ83/effective-altruism-is-a-question-not-an-ideology), [CEA’s guiding principles](https://www.centreforeffectivealtruism.org/ceas-guiding-principles)) Many of them fall prey to the mathematics teacher’s fallacy in my opinion as I expect them to be insufficiently clear. The two ways I handle this is my workshop are:
 
-use metaphors to link abstract concepts to things they know
-
-focus on quality not quantity (make a good selection of what you intent to tell, it is really easy to try and cram too much into a single workshop)
-
-focus on the basics, save the fancy stuff for later (so yes, that often means that the interesting stuff like the scale, neglectedness, tractability framework and far future will have to wait
-
-tell your audience that you will not be going into the details and this is just a general picture which is only mostly accurate
-
-negation is usually pretty easy (just debunking popular misconceptions is really safe: “effective altruism is NOT just about earning to give”)
-
-simplify the things which can be safely simplified, sometimes you don’t have to be correct, as long as you’re close to correct (see example below)
-
-Example: one of the hardest questions to answer properly in your workshop is: “Effective Altruism is…”. Hard because it is important to get right and important to have a clear answer. There exist many really accurate definitions (Effective Altruism is a Question (not an ideology), CEA’s guiding principles) Many of them fall prey to the mathematics teacher’s fallacy in my opinion as I expect them to be insufficiently clear. The two ways I handle this is my workshop are:
-
-Effective altruism is: ‘just’ critical thinking (this isn’t true as it neglects to describe the ‘commitment to others’, action and the current manifestation of people who self identify with the CEA’s guiding principles but I feel these inaccuracies will not lead to any weird headlines in the newspaper)
-
-You can think of effective altruism as an ideology and movement, of course it is slightly more complex than that, but it is close.” (Again, not entirely accurate, but it definitely is in the right ballpark and will be a lot clearer than many other more accurate, definitions).
+* Effective altruism is: ‘just’ critical thinking (this isn’t true as it neglects to describe the ‘commitment to others’, action and the current manifestation of people who self identify with the CEA’s guiding principles but I feel these inaccuracies will not lead to any weird headlines in the newspaper)
+* You can think of effective altruism as an ideology and movement, of course it is slightly more complex than that, but it is close.” (Again, not entirely accurate, but it definitely is in the right ballpark and will be a lot clearer than many other more accurate, definitions).
 
 ## 6. Workshop ideas
 
 Relevant if: you’re looking for ideas for your workshop/lecture or just want to learn from my experiences (the good and the bad)
 
-I collected everything I tried and sorted them depending on the goal (see the outline on the left).  My goal is to go into enough detail so that you can build your workshop around this. I sort them by their purpose so you can mix and match to create your own workshop. I also often provide some background information (rationale) which might help you understand what I was going for. Some slides and background material can be found here. I’ll be giving stars to most things to indicate how much of a success I considered something.
+I collected everything I tried and sorted them depending on the goal (see the outline on the left).  My goal is to go into enough detail so that you can build your workshop around this. I sort them by their purpose so you can mix and match to create your own workshop. I also often provide some background information (rationale) which might help you understand what I was going for. Some slides and background material can be found [here](https://forum.effectivealtruism.org/posts/FpjQMYQmS3rWewZ83/effective-altruism-is-a-question-not-an-ideology). I’ll be giving stars to most things to indicate how much of a success I considered something.
 
-In everything I do I always aim for a proper balance between three things.
+In everything I do I always aim for a proper balance between three things:
 
 1. Enthusiasm/likable (inclination) You like to make people suffer in a safe surrounding ;) mainly important in your introduction
 2. Come across as competent
@@ -442,7 +422,7 @@ In everything I do I always aim for a proper balance between three things.
 
 <a name="sec-6-1"></a>**6.1 Warming up / introduction (\*\*\*\*)**
 
-In the Netherlands we have a saying: “een goed begin is het halve werk”. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how easy of a time you’ll have the remainder of the workshop. So other than introducing EA I think this is the most important part of your workshop.
+In the Netherlands we have a saying: _“een goed begin is het halve werk”_. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how much easy time you’ll have for the remainder of the workshop. So, other than introducing EA, I think this is the most important part of your workshop.
 
 I’ve got a couple of goals in my introduction: i. get to know your audience, ii. get a positive vibe going iii. expectation management. Let us look into these in a little more detail.
 
