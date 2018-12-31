@@ -701,33 +701,20 @@ Explanation :
 
 Tick the following boxes:
 
-\* Pretty slides (graphs, statistics, pictures, numbers, clean, few animations etc.)
-
-\* Pretty clothes (aim for formal but young… think the formal side of preppy)
-
-\* Hype yourself (brag, but frame it as giving relevant background information)
-
-\* Be modest (I usually say that I’m not there to convince anyone and I’ll just introduce them to our way of thinking which they can then use to decide if they like it, this seems to disarm a lot of scepticism right from the start).
-
-\* Frame EA as being especially popular in universities, often technical studies, kind of nerdy. Be sure to drop the name Oxford in there somewhere.
-
-\* There are many different EA organisations around the world (I recommend a slide with the logos of some of the bigger EA organisations)
-
-\* A graph where we are growing really quickly (I graphed the [Open Philanthropy Project's grant database](https://www.openphilanthropy.org/giving/grants) totals per year link, result)
-
-\* Explain how EA fits the trend of the last 30 years. The trend where society is moving towards using evidence and planning. Be sure to mention evidence based medicine (and make sure you know the history of this).
-
-\* Tell them that $500 billion dollar per year is spent worldwide on improving the world. Less than 0.01% of that is spend on planning how to do this effectively (source: https://80000hours.org/problem-profiles/global-priorities-research/). Follow up with some real-life examples of how we all know how planning is really important (e.g. when you go on holiday, when doing a project for work etc.). “So we know that planning is essential if we want to get to the best end result. I noticed that framing EA in terms of planning makes them so much more likely to like it (when compared to framing EA in terms of making choices).
-
-\* Tell them about RCT’s and quality of research (30% of people will know this and will give you credibility, I know it is not the most relevant thing content-wise but it will help convince them)
-
-\* Preemptively answer the holistic question ([section 4.2](#sec-4-2)). This combines well with first telling them about RCT’s.
-
-\* Mention how for every sustainable development goal (SDG) you can do this kind of planning. Give them a couple of examples.
-
-\* End with a practical example of something really innovative. I notice that Coolearth still works best for this (even though newer research might indicate that it isn’t the absolute top charity anymore I feel the additional likability easily outweighs the current possible ineffectiveness)
-
-\* You can just have a lecture of 15 minutes and usually there are plenty of questions afterwards
+* Pretty slides (graphs, statistics, pictures, numbers, clean, few animations etc.)
+* Pretty clothes (aim for formal but young… think the formal side of preppy)
+* Hype yourself (brag, but frame it as giving relevant background information)
+* Be modest (I usually say that I’m not there to convince anyone and I’ll just introduce them to our way of thinking which they can then use to decide if they like it, this seems to disarm a lot of scepticism right from the start).
+* Frame EA as being especially popular in universities, often technical studies, kind of nerdy. Be sure to drop the name Oxford in there somewhere.
+* There are many different EA organisations around the world (I recommend a slide with the logos of some of the bigger EA organisations)
+* A graph where we are growing really quickly (I graphed the [Open Philanthropy Project's grant database](https://www.openphilanthropy.org/giving/grants) totals per year, [link](https://drive.google.com/file/d/1HCZH-2tlDrD3IXZ-KGGoLDTbe5JnJ4s6/view))
+* Explain how EA fits the trend of the last 30 years. The trend where society is moving towards using evidence and planning. Be sure to mention evidence based medicine (and make sure you know the history of this).
+* Tell them that $500 billion dollar per year is spent worldwide on improving the world. Less than 0.01% of that is spend on planning how to do this effectively (source: https://80000hours.org/problem-profiles/global-priorities-research/). Follow up with some real-life examples of how we all know how planning is really important (e.g. when you go on holiday, when doing a project for work etc.). “So we know that planning is essential if we want to get to the best end result. I noticed that framing EA in terms of planning makes them so much more likely to like it (when compared to framing EA in terms of making choices).
+* Tell them about RCT’s and quality of research (30% of people will know this and will give you credibility, I know it is not the most relevant thing content-wise but it will help convince them)
+* Preemptively answer the holistic question ([section 4.2](#sec-4-2)). This combines well with first telling them about RCT’s.
+* Mention how for every sustainable development goal (SDG) you can do this kind of planning. Give them a couple of examples.
+* End with a practical example of something really innovative. I notice that Coolearth still works best for this (even though newer research might indicate that it isn’t the absolute top charity anymore I feel the additional likability easily outweighs the current possible ineffectiveness)
+* You can just have a lecture of 15 minutes and usually there are plenty of questions afterwards
 
 **6.3.5 Just tell them (*)**
 
@@ -749,29 +736,27 @@ Use case: non-altruists (traditionalists, fuzzy warm), lectures, very short, but
 
 Explanation:
 
-step i: Evoke the emotion in your audience: “I don’t want people to die from \[X]”.
+step i: Evoke the emotion in your audience: _“I don’t want people to die from_ \[X]_”_.
 
-step ii: Ask them what they really care about. Do they want to avoid people dying from \[X]  or do they want to avoid people dying in general? Is it really worse dying from \[X] then dying from \[Y]? their answer: “I just don’t want people to die regardless of the cause”.
+step ii: Ask them what they really care about. Do they want to avoid people dying from \[X]  or do they want to avoid people dying in general? Is it really worse dying from \[X] then dying from \[Y]? Their answer:_ “I just don’t want people to die regardless of the cause”_.
 
-step iii. Explain that:  “this is the first step of EA. Finding out the essence of what people care about. Usually this is something pretty fundamental and not something cause-specific. This allows people to collaborate on finding the best way to achieve that fundamental principle. So without any predetermined route or cause to get there.”
+step iii. Explain that,  _“This is the first step of EA. Finding out the essence of what people care about. Usually this is something pretty fundamental and not something cause-specific. This allows people to collaborate on finding the best way to achieve that fundamental principle. So without any predetermined route or cause to get there.”_
 
 step iv. give examples
 
 Rationale:
 
-\* I noticed that sometimes people felt my workshops were too rational. I therefore thought I’d emphasize the emotion some more.
+* I noticed that sometimes people felt my workshops were too rational. I therefore thought I’d emphasize the emotion some more.
 
 Recommendation:
 
-\* Although I tried it only once, I wasn’t happy and didn’t see a lot of potential in this one. I’d not recommend taking this approach. It still gets 2 stars because I tried it only once and I could just have been unlucky (or misread the audience).
-
-\* I feel the reason this format didn’t work well was because once the feelings of the audience got involved the capacity for rational/abstract thinking seemed reduced. They might even have been because they rationally felt that their earlier emotions were wrong. This is not a pleasant state to be in (cognitive dissonance) and this state might be most easily remedied by simply disagreeing with the logic which tell you the emotions were wrong.
-
-\* Really stress the collaboration part. People seem to like that.
+* Although I tried it only once, I wasn’t happy and didn’t see a lot of potential in this one. I’d not recommend taking this approach. It still gets 2 stars because I tried it only once and I could just have been unlucky (or misread the audience).
+* I feel the reason this format didn’t work well was because once the feelings of the audience got involved the capacity for rational/abstract thinking seemed reduced. They might even have been because they rationally felt that their earlier emotions were wrong. This is not a pleasant state to be in (cognitive dissonance) and this state might be most easily remedied by simply disagreeing with the logic which tell you the emotions were wrong.
+* Really stress the collaboration part. People seem to like that.
 
 **6.4 Introducing EA->careers (\*\*)**
 
-General recommendation: people seem to like the following clip as an introduction to this: Is Your Work a Paycheck or a Calling.
+General recommendation: people seem to like the following clip as an introduction to this: [Is Your Work a Paycheck or a Calling](https://www.youtube.com/watch?v=LbBpfN6NIJY).
 
 Introducing EA-> careers gets only two stars because I haven’t found a definite good way of doing this, although pointers and spoilers (6.4.2) seem promising. Still I feel this needs more experimenting and I expect you’ll find this one of the harder parts of your workshop to optimize.
 
@@ -787,39 +772,32 @@ Pick two careers and ask them which has the most potential to have a positive im
 
 Rationale:
 
-\* I dunno, not much :P. I once tried it with many different careers and discussing what they thought about the difference but that got a bit chaotic so I thought I’d narrow it down to 2 professions.
+* I dunno, not much :P. I once tried it with many different careers and discussing what they thought about the difference but that got a bit chaotic so I thought I’d narrow it down to 2 professions.
 
 Recommendations
 
-\* I chose biology high school teacher and strategy consultant. Reasons: i. a couple of my friends are biology teachers and one of them is unemployed because there are too many biology teachers in the Netherlands (I show them the statistics), this helps me explain the importance of looking at your marginal impact, ii. I can explain earning to give, iii. I can explain career capital
-
-\* You might want to let people stand on the side of the room representing their point of view and keep them standing there for the entire duration of the exercise (so works best if you’re keeping it around 5 minutes)
+* I chose biology high school teacher and strategy consultant. Reasons: i. a couple of my friends are biology teachers and one of them is unemployed because there are too many biology teachers in the Netherlands (I show them the statistics), this helps me explain the importance of looking at your marginal impact, ii. I can explain earning to give, iii. I can explain career capital
+* You might want to let people stand on the side of the room representing their point of view and keep them standing there for the entire duration of the exercise (so works best if you’re keeping it around 5 minutes)
 
 **6.4.2 Pointers and spoilers (\*\*\*\*)**
 
-Use case: Many, especially suited for mixed audience of people already familiar with 80.000hours material and those who aren’t.
+Use case: Many, especially suited for mixed audience of people already familiar with 80,000 Hours' material and those who aren’t.
 
 Duration: 10-20 minutes
 
 Explanation:
 
-Somewhere in the introduction of your whole workshop you explain to them that this workshop isn’t focussed on transferring knowledge… they can just find that online and don’t need a workshop to explain it to them (in fact… the best explanation of 80.000 hours material is probably 80.000 hours themselves!). So they agree with you that you aren’t going to do stuff in the workshop that they could also do back home. This frees up time to do \[whatever you have planned]. You are however going to give them pointers where to look for certain types of information, and spoil some of the most interesting findings. You’re going to do this quickly in order to save time for other stuff.
+Somewhere in the introduction of your whole workshop, you explain to them that this workshop isn’t focused on transferring knowledge… they can just find that online and don’t need a workshop to explain it to them (in fact… the best explanation of 80,000 Hours' material is probably 80,000 Hours themselves!). So they agree with you that you aren’t going to do stuff in the workshop that they could also do back home. This frees up time to do \[whatever you have planned]. You are however going to give them pointers where to look for certain types of information, and spoil some of the most interesting findings. You’re going to do this quickly in order to save time for other stuff.
 
 Recommendations:
 
-\* I recommend starting with spoiling and at a certain point in time you can say: “Now you might feel: ‘hey you’re not telling me a lot. I need to know more!’ well, that is how you should feel… therefore read the book” and then proceed to spoiling.
-
-\* I recommend spoiling the following (incomplete list): marginal contribution (they like this one), career capital, EA is like the gold rush (even after a workshop some people still feel that EA is a company where they can just apply for a job in the next town and that’s it. I like to let them know that it is often more adventurous than that and that it usually involves personal initiative).
-
-\* I recommend pointing to at least the following (incomplete list)
-
-General information: 80.000hours.org and their free ebook
-
-Specific jobs: 80000hours.org/job-board
-
-Career capital: https://www.centreforeffectivealtruism.org/careers
-
-Choosing careers in general: waitbutwhy.com/2018/04/picking-career.html
+* I recommend starting with spoiling and at a certain point in time you can say: _“Now you might feel: ‘hey you’re not telling me a lot. I need to know more!’ well, that is how you should feel… therefore read the book”_, and then proceed to spoiling.
+* I recommend spoiling the following (incomplete list): marginal contribution (they like this one), career capital, EA is like the gold rush (even after a workshop some people still feel that EA is a company where they can just apply for a job in the next town and that’s it. I like to let them know that it is often more adventurous than that and that it usually involves personal initiative).
+* I recommend pointing to at least the following (incomplete list):
+  * General information: [80000hours.org](https://80000hours.org/) and their free [ebook](https://80000hours.org/book/)
+  * Specific jobs: [80000hours.org/job-board](https://80000hours.org/job-board/)
+  * Career capital: <https://www.centreforeffectivealtruism.org/careers>
+  * Choosing careers in general: [waitbutwhy.com/2018/04/picking-career.html](https://waitbutwhy.com/2018/04/picking-career.html)
 
 **6.4.3 On the line (\*\*)**
 
@@ -829,29 +807,21 @@ Duration: 40 minutes
 
 Explanation:
 
-\* Divide the group into smaller groups of about 5 people
-
-\* Explain to them 8 different professions (we used: PhD in AI, Politician, TV presenter, Doctor, Math teacher, Founding an NGO, Software Engineer).
-
-\* Ask to rate them high impact to low impact. Note: be really explicit that this is about comparing potential impact for someone who has a fair amount of talent for each of those professions and is a really altruistic person.
-
-\* Let all groups write their list on the blackboard
-
-\* Tape a line in front of the classroom.
-
-\* Choose 4 professions and discuss these in turn by getting 1 person per group to the front and stand on the line depending on how their group evaluated that profession (where left is if they rated that profession as the most important, the right is if they rated this least important).
-
-\* Use the discussion as hooks to information you want to give them.
+* Divide the group into smaller groups of about 5 people
+* Explain to them 8 different professions (we used: PhD in AI, Politician, TV presenter, Doctor, Math teacher, Founding an NGO, Software Engineer).
+* Ask to rate them high impact to low impact. Note: be really explicit that this is about comparing potential impact for someone who has a fair amount of talent for each of those professions and is a really altruistic person.
+* Let all groups write their list on the blackboard
+* Tape a line in front of the classroom.
+* Choose 4 professions and discuss these in turn by getting 1 person per group to the front and stand on the line depending on how their group evaluated that profession (where left is if they rated that profession as the most important, the right is if they rated this least important).
+* Use the discussion as hooks to information you want to give them.
 
 Rationale: All the other ideas on introducing careers tried up until this point were kind of boring (not some fun format). We tried to make something fun out of this.
 
 Recommendations (failure mode, based on 2 attempts):
 
-\* One time a group completely couldn’t agree. It really got the mood down in that group.
-
-\* It feels like too much fluff and too low in information density (especially since this usually isn’t at the start of the workshop). So you get fun at the expense of actually learning something.
-
-\* Use well known people to give a face to a certain profession.
+* One time a group completely couldn’t agree. It really got the mood down in that group.
+* It feels like too much fluff and too low in information density (especially since this usually isn’t at the start of the workshop). So you get fun at the expense of actually learning something.
+* Use well known people to give a face to a certain profession.
 
 **6.5 Making it personal (\*\*)**
 
@@ -865,15 +835,15 @@ Duration: 1-2 hours (for the complete workshop so including introduction, pointe
 
 Rationale: after a couple of less successful attempts (see below) I tried to figure out why I couldn’t make the personal part feel relevant to the audience. Aside from the general challenge of serving personalized information to 20 people I figured that it was because of two reasons: i. people expected too much from a single workshop, ii. the real problem people face isn’t a lack of information, it is making choices. I know a lot of people have a hard time making choices in general and so I feel the real bottleneck is there (which explains why just giving them information doesn’t really help). I feel the 80.000 hours website lacks information on how to make these choices (they provide a way to ascertain which careers do the most good, but not on how to choose between those or between jobs which aren’t in the list).
 
-Explanation (See supporting material for the slides):
+Explanation (See [supporting materials](https://drive.google.com/drive/folders/1AGtll2uw1TtFTCNWdVVM-S83P7thi2SK) for the slides):
 
-Part 1. Right of the bat force people to make choices publically (stand in a certain spot depending on their answer) and make sure there are no easy answers (for example by requiring half the group to give one answer and the other half the other). Pick your own questions, my examples are in the slides.
+Part 1. Right of the bat force people to make choices publicly (stand in a certain spot depending on their answer) and make sure there are no easy answers (for example by requiring half the group to give one answer and the other half the other). Pick your own questions, my examples are in the slides.
 
 Part 2. Ask them about making choices. There is always someone who really really dislikes making choices. Let him/her tell the group about some silly choice they can agonize over waaay to long (i.e. choosing dinner, choosing what socks to wear, etc.).
 
 Part 3. Together with the group conclude that making choices can be hard. Next ask them why career choices might be harder than \[the example someone mentioned in part 2]. This can be a long list (again see slides).
 
-Part 4. Together with the group conclude that making choices is hard, but that career choices might be the hardest of them all! Expectation management time: ask them how they expect to make any meaningful progress in \[time remaining]. Allow for a long silence here as the realization hits that their expectations might have been a little high :).. Possible fun way of saying this: “Okay, so making career choices is really hard… but we have only 60 minutes remaining. How are we going to make any progress on this? I mean, there might very well be someone here who spend 60 minutes on choosing his/her clothes this morning…”. Make sure you clearly answer the question how you think you can make any meaningful progress at all in such a short amount of time. I proceed as follows.
+Part 4. Together with the group conclude that making choices is hard, but that career choices might be the hardest of them all! Expectation management time: ask them how they expect to make any meaningful progress in \[time remaining]. Allow for a long silence here as the realization hits that their expectations might have been a little high :).. Possible fun way of saying this: _“Okay, so making career choices is really hard… but we have only 60 minutes remaining. How are we going to make any progress on this? I mean, there might very well be someone here who spend 60 minutes on choosing his/her clothes this morning…”_. Make sure you clearly answer the question how you think you can make any meaningful progress at all in such a short amount of time. I proceed as follows.
 
 Part 5. In this workshop we will focus just on things you cannot do back home. There are a couple of things you need in order to make a career choice, i. know your options, ii. find out what you like. Finding your options you can do back home (I’ll give you pointers), finding out what you like is really hard and we are going to focus on that here. Finding out what you like can be divided in two parts: a. what do people like in general, b. what makes you special (how do you deviate from people in general). (a) you can do back home, I’ll give you pointers and spoilers for this in the end. So we are just going to focus on what makes you special.
 
