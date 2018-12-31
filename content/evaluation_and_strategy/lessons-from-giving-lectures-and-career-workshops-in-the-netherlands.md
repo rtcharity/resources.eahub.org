@@ -294,7 +294,7 @@ Possible responses (summarized & paraphrased: I noticed other people had much be
 
 \* Alje (\*): failed (too complicated, easily misconstrued and they don’t like the implication of focussing on things which are easy to measure) Some causes are really hard to measure, some causes are easier to measure. Comparing between causes which are easier to measure will be easier and thereby the comparison between those causes will be better. You’d therefore expect the expected best easy to measure cause to be more effective than the expected best hard to measure cause (assuming no a priori difference in the effectiveness distribution depending on how easy it is to measure). Since money now seems allocated with little regard for how easy it is to measure a cause you’d expect the easy to measure causes to be underfunded. It therefore makes sense at the moment to focus more on things which are easy to measure.
 
-**4.2 Holistic**
+<a name="sec-4-2"></a>**4.2 Holistic**
 
 Examples:
 
@@ -331,17 +331,17 @@ Recommendations:
 
 Example questions:
 
-“So basically you’re saying that people can do whatever they want and then just donate money and everything is alright? Doesn’t this seem wrong to you? Don’t you think it is important for people to take personal responsibility for what they are doing instead of just solving some far away problems?”
+_“So basically you’re saying that people can do whatever they want and then just donate money and everything is alright? Doesn’t this seem wrong to you? Don’t you think it is important for people to take personal responsibility for what they are doing instead of just solving some far away problems?”_
 
-“It seems kind of cold and calculating, sometimes you just want to help someone close to you right?”
+_“It seems kind of cold and calculating, sometimes you just want to help someone close to you right?”_
 
-“It seems kind of cold and calculating, altruism is about the intention as well right?
+_“It seems kind of cold and calculating, altruism is about the intention as well right?"_
 
-“You have talking a lot about donating, careers and charities but hardly about what someone can do as a person.”
+_“You have talking a lot about donating, careers and charities but hardly about what someone can do as a person.”_
 
 Question behind the question:
 
-In their peer groups altruism is considered as something quite different from effective altruism and this other kind of altruism is what they have been striving towards for a long time. They consider altruism to be: being vegan, recycling waste, buying local/organic, getting solar panels on your roof, volunteering, not taking airplanes, not taking the car etc. They may even have heard that ‘just donating money’ doesn’t really work (see holistic section 4.2) or if they do believe donating money works they might not realize how well it works (compared to the things listed above). Finally people asking these questions might subconsciously be more inclined to a deontological point of view where the intention what matters. I generally find these questions to be genuine and well intentioned. They are usually asked by warm fuzzy altruists (and sometimes traditionalists).
+In their peer groups altruism is considered as something quite different from effective altruism and this other kind of altruism is what they have been striving towards for a long time. They consider altruism to be: being vegan, recycling waste, buying local/organic, getting solar panels on your roof, volunteering, not taking airplanes, not taking the car etc. They may even have heard that ‘just donating money’ doesn’t really work (see holistic [section 4.2](#sec-4-2)) or if they do believe donating money works they might not realize how well it works (compared to the things listed above). Finally people asking these questions might subconsciously be more inclined to a deontological point of view where the intention what matters. I generally find these questions to be genuine and well intentioned. They are usually asked by warm fuzzy altruists (and sometimes traditionalists).
 
 Possible responses:
 
