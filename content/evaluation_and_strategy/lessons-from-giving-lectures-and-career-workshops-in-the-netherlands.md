@@ -167,7 +167,7 @@ Recommendation:
 * I recommend [6.3.1 The everyday altruism quiz](#sec-6-3-1) if you expect an audience consisting of many warm fuzzy altruists.
 * See [section 4.3](#sec-4-3) for more info on a type of question frequently asked by warm fuzzy altruists
 
-**3.5 The Capitalist**
+<a name="sec-3-5"></a>**3.5 The Capitalist**
 
 Are looking for: being successful, being good at what they do, efficiency
 
@@ -584,7 +584,7 @@ Recommendations:
 
 * Ensure it doesn’t take more than 30 minutes (I once took 45 minutes out of 2 hours and not everyone liked that)
 * This exercise also  works well as a warming up (possible combining with introduction described in section 6.1.2) and thus save time on introductions
-* Don’t forget to make fun of the losing team for the remainder of the workshop (for example when you’re saying something like “\[something EA…] can have very counterintuitive results” pointedly look at the losing group with a big smile :D).
+* Don’t forget to make fun of the losing team for the remainder of the workshop (for example when you’re saying something like “\[something EA…] can have very counter-intuitive results” pointedly look at the losing group with a big smile :D).
 * Make sure you’re really sure about the answers ☺ otherwise it will not come across as convincing
 
 **6.3.2 Applied philosophy (\*\*\*\*)**
@@ -601,71 +601,50 @@ After an introduction I usually tell them that EA is an ideology and movement an
 
 I then have 3 rounds of discussions (which I call entrée, main course and dessert).
 
-First round is the child in the pond and I usually follow the explanation by Peter Singer in the following clip closely: Singer: The Drowning Child. The corresponding question is “If you’re going to condemn the person not saving the drowning child, then shouldn’t you yourself also condemn people who aren’t donating to charity thus not saving people in developing countries? Are these cases morally equivalent or not?”
+First round is the child in the pond and I usually follow the explanation by Peter Singer in the following clip closely: [Singer: The Drowning Child](https://youtu.be/rBMZiaD-OYo?t=2). The corresponding question is “If you’re going to condemn the person not saving the drowning child, then shouldn’t you yourself also condemn people who aren’t donating to charity thus not saving people in developing countries? Are these cases morally equivalent or not?”
 
-Second round I give them the option of choosing between three questions:
+In the second round, I give them the option of choosing between three questions:
 
-i. Jacob Rees-Mogg and Rory Stewart Debate Human Rights (start to 6.53)  “Would you agree that it is not justifiable to kill one person in order to harvest their organs to save five other individuals. Would you furthermore agree that if a child was in a possession of information of a ticking bomb which is going to destroy a million people in the city that it is justifiable to twist the thumb of the child to find out where that bomb was (hence saving the city). If you agree with the statements above, what about the space in between? How do we make decisions there?”
+i. [Jacob Rees-Mogg and Rory Stewart Debate Human Rights](https://youtu.be/VO2Ry4j79LU?t=413) (start at 6:53)  _“Would you agree that it is not justifiable to kill one person in order to harvest their organs to save five other individuals. Would you furthermore agree that if a child was in a possession of information of a ticking bomb which is going to destroy a million people in the city that it is justifiable to twist the thumb of the child to find out where that bomb was (hence saving the city). If you agree with the statements above, what about the space in between? How do we make decisions there?”_
 
-ii. Anything to do with discounting lives (and population ethics). I wasn’t really happy with how this turned out so I suggest you figure out your own question here. I used: “Would you rather save 1 live this year of 50 lives in 50 years?” and “would you rather live another 10 years in great happiness, like a 9.5 out of 10 or live another 50 years kind of mediocre?”.
+ii. Anything to do with discounting lives (and population ethics). I wasn’t really happy with how this turned out so I suggest you figure out your own question here. I used: _“Would you rather save 1 live this year of 50 lives in 50 years?”_ and _“Would you rather live another 10 years in great happiness, like a 9.5 out of 10 or live another 50 years kind of mediocre?”_.
 
-iii. Cause selection. Instead of just telling them the scale, tractability, neglectedness framework I let them come up with it themselves. The question: how do you compare donating to avoiding climate change to donating to research about male baldness to donating to research on malaria? I put an experienced EA’er in charge I call this comparing the incomparable. The experienced person can than lead things (but only asking questions and answering questions concerning facts). I used an introduction from Sjir (he allowed me to share this with you on youtube https://youtu.be/pyrFiZYw-aw).
+iii. Cause selection. Instead of just telling them the scale, tractability, neglectedness framework I let them come up with it themselves. The question: how do you compare donating to avoiding climate change to donating to research about male baldness to donating to research on malaria? I put an experienced EA in charge I call this comparing the incomparable. The experienced person can than lead things (but only asking questions and answering questions concerning facts). I used an introduction from Sjir (he allowed me to share this with you on YouTube [https://youtu.be/pyrFiZYw-aw](https://www.youtube.com/watch?v=pyrFiZYw-aw)).
 
-Finally, dessert is about feeling guilty. The problem statement: “Basically once we have agreed that saving a child in a pond is morally equivalent to saving a child somewhere around the world from malaria then we might start to see metaphorical childs in ponds around us all the time. If that is what you believe, then situations metaphorically happen where there is a child drowning just outside your window and you say: ‘nah man I can’t be bothered now, I just don’t feel like it… I’m watching netflix!” We might experience guilt. And these situations will occur no matter how much we try to do good, we can’t do it all. So we need to find a way to deal with this guilt. How are you going to put (E)A into your life? How do you find the right balance between helping others and helping yourself?” I let them answer this in pairs.
+Finally, dessert is about feeling guilty. The problem statement: _“Basically once we have agreed that saving a child in a pond is morally equivalent to saving a child somewhere around the world from malaria, then we might start to see metaphorical children in ponds around us all the time. If that is what you believe, then situations metaphorically happen where there is a child drowning just outside your window and you say: ‘nah man I can’t be bothered now, I just don’t feel like it… I’m watching netflix!' We might experience guilt. And these situations will occur no matter how much we try to do good, we can’t do it all. So we need to find a way to deal with this guilt. How are you going to put (E)A into your life? How do you find the right balance between helping others and helping yourself?”_ I let them answer this in pairs.
 
 In between rounds we summarize their findings. Near the end I take about 20 minutes to explain some answers to the questions they face as generally considered by the EA community.
 
 Rationale:
 
-\* Distinguish the movement from ideology is a way to make people feel less threatened.
-
-\* I use the guiding principles primary for the more experienced EA’ers in the room as a reminder of being open, welcoming and not to lean on their experience in the discussions. I was really pleased how it helped set the tone for the discussions. (I even just read the first sentence of “collaboration” aloud).
-
-\* I found that many people are slumbering utilitarians and I really felt a shift from the audience towards utilitarianism/consequentialism which made me happy as I feel this is an important change. Once you consider yourself a utilitarian or consequentialist it is only a very small step to being thoroughly convinced of the need for EA. I noticed this shift because they were coming up with answers like “Rule utilitarianism” and “we tried to evaluate different causes and figured that in the end it is all about happiness. We don’t really know what function to use to evaluate this all but…”.
-
-\* The middle round has 3 options to choose from. I feel that people having a choice are more likely to like their choice (sense of agency?).
-
-\*  I feel that it is important to have at least 1 question about some far future/population ethics thing because this is a significant part of EA.
-
-\* I used the clip of Sjir as I feel this really adds another dimension to the workshop (visual, personal, practical, it shows the audience that working for EA isn’t just really effective it is also fun!) and I think it would be great if we have some clips of some people working for an EA organisation where:
-
-they introduces him/herself (1 min),
-
-they shows us around in their workspace (2-4 min)
-
-the tell us about a problem they encounter in their work this week (2-5 min).
-
-If any of you knows anyone who might be willing to make such a clip (or if you are working for an EA organisation and could do this). Please let me know! I think it would really improve things.
-
-\* Ending in pairs with the question on guilt serves three purposes: i. make them reflect on the workshop, ii. to avoid coming across as preaching or heavy iii. make them look ahead a little as well. I was really happy with this end (on the evaluation form someone wrote: “and the best things was, it was not depressing at all!”).
+* Distinguish the movement from ideology is a way to make people feel less threatened.
+* I use the guiding principles primary for the more experienced EA’ers in the room as a reminder of being open, welcoming and not to lean on their experience in the discussions. I was really pleased how it helped set the tone for the discussions. (I even just read the first sentence of “collaboration” aloud).
+* I found that many people are slumbering utilitarians and I really felt a shift from the audience towards utilitarianism/consequentialism which made me happy as I feel this is an important change. Once you consider yourself a utilitarian or consequentialist it is only a very small step to being thoroughly convinced of the need for EA. I noticed this shift because they were coming up with answers like “Rule utilitarianism” and “we tried to evaluate different causes and figured that in the end it is all about happiness. We don’t really know what function to use to evaluate this all but…”.
+* The middle round has 3 options to choose from. I feel that people having a choice are more likely to like their choice (sense of agency?).
+* I feel that it is important to have at least 1 question about some far future/population ethics thing because this is a significant part of EA.
+* I used the [clip of Sjir](https://www.youtube.com/watch?v=pyrFiZYw-aw) as I feel this really adds another dimension to the workshop (visual, personal, practical, it shows the audience that working for EA isn’t just really effective it is also fun!) and I think it would be great if we have some clips of some people working for an EA organisation where:
+  * they introduces him/herself (1 min),
+  * they shows us around in their workspace (2-4 min)
+  * the tell us about a problem they encounter in their work this week (2-5 min).
+* If any of you know anyone who might be willing to make such a clip (or if you are working for an EA organisation and could do this). Please let me know! I think it would really improve things.
+* Ending in pairs with the question on guilt serves three purposes: i. make them reflect on the workshop, ii. to avoid coming across as preaching or heavy iii. make them look ahead a little as well. I was really happy with this end (on the evaluation form someone wrote: “and the best things was, it was not depressing at all!”).
 
 Recommendations:
 
-\* I did this workshop only once and I feel like there is still a lot of room for improvement! So don’t stick too much to what is here. This is also the reason it has 4 stars (I believe this easily can become 5 stars)
-
-\* After 3 hours I noticed people started to get tired. I feel this makes a lot of sense because they’re having intellectually challenging discussions and it was socially challenging to boot. I feel that this workshop would benefit from something entirely different somewhere halfway.
-
-\* I think this is one of the more challenging formats to host because: i. you’re asking them very hard questions which is easy to become confusing instead of fun, ii. you’re leaving a lot in the hands of your audience, if there is one person who is kind of disagreeable their influence can be pretty big, iii. you need experienced group leaders who really know what they are doing
-
-\* Make sure you put a lot of thought/effort into making the questions really clear and concrete.
-
-\* Make sure you have enough examples on why these questions are actually really relevant and practical.
-
-\* Be prepared for lack of hypothetical thinking. Some people in your audience will lack this ability. I witnessed the following conversation.
-
-Participant 1: “Let us disregard all other stuff, there are just 2 buttons, if you press button 1 you’ll save one life this year if you press button 2 you’ll save one life in 50 years, which would you press?”
-
-participant 2: “yeah, but I don’t know if that is really realistic”,
-
-participant 1: “Yeah but it is a thought experiment, hypothetical. This way we can first look at it in its simplest form and then we can add in uncertainty later. \[… some more like this…] participant 2: “yeah, but I don’t think this is even possible”
-
-participant 1: \[very frustrated].
-
-\* You can also mark this as a “bring a friend” event. Worked well for us.
-
-\* The youtube clip of the child in a pond has pretty good comments which can prepare you for what you might encounter. Can be worth reading.
-
-\* I’d recommend sharing this picture (on annual spending on malaria research and male baldness research) after the group comparing different cause areas has discussed their findings.
+* I did this workshop only once and I feel like there is still a lot of room for improvement! So don’t stick too much to what is here. This is also the reason it has 4 stars (I believe this easily can become 5 stars)
+* After 3 hours I noticed people started to get tired. I feel this makes a lot of sense because they’re having intellectually challenging discussions and it was socially challenging to boot. I feel that this workshop would benefit from something entirely different somewhere halfway.
+* I think this is one of the more challenging formats to host because: i. you’re asking them very hard questions which is easy to become confusing instead of fun, ii. you’re leaving a lot in the hands of your audience, if there is one person who is kind of disagreeable their influence can be pretty big, iii. you need experienced group leaders who really know what they are doing
+* Make sure you put a lot of thought/effort into making the questions really clear and concrete.
+* Make sure you have enough examples on why these questions are actually really relevant and practical.
+* Be prepared for the lack of hypothetical thinking. Some people in your audience will lack this ability. I witnessed the following conversation:
+  * participant 1: _“Let us disregard all other stuff, there are just 2 buttons, if you press button 1 you’ll save one life this year if you press button 2 you’ll save one life in 50 years, which would you press?”_
+  * participant 2: _“yeah, but I don’t know if that is really realistic”_,
+  * participant 1: _“Yeah but it is a thought experiment, hypothetical. This way we can first look at it in its simplest form and then we can add in uncertainty later. _\[… some more like this…]_"_
+  * participant 2: _“yeah, but I don’t think this is even possible”_
+  * participant 1: _"_\[very frustrated]_"_.
+* You can also mark this as a “bring a friend” event. Worked well for us.
+* The YouTube clip of the child in a pond has pretty good comments which can prepare you for what you might encounter. Can be worth reading.
+* I’d recommend sharing [this picture](https://drive.google.com/drive/folders/1tCwo1g3TdIajH0I52Q0W6mZcOcL0TzGp) (on annual spending on malaria research and male baldness research) after the group comparing different cause areas has discussed their findings.
 
 **6.3.3 The 5-charities pitch (\*\*\*\*)**
 
@@ -675,45 +654,38 @@ Duration: 1.5 hour
 
 Explanation:
 
-There are 5 groups, who will all get assigned a charity and given information regarding that charity (also see supporting material) “You have 30 minutes to prepare a 3 minutes pitch (strict strict timing). The goal of this pitch is to convince as many people in this room as possible. Basically if anyone goes home after the workshop and the first thing they did was donate to your charity, you did great! There is absolutely no need to be nice to the other charities… you’re here to win! You are not to lie about statistics (but making up an anecdote about your nephew is fine). Discussion will be after all the pitches. Pitches can be given by 1 person in the group or by all. This contest is also completely unfair because some charities will have easier information than others. Good luck!”
+There are 5 groups, who will all get assigned a charity and given information regarding that charity (also see [supporting material](https://youtu.be/rBMZiaD-OYo?t=2)) _“You have 30 minutes to prepare a 3 minutes pitch (strict, strict timing). The goal of this pitch is to convince as many people in this room as possible. Basically if anyone goes home after the workshop and the first thing they did was donate to your charity, you did great! There is absolutely no need to be nice to the other charities… you’re here to win! You are not to lie about statistics (but making up an anecdote about your nephew is fine). Discussion will be after all the pitches. Pitches can be given by 1 person in the group or by all. This contest is also completely unfair because some charities will have easier information than others. Good luck!”_
 
-I recommend putting a big countdown timer on the screen (i.e. online-stopwatch.com) both for the time until the pitches start as well as during the pitches. Afterwards you ask everyone to vote on a single other team to determine who won. Alternatively you might do a giving game at this point. You discuss a little, ask for their reasons and usually they give you exactly the kind of reasons you want. When a certain point comes up which resembles something you’ve prepared (more on this in the next paragraph) you tell them that information. The goal of this is to make the interaction feel natural. At a certain point you might point at the time and proceed to tell the things you still want to tell. I usually end with introducing what effective altruism is (it should follow logically from the data presented and the discussion). Do remember to put emphasis on the fact that EA is about much more than just money. This is important because after 80 minutes of just focusing on charities and money they might not realize this is just the start.  
+I recommend putting a big countdown timer on the screen (i.e. [online-stopwatch.com](https://www.online-stopwatch.com/)) both for the time until the pitches start as well as during the pitches. Afterwards you ask everyone to vote on a single other team to determine who won. Alternatively you might do a giving game at this point. You discuss a little, ask for their reasons and usually they give you exactly the kind of reasons you want. When a certain point comes up which resembles something you’ve prepared (more on this in the next paragraph) you tell them that information. The goal of this is to make the interaction feel natural. At a certain point you might point at the time and proceed to tell the things you still want to tell. I usually end with introducing what effective altruism is (it should follow logically from the data presented and the discussion). Do remember to put emphasis on the fact that EA is about much more than just money. This is important because after 80 minutes of just focusing on charities and money they might not realize this is just the start.  
 
-The 5 charities I always use and the corresponding point I make are listed below. I don’t have a preset order for them to pitch in (again, I like it natural). Also in the discussion I let the group determine the order. When in doubt I stick to the order below. The material I give them can also be found in the supporting material.
+The 5 charities I always use and the corresponding point I make are listed below. I don’t have a preset order for them to pitch in (again, I like it natural). Also in the discussion I let the group determine the order. When in doubt I stick to the order below. The material I give them can also be found in the [supporting material](https://www.online-stopwatch.com/).
 
-Scared straight! I usually give them 2 popular press pages printed in color. I use this as an example of how: i. some charities have a negative impact (so it is important to do EA) ii. this only becomes clear after quality research.
-
-Make-a-wish: I don’t give them any information. I tell them to look things up online. I use them as something to compare AMF against. And if I have a really sceptical audience I might show them charity navigator and show them how much money is spent on fundraising and that you can have your questions whether or not this is effective.
-
-Against Malaria Foundation: I give them good information. I use AMF as I feel the robustness and understandability of the evidence is high. I also like how it gives an indication on the order of magnitude how much money you need to save a life. Finally I feel it helps to convince sceptical capitalists (section 3.5).
-
-Male baldness research foundation: I usually give them this printed:
-
-The male baldness research foundation: Welcome! The bad news is: your foundation doesn’t really exist. The good news is: you get to invent it yourself. The male baldness research foundation is about ordinary male hair loss due to old age (so not due to any illness). The foundation’s mission is to find a ‘cure’ for male baldness by supporting promising research labs all around the globe. Feel free to invent the things you need to make a good pitch (but avoid lying about cold hard
-
-statistics). Good luck!
-
-I use them to show how weird money can be allocated worldwide as malaria gets less money that male baldness (picture)
-
-Schistosomiasis control initiative: I usually give them waaay too much information (usually a givewell report). I use them as an example to: i. show how in-depth givewell’s research is, ii. to illustrate fat tails (there can be an order of magnitude in effectiveness between charities), iii. to show that sometimes the best option is something surprising, iv. to laugh slightly about the complete lack of sex appeal of some charities (and how this, unjustly might lead to less funding) -> avoid basing decisions on your gut feeling.
+* _Scared Straight!_: I usually give them 2 popular press pages printed in color. I use this as an example of how: i. some charities have a negative impact (so it is important to do EA) ii. this only becomes clear after quality research.
+* _Make-A-Wish_: I don’t give them any information. I tell them to look things up online. I use them as something to compare AMF against. And if I have a really sceptical audience I might show them charity navigator and show them how much money is spent on fundraising and that you can have your questions whether or not this is effective.
+* _Against Malaria Foundation_: I give them good information. I use AMF as I feel the robustness and understandability of the evidence is high. I also like how it gives an indication on the order of magnitude how much money you need to save a life. Finally I feel it helps to convince sceptical capitalists ([section 3.5](#sec-3-5)).
+* _Male baldness research foundation_: I usually give them this printed:
+  * The male baldness research foundation: _Welcome! The bad news is: your foundation doesn’t really exist. The good news is: you get to invent it yourself. The male baldness research foundation is about ordinary male hair loss due to old age (so not due to any illness). The foundation’s mission is to find a ‘cure’ for male baldness by supporting promising research labs all around the globe. Feel free to invent the things you need to make a good pitch (but avoid lying about cold hard statistics). Good luck!_
+* I use that to show how weirdly money can be allocated worldwide as malaria gets less money that male baldness ([picture](https://drive.google.com/file/d/1PQ5cgsXBbDbtczNFT48HkXASitqMlRoq/view))
+* _Schistosomiasis Control Initiative_: I usually give them waaay too much information (usually GiveWell's report). I use them as an example to:
+  1. show how in-depth GiveWell's research is,
+  2. to illustrate fat tails (there can be an order of magnitude in effectiveness between charities), 
+  3. to show that sometimes the best option is something surprising,
+  4. to laugh slightly about the complete lack of sex appeal of some charities (and how this, unjustly might lead to less funding) -> avoid basing decisions on your gut feeling.
 
 Rationale:
 
-\* No need to be nice to other charities… Reason: it is great fun to be mean in good spirit. By stating that this is allowed they will usually overdo it which takes out any possible venom. Also it is lets them think more on comparing their own charity to others (which is actually what you want).
-
-\* No lying about statistics… reason: you want the exercise to feel real and people being able to trust what they are told (not educational otherwise).
-
-\* schistosomiasis pitch is really fun because they usually cannot even pronounce it! Also their information is really complicated and the name is totally unsexy. Make sure to give them some extra love for this afterwards (while laughing at the same time) (so basically giving them recognition that they had a really hard task, kind of sorry not sorry)
-
-\* Why tell the contest is unfair? Reason is because it actually is unfair. Telling them this will make people okay with it.
+* No need to be nice to other charities… Reason: it is great fun to be mean in good spirit. By stating that this is allowed they will usually overdo it which takes out any possible venom. Also it is lets them think more on comparing their own charity to others (which is actually what you want).
+* No lying about statistics… reason: you want the exercise to feel real and people being able to trust what they are told (not educational otherwise).
+* Schistosomiasis pitch is really fun because they usually cannot even pronounce it! Also their information is really complicated and the name is totally unsexy. Make sure to give them some extra love for this afterwards (while laughing at the same time) (so basically giving them recognition that they had a really hard task, kind of sorry not sorry)
+* Why tell the contest is unfair? Reason is because it actually is unfair. Telling them this will make people okay with it.
 
 Recommendation:
 
-\* I found that 15 minutes preparation is too short (boring pitches), 45 minutes was great (the pitches were great fun!)
+I found that 15 minutes preparation is too short (boring pitches), 45 minutes was great (the pitches were great fun!)
 
-\* This is also a good moment to bring in food (if your workshop is in the evening… dinner!! worked really well).
+This is also a good moment to bring in food (if your workshop is in the evening… dinner!! worked really well).
 
-\* Make sure you know how to pronounce schistosomiasis control initiative yourself :).
+Make sure you know how to pronounce "_schistosomiasis control initiative_" yourself :).
 
 <a name="sec-6-3-4"></a>**6.3.4 New and upcoming (\*\*\*\**)**
 
@@ -721,7 +693,7 @@ Use case: full traditionalist audience, lecture, 15-60 min, improving inclinatio
 
 Duration: 15-60 minutes (for the full workshop)
 
-Rationale: Having noticed in earlier workshops that for some people truth seemed a product of some ill-calibrated heuristics (rather than a conclusion of careful reasoning, see also section 3.3) I designed this workshop with the intention to score as well as possible on those heuristics (while still being sufficient content-wise). The results were excellent and I believe this lecture is the most effective one I designed for its use case.
+Rationale: Having noticed in earlier workshops that for some people truth seemed a product of some ill-calibrated heuristics (rather than a conclusion of careful reasoning, see also [section 3.3](#sec-3-3)) I designed this workshop with the intention to score as well as possible on those heuristics (while still being sufficient content-wise). The results were excellent and I believe this lecture is the most effective one I designed for its use case.
 
 The overarching goals are to: i. frame effective altruism as new and upcoming (makes them feel privy to important information of the future of altruism),  ii. distance EA from their traditional approach, this is because you don’t want them to evaluate you based on their criteria (on which you’ll not be able to score really well for they are not really good criteria) basically they like big fishes, but you cannot fake being a big fish in their pond, so you convince them you are a big fish in another pond iii. behave like they would want their children to behave or behave like their idealized 25 year old self (reason: they will not like you thinking new stuff, but reminding them of themselves at their age makes this somehow OK…)
 
@@ -741,7 +713,7 @@ Tick the following boxes:
 
 \* There are many different EA organisations around the world (I recommend a slide with the logos of some of the bigger EA organisations)
 
-\* A graph where we are growing really quickly (I graphed the openphil grant database totals per year link, result)
+\* A graph where we are growing really quickly (I graphed the [Open Philanthropy Project's grant database](https://www.openphilanthropy.org/giving/grants) totals per year link, result)
 
 \* Explain how EA fits the trend of the last 30 years. The trend where society is moving towards using evidence and planning. Be sure to mention evidence based medicine (and make sure you know the history of this).
 
@@ -749,7 +721,7 @@ Tick the following boxes:
 
 \* Tell them about RCT’s and quality of research (30% of people will know this and will give you credibility, I know it is not the most relevant thing content-wise but it will help convince them)
 
-\* Preemptively answer the holistic question (section 4.2). This combines well with first telling them about RCT’s.
+\* Preemptively answer the holistic question ([section 4.2](#sec-4-2)). This combines well with first telling them about RCT’s.
 
 \* Mention how for every sustainable development goal (SDG) you can do this kind of planning. Give them a couple of examples.
 
