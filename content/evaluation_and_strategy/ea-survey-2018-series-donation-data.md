@@ -159,7 +159,7 @@ As in previous years, GiveWell charities, led by GiveDirectly, received among th
 
 Total EA donations within our sample are dominated by a fairly small number of very large donors. Nevertheless, median donations do seem to be slowly increasing, compared to earlier years. Furthermore, median donations and percentages of income donated are substantially higher when excluding students, those not fully employed or those on a low income.
 
-<a name="note1"></a>\[1]: Unless otherwise stated “income” refers to the average of individual and household income, which were reported separately. These measures were extremely highly correlated and using either of the individual measures made no difference to our analyses where we tested this.
+<a name="note1">[1]</a>: Unless otherwise stated “income” refers to the average of individual and household income, which were reported separately. These measures were extremely highly correlated and using either of the individual measures made no difference to our analyses where we tested this.
 
 **Updates and corrections**
 
