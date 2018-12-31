@@ -30,7 +30,7 @@ There are also several organizations part of the effective altruism or allied mo
 
 ## How to Read This List
 
-For Aspiring Volunteers
+**For Aspiring Volunteers**
 
 On this list are volunteer opportunities in the following focus areas across 16 different projects and organizations:
 
