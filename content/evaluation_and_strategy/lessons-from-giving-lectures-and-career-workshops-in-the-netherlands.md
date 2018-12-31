@@ -779,7 +779,7 @@ Recommendations
 * I chose biology high school teacher and strategy consultant. Reasons: i. a couple of my friends are biology teachers and one of them is unemployed because there are too many biology teachers in the Netherlands (I show them the statistics), this helps me explain the importance of looking at your marginal impact, ii. I can explain earning to give, iii. I can explain career capital
 * You might want to let people stand on the side of the room representing their point of view and keep them standing there for the entire duration of the exercise (so works best if you’re keeping it around 5 minutes)
 
-**6.4.2 Pointers and spoilers (\*\*\*\*)**
+<a name="sec-6-4-2"></a>**6.4.2 Pointers and spoilers (\*\*\*\*)**
 
 Use case: Many, especially suited for mixed audience of people already familiar with 80,000 Hours' material and those who aren’t.
 
@@ -845,33 +845,28 @@ Part 3. Together with the group conclude that making choices can be hard. Next a
 
 Part 4. Together with the group conclude that making choices is hard, but that career choices might be the hardest of them all! Expectation management time: ask them how they expect to make any meaningful progress in \[time remaining]. Allow for a long silence here as the realization hits that their expectations might have been a little high :).. Possible fun way of saying this: _“Okay, so making career choices is really hard… but we have only 60 minutes remaining. How are we going to make any progress on this? I mean, there might very well be someone here who spend 60 minutes on choosing his/her clothes this morning…”_. Make sure you clearly answer the question how you think you can make any meaningful progress at all in such a short amount of time. I proceed as follows.
 
-Part 5. In this workshop we will focus just on things you cannot do back home. There are a couple of things you need in order to make a career choice, i. know your options, ii. find out what you like. Finding your options you can do back home (I’ll give you pointers), finding out what you like is really hard and we are going to focus on that here. Finding out what you like can be divided in two parts: a. what do people like in general, b. what makes you special (how do you deviate from people in general). (a) you can do back home, I’ll give you pointers and spoilers for this in the end. So we are just going to focus on what makes you special.
+Part 5. _"In this workshop we will focus just on things you cannot do back home. There are a couple of things you need in order to make a career choice, i. know your options, ii. find out what you like. Finding your options you can do back home (I’ll give you pointers), finding out what you like is really hard and we are going to focus on that here. Finding out what you like can be divided in two parts: a. what do people like in general, b. what makes you special (how do you deviate from people in general). (a) you can do back home, I’ll give you pointers and spoilers for this in the end. So we are just going to focus on what makes you special."_
 
-Part 6. “Why is it hard to find out what makes you special? Usually people give you advice which sounds really easy in theory (find out what you like! Follow your passion) but is actually really hard in practice. In this workshop I’ll do the opposite, I’ll ask you questions which are really hard in theory, but are easy in practice.”
+Part 6. _“Why is it hard to find out what makes you special? Usually people give you advice which sounds really easy in theory (\`Find out what you like!\`, \`Follow your passion\`) but is actually really hard in practice. In this workshop I’ll do the opposite, I’ll ask you questions which are really hard in theory, but are easy in practice.”_
 
-Part 7. Proceed to ask them questions about themselves which are really really hard. The format is the following, ask them to get a paper and pen and finish the sentences you ask them (give them a warm up round starting with: “My favorite color is…” and “This morning when I woke up I felt…”. In between you might take a moment to give some background information on the upcoming question. If you’re doing things right there will be lots of silence (where they are thinking/writing or just waiting for the next question).
+Part 7. Proceed to ask them questions about themselves which are really really hard. The format is following: ask them to get a paper and pen and finish the sentences you ask them (give them a warm up round starting with: _“My favorite color is…”_ and _“This morning when I woke up I felt…”_. In between you might take a moment to give some background information on the upcoming question. If you’re doing things right there will be lots of silence (where they are thinking/writing or just waiting for the next question).
 
 Example questions:
 
-\* Ask them to list 3 things they find important in their job, and then to get rid of one.
-
-\* Ask them to list something which is really stupid but they really enjoyed. (for example, some people like walking in the rain)
-
-\* Ask them for their dark motivation (it is really easy to choose a job based on a really noble picture of your motives, it is much harder to acknowledge undesirable motivations)
-
-\* Ask them what their parents expect of them (“It is really easy to follow the route everyone expects you to, it is really hard to follow your own course. Identifying what others might expect you can help you correct for this”)
-
-\* More examples -> see slides/ask me
+* Ask them to list 3 things they find important in their job, and then to get rid of one.
+* Ask them to list something which is really stupid but they really enjoyed. (for example, some people like walking in the rain)
+* Ask them for their dark motivation (it is really easy to choose a job based on a really noble picture of your motives, it is much harder to acknowledge undesirable motivations)
+* Ask them what their parents expect of them (“It is really easy to follow the route everyone expects you to, it is really hard to follow your own course. Identifying what others might expect you can help you correct for this”)
+* More examples -> see slides/ask me
 
 In all cases make sure you make it really clear how these questions might help them make a career choice.
 
-Part 8: finish with pointers and spoilers (see section 6.4.2) and end in pairs (see section 6.6.2)
+Part 8. Finish with pointers and spoilers (see [section 6.4.2](#sec-6-4-2)) and end in pairs (see [section 6.6.2](#sec-6-6-2))
 
 Rationale:
 
-\* From previous workshops I notice that people like being challenged ☺.
-
-\* Even though things might be challenging the workshop will still feel safe because: i. the questions are useful, ii. there is relatively little sharing, iii. sharing that is done is done 1 on 1 and one can choose what to share.
+* From previous workshops I notice that people like being challenged ☺.
+* Even though things might be challenging the workshop will still feel safe because: i. the questions are useful, ii. there is relatively little sharing, iii. sharing that is done is done 1 on 1 and one can choose what to share.
 
 **6.5.2 Specialized groups (\*\*)**
 
@@ -923,7 +918,7 @@ Recommendation:
 
 Rationale: to improve, obviously ☺
 
-**6.6.2 End in pairs (\*\*\*\**)**
+<a name="sec-6-6-2"></a>**6.6.2 End in pairs (\*\*\*\**)**
 
 Use case: this is a recommended ending
 
