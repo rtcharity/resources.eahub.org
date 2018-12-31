@@ -270,19 +270,19 @@ I used to think that people ask questions because they want the answer. While th
 
 Examples:
 
-“How do you measure human rights?”,
+_“How do you measure human rights?”_,
 
-“You cannot compare poverty to climate change.”
+_“You cannot compare poverty to climate change.”_
 
-“You cannot put a number on the value of a life.”
+_“You cannot put a number on the value of a life.”_
 
-“How do you take into account uncertainty? We have seen many examples where one year a study claims one thing and the next year another study claims something else?”
+_“How do you take into account uncertainty? We have seen many examples where one year a study claims one thing and the next year another study claims something else?”_
 
-“Don’t you think it is questionable whether or not this scientific/numerical approach allows space for developing personal morality, wrestling with subjective/objective dilemmas, or for being driven by something more fundamental to the individual human spirit even if it’s contrary to available impact-based evidence – all things which can help develop long-lasting good habits in doing good?”
+_“Don’t you think it is questionable whether or not this scientific/numerical approach allows space for developing personal morality, wrestling with subjective/objective dilemmas, or for being driven by something more fundamental to the individual human spirit even if it’s contrary to available impact-based evidence – all things which can help develop long-lasting good habits in doing good?”_
 
 Asked by: warm fuzzy altruists and traditionalists
 
-Possible responses (summarized, paraphrased, I noticed other people had much better answers than I did so here they are):
+Possible responses (summarized & paraphrased: I noticed other people had much better answers than I did so here they are):
 
 \* Natalie Cargill (\*\*\*\*\*): EA isn’t about just measuring everything, it is about careful reasoning and analysis. Even when, or perhaps especially when things are hard we need to do this.
 
@@ -298,39 +298,34 @@ Possible responses (summarized, paraphrased, I noticed other people had much bet
 
 Examples:
 
-“Poverty is much more than a lack of money. We see that everything influences everything else and therefore only an integrated and coordinated approach will work.”
+_“Poverty is much more than a lack of money. We see that everything influences everything else and therefore only an integrated and coordinated approach will work.”_
 
-“But isn’t saving lives by donating money to AMF just treating the symptoms? I mean, we’re already overpopulated and the local situation might just not be able to sustain the number of people.”
+_“But isn’t saving lives by donating money to AMF just treating the symptoms? I mean, we’re already overpopulated and the local situation might just not be able to sustain the number of people.”_
 
-“But aren’t unconditional cash transfers just treating the symptoms? We need a way that these people can sustain themselves.”
+_“But aren’t unconditional cash transfers just treating the symptoms? We need a way that these people can sustain themselves.”_
 
-“It sounds nice in theory, but with corruption, lack of education in local partners how do you expect this to actually work in practice?”
+_“It sounds nice in theory, but with corruption, lack of education in local partners how do you expect this to actually work in practice?”_
 
-“You’re looking at an isolated system, completely disregarding that something which might in one place doesn’t work in another. We need a more holistic approach where we look at the individual situation and avoid overgeneralization.”
+_“You’re looking at an isolated system, completely disregarding that something which might in one place doesn’t work in another. We need a more holistic approach where we look at the individual situation and avoid overgeneralization.”_
 
 Asked by: yellers, one-trick ponies and traditionalists
 
 Suggested response:
 
-(\*\*\*\**) “Ah yes! That is really important. You are obviously referring to the well known problem in developmental aid where everything is linked together. Because people are poor they cannot afford good health care, then because they cannot afford good health care they will be sick more often which will negatively impact education, which in turn will impact economy which etc. And this is just an example, health, education, living conditions, corruption etc. all influence each other. Really well known phenomenon. And this makes it hard to say which is a root cause and which is the symptom as they all affect each other one way or another. So it might seem that an integral or holistic approach where you look at the system as a whole is needed. But actually, because everything is so interconnected, what you actually can do is have a really targeted intervention on a really small part of the problem. Because improving one thing will lead to an improvement in the next and the next and the next, and you can cause a domino effect. So exactly because everything is connected we can look for the single small thing we can do which has the highest impact on the whole system. And we actually see that this works in practice as well.
+(\*\*\*\**) Ah yes! That is really important. You are obviously referring to the well known problem in developmental aid where everything is linked together. Because people are poor they cannot afford good health care, then because they cannot afford good health care they will be sick more often which will negatively impact education, which in turn will impact economy which etc. And this is just an example, health, education, living conditions, corruption etc. all influence each other. Really well known phenomenon. And this makes it hard to say which is a root cause and which is the symptom as they all affect each other one way or another. So it might seem that an integral or holistic approach where you look at the system as a whole is needed. But actually, because everything is so interconnected, what you actually can do is have a really targeted intervention on a really small part of the problem. Because improving one thing will lead to an improvement in the next and the next and the next, and you can cause a domino effect. So exactly because everything is connected we can look for the single small thing we can do which has the highest impact on the whole system. And we actually see that this works in practice as well.
 
 Rationale:
 
-\* I don’t like these questions. I usually get them from traditionalists who seem to want to engage in some power struggle (which really annoys me). The example response above is a bit longer than my average answer, but it shows well what I’d do if I really feel someone is just testing me (instead of being honestly interested in the answer).
-
-\* I start with “That is really important” because traditionalists will not take you seriously if you do not consider this important
-
-\* When referring to this concept I use words like “obviously” and “well known problem” because I want to hit them where it hurts. Assuming it is really a power struggle, they want to outdo you by showing them how much they know. The best response is therefore to imply they are making an absolutely obvious remark which is super trivial to you and everyone in the audience. Works exceptionally well and they usually behave afterwards. Even if it isn’t a power struggle it is good to assert how intimately familiar you are with this concept (they will think higher of you).
-
-\* “It is hard to tell what is root cause and what is symptom.” Reason: Some people (one-trick ponies) consider a single thing the root cause of all. There isn’t one, and therefore it is useful to frame it in a way where everything affects everything.
+* I don’t like these questions. I usually get them from traditionalists who seem to want to engage in some power struggle (which really annoys me). The example response above is a bit longer than my average answer, but it shows well what I’d do if I really feel someone is just testing me (instead of being honestly interested in the answer).
+* I start with “That is really important” because traditionalists will not take you seriously if you do not consider this important
+* When referring to this concept I use words like “obviously” and “well known problem” because I want to hit them where it hurts. Assuming it is really a power struggle, they want to outdo you by showing them how much they know. The best response is therefore to imply they are making an absolutely obvious remark which is super trivial to you and everyone in the audience. Works exceptionally well and they usually behave afterwards. Even if it isn’t a power struggle it is good to assert how intimately familiar you are with this concept (they will think higher of you).
+* _“It is hard to tell what is root cause and what is symptom.”_ Reason: Some people (one-trick ponies) consider a single thing the root cause of all. There isn’t one, and therefore it is useful to frame it in a way where everything affects everything.
 
 Recommendations:
 
-\* Also works really well proactively (just raising the question yourself and this as planned part of your workshop/lecture)
-
-\* Even though this question is often just a struggle for power, it is actually a really good question. To understand where these questions are coming from I wholeheartedly recommend watching the following lecture Rory Stewart OBE: "Failed States - and How Not to Fix Them"
-
-\* For some people this answer is not enough. If they keep the power struggle going, mention that focussing on a small part of the system isn’t just theory as randomized controlled trials show that a non-holistic approach can have real results. Be sure you are familiar with the evidence behind some charities (AMF/CoolEarth work well for me). Usually the person will keep going and as you mention any RCT’s will ask “but how does A cause B” to which you answer: “the RCT doesn’t tell us, it just shows us it works, that is the nature of an RCT”. Usually that is a (kind of) happy end.
+* Also works really well proactively (just raising the question yourself and this as planned part of your workshop/lecture)
+* Even though this question is often just a struggle for power, it is actually a really good question. To understand where these questions are coming from I wholeheartedly recommend watching the following lecture [Rory Stewart OBE: "Failed States - and How Not to Fix Them"](https://youtu.be/zMXXJqvMdk4)
+* For some people this answer is not enough. If they keep the power struggle going, mention that focusing on a small part of the system isn’t just theory as randomized controlled trials show that a non-holistic approach can have real results. Be sure you are familiar with the evidence behind some charities (AMF/Cool Earth work well for me). Usually the person will keep going and as you mention any RCT’s will ask _“but how does A cause B”_ to which you answer,_ “The RCT doesn’t tell us, it just shows us it works, that is the nature of an RCT”_. Usually that is a (kind of) happy end.
 
 <a name="sec-4-3"></a>**4.3 Local focus**
 
