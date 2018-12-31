@@ -422,7 +422,7 @@ In everything I do I always aim for a proper balance between three things:
 
 <a name="sec-6-1"></a>**6.1 Warming up / introduction (\*\*\*\*)**
 
-In the Netherlands we have a saying: _“een goed begin is het halve werk”_. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how much easy time you’ll have for the remainder of the workshop. So, other than introducing EA, I think this is the most important part of your workshop.
+In the Netherlands we have a saying: _“een goed begin is het halve werk”_. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how much easy time you’ll have for the remainder of the workshop. So, other than introducing EA, I think this is <u>the</u> most important part of your workshop.
 
 I’ve got a couple of goals in my introduction: i. get to know your audience, ii. get a positive vibe going iii. expectation management. Let us look into these in a little more detail.
 
@@ -430,11 +430,11 @@ i. Get to know you audience. There are two reasons for this. a. The best worksho
 
 ii. Get a positive vibe going. I find the following is very important: making your introduction uncomfortable, surprising and requiring input from the audience on one hand but still feeling very safe. Being surprising and making people uncomfortable is pretty easy but I see things often going wrong on the feeling safe part so I’ll expand on this a little. Why would people find something unsafe (or dislike it): a. they think it is weird (weird introduction implies mediocre social skills of the host which implies unsafe) b. they have to expose themselves for the whole group which is scary because they might feel judged. I basically have 1 tip to make it feel safe… make it useful. So don’t do ice-breakers where the only reason is to break the ice (seriously… don’t). Use your creativity and think of something useful! Not that hard to figure this out (or just read along and you’ll find some ideas).
 
-iii. expectation management / set the tone. Generally expectation management is a good idea. So providing structure, explaining what is coming. Let them get to know you (and the things you like/dislike). This is the moment for them to gauge what you like (I always try to convey: I like critical input, if you want to leave / go to the restroom while I’m talking, be my guest, I’m not there to preach, I’m there to make them happy, if EA is not for them that is OK). As a career workshop a certain challenge is extra pronounced: I feel people really frequently underestimate how hard career choices are. I think this is why people don’t like making these choices (they feel like they put waaay too much time into a choice which should have been easy). This underestimation leads to them to expect giant leaps forwards in your 2 hour workshop. Unrealistic, or at least I cannot deliver this much. So I usually tackle this head on by explaining that in 2 hours you won’t suddenly know.
+iii. Expectation management / set the tone. Generally expectation management is a good idea. So providing structure, explaining what is coming. Let them get to know you (and the things you like/dislike). This is the moment for them to gauge what you like (I always try to convey: I like critical input, if you want to leave / go to the restroom while I’m talking, be my guest, I’m not there to preach, I’m there to make them happy, if EA is not for them that is OK). As a career workshop a certain challenge is extra pronounced: I feel people really frequently underestimate how hard career choices are. I think this is why people don’t like making these choices (they feel like they put waaay too much time into a choice which should have been easy). This underestimation leads to them to expect giant leaps forwards in your 2 hour workshop. Unrealistic, or at least I cannot deliver this much. So I usually tackle this head on by explaining that in 2 hours you won’t suddenly know.
 
 **6.1.1 25 things you’d do with 500 million (\*\*\*\*)**
 
-Use case: Longer workshops where you can give people a preliminary assignments, audiences where you might expect resistance.
+Use case: Longer workshops where you can give people preliminary assignments, audiences where you might expect resistance.
 
 Duration: 20 minutes
 
@@ -446,23 +446,20 @@ In order to get a head start on exploring what really motivates you we have an a
 
 1. List 25 things you would do. Just write down whatever comes to mind first, even if you think it doesn't sound very spectacular.
 2. During the workshop you will have the option to choose which answers you want to share with others.
-3. Write down the things you really want, even - or maybe especially - if it is socially unacceptable. Giving politically incorrect answers is encouraged. For example, this person is doing well: https://www.youtube.com/watch?v=IvE84AGMWpE :).
+3. Write down the things you really want, even - or maybe especially - if it is socially unacceptable. Giving politically incorrect answers is encouraged. For example, this person is doing well: <https://www.youtube.com/watch?v=IvE84AGMWpE> :).
 
 In the workshop I then give them 5 minutes to discuss their answers with their neighbours. They can share whatever they want to share with their neighbours and I give them three questions: i. what is your most socially (/politically) incorrect answer, ii. is there a common theme or underlying principle connecting your answers, iii. are there any things you could start right now (e.g. that don’t take all that much time and money). During the discussion I walk around and listen (and learn their names :P). Afterwards I discuss their answers and move on to happiness.
 
 Rationale:
 
-\* This is surprising and personal while being safe. Safe because it is 1 on 1, because they get to choose what to share and the exercise feels like it serves a purpose (getting to know yourself).
-
-\* People seem to really like the exercise. Possible because it actually really hard to get 25 entries on your list (people usually make it to around 15 or so).
-
-\* Even if you wanted to you’d be hard pressed to put 25 selfish things on the list. Therefore there will be many altruistic things on many people their lists. This is an advantage for tough crowds.
-
-\*  Finding the most politically incorrect entry of all is always great fun. In 2 out of 3 times it completely broke all tension. The winners in those cases: i. “I’d buy a big estate in the US, with a big white castle on it. On the grounds I’ll build a railroad and let loose lions so that I can hunt lions with a gun from inside the train.” ii. person a: “I’d hire an assassin to kill someone who is really harming the world!” person b: “Is there any specific US president you had in mind?”. Well, it is always great fun as you can imagine and it lets them know you’re in for a laugh (likable) and won’t be judging them (safe).
+* This is surprising and personal while being safe. Safe because it is 1 on 1, because they get to choose what to share and the exercise feels like it serves a purpose (getting to know yourself).
+* People seem to really like the exercise. Possible because it actually really hard to get 25 entries on your list (people usually make it to around 15 or so).
+* Even if you wanted to you’d be hard pressed to put 25 selfish things on the list. Therefore there will be many altruistic things on many people their lists. This is an advantage for tough crowds.
+* Finding the most politically incorrect entry of all is always great fun. In 2 out of 3 times it completely broke all tension. The winners in those cases: i. _“I’d buy a big estate in the US, with a big white castle on it. On the grounds I’ll build a railroad and let loose lions so that I can hunt lions with a gun from inside the train.”_ ii. person a: _“I’d hire an assassin to kill someone who is really harming the world!”_ person b: _“Is there any specific US president you had in mind?”_. Well, it is always great fun as you can imagine and it lets them know you’re in for a laugh (likable) and won’t be judging them (safe).
 
 Recommendation:
 
-\* You can also let them make the list during your workshop, but this takes a lot of time.
+* You can also let them make the list during your workshop, but this takes a lot of time.
 
 **6.1.2 Stand and choose (\*\*\*\*)**
 
@@ -476,17 +473,14 @@ Ensure you have a enough space in the middle. Ask everyone to stand up and move 
 
 Rationale:
 
-\* It works well for showing off confidence and thus competence.
-
-\* It keeps people active, forces them to interact while still being safe because of the sufficient anonymity (they just have to stand somewhere).
-
-\* You get information on your audience (can be really valuable later on)
+* It works well for showing off confidence and thus competence.
+* It keeps people active, forces them to interact while still being safe because of the sufficient anonymity (they just have to stand somewhere).
+* You get information on your audience (can be really valuable later on)
 
 Recommendation:
 
-\* everyone mixes up again (-> harder to know their names!),
-
-\* I haven’t found a really natural way to move to the next part (other than remarking on something remarkable to make it seem relevant and then brute forcing my way).
+* Everyone mixes up again (-> harder to know their names!),
+* I haven’t found a really natural way to move to the next part (other than remarking on something remarkable to make it seem relevant and then brute forcing my way).
 
 **6.1.3 Vanilla introduction (\*\**)**
 
@@ -500,15 +494,13 @@ Just ask them to introduce themselves.
 
 Rationale:
 
-This is very safe as they have done this kind of thing 1000 times.
+* This is very safe as they have done this kind of thing 1000 times.
 
 Recommendation:
 
-\* Be sure to ask some interesting question. I like asking what they wanted to be when they grew up because: i. it usually gives you fun answers, ii. it already makes people realize that following your passion isn’t always the best advice (useful later on).
-
-\* A good habit is to ask at least one clarifying question to each person. Shows you’re interested and aren’t just doing it by rote)
-
-\* If you ask the wrong questions you’ll get really really long answers (once for 20 people this took me 50 minutes!). This is boring. Wrong questions are: what is your current background (superboring and people will want to tell you all the details and nuance of what they are doing or they don’t know and start telling you everything they are considering), what is something altruistic you care about (people can get really into this making it hard to keep it short).
+* Be sure to ask some interesting question. I like asking what they wanted to be when they grew up because: i. it usually gives you fun answers, ii. it already makes people realize that following your passion isn’t always the best advice (useful later on).
+* A good habit is to ask at least one clarifying question to each person. Shows you’re interested and aren’t just doing it by rote)
+* If you ask the wrong questions you’ll get really really long answers (once for 20 people this took me 50 minutes!). This is boring. Wrong questions are: what is your current background (super boring and people will want to tell you all the details and nuance of what they are doing or they don’t know and start telling you everything they are considering), what is something altruistic you care about (people can get really into this making it hard to keep it short).
 
 **6.1.4 EA is growing fast (\*\*\*\*)**
 
@@ -518,7 +510,7 @@ Duration: 5 minutes
 
 Explanation:
 
-See section 6.3.4 for this.
+See [section 6.3.4](#sec-6-3-4) for this.
 
 **6.1.5 personal anecdote (?? expect \*\*\*\*/\*\*\*\**)**
 
@@ -718,7 +710,7 @@ Recommendation:
 
 \* Make sure you know how to pronounce schistosomiasis control initiative yourself :).
 
-**6.3.4 New and upcoming (\*\*\*\**)**
+<a name="sec-6-3-4"></a>**6.3.4 New and upcoming (\*\*\*\**)**
 
 Use case: full traditionalist audience, lecture, 15-60 min, improving inclination towards EA, get people to donate effectively
 
