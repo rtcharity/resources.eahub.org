@@ -876,13 +876,13 @@ Duration: 20-25 minutes
 
 Explanation:
 
-After having introduced EA careers divide the group into 3 subgroups: i. people who have no idea what options they have, ii. people who have already narrowed it down to a couple of options, iii. people who have too few options (stuck in their job). For each of these groups I have a different an assignment. Group iii I just let them discuss, group ii I gave a list on which they can score their options and group (see supporting materials), group i I gave them a lot of information regarding the most pressing problems according to the 80.000hours website.
+After having introduced EA careers divide the group into 3 subgroups: i. people who have no idea what options they have, ii. people who have already narrowed it down to a couple of options, iii. people who have too few options (stuck in their job). For each of these groups I have a different an assignment. Group iii I just let them discuss, group ii I gave a list on which they can score their options and group (see [supporting materials](https://drive.google.com/drive/folders/1AGtll2uw1TtFTCNWdVVM-S83P7thi2SK?usp=sharing)), group i I gave them a lot of information regarding the most pressing problems according to 80,000 Hours' website.
 
 Rationale: I figured it might be useful to have people in a similar positions in the same group.
 
 Recommendation (failure mode):
 
-\* It doesn’t really work because the group of people who don’t have a clear picture of what they want (group i) really didn’t get anywhere. I feel that this group just contained too many people weren’t really good at making choices or setting up a constructive group setting. I The other groups were okay. I gave this 2 stars (instead of 1) because I only tried it once.
+* It doesn’t really work because the group of people who don’t have a clear picture of what they want (group i) really didn’t get anywhere. I feel that this group just contained too many people weren’t really good at making choices or setting up a constructive group setting. The other groups were okay. I gave this 2 stars (instead of 1) because I only tried it once.
 
 **6.5.3 Discussion in groups (*)**
 
@@ -898,7 +898,7 @@ Rationale: not anything really, consider this a baseline :P.
 
 Recommendation:
 
-\* Don’t do this. I noticed that groups take a lot of time to get to know each other (5 to 10 minutes) and then take more time to understand what they are going to talk about (another 5 to 10 minutes). I’d always prefer pairs to groups and specialized groups (with a specific question which differs for every group) to every group being similar.
+* Don’t do this. I noticed that groups take a lot of time to get to know each other (5 to 10 minutes) and then take more time to understand what they are going to talk about (another 5 to 10 minutes). I’d always prefer pairs to groups and specialized groups (with a specific question which differs for every group) to every group being similar.
 
 **6.6 Ending your workshop (\*\*)**
 
@@ -910,11 +910,9 @@ Use case: workshops and longer lectures
 
 Recommendation:
 
-\* On top put: “Name (optional):……” so that it can be anonymous but people can put their names on there as well (it can be really useful to have someone’s name)
-
-\* I recommend having them rate the usefulness on a 1-10 scale and taking the average afterwards (this is a good sanity check). Take special note of the lowest mark and see if you can identify who this was and what went wrong. In Dutch workshops the average is between 7.8 and 8.5 (but we always work with a 1-10 scale for grading so expect things to be very different for your country). If a workshop (and expectation management) went well there should be no marks close to the mark which is the lowest mark with which you pass (in the Netherlands you pass with a 5.5, and I usually consider anything lower than a 7 to be a sign of something I could have and should have avoided).
-
-\* For shorter workshops I recommend just giving them a post-it and ask them to write down: i. a tip (something to improve), ii. something they take back home from this workshop. This is really low-key but I found the answers to be surprisingly useful. It also works well to give them 1 post-it for a pair.
+* On top put: _“Name (optional):……”_ so that it can be anonymous but people can put their names on there as well (it can be really useful to have someone’s name)
+* I recommend having them rate the usefulness on a 1-10 scale and taking the average afterwards (this is a good sanity check). Take special note of the lowest mark and see if you can identify who this was and what went wrong. In Dutch workshops the average is between 7.8 and 8.5 (but we always work with a 1-10 scale for grading so expect things to be very different for your country). If a workshop (and expectation management) went well there should be no marks close to the mark which is the lowest mark with which you pass (in the Netherlands you pass with a 5.5, and I usually consider anything lower than a 7 to be a sign of something I could have and should have avoided).
+* For shorter workshops I recommend just giving them a post-it and ask them to write down: i. a tip (something to improve), ii. something they take back home from this workshop. This is really low-key but I found the answers to be surprisingly useful. It also works well to give them 1 post-it for a pair.
 
 Rationale: to improve, obviously ☺
 
@@ -928,22 +926,41 @@ Explanation: End in pairs giving them some sort of final question (can be anythi
 
 Rationale:
 
-\* As also mentioned a couple of times on the EA forum (example) pairs work really well and I wholeheartedly agree! Thanks for the heads up guys :).
-
-\* People like to reflect with a single person in the end, I guess because they aren’t alone but are still a really big part of the group (about 50% :P).
-
-\* It also avoid an awkward silence and a “what now” kind of feeling in the groups. To me this always felt like a natural end where people slowly trickle away, join other groups etc.
+* As also mentioned a couple of times on the EA forum ([example](https://forum.effectivealtruism.org/posts/9ozoJpPoNBL6Z5BX5/a-lesson-from-an-ea-weekend-in-london-pairing-people-up-to)), pairs work really well, and I wholeheartedly agree! Thanks for the heads up guys :).
+* People like to reflect with a single person in the end, I guess because they aren’t alone but are still a really big part of the group (about 50% :P).
+* It also avoid an awkward silence and a “what now” kind of feeling in the groups. To me this always felt like a natural end where people slowly trickle away, join other groups etc.
 
 ## 7. Closing remarks / more info
 
-I’ll be responding to comments in the corresponding forum post. Also Catherine graciously offered to let me share her email address and her invitation to help here. Feel free to contact her :).
+I’ll be responding to comments in the [corresponding forum post](https://forum.effectivealtruism.org/posts/BMLXJ25jz4R3TBXNu/lessons-from-giving-lectures-and-career-workshops-in-the). Also Catherine graciously let me share her email address and her invitation to help here. Feel free to contact her :).
 
-Hello wonderful group leaders!
-
-If you or your group members are keen on running intro to EA presentations in your community I am available to help coach you.
-
-About me: I manage Students for High-Impact Charity, I've been a teacher for over a decade and have trained many new teachers over that time. I've also run over 80 intro to EA presentations for a wide variety of audiences, and I've learnt a lot while doing these, so I'm keen to pass on the knowledge I have!
-
-Help I can provide: Depending on your needs this help could consist of sourcing and modifying materials, giving feedback on practice presentations and guidance on reaching out to groups who might be interested in learning about EA.
-
-If you are interested, please get in touch with me by facebook messaging me, or emailing catherine@highimpactstudents.org.
+> Hello wonderful group leaders!
+>
+> \
+>
+>
+> If you or your group members are keen on running intro to EA presentations in your community I am available to help coach you.
+>
+> \
+>
+>
+> About me: I manage Students for High-Impact Charity, I've been a teacher for over a decade and have trained many new teachers over that time. I've also run over 80 intro to EA presentations for a wide variety of audiences, and I've learnt a lot while doing these, so I'm keen to pass on the knowledge I have!
+>
+> \
+>
+>
+> Help I can provide: Depending on your needs this help could consist of sourcing and modifying materials, giving feedback on practice presentations and guidance on reaching out to groups who might be interested in learning about EA.
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> If you are interested, please get in touch with me 
+>
+> [by facebook](https://www.facebook.com/cafelow)
+>
+>  messaging me, or emailing catherine@highimpactstudents.org.
