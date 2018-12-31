@@ -212,9 +212,9 @@ Recommendations:
 
 * When someone seems very different from you (i.e. they spend a lot of time on their looks), force yourself to look extra careful at the level of thinking given their knowledge. Examples, in your evaluation of them compensate for their lack of knowledge, so if someone who isn’t from a STEM background takes quickly to the idea of EA this shows more potential than someone who is from a STEM background (who is more familiar with this kind of thinking). If someone says something really smart, consider if they are just relating something they read online (not a good indication of potential) or if they thought of it themselves (good indication of potential). If someone seems to have low epistemic standards, ask yourself is this because they are stupid or because they haven’t been trained in it? It feels trivial when I write this, but I know (in the Netherlands) this isn’t done enough.
 * It might be interesting to look at the [demographics of EA](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and) to get an idea what we might a selection bias towards (note: I’m not putting this forward as evidence of selection bias, it is not).
-* Avoid weird ice breakers (!) see section 6.1
+* Avoid weird ice breakers (!) see [section 6.1](#sec-6-1)
 * Also focus on just having a good time at the workshop.
-* Read about the socially ill-calibrated EA fanatic (section 3.8) who seems to be the nemesis of attracting some of the more socially inclined genetic lottery winner.
+* Read about the socially ill-calibrated EA fanatic ([section 3.8](#sec-3.8)) who seems to be the nemesis of attracting some of the more socially inclined genetic lottery winner.
 
 <a name="sec-3-7"></a>**3.7 The yeller**
 
@@ -240,7 +240,7 @@ Recommendations:
 
 \* If the audience knows each other, it is an informal workshop and you expect resistance I recommend asking at the beginning: “Who is going to be the most troublesome in this audience?” (tone of voice: fun, like you’re up for a challenge and friendly). They usually love to answer and it defuses the tension.
 
-**3.8 Socially ill-calibrated EA fanatic**
+<a name="sec-3-8"></a>**3.8 Socially ill-calibrated EA fanatic**
 
 Looking for: Truth, being helpful, ego
 
@@ -486,7 +486,7 @@ In everything I do I always aim for a proper balance between three things.
 2. Come across as competent
 3. Educational value (awareness)
 
-**6.1 Warming up / introduction (\*\*\*\*)**
+<a name="sec-6-1"></a>**6.1 Warming up / introduction (\*\*\*\*)**
 
 In the Netherlands we have a saying: “een goed begin is het halve werk”. This roughly translates to “a good start is half of the work”. I feel this is definitely true for a workshop. I think the introduction determines about 90% of how much they like you and thus has a significant impact on how easy of a time you’ll have the remainder of the workshop. So other than introducing EA I think this is the most important part of your workshop.
 
