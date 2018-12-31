@@ -86,7 +86,7 @@ Every workshop there happens to be always at least 1 person who is very enthusia
 
 Recommendation: ensure there is sufficient philosophical depth
 
-**3.2 One trick ponies**
+<a name="sec-3-2"></a>**3.2 One trick ponies**
 
 Are looking for: certainty, closure
 
@@ -264,21 +264,17 @@ Recommendations:
 
 Relevant if: you have some time on your hands (not really important but usually useful to know I’d say).
 
-I used to think that people ask questions because they want the answer. While this seems true when teaching mathematics, this doesn’t seem to hold for EA workshops/lectures. Questions are often people putting up resistance because you threaten their ego or world-view (as described in the previous Chapter 3). I have found much better results on focussing on the underlying reasons for the questions (i.e. dressing better) than having more logical answers to their questions. So if you get a critical question I recommend treating this as a result of violating some underlying desire as explained in the chapter 3. Still it does matter somewhat which answers you give so this section will cover some of the most frequently questions and some ideas for responses. I realize these answers aren’t the best answers (from a pure logical point of view) but are usually the best in a pragmatic way. Generally I find considering questions to be statements with a question mark at the end to be a helpful exercise.
+I used to think that people ask questions because they want the answer. While this seems true when teaching mathematics, this doesn’t seem to hold for EA workshops/lectures. Questions are often people putting up resistance because you threaten their ego or world-view (as described in the previous Chapter 3). I have found much better results on focusing on the underlying reasons for the questions (i.e. dressing better) than having more logical answers to their questions. So if you get a critical question I recommend treating this as a result of violating some underlying desire as explained in the chapter 3. Still it does matter somewhat which answers you give so this section will cover some of the most frequently questions and some ideas for responses. I realize these answers aren’t the best answers (from a pure logical point of view) but are usually the best in a pragmatic way. Generally I find considering questions to be statements with a question mark at the end to be a helpful exercise.
 
 **4.1 Immeasurable**
 
 Examples:
 
-_“How do you measure human rights?”_,
-
-_“You cannot compare poverty to climate change.”_
-
-_“You cannot put a number on the value of a life.”_
-
-_“How do you take into account uncertainty? We have seen many examples where one year a study claims one thing and the next year another study claims something else?”_
-
-_“Don’t you think it is questionable whether or not this scientific/numerical approach allows space for developing personal morality, wrestling with subjective/objective dilemmas, or for being driven by something more fundamental to the individual human spirit even if it’s contrary to available impact-based evidence – all things which can help develop long-lasting good habits in doing good?”_
+* _“How do you measure human rights?”_,
+* _“You cannot compare poverty to climate change.”_
+* _“You cannot put a number on the value of a life.”_
+* _“How do you take into account uncertainty? We have seen many examples where one year a study claims one thing and the next year another study claims something else?”_
+* _“Don’t you think it is questionable whether or not this scientific/numerical approach allows space for developing personal morality, wrestling with subjective/objective dilemmas, or for being driven by something more fundamental to the individual human spirit even if it’s contrary to available impact-based evidence – all things which can help develop long-lasting good habits in doing good?”_
 
 Asked by: warm fuzzy altruists and traditionalists
 
@@ -294,21 +290,17 @@ Possible responses (summarized & paraphrased: I noticed other people had much be
 
 Examples:
 
-_“Poverty is much more than a lack of money. We see that everything influences everything else and therefore only an integrated and coordinated approach will work.”_
-
-_“But isn’t saving lives by donating money to AMF just treating the symptoms? I mean, we’re already overpopulated and the local situation might just not be able to sustain the number of people.”_
-
-_“But aren’t unconditional cash transfers just treating the symptoms? We need a way that these people can sustain themselves.”_
-
-_“It sounds nice in theory, but with corruption, lack of education in local partners how do you expect this to actually work in practice?”_
-
-_“You’re looking at an isolated system, completely disregarding that something which might in one place doesn’t work in another. We need a more holistic approach where we look at the individual situation and avoid overgeneralization.”_
+* _“Poverty is much more than a lack of money. We see that everything influences everything else and therefore only an integrated and coordinated approach will work.”_
+* _“But isn’t saving lives by donating money to AMF just treating the symptoms? I mean, we’re already overpopulated and the local situation might just not be able to sustain the number of people.”_
+* _“But aren’t unconditional cash transfers just treating the symptoms? We need a way that these people can sustain themselves.”_
+* _“It sounds nice in theory, but with corruption, lack of education in local partners how do you expect this to actually work in practice?”_
+* _“You’re looking at an isolated system, completely disregarding that something which might in one place doesn’t work in another. We need a more holistic approach where we look at the individual situation and avoid overgeneralization.”_
 
 Asked by: yellers, one-trick ponies and traditionalists
 
 Suggested response:
 
-(\*\*\*\**) Ah yes! That is really important. You are obviously referring to the well known problem in developmental aid where everything is linked together. Because people are poor they cannot afford good health care, then because they cannot afford good health care they will be sick more often which will negatively impact education, which in turn will impact economy which etc. And this is just an example, health, education, living conditions, corruption etc. all influence each other. Really well known phenomenon. And this makes it hard to say which is a root cause and which is the symptom as they all affect each other one way or another. So it might seem that an integral or holistic approach where you look at the system as a whole is needed. But actually, because everything is so interconnected, what you actually can do is have a really targeted intervention on a really small part of the problem. Because improving one thing will lead to an improvement in the next and the next and the next, and you can cause a domino effect. So exactly because everything is connected we can look for the single small thing we can do which has the highest impact on the whole system. And we actually see that this works in practice as well.
+* (\*\*\*\**) Ah yes! That is really important. You are obviously referring to the well known problem in developmental aid where everything is linked together. Because people are poor they cannot afford good health care, then because they cannot afford good health care they will be sick more often which will negatively impact education, which in turn will impact economy which etc. And this is just an example, health, education, living conditions, corruption etc. all influence each other. Really well known phenomenon. And this makes it hard to say which is a root cause and which is the symptom as they all affect each other one way or another. So it might seem that an integral or holistic approach where you look at the system as a whole is needed. But actually, because everything is so interconnected, what you actually can do is have a really targeted intervention on a really small part of the problem. Because improving one thing will lead to an improvement in the next and the next and the next, and you can cause a domino effect. So exactly because everything is connected we can look for the single small thing we can do which has the highest impact on the whole system. And we actually see that this works in practice as well.
 
 Rationale:
 
@@ -327,13 +319,10 @@ Recommendations:
 
 Example questions:
 
-_“So basically you’re saying that people can do whatever they want and then just donate money and everything is alright? Doesn’t this seem wrong to you? Don’t you think it is important for people to take personal responsibility for what they are doing instead of just solving some far away problems?”_
-
-_“It seems kind of cold and calculating, sometimes you just want to help someone close to you right?”_
-
-_“It seems kind of cold and calculating, altruism is about the intention as well right?"_
-
-_“You have talking a lot about donating, careers and charities but hardly about what someone can do as a person.”_
+* _“So basically you’re saying that people can do whatever they want and then just donate money and everything is alright? Doesn’t this seem wrong to you? Don’t you think it is important for people to take personal responsibility for what they are doing instead of just solving some far away problems?”_
+* _“It seems kind of cold and calculating, sometimes you just want to help someone close to you right?”_
+* _“It seems kind of cold and calculating, altruism is about the intention as well right?"_
+* _“You have talking a lot about donating, careers and charities but hardly about what someone can do as a person.”_
 
 Question behind the question:
 
@@ -341,89 +330,73 @@ In their peer groups altruism is considered as something quite different from ef
 
 Possible responses:
 
-(\*\*\*\*) Recently at Schiphol airport they faced the following problem. They were looking for a new air conditioning system for one of their terminals. They had the choice between a cheaper air conditioning and one which was more expensive and more efficient and thus more environmental friendly. The people telling me this were really happy that in the end they got the more efficient one.  But then I wonder, what else could they have done for this money? Perhaps a neighbouring airport has a really really old air conditioning which needs replacement a lot more. Why look for solutions only in your own backyard? The world doesn’t care where CO2 is saved. Is it not the best idea to spend the money where the most CO2 is reduced?
-
-(\*\**) Does the end justify the means? One might be tempted to just minimize their own impact?  But is this really the best thing for the world? For example, can you take the airplane to a climate conference? I’d say yes because \[…].
-
-(\*\**) You might be tempted to put solar panels on your roof. And that is really good, hooray! But… why do you put the solar panels on your roof? I mean, the world doesn’t care if they are on your roof or somewhere else. And perhaps the roof of the neighbour actually catches more sun because it has a better angle. We are all so focussed on making the impact ourselves that we might sometimes forget that there are better opportunities a little farther from home. I mean it might feel good to have solar panels on your roof, but the world doesn’t care. I mean I’m all in favor of getting solar panels on your roof, but let’s not pretend this is the best thing you can do.
-
-(\*\*) Yes, taking care of you family and friends and neighbours and fellow countrymen is really important. I’m not saying we shouldn’t do these things. It is really natural to care for these things and you should dedicate a part of your time and money to this. However I think it is also good to take a part of your time and money and dedicate this solely to helping the world as a whole. These two things don’t exclude each other and are both very important. Effective altruism is all about focussing on what is best for the world. This makes sense because you cannot have a worldwide movement which cares more about certain local problems than other local problems.
-
-(?to test) I find that some people don’t know how donating to an effective charity compares to their personal efforts at minimizing the impact. I’m going to try and put some numbers on this for them. I expect this won’t work (as this is too rational). A number I calculated (the calculation is pretty easy) is: recycling a plastic bottle saves greenhouse gasses equal to the amount of greenhouse gasses saved by approximately donating 0.0001 euro  to CoolEarth (note: 1 euro is approximately equal to 1 dollar).
-
-(?to test) Someone I recently met said she used to be all about minimizing her own impact. She said she changed towards EA once she realized that this would imply that no matter what she did she would always have a net negative impact in her life. I’ll experiment to see if this line of reasoning resonates with others as well.
+* (\*\*\*\*) Recently at Schiphol airport they faced the following problem. They were looking for a new air conditioning system for one of their terminals. They had the choice between a cheaper air conditioning and one which was more expensive and more efficient and thus more environmental friendly. The people telling me this were really happy that in the end they got the more efficient one.  But then I wonder, what else could they have done for this money? Perhaps a neighbouring airport has a really really old air conditioning which needs replacement a lot more. Why look for solutions only in your own backyard? The world doesn’t care where CO2 is saved. Is it not the best idea to spend the money where the most CO2 is reduced?
+* (\*\**) Does the end justify the means? One might be tempted to just minimize their own impact?  But is this really the best thing for the world? For example, can you take the airplane to a climate conference? I’d say yes because \[…].
+* (\*\**) You might be tempted to put solar panels on your roof. And that is really good, hooray! But… why do you put the solar panels on your roof? I mean, the world doesn’t care if they are on your roof or somewhere else. And perhaps the roof of the neighbour actually catches more sun because it has a better angle. We are all so focussed on making the impact ourselves that we might sometimes forget that there are better opportunities a little farther from home. I mean it might feel good to have solar panels on your roof, but the world doesn’t care. I mean I’m all in favor of getting solar panels on your roof, but let’s not pretend this is the best thing you can do.
+* (\*\*) Yes, taking care of you family and friends and neighbours and fellow countrymen is really important. I’m not saying we shouldn’t do these things. It is really natural to care for these things and you should dedicate a part of your time and money to this. However I think it is also good to take a part of your time and money and dedicate this solely to helping the world as a whole. These two things don’t exclude each other and are both very important. Effective altruism is all about focussing on what is best for the world. This makes sense because you cannot have a worldwide movement which cares more about certain local problems than other local problems.
+* (?to test) I find that some people don’t know how donating to an effective charity compares to their personal efforts at minimizing the impact. I’m going to try and put some numbers on this for them. I expect this won’t work (as this is too rational). A number I calculated (the calculation is pretty easy) is: recycling a plastic bottle saves greenhouse gasses equal to the amount of greenhouse gasses saved by approximately donating 0.0001 euro  to CoolEarth (note: 1 euro is approximately equal to 1 dollar).
+* (?to test) Someone I recently met said she used to be all about minimizing her own impact. She said she changed towards EA once she realized that this would imply that no matter what she did she would always have a net negative impact in her life. I’ll experiment to see if this line of reasoning resonates with others as well.
 
 Recommendations:
 
-\* Probably obvious but: be sure to let them know very explicitly that you aren’t against being vegan, recycling waste etc.
-
-\* Anecdote or examples seem to work best as answer to these type of questions.
-
-\* I recommend using CO2 examples (or greenhouse gases) as it is well measureable, these people care about it and it is really really clear that it doesn’t matter where you emit the CO2. This saves a great lot of follow up questions.
-
-\* The tone that worked best for me was: really in favor of doing the small things, really understanding of why people might do this, but also quite firm in the message: “let us not kid ourselves that this is the best thing”.
+* Probably obvious but: be sure to let them know very explicitly that you aren’t against being vegan, recycling waste, etc.
+* An anecdote or examples seem to work best as answer to these type of questions.
+* I recommend using CO2 examples (or greenhouse gases) as it is well measurable, these people care about it and it is really really clear that it doesn’t matter where you emit the CO2. This saves a great lot of follow up questions.
+* The tone that worked best for me was: really in favor of doing the small things, really understanding of why people might do this, but also quite firm in the message: “let us not kid ourselves that this is the best thing”.
 
 **4.4 The unpredictable questions**
 
 Examples
 
-“What is the effect of treating people for Schistosomiasis on the ground water quality. Because of course these pills all end up in nature.”
-
-“But I heard that many people actually use the bed nets for fishing.The poison used to kill the mosquitos then ends up in the lakes killing all the fish and disrupting whole ecosystems.”
-
-“But I heard that when a charity comes in with a lot of bed nets it will put the local bed net suppliers out of order. I heard that there were whole bed net factories in \[some country I don’t remember] which were forced to close because of the big malaria prevention charities?”
-
-“But I heard that these bed nets are actually fabricated using child labor, is this true?”
-
-“But I heard that people don’t actually use the nets. They are much more often used as soccer nets or to keep the chicken pen etc. What do you know about this?”
-
-\[any question which you did not, and probably could not have prepared for]
+* _“What is the effect of treating people for Schistosomiasis on the ground water quality. Because of course these pills all end up in nature.”_
+* _“But I heard that many people actually use the bed nets for fishing.The poison used to kill the mosquitos then ends up in the lakes killing all the fish and disrupting whole ecosystems.”_
+* _“But I heard that when a charity comes in with a lot of bed nets it will put the local bed net suppliers out of order. I heard that there were whole bed net factories in \[some country I don’t remember] which were forced to close because of the big malaria prevention charities?”_
+* _“But I heard that these bed nets are actually fabricated using child labor, is this true?”_
+* _“But I heard that people don’t actually use the nets. They are much more often used as soccer nets or to keep the chicken pen etc. What do you know about this?”_
+* \[any question which you did not, and probably could not have prepared for]
 
 Question behind the question:
 
-I feel these questions are usually asked because someone has a pet project (one-trick ponies see section 3.2). Sometimes I feel they are just a result of general distrust of. Sometimes they just want to test you (which means you didn’t do a good job 10 minutes before) or they feel you are too mainstream (you only read stuff that the corporate elite wants you to read). Infrequently they did read an article somewhere and genuinely want your opinion (this does happen, but most people will opt for not asking the question at all or asking it to you personally after the workshop rather than in front of the group).
+I feel these questions are usually asked because someone has a pet project (one-trick ponies see [section 3.2](#sec-3-2)). Sometimes I feel they are just a result of general distrust of. Sometimes they just want to test you (which means you didn’t do a good job 10 minutes before) or they feel you are too mainstream (you only read stuff that the corporate elite wants you to read). Infrequently they did read an article somewhere and genuinely want your opinion (this does happen, but most people will opt for not asking the question at all or asking it to you personally after the workshop rather than in front of the group).
 
 Possible responses:
 
- (\*\*) Mention you frequently get these kind of questions and give them examples. Tell them that you don’t know the answer to this question but that you’ll look it up. Mention that the research is generally really thorough and that you haven’t encountered anyone in a workshop who came up with a question that hasn’t been thought of before so you feel safe to say that it probably will not be an issue.
-
-(?to test): Something better. I don’t know yet. Perhaps mention the importance of track record? Perhaps mention the importance of transparency? Perhaps not taking on the responsibility of answering this question? (But rather tell them to look it up themselves and let you know if they find anything)? Anyone any ideas?
+* (\*\*) Mention you frequently get these kind of questions and give them examples. Tell them that you don’t know the answer to this question but that you’ll look it up. Mention that the research is generally really thorough and that you haven’t encountered anyone in a workshop who came up with a question that hasn’t been thought of before so you feel safe to say that it probably will not be an issue.
+* (?to test): Something better. I don’t know yet. Perhaps mention the importance of track record? Perhaps mention the importance of transparency? Perhaps not taking on the responsibility of answering this question? (But rather tell them to look it up themselves and let you know if they find anything)? Anyone any ideas?
 
 Recommendations:
 
-\* These questions usually don’t really contribute anything for the whole group and I’d recommend trying to keep this answer short.
-
-\* The first couple of times I spend 4-6 hours looking up the answer of a single question. Because the questions are usually really specific there usually aren’t clear cut answers to be found. For example I once looked up the poison which is used to impregnate the nets and possible effects on water ecosystems. It does turn out to be really poisonous to fish (luckily not to mammals, except cats if I remember correctly). The nets do appear to be (very infrequently) used for fishing. Calculating things show me that massive fishing in a smaller lake with new nets does tend to make the concentration of the poison in the lake rise close to dangerous levels. However the half life time of the poison in water is about 3 days. This made me conclude that there any serious effects are unlikely. Now, this would have been worth my time if I’d have gotten this question more often (but I haven’t). So I stopped looking up these random questions. I recommend you not looking up every question you get until you know for sure it is something you’d be asked more frequently.
-
-\* I switched to climate change examples as I found these to yield fewer random unpredictable questions. I feel (non-extreme risks) climate change isn’t the most popular cause area in EA but as an example it is excellent.
+* These questions usually don’t really contribute anything for the whole group and I’d recommend trying to keep this answer short.
+* The first couple of times I spend 4-6 hours looking up the answer of a single question. Because the questions are usually really specific there usually aren’t clear cut answers to be found. For example I once looked up the poison which is used to impregnate the nets and possible effects on water ecosystems. It does turn out to be really poisonous to fish (luckily not to mammals, except cats if I remember correctly). The nets do appear to be (very infrequently) used for fishing. Calculating things show me that massive fishing in a smaller lake with new nets does tend to make the concentration of the poison in the lake rise close to dangerous levels. However the half life time of the poison in water is about 3 days. This made me conclude that there any serious effects are unlikely. Now, this would have been worth my time if I’d have gotten this question more often (but I haven’t). So I stopped looking up these random questions. I recommend you not looking up every question you get until you know for sure it is something you’d be asked more frequently.
+* I switched to climate change examples as I found these to yield fewer random unpredictable questions. I feel (non-extreme risk) climate change isn’t the most popular cause area in EA but as an example it is excellent.
 
 ## 5. General workshop tips
 
 Relevant if: you’re inexperienced in teaching/giving workshops.
 
-Although this document is mainly aimed at people already experienced in giving workshop I feel some low hanging fruit may be worthwhile. Here we go:
+Although this document is mainly aimed at people already experienced in giving workshop, I feel some low hanging fruit may be worthwhile. Here we go:
 
-\* Learn all names. It is surprisingly easy to learn the names of the participants and it guarantees you a much better atmosphere as things feel more personal. When they are introducing themselves just make a map of who is sitting where. Sometimes you know who is coming in advance and it helps just spending 15 minutes learning the names. I think everything up to 20 people and over 30 minutes is definitely worth it.
+Learn all names. It is surprisingly easy to learn the names of the participants and it guarantees you a much better atmosphere as things feel more personal. When they are introducing themselves just make a map of who is sitting where. Sometimes you know who is coming in advance and it helps just spending 15 minutes learning the names. I think everything up to 20 people and over 30 minutes is definitely worth it.
 
-\* Logistics is key. Never underestimate the importance of a good room, enough time and some food/drinks for participants. Enough time is usually achieved by making a flexible planning (not a fixed planning). My worst workshop I gave was one where I had 30 minutes, the beamer didn’t work, during a lunch break (people were eating) in a room where I was barely audible.
+Logistics is key. Never underestimate the importance of a good room, enough time and some food/drinks for participants. Enough time is usually achieved by making a flexible planning (not a fixed planning). My worst workshop I gave was one where I had 30 minutes, the beamer didn’t work, during a lunch break (people were eating) in a room where I was barely audible.
 
-\* Expectation management. People often expect you to deliver the world in a single workshop (which you can’t). In case of a career workshop they somehow expect a really neat answer to a lot of the problems they have been struggling with in the past 2 years… in 2 hours. Good expectation management starts with the promotion (paint an accurate picture of what will be going on) and continues in your introduction (where I think it is a good habit to remind people that you can do only so much in 2 hours). I once had a girl say at the end of the workshop in the feedback form: “Overall impression: mediocre. The workshop was good, but not perhaps what I had in mind. I would recommend this to people if they’re interested in cognicence when being altruistic.” She expected things to be less rational (!?).
+Expectation management. People often expect you to deliver the world in a single workshop (which you can’t). In case of a career workshop they somehow expect a really neat answer to a lot of the problems they have been struggling with in the past 2 years… in 2 hours. Good expectation management starts with the promotion (paint an accurate picture of what will be going on) and continues in your introduction (where I think it is a good habit to remind people that you can do only so much in 2 hours). I once had a girl say at the end of the workshop in the feedback form: “Overall impression: mediocre. The workshop was good, but not perhaps what I had in mind. I would recommend this to people if they’re interested in cognicence when being altruistic.” She expected things to be less rational (!?).
 
-\* Be pragmatic in clothes/slides. As stated in section 3.3 it does matter a lot. So put your best foot forward, which in this case is your most vain and superficial foot.
+Be pragmatic in clothes/slides. As stated in section 3.3 it does matter a lot. So put your best foot forward, which in this case is your most vain and superficial foot.
 
-\* When looking for organisations to host your workshop, leverage your connections. Sjir and I found that doing an approach where you didn’t know anyone was nearly impossible. But having one enthusiastic person in a company makes it much easier. Just mentioning someone’s name can literally open doors.
+When looking for organisations to host your workshop, leverage your connections. Sjir and I found that doing an approach where you didn’t know anyone was nearly impossible. But having one enthusiastic person in a company makes it much easier. Just mentioning someone’s name can literally open doors.
 
-\* Promotion does matter a lot. One time at a really big university (workshop #6)  we had 15 participants. Another time someone else did the promotion and we had around 50 applications for only 20 spots in a much smaller university (workshop #7). This last one had a selection based on resume. Just one datapoint, but it might be worth noting that announcing a selection based on CV can be a good idea.
+Promotion does matter a lot. One time at a really big university (workshop #6)  we had 15 participants. Another time someone else did the promotion and we had around 50 applications for only 20 spots in a much smaller university (workshop #7). This last one had a selection based on resume. Just one datapoint, but it might be worth noting that announcing a selection based on CV can be a good idea.
 
-\* When giving workshops professionally I’ve found that if you ask more money you are on average actually more likely to be hired. Rather surprising, but perhaps this is because they feel you’re more of a professional if you ask more. As an indication, around 9/13 workshop I did for free (because I felt it would be really effective). When I do the workshops professionally I currently ask around 1250 euro for 4 hours (excl VAT).
+When giving workshops professionally I’ve found that if you ask more money you are on average actually more likely to be hired. Rather surprising, but perhaps this is because they feel you’re more of a professional if you ask more. As an indication, around 9/13 workshop I did for free (because I felt it would be really effective). When I do the workshops professionally I currently ask around 1250 euro for 4 hours (excl VAT).
 
-\* How many people come and talk to you afterwards seems a fair an indication of quality.
+How many people come and talk to you afterwards seems a fair an indication of quality.
 
-\* When doing a workshop/lecture for an unfamiliar audience I find it always really helps to try and find some video clips or written documents (notes of a meeting). This usually really helps me to determine how to dress, behave and which workshop style to go for.
+When doing a workshop/lecture for an unfamiliar audience I find it always really helps to try and find some video clips or written documents (notes of a meeting). This usually really helps me to determine how to dress, behave and which workshop style to go for.
 
-\* If your talk is part of something bigger (a meeting, a conference) someone might be writing a summary of your talk afterwards. Try to get your hands on these as they give you an idea of how someone in your audience has perceived your talk. Sometimes this makes you happy and sometimes really sad. My saddest anecdote is about notes which included the following line: “according to effective altruism the top-3 charities are: Against malaria foundation, no poverty and SCI (Service Civil International)”. I have no clue how they got this idea, I never said that these are the overall top-3 charities, I’m completely unfamiliar with any charity called “no poverty” and Schistosomiasis Control Initiative somehow became Service Civil International.
+If your talk is part of something bigger (a meeting, a conference) someone might be writing a summary of your talk afterwards. Try to get your hands on these as they give you an idea of how someone in your audience has perceived your talk. Sometimes this makes you happy and sometimes really sad. My saddest anecdote is about notes which included the following line: “according to effective altruism the top-3 charities are: Against malaria foundation, no poverty and SCI (Service Civil International)”. I have no clue how they got this idea, I never said that these are the overall top-3 charities, I’m completely unfamiliar with any charity called “no poverty” and Schistosomiasis Control Initiative somehow became Service Civil International.
 
-\* Avoid the mathematics teacher’s fallacy. Stories like the one above, articles like this one and basic common sense show us the importance of being accurate, having high fidelity and being nuanced in how and what you communicate. There is one caveat however which I call the mathematics teacher’s fallacy. Imagine someone teaching multiplication to primary school children in the following ways:
+Avoid the mathematics teacher’s fallacy. Stories like the one above, articles like this one and basic common sense show us the importance of being accurate, having high fidelity and being nuanced in how and what you communicate. There is one caveat however which I call the mathematics teacher’s fallacy. Imagine someone teaching multiplication to primary school children in the following ways:
 
 “Multiplication is an arithmetical operation, defined initially in terms of repeated addition, usually written a × b, a.b, or ab, by which the product of two quantities is calculated: to multiply a by positive integral b is to add a to itself b times. Multiplication by fractions can then be defined in the light of the associative and commutative properties; multiplication by 1/n is equivalent to multiplication by 1 followed by division by n.”
 
