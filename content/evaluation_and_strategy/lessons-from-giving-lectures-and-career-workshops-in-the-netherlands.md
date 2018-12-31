@@ -516,7 +516,7 @@ See [section 6.3.4](#sec-6-3-4) for this.
 
 Use case: many, perhaps especially effective for lectures for a bigger audience.
 
-Rationale: I haven’t tried this (I haven’t any proper anecdotes) but have seen this used to great effect. Someone I find who does this to great effect is Kellie Liket (unfortunately I could only find talks in dutch, example)
+Rationale: I haven’t tried this (I haven’t any proper anecdotes) but have seen this used to great effect. Someone I find who does this to great effect is Kellie Liket (unfortunately, I could only find talks in Dutch, [example](https://www.youtube.com/watch?v=d2c8AUH7vCw))
 
 **6.2 Happiness / job satisfaction (\*\**)**
 
@@ -534,7 +534,7 @@ Ask them to think what makes people happy in jobs. Keep going for 10 minutes and
 
 Recommendation:
 
-\* This takes a really long time to prepare (as you basically need to know and understand most of the research on this). I don’t remember where I got all my info from (I haven’t done this one in nearly 2 years) but I do recommend 80000hours.org (obviously) and reading everything in https://en.wikipedia.org/wiki/Category:Motivational_theories
+* This takes a really long time to prepare (as you basically need to know and understand most of the research on this). I don’t remember where I got all my info from (I haven’t done this one in nearly 2 years) but I do recommend [80000hours.org](https://80000hours.org/) (obviously) and reading everything in <https://en.wikipedia.org/wiki/Category:Motivational_theories>
 
 **6.2.2 Just tell them (\*\**)**
 
@@ -546,11 +546,9 @@ Just telling them works pretty good on this subject.
 
 Recommendation:
 
-\* Show some of the nice pictures from the 80.000hours website (also see the supporting material for the things I use)
-
-\* Usually your local government has done some research on their population’s happiness and the underlying causes. Since this seems closer at hand it might feel more relevant to your audience.
-
-\* Always make sure they guess first. If you don’t the things will feel obvious (“oh, I knew this already”) whereas if they guess first they can come up with a list of 10+ things and then it is surprising to them to hear which of these have the highest impact.
+* Show some of the nice pictures from 80,000 Hours' website (also see [the supporting material](https://drive.google.com/drive/folders/1AGtll2uw1TtFTCNWdVVM-S83P7thi2SK?usp=sharing) for the things I use)
+* Usually your local government has done some research on their population’s happiness and the underlying causes. Since this seems closer at hand it might feel more relevant to your audience.
+* Always make sure they guess first. If you don’t the things will feel obvious (“oh, I knew this already”) whereas if they guess first they can come up with a list of 10+ things and then it is surprising to them to hear which of these have the highest impact.
 
 **6.3 Introducing EA (\*\*\*\*)**
 
@@ -562,25 +560,32 @@ Duration: 30 minutes
 
 Explanation:
 
-A quiz in groups of two. Start with a couple of disclaimers: i. if you find some answer of mine is wrong, come to me after the quiz and you’ll win eternal glory retroactively, ii. there usually is a really big difference between the answers so small changes will not affect the answers. Example question: Assume you have a 10 year old freezer and a 10 year old washing machine. Which is better to replace when regarding electricity usage? The freezer or the washing machine? (correct answer is the freezer… because: i. turned on 24/7, ii. technology for freezers has improved a lot more than for washing machines in the past 10 years) All questions page 10-14. As a last question you can have them guess how many correct answers they have (on average they seriously overestimate this). Afterwards you give the answers and the group with most correct answers wins eternal glory (or a copy of William MacAskill's book :P). After the quiz you introduce EA by showing that the principles which led to the correct answers in the everyday altruism quiz also hold on a bigger scale (different orders of magnitude between answers, counterintuitive answers etc.).
+A quiz in groups of two. Start with a couple of disclaimers:
+
+i. if you find some answer of mine is wrong, come to me after the quiz and you’ll win eternal glory retroactively,
+
+ii. there usually is a really big difference between the answers so small changes will not affect the answers.
+
+Example questions:
+
+* Assume you have a 10 year old freezer and a 10 year old washing machine. Which is better to replace when regarding electricity usage? The freezer or the washing machine? (correct answer is the freezer… because: i. turned on 24/7, ii. technology for freezers has improved a lot more than for washing machines in the past 10 years)
+* [All questions](https://drive.google.com/file/d/1LLj7JkTUMmnHTZZzRi4gDttEfnLS65b8/view) page 10-14.
+* As a last question you can have them guess how many correct answers they have (on average they seriously overestimate this).
+
+Afterwards you give the answers and the group with most correct answers wins eternal glory (or a copy of William MacAskill's book :P). After the quiz you introduce EA by showing that the principles which led to the correct answers in the everyday altruism. The quiz also holds on a bigger scale (different orders of magnitude between answers, counter-intuitive answers, etc.).
 
 Rationale:
 
-\* The questions are designed to: i. touch upon things they do everyday, ii. make them realize that thinking about this is actually useful.
-
-\* For some reason after this quiz they treat me like I’m really competent they suddenly are much less critical of what I say.
-
-\* The disclaimers in the beginning are important to avoid discussions
+* The questions are designed to: i. touch upon things they do everyday, ii. make them realize that thinking about this is actually useful.
+* For some reason after this quiz they treat me like I’m really competent they suddenly are much less critical of what I say.
+* The disclaimers in the beginning are important to avoid discussions
 
 Recommendations:
 
-\* Ensure it doesn’t take more than 30 minutes (I once took 45 minutes out of 2 hours and not everyone liked that)
-
-\* This exercise also  works well as a warming up (possible combining with introduction described in section 6.1.2) and thus save time on introductions
-
-\* Don’t forget to make fun of the losing team for the remainder of the workshop (for example when you’re saying something like “\[something EA…] can have very counterintuitive results” pointedly look at the losing group with a big smile :D).
-
-\* Make sure you’re really sure about the answers ☺ otherwise it will not come across as convincing
+* Ensure it doesn’t take more than 30 minutes (I once took 45 minutes out of 2 hours and not everyone liked that)
+* This exercise also  works well as a warming up (possible combining with introduction described in section 6.1.2) and thus save time on introductions
+* Don’t forget to make fun of the losing team for the remainder of the workshop (for example when you’re saying something like “\[something EA…] can have very counterintuitive results” pointedly look at the losing group with a big smile :D).
+* Make sure you’re really sure about the answers ☺ otherwise it will not come across as convincing
 
 **6.3.2 Applied philosophy (\*\*\*\*)**
 
@@ -588,7 +593,7 @@ Use case: introduction events, attracting talent, mixed audience of new and expe
 
 Duration: 3 hours
 
-Rationale: Many of the formats I explain here are really focussed on telling them about the conclusions of EA. But I think when looking at the paths many experienced EA people took getting to the point they are now it involved many more twists and turns. We usually start out as some form of (slumbering) utilitarians/consequentialists and then we slowly move through a lot of questions, looking things up online and discussion with other people. This format aims to reflect this path. It allows time for discussion on the foundations of EA. I really like this because it allows for accurate self-selection: if people don’t like discussions at a fundamental level, I’d argue that they aren’t a good fit for EA, while on the other hand if they do like these discussions, they likely are a good fit for EA.
+Rationale: Many of the formats I explain here are really focused on _telling_ them about the conclusions of EA. But I think when looking at the paths many experienced EA people took getting to the point they are now it involved many more twists and turns. We usually start out as some form of (slumbering) utilitarians/consequentialists and then we slowly move through a lot of questions, looking things up online and discussion with other people. This format aims to reflect this path. It allows time for discussion on the foundations of EA. I really like this because it allows for accurate self-selection: if people don’t like discussions at a fundamental level, I’d argue that they aren’t a good fit for EA, while on the other hand if they do like these discussions, they likely are a good fit for EA.
 
 Explanation:
 
