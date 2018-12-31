@@ -135,7 +135,7 @@ I’m saddened at the fact that I have to give these recommendations (I’d rath
 
 1. Avoid doing workshops for traditionalists groups. I found it to be hard to get right and I think that as EAs we should be extra careful of how we portray ourselves towards traditional altruism. If you really feel like you want to do this I definitely recommend spending some time getting to know them. It is really sad as these people are supposed to be our brothers and sisters in arms. Does any of you know if there are any good articles out there which outline how EA wants to deal with more traditional altruism?
 2. In any workshop you frequently have traditionalists. It is therefore worth it to dress well, make your slides real pretty and make sure everything seems well organized (notice the emphasis on seems). Avoid dressing like a student, avoid flimsy material. And to be honest I think that getting your local pretty girl, or someone bald with glasses to do the talk will actually be a boon as well (not saying I’m liking this!).
-3. Your first 3 minutes are the most important to them since that is when they seem to form their opinion. Most other people don’t really care about your first couple of minutes so I usually focus my first 3 minutes solely on traditionalists. Tips: a. brag about yourself but conceal it as giving relevant background information, b. ASAP frame EA as new and upcoming(makes them feel like they are all up-to-date) but already big (over 500 million a year is donated with EA in mind) and imply that more grantmakers are moving in an EA direction. See section 6.3.4 for a lecture specifically designed for traditionalists and more tips on how to start if you expect a lot of these people in your workshop..
+3. Your first 3 minutes are the most important to them since that is when they seem to form their opinion. Most other people don’t really care about your first couple of minutes so I usually focus my first 3 minutes solely on traditionalists. Tips: a. brag about yourself but conceal it as giving relevant background information, b. ASAP frame EA as new and upcoming(makes them feel like they are all up-to-date) but already big (over 500 million a year is donated with EA in mind) and imply that more grantmakers are moving in an EA direction. See [section 6.3.4](#sec-6-3-4) for a lecture specifically designed for traditionalists and more tips on how to start if you expect a lot of these people in your workshop..
 4. Mention the SDG’s somewhere in your lecture (don’t call them Sustainable Development Goals, who still does that, yikes!)
 5. Get to know them. This tip isn’t something which will bring you lots of results in a short time, but in the end there is no substitute for really knowing your audience. I once decided to join a traditional sustainability conference and it really made me realize just how different from an EAG conference it was. I suggest you try it! Or if you want to have an easier time, I’ve looked up some material which is pretty OK (and I imagine you’ll have a good time looking at this).
 
@@ -461,7 +461,7 @@ Recommendation:
 
 * You can also let them make the list during your workshop, but this takes a lot of time.
 
-**6.1.2 Stand and choose (\*\*\*\*)**
+<a name="sec-6-1-2></a>**6.1.2 Stand and choose (\*\*\*\*)**
 
 Use case: shorter workshops, medium formality
 
@@ -583,7 +583,7 @@ Rationale:
 Recommendations:
 
 * Ensure it doesn’t take more than 30 minutes (I once took 45 minutes out of 2 hours and not everyone liked that)
-* This exercise also  works well as a warming up (possible combining with introduction described in section 6.1.2) and thus save time on introductions
+* This exercise also  works well as a warming up (possible combining with introduction described in [section 6.1.2](#sec-6-1-2)) and thus save time on introductions
 * Don’t forget to make fun of the losing team for the remainder of the workshop (for example when you’re saying something like “\[something EA…] can have very counter-intuitive results” pointedly look at the losing group with a big smile :D).
 * Make sure you’re really sure about the answers ☺ otherwise it will not come across as convincing
 
