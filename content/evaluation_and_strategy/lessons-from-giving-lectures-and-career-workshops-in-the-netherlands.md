@@ -284,15 +284,11 @@ Asked by: warm fuzzy altruists and traditionalists
 
 Possible responses (summarized & paraphrased: I noticed other people had much better answers than I did so here they are):
 
-\* Natalie Cargill (\*\*\*\*\*): EA isn’t about just measuring everything, it is about careful reasoning and analysis. Even when, or perhaps especially when things are hard we need to do this.
-
-\* Sjir Hoeijmakers  (\*\*\**):  In helping the world we’d prefer to do everything for everyone. Unfortunately we do not yet live in a world where this is possible so we are forced to make choices. Hard choices, sometimes unpleasant choices, but choices we have to make and we can either make them transparently and consciously or make them unconsciously and implicitly.
-
-\* Adrian de Groot (\*\*\*): We need to quantify these as the only alternative is doing things based on our gut feeling and from behavioral psychology we all know how well that works.
-
-\* Alje (\**): failed (too much new stuff for the audience, doesn’t really work) You’d expect two different causes to have a 10% difference in effectiveness. In reality the difference might easily be a factor 10 or even 100. So even with a lot of uncertainty the differences are still big enough to get an accurate picture.
-
-\* Alje (\*): failed (too complicated, easily misconstrued and they don’t like the implication of focussing on things which are easy to measure) Some causes are really hard to measure, some causes are easier to measure. Comparing between causes which are easier to measure will be easier and thereby the comparison between those causes will be better. You’d therefore expect the expected best easy to measure cause to be more effective than the expected best hard to measure cause (assuming no a priori difference in the effectiveness distribution depending on how easy it is to measure). Since money now seems allocated with little regard for how easy it is to measure a cause you’d expect the easy to measure causes to be underfunded. It therefore makes sense at the moment to focus more on things which are easy to measure.
+* Natalie Cargill (\*\*\*\**): EA isn’t about just measuring everything, it is about careful reasoning and analysis. Even when, or perhaps especially when things are hard we need to do this.
+* Sjir Hoeijmakers  (\*\*\*\*):  In helping the world we’d prefer to do everything for everyone. Unfortunately we do not yet live in a world where this is possible so we are forced to make choices. Hard choices, sometimes unpleasant choices, but choices we have to make and we can either make them transparently and consciously or make them unconsciously and implicitly.
+* Adrian de Groot (\*\**): We need to quantify these as the only alternative is doing things based on our gut feeling and from behavioral psychology we all know how well that works.
+* Alje (\*\*): failed (too much new stuff for the audience, doesn’t really work) You’d expect two different causes to have a 10% difference in effectiveness. In reality the difference might easily be a factor 10 or even 100. So even with a lot of uncertainty the differences are still big enough to get an accurate picture.
+* Alje (*): failed (too complicated, easily misconstrued and they don’t like the implication of focussing on things which are easy to measure) Some causes are really hard to measure, some causes are easier to measure. Comparing between causes which are easier to measure will be easier and thereby the comparison between those causes will be better. You’d therefore expect the expected best easy to measure cause to be more effective than the expected best hard to measure cause (assuming no a priori difference in the effectiveness distribution depending on how easy it is to measure). Since money now seems allocated with little regard for how easy it is to measure a cause you’d expect the easy to measure causes to be underfunded. It therefore makes sense at the moment to focus more on things which are easy to measure.
 
 <a name="sec-4-2"></a>**4.2 Holistic**
 
