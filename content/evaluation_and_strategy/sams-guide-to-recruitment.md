@@ -144,23 +144,23 @@ See the 2 minute THINK tabling pitch, tweak it to your audience and conversation
 
 ## 4. A popular event
 
-Find a famous person (and host an awesome launch event)
+**Find a famous person (and host an awesome launch event)**
 
 Are there any famous academics or other famous people (journalists, politicians, etc) either at your university or in your university town. Also have a look at our list of potential famous speaker here.  Contact them (calling or writing is better than email), explain THINK and ask if they would be willing to talk at a THINK event.
 
-(If they turn you down ask if they would officially endorse THINK / become an official patron of the student group, / provide a supportive quote / etc)
+(If they turn you down, ask if they would officially endorse THINK / become an official patron of the student group / provide a supportive quote / etc.)
 
-Get students to perform (and hold a awesome launch event/party)
+**Get students to perform (and hold a awesome launch event/party)**
 
 Can’t find someone famous. Lots of student bands, dance, music or comedy groups will perform for free for a good cause, if asked. Furthermore they will bring all their friends to the show. Combined with a few pitches for THINK this could be an excellent way of getting your name out or running a THINK launch event/party
 
 Feel free to contact me for help with a launch event, at: sam@thelifeyoucansave.org.
 
-Other events
+**Other events**
 
 Consider other possible popular events with an EA twist, such as a “How-to-improve-the-world- themed speed dating”. Try to tap existing networks, such as holding the event with a particular food hall or college. We have a donor who will put money towards Giving Games. If you run one of these, link the amount of money that goes to charity to the amount of people who attend. To get a game set up email: giving@thehighimpactnetwork.org.
 
-Action:
+**Action:**
 
 List either 4 famous people to contact OR 4 student bands / entertainment groups
 
@@ -174,29 +174,29 @@ List either 4 famous people to contact OR 4 student bands / entertainment groups
 
 - - -
 
-**5. Non-targeted outreach**
+## 5. Non-targeted outreach
 
-Send around more emails:
+**Send around more emails**
 
 To interested faculty members / to grad students / to relevant departments / to everybody you know / to any mailing lists you are part off / etc. In the email ask people to forward them on.
 
-Advertise online:
+**Advertise online**
 
-Create a facebook page (see the tips here). Invite all of your friends to join. Ask for shares from other college connected pages.
+Create a Facebook page (see the tips here). Invite all of your friends to join. Ask for shares from other college connected pages.
 
-Put up flyers:
+**Put up flyers**
 
-In dorms / on dorm billboards, walls and doors / in dorm bathrooms & stalls / in hallways and elevators / in locations designated for flyers / at bus stops or community centers. (Sample flyers can be found here)
+In dorms / on dorm billboards, walls and doors / in dorm bathrooms & stalls / in hallways and elevators / in locations designated for flyers / at bus stops or community centers. (Sample flyers can be found here.)
 
-Get in the news
+**Get in the news**
 
 Get mentioned in the local and school newspapers & radio stations. Issues press releases, talk with reporters, and talk with your university’s press-relations officer.
 
-Action:
+**Action:**
 
-Create a facebook page for your meetup (see the tips here)
+Create a Facebook page for your meetup (see the tips here).
 
-Tabeling advice
+## Tabling advice
 
 **WHERE AND WHEN**
 
