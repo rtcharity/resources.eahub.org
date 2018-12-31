@@ -4,7 +4,7 @@ date: 2018-11-22T19:31:01.606Z
 description: >-
   The EA community actively grows through word of mouth and on the internet to a
   degree many organizations may not notice, and there is consistent demand for
-  volunteer opportunities.
+  volunteers.
 illustration: /img/hublego.png
 tag: popular
 author: Evan Gaensbauer
@@ -26,7 +26,7 @@ There is a lot of discussion in effective altruism about how to use one's career
 * Unskilled individuals who for whatever reason don't have the opportunities for higher education or skills-building to lead a high-impact career available to them, but are nonetheless eager to volunteer their time for a high-impact cause.
 * Homemakers, stay-at home parents, retirees and other supporters of effective altruism who have time to spare but aren't seeking to (re-)enter the workplace for the foreseeable future.
 
-There are also several organizations part of the effective altruism or allied movements focused on causes common to EA which primarily focus on research, outreach and advocacy, Often these organizations depend on volunteers to keep costs low, spread awareness, raise funds, and run their projects. The EA community actively grows through word of mouth and on the internet to a degree many organizations may not notice, and there is consistent demand for volunteer opportunities. They're out there, but they're not written down all in one place. I've surveyed organizations in and around EA for volunteer opportunities, and I've compiled them below. For the purposes of this master list, "volunteering" is broadly defined as a designated activity or task an effective altruist can take up in their spare time. 
+There are also several organizations part of the effective altruism or allied movements focused on causes common to EA which primarily focus on research, outreach and advocacy. Often these organizations depend on volunteers to keep costs low, spread awareness, raise funds and run their projects. The EA community actively grows through word of mouth and on the internet to a degree many organizations may not notice, and there is consistent demand for volunteer opportunities. They're out there, but they're not written down all in one place. I've surveyed organizations in and around EA for volunteer opportunities, and I've compiled them below. For the purposes of this master list, "volunteering" is broadly defined as a designated activity or task an effective altruist can take up in their spare time. 
 
 ## How to Read This List
 
