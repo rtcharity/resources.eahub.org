@@ -2,9 +2,8 @@
 title: Remote Volunteering Opportunities in Effective Altruism
 date: 2018-11-22T19:31:01.606Z
 description: >-
-  The EA community actively grows through word of mouth and on the internet to a
-  degree many organizations may not notice, and there is consistent demand for
-  volunteers.
+  Evan Gaensbauer surveyed organizations in and around EA for volunteer
+  opportunities and compiled them in an article.
 illustration: /img/hublego.png
 tag: popular
 author: Evan Gaensbauer
