@@ -143,7 +143,7 @@ The [Foundational Research Institute (FRI)](https://foundational-research.org/) 
 
 [The Existential Risk Research Assessment (TERRA)](http://www.x-risk.net/about/) is a project by the Cambridge [Centre for the Study of Existential Risk](https://www.cser.ac.uk/) combining volunteer efforts with machine learning. TERRA accesses a searchable database of academic research, and uses human feedback on the relevance of the research to existential risk studies to train an ML "recommendation engine" to do the job of automatically constructing x-risk bibliographies. You can [sign up here](http://www.x-risk.net/signup/) to join TERRA.
 
-[Allfed](http://allfed.info/) focuses on creating solutions to feed everyone in the event of catastrophes both local and global in scale, and so is focused on both extreme global poverty alleviation and existential risk reduction. Since they are working in so many countries around the world, and the scope of their work is constantly expanding, they need researchers, developers, clerical assistance, and specialists in different countries and major languages. You can apply by contacting [Allfed](http://allfed.info/contact/).
+[ALLFED](http://allfed.info/) focuses on creating solutions to feed everyone in the event of catastrophes both local and global in scale, and so is focused on both extreme global poverty alleviation and existential risk reduction. Since they are working in so many countries around the world, and the scope of their work is constantly expanding, they need researchers, developers, clerical assistance, and specialists in different countries and major languages. You can apply by contacting [ALLFED](http://allfed.info/contact/).
 
 **EA Community (e.g., Movement-Building, Education, Outreach, etc.)**
 
@@ -151,7 +151,7 @@ The [Foundational Research Institute (FRI)](https://foundational-research.org/) 
 
 [Rethink Charity (RC)](https://rtcharity.org/) is an EA community organization focused on movement-building and other high-impact projects such as SHIC, the [Local Effective Altruism Network (LEAN)](https://rtcharity.org/lean/), [Rethink Priorities](http://rethinkpriorities.org/) and the annual Effective Altruism Survey. RC has similar volunteer opportunities to SHIC. From Rethink Charity's website: 
 
-* As a member of the Rethink Charity team, you will wear many hats. Although we try to match tasks with skill level, you will regularly be given the chance to try new things. You have the potential to get familiar with project management, copy writing and editing, web development, web marketing, outreach, communications, donor stewardship, and more!
+> As a member of the Rethink Charity team, you will wear many hats. Although we try to match tasks with skill level, you will regularly be given the chance to try new things. You have the potential to get familiar with project management, copy writing and editing, web development, web marketing, outreach, communications, donor stewardship, and more!
 
 [Check out their website](https://rtcharity.org/volunteer/) to get involved. RC also provides support for online fundraisers for [high-impact charities](https://fundraisers.causevox.com/) such as the Against Malaria Foundation, the Schistosomiasis Control Initiative, GiveDirectly, Cool Earth and Project Healthy Children, including as a [birthday fundraiser](https://birthday.causevox.com/).
 
