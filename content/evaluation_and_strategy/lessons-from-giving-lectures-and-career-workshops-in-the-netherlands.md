@@ -942,4 +942,4 @@ I’ll be responding to comments in the [corresponding forum post](https://forum
 >
 > Help I can provide: Depending on your needs this help could consist of sourcing and modifying materials, giving feedback on practice presentations and guidance on reaching out to groups who might be interested in learning about EA.
 >
-> If you are interested, please get in touch with me[ by facebook](https://www.facebook.com/cafelow) messaging me, or emailing catherine@highimpactstudents.org.
+> If you are interested, please get in touch with me [by facebook](https://www.facebook.com/cafelow) messaging me, or emailing catherine@highimpactstudents.org.
