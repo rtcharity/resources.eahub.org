@@ -47,7 +47,7 @@ Relevant if: you’re interested to see how my findings can (or cannot) be gener
 
 Master of Applied Mathematics (University of Twente / University of Cambridge) followed by a master degree in teaching. Taught in a public high school for 1 year and in a private school for the following 6 years. Also have been teaching teachers for 4 years now. I have my own company giving workshops on giving presentations for 3 years.
 
-**2.2 Workshops done**
+<a name="sec-2-2"></a>**2.2 Workshops done**
 
 All workshops have taken place in the Netherlands. Usually at the location of the audience (they usually arranged a location for me).  I feel my workshops cover a lot of different audiences, durations and workshop types. In total I think I spend around 400 hours preparing, giving and reflecting on the workshops. The most noteworthy workshops in chronological order (between brackets are the section numbers of the exercises I did). Note: this is boring.
 
@@ -165,7 +165,7 @@ Recommendation:
 * When they go off topic, I noticed little to no effect in trying to point out the logical flaws in their reasoning. Nowadays I usually just let them explain what they like, agree with how terrible things can be, and then try to steer things back on track ASAP.
 * I don’t feel these people are usually the best fit for EA. I therefore don’t put a lot of effort into convincing these people. I usually tease them a little (challenge their way of thinking) and see if it sticks and, if it doesn’t, that’s fine.
 * I recommend [6.3.1 The everyday altruism quiz](#sec-6-3-1) if you expect an audience consisting of many warm fuzzy altruists.
-* See section 4.3 for more info on a type of question frequently asked by warm fuzzy altruists
+* See [section 4.3](#sec-4-3) for more info on a type of question frequently asked by warm fuzzy altruists
 
 **3.5 The Capitalist**
 
@@ -175,27 +175,20 @@ They lack: a social circle where altruism is important, the belief that aiming t
 
 Frequency: only occurs in specific audiences
 
-Two times I gave workshops to a group of people who were very far from altruism (workshop 2 and workshop 9 in the list in section 2.2). These people tend to be skeptical about the effectiveness of altruism in general and or don’t feel like it is worth a lot. They are more inclined to wear suits, often aim to go into politics or business and expect to earn a lot of money strategy consulting. They sometimes go looking for a discussion just for the sake of it (the intellectual and social challenge). I feel they aren’t really against altruism, they just have been in surroundings where other values were more pronounced.
+Two times I gave workshops to a group of people who were very far from altruism (workshop 2 and workshop 9 in the list in [section 2.2](#sec-2-2)). These people tend to be skeptical about the effectiveness of altruism in general and or don’t feel like it is worth a lot. They are more inclined to wear suits, often aim to go into politics or business and expect to earn a lot of money strategy consulting. They sometimes go looking for a discussion just for the sake of it (the intellectual and social challenge). I feel they aren’t really against altruism, they just have been in surroundings where other values were more pronounced.
 
-In a workshop they can be really sceptical (also see yellers in section 3.7). But usually they are pleasantly surprised by EA (they probably expected a warm fuzzy altruist to do the talk).
+In a workshop they can be really skeptical (also see yellers in [section 3.7](#sec-3-7)). But usually they are pleasantly surprised by EA (they probably expected a warm fuzzy altruist to do the talk).
 
 Recommendations:
 
-\* In my experience this is a surprisingly good audience. They quickly take to the efficiency/effectiveness of EA.  
-
-\* Don’t push them to do altruism (they’ll just push right back), instead just focus on “given that you want to do altruism, what is the most effective way to do this?”
-
-\* Say you’re not there to preach (this is what they expect and would dislike)
-
-\* Make sure that they know that you choose EA because you like it, not because you didn’t have another choice. Usually involves some bragging at the start (disguised as giving background information).
-
-\* Start from a point of happiness as a common ground and mention how being altruistic can help someone to be happy.
-
-\* Take a good and easy example (AMF, coolearth) to deal with skepticism and to prove that at least some charities actually work.
-
-\* Do not be afraid to criticise some charities (if you aren’t skeptical about some charities they will see you as someone who doesn’t engage in critical thinking
-
-\* Embrace them being sceptical (this is a personality trait we love!). Sometimes they might apologise themselves or other people will apologise for them (tell them that you love it).
+* In my experience this is a surprisingly good audience. They quickly take to the efficiency/effectiveness of EA.  
+* Don’t push them to do altruism (they’ll just push right back), instead just focus on “given that you want to do altruism, what is the most effective way to do this?”
+* Say you’re not there to preach (this is what they expect and would dislike)
+* Make sure that they know that you choose EA because you like it, not because you didn’t have another choice. Usually involves some bragging at the start (disguised as giving background information).
+* Start from a point of happiness as a common ground and mention how being altruistic can help someone to be happy.
+* Take a good and easy example (AMF, Cool Earth) to deal with skepticism and to prove that at least some charities actually work.
+* Do not be afraid to criticise some charities (if you aren’t skeptical about some charities they will see you as someone who doesn’t engage in critical thinking
+* Embrace them being skeptical (this is a personality trait we love!). Sometimes they might apologise themselves or other people will apologise for them (tell them that you love it).
 
 **3.6. The (genetic) lottery winner**
 
@@ -205,29 +198,25 @@ Frequency: 1 in 10
 
 Some people are lucky in the lottery of nature. Some of these are even lucky in the lottery of nurture as well. And some of these are even lucky in general as well. Meet what I call the (genetic) lottery winner. Specifically I’d like to look at people who happen to be top 1% regarding intelligence (in a well rounded way), above average in both social skills and looks and who happen to have had a loving family, have a good group of friends and not have life deal them overly many bad cards. I’m not talking perfect on every scale, just (well) above average in a well rounded way. I notice that these people generally develop personalities to score relatively high on: independence, contentment, openness, conscientiousness and low on: neuroticism.
 
-Almost by definition these people must exist. Needless to say, these people are great catches for EA (if only for their general mental ability). I feel that they actually, compared to other people, are relatively likely to attend your workshop (hence the frequency 1 in 10) and usually quick to grasp and agree with the EA mindset. So everything seems right with the world. So where is the catch?
+Almost by definition these people must exist. Needless to say, these people are great catches for EA (if only for their [general mental ability](https://80000hours.org/2017/11/talent-gaps-survey-2017/)). I feel that they actually, compared to other people, are relatively likely to attend your workshop (hence the frequency 1 in 10) and usually quick to grasp and agree with the EA mindset. So everything seems right with the world. So where is the catch?
 
-I believe there are three challenges, first of all, although they are a great catch they aren’t an easy catch by any means. EA isn’t the only organisation looking for the genetic lottery winner. And since my goal was to scout talent to work for EA directly, EA needs to compete with companies like google, BCG and your local employer of the year. Assuming the genetic lottery winner cares for job satisfaction (instead of only altruism) this requires EA to compete with all other companies on things as colleagues, hygiene factors, growth opportunities, pay etc. So suddenly your presentation isn’t just about the effectiveness of effective altruism anymore but also about being inspiring, friendly, warm, welcoming etc. This adds a whole new dimension, and a hard dimension at that, to your workshops. A dimension which hardly matters for other groups.
+I believe there are three challenges, first of all, although they are a great catch they aren’t an easy catch by any means. EA isn’t the only organisation looking for the genetic lottery winner. And since my goal was to scout talent to work for EA directly, EA needs to compete with companies like Google, BCG and your local employer of the year. Assuming the genetic lottery winner cares for job satisfaction (instead of only altruism) this requires EA to compete with all other companies on things as colleagues, hygiene factors, growth opportunities, pay etc. So suddenly your presentation isn’t just about the effectiveness of effective altruism anymore but also about being inspiring, friendly, warm, welcoming etc. This adds a whole new dimension, and a hard dimension at that, to your workshops. A dimension which hardly matters for other groups.
 
 The second challenge is that (at least in the Netherlands) we are stereotyping and defining talent in terms of ‘similarity to us’. So if you are from a STEM background you get bonus points, if you like riddles or board games you get bonus points, if you simulate neural networks for fun in your free time you get bonus points. These bonus points are all good and well as long as they are bonus points, but I think we fail to realize that this still is a heuristic. I feel that the genetic lottery winner who just happens to like anthropology better than maths, goes to study anthropology, adapts well to the surrounding (meaning having good writing/speaking skills, having good social skills) and comes to a local meetup will not be recognized as a genetic lottery winner. This person will then be and feel judged and be appalled at the lack of social skills and never to return. I know that (in the Netherlands) we fail to see potential looking only at the current level and similarity to us.
 
-A final challenge is that having these people in  your group (or not) is kind of self-sustaining as they tend to cluster together.
+A final challenge is that having these people in your group (or not) is kind of self-sustaining as they tend to cluster together.
 
-I’ve noticed people whom I consider to be in this category saying things like:  “I didn’t really like the culture”. “I feel I can do as much back home, I don’t really need a community for all this”, “they weren’t really my kind of people”, “I didn’t feel really welcome”, “the crowd wasn’t really diverse” “it seemed a bit like a bunch of nerds”, “Effective Altruism feels so heavy”.
+I’ve noticed people whom I consider to be in this category saying things like:  _“I didn’t really like the culture”,_ _“I feel I can do as much back home, I don’t really need a community for all this”_, _“They weren’t really my kind of people”_, _“I didn’t feel really welcome”_, _“The crowd wasn’t really diverse”_, _“It seemed a bit like a bunch of nerds”_, _“Effective Altruism feels so heavy”_.
 
 Recommendations:
 
-\* When someone seems very different from you (i.e. they spend a lot of time on their looks), force yourself to look extra careful at the level of thinking given their knowledge. Examples, in your evaluation of them compensate for their lack of knowledge, so if someone who isn’t from a STEM background takes quickly to the idea of EA this shows more potential than someone who is from a STEM background (who is more familiar with this kind of thinking). If someone says something really smart, consider if they are just relating something they read online (not a good indication of potential) or if they thought of it themselves (good indication of potential). If someone seems to have low epistemic standards, ask yourself is this because they are stupid or because they haven’t been trained in it? It feels trivial when I write this, but I know (in the Netherlands) this isn’t done enough.
+* When someone seems very different from you (i.e. they spend a lot of time on their looks), force yourself to look extra careful at the level of thinking given their knowledge. Examples, in your evaluation of them compensate for their lack of knowledge, so if someone who isn’t from a STEM background takes quickly to the idea of EA this shows more potential than someone who is from a STEM background (who is more familiar with this kind of thinking). If someone says something really smart, consider if they are just relating something they read online (not a good indication of potential) or if they thought of it themselves (good indication of potential). If someone seems to have low epistemic standards, ask yourself is this because they are stupid or because they haven’t been trained in it? It feels trivial when I write this, but I know (in the Netherlands) this isn’t done enough.
+* It might be interesting to look at the [demographics of EA](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and) to get an idea what we might a selection bias towards (note: I’m not putting this forward as evidence of selection bias, it is not).
+* Avoid weird ice breakers (!) see section 6.1
+* Also focus on just having a good time at the workshop.
+* Read about the socially ill-calibrated EA fanatic (section 3.8) who seems to be the nemesis of attracting some of the more socially inclined genetic lottery winner.
 
-\* It might be interesting to look at the demographics of EA to get an idea what we might a selection bias towards (note: I’m not putting this forward as evidence of selection bias, it is not).
-
-\* Avoid weird ice breakers (!) see section 6.1
-
-\* Also focus on just having a good time at the workshop.
-
-\* Read about the socially ill-calibrated EA fanatic (section 3.8) who seems to be the nemesis of attracting some of the more socially inclined genetic lottery winner.
-
-**3.7 The yeller**
+<a name="sec-3-7"></a>**3.7 The yeller**
 
 Is looking for: recognition, confidence
 
@@ -353,7 +342,7 @@ Recommendations:
 
 \* For some people this answer is not enough. If they keep the power struggle going, mention that focussing on a small part of the system isn’t just theory as randomized controlled trials show that a non-holistic approach can have real results. Be sure you are familiar with the evidence behind some charities (AMF/CoolEarth work well for me). Usually the person will keep going and as you mention any RCT’s will ask “but how does A cause B” to which you answer: “the RCT doesn’t tell us, it just shows us it works, that is the nature of an RCT”. Usually that is a (kind of) happy end.
 
-**4.3 Local focus**
+<a name="sec-4-3"></a>**4.3 Local focus**
 
 Example questions:
 
