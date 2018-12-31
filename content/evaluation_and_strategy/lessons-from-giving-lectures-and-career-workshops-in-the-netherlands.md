@@ -936,28 +936,11 @@ I’ll be responding to comments in the [corresponding forum post](https://forum
 
 > Hello wonderful group leaders!
 >
-> \
->
->
 > If you or your group members are keen on running intro to EA presentations in your community I am available to help coach you.
->
-> \
->
 >
 > About me: I manage Students for High-Impact Charity, I've been a teacher for over a decade and have trained many new teachers over that time. I've also run over 80 intro to EA presentations for a wide variety of audiences, and I've learnt a lot while doing these, so I'm keen to pass on the knowledge I have!
 >
-> \
->
->
 > Help I can provide: Depending on your needs this help could consist of sourcing and modifying materials, giving feedback on practice presentations and guidance on reaching out to groups who might be interested in learning about EA.
->
-> \
->
->
->
->
-> \
->
 >
 > If you are interested, please get in touch with me 
 >
