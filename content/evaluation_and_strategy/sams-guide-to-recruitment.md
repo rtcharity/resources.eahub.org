@@ -197,6 +197,7 @@ Get mentioned in the local and school newspapers & radio stations. Issues press 
 Create a Facebook page for your meetup (see the tips [here](https://docs.google.com/document/d/1LeaKwVGkj9Wl7ijLf2uR69eWvo9MUJmUVbXQJmsZNv0/edit#heading=h.xvoon9wzhok7)).
 
 <a name="tabling"></a>
+
 ## Tabling advice
 
 **WHERE AND WHEN**
@@ -209,13 +210,9 @@ Create a Facebook page for your meetup (see the tips [here](https://docs.google.
 
 • Get permission — make sure you are allowed to table there.
 
-- - -
-
 **ORGANISING VOLUNTEERS**
 
 Have a rota system so that there is someone manning the table at all times, ideally more than one person at a time. This can easily be organized together when people meet or via a Google Spreadsheet or you can use a site like when2meet.com to see when people are free.
-
-- - -
 
 **WHAT GOES ON A TABLE?**
 
@@ -245,39 +242,35 @@ Make sure the table looks attractive and professional.
 
 • A computer/TV showing the THINK video.
 
-- - -
-
 **WHAT TO ASK FOR**
 
 • You can just ask students to sign up to your mailing list. Otherwise ask them to sign up to a particular campaign or sign a petition or take the pledge.
 
 • Always have an optional box for interested in volunteering. This is an excellent way to gain useful information for sifting people who may be willing to help you or THINK.
 
-- - -
-
 **SAMPLE TABLING RAP**
 
 <a name="tabling-pitch"></a>You need a reasonable idea of things to say to stop and get people’s attention. Trial and error and giving each other feedback will help a lot with developing an effective pitch. Perhaps start with something like
 
-Hi there, do you want to make the world a better place?
-
-(They say ‘yes. You nod and agree and look enthusiastic)
-
-Ever thought about what’s the best way of doing that, of making the world a better place. Cos that is what THINK does. THINK is all about looking at how we can use strategy and creativity to make a bigger positive impact on the world
-
-For example you may give to charity, but some charities are crap and will waste your money yet other charities will use tiny amounts of money to improve hundreds of lives.
-
-(If at a fair: Our estimates show that some of the volunteering opportunities in this room are 100s of times more effective than others)
-
-We also look at making a difference with your career and are connected to an organisation that offers free ethical career advice for any career path. Like which research opportunities in each subject make the biggest difference.
-
-We meet up regularly and discuss the most effective ways of improving the world. Does that all make sense?
-
-(If they say ‘no’ explain in more detail. If they say yes nod enthusiastically again)
-
-Awesome! Our next meetup is … (fill in details)
-
-So lets add you email address to the email list and lets get you involved.
+> Hi there, do you want to make the world a better place?
+>
+> (They say ‘yes. You nod and agree and look enthusiastic)
+>
+> Ever thought about what’s the best way of doing that, of making the world a better place. Cos that is what THINK does. THINK is all about looking at how we can use strategy and creativity to make a bigger positive impact on the world
+>
+> For example you may give to charity, but some charities are crap and will waste your money yet other charities will use tiny amounts of money to improve hundreds of lives.
+>
+> (If at a fair: Our estimates show that some of the volunteering opportunities in this room are 100s of times more effective than others)
+>
+> We also look at making a difference with your career and are connected to an organisation that offers free ethical career advice for any career path. Like which research opportunities in each subject make the biggest difference.
+>
+> We meet up regularly and discuss the most effective ways of improving the world. Does that all make sense?
+>
+> (If they say ‘no’ explain in more detail. If they say yes nod enthusiastically again)
+>
+> Awesome! Our next meetup is … (fill in details)
+>
+> So lets add you email address to the email list and lets get you involved.
 
 **OTHER TIPS**
 
@@ -295,6 +288,6 @@ So lets add you email address to the email list and lets get you involved.
 
 **FOLLOW UP**
 
-• Chase up. If you have asked people to do something like donate to effective charities then send emails to check they have done it
+• Chase up. If you have asked people to do something like donate to effective charities, then send emails to check they have done that.
 
-• Offer an event as follow up. For example, a dinner or a social event.
+• Offer an event as a follow-up. For example, a dinner or a social event.
