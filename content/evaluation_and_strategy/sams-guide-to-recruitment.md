@@ -37,9 +37,9 @@ Ask everyone you know if they would come to a single event to try and find out a
 
 Ask your friends to volunteer. This could be volunteering in a tiny way, directly with you, to help start the chapter. Or it could be volunteering with THINK or other EA organizations in some way
 
-Post about your starting a meetup on your Facebook page. Have your friends share the post. especially people who have many Facebook friends or friends in different social groups. See the sample pitch.
+Post about your starting a meetup on your Facebook page. Have your friends share the post. especially people who have many Facebook friends or friends in different social groups. See the [sample pitch](https://docs.google.com/document/d/1LeaKwVGkj9Wl7ijLf2uR69eWvo9MUJmUVbXQJmsZNv0/edit#heading=h.3cwnqzh8n30w).
 
-When you host an event invite all of your friends on Facebook. Get as many people as possible to invite all of their friends and so on. Use this tip to invite many people at once
+When you host an event invite all of your friends on Facebook. Get as many people as possible to invite all of their friends and so on. Use this [tip to invite many people at once](https://docs.google.com/document/d/1LeaKwVGkj9Wl7ijLf2uR69eWvo9MUJmUVbXQJmsZNv0/edit#bookmark=id.z8rpoquw3jfq).
 
 **Take Action:**
 
@@ -108,11 +108,11 @@ Make sure you are listed on each of these.
 
 **Go to student fairs**
 
-I repeat: Go to student fairs! Many universities will hold fairs for students to find out what goes on at that university (Student Activity fairs / Volunteer fairs / Freshers fairs / etc). Often there will be a large fair at the start of the academic year, but more specific fairs (like a Charities Fair) can be throughout the year. These fairs provide an excellent opportunity for tabling. Sometimes you need to be registered as a student group to get to these events, but if you can get to these events go to them! See here for advice on tabling.
+I repeat: Go to student fairs! Many universities will hold fairs for students to find out what goes on at that university (Student Activity fairs / Volunteer fairs / Freshers fairs / etc). Often there will be a large fair at the start of the academic year, but more specific fairs (like a Charities Fair) can be throughout the year. These fairs provide an excellent opportunity for tabling. Sometimes you need to be registered as a student group to get to these events, but if you can get to these events go to them! See [below](#tabling) for advice on tabling.
 
 **Talk to people directly - Tabling and leafleting**
 
-In fact why wait for a student activity fair to start up. Just get a table an/or some leaflets and a convenient passing place and get students to sign up to your new society. See here for advice on tabling.
+In fact why wait for a student activity fair to start up. Just get a table an/or some leaflets and a convenient passing place and get students to sign up to your new society. See below for advice on tabling.
 
 **Class announcements**
 
@@ -196,7 +196,7 @@ Get mentioned in the local and school newspapers & radio stations. Issues press 
 
 Create a Facebook page for your meetup (see the tips here).
 
-## Tabling advice
+<a name="tabling"></a>## Tabling advice
 
 **WHERE AND WHEN**
 
