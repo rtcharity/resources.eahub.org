@@ -158,7 +158,7 @@ Feel free to contact me for help with a launch event, at: sam@thelifeyoucansave.
 
 **Other events**
 
-Consider other possible popular events with an EA twist, such as a “How-to-improve-the-world- themed speed dating”. Try to tap existing networks, such as holding the event with a particular food hall or college. We have a donor who will put money towards Giving Games. If you run one of these, link the amount of money that goes to charity to the amount of people who attend. To get a game set up email: giving@thehighimpactnetwork.org.
+Consider other possible popular events with an EA twist, such as a “How-to-improve-the-world- themed speed dating”. Try to tap existing networks, such as holding the event with a particular food hall or college. We have a donor who will put money towards [Giving Games](https://docs.google.com/file/d/0B7YS-LMvhlZWRkFXTHJJNUR0WXc/edit). If you run one of these, link the amount of money that goes to charity to the amount of people who attend. To get a game set up email: giving@thehighimpactnetwork.org.
 
 **Action:**
 
@@ -182,11 +182,11 @@ To interested faculty members / to grad students / to relevant departments / to 
 
 **Advertise online**
 
-Create a Facebook page (see the tips here). Invite all of your friends to join. Ask for shares from other college connected pages.
+Create a Facebook page (see the tips [here](https://docs.google.com/document/d/1LeaKwVGkj9Wl7ijLf2uR69eWvo9MUJmUVbXQJmsZNv0/edit#heading=h.xvoon9wzhok7)). Invite all of your friends to join. Ask for shares from other college connected pages.
 
 **Put up flyers**
 
-In dorms / on dorm billboards, walls and doors / in dorm bathrooms & stalls / in hallways and elevators / in locations designated for flyers / at bus stops or community centers. (Sample flyers can be found here.)
+In dorms / on dorm billboards, walls and doors / in dorm bathrooms & stalls / in hallways and elevators / in locations designated for flyers / at bus stops or community centers. (Sample flyers can be found [here](https://drive.google.com/drive/u/1/folders/0B7YS-LMvhlZWMjdEWDZKRDEwZVU).)
 
 **Get in the news**
 
@@ -194,9 +194,10 @@ Get mentioned in the local and school newspapers & radio stations. Issues press 
 
 **Action:**
 
-Create a Facebook page for your meetup (see the tips here).
+Create a Facebook page for your meetup (see the tips [here](https://docs.google.com/document/d/1LeaKwVGkj9Wl7ijLf2uR69eWvo9MUJmUVbXQJmsZNv0/edit#heading=h.xvoon9wzhok7)).
 
-<a name="tabling"></a>## Tabling advice
+<a name="tabling"></a>
+## Tabling advice
 
 **WHERE AND WHEN**
 
