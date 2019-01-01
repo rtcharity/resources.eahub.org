@@ -112,7 +112,7 @@ I repeat: Go to student fairs! Many universities will hold fairs for students to
 
 **Talk to people directly - Tabling and leafleting**
 
-In fact why wait for a student activity fair to start up. Just get a table an/or some leaflets and a convenient passing place and get students to sign up to your new society. See below for advice on tabling.
+In fact why wait for a student activity fair to start up. Just get a table an/or some leaflets and a convenient passing place and get students to sign up to your new society. See [below](#tabling) for advice on tabling.
 
 **Class announcements**
 
@@ -140,7 +140,7 @@ Four Professors who would be interested in Effective Altruism
 
 **Practice your pitch**
 
-See the 2 minute THINK tabling pitch, tweak it to your audience and conversation style then practice it in front of the mirror.
+See the [2 minute THINK tabling pitch](#tabling-pitch), tweak it to your audience and conversation style then practice it in front of the mirror.
 
 ## 4. A popular event
 
@@ -256,7 +256,7 @@ Make sure the table looks attractive and professional.
 
 **SAMPLE TABLING RAP**
 
-You need a reasonable idea of things to say to stop and get people’s attention. Trial and error and giving each other feedback will help a lot with developing an effective pitch. Perhaps start with something like
+<a name="tabling-pitch"></a>You need a reasonable idea of things to say to stop and get people’s attention. Trial and error and giving each other feedback will help a lot with developing an effective pitch. Perhaps start with something like
 
 Hi there, do you want to make the world a better place?
 
