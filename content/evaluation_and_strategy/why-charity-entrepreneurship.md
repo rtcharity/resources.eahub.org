@@ -5,7 +5,10 @@ description: >-
   A number of considerations suggest that charity entrepreneurship aiming to
   start an evidence-based, cost-effective charity is a very high impact thing to
   do.
+illustration: /img/job-opportunity-5_orig.png
 author: 'Kieran Greig, Joey Savoie, Katherine Savoie'
+originalPublicationURL: >-
+  http://www.charityentrepreneurship.com/blog/why-charity-entrepreneurship7292348#
 block: true
 license:
   name: Creative Commons Attribution-ShareAlike 3.0
