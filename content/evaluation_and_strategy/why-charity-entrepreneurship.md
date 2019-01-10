@@ -9,7 +9,7 @@ illustration: /img/job-opportunity-5_orig.png
 author: 'Kieran Greig, Joey Savoie, Katherine Savoie'
 originalPublicationURL: >-
   http://www.charityentrepreneurship.com/blog/why-charity-entrepreneurship7292348#
-block: true
+block: false
 license:
   name: Creative Commons Attribution-ShareAlike 3.0
   url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
