@@ -11,7 +11,7 @@ tag: popular
 author: Alje
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/BMLXJ25jz4R3TBXNu/lessons-from-giving-lectures-and-career-workshops-in-the
-block: true
+block: false
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
