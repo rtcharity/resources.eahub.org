@@ -6,7 +6,7 @@ description: >-
   the Netherlands as a part of the EA the Netherlands team. My main focus was to
   learn as much as possible. I currently am a teacher in high school and also
   still give some non EA workshops professionally. 
-tag: popular
+tag: ''
 author: Alje
 originalPublicationURL: >-
   effective-altruism.com/ea/1uj/lessons_from_giving_lectures_and_career_workshops/
