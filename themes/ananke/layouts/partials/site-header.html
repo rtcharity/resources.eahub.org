@@ -1,26 +1,25 @@
-<header class="header" style="background-image: url('{{ .Site.Params.featured_image }}');">
-  <div class="header_shadow">
-    {{ partial "site-navigation.html" .}}
-    {{ if .Params.description }}
-    <div class="header_text_landing">
-    {{ else }}
-    <div class="header_text_section">
+<div class="banner-header-large clearfix">
+  <div class="banner-header-large clearfix">
+    <h1 class="fw2 header_title white-80">
+      {{ .Title | default .Site.Title }}
+    </h1>
+    <div class="block">
+      <h1 class="fw2 header_title white-80">
+        {{ .Title | default .Site.Title }}
+      </h1>
+    </div>
+    <div class="block">
+    {{ with .Params.description }}
+      <h2 class="fw1 header_subtitle white-80 center">
+        {{ . }}
+      </h2>
     {{ end }}
-      <div class="block">
-        <h1 class="fw2 header_title white-80">
-          {{ .Title | default .Site.Title }}
-        </h1>
-      </div>
-      <div class="block">
-      {{ with .Params.description }}
-        <h2 class="fw1 header_subtitle white-80 center">
-          {{ . }}
-        </h2>
-      {{ end }}
-      </div>
-      </div>
-  </div>
+    </div>
+
+    </div>
+    <!-- <script src="/static/js/banner.js"></script> -->
+
 
     {{ template "_internal/google_analytics.html" . }}
 
-</header>
+</div>
