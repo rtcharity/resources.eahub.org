@@ -144,8 +144,9 @@
 /* Banner */
 .banner-caption {
   color: white;
+  font-style: italic;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 0px;
 }
 
 .banner-drop-down {
@@ -160,6 +161,15 @@
   text-decoration: none;
   opacity: 0.9;
   display: block;
+}
+
+.banner-drop-down-links {
+  position: absolute;
+  right: 0px;
+}
+
+.banner-drop-down-links li {
+  list-style-type: none;
 }
 
 .banner-header-large {
@@ -199,6 +209,15 @@
 
 .banner-menu-burger {
   display: none;
+}
+
+.banner-title {
+  color: white;
+  font-size: 36px;
+  margin-top: 145px;
+  margin-bottom: 0px;
+  padding-top: 20px;
+  text-align: center;
 }
 
 .bg-black-box {
@@ -457,10 +476,8 @@ label {
   font-weight: 400;
 }
 
-
-
 /* mobile responsive */
-@media(max-width: 1000px) {
+@media(max-width: 768px) {
 
   .action_links {
     width: 100%
@@ -473,6 +490,50 @@ label {
 
   .article_keyquote {
     font-size: 18px;
+  }
+
+  .banner-caption {
+    font-size: 13px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .banner-drop-down-link {
+    color: black
+  }
+
+  .banner-drop-down-links {
+    background-color: rgba(220,220,220,0.7); /*light-grey*/
+    margin-right: 5px;
+    margin-top: 10px;
+    visibility: hidden;
+  }
+
+  .banner-drop-down-links li {
+    float: none !important;
+  }
+
+  .banner-header-large {
+    background-image: url("/img/LandingBanner_short.png");
+    background-position: center 10px;
+    background-size: cover;
+    height: 260px;
+  }
+
+  .banner-menu-burger {
+    display: block;
+    margin-right: 25px;
+    margin-top: 13px;
+    cursor: pointer;
+    float: right;
+  }
+
+  .banner-title {
+    font-size: 24px;
+    margin-top: 120px;
   }
 
   .contact_form {
@@ -544,5 +605,20 @@ label {
     display: block;
     text-align: right;
     font-size: 14px;
+  }
+}
+
+@media(min-width: 768px) {
+  .banner-drop-down-links {
+    margin-top: -40px;
+    margin-right: 0px;
+    padding: 3px 10px 3px 3px;
+    text-align: right;
+    visibility: visible !important;
+    z-index: 1;
+  }
+
+  .banner-drop-down-links li {
+    float: left !important;
   }
 }
