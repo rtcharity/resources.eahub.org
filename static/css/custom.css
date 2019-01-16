@@ -156,11 +156,16 @@
 .banner-drop-down-link {
   color: white;
   font-size: 16px;
-  padding: 0px 10px 0px 10px !important;
+  padding: 5px 10px 5px 10px !important;
   font-weight: 500;
   text-decoration: none;
   opacity: 0.9;
   display: block;
+}
+
+.banner-drop-down-link:hover {
+  color: #337ab7;
+  background-color: white;
 }
 
 .banner-drop-down-links {
@@ -533,7 +538,7 @@ label {
 
   .banner-title {
     font-size: 24px;
-    margin-top: 120px;
+    margin-top: 125px;
   }
 
   .contact_form {
