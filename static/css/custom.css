@@ -141,90 +141,6 @@
   color: #512B52; /* EAHub purple */
 }
 
-/* Banner */
-.banner-caption {
-  color: white;
-  font-style: italic;
-  text-align: center;
-  margin-top: 0px;
-}
-
-.banner-drop-down {
-  width: 100%
-}
-
-.banner-drop-down-link {
-  color: white;
-  font-size: 16px;
-  padding: 5px 10px 5px 10px !important;
-  font-weight: 500;
-  text-decoration: none;
-  opacity: 0.9;
-  display: block;
-}
-
-.banner-drop-down-link:hover {
-  color: #337ab7;
-  background-color: white;
-}
-
-.banner-drop-down-links {
-  position: absolute;
-  right: 0px;
-}
-
-.banner-drop-down-links li {
-  list-style-type: none;
-}
-
-.banner-header-large {
-  background-image: url("/img/LandingBanner_short.png");
-  background-position: center 20px;
-  background-repeat: repeat;
-  background-size: 1400px;
-  display: block;
-  height: 300px;
-  margin-bottom: 10px;
-}
-
-.banner-header-small {
-  background-color: #7BB0A8; /* EAHub Banner green */
-  background-size: cover;
-  display: block;
-  height: 60px;
-  margin-bottom: 10px;
-}
-
-#banner-logo{
-  height: 30px;
-  margin-top: -7px;
-}
-
-.banner-logo-container {
-  display: inline-block;
-  margin-left: 20px;
-}
-
-.banner-menu-bar {
-  width: 25px;
-  height: 3px;
-  background-color: white;
-  margin: 6px 0;
-}
-
-.banner-menu-burger {
-  display: none;
-}
-
-.banner-title {
-  color: white;
-  font-size: 36px;
-  margin-top: 145px;
-  margin-bottom: 0px;
-  padding-top: 20px;
-  text-align: center;
-}
-
 .bg-black-box {
   background-color: black;
   display: inline-block;
@@ -463,6 +379,41 @@ label {
 
 .menu_icon {
   color: white;
+}
+
+/* container */
+.container{
+  max-width: 900px;
+}
+
+/* nav */
+.navbar-inverse,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:focus,
+.navbar-inverse .navbar-nav > .open > a:hover{
+  background-color: #7bb0a8;
+}
+.navbar-inverse .navbar-nav > li > a{
+  color: #fff;
+}
+.navbar-inverse{
+  border: none;
+
+}
+.dropdown-menu{
+  border: none;
+}
+.navbar img{
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.navbar-nav > li:hover{
+  transform: scale(1.1);
+  font-weight: 500;
 }
 
 .nav_container {
