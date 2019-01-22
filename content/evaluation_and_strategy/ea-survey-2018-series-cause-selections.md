@@ -42,6 +42,8 @@ As in [previous years](https://forum.effectivealtruism.org/posts/xeduPnHfCQ9m9f3
 
 See the graph from 2017 (with slightly different categories) below for a rough comparison.
 
+![](/img/top-cause-2017.png)
+
 Note: images can be viewed in full size if opened in a new tab.
 
 These analyses clearly do not correspond precisely to the traditional broader division between EA cause areas (Global Poverty, Existential Risk/Long-Term Future etc.), however, due to the inclusion of multiple, more fine-grained categories within Long-Term Future, in essence, ‘splitting the vote.’
@@ -52,15 +54,25 @@ A further complication, however, is that what the boundaries of the relevant bro
 
 In the graph below, we combine AI, Biosecurity, Nuclear Security and Existential Risk (other)) together into one Long-Term Future category. When doing so, the gap between Global Poverty and (combined) Long-Term Future is substantially reduced, though still significant.
 
-Full Range of Responses
+![](/img/top-cause-ltf-2018.png)
+
+**Full Range of Responses**
 
 Looking at the full range of responses (rather than just single “top cause” selection) suggests a more even distribution of interest in causes across EAs.
 
+![](/img/likert-scale.png)
+
 In the likert graph, causes are listed in order of the percent of respondents giving that cause as a near-top or top priority. Most listed causes received substantial support, with no cause receiving fewer than 50% of respondents suggesting that it should receive at least “significant resources.” Most causes were judged by 31-48% of respondents as being the “top priority” or “near the top priority” (the exceptions being Nuclear Security and Mental Health, which received only 22% of respondents ranking each of them that highly, and Global Poverty which 65% of respondents rated as a top or near top priority).
+
+![](/img/top-cause-table.png)
+
+![](/img/top-near-table.png)
 
 If we were to convert each of these options into a numerical point on a five point scale (ranging from (1) ‘I do not think any resources should be devoted to this cause’, to (5) ‘This cause should be the top priority’), the mean ratings for all but two of the causes (Mental Health and Nuclear Security) would be between 3 and 4. Notably the median rating for every cause was 3, except for global poverty, which was rated 4.
 
-Predictors of cause preference
+![](/img/mean-score.png)
+
+**Predictors of cause preference**
 
 Identifying predictors of individual cause prioritisation was substantially more difficult than identifying influences on donation data. In this section we present the results of both multinomial and ordinal regressions as well as Multiple Correspondence Analysis. None of our models manage to account for more than 17% of the variance in cause preference data. They do, however, all appear to point to a similar set of factors being influential. Any interpretation of these findings should be highly tentative.
 
