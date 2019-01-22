@@ -38,6 +38,8 @@ The simplest (though crudest) way to analyse these responses is to look at the n
 
 As in [previous years](https://forum.effectivealtruism.org/posts/xeduPnHfCQ9m9f3go/ea-survey-2017-series-cause-area-preferences), Global Poverty was the largest single cause out of the options presented.
 
+![](/img/top-cause-all-responses-2018.png)
+
 See the graph from 2017 (with slightly different categories) below for a rough comparison.
 
 Note: images can be viewed in full size if opened in a new tab.
