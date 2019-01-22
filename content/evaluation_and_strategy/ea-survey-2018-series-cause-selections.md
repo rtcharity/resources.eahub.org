@@ -1,5 +1,5 @@
 ---
-title: 'Ea Survey 2018 Series: Cause Selections'
+title: 'EA Survey 2018 Series: Cause Selections'
 date: 2019-01-22T14:51:45.786Z
 description: >-
   The final of the planned posts for the 2018 EA Survey Series explores the
