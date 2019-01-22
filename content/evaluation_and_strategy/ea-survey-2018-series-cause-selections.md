@@ -156,46 +156,50 @@ We also used multiple correspondence analysis (MCA) to look for patterns in caus
 
 Generally, less involvement in the EA community corresponds to assigning a high ranking of Climate Change and Global Poverty. In this MCA biplot, the point cloud of individuals is colour coded for cause prioritization (ellipses give 95% confidence intervals), and shown against the positioning of the variables on the first two axes (to aid interpretation only the top 20 contributing variables are shown).
 
+![](/img/mcaplot1.png)
+
 This pattern contrasts with that observed for the ranking of AI and X-risks where ranking positively corresponds to EA community engagement.
 
-Conclusions
+![](/img/mcaplot2.png)
+
+**Conclusions**
 
 EA Survey data suggests that EAs continue to judge that a wide array of causes warrant “significant resources” and most listed causes are judged to be either the top priority or “near top priority” by more than a third of respondents.
 
 We found substantial differences in cause prioritisation across different groups within our sample, with AI and other Long-Term Future causes receiving significantly more support (and Global Poverty less) among members of EA groups like the Forum and EA Facebook. Though neither our regressions nor our Multiple Correspondence Analysis could explain much of the variance in cause prioritisation and so should be interpreted very tentatively, they seem to point in a similar direction, with various forms of group membership, suggestive of more involvement in EA, being associated with greater support for Long-Term Future causes.
 
-Coda
+**Coda**
 
 This concludes the planned posts for the 2018 EA Survey Series!
 
 We will, however, also be following up with some supplementary posts examining involvement in different EA groups and influences on involvement, the geography of EA and looking in more depth at GWWC pledge retention and EA growth metrics.
 
-Credits
+**Credits**
 
 This post was written and with analysis by David Moss, Neil Dullaghan and Kim Cuddington.
 
 Thanks to Peter Hurford, Tee Barnett, Luisa Rodriguez, Derek Foster, Jason Schukraft and others for review and editing.
 
-The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities.
+_The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities._
 
-Supporting Documents
+**Supporting Documents**
 
 Other Articles in the 2018 EA Survey Series Future articles we write about the 2018 Survey will be added here.
 
-I - Community Demographics & Characteristics
+[I - Community Demographics & Characteristics](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and)
 
-II - Distribution & Analysis Methodology
+[II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
 
-III - How do people get involved in EA?
+[III - How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea)
 
-IV - Subscribers and Identifiers
+[IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
 
-V - Donation Data
+[V - Donation Data](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data)
 
-Prior EA Surveys conducted by Rethink Charity
+_Prior EA Surveys conducted by Rethink Charity_
 
-The 2017 Survey of Effective Altruists
+[The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology)
 
-The 2015 Survey of Effective Altruists: Results and Analysis
+[The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/EqgF5amS96TahanzK/the-2015-survey-of-effective-altruists-results-and-analysis)
 
-The 2014 Survey of Effective Altruists: Results and Analysis
+[The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/z5swaf6342AbG93Mp/the-2014-survey-of-effective-altruists-results-and-analysis)
