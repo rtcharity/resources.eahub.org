@@ -120,9 +120,11 @@ As one might expect, the identification of animal welfare as a top priority was 
 
 To investigate potential predictors of different cause selections, we ran multinomial logit regressions on Top Priority cause choice, in order to see the relative effects of potential predictors of choice while controlling for possible confounders. As Global Poverty is the most popular top priority it was used as the base category in the regression.
 
-Drawing on trends in the descriptive statistics we looked at what EA groups respondents are members of, diet, demographics, and how and when individuals became involved in EA. (link to regression table)
+Drawing on trends in the descriptive statistics we looked at what EA groups respondents are members of, diet, demographics, and how and when individuals became involved in EA. ([link to regression table](https://docs.google.com/document/d/1XDv3CwfPHGhlRMEWxu5VFESg2Ob3qp1jZLHXoYN7C2Q/edit))
 
 Below we present the average marginal effects from substantive (effect size ±10 percentage points) and statistically significant predictors for some select causes. While the following regression results are suggestive, the models’ ability to explain a large amount of variation in outcomes was quite low (Pseudo R^2: 0.17).
+
+![](/img/ames-top-cause.png)
 
 LessWrong membership was associated with an increase in likelihood of selecting AI Risks as the top cause, as well as a lower likelihood of ranking Climate Change and Animal Welfare as a top priority. Likewise, being a member of the EA Forum was associated with a lower likelihood of selecting Global Poverty as the top cause and a higher chance of selecting AI. This effect was even larger for those who were both members of the EA Forum and LessWrong. Those who report becoming involved in EA via GWWC were more likely to to select Global Poverty as the top cause and less likely to select AI as the top cause. In contrast, those who became involved via personal contact or 80,000 Hours were were more likely to to select AI as the top cause and less likely to select Global Poverty as the top cause.
 
@@ -130,13 +132,15 @@ There also appears to be a general trend of a greater preference for AI Risks an
 
 In addition, veganism was strongly associated with a greater likelihood of selecting Animal Welfare as the top cause. It also appeared that women were more likely to select Global Poverty and Climate change as the top cause and less likely to select AI Risk.
 
-Regression: Full Scale
+**Regression: Full Scale**
 
-Looking at only the Top Priority cause selection misses out on a large chunk of the data and opinion within the EA community. Nevertheless, running ordinal regressions on the five-point scale points towards many of the same predictors overall. For reasons of space and simplicity only the most prominent results will be discussed. \[For ordered logit models and more average marginal effects click here]
+Looking at only the Top Priority cause selection misses out on a large chunk of the data and opinion within the EA community. Nevertheless, running ordinal regressions on the five-point scale points towards many of the same predictors overall. For reasons of space and simplicity only the most prominent results will be discussed. [For ordered logit models and more average marginal effects click [here](https://docs.google.com/document/d/1XDv3CwfPHGhlRMEWxu5VFESg2Ob3qp1jZLHXoYN7C2Q/edit)]
+
+![](/img/poverty-ai-ames.png)
 
 As suggested by the Top Priority only model, indicators of being highly engaged in EA discussions, such as membership the EA Forum, the EA Facebook Page and LessWrong, and becoming more involved via Personal Contacts are associated with placing AI Risks in a higher priority category and Global Poverty and/or Climate Change in lower categories. In contrast, getting into EA through The Life You Can Save (TLYCS) and Giving What We Can (GWWC) are associated with placing Global Poverty and Climate Change higher on the scale. This also seems fairly intuitive, given the historical focus of TLYCS and GWWC on Global Poverty.
 
-Getting into EA via 80,000 Hours also seems to be associated with rating Global Poverty lower on the scale and prioritising AI, Cause Prioritisation and other long-term future causes, along with Mental Health and Improving Rationality, more highly. In addition, receiving 80,000 Hours coaching is associated with a lower rating of Poverty and Climate Change and higher ratings of AI, Cause Prioritisation and Biosecurity. This is important given the growing influence of 80,000 Hours as a source for new EAs. Having shifted one’s career because of EA is also associated with placing AI Risks higher on the scale and with placing Global Poverty and Climate Change lower on the scale.
+Getting into EA via 80,000 Hours also seems to be associated with rating Global Poverty lower on the scale and prioritising AI, Cause Prioritisation and other long-term future causes, along with Mental Health and Improving Rationality, more highly. In addition, receiving 80,000 Hours coaching is associated with a lower rating of Poverty and Climate Change and higher ratings of AI, Cause Prioritisation and Biosecurity. This is important given the growing influence of 80,000 Hours as a [source for new EAs](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea#WvbGiN3BgYh7pQxNK). Having shifted one’s career because of EA is also associated with placing AI Risks higher on the scale and with placing Global Poverty and Climate Change lower on the scale.
 
 In most cases, when a person first heard of EA didn’t prove to be substantive or significant, when controlling for other factors, though there were small associations between hearing about EA more recently and increased support for Climate Change and Mental Health, as well as even smaller ones for Cause Prioritisation, Improving Rationality and Nuclear Security. At first glance, this runs counter to the difference found between “veterans” and “newcomers” in previous analyses, but is understandable given that newer members are significantly less likely to be members of LessWrong or the EA Forum (-0.2561 , p<0.01), which we do find to be predictors.
 
