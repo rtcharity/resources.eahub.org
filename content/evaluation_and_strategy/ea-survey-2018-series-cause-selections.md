@@ -78,29 +78,45 @@ Identifying predictors of individual cause prioritisation was substantially more
 
 We also present simple descriptive analyses of the causes prioritised by different groups. Of course, these analyses especially cannot be read as suggesting a causal influence on cause selection, but they do show what causes different groups (such as EA Forum members vs non-members, within our sample) prioritise.
 
-Descriptives
+**Descriptives**
 
 We examined differences in cause prioritisation across various different groups within our sample.
 
-Given that the EA Survey appears to receive responses from a fairly large number of people who are fairly new to the movement and/or not involved in many core EA groups or activities, we thought it would be interesting to examine the responses of a narrower population who were plausibly more actively engaged and informed in core EA discussions. We chose initially to look at members of the EA Forum, who comprised about 20% of the total 2018 sample, at 523 people (we are informed that the number of active members on the EA Forum is in the ballpark of ~500 people, though there are considerably more inactive members).
+Given that the EA Survey appears to receive responses from a fairly large number of people who are fairly new to the movement and/or not involved in many core EA groups or activities, we thought it would be interesting to examine the responses of a narrower population who were plausibly more actively engaged and informed in core EA discussions. We chose initially to look at members of the [EA Forum](https://forum.effectivealtruism.org/), who comprised about 20% of the total 2018 sample, at 523 people (we are informed that the number of active members on the EA Forum is in the ballpark of ~500 people, though there are considerably more inactive members).
 
 There were substantial differences in “top priority” cause selections between Forum members and non-members. Most strikingly, Climate Change was the third highest prioritised cause in the sample as a whole, but was significantly more popular among respondents who weren’t a member of the Forum, while being among the least often selected causes among Forum members. Likewise, in line with our other analyses, AI, Cause Prioritisation and Meta Charity received a much higher proportion of people selecting them as top priority among Forum members, whereas Global Poverty was selected by a much lower portion.
 
-Interestingly, this pattern was evident even in the case of the broader population of the EA Facebook group, who comprised more than 50% of the sample and is less associated with in-depth, advanced content than the EA Forum. EA Facebook members had lower support for Poverty and Climate Change and higher support for AI, Cause Prioritisation and Meta Charities than non-members.
+![](/img/ea-forum-top-cause.png)
 
-We also examined differences between respondents who were LessWrong members or not. As one would expect, given the historical focus of the site, there was substantially higher support for AI among LessWrong members than non-members.
+Interestingly, this pattern was evident even in the case of the broader population of the [EA Facebook](https://www.facebook.com/EffectiveAltruism/) group, who comprised more than 50% of the sample and is less associated with in-depth, advanced content than the EA Forum. EA Facebook members had lower support for Poverty and Climate Change and higher support for AI, Cause Prioritisation and Meta Charities than non-members.
+
+![](/img/ea-facebook-top-cause.png)
+
+We also examined differences between respondents who were [LessWrong](https://www.lesswrong.com/) members or not. As one would expect, given the historical focus of the site, there was substantially higher support for AI among LessWrong members than non-members.
+
+![](/img/less-wrong-top-cause.png)
 
 Looking at mean preferences on the 5-point scale, rather than simply “top priority” selections, across causes for these sub-groups, in the graph below, Global Poverty (and Climate Change) and AI Risks appear to follow the opposite pattern from each other: with Global Poverty being most endorsed by EAs who are neither a member of the EA Forum nor LessWrong and least by those who are members of both, and the converse for AI risk.
 
+![](/img/online-membership-mean-score.png)
+
 We also examined differences in cause prioritisation according to gender. According to the survey data, a plurality of both men and women chose Global Poverty as the top cause. However, men and women appear to run in opposite directions on Climate Change and AI Risks. 15.7% of women chose Climate Change as top priority (making it the second most preferred cause in this group) and 9.3% chose AI Risks, but with men this is the opposite (7.9% to 22.6%, respectively). Similarly, looking at the mean score across the scale, the trend is the same, with about a 1 point gender gap between women’s preference for Climate Change and men’s preference for AI Risks.
+
+![](/img/gender-top-cause.png)
 
 The following graph shows the extent of the gender difference across each cause. The Y-axis shows the difference in mean cause preference score between women and men.
 
+![](/img/gender-gap.png)
+
 Of course, to reiterate what we said above, such descriptive differences across groups in our sample should not be taken as suggesting that gender causes differences in cause prioritisation e.g. because of possible confounders.
 
-As one might expect, the identification of animal welfare as a top priority was strongly associated with dietary choice. Unlike in our analysis last year, when we only discussed vegetarians and vegans as a single category, this year we can reveal a divide between vegans and others on animal welfare prioritisation. Vegans make up a large plurality of those who rank animal welfare as a top or near top cause, but the percentage of vegetarians and those who eat meat don’t differ substantially. As shown in the first graph below, 76.9% of vegans rank animal welfare as a top or near top priority, compared to only 43.7% of vegetarians and 19% of those who eat meat. Similarly, as the second graph shows, 47% of those selecting Animal Welfare as the top or near top priority were vegans, and 27% were vegetarians.
+As one might expect, the identification of animal welfare as a top priority was strongly associated with dietary choice. Unlike in our analysis [last year](https://forum.effectivealtruism.org/posts/xeduPnHfCQ9m9f3go/ea-survey-2017-series-cause-area-preferences), when we only discussed vegetarians and vegans as a single category, this year we can reveal a divide between vegans and others on animal welfare prioritisation. Vegans make up a large plurality of those who rank animal welfare as a top or near top cause, but the percentage of vegetarians and those who eat meat don’t differ substantially. As shown in the first graph below, 76.9% of vegans rank animal welfare as a top or near top priority, compared to only 43.7% of vegetarians and 19% of those who eat meat. Similarly, as the second graph shows, 47% of those selecting Animal Welfare as the top or near top priority were vegans, and 27% were vegetarians.
 
-Regressions: Top Cause Selection
+![](/img/diet-by-animal-welfare.png)
+
+![](/img/animal-welfare-by-diet.png)
+
+**Regressions: Top Cause Selection**
 
 To investigate potential predictors of different cause selections, we ran multinomial logit regressions on Top Priority cause choice, in order to see the relative effects of potential predictors of choice while controlling for possible confounders. As Global Poverty is the most popular top priority it was used as the base category in the regression.
 
