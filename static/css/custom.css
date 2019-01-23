@@ -394,8 +394,10 @@ label {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:focus,
 .navbar-inverse .navbar-nav > .open > a:hover{
-  background-color: #7bb0a8;
+  background-color: #7bb0a8 !important;
 }
+
+
 .navbar-inverse .navbar-nav > li > a{
   color: #fff;
 }
