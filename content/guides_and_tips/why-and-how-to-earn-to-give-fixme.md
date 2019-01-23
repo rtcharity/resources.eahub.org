@@ -84,19 +84,17 @@ More broadly, there are lots of ways to earn more money, and we doubt all of the
 
 ## What’s the best way to earn to give?
 
-Look for an option where you have great personal fit – the chance to excel – that satisfies the following:
+Look for an option where you have great [personal fit](https://80000hours.org/career-guide/personal-fit/) – the chance to excel – that satisfies the following:
 
-\    Is higher-earning, and has a good outlook.
+1. Is higher-earning, and has a good outlook.
+2. Offers [flexible career capital](https://80000hours.org/career-guide/career-capital/), so you can switch out later if you change your mind.
+3. Doesn’t [cause harm](https://80000hours.org/articles/harmful-career/)
 
-\    Offers flexible career capital, so you can switch out later if you change your mind.
+**Which jobs are highest-paying?**
 
-\    Doesn’t cause harm
+In short, it’s jobs in finance, management, medicine, law, real estate and technology. You can see a lot more data in this [separate analysis](https://80000hours.org/articles/highest-paying-jobs/).
 
-Which jobs are highest-paying?
-
-In short, it’s jobs in finance, management, medicine, law, real estate and technology. You can see a lot more data in this separate analysis.
-
-What are some of the best options overall?
+**What are some of the best options overall?**
 
 The following offer a good combination of pay, flexibility and outlook. We’ve also already advised people who’ve taken them and been satisfied.
 
