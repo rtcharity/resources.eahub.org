@@ -1,5 +1,5 @@
 ---
-title: How to start and run EA meetups
+title: How to Start and Run EA Meetups
 date: 2018-11-13T19:37:40.999Z
 description: A guide from LEAN.
 illustration: /img/legogreen.png
