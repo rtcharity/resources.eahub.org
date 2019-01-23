@@ -1,14 +1,5 @@
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
-<div class="container">
-  <img class="hidden-xs" src="/img/banner.png">
-  <h2 class="text-center">{{ .Title | default .Site.Title }}</h2>
-    {{ with .Params.description }}
-      <h3 class="banner-caption">
-        {{ . }}
-      </h3>
-    {{ end }}
-</div>
-</div>
+
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
@@ -35,6 +26,19 @@
       </div>
     </div>
   </nav>
+  <div class="jumbotron">
+  <div class="container">
+    {{ if (eq .Page.Title "Resources") }}
+    <img class="hidden-xs" src="/img/banner.png">
+    {{ end }}
+    <h2 class="text-center">{{ .Title | default .Site.Title }}</h2>
+      {{ with .Params.description }}
+        <h4 class="banner-caption">
+          {{ . }}
+        </h4>
+      {{ end }}
+  </div>
+  </div>
 <script src="/js/banner.js"></script>
 </div>
 

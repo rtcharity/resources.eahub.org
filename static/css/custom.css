@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 
+body {
+  padding-top: 50px;
+}
+
 .about a {
   color: #7BB0A8; /* EAHub Banner green */
 }
@@ -385,7 +389,6 @@ label {
 .container{
   max-width: 900px;
 }
-
 /* nav */
 .navbar-inverse,
 .navbar-inverse .navbar-nav > .active > a,
@@ -394,7 +397,7 @@ label {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:focus,
 .navbar-inverse .navbar-nav > .open > a:hover{
-  background-color: #7bb0a8 !important;
+  background-color: #7bb0a8;
 }
 
 
@@ -403,8 +406,29 @@ label {
 }
 .navbar-inverse{
   border: none;
-
 }
+
+/* jumbotron */
+.jumbotron{
+  background-color: #7bb0a8;
+  color: #fff;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.jumbotron img{
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.jumbotron h4{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.jumbotron h4 {
+  text-align: center;
+  font-style: italic;
+}
+
 .dropdown-menu{
   border: none;
 }
