@@ -1,5 +1,5 @@
 ---
-title: Why and How to Earn to Give FIXME
+title: Why and How to Earn to Give
 date: 2019-01-23T17:43:00.280Z
 description: >-
   80,000 Hours on what "earning-to-give" is, who should consider doing it and
