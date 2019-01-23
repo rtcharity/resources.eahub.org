@@ -1,3 +1,5 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+<div class="nav_container">
 <!-- Sections Navigation if not on home page-->
 <div class="drop_down">
   <label for="menu_burger">
@@ -7,7 +9,7 @@
   </label>
   <input type="checkbox" id="menu_burger">
   <section class="drop_down_links">
-      
+
       {{ range .Site.Sections.ByWeight }}
 
         {{ if ne .Params.drop_down false }}
@@ -19,3 +21,5 @@
 
   </section>
 </div>
+</div>
+</nav>
