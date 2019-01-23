@@ -47,11 +47,7 @@ One of the people we advised in 2011, Matt, has donated over $1m while still in 
 
 Another quit his job as a software engineer and founded a startup. He has pledged all of his income above minimum wage to charity. If his startup’s current valuation is accurate, then he’ll give [millions of dollars to charity in the next decade](https://80000hours.org/2015/12/interview-with-ben-who-expects-to-donate-eight-figures-for-charity-through-tech-entrepreneurship/). His startup also reduces paperwork for doctors, and so it has direct impact too.
 
->
->
 > [Without 80,000 Hours' research, I wouldn't have started this company; and without their community, I wouldn't have made it this far.](https://80000hours.org/career-guide/member-stories/ben-west/)
->
->
 
 ## Should you earn to give?
 
@@ -100,19 +96,15 @@ The following offer a good combination of pay, flexibility and outlook. We’ve 
 
 These two paths are among the highest earning and build your skills, although they are very competitive.
 
-\    Tech startup founder
-
-\    Quantitative trading
+* [Tech startup founder](https://80000hours.org/career-reviews/tech-entrepreneurship/)
+* [Quantitative trading](https://80000hours.org/career-reviews/trading-in-quantitative-hedge-funds/)
 
 Some other promising options taken by plenty of people we’ve advised include:
 
-\    Software engineering
-
-\    Startup early employee
-
-\    Data science
-
-\    Management consulting
+* [Software engineering](https://80000hours.org/career-reviews/software-engineering/)
+* [Startup early employee](https://80000hours.org/career-reviews/startup-early-employee/)
+* [Data science](https://80000hours.org/career-reviews/data-science/)
+* [Management consulting](https://80000hours.org/career-reviews/management-consulting/)
 
 In all of these, you could earn far more than the average for a college graduate, while also putting your career in a better position for the future.
 
