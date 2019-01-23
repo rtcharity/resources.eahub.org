@@ -229,12 +229,14 @@ body {
 }
 
 .drop_down {
-  margin-top: -60px;
+  position: relative;
+  float: right;
+  top: -50px;
   text-align: right;
 }
 
 .drop_down_link {
-  color: white;
+  color: black;
   font-size: 18px;
   padding-left: 10px;
   padding-bottom: 2px;
@@ -249,7 +251,7 @@ body {
 }
 
 .drop_down_links {
- background-color: rgba(220,220,220,0.3); /*light-grey*/
+ background-color: #fff;
   margin-top: -10px;
   padding: 3px 10px 3px 3px;
   text-align: right;
@@ -391,6 +393,10 @@ label {
   max-width: 900px;
 }
 /* nav */
+.navbar-header {
+  width: 100%;
+}
+
 .navbar-inverse,
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:focus,
@@ -399,6 +405,7 @@ label {
 .navbar-inverse .navbar-nav > .open > a:focus,
 .navbar-inverse .navbar-nav > .open > a:hover{
   background-color: #7bb0a8;
+  height: 50px;
 }
 
 

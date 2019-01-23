@@ -1,13 +1,15 @@
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
+
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
         <a href="\"><img id="logo" src="/img/logo_transparent.png" /></a>
+        {{ partial "site-navigation.html" . }}
       </div>
-      {{ partial "site-navigation.html" . }}
     </div>
   </nav>
+
   <div class="jumbotron">
   <div class="container">
     {{ if (eq .Page.Title "Resources") }}
@@ -21,6 +23,7 @@
       {{ end }}
   </div>
   </div>
+
 </div>
 
     {{ template "_internal/google_analytics.html" . }}
