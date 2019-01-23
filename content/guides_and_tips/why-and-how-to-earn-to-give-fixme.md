@@ -17,7 +17,7 @@ Would Bill Gates have done more good if he’d worked at a small non-profit? We 
 
 ![Bill Gates](/img/bill-gates-fireflies.jpg "Bill Gates has had a huge humanitarian impact through philanthropy, which we think more than makes up for the blue screen of death.")
 
-**What do we mean by earning to give?**
+## What do we mean by earning to give?
 
 We often meet people who are interested in a higher-earning job, like software engineering, but are worried they won’t make a difference. Part of the reason is that we don’t usually think of earning more money as a path for people who want to do good. However, there are many effective organisations that have no problem finding enthusiastic staff, but don’t have the funds to hire. People who are a good fit for a higher earning option can donate to these organisations, and make a large contribution indirectly.
 
@@ -53,9 +53,9 @@ Another quit his job as a software engineer and founded a startup. He has pledge
 >
 >
 
-**Should you earn to give?**
+## Should you earn to give?
 
-Earning to give has been our most memorable and controversial idea, attracting media coverage in the [BBC](https://www.bbc.com/news/education-15820786), [Washington Post](https://www.bbc.com/news/education-15820786), [Daily Mail](https://www.dailymail.co.uk/news/article-2334682/Young-professionals-joining-Wall-Street-save-world.html) and many other outlets.
+Earning to give has been our most memorable and controversial idea, attracting media coverage in the [BBC](https://www.bbc.com/news/education-15820786), [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2013/05/31/join-wall-street-save-the-world/), [Daily Mail](https://www.dailymail.co.uk/news/article-2334682/Young-professionals-joining-Wall-Street-save-world.html) and many other outlets.
 
 For this reason, many people think it’s our top recommendation. But it’s not: it depends on your situation.
 
@@ -66,23 +66,23 @@ We think earning to give is an option worth considering when:
 * **You’re very uncertain about **[**which problems are most pressing**](https://80000hours.org/career-guide/most-pressing-problems/)**.** Earning to give provides the most flexibility because you can easily change where you donate, or even save the money and give later.
 * **You want to contribute to an area that is more funding-constrained** rather than [talent constrained](https://80000hours.org/2015/11/why-you-should-focus-more-on-talent-gaps-not-funding-gaps/).
 
-In fact, if you’re especially focused on the global problems we think are most pressing, especially within the effective altruism community, then we don’t think earning to give should be your first choice. This is because these areas seem more talent constrained than funding constrained, and it’s more valuable to get career capital relevant to the most pressing problems. Instead, we recommend trying to first contribute directly, in effective non-profits, government or research.
+In fact, if you’re especially focused on [the global problems we think are most pressing](https://80000hours.org/articles/cause-selection/), especially within the effective altruism community, then [we don’t think earning to give should be your first choice](https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-small-proportion-of-people-should-earn-to-give-long-term/). This is because these areas [seem more talent constrained than funding constrained](https://80000hours.org/2017/03/what-skills-are-effective-altruist-organisations-missing/), and it’s more valuable to get career capital relevant to the most pressing problems. Instead, we recommend trying to first contribute directly, in effective non-profits, government or research.
 
-Common objections to earning to give
+## Common objections to earning to give
 
-Can people actually stick with it? Won’t people end up being influenced by their peers to spend the money on luxuries rather than donating? We were worried this would happen when we first introduced the idea, but it hasn’t. Hundreds of people are pursuing earning to give and while some have left because they thought they could do more good elsewhere, no-one we know has simply given up their plans to donate. In part, this is because many people pursuing earning to give made public pledges of their intentions to donate, often through Giving What We Can. The existence of a community that earns to give also makes it much easier to stick with today.
+**Can people actually stick with it?** Won’t people end up being influenced by their peers to spend the money on luxuries rather than donating? We were worried this would happen when we first introduced the idea, but it hasn’t. Hundreds of people are pursuing earning to give and while some have left because they thought they could do more good elsewhere, no-one we know has simply given up their plans to donate. In part, this is because many people pursuing earning to give made public pledges of their intentions to donate, often through [Giving What We Can](https://www.givingwhatwecan.org/pledge/). The existence of a community that earns to give also makes it much easier to stick with today.
 
-Don’t many high earning jobs cause harm? We don’t recommend taking a job that does a lot of harm in order to donate the money. In practice, most people who earn to give work in the fields of technology, asset management, medicine or consulting, and we think these positions do a small amount of good, or are neutral. For instance, many (but not all) financial traders make profits at the expense of other traders, so they’re moving money around, mostly from rich people to other rich people. Of course, there are some people who cause harm in these industries, but that’s true of any industry.
+**Don’t many high earning jobs cause harm?** [We don’t recommend taking a job that does a lot of harm](https://80000hours.org/articles/harmful-career/) in order to donate the money. In practice, most people who earn to give work in the fields of technology, asset management, medicine or consulting, and we think these positions do a small amount of good, or are neutral. For instance, many (but [not all](https://80000hours.org/2015/08/what-are-the-10-most-harmful-jobs/#7-borderline-fraudulent-lending-or-otherwise-making-a-financial-firm-highly-risky)) financial traders make profits at the expense of other traders, so they’re moving money around, mostly from [rich people to other rich people](https://80000hours.org/2015/07/is-wealth-inequality-so-extreme-that-its-ok-to-be-a-ruthless-trader/). Of course, there are _some_ people who cause harm in these industries, but that’s true of any industry.
 
 More broadly, there are lots of ways to earn more money, and we doubt all of these are harmful. What about medicine, engineering or private tutoring? There is also the option to make the industry better from the inside. If you’re socially motivated and you replace someone who doesn’t care about the harm they do, that may well be better for the world.
 
-What if I wouldn’t be motivated doing a high earning job? In that case, don’t do one. We only recommend earning to give if it’s a good fit. Just bear in mind that you can become interested in more jobs than you might think.
+**What if I wouldn’t be motivated doing a high earning job? **In that case, don’t do one. We only recommend earning to give if it’s a good fit. Just bear in mind that [you can become interested in more jobs than you might think](https://80000hours.org/career-guide/job-satisfaction/).
 
-Couldn’t I have more impact doing something else? There’s a good chance that you could, as we cover later in the article.
+**Couldn’t I have more impact doing something else? **There’s a good chance that you could, as we cover later in the article.
 
-(To go into the ethics of earning to give in more depth, see this paper we published.)
+(To go into the ethics of earning to give in more depth, see [this paper](https://www.academia.edu/1557895/Replaceability_Career_Choice_and_Making_a_Difference) we published.)
 
-What’s the best way to earn to give?
+## What’s the best way to earn to give?
 
 Look for an option where you have great personal fit – the chance to excel – that satisfies the following:
 
