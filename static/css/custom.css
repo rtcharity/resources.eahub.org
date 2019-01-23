@@ -335,8 +335,9 @@ label {
   cursor: pointer;
 }
 
-.logo {
+#logo {
   width: 150px;
+  height: auto;
 }
 
 .landing_main {
