@@ -61,13 +61,10 @@ For this reason, many people think it’s our top recommendation. But it’s not
 
 We think earning to give is an option worth considering when:
 
-\    You’re a good fit for a higher-earning option. Don’t become a consultant if you’d hate it – you’ll be more likely to burn out and put your career in a worse long-term position, and you won’t earn that much anyway. Even if you only care about your impact, it’s important to be good at your job.
-
-\    You want to gain skills in a higher earning option (for use in more direct work later on), and earning to give could help you to stay engaged with social impact while you do so. (In our career guide, we explain why it’s important to gain “career capital”.)
-
-\    You’re very uncertain about which problems are most pressing. Earning to give provides the most flexibility because you can easily change where you donate, or even save the money and give later.
-
-\    You want to contribute to an area that is more funding-constrained rather than talent constrained.
+* **You’re a good fit for a higher-earning option.** Don’t become a consultant if you’d hate it – you’ll be more likely to burn out and put your career in a worse long-term position, and you won’t earn that much anyway. Even if you only care about your impact, it’s [important to be good at your job](https://80000hours.org/career-guide/personal-fit/).
+* **You want to gain skills in a higher earning option** (for use in more direct work later on), and earning to give could help you to stay engaged with social impact while you do so. (In our career guide, we explain why it’s important to gain [“career capital”](https://80000hours.org/career-guide/career-capital/).)
+* **You’re very uncertain about **[**which problems are most pressing**](https://80000hours.org/career-guide/most-pressing-problems/)**.** Earning to give provides the most flexibility because you can easily change where you donate, or even save the money and give later.
+* **You want to contribute to an area that is more funding-constrained** rather than [talent constrained](https://80000hours.org/2015/11/why-you-should-focus-more-on-talent-gaps-not-funding-gaps/).
 
 In fact, if you’re especially focused on the global problems we think are most pressing, especially within the effective altruism community, then we don’t think earning to give should be your first choice. This is because these areas seem more talent constrained than funding constrained, and it’s more valuable to get career capital relevant to the most pressing problems. Instead, we recommend trying to first contribute directly, in effective non-profits, government or research.
 
