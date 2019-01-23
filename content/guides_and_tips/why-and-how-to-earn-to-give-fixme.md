@@ -108,19 +108,15 @@ Some other promising options taken by plenty of people we’ve advised include:
 
 In all of these, you could earn far more than the average for a college graduate, while also putting your career in a better position for the future.
 
-Law, investment banking and medicine are other obvious high earning options, but we think they’re a bit worse than the ones above based on their weaker combination of flexibility, growth of the area and direct impact. Art and Entertainment can be highly paid, but the chances of success are sufficiently low that the pay is low on average.
+[Law](https://80000hours.org/career-reviews/high-end-law/), [investment banking](https://80000hours.org/career-reviews/front-office-finance/) and [medicine](https://80000hours.org/career-reviews/medicine/) are other obvious high earning options, but we think they’re a bit worse than the ones above based on their weaker combination of flexibility, growth of the area and direct impact. [Art and Entertainment](https://80000hours.org/career-reviews/pursuing-fame-in-art-and-entertainment/) can be highly paid, but the chances of success are sufficiently low that the pay is low on average.
 
 We also think the following have promise and are a little easier to enter:
 
-\    Marketing
-
-\    Actuarial science
-
-\    Executive search
-
-\    Nursing
-
-\    Allied health
+* Marketing
+* Actuarial science
+* Executive search
+* Nursing
+* Allied health
 
 Bear in mind there are many other options we haven’t yet reviewed, and a huge variety of ways to earn money. One way to think of other ideas is to ask yourself what the big economic trends will be over the next two decades, and how you might get involved with them.
 
