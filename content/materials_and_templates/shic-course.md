@@ -8,6 +8,6 @@ author: Tee Barnett
 relatedArticles:
   - {}
 ---
-<https://shicschools.org/shic-introductory-program>
+****[**The SHIC Introductory Program**](https://shicschools.org/shic-introductory-program/)****
 
-<https://shicschools.org/shic-advanced-program>
+****[**The SHIC Advanced Program**](https://shicschools.org/shic-advanced-program/)****
