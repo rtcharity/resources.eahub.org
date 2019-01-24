@@ -124,7 +124,7 @@ If you don’t have a college degree, programming or sales can be good options. 
 
 There are many paths we haven’t reviewed yet. Someone can earn to give in any career so long as they’re earning more than they would have otherwise in order to donate more. Remember the example of Julia working as a social worker.
 
-As a final note, some companies match charitable donations 1:1, or even more. By choosing an employer that does this, you may be able to double your donations with no effort.
+As a final note, some companies match charitable donations 1:1, or even more. By [choosing an employer that does this](https://80000hours.org/2013/05/how-to-double-your-donations-with-no-extra-effort/), you may be able to double your donations with no effort.
 
 Which charities are most effective?
 
