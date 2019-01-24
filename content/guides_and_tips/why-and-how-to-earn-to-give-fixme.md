@@ -29,7 +29,12 @@ Consider the story of Julia and Jeff, a couple from Boston with two children. Ju
 
 By doing this, they probably have had more impact than they could by working directly in a non-profit. Compare Jeff’s impact to that of the CEO of a non-profit:
 
-![](/img/screenshot_2019-01-23-why-and-how-to-earn-to-give-80-000-hours.png)
+|| Google software engineer|Non-profit CEO|
+|:---|---:|---:|
+|Salary|$250,000|$65,000|
+|Donations|$125,000|$0|
+|Money to live on|$125,000|$65,000|
+|Direct impact of work|Positive|Very positive|
 
 Jeff can live on about two times as much as he would have earned in the non-profit sector, and still donate enough to fund the salaries of about two non-profit CEOs.[<sup>1</sup>](#note-1) On top of this, he may also have some positive direct impact too, since Google has developed valuable innovations like Google Maps and Gmail; _and_ he thinks he’s happier in his work because he enjoys engineering.
 
