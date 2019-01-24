@@ -5,6 +5,7 @@
     <div class="container">
       <div class="navbar-header">
         <a href="\"><img id="logo" src="/img/logo_transparent.png" /></a>
+        <div class="title">{{ .Site.Title }}</div>
         {{ partial "site-navigation.html" . }}
       </div>
     </div>
@@ -12,9 +13,6 @@
 
   <div class="jumbotron">
   <div class="container">
-    {{ if (eq .Page.Title "Resources") }}
-    <img class="hidden-xs" src="/img/banner.png">
-    {{ end }}
     <h2 class="text-center">{{ .Title | default .Site.Title }}</h2>
       {{ with .Params.description }}
         <h4 class="banner-caption">

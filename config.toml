@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "EA Resources"
+title = "Resources"
 theme = "ananke"
 googleAnalytics = "UA-130028424-1"
 
