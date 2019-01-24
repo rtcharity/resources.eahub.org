@@ -112,8 +112,8 @@ In all of these, you could earn far more than the average for a college graduate
 
 We also think the following have promise and are a little easier to enter:
 
-* Marketing
-* Actuarial science
+* [Marketing](https://80000hours.org/career-reviews/work-in-marketing/)
+* [Actuarial science](https://80000hours.org/career-reviews/actuarial-science/)
 * Executive search
 * Nursing
 * Allied health
