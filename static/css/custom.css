@@ -307,6 +307,7 @@ body {
 #logo {
   width: 150px;
   height: auto;
+  margin-top: -7px;
 }
 
 .landing_main {
@@ -362,6 +363,14 @@ body {
 /* nav */
 .navbar-header {
   width: 100%;
+}
+
+.navbar-header .title {
+  color: grey;
+  display: inline-block;
+  padding-left: 10px;
+  font-size: 28px;
+  margin-top: 10px;
 }
 
 .navbar-inverse,
