@@ -144,21 +144,16 @@ Is it more effective to invest money now (or pay down debt), so you can give mor
 
 You can also read more about personal finance and giving:
 
-\    Our quick introduction.
+* [Our quick introduction.](https://80000hours.org/articles/career-capital-in-any-job/#4-save-money)
+* [An introduction by Ben Kuhn.](https://www.benkuhn.net/giving-101)
 
-\    An introduction by Ben Kuhn.
+**Continue with the career guide**
 
-Continue with the career guide
+* [Which jobs put you in the best position for the future?](https://80000hours.org/career-guide/career-capital/)
 
-Which jobs put you in the best position for the future?
+If you’re new, go to the [start of the guide](https://80000hours.org/career-guide/) for an overview.
 
-If you’re new, go to the start of the guide for an overview.
-
-No time right now? Join our newsletter and we’ll send you one article each week.
-
-\    LikeTweetShareEmailPrint
-
-Notes and references
+## Notes and references
 
 \    The 2012 Watkins Uiberal Report found that (LINK): The median salary for executive directors/CEOs is between $50,000 and $75,000. CEO salaries correlate with organizational budget size. For small organizations, the median salary is between $30,000 and $50,000. Among medium-sized organizations, 36% of CEOs have salaries between $50,000 and $75,000, while 50.5% earn more than $75,000 and 13.5% earn less than $50,000. Among large organizations, 14.2% pay salaries of $100,000 or less; 38.1% pay between $101,000 and $150,000; and 47.7% pay more than $150,000. Note that this is significantly lower than the median figures reported by the prominent Charity Navigator Annual Survey. This is because Charity Navigator focuses on “mid to large” US charities, which pay substantially higher salaries.↩
 
