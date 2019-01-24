@@ -126,17 +126,21 @@ There are many paths we haven’t reviewed yet. Someone can earn to give in any 
 
 As a final note, some companies match charitable donations 1:1, or even more. By [choosing an employer that does this](https://80000hours.org/2013/05/how-to-double-your-donations-with-no-extra-effort/), you may be able to double your donations with no effort.
 
-Which charities are most effective?
+**Which charities are most effective?**
 
-Many social interventions have no proven impact, and many other charities are poorly run black boxes. So if you give to the wrong organisation, you won’t achieve much.
+Many social interventions have [no proven impact](https://80000hours.org/career-guide/most-pressing-problems/), and many other charities are poorly run black boxes. So if you give to the wrong organisation, you won’t achieve much.
 
-On the other hand, so long as there’s at least one highly effective organisation to fund, then earning to give can be high impact. You don’t even need to limit yourself to funding charities – you could fund research, political advocacy or for-good for-profits instead.
+On the other hand, so long as there’s_ at least _one highly effective organisation to fund, then earning to give can be high impact. You don’t even need to limit yourself to funding charities – you could fund research, political advocacy or for-good for-profits instead.
 
 Learn about which charities are most effective here:
 
-Should you give now or later?
+* [Where to donate](https://80000hours.org/articles/best-charity/)
+
+**Should you give now or later?**
 
 Is it more effective to invest money now (or pay down debt), so you can give more in the future, or to start giving right away? We consider this here:
+
+* [Give now or later?](https://80000hours.org/articles/should-you-wait/)
 
 You can also read more about personal finance and giving:
 
