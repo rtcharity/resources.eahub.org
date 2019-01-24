@@ -114,9 +114,9 @@ We also think the following have promise and are a little easier to enter:
 
 * [Marketing](https://80000hours.org/career-reviews/work-in-marketing/)
 * [Actuarial science](https://80000hours.org/career-reviews/actuarial-science/)
-* Executive search
-* Nursing
-* Allied health
+* [Executive search](https://80000hours.org/career-reviews/executive-search/)
+* [Nursing](https://80000hours.org/career-reviews/nursing/)
+* [Allied health](https://80000hours.org/career-reviews/allied-health-professional/)
 
 Bear in mind there are many other options we haven’t yet reviewed, and a huge variety of ways to earn money. One way to think of other ideas is to ask yourself what the big economic trends will be over the next two decades, and how you might get involved with them.
 
