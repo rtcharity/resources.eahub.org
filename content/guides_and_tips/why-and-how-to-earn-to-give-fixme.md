@@ -31,11 +31,11 @@ By doing this, they probably have had more impact than they could by working dir
 
 ![](/img/screenshot_2019-01-23-why-and-how-to-earn-to-give-80-000-hours.png)
 
-Jeff can live on about two times as much as he would have earned in the non-profit sector, and still donate enough to fund the salaries of about two non-profit CEOs.1 On top of this, he may also have some positive direct impact too, since Google has developed valuable innovations like Google Maps and Gmail; _and_ he thinks he’s happier in his work because he enjoys engineering.
+Jeff can live on about two times as much as he would have earned in the non-profit sector, and still donate enough to fund the salaries of about two non-profit CEOs.[<sup>1</sup>](#note-1) On top of this, he may also have some positive direct impact too, since Google has developed valuable innovations like Google Maps and Gmail; _and_ he thinks he’s happier in his work because he enjoys engineering.
 
 Moreover, Jeff and Julia can switch their donations to whichever organisations are most in need of funds at any given time based on their research, whereas it’s harder to change where you work. This flexibility is particularly valuable because we [don’t know](https://80000hours.org/career-guide/career-capital/#what-are-the-benefits-of-focusing-on-flexible-career-capital) which problems will be most pressing in the future.
 
-This opportunity exists because we happen to live in a world with huge income inequality – it’s possible to earn several times as much as a teacher or non-profit worker, and vastly more than the world’s poorest people. At the same time, hardly anyone donates more than a few percent of their income,2 so _if you are_ willing to do so, you can have an amazing impact in a very wide range of jobs.
+This opportunity exists because we happen to live in a world with huge income inequality – it’s possible to earn several times as much as a teacher or non-profit worker, and vastly more than the world’s poorest people. At the same time, hardly anyone donates more than a few percent of their income,[<sup>2</sup>](#note-2) so _if you are_ willing to do so, you can have an amazing impact in a very wide range of jobs.
 
 Any college graduate in a developed country can have a major impact by giving 10% to an effective charity. The average graduate earns $68,000 per year over their life, and 10% of that could save almost 100 lives if given to the Against Malaria Foundation for example.
 
@@ -120,7 +120,7 @@ We also think the following have promise and are a little easier to enter:
 
 Bear in mind there are many other options we haven’t yet reviewed, and a huge variety of ways to earn money. One way to think of other ideas is to ask yourself what the big economic trends will be over the next two decades, and how you might get involved with them.
 
-If you don’t have a college degree, programming or sales can be good options. Some trades are also highly paid. For instance, the top 10% of plumbers earn over $89,000 per year,3 more than what the average college graduate earns.
+If you don’t have a college degree, programming or sales can be good options. Some trades are also highly paid. For instance, the top 10% of plumbers earn over $89,000 per year,[<sup>3</sup>](#note-3) more than what the average college graduate earns.
 
 There are many paths we haven’t reviewed yet. Someone can earn to give in any career so long as they’re earning more than they would have otherwise in order to donate more. Remember the example of Julia working as a social worker.
 
@@ -157,11 +157,11 @@ _No time right now? Join _[_80,000 Hours' newsletter_](https://80000hours.org/ne
 
 ## Notes and references
 
-1. The 2012 Watkins Uiberal Report found that ([LINK](http://www.cnm.org/Documents/2012-Watkins-Uiberall-NFP-Survey.pdf)): _The median salary for executive directors/CEOs is between $50,000 and $75,000. CEO salaries correlate with organizational budget size. For small organizations, the median salary is between $30,000 and $50,000. Among medium-sized organizations, 36% of CEOs have salaries between $50,000 and $75,000, while 50.5% earn more than $75,000 and 13.5% earn less than $50,000. Among large organizations, 14.2% pay salaries of $100,000 or less; 38.1% pay between $101,000 and $150,000; and 47.7% pay more than $150,000. _Note that this is significantly lower than the median figures reported by the prominent [Charity Navigator Annual Survey](https://www.charitynavigator.org/index.cfm?bay=studies.ceo#.U-vdpPldXkA). This is because Charity Navigator focuses on “mid to large” US charities, which pay substantially higher salaries.
+<a name="note-1" href="javascript:history.back()">1.</a> The 2012 Watkins Uiberal Report found that ([LINK](http://www.cnm.org/Documents/2012-Watkins-Uiberall-NFP-Survey.pdf)): _The median salary for executive directors/CEOs is between $50,000 and $75,000. CEO salaries correlate with organizational budget size. For small organizations, the median salary is between $30,000 and $50,000. Among medium-sized organizations, 36% of CEOs have salaries between $50,000 and $75,000, while 50.5% earn more than $75,000 and 13.5% earn less than $50,000. Among large organizations, 14.2% pay salaries of $100,000 or less; 38.1% pay between $101,000 and $150,000; and 47.7% pay more than $150,000. _Note that this is significantly lower than the median figures reported by the prominent [Charity Navigator Annual Survey](https://www.charitynavigator.org/index.cfm?bay=studies.ceo#.U-vdpPldXkA). This is because Charity Navigator focuses on “mid to large” US charities, which pay substantially higher salaries.
 
-2. [This study](https://www.manchester.ac.uk/discover/news/poor-more-generous-than-rich-in-recession-study-shows/) showed that in the UK the rich only give about 1% of their income to charity, and the figures seem to only be slightly higher in the US e.g. [Ken Berger claims they give 1.3%](https://www.theatlantic.com/magazine/archive/2013/04/why-the-rich-dont-give/309254/).
+<a name="note-2" href="javascript:history.back()">2.</a> [This study](https://www.manchester.ac.uk/discover/news/poor-more-generous-than-rich-in-recession-study-shows/) showed that in the UK the rich only give about 1% of their income to charity, and the figures seem to only be slightly higher in the US e.g. [Ken Berger claims they give 1.3%](https://www.theatlantic.com/magazine/archive/2013/04/why-the-rich-dont-give/309254/).
 
-3.
+<a name="note-3" href="javascript:history.back()">3.</a>
 
 > The median annual wage for plumbers, pipefitters, and steamfitters was $50,620 in May 2015. The median wage is the wage at which half the workers in an occupation earned more than that amount and half earned less. The lowest 10 percent earned less than $29,680, and the highest 10 percent earned more than $89,720.
 
