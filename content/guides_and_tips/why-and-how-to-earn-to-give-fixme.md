@@ -153,12 +153,14 @@ You can also read more about personal finance and giving:
 
 If you’re new, go to the [start of the guide](https://80000hours.org/career-guide/) for an overview.
 
+_No time right now? Join _[_80,000 Hours' newsletter_](https://80000hours.org/newsletter/)_ and they’ll send you one article each week._
+
 ## Notes and references
 
-\    The 2012 Watkins Uiberal Report found that (LINK): The median salary for executive directors/CEOs is between $50,000 and $75,000. CEO salaries correlate with organizational budget size. For small organizations, the median salary is between $30,000 and $50,000. Among medium-sized organizations, 36% of CEOs have salaries between $50,000 and $75,000, while 50.5% earn more than $75,000 and 13.5% earn less than $50,000. Among large organizations, 14.2% pay salaries of $100,000 or less; 38.1% pay between $101,000 and $150,000; and 47.7% pay more than $150,000. Note that this is significantly lower than the median figures reported by the prominent Charity Navigator Annual Survey. This is because Charity Navigator focuses on “mid to large” US charities, which pay substantially higher salaries.↩
+\    The 2012 Watkins Uiberal Report found that ([LINK](http://www.cnm.org/Documents/2012-Watkins-Uiberall-NFP-Survey.pdf)): _The median salary for executive directors/CEOs is between $50,000 and $75,000. CEO salaries correlate with organizational budget size. For small organizations, the median salary is between $30,000 and $50,000. Among medium-sized organizations, 36% of CEOs have salaries between $50,000 and $75,000, while 50.5% earn more than $75,000 and 13.5% earn less than $50,000. Among large organizations, 14.2% pay salaries of $100,000 or less; 38.1% pay between $101,000 and $150,000; and 47.7% pay more than $150,000. _Note that this is significantly lower than the median figures reported by the prominent [Charity Navigator Annual Survey](https://www.charitynavigator.org/index.cfm?bay=studies.ceo#.U-vdpPldXkA). This is because Charity Navigator focuses on “mid to large” US charities, which pay substantially higher salaries.↩
 
-\    This study showed that in the UK the rich only give about 1% of their income to charity, and the figures seem to only be slightly higher in the US e.g. Ken Berger claims they give 1.3%.↩
+\    [This study](https://www.manchester.ac.uk/discover/news/poor-more-generous-than-rich-in-recession-study-shows/) showed that in the UK the rich only give about 1% of their income to charity, and the figures seem to only be slightly higher in the US e.g. [Ken Berger claims they give 1.3%](https://www.theatlantic.com/magazine/archive/2013/04/why-the-rich-dont-give/309254/).↩
 
-\    The median annual wage for plumbers, pipefitters, and steamfitters was $50,620 in May 2015. The median wage is the wage at which half the workers in an occupation earned more than that amount and half earned less. The lowest 10 percent earned less than $29,680, and the highest 10 percent earned more than $89,720.
+> The median annual wage for plumbers, pipefitters, and steamfitters was $50,620 in May 2015. The median wage is the wage at which half the workers in an occupation earned more than that amount and half earned less. The lowest 10 percent earned less than $29,680, and the highest 10 percent earned more than $89,720.
 
-\    BLS Occupational Outlook Handbook, Archived link, retrieved 13-June-2016.
+BLS Occupational Outlook Handbook, [Archived link](https://web.archive.org/save/http://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm#tab-5), retrieved 13-June-2016.
