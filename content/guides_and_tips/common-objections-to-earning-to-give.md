@@ -33,7 +33,7 @@ One common response is that it’s still not OK to participate in the Wall Stree
 >
 > For instance a company may want to exploit emerging markets for tobacco products. –**Mark in Colorado**
 
-These kind of retorts are why it’s very important to mention [replaceability](https://80000hours.org/2012/03/the-replaceability-effect-working-in-unethical-industries-part-1/): that if you don’t work in an unethical industry, someone else (who’s probably more unethical)1 will take your place. For a lot of people, after they hear the replaceability argument, it seems so obvious in retrospect that they don’t mention it except as a counter-argument when they realize that other people haven’t figured it out.
+These kind of retorts are why it’s very important to mention [replaceability](https://80000hours.org/2012/03/the-replaceability-effect-working-in-unethical-industries-part-1/): that if you don’t work in an unethical industry, someone else <del>(who’s probably more unethical)</del>[<sup>1</sup>](#note-1) will take your place. For a lot of people, after they hear the replaceability argument, it seems so obvious in retrospect that they don’t mention it except as a counter-argument when they realize that other people haven’t figured it out.
 
 But in fact, it seems replaceability (and more generally, thinking about marginal, rather than total, effects) is highly non-obvious to most people. So I think we need to talk about replaceability a lot more, especially in mainstream sources.
 
@@ -120,4 +120,4 @@ I think this might be the most important objection to get better at answering–
 
 This is only intended to be one step in the process of responding to mainstream views of earning to give. I don’t have very many thoughts yet about how to make effective-altruism memes more resilient to objections like these. I mostly just want to do the legwork of categorizing the most common objections, so that more skilled rhetoricians than I can figure out how to spread memes that answer them.
 
-UPDATE: I no longer think we should repeat this part of the point to a broad audience, at least until we have more evidence for it. See the discussion with Adam Shriver in the comments for details.
+<a name="note-1" href="javascript:history.back()">1:</a> UPDATE: I no longer think we should repeat this part of the point to a broad audience, at least until we have more evidence for it. See the discussion with Adam Shriver in the comments for details.
