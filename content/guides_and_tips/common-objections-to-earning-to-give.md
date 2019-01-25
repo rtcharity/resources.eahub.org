@@ -11,30 +11,40 @@ license:
 relatedArticles:
   - {}
 ---
-Recently the Washington Post’s Wonkblog had some in-depth [coverage](https://www.washingtonpost.com/news/wonk/wp/2013/05/31/join-wall-street-save-the-world/) of a bunch of people who are earning to give.
+Recently the Washington Post’s _Wonkblog_ had some in-depth [coverage](https://www.washingtonpost.com/news/wonk/wp/2013/05/31/join-wall-street-save-the-world/) of a bunch of people who are earning to give.
 
 It’s really exciting to see effective altruism’s ideas hitting the mainstream. This article in particular also has a very interesting new feature: a large comments section full of people who don’t already agree with us.
 
 The level of discourse there is pretty low, but if we want the ideas behind effective altruism to spread thoroughly, they have to be able to survive in that kind of environment. So I decided it might be instructive to hold my nose, read the comments section and try to draw lessons about how we can refine our ideas for a wider audience.
 
 Reading through the negative responses, there are roughly five principal components of the objections. Some combination of these components accounted for all the attacks against earning to give that I saw (I read through the whole thread up to 12 PM on June 1st, although my eyes may have glazed over a couple of times). So here are the five main strains:
-You’re supporting the system!
+
+
+**You’re supporting the system!**
 
 One common response is that it’s still not OK to participate in the Wall Street “system”.
 
-```
-If you make commodities more expensive through trading and excessive speculation, than donate your a portion of your profits to starving people, it’s a bit disingenuous, because you are part of the reason that the price of their food is beyond their reach. –mhdrgdajveeah
+> If you make commodities more expensive through trading and excessive speculation, than donate your a portion of your profits to starving people, it’s a bit disingenuous, because you are part of the reason that the price of their food is beyond their reach. –
+>
+> **mhdrgdajveeah**
+>
+>
+>
+> Nonsense. Wall Street is ruining this country. Dirty, rotten, greedy scum. All of them. So what if they give away some of their money. How about the hard working people who have been ruined by Wall Street? –
+>
+> **dubhlaoich**
+>
+>
+>
+> The problem you run into –
+>
+> If you are making the money by financing a company that is doing more harm than you can possibly do good from your profit.
+>
+> For instance a company may want to exploit emerging markets for tobacco products. –
+>
+> **Mark in Colorado**
 
-Nonsense. Wall Street is ruining this country. Dirty, rotten, greedy scum. All of them. So what if they give away some of their money. How about the hard working people who have been ruined by Wall Street? –dubhlaoich
-
-The problem you run into –
-
-If you are making the money by financing a company that is doing more harm than you can possibly do good from your profit.
-
-For instance a company may want to exploit emerging markets for tobacco products. –Mark in Colorado
-```
-
-These kind of retorts are why it’s very important to mention replaceability: that if you don’t work in an unethical industry, someone else (who’s probably more unethical)1 will take your place. For a lot of people, after they hear the replaceability argument, it seems so obvious in retrospect that they don’t mention it except as a counter-argument when they realize that other people haven’t figured it out.
+These kind of retorts are why it’s very important to mention [replaceability](https://80000hours.org/2012/03/the-replaceability-effect-working-in-unethical-industries-part-1/): that if you don’t work in an unethical industry, someone else (who’s probably more unethical)1 will take your place. For a lot of people, after they hear the replaceability argument, it seems so obvious in retrospect that they don’t mention it except as a counter-argument when they realize that other people haven’t figured it out.
 
 But in fact, it seems replaceability (and more generally, thinking about marginal, rather than total, effects) is highly non-obvious to most people. So I think we need to talk about replaceability a lot more, especially in mainstream sources.
 What about big problem x?
