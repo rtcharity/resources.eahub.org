@@ -53,68 +53,43 @@ We need to emphasize more that _we care about these problems, we just can’t do
 
 Another common argument is that solving disease is curing a symptom, not a cause.
 
-> I’ve nothing against charity, but the belief that this sort of charity will “save the world” is naive and ignores the structural conditions that perpetuate poverty. So long as property and wealth continues to be concentrated in a small number of hands – Wall Street being emblematic of this – there will continue to be those deprived of the basic necessities of life. –
+> I’ve nothing against charity, but the belief that this sort of charity will “save the world” is naive and ignores the structural conditions that perpetuate poverty. So long as property and wealth continues to be concentrated in a small number of hands – Wall Street being emblematic of this – there will continue to be those deprived of the basic necessities of life. –**GeorgeStevens**
 >
-> **GeorgeStevens**
->
->
->
-> I do find this talk about saving lives curiously bloodless. It’s a little like pro-lifers forcing women to give birth to their fetuses, only for them (the pro-lifers) to walk away from the resulting infant and call back to them, “You’re on your own now!” These do-gooders are just kicking the can a little further down the road. –
->
-> **barnesgene**
+> I do find this talk about saving lives curiously bloodless. It’s a little like pro-lifers forcing women to give birth to their fetuses, only for them (the pro-lifers) to walk away from the resulting infant and call back to them, “You’re on your own now!” These do-gooders are just kicking the can a little further down the road. –**barnesgene**
 
 I don’t know too much about development economics, but I think there’s a fairly clear response here: it’s not a cause/symptom relationship, it’s a vicious cycle. Poor countries have no health infrstructure, so they have high disease burd en, so they’re economically disadvantaged, so they can’t build health infrastructure. Attacking any portion of the loop is helpful, and disease happens to be the easiest to solve from outside.
 
 ## 
+
 But we can’t ever _know_ how much good we’re doing!
 
 The trend that is most annoying to me personally is the insistence that since we don’t know things for sure, we shouldn’t do anything.
 
-> Is it really ethical (or smart) to fund mosquito nets in lieu of a seeing eye dog on the premise that thousands of nets can be bought for one dog? Can they really know per-emptively \[sic] the value will come from the distribution of those nets versus the placement of one service dog? And if they do know, what are the criteria that they use to justify their decision? Is it reasonable to assume that mosquito netting will make a contribution to African society in way that one seeing eye dog cannot make too somebody in this country? –
+> Is it really ethical (or smart) to fund mosquito nets in lieu of a seeing eye dog on the premise that thousands of nets can be bought for one dog? Can they really know per-emptively \[sic] the value will come from the distribution of those nets versus the placement of one service dog? And if they do know, what are the criteria that they use to justify their decision? Is it reasonable to assume that mosquito netting will make a contribution to African society in way that one seeing eye dog cannot make too somebody in this country? –**cleverrevolution**
 >
-> **cleverrevolution**
->
->
->
-> A lot of the comments stem from the ultimate problem with the sort of Utilitarian arguments Singer presents. Because of the incredible complexity of the world and the actions of our consequences, attempts to treat the maximization of minimal global goods often end in absurdity or obscurity. Which action, given the infinitude of unforeseeable consequences of any action, will maximize goods? Unfortunately, much more difficult to say than just ‘save this girl!’ Then, how far do you go? The best objection I’ve seen in this vane is Parfit’s repugnant conclusion. For those interested: 
->
-> [http://plato.stanford.edu/entries/repugnant-conclu…](https://plato.stanford.edu/entries/repugnant-conclusion/)
->
->  –
->
-> **Calicles**
+> A lot of the comments stem from the ultimate problem with the sort of Utilitarian arguments Singer presents. Because of the incredible complexity of the world and the actions of our consequences, attempts to treat the maximization of minimal global goods often end in absurdity or obscurity. Which action, given the infinitude of unforeseeable consequences of any action, will maximize goods? Unfortunately, much more difficult to say than just ‘save this girl!’ Then, how far do you go? The best objection I’ve seen in this vane is Parfit’s repugnant conclusion. For those interested: [http://plato.stanford.edu/entries/repugnant-conclu…](https://plato.stanford.edu/entries/repugnant-conclusion/)–**Calicles**
 
 It’s not an accident that the only objecter actually to engage with philosophy fell under this category: the counter-argument is a bit more nuanced and difficult to explain. Unfortunately, I have no idea how to boil it down into a form that can survive and replicate in a comment thread–though I think it’s pretty important that we figure something out.
 
 Anyway, the basic form of the counter-argument is that, sure, we don’t know what the end result will be, but we can make a really good guess. Good enough that using such estimates gets way, way better results than doing what feels intuitively right, or whatever other rule you’re picking actions by. I’ve been reading a lot of Slate Star Codex recently, so I’ll refer interested readers to [Scott Alexander](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/) for a more detailed analysis of this problem.
 
 ## 
+
 But deontology/virtue ethics!
 
 Possibly the most important thing we can learn from these comments is that lots of people just aren’t consequentialists–not even because of philosophical objections like Calicles, but because the default morality that most people grow up with isn’t consequentialism.
 
-> I don’t know anything about hedge funds but isn’t that generally unethical?? The ends do not justify the means. –
->
-> **GerriM**
->
->
+> I don’t know anything about hedge funds but isn’t that generally unethical?? The ends do not justify the means. –**GerriM**
 >
 > Oh, please. Saving the world is Jesus’ job. Working on Wall Street makes you a financial industry employee, not a savior of anything. If you want to do the world some good, then act like a man. Remember manhood? Remember value? Remember not speculating and gambling, but building and constructing? Stop ripping people off with fake math. Call it like it is.
 >
 > It’s not the money, but the merit, that gives a man the glow of sunshine.
 >
-> Figure it out, kid. –
+> Figure it out, kid. –**agx48**
 >
-> **agx48**
->
->
->
-> Trigg’s mistake is dicounting the human element that makes his money able to do something. Without the human element the money doesn’t make a difference. Such a petulant child. –
->
-> **Frazil**
+> Trigg’s mistake is dicounting the human element that makes his money able to do something. Without the human element the money doesn’t make a difference. Such a petulant child. –**Frazil**
 
 I think this might be the most important objection to get better at answering–not only to get people to accept earning to give, but to raise the sanity waterline more generally. I hope to touch more on what exactly is going on with these commenters in a future post. But the upshot is that making consequentialism more viscerally appealing to people is a really important thing to do.
-
 
 ## Conclusion
 
