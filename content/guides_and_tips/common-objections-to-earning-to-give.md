@@ -47,20 +47,28 @@ One common response is that it’s still not OK to participate in the Wall Stree
 These kind of retorts are why it’s very important to mention [replaceability](https://80000hours.org/2012/03/the-replaceability-effect-working-in-unethical-industries-part-1/): that if you don’t work in an unethical industry, someone else (who’s probably more unethical)1 will take your place. For a lot of people, after they hear the replaceability argument, it seems so obvious in retrospect that they don’t mention it except as a counter-argument when they realize that other people haven’t figured it out.
 
 But in fact, it seems replaceability (and more generally, thinking about marginal, rather than total, effects) is highly non-obvious to most people. So I think we need to talk about replaceability a lot more, especially in mainstream sources.
-What about big problem x?
+
+
+**What about big problem x?**
 
 This type of comment complains that those who are earning to give should be working on some piece of a bigger problem. In this case the main target is “fixing the system”:
 
-```
-I suppose that’s noble to play against the greedy at their own game, but I’d rather see the ‘game’ simply not exist. Or how about simply assessing a fair tax rate on trades, to support our government’s efforts to eradicate malaria, among many other things? –naomi94112
+> I suppose that’s noble to play against the greedy at their own game, but I’d rather see the ‘game’ simply not exist. Or how about simply assessing a fair tax rate on trades, to support our government’s efforts to eradicate malaria, among many other things? –naomi94112
+>
+> and, just what ecocide is being supported or expanded by the companies whose stocks are being blindly manipulated for profit? Wouldn’t it be better to attempt to truly change the world by changing US policy toward the environment, for example? –
+>
+> **getsmart4**
+>
+>
+>
+> We need the smart, dedicated people who want to do the right thing to put their energies and talents directly into reforming a system that is dragging people down, or at least not enabling it. –
+>
+> **jgunne**
 
-and, just what ecocide is being supported or expanded by the companies whose stocks are being blindly manipulated for profit? Wouldn’t it be better to attempt to truly change the world by changing US policy toward the environment, for example? –getsmart4
+We need to emphasize more that we care about these problems, we just can’t do much about them. Take financial reform. The financial industry currently records profits of about $120 billion a year ([source](http://blogs.reuters.com/felix-salmon/2011/03/30/chart-of-the-day-us-financial-profits/)). If proposed reforms halve those profits, the industry should be willing to spend up to $60 billion a year on lobbying to prevent such reform, which means we’d need to muster the same kind of resources to pass such reform. That’s about the total estimated cost of curing malaria by 2020 ([source](http://www.rbm.who.int/gmap/2-5.html)), every year. So just because something is a big problem, doesn’t mean it’s the best problem to work on.
 
-We need the smart, dedicated people who want to do the right thing to put their energies and talents directly into reforming a system that is dragging people down, or at least not enabling it. –jgunne
-```
 
-We need to emphasize more that we care about these problems, we just can’t do much about them. Take financial reform. The financial industry currently records profits of about $120 billion a year (source). If proposed reforms halve those profits, the industry should be willing to spend up to $60 billion a year on lobbying to prevent such reform, which means we’d need to muster the same kind of resources to pass such reform. That’s about the total estimated cost of curing malaria by 2020 (source), every year. So just because something is a big problem, doesn’t mean it’s the best problem to work on.
-You should attack the causes, not the symptoms.
+**You should attack the causes, not the symptoms.**
 
 Another common argument is that solving disease is curing a symptom, not a cause.
 
