@@ -212,7 +212,7 @@ If you do want dinners with professors...
 
 All of this said, professors can add tremendous value to your group. For this reason, we decided to have a series of “Dinners with Professors” parallel to the fellowship, which was open to board members and fellows. If you run these, here are some helpful tips.
 
-Pick professors carefully and never bring a professor without meeting them in person first
+_Pick professors carefully and never bring a professor without meeting them in person first_
 
 Some professors are surprisingly awful at giving talks and leading discussions. Others seem like they do interesting work, but then it turns out that their opinions are antithetical to core effective altruism ideas. Few semesters ago, we managed to bring a professor who was an awfully dull speaker _and_ was convinced that it was ridiculous to even be the slightest worried about AI alignment. To be sure, it can be could to have professors push back on mainstream EA thinking, but it’s not very useful if they don’t even agree with the very basic principles that make EA what it is.
 
@@ -408,30 +408,17 @@ Fellows who have participated to a satisfactory degree (in the handbook, this wa
 
 These appendices are _not intended to be read_ from A-Z. Rather, they might be useful to answer particular questions like “What readings should I assign this week?” or “What are some talking points I can draw on in case tonight’s discussion comes to a halt?”
 
-[Appendix 1: Poster for recruitment](https://drive.google.com/file/d/1tmFTUdedwT0Venjx5b8TUbQ_8cNLJxry/view) (**On request, we can also send you the canva template to edit**)
-
-[Appendix 2: Reading list](https://docs.google.com/document/d/1hYY0T_OL6CV5vbzM6EPkOoBHqHeoexV1-nsPiLz8fZM/edit?usp=sharing)
-
-[Appendix 3: Discussion talking points](https://docs.google.com/document/d/1GGI9hyt_xydu1ibV2-nnMqP3sjG76O5r3jSRqpPUeHI/edit?usp=sharing)
-
-[Appendix 4: Emails sent to fellows](https://docs.google.com/document/d/1bQ5mp55FCXvazFXHvoyCn93bFIMbAjgKGHaK5176_UY/edit)
-
-[Appendix 5: Handbook](https://docs.google.com/document/d/1Ax34htqh3NC-UhHLt5mZ9cqd1NNAz4crWCeJ5UPiK9A/edit)
-
-[Appendix 6: Research summaries examples](https://docs.google.com/document/d/1UEekPceeTuk6sjNxKtfMMFJi4mQEcd-cL6uKQQM5O9A/edit?usp=sharing)
-
-[Appendix 7a: Pre-fellowship survey design](https://goo.gl/forms/JxxsGFFSgBpltjFC2)
-
-[Appendix 7b: Post-fellowship survey design](https://docs.google.com/forms/d/e/1FAIpQLSesKP-dQbwRGboNkbf6PeaTQMoUVHCkQtBTdhwtebI6Tz1tMw/viewform?usp=sf_link)
-
-[Appendix 7c: Notes on survey design](https://docs.google.com/document/d/1619ttN_y2ItZP9kDCxRyN1xLIBC0d66jShbHcmLhABM/edit?usp=sharing)
-
-[Appendix 8: Survey results](https://docs.google.com/document/d/15ibYoxHnipIShIrtU6DumcAAkLp7xFBvvmoLIx6Mlew/edit?usp=sharing)
-
-[Appendix 9: Example certificate](https://drive.google.com/file/d/1G1BaMB0QG3IorSeXku8mzzo4tYErlTGi/view?usp=sharing) (**On request, we can also send you the canva template to edit**)
-
-[Appendix 10a: Intro workshop content](https://docs.google.com/document/d/16aCEDjN8b7oCNnvEKw7ehQSCfa9HMJPEXMGGLjjaXSU/edit?usp=sharing)
-
-[Appendix 10b: Intro workshop slides](https://docs.google.com/presentation/d/1qECbwvzvjBWPQsn_R9oF9tkr74zXJMWjKPlbdcNuI7w/edit?usp=sharing)
-
-[Appendix 11: Fellowship Application](https://docs.google.com/forms/d/1ncVlX6ITWrrOTQF4DgVkPK46xOM5Fzku1nPY1x8M4U0/edit?usp=sharing)
+* [Appendix 1: Poster for recruitment](https://drive.google.com/file/d/1tmFTUdedwT0Venjx5b8TUbQ_8cNLJxry/view) (**On request, we can also send you the canva template to edit**)
+* [Appendix 2: Reading list](https://docs.google.com/document/d/1hYY0T_OL6CV5vbzM6EPkOoBHqHeoexV1-nsPiLz8fZM/edit?usp=sharing)
+* [Appendix 3: Discussion talking points](https://docs.google.com/document/d/1GGI9hyt_xydu1ibV2-nnMqP3sjG76O5r3jSRqpPUeHI/edit?usp=sharing)
+* [Appendix 4: Emails sent to fellows](https://docs.google.com/document/d/1bQ5mp55FCXvazFXHvoyCn93bFIMbAjgKGHaK5176_UY/edit)
+* [Appendix 5: Handbook](https://docs.google.com/document/d/1Ax34htqh3NC-UhHLt5mZ9cqd1NNAz4crWCeJ5UPiK9A/edit)
+* [Appendix 6: Research summaries examples](https://docs.google.com/document/d/1UEekPceeTuk6sjNxKtfMMFJi4mQEcd-cL6uKQQM5O9A/edit?usp=sharing)
+* [Appendix 7a: Pre-fellowship survey design](https://goo.gl/forms/JxxsGFFSgBpltjFC2)
+* [Appendix 7b: Post-fellowship survey design](https://docs.google.com/forms/d/e/1FAIpQLSesKP-dQbwRGboNkbf6PeaTQMoUVHCkQtBTdhwtebI6Tz1tMw/viewform?usp=sf_link)
+* [Appendix 7c: Notes on survey design](https://docs.google.com/document/d/1619ttN_y2ItZP9kDCxRyN1xLIBC0d66jShbHcmLhABM/edit?usp=sharing)
+* [Appendix 8: Survey results](https://docs.google.com/document/d/15ibYoxHnipIShIrtU6DumcAAkLp7xFBvvmoLIx6Mlew/edit?usp=sharing)
+* [Appendix 9: Example certificate](https://drive.google.com/file/d/1G1BaMB0QG3IorSeXku8mzzo4tYErlTGi/view?usp=sharing) (**On request, we can also send you the canva template to edit**)
+* [Appendix 10a: Intro workshop content](https://docs.google.com/document/d/16aCEDjN8b7oCNnvEKw7ehQSCfa9HMJPEXMGGLjjaXSU/edit?usp=sharing)
+* [Appendix 10b: Intro workshop slides](https://docs.google.com/presentation/d/1qECbwvzvjBWPQsn_R9oF9tkr74zXJMWjKPlbdcNuI7w/edit?usp=sharing)
+* [Appendix 11: Fellowship Application](https://docs.google.com/forms/d/1ncVlX6ITWrrOTQF4DgVkPK46xOM5Fzku1nPY1x8M4U0/edit?usp=sharing)
