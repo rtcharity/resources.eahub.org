@@ -17,7 +17,7 @@ relatedArticles:
 ---
 ## Introduction to the guide
 
-This document is based on three semesters’ worth of experience running effective altruism fellowships at Yale University, though most of what I write here relates to the Fall 2018 semester, which was novel in several important ways. The document is intended to help groups run successful fellowships or similar projects. The document can either be read in its entirety or used as a encyclopedia. The appendices are comprehensive and are especially useful for group organizers. For any questions, don’t hesitate to reach out to [joshua.monrad@yale.edu](joshua.monrad@yale.edu). If you wish to reach Yale Effective Altruism (YEA) in order to collaborate, get involved or inquire about anything, contact yaleeas@gmail.com.
+This document is based on three semesters’ worth of experience running effective altruism fellowships at Yale University, though most of what I write here relates to the Fall 2018 semester, which was novel in several important ways. The document is intended to help groups run successful fellowships or similar projects. The document can either be read in its entirety or used as a encyclopedia. The [appendices](#appends) are comprehensive and are especially useful for group organizers. For any questions, don’t hesitate to reach out to [joshua.monrad@yale.edu](joshua.monrad@yale.edu). If you wish to reach Yale Effective Altruism (YEA) in order to collaborate, get involved or inquire about anything, contact yaleeas@gmail.com.
 
 ## Summary
 
@@ -61,11 +61,11 @@ Reaching the right number and the right type of people will be essential to a go
 
 **Advertisement**
 
-**How to properly advertise the fellowship.** One of the most important things I ever learned about running the fellowship is this: _You get what you advertise for_. Before the Spring 2018 semester, I would often advertise the program by saying things like “It’s not a huge time commitment, you just have to come for some dinners, and you’ll be eating anyway right?” and “It’s definitely NOT like an extra class!” My reasoning was that I wanted to bring in more applicants. The problem is that if you say that the fellowship doesn’t require a lot of commitment, you’ll get exactly what you asked for: people who aren’t very committed.
+<u>**How to properly advertise the fellowship.**</u> One of the most important things I ever learned about running the fellowship is this: _You get what you advertise for_. Before the Spring 2018 semester, I would often advertise the program by saying things like “It’s not a huge time commitment, you just have to come for some dinners, and you’ll be eating anyway right?” and “It’s definitely NOT like an extra class!” My reasoning was that I wanted to bring in more applicants. The problem is that if you say that the fellowship doesn’t require a lot of commitment, you’ll get exactly what you asked for: people who aren’t very committed.
 
 In Fall 2018, I instead said things like “We’re looking for people who will be really engaged” and I would make it clear that the fellowship would require 4-6 hours a week. This made it so that people who weren’t that excited would self-select away _before_ the application process, making it much more likely for us to admit very engaged fellows. (At the same time, you don’t want to go _too_ far. College students are busy and they need to know that the fellowship can fit into their weekly schedules.)
 
-**Channels for advertisement.** We had a two-pronged strategy for recruitment: broad & targeted.
+<u>**Channels for advertisement.**</u> We had a two-pronged strategy for recruitment: broad & targeted.
 
 **Broad recruitment:** We aimed to make sure most first-years (at least) _knew_ about the Fellowship, through a broad recruitment strategy. We hoped that well-thought-out messaging (accurate - not just focus on donations) could eliminate the risk of spreading low-fidelity conceptions of EA. The reasoning was that if we achieved this goal, hopefully only people who were truly interested in EA ideas would apply, and the selection process would be much easier. I believe that was the case.
 
@@ -402,7 +402,7 @@ In terms of the [goals](https://docs.google.com/document/d/1aTgefv06GxbVv1ekp43h
 
 Fellows who have participated to a satisfactory degree (in the handbook, this was 80% attendance, though in practice we tolerated slightly lower rates than that) were given a printed certificate. [See Appendix 9 for example certificate](https://drive.google.com/file/d/1G1BaMB0QG3IorSeXku8mzzo4tYErlTGi/view?usp=sharing) (designed by Frankie Andersen-Wood). Fellows were also strongly encouraged to join our group’s board and to stay involved with our activities on campus.
 
-## Appendices
+## <a name="appends" href="javascript:history.back()"></a>Appendices
 
 These appendices are _not intended to be read_ from A-Z. Rather, they might be useful to answer particular questions like “What readings should I assign this week?” or “What are some talking points I can draw on in case tonight’s discussion comes to a halt?”
 
