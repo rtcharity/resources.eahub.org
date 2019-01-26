@@ -394,11 +394,9 @@ Overall, based on my own subjective experience and a qualitative assessment of t
 
 In terms of the [goals](https://docs.google.com/document/d/1aTgefv06GxbVv1ekp43hPhg66LkIFYcZ3ov2ZI-b10g/edit#heading=h.9f5e3d3stbb2) set out earlier in this document:
 
-Bringing members into our funnel. This goal was not achieved as well as I had liked. As I write this, it’s a bit too early to tell whether alumni from the fellowship will be involved with our group going forward. My guess is that at least 30% of fellows will go on to attend our events and that at least 1-2 of them will join our board. Still, interest in joining the board hasn’t been appeared to be quite as strong as I had hoped, so there is room for improvement.
-
-Direct impact of affecting fellows’ views. This goal was achieved. Judging by the survey results as well as the general change in tone and viewpoints throughout the term, I believe this goal was achieved. We didn’t have appear to affect many radical changes of personal philosophy or career plans - though there were at least a couple of people who began reconsidering their paths as a results of the fellowship - but I would also think that this is generally difficult to achieve in just one semester.
-
-Strengthening YEA as a prominent group on campus. This goal was achieved. The fellowship continues to be our flagship activity on campus. It helps us reach more people and contributes to the feeling among board members that we are doing significant work with clear outcomes.
+* **Bringing members into our funnel.** This goal was not achieved as well as I had liked. As I write this, it’s a bit too early to tell whether alumni from the fellowship will be involved with our group going forward. My guess is that at least 30% of fellows will go on to attend our events and that at least 1-2 of them will join our board. Still, interest in joining the board hasn’t been appeared to be quite as strong as I had hoped, so there is room for improvement.
+* **Direct impact of affecting fellows’ views.** This goal was achieved. Judging by the survey results as well as the general change in tone and viewpoints throughout the term, I believe this goal was achieved. We didn’t have appear to affect many radical changes of personal philosophy or career plans - though there were at least a couple of people who began reconsidering their paths as a results of the fellowship - but I would also think that this is generally difficult to achieve in just one semester.
+* **Strengthening YEA as a prominent group on campus.** This goal was achieved. The fellowship continues to be our flagship activity on campus. It helps us reach more people and contributes to the feeling among board members that we are doing significant work with clear outcomes.
 
 ## Beyond the fellowship
 
