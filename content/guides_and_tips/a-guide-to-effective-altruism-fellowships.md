@@ -286,17 +286,17 @@ If this happens, it might be useful to sometimes say “How about some of the pe
 
 Arguably the most clear measure of success for the 2018 Fall fellowship was the very high attendance rate spanning 12 weeks of weekly dinner discussions and workshops. Most of the absences were “excused” in the sense that the fellow had contacted me prior to the dinner to let me know. So, what are the keys to ensuring high attendance?
 
-**Recruit the right people.** I think a lot of the things that can be done to achieve high attendance happens _before_ the first meeting even takes place. Attendance will start at a high baseline if you accept fellows who seem committed; who aren’t scared off by the expectation of spending 3-5 hours on the fellowship per week and who are genuinely interested in EA ideas.
+<u>**Recruit the right people.**</u> I think a lot of the things that can be done to achieve high attendance happens _before_ the first meeting even takes place. Attendance will start at a high baseline if you accept fellows who seem committed; who aren’t scared off by the expectation of spending 3-5 hours on the fellowship per week and who are genuinely interested in EA ideas.
 
-**Make it clear that the expectations are high.** Again, “you get what you tolerate.” Resist the temptation to say things like “The readings are optional” or “It’s totally okay if you arrive a bit late.” Instead, emphasize that this is a _fellowship_ with high standards.
+<u>**Make it clear that the expectations are high.**</u> Again, “you get what you tolerate.” Resist the temptation to say things like “The readings are optional” or “It’s totally okay if you arrive a bit late.” Instead, emphasize that this is a _fellowship_ with high standards.
 
 We tell fellows that they must attend 80% of meetings in order to be “recognized as graduating fellows” by the end of the semester. (You don’t necessarily have to enforce this, but it’s a good idea to set the bar high.) At the beginning of each mandatory event, take attendance, noting if people are “Present, Excused absence (if they’ve notified you in advance), Absent without excuse, or Late”. I told them that I'd take attendance, and they must have seen that I pulled out my computer to do it, but I didn't inform them that I also noted if they were late. This was mostly to keep track so that I could nudge someone of they were consistently late.
 
-**Make the fellowship feel like a big deal.** People are more likely to invest a lot of time and energy if they feel like they’re part of something serious. For this reason, it seems to have a good effect to do things that increase the feeling of being in a real program. Some things we did:
+<u>**Make the fellowship feel like a big deal.**</u> People are more likely to invest a lot of time and energy if they feel like they’re part of something serious. For this reason, it seems to have a good effect to do things that increase the feeling of being in a real program. Some things we did:
 
-Webpage. Create a page on your student group website (e.g. [the Yale EA](https://yaleea.com/fall-2018-fellows/) site) where you post photos and information about the fellows. Instead of just having the fellows send in random photos, spend fifteen minutes before dinner discussion taking photos with a good quality camera.
+<u>Webpage.</u> Create a page on your student group website (e.g. [the Yale EA](https://yaleea.com/fall-2018-fellows/) site) where you post photos and information about the fellows. Instead of just having the fellows send in random photos, spend fifteen minutes before dinner discussion taking photos with a good quality camera.
 
-Handbook. Print out a handbook with a calendar, a statement of the fellowship’s purpose, a list of norms and expectations for the fellows etc. See [Appendix 5](https://docs.google.com/document/d/1Ax34htqh3NC-UhHLt5mZ9cqd1NNAz4crWCeJ5UPiK9A/edit) for the Fall 2018 handbook.
+<u>Handbook.</u> Print out a handbook with a calendar, a statement of the fellowship’s purpose, a list of norms and expectations for the fellows etc. See [Appendix 5](https://docs.google.com/document/d/1Ax34htqh3NC-UhHLt5mZ9cqd1NNAz4crWCeJ5UPiK9A/edit) for the Fall 2018 handbook.
 
 **Useful readings for discussion moderators**
 
@@ -339,7 +339,7 @@ Prior to beginning the IC, I selected five organizations from which the fellows 
 
 I did this for a few reasons:
 
-**Keeping the focus on one cause area.** On the face of it, one might think that fellows should compare organizations working in different cause areas, such as global health or AI safety. After all, one of the most important parts of effective altruism is to compare different such areas. However, comparing organizations in different areas poses several challenges.
+<u>**Keeping the focus on one cause area.**</u> On the face of it, one might think that fellows should compare organizations working in different cause areas, such as global health or AI safety. After all, one of the most important parts of effective altruism is to compare different such areas. However, comparing organizations in different areas poses several challenges.
 
 For one, it is very difficult to make apples-to-apples comparisons of the pros and cons of organizations in different fields; especially considering the lack of quantitative methods in our IC.
 
@@ -347,9 +347,9 @@ Second, the choice between cause areas does often not come down to analysis but 
 
 Finally, I have an idea that a lot of people in the EA community began with an interest in global health and development and only later gained an interest for e.g. existential risks (as I discuss elsewhere.) On this view, it makes sense to avoid pitting cause areas against each other so early in people’s EA trajectory. We gave this a lot of thought prior to launching the IC and it also seemed to have been the best choice after the fact. If anyone wishes to discuss this topic further, feel free to reach out.
 
-**Ensuring a minimum impact.** Since a considerable amount of money will be donated, I reckon it is desirable to eliminate the risk that the funds are donated to a poor choice. This also helps with applying for funds: you can guarantee the donor that the impact of their decision will be equal to the value of donating to a highly effective organization _plus_ whatever the value of the IC is.
+<u>**Ensuring a minimum impact.**</u> Since a considerable amount of money will be donated, I reckon it is desirable to eliminate the risk that the funds are donated to a poor choice. This also helps with applying for funds: you can guarantee the donor that the impact of their decision will be equal to the value of donating to a highly effective organization _plus_ whatever the value of the IC is.
 
-**Focusing the impact challenge.** It is tempting to think that the fellows should generate the list of candidates from scratch. However, this is an extremely difficult task and would likely be too much of a mouthful, unless the IC had been scaled up to span several weeks and to require a whole other level of commitment. Limiting the options allows for more in-depth research of each candidate and for higher quality discussions.
+<u>**Focusing the impact challenge.**</u> It is tempting to think that the fellows should generate the list of candidates from scratch. However, this is an extremely difficult task and would likely be too much of a mouthful, unless the IC had been scaled up to span several weeks and to require a whole other level of commitment. Limiting the options allows for more in-depth research of each candidate and for higher quality discussions.
 
 **Voting**
 
@@ -394,9 +394,9 @@ Overall, based on my own subjective experience and a qualitative assessment of t
 
 In terms of the [goals](https://docs.google.com/document/d/1aTgefv06GxbVv1ekp43hPhg66LkIFYcZ3ov2ZI-b10g/edit#heading=h.9f5e3d3stbb2) set out earlier in this document:
 
-* **Bringing members into our funnel.** This goal was not achieved as well as I had liked. As I write this, it’s a bit too early to tell whether alumni from the fellowship will be involved with our group going forward. My guess is that at least 30% of fellows will go on to attend our events and that at least 1-2 of them will join our board. Still, interest in joining the board hasn’t been appeared to be quite as strong as I had hoped, so there is room for improvement.
-* **Direct impact of affecting fellows’ views.** This goal was achieved. Judging by the survey results as well as the general change in tone and viewpoints throughout the term, I believe this goal was achieved. We didn’t have appear to affect many radical changes of personal philosophy or career plans - though there were at least a couple of people who began reconsidering their paths as a results of the fellowship - but I would also think that this is generally difficult to achieve in just one semester.
-* **Strengthening YEA as a prominent group on campus.** This goal was achieved. The fellowship continues to be our flagship activity on campus. It helps us reach more people and contributes to the feeling among board members that we are doing significant work with clear outcomes.
+* <u>**Bringing members into our funnel.**</u> This goal was not achieved as well as I had liked. As I write this, it’s a bit too early to tell whether alumni from the fellowship will be involved with our group going forward. My guess is that at least 30% of fellows will go on to attend our events and that at least 1-2 of them will join our board. Still, interest in joining the board hasn’t been appeared to be quite as strong as I had hoped, so there is room for improvement.
+* <u>**Direct impact of affecting fellows’ views.**</u> This goal was achieved. Judging by the survey results as well as the general change in tone and viewpoints throughout the term, I believe this goal was achieved. We didn’t have appear to affect many radical changes of personal philosophy or career plans - though there were at least a couple of people who began reconsidering their paths as a results of the fellowship - but I would also think that this is generally difficult to achieve in just one semester.
+* <u>**Strengthening YEA as a prominent group on campus.**</u> This goal was achieved. The fellowship continues to be our flagship activity on campus. It helps us reach more people and contributes to the feeling among board members that we are doing significant work with clear outcomes.
 
 ## Beyond the fellowship
 
@@ -404,7 +404,7 @@ Fellows who have participated to a satisfactory degree (in the handbook, this wa
 
 ## <a name="appends" href="javascript:history.back()"></a>Appendices
 
-These appendices are _not intended to be read_ from A-Z. Rather, they might be useful to answer particular questions like “What readings should I assign this week?” or “What are some talking points I can draw on in case tonight’s discussion comes to a halt?”
+These appendices are <u>_not intended to be read_</u> from A-Z. Rather, they might be useful to answer particular questions like “What readings should I assign this week?” or “What are some talking points I can draw on in case tonight’s discussion comes to a halt?”
 
 * [Appendix 1: Poster for recruitment](https://drive.google.com/file/d/1tmFTUdedwT0Venjx5b8TUbQ_8cNLJxry/view) (**On request, we can also send you the canva template to edit**)
 * [Appendix 2: Reading list](https://docs.google.com/document/d/1hYY0T_OL6CV5vbzM6EPkOoBHqHeoexV1-nsPiLz8fZM/edit?usp=sharing)
