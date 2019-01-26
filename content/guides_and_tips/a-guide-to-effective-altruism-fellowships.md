@@ -272,11 +272,9 @@ If this happens, it might be useful to sometimes say “How about some of the pe
 
 Table unresolveable or tangential discussions. Every once in a while, the conversation will move towards really big picture questions like “capitalism versus other economic systems” or “radical versus moderate political platforms.” When this happens, I like to interject and say something like “This is an extremely interesting and important issue. However, I think we should table it for now and stick to the topic at hand. The conversation should definitely be continued outside the fellowship, though.” The main benefits of this approach are:
 
-\    Keeping focus on the topic of the night
-
-\    Making progress on narrowly defined questions instead of aimlessly discussing extremely difficult questions that could not possibly be resolved in the span of one hour
-
-\    Avoiding heated ideological debates
+* Keeping focus on the topic of the night
+* Making progress on narrowly defined questions instead of aimlessly discussing extremely difficult questions that could not possibly be resolved in the span of one hour
+* Avoiding heated ideological debates
 
 Making sure everyone is on the same page. Every once in a while, someone will refer to an advanced concept, either from their coursework or from the reading, and go on to discuss that. In some of those cases, it might be a good idea to interject and say something like “Would you mind defining that term?” or “Can you remind us what her argument is?”, which allows other people to partake even if they don’t know the term or concept.
 
@@ -284,71 +282,60 @@ Be respectful of people’s opinions and interests. Many fellows will undoubtedl
 
 Educate, don’t argue. Occasionally, someone will present a claim that is somewhat at odds with mainstream thinking within EA. Often, I believe that the right course of action is to resist the temptation to refute their argument right away. You’re not there to prove how much you know about EA or to convince everyone that EA is 100% right on 100% of issues (as it most likely isn’t). Instead, you are there to offer insights and arguments to people for their consideration. Some people won’t change their mind on some issues, and it can be a waste of everyone’s time to try and convince them that they’re wrong. One of the best pieces of advice I ever got was to think of EA advocacy as being about “an offer of information, not about persuasion.”
 
-Approaches to keeping attendance high
+**Approaches to keeping attendance high**
 
 Arguably the most clear measure of success for the 2018 Fall fellowship was the very high attendance rate spanning 12 weeks of weekly dinner discussions and workshops. Most of the absences were “excused” in the sense that the fellow had contacted me prior to the dinner to let me know. So, what are the keys to ensuring high attendance?
 
-Recruit the right people. I think a lot of the things that can be done to achieve high attendance happens before the first meeting even takes place. Attendance will start at a high baseline if you accept fellows who seem committed; who aren’t scared off by the expectation of spending 3-5 hours on the fellowship per week and who are genuinely interested in EA ideas.
+Recruit the right people. I think a lot of the things that can be done to achieve high attendance happens _before_ the first meeting even takes place. Attendance will start at a high baseline if you accept fellows who seem committed; who aren’t scared off by the expectation of spending 3-5 hours on the fellowship per week and who are genuinely interested in EA ideas.
 
-Make it clear that the expectations are high. Again, “you get what you tolerate.” Resist the temptation to say things like “The readings are optional” or “It’s totally okay if you arrive a bit late.” Instead, emphasize that this is a fellowship with high standards.
+Make it clear that the expectations are high. Again, “you get what you tolerate.” Resist the temptation to say things like “The readings are optional” or “It’s totally okay if you arrive a bit late.” Instead, emphasize that this is a _fellowship_ with high standards.
 
 We tell fellows that they must attend 80% of meetings in order to be “recognized as graduating fellows” by the end of the semester. (You don’t necessarily have to enforce this, but it’s a good idea to set the bar high.) At the beginning of each mandatory event, take attendance, noting if people are “Present, Excused absence (if they’ve notified you in advance), Absent without excuse, or Late”. I told them that I'd take attendance, and they must have seen that I pulled out my computer to do it, but I didn't inform them that I also noted if they were late. This was mostly to keep track so that I could nudge someone of they were consistently late.
 
 Make the fellowship feel like a big deal. People are more likely to invest a lot of time and energy if they feel like they’re part of something serious. For this reason, it seems to have a good effect to do things that increase the feeling of being in a real program. Some things we did:
 
-Webpage. Create a page on your student group website (e.g. the Yale EA site) where you post photos and information about the fellows. Instead of just having the fellows send in random photos, spend fifteen minutes before dinner discussion taking photos with a good quality camera.
+Webpage. Create a page on your student group website (e.g. [the Yale EA](https://yaleea.com/fall-2018-fellows/) site) where you post photos and information about the fellows. Instead of just having the fellows send in random photos, spend fifteen minutes before dinner discussion taking photos with a good quality camera.
 
-Handbook. Print out a handbook with a calendar, a statement of the fellowship’s purpose, a list of norms and expectations for the fellows etc. See Appendix #5 for the Fall 2018 handbook.
+Handbook. Print out a handbook with a calendar, a statement of the fellowship’s purpose, a list of norms and expectations for the fellows etc. See [Appendix 5](https://docs.google.com/document/d/1Ax34htqh3NC-UhHLt5mZ9cqd1NNAz4crWCeJ5UPiK9A/edit) for the Fall 2018 handbook.
 
-Useful readings for discussion moderators
+**Useful readings for discussion moderators**
 
-I believe anyone who moderates EA discussions should read these guidelines on depicting poverty, this piece on empathic communication of effective altruism and this piece on why & how to make progress with diversity and inclusion in EA.
+I believe anyone who moderates EA discussions should read [these guidelines on depicting poverty](https://resources.eahub.org/guides_and_tips/guide-to-depictin-poverty/), [this piece on empathic communication of effective altruism](https://forum.effectivealtruism.org/posts/NyaPFGQJeZMwwCAHq/empathic-communication-and-strategy-for-effective-altruism) and [this piece on why & how to make progress with diversity and inclusion in EA](https://forum.effectivealtruism.org/posts/YCPc4qTSoyuj54ZZK/why-and-how-to-make-progress-on-diversity-and-inclusion-in).
 
-Impact Challenge
+## Impact Challenge
 
 As part of the fellowship, we launched our first-ever “Impact Challenge” (IC). This was essentially a massive Giving Game, spanning three weeks. During the IC, which was generously funded by the Centre for Effective Altruism, fellows were asked to choose one of four organizations to receive $3,000 in real cash. Ultimately, the fellows voted to donate the $3,000 to the Against Malaria Foundation.
 
-This project was similar to the Oxford Prioritisation Project, though there were several significant differences. (The OPP’s director, Tom Sittler, wrote a nice review similar to this one.)
+This project was similar to the [Oxford Prioritisation Project](https://oxpr.io/), though there were several significant differences. (The OPP’s director, Tom Sittler, wrote a nice [review](https://fragile-credences.github.io/oxprioreview/) similar to this one.)
 
-Content
+**Content**
 
 The IC consisted of:
 
-\    One dinner meeting spent going over useful concepts in health and development
+* One dinner meeting spent going over useful concepts in health and development
+* One dinner meeting spent discussing initial impressions of the candidate organizations
+* A 3-hour “Research-a-thon” spent doing research of the organizations in small groups
+* An optional lunch with Mushfiq Mobarak, professor in development economics
+* One dinner meeting spent discussing and voting on the organizations
 
-\    One dinner meeting spent discussing initial impressions of the candidate organizations
-
-\    A 3-hour “Research-a-thon” spent doing research of the organizations in small groups
-
-\    An optional lunch with Mushfiq Mobarak, professor in development economics
-
-\    One dinner meeting spent discussing and voting on the organizations
-
-Goals
+**Goals**
 
 Before the semester, we formulated the following goals for the Impact Challenge:
 
-\    Fellows learn the core concepts of Effective Altruism and charity prioritisation
+* Fellows learn the core concepts of Effective Altruism and charity prioritisation
+* Fellows become more dedicated to making Effective Altruism a big part of their lives, by transitioning our discussions from theory to practice
+* Fellows feel engaged and we see a high retention rate
+* The quality of the pool of applicants increases, as the fellowship appears even more serious and professional
 
-\    Fellows become more dedicated to making Effective Altruism a big part of their lives, by transitioning our discussions from theory to practice
-
-\    Fellows feel engaged and we see a high retention rate
-
-\    The quality of the pool of applicants increases, as the fellowship appears even more serious and professional
-
-Candidate organizations
+**Candidate organizations**
 
 Prior to beginning the IC, I selected five organizations from which the fellows had to choose:
 
-\    Against Malaria Foundation
-
-\    GiveDirectly
-
-\    Evidence Action
-
-\    Deworm the World Initiative
-
-\    StrongMinds
+* Against Malaria Foundation
+* GiveDirectly
+* Evidence Action
+* Deworm the World Initiative
+* StrongMinds
 
 I did this for a few reasons:
 
