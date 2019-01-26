@@ -343,21 +343,21 @@ Keeping the focus on one cause area. On the face of it, one might think that fel
 
 For one, it is very difficult to make apples-to-apples comparisons of the pros and cons of organizations in different fields; especially considering the lack of quantitative methods in our IC.
 
-Second, the choice between cause areas does often not come down to analysis but rather to moral and philosophical judgments. These judgments are extremely important and considering them is a crucial part of being an aspiring effective altruist. However, I do not believe that the IC is the ideal forum for discussing these philosophical issues. I suspect that people are much less likely to update their moral intuitions through a few hours discussion, than they are to update their empirical beliefs about what’s effective. For this reason, I think that within-area comparison would allow fellows to genuinely learn a lot through open-minded research, whereas I fear that between-area comparison might risk leading the fellows to argue for whichever cause area they felt most intuitively compelled by from the beginning.
+Second, the choice between cause areas does often not come down to analysis but rather to moral and philosophical judgments. These judgments are extremely important and considering them is a crucial part of being an aspiring effective altruist. However, I do not believe that the IC is the ideal forum for discussing these philosophical issues. I suspect that people are much less likely to update their moral intuitions through a few hours discussion, than they are to update their empirical beliefs about what’s effective. For this reason, I think that within-area comparison would allow fellows to genuinely _learn_ a lot through open-minded research, whereas I fear that between-area comparison might risk leading the fellows to argue for whichever cause area they felt most intuitively compelled by from the beginning.
 
 Finally, I have an idea that a lot of people in the EA community began with an interest in global health and development and only later gained an interest for e.g. existential risks (as I discuss elsewhere.) On this view, it makes sense to avoid pitting cause areas against each other so early in people’s EA trajectory. We gave this a lot of thought prior to launching the IC and it also seemed to have been the best choice after the fact. If anyone wishes to discuss this topic further, feel free to reach out.
 
-Ensuring a minimum impact. Since a considerable amount of money will be donated, I reckon it is desirable to eliminate the risk that the funds are donated to a poor choice. This also helps with applying for funds: you can guarantee the donor that the impact of their decision will be equal to the value of donating to a highly effective organization plus whatever the value of the IC is.
+Ensuring a minimum impact. Since a considerable amount of money will be donated, I reckon it is desirable to eliminate the risk that the funds are donated to a poor choice. This also helps with applying for funds: you can guarantee the donor that the impact of their decision will be equal to the value of donating to a highly effective organization _plus_ whatever the value of the IC is.
 
 Focusing the impact challenge. It is tempting to think that the fellows should generate the list of candidates from scratch. However, this is an extremely difficult task and would likely be too much of a mouthful, unless the IC had been scaled up to span several weeks and to require a whole other level of commitment. Limiting the options allows for more in-depth research of each candidate and for higher quality discussions.
 
-Voting
+**Voting**
 
-I sort of improvised a voting system, where each fellow would rank the organizations from 1 through 4. If an organization got ranked first, it got 1 point, if it was ranked second, it got 2 points, etc. In the end, the organization with the fewest points won. This system seemed to get the job done alright, but there’s likely a better solution. I encourage organizers to listen to the 80,000 Hours podcast interview with Aaron Hamlin on voting systems.
+I sort of improvised a voting system, where each fellow would rank the organizations from 1 through 4. If an organization got ranked first, it got 1 point, if it was ranked second, it got 2 points, etc. In the end, the organization with the fewest points won. This system seemed to get the job done alright, but there’s likely a better solution. I encourage organizers to listen to the [80,000 Hours podcast interview with Aaron Hamlin on voting systems](https://80000hours.org/podcast/episodes/aaron-hamlin-voting-reform/).
 
 Some fellows expressed interest in being able to spread the donation across all four organizations or to at least have the allocation be proportional to the number of votes. While this is also an option, I felt that the winner-takes-all model was better at creating incentives for rigorous research and serious deliberation.
 
-Research-a-thon
+**Research-a-thon**
 
 After the first dinner, the fellows met on a Saturday for a session of collective research. Due to a few people not being able to make it to the research-a-thon, I decided to drop one organization, so that the number of groups would fit better with the number of organizations. I chose to drop StrongMinds, since it was the one that I had the lowest prior confidence in and also was the one that had met the most skepticism in our initial discussion.
 
@@ -365,39 +365,34 @@ The attending fellows were split into groups of three and assigned two out of th
 
 Each group spent the time as follows:
 
-\    5 minutes spent preparing to research their first organization and assigning research questions among each other;
-
-\    45 minutes spent researching their first organization
-
-\    10 minutes summarizing, discussing, and writing down their initial findings
-
-\    60 minutes rinsing and repeating for their second organization
-
-\    20 minutes comparing and discussing the two organizations
-
-\    40 minutes writing up a summary of findings for their second organization. See Appendix 6 for example of research summaries.
+* 5 minutes spent preparing to research their first organization and assigning research questions among each other;
+* 45 minutes spent researching their first organization
+* 10 minutes summarizing, discussing, and writing down their initial findings
+* 60 minutes rinsing and repeating for their second organization
+* 20 minutes comparing and discussing the two organizations
+* 40 minutes writing up a summary of findings for their second organization. [See Appendix 6 for example of research summaries](https://docs.google.com/document/d/1UEekPceeTuk6sjNxKtfMMFJi4mQEcd-cL6uKQQM5O9A/edit?usp=sharing).
 
 Although this structure worked fairly well, it was pretty much improvised on the day of the session, and it is possible that another structure could work just as well or better.
 
-Evaluating the organizations
+**Evaluating the organizations**
 
-You could imagine an Impact Challenge where the goal was to have extremely high standards for rigorous decision-making, in accordance with EA methods and values. Such a project would likely employ quantitative models, such as the ones used by GiveWell or in the Oxford Prioritisation Project. However, this would require considerably more time and it would require methods that are unfamiliar to many fellows. One of Tom Sittler’s key lessons from the Oxford Project seems to be that too high ambitions for the evaluation process can get in the way of a successful project and I agree with this assessment.
+You could imagine an Impact Challenge where the goal was to have extremely high standards for rigorous decision-making, in accordance with EA methods and values. Such a project would likely employ quantitative models, such as the ones used by GiveWell or in the [Oxford Prioritisation Project](https://oxpr.io/). However, this would require considerably more time and it would require methods that are unfamiliar to many fellows. One of Tom Sittler’s key lessons from the Oxford Project seems to be that [too high ambitions](https://fragile-credences.github.io/oxprioreview/#less-ambition) for the evaluation process can get in the way of a successful project and I agree with this assessment.
 
-Moreover, it could be argued that the benefit of having such rigorous methods might actually not be that great. To be sure, we want fellows to recognize that charity evaluations require rigorous methods. However, we are not so much aiming to train people in evaluation as we are hoping to teach the importance of doing such evaluation in a good way. To this end, exposing fellows to the rigorous literature of GiveWell seems perfectly adequate.
+Moreover, it could be argued that the benefit of having such rigorous methods might actually not be that great. To be sure, we want fellows to recognize that charity evaluations require rigorous methods. However, we are not so much aiming to _train_ people in evaluation as we are hoping to _teach the importance_ of doing such evaluation in a good way. To this end, exposing fellows to the rigorous literature of GiveWell seems perfectly adequate.
 
 Instead of quantitative methods, we relied on much less rigorous, more qualitative assessments based on literature review and discussion. This approach seemed justified in part by the fact that we were choosing from GiveWell-recommended organizations, which gave us confidence that each alternative was largely in the same ballpark in terms of impact.
 
 We tried to include a somewhat quantitative (though non-rigorous) component by explicitly asking “What does this organization achieve with an additional $3,000?” but the discussion was mostly concentrated on more general pros and cons of each organization.
 
-Evaluation of Fellowship
+## Evaluation of Fellowship
 
 Before and after the fellowship, we had fellows complete surveys. This had the dual aim of measuring our impact and learning ways to improve the fellowship.
 
-See Appendix 7a-7c for survey design. See Appendix 8 for survey results. (This appendix is fairly comprehensive and I encourage readers to take a look.)
+See Appendix 7a-7c for survey design. [See Appendix 8 for survey results](https://docs.google.com/document/d/1aTgefv06GxbVv1ekp43hPhg66LkIFYcZ3ov2ZI-b10g/edit#). (This appendix is fairly comprehensive and I encourage readers to take a look.)
 
 Overall, based on my own subjective experience and a qualitative assessment of the survey results, I’d say that the fellowship was a success; that it was an enjoyable experience for everyone involved; and that it was net-positive in terms impact - even if we consider the opportunity cost of the 100+ hours I spent organizing and running it.
 
-In terms of the goals set out earlier in this document:
+In terms of the [goals](https://docs.google.com/document/d/1aTgefv06GxbVv1ekp43hPhg66LkIFYcZ3ov2ZI-b10g/edit#heading=h.9f5e3d3stbb2) set out earlier in this document:
 
 Bringing members into our funnel. This goal was not achieved as well as I had liked. As I write this, it’s a bit too early to tell whether alumni from the fellowship will be involved with our group going forward. My guess is that at least 30% of fellows will go on to attend our events and that at least 1-2 of them will join our board. Still, interest in joining the board hasn’t been appeared to be quite as strong as I had hoped, so there is room for improvement.
 
@@ -407,36 +402,36 @@ Strengthening YEA as a prominent group on campus. This goal was achieved. The fe
 
 ## Beyond the fellowship
 
-Fellows who have participated to a satisfactory degree (in the handbook, this was 80% attendance, though in practice we tolerated slightly lower rates than that) were given a printed certificate. See Appendix 9 for example certificate (designed by Frankie Andersen-Wood). Fellows were also strongly encouraged to join our group’s board and to stay involved with our activities on campus.
+Fellows who have participated to a satisfactory degree (in the handbook, this was 80% attendance, though in practice we tolerated slightly lower rates than that) were given a printed certificate. [See Appendix 9 for example certificate](https://drive.google.com/file/d/1G1BaMB0QG3IorSeXku8mzzo4tYErlTGi/view?usp=sharing) (designed by Frankie Andersen-Wood). Fellows were also strongly encouraged to join our group’s board and to stay involved with our activities on campus.
 
 ## Appendices
 
-These appendices are not intended to be read from A-Z. Rather, they might be useful to answer particular questions like “What readings should I assign this week?” or “What are some talking points I can draw on in case tonight’s discussion comes to a halt?”
+These appendices are _not intended to be read_ from A-Z. Rather, they might be useful to answer particular questions like “What readings should I assign this week?” or “What are some talking points I can draw on in case tonight’s discussion comes to a halt?”
 
-Appendix 1: Poster for recruitment (On request, we can also send you the canva template to edit)
+[Appendix 1: Poster for recruitment](https://drive.google.com/file/d/1tmFTUdedwT0Venjx5b8TUbQ_8cNLJxry/view) (**On request, we can also send you the canva template to edit**)
 
-Appendix 2: Reading list
+[Appendix 2: Reading list](https://docs.google.com/document/d/1hYY0T_OL6CV5vbzM6EPkOoBHqHeoexV1-nsPiLz8fZM/edit?usp=sharing)
 
-Appendix 3: Discussion talking points
+[Appendix 3: Discussion talking points](https://docs.google.com/document/d/1GGI9hyt_xydu1ibV2-nnMqP3sjG76O5r3jSRqpPUeHI/edit?usp=sharing)
 
-Appendix 4: Emails sent to fellows
+[Appendix 4: Emails sent to fellows](https://docs.google.com/document/d/1bQ5mp55FCXvazFXHvoyCn93bFIMbAjgKGHaK5176_UY/edit)
 
-Appendix 5: Handbook
+[Appendix 5: Handbook](https://docs.google.com/document/d/1Ax34htqh3NC-UhHLt5mZ9cqd1NNAz4crWCeJ5UPiK9A/edit)
 
-Appendix 6: Research summaries examples
+[Appendix 6: Research summaries examples](https://docs.google.com/document/d/1UEekPceeTuk6sjNxKtfMMFJi4mQEcd-cL6uKQQM5O9A/edit?usp=sharing)
 
-Appendix 7a: Pre-fellowship survey design
+[Appendix 7a: Pre-fellowship survey design](https://goo.gl/forms/JxxsGFFSgBpltjFC2)
 
-Appendix 7b: Post-fellowship survey design
+[Appendix 7b: Post-fellowship survey design](https://docs.google.com/forms/d/e/1FAIpQLSesKP-dQbwRGboNkbf6PeaTQMoUVHCkQtBTdhwtebI6Tz1tMw/viewform?usp=sf_link)
 
-Appendix 7c: Notes on survey design
+[Appendix 7c: Notes on survey design](https://docs.google.com/document/d/1619ttN_y2ItZP9kDCxRyN1xLIBC0d66jShbHcmLhABM/edit?usp=sharing)
 
-Appendix 8: Survey results
+[Appendix 8: Survey results](https://docs.google.com/document/d/15ibYoxHnipIShIrtU6DumcAAkLp7xFBvvmoLIx6Mlew/edit?usp=sharing)
 
-Appendix 9: Example certificate (On request, we can also send you the canva template to edit)
+[Appendix 9: Example certificate](https://drive.google.com/file/d/1G1BaMB0QG3IorSeXku8mzzo4tYErlTGi/view?usp=sharing) (**On request, we can also send you the canva template to edit**)
 
-Appendix 10a: Intro workshop content
+[Appendix 10a: Intro workshop content](https://docs.google.com/document/d/16aCEDjN8b7oCNnvEKw7ehQSCfa9HMJPEXMGGLjjaXSU/edit?usp=sharing)
 
-Appendix 10b: Intro workshop slides
+[Appendix 10b: Intro workshop slides](https://docs.google.com/presentation/d/1qECbwvzvjBWPQsn_R9oF9tkr74zXJMWjKPlbdcNuI7w/edit?usp=sharing)
 
-Appendix 11: Fellowship Application
+[Appendix 11: Fellowship Application](https://docs.google.com/forms/d/1ncVlX6ITWrrOTQF4DgVkPK46xOM5Fzku1nPY1x8M4U0/edit?usp=sharing)
