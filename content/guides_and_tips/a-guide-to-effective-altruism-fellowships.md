@@ -23,8 +23,6 @@ This document is based on three semesters’ worth of experience running effecti
 
 The Yale Effective Altruism Fellowship is a semester-long program, in which 15-16 people are selected to learn a great deal about effective altruism over a few months. The fellows submit a written application and are interviewed prior to acceptance. The fellows meet once a week for dinner, where they discuss a range of EA topics. Before each meeting, the fellows are assigned between 30 and 45 minutes worth of readings, podcasts or videos. Dinner discussions are moderated by a group leader and usually do not involve professors. Beyond the dinner discussions, the YEA Fellowship involves an impact challenge, wherein the fellows are tasked with deciding where to donate a significant amount of money. The fellowship also includes a couple of workshops, social events, and optional events with speakers and professors. Fellows were also invited to take part in organizing our GWWC pledge drive.
 
-
-
 Some keys to a successful fellowship seem to be:
 
 * Only admitting the right people, who are committed and genuinely interested
@@ -69,27 +67,22 @@ In Fall 2018, I instead said things like “We’re looking for people who will 
 
 **Channels for advertisement.** We had a two-pronged strategy for recruitment: broad & targeted.
 
-Broad recruitment: We aimed to make sure most first-years (at least) _knew_ about the Fellowship, through a broad recruitment strategy. We hoped that well-thought-out messaging (accurate - not just focus on donations) could eliminate the risk of spreading low-fidelity conceptions of EA. The reasoning was that if we achieved this goal, hopefully only people who were truly interested in EA ideas would apply, and the selection process would be much easier. I believe that was the case.
+**Broad recruitment**: We aimed to make sure most first-years (at least) _knew_ about the Fellowship, through a broad recruitment strategy. We hoped that well-thought-out messaging (accurate - not just focus on donations) could eliminate the risk of spreading low-fidelity conceptions of EA. The reasoning was that if we achieved this goal, hopefully only people who were truly interested in EA ideas would apply, and the selection process would be much easier. I believe that was the case.
 
-Posters on campus (See Appendix 1 for Fall 2018 poster designed by Frankie Andersen-Wood)
+* Posters on campus (See [Appendix 1](https://drive.google.com/file/d/1tmFTUdedwT0Venjx5b8TUbQ_8cNLJxry/view) for Fall 2018 poster designed by Frankie Andersen-Wood)
+* Website
+* Facebook posts to people who ‘like’ our page, posts in relevant groups, & targeted ads
+* Fresher’s fair/extracurricular bazaar, handed out flyers in Appendix 1
+* E-mails to specific newsletters (especially to relevant departments and graduate schools such as economics, computer science, philosophy, school of management, etc.)
+* Word of mouth
 
-Website
+**Targeted recruitment**: referrals. For fall 2018, we also made a “Refer-a-friend” form that we sent to former fellows, where they could input an email address and we’d contact their friend about applying. We aimed that all former fellows and board members are aware of the referral form and we would receive at least ten high quality referrals.
 
-Facebook posts to people who ‘like’ our page, posts in relevant groups, & targeted ads
-
-Fresher’s fair/extracurricular bazaar, handed out flyers in Appendix 1
-
-E-mails to specific newsletters (especially to relevant departments and graduate schools such as economics, computer science, philosophy, school of management, etc.)
-
-Word of mouth
-
-Targeted recruitment: referrals. For fall 2018, we also made a “Refer-a-friend” form that we sent to former fellows, where they could input an email address and we’d contact their friend about applying. We aimed that all former fellows and board members are aware of the referral form and we would receive at least ten high quality referrals.
-
-How large should a cohort of fellows be?
+**How large should a cohort of fellows be?**
 
 In Fall 2018, we opted for a cohort size of 16 fellows. This seems to be a really good size for discussions, allowing for talking time to everyone (if well moderated). In the past, we’ve tried with slightly larger cohorts (18-20), reasoning that some people inevitably would drop out and bring us to the ideal size of 15-16. However, if 20 people show up for the first discussion, it will be very crowded and leave people with a poor first impression of discussion quality. Moreover, if you succeed in selecting only very committed people (see Advertisement and Selection) and running a really good fellowship (see Running the fellowship), you can achieve high attendance and remain at the initial cohort size.
 
-One or two cohorts?
+**One or two cohorts?**
 
 If you have many applications, it is crucial to only accept the people who seem like they’re are very committed and a good fit for the program.
 
@@ -97,21 +90,21 @@ In earlier semesters, when we started receiving 40+ applications, we were reluct
 
 In Fall 2018, we resisted the temptation to take everyone and decided instead to go for just one cohort. (Later on, we created a new cohort specifically for graduate students, which was a distinct and less extensive project, based on weekly discussions of an assigned reading.) This definitely seemed like the right move, as it allowed us to get a cohort entirely comprised of engaged fellows. Rejected applicants were still strongly encouraged to get involved with our community, though did so to a discouragingly low degree.
 
-This isn’t to say that an EA group couldn’t run multiple fellowship cohorts at once, only that you shouldn’t accept every single applicant. It seems plausible that 30-40% of applicants (at Yale at least; rate may be higher or lower elsewhere) will be a good fit. So, if you wind up with 100 applications, you might have enough good candidates to fill two cohorts. Just make sure that you also have the capacity to run two programs, then.
+This isn’t to say that an EA group _couldn’t_ run multiple fellowship cohorts at once, only that you shouldn’t accept every single applicant. It seems plausible that 30-40% of applicants (at Yale at least; rate may be higher or lower elsewhere) will be a good fit. So, if you wind up with 100 applications, you might have enough good candidates to fill two cohorts. Just make sure that you also have the capacity to run two programs, then.
 
-Selection process
+**Selection process**
 
 We received 65 applications for 16 spots. Once the deadline had passed, we (four people from the leadership of YEA) met. Each of us were assigned 25% of the applications, which we then read and graded according to selection criteria (see below). We blinded the names of the applicants to mitigate biases and conflicts of interest. After everyone had graded their portion, we ranked the applicants from highest to lowest score. Then, we went through from the bottom up and decided on the 20 least competitive applicants, whom we weren’t going to interview. We talked each applicant over, just to make sure that the selection wasn’t just a function of one grader having different standards than the others.
 
 Once that was done, we invited about 40-45 people for 30-minute interviews. I would strongly encourage you to do interviews, even if you don’t have that many applicants. For one, it gives you a much better picture of the applicant pool and how much they would gain from the fellowship. Second, it sends a strong signal to prospective fellows that the fellowship is a serious thing with high standards.
 
-For the interview, we asked them to read the Introduction to EA from CEA and asked them to “come prepared to share your reactions, disagreements or uncertainties.”
+For the interview, we asked them to read the [Introduction to EA from CEA](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) and asked them to “come prepared to share your reactions, disagreements or uncertainties.”
 
 During the interview, we discussed the article and asked questions which we thought might help us rate them according to our selection criteria.
 
 Note: Young people take interviews very seriously and may be a lot more nervous than you think they are. It’s incredibly important to be kind, patient, and encouraging. Intimidating them will be bad for them, for your group, and for the reputation of EA as a whole. Also, be mindful that people have different styles of thinking and talking, and it’s important not to be dismissive of those styles which are different than yours.
 
-Selection criteria
+**Selection criteria**
 
 When evaluating applicants for the Fall 2018 cohort, we rated them on the basis of a set of criteria that had also been outlined on our application:
 
