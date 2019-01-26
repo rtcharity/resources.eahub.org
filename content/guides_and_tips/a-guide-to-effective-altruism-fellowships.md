@@ -67,7 +67,7 @@ In Fall 2018, I instead said things like “We’re looking for people who will 
 
 **Channels for advertisement.** We had a two-pronged strategy for recruitment: broad & targeted.
 
-**Broad recruitment**: We aimed to make sure most first-years (at least) _knew_ about the Fellowship, through a broad recruitment strategy. We hoped that well-thought-out messaging (accurate - not just focus on donations) could eliminate the risk of spreading low-fidelity conceptions of EA. The reasoning was that if we achieved this goal, hopefully only people who were truly interested in EA ideas would apply, and the selection process would be much easier. I believe that was the case.
+**Broad recruitment:** We aimed to make sure most first-years (at least) _knew_ about the Fellowship, through a broad recruitment strategy. We hoped that well-thought-out messaging (accurate - not just focus on donations) could eliminate the risk of spreading low-fidelity conceptions of EA. The reasoning was that if we achieved this goal, hopefully only people who were truly interested in EA ideas would apply, and the selection process would be much easier. I believe that was the case.
 
 * Posters on campus (See [Appendix 1](https://drive.google.com/file/d/1tmFTUdedwT0Venjx5b8TUbQ_8cNLJxry/view) for Fall 2018 poster designed by Frankie Andersen-Wood)
 * Website
@@ -76,7 +76,7 @@ In Fall 2018, I instead said things like “We’re looking for people who will 
 * E-mails to specific newsletters (especially to relevant departments and graduate schools such as economics, computer science, philosophy, school of management, etc.)
 * Word of mouth
 
-**Targeted recruitment**: referrals. For fall 2018, we also made a “Refer-a-friend” form that we sent to former fellows, where they could input an email address and we’d contact their friend about applying. We aimed that all former fellows and board members are aware of the referral form and we would receive at least ten high quality referrals.
+**Targeted recruitment:** referrals. For fall 2018, we also made a “Refer-a-friend” form that we sent to former fellows, where they could input an email address and we’d contact their friend about applying. We aimed that all former fellows and board members are aware of the referral form and we would receive at least ten high quality referrals.
 
 **How large should a cohort of fellows be?**
 
@@ -108,31 +108,26 @@ Note: Young people take interviews very seriously and may be a lot more nervous 
 
 When evaluating applicants for the Fall 2018 cohort, we rated them on the basis of a set of criteria that had also been outlined on our application:
 
-\    Altruism: Passionate about helping others
+* **Altruism:** Passionate about helping others
+* **Effectiveness:** Ambitious in their altruism, with a drive to do as much good as they can. Potential to be aligned with the central tenets of EA.
+* **Potential:** Excited to dedicate their career to doing good or to donate a significant portion of their income to charity
+* **Open-mindedness:** Open-minded and flexible, eager to update their beliefs in response to persuasive evidence
+* **Enthusiasm:** Willing and able to commit ~3-4 hours per week
+* **Fit:** How good a fit are they with the fellowship format? Will they be good in discussions? Will they do good work for the Impact Challenge?
 
-\    Effectiveness: Ambitious in their altruism, with a drive to do as much good as they can. Potential to be aligned with the central tenets of EA.
-
-\    Potential: Excited to dedicate their career to doing good or to donate a significant portion of their income to charity
-
-\    Open-mindedness: Open-minded and flexible, eager to update their beliefs in response to persuasive evidence
-
-\    Enthusiasm: Willing and able to commit ~3-4 hours per week
-
-\    Fit: How good a fit are they with the fellowship format? Will they be good in discussions? Will they do good work for the Impact Challenge?
-
-The questions we used to judge these criteria can be found in Appendix 11 (the Fellowship Application.)
+The questions we used to judge these criteria can be found in [Appendix 11](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/) (the Fellowship Application.)
 
 We rated the applicants from 1-5 on each of these criteria. We discussed some of the applicants together and shared how we’d each rate them, to ensure that we had similar standards.
 
-Ultimately, the selection process was very time intensive and extremely difficult. (It should be noted that our ability to interview 40+ was very much a product of the fact that we had someone working full-time, on a CEA grant, on running our group during this semester.) The end result was certainly acceptable and of all the 16 admitted fellows, there was only one person whom I maybe would have preferred to substitute for another applicant. Still, it is clear that there’s some room for improvement and I’d be happy to hear if someone knew of a more systematic approach to admissions.
+Ultimately, the selection process was very time intensive and extremely difficult. (It should be noted that our ability to interview 40+ was very much a product of the fact that we had someone working full-time, on a CEA grant, on running our group during this semester.) The end result was certainly acceptable and of all the 16 admitted fellows, there was only one person whom I _maybe_ would have preferred to substitute for another applicant. Still, it is clear that there’s some room for improvement and I’d be happy to hear if someone knew of a more systematic approach to admissions.
 
-Other important considerations: Diversity and homogeneity in levels of experience
+**Other important considerations: Diversity and homogeneity in levels of experience**
 
-Diversity
+**Diversity**
 
 Beyond the above criteria, I believe it is important to consider two kinds of diversity when creating a fellowship cohort.
 
-First, diversity of race, gender, and socioeconomic background should be seriously considered. The EA movement generally has a huge problem with diversity. Among about 1,000 respondents in the 2017 EA Survey, almost 90% identified as white; less than 1% identified as black; and 70% identified as male. The full causes, consequences, and remedies for this lack of diversity are serious but beyond the scope of this piece. Instead, I will briefly note that the community could stand to benefit a great deal from more diversity and that this should be kept in mind when putting together a cohort of fellows.
+First, diversity of race, gender, and socioeconomic background should be seriously considered. The EA movement generally has a huge problem with diversity. Among about 1,000 respondents in the [2017 EA Survey](https://forum.effectivealtruism.org/posts/Em7kSysc3STrH9HhQ/ea-survey-2017-series-demographics-ii), almost 90% identified as white; less than 1% identified as black; and 70% identified as male. The full causes, consequences, and remedies for this lack of diversity are serious but beyond the scope of this piece. Instead, I will briefly note that the community could stand to benefit a great deal from more diversity and that this should be kept in mind when putting together a cohort of fellows.
 
 One (small) way of addressing is, for instance, to have non-male or non-white members of your group advertise the fellowship publicly. In our group, we are so fortunate to have several women in our leadership (as of Spring 2019, both Co-Presidents are female), and they did (and do) a great job at marketing the fellowship in a welcoming and inclusive way.
 
@@ -142,91 +137,76 @@ Another implication of this issue is to be careful about judging applicants too 
 
 Second, it is a good idea to get a diverse range of academic backgrounds represented in the cohort, if possible. The discussions benefit a great deal from contributions from a variety of disciplines.
 
-Homogeneity in levels of experience
+**Homogeneity in levels of experience**
 
 On the other hand, there is one area where homogeneity is desirable: levels of familiarity and involvement with the EA movement. While some heterogeneity is OK, it will be a disadvantage for everyone considered if there are some fellows who are veterans in the EA community while others are total newcomers. Since our goal for the fellowship was to serve as an early stage of the “EA pipeline,” we erred on the side of getting newcomers. That said, we do also consider the fellowship a viable option for people who are somewhat familiar with the movement, but who haven’t yet had the chance to really study it, such as newly joined members of our board. We had a few applicants who were obviously overqualified, whom we encouraged to join our board instead of doing the fellowship.
 
-Putting together a program and curriculum
+## Putting together a program and curriculum
 
-Content of the Fellowship
+**Content of the Fellowship**
 
 The fall 2018 fellowship contained the following elements:
 
 Mandatory
 
-\    Weekly dinner discussions from 6pm-7.15pm (10 meetings)
-
-\    A social initiation event on the first Friday evening of the fellowship
-
-\    A 3-hour introductory workshop on EA concepts during the first weekend of the fellowship
-
-\    A 3-hour Research-a-thon
+* Weekly dinner discussions from 6pm-7.15pm (10 meetings)
+* A social initiation event on the first Friday evening of the fellowship
+* A 3-hour introductory workshop on EA concepts during the first weekend of the fellowship
+* A 3-hour Research-a-thon
 
 Optional
 
-\    Dinners with professors and guest speakers
+* Dinners with professors and guest speakers
+* YEA social events
+* Other YEA public events
+* A workshop on career strategies
 
-\    YEA social events
-
-\    Other YEA public events
-
-\    A workshop on career strategies
-
-Topics
+**Topics**
 
 In my view, the fellowship should give an introduction to several important topics in EA, but shouldn’t necessarily attempt to dive deep in to any one of them. In 2018 Fall, the discussion topics were as follows:
 
-Discussion #1: Methods and Approach of Effective Altruism
+* Discussion #1: Methods and Approach of Effective Altruism
+* Discussion #2: Effectiveness in Global Health and Development
+* Discussion #3: Impact Challenge I
+* Discussion #4: Impact Challenge Discussion II. Conclusion of Impact Challenge.
+* Discussion #5: The Philosophical, Empirical, and Historical Case for a Long Term Focus
+* Discussion #6: Global Catastrophic Risks from AI, Biosecurity, and More
+* Discussion #7: The Moral Case for Animals & Animal Welfare Interventions
+* Discussion #8: Career Choices and Effective Altruism
+* Discussion #9: Effective Altruism Community Building and Living As An Aspiring Effective Altruist
+* Discussion #10: Wrapping Up the Fellowship and Discussing Remaining Issues
 
-Discussion #2: Effectiveness in Global Health and Development
-
-Discussion #3: Impact Challenge I
-
-Discussion #4: Impact Challenge Discussion II. Conclusion of Impact Challenge.
-
-Discussion #5: The Philosophical, Empirical, and Historical Case for a Long Term Focus
-
-Discussion #6: Global Catastrophic Risks from AI, Biosecurity, and More
-
-Discussion #7: The Moral Case for Animals & Animal Welfare Interventions
-
-Discussion #8: Career Choices and Effective Altruism
-
-Discussion #9: Effective Altruism Community Building and Living As An Aspiring Effective Altruist
-
-Discussion #10: Wrapping Up the Fellowship and Discussing Remaining Issues
-
-Too little focus on the long term? You might notice that only 2 out of 10 topics are directly related to existential risks and “long-termism.” This might seem at odds with the “mainstream” view within EA. (Whether this really is the mainstream view, and whether it should be, are perfectly interesting questions that are beyond the scope of this piece.)
+Too little focus on the long term? You might notice that only 2 out of 10 topics are directly related to existential risks and “long-termism.” This might seem at odds with the “mainstream” [view](https://www.centreforeffectivealtruism.org/ceas-current-thinking/) [within](https://80000hours.org/articles/future-generations/) [EA](https://www.openphilanthropy.org/about/vision-and-values). ([Whether this really is the mainstream view, and whether it should be](https://forum.effectivealtruism.org/posts/2qGL7FoTEZTwp38ij/problems-with-ea-representativeness-and-how-to-solve-it), are perfectly interesting questions that are beyond the scope of this piece.)
 
 Here’s the reasoning behind this decision:
 
-A lot of people in the EA community (including myself and other student group leaders as well as prominent people such as Will MacAskill and Toby Ord) began their involvement with the movement with a focus on global poverty and health. Gradually, many transition into caring more and more about the long term trajectory of humanity. I don’t think the order of this transition (global development then long-termism) is coincidental and I do think it’s extremely important to keep in mind when trying to bring new people into the community.
+A lot of people in the EA community (including myself and other student group leaders as well as prominent people such as Will MacAskill and Toby Ord) began their involvement with the movement with a focus on global poverty and health. Gradually, many transition into caring more and more about the long term trajectory of humanity. I don’t think the order of this transition (global development _then_ long-termism) is coincidental and I do think it’s extremely important to keep in mind when trying to bring new people into the community.
 
 Let’s face it. Long-termism is not very intuitively compelling to most people when they first hear of it. Not only do you have to think in very consequentialist terms, you also have to be extremely committed to acting and prioritizing on the basis of fairly abstract philosophical arguments. In my view, that’s just not very appealing - sometimes even off-putting - if you’ve never even thought in terms of cost-effectiveness or total-view consequentialism before.
 
 Accordingly, I believe that starting off with abstract arguments for future generations or apocalyptical risks from AI has a very high likelihood of turning people off from EA - people, who could come to support those very same causes down the line, if only they stuck around long enough to begin understanding and agreeing with the core principles that lead to those views.
 
-On the other hand, by starting with global health and development - which often is compelling even to newcomers - people get used to the methodology and philosophical assumptions of effective altruism. Once you start thinking “Hm, maybe I should care about people, even though they are far away in space and maybe I should have a maximizing approach” then you’re one step closer to thinking the same thing about people far away in time as well.
+On the other hand, by starting with global health and development - which often _is_ compelling even to newcomers - people get used to the methodology and philosophical assumptions of effective altruism. Once you start thinking “Hm, maybe I _should_ care about people, even though they are far away in space and maybe I _should_ have a maximizing approach” then you’re one step closer to thinking the same thing about people far away in time as well.
 
 In sum: I’m not saying that it shouldn’t be a priority to get people to care about long-termism and x-risks. But I believe pretty firmly that, for most people, the path to that point goes through more “conventional” cause areas such as global health and development.
 
 Obviously, this is up for discussion and ultimately a judgement call. But I should add that my “model of EA-newcomer psychology” is based on not only my own experience and the anecdotal experience of EA thought leaders, but also on the experience of talking to tens, if not hundreds, of people about effective altruism and seeing what they respond well to.
 
-Readings
+**Readings**
 
 I think it is reasonable to assign between 30-90 minutes of readings for each week, especially if you have a cohort of very engaged people. Readings should be informative and useful as talking points during discussion. They shouldn’t require too much former familiarity with a subject.
 
-See Appendix 2 for the assignments for the Fall 2018 cohort.
+See [Appendix 2](https://docs.google.com/document/d/1hYY0T_OL6CV5vbzM6EPkOoBHqHeoexV1-nsPiLz8fZM/edit) for the assignments for the Fall 2018 cohort.
 
-Involvement of professors
+**Involvement of professors**
 
 For the Fall 2017 and Spring 2018 fellowships, I was convinced that it was essential to the fellowship that it included weekly dinners with professors. I had two main reasons for believing this, but I no longer believe in either of them.
 
-First, I thought that well-known names, such as Paul Bloom and Laurie Santos, would attract more applicants. While this may be true, you can still obtain that effect without having to have professors for every dinner. Moreover - as discussed above - it’s not just a matter of getting more applicants. You want more applicants of the right kind - i.e. people who are interested in the ideas of EA, not just looking to meet famous professors.
+First, I thought that well-known names, such as Paul Bloom and Laurie Santos, would attract more applicants. While this may be true, you can still obtain that effect without having to have professors for _every_ dinner. Moreover - as discussed above - it’s not just a matter of getting _more_ applicants. You want more applicants of the right kind - i.e. people who are interested in the ideas of EA, not just looking to meet famous professors.
 
 Second, I thought that professors would make for more interesting conversations. This can be true, if it’s an amazing professor or if you have a poor group of fellows. However, not all professors are amazing and hopefully you have a great group of fellows.
 
-But the biggest issue with professors is probably that it’s rare that their work is directly related to EA and sometimes their personal principles are at odds with core EA ideas. You might think that a professor in global health would be perfect for an EA discussion. But that won’t be the case if they focus on niche research in a niche (not-so-EA) area or perhaps haven’t done much work on cost-effectiveness, cause prioritization etc. This means that while conversations with the average professor might be super interesting, they will only be tangential to an education in EA. Most of the time, the fellows will learn much more about EA ideas if they have a free conversation moderated by someone who’s very familiar with the movement.
+But the biggest issue with professors is probably that it’s rare that their work is directly related to EA and sometimes their personal principles are at odds with core EA ideas. You might think that a professor in global health would be perfect for an EA discussion. But that won’t be the case if they focus on niche research in a niche (not-so-EA) area or perhaps haven’t done much work on cost-effectiveness, cause prioritization, etc. This means that while conversations with the average professor might be super interesting, they will only be tangential to an education in EA. Most of the time, the fellows will learn much more about EA ideas if they have a free conversation moderated by someone who’s very familiar with the movement.
 
 If you do want dinners with professors...
 
@@ -234,7 +214,7 @@ All of this said, professors can add tremendous value to your group. For this re
 
 Pick professors carefully and never bring a professor without meeting them in person first
 
-Some professors are surprisingly awful at giving talks and leading discussions. Others seem like they do interesting work, but then it turns out that their opinions are antithetical to core effective altruism ideas. Few semesters ago, we managed to bring a professor who was an awfully dull speaker and was convinced that it was ridiculous to even be the slightest worried about AI alignment. To be sure, it can be could to have professors push back on mainstream EA thinking, but it’s not very useful if they don’t even agree with the very basic principles that make EA what it is.
+Some professors are surprisingly awful at giving talks and leading discussions. Others seem like they do interesting work, but then it turns out that their opinions are antithetical to core effective altruism ideas. Few semesters ago, we managed to bring a professor who was an awfully dull speaker _and_ was convinced that it was ridiculous to even be the slightest worried about AI alignment. To be sure, it can be could to have professors push back on mainstream EA thinking, but it’s not very useful if they don’t even agree with the very basic principles that make EA what it is.
 
 Assign a reading or video
 
