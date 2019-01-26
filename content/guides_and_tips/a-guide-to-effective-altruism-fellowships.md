@@ -226,49 +226,45 @@ Students are busy and will flake from optional events if they feel like it. For 
 
 Beyond that, all you’ve got to do are the basic logistics:
 
-\    Agree on a date that works for the professor. It can also be a good idea to fit it with the fellowship calendar. (E.g. in Fall 2018 we had a conversation with Shelly Kagan about ethics of future generations during the same week that this was the topic for the fellowship).
+* Agree on a date that works for the professor. It can also be a good idea to fit it with the fellowship calendar. (E.g. in Fall 2018 we had a conversation with Shelly Kagan about ethics of future generations during the same week that this was the topic for the fellowship).
+* Book a dining room well in advance
+* Pick up the key (if applicable) for the dining room at the day of the dinner
 
-\    Book a dining room well in advance
-
-\    Pick up the key (if applicable) for the dining room at the day of the dinner
-
-Social events
+**Social events**
 
 One of the main purposes of the fellowship is to integrate new members into the core EA community at Yale. To this end, social events are pretty essential.
 
-Initiation. As part of the fellowship, we had an “initiation” event on the first weekend of the program. This was framed as being “mandatory” and was pretty well attended. The initiation was a chill mixer taking place in a dorm common room. Beverages and snacks were served and we played a few games, including name games and ice-breaker games like “two truths and a lie.”
+**Initiation.** As part of the fellowship, we had an “initiation” event on the first weekend of the program. This was framed as being “mandatory” and was pretty well attended. The initiation was a chill mixer taking place in a dorm common room. Beverages and snacks were served and we played a few games, including name games and ice-breaker games like “two truths and a lie.”
 
-Other social events. Throughout the semester, we invited the fellows to all YEA social events but it was pretty rare that any fellows attended. In their evaluation survey responses, fellows seemed to suggest that actually wanted to be more of a part of the community, but just didn’t have the time. There’s some room for improvement on this front!
+**Other social events.** Throughout the semester, we invited the fellows to all YEA social events but it was pretty rare that any fellows attended. In their evaluation survey responses, fellows seemed to suggest that actually wanted to be more of a part of the community, but just didn’t have the time. There’s some room for improvement on this front!
 
-Workshops
+**Workshops**
 
 As part of the fellowship, we had an introductory workshop on important EA concepts. The purpose was the introduce useful concepts and terminology to guide future discussions. The workshop was largely based on version made by Huw Thomas of Oxford EA, who deserves much credit for his work.
 
 The workshop was fairly interactive, lasted 3 hours, and took place during the first week of the fellowship.
 
-See Appendix 10a for workshop content and Appendix 10b for workshop slides.
+See [Appendix 10a](https://docs.google.com/presentation/d/1qECbwvzvjBWPQsn_R9oF9tkr74zXJMWjKPlbdcNuI7w/edit?usp=sharing) for workshop content and [Appendix 10b](https://docs.google.com/presentation/d/1qECbwvzvjBWPQsn_R9oF9tkr74zXJMWjKPlbdcNuI7w/edit?usp=sharing) for workshop slides.
 
-Running the fellowship
+## Running the fellowship
 
 Once a cohort of fellows has been selected, the work of actually running the fellowship begins.
 
-Location
+**Location**
 
 You need a recurring booking. Preferably somewhere central and somewhere that allows for a good conversation held by 15-18 people. At Yale, The Saybrook-Branford room and Branford Mendell Room are both excellent options. I prefer a room that is separate from the dining hall (unlike e.g. the Silliman dining annex), because this choice discourages getting up in the middle of the conversation to get more food, which is disruptive.
 
-Sending weekly emails
+**Sending weekly emails**
 
-Every week, I usually send out two emails. See Appendix #4 with all the emails sent out during the 2018 Fall Fellowship. If the fellowship dinner is on Wednesday, the first email should ideally be sent out during the weekend. The second email is a reminder email sent on the day of the dinner. An email usually includes:
+Every week, I usually send out two emails. See [Appendix 4](https://docs.google.com/document/d/1bQ5mp55FCXvazFXHvoyCn93bFIMbAjgKGHaK5176_UY/edit) with all the emails sent out during the 2018 Fall Fellowship. If the fellowship dinner is on Wednesday, the first email should ideally be sent out during the weekend. The second email is a reminder email sent on the day of the dinner. An email usually includes:
 
-Introduction to next week’s topic. How is it relevant to EA? What will we discuss and why?
-
-Assignment. Include links to every assignment (double check that links work before sending) and a note about whether the reading is optional or mandatory.
-
-Other information. Mention other group events of the week, sign-ups for special events, etc.
+* **Introduction to next week’s topic.** How is it relevant to EA? What will we discuss and why?
+* **Assignment.** Include links to every assignment (double check that links work before sending) and a note about whether the reading is optional or mandatory.
+* **Other information.** Mention other group events of the week, sign-ups for special events, etc.
 
 You should definitely use Mailchimp, as it makes for some nice-looking emails.
 
-Running discussions
+**Running discussions**
 
 Make sure everyone has a chance to speak. Some people are more talkative; louder; better at “seizing the microphone”; and quicker at formulating their ideas than others. This means that you’ll sometimes have discussions where a few people are doing most of the talking. This is bad for two reasons. One, it can be less exciting and interactive for the people who don’t talk. Two, you get an unrepresentative sample of people’s opinions and people might think that no one believes in position X, just because no one happens to be arguing in favor for it.
 
