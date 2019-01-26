@@ -21,21 +21,21 @@ This document is based on three semesters’ worth of experience running effecti
 
 ## Summary
 
-The Yale Effective Altruism Fellowship is a semester-long program, in which 15-16 people are selected to learn a great deal about effective altruism over a few months. The fellows submit a written application and are interviewed prior to acceptance. The fellows meet once a week for dinner, where they discuss a range of EA topics. Before each meeting, the fellows are assigned between 30 and 45 minutes worth of readings, podcasts or videos. Dinner discussions are moderated by a group leader and usually do not involve professors. Beyond the dinner discussions, the YEA Fellowship involves an impact challenge, wherein the fellows are tasked with deciding where to donate a significant amount of money. The fellowship also includes a couple of workshops, social events, and optional events with speakers and professors. Fellows were also invited to take part in organizing our GWWC pledge drive.
+The Yale Effective Altruism Fellowship is a **semester-long** program, in which **15-16 people** are selected to learn a great deal about effective altruism over a few months. The fellows submit a **written application** and are **interviewed** prior to acceptance. The fellows **meet once a week** for dinner, where they discuss a range of EA topics. Before each meeting, the fellows are **assigned between 30 and 45 minutes** worth of readings, podcasts or videos. Dinner discussions are moderated by a group leader and usually do **not involve professors**. Beyond the dinner discussions, the YEA Fellowship involves an **impact challenge**, wherein the fellows are tasked with deciding where to **donate a significant amount** of money. The fellowship also includes a couple of **workshops**, **social events**, and **optional events** with **speakers and professors**. Fellows were also invited to take part in organizing our **GWWC** pledge drive.
 
 Some keys to a successful fellowship seem to be:
 
-* Only admitting the right people, who are committed and genuinely interested
-* Setting high expectations for fellows
-* Making the fellowship seem and feel like a serious and well-organized program
-* Only involving professors who are exceptionally good speakers and/or speak on topics that are directly related and aligned with effective altruism ideas
-* Doing enough outreach that you can get a large amount of applicants
+* Only admitting **the right people**, who are committed and genuinely interested
+* Setting **high expectations** for fellows
+* Making the fellowship seem and feel like a **serious** and well-organized program
+* Only involving professors who are **exceptionally good speakers** and/or speak on topics that are directly related and **aligned with effective altruism ideas**
+* Doing enough outreach that you can get a **large amount of applicants**
 * Planning well in advance of the fellowship
 
 If you plan to do a massive Giving Game, it might be good to:
 
-* Focus on comparing organizations within one cause area (e.g. global health)
-* Let fellows choose from a predetermined list of candidates, instead of starting from scratch
+* Focus on comparing organizations **within one cause area** (e.g. global health)
+* Let fellows choose from a **predetermined** list of candidates, instead of starting from scratch
 * Have one or more sessions of collaborative, in-depth research
 * Focus on teaching fellows to evaluate, rather than produce, research on effectiveness
 
