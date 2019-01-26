@@ -147,14 +147,14 @@ On the other hand, there is one area where homogeneity is desirable: levels of f
 
 The fall 2018 fellowship contained the following elements:
 
-Mandatory
+<u>Mandatory</u>
 
 * Weekly dinner discussions from 6pm-7.15pm (10 meetings)
 * A social initiation event on the first Friday evening of the fellowship
 * A 3-hour introductory workshop on EA concepts during the first weekend of the fellowship
 * A 3-hour Research-a-thon
 
-Optional
+<u>Optional</u>
 
 * Dinners with professors and guest speakers
 * YEA social events
@@ -176,7 +176,7 @@ In my view, the fellowship should give an introduction to several important topi
 * Discussion #9: Effective Altruism Community Building and Living As An Aspiring Effective Altruist
 * Discussion #10: Wrapping Up the Fellowship and Discussing Remaining Issues
 
-**Too little focus on the long term?** You might notice that only 2 out of 10 topics are directly related to existential risks and “long-termism.” This might seem at odds with the “mainstream” [view](https://www.centreforeffectivealtruism.org/ceas-current-thinking/) [within](https://80000hours.org/articles/future-generations/) [EA](https://www.openphilanthropy.org/about/vision-and-values). ([Whether this really is the mainstream view, and whether it should be](https://forum.effectivealtruism.org/posts/2qGL7FoTEZTwp38ij/problems-with-ea-representativeness-and-how-to-solve-it), are perfectly interesting questions that are beyond the scope of this piece.)
+<u>**Too little focus on the long term?**</u> You might notice that only 2 out of 10 topics are directly related to existential risks and “long-termism.” This might seem at odds with the “mainstream” [view](https://www.centreforeffectivealtruism.org/ceas-current-thinking/) [within](https://80000hours.org/articles/future-generations/) [EA](https://www.openphilanthropy.org/about/vision-and-values). ([Whether this really is the mainstream view, and whether it should be](https://forum.effectivealtruism.org/posts/2qGL7FoTEZTwp38ij/problems-with-ea-representativeness-and-how-to-solve-it), are perfectly interesting questions that are beyond the scope of this piece.)
 
 Here’s the reasoning behind this decision:
 
@@ -208,19 +208,19 @@ Second, I thought that professors would make for more interesting conversations.
 
 But the biggest issue with professors is probably that it’s rare that their work is directly related to EA and sometimes their personal principles are at odds with core EA ideas. You might think that a professor in global health would be perfect for an EA discussion. But that won’t be the case if they focus on niche research in a niche (not-so-EA) area or perhaps haven’t done much work on cost-effectiveness, cause prioritization, etc. This means that while conversations with the average professor might be super interesting, they will only be tangential to an education in EA. Most of the time, the fellows will learn much more about EA ideas if they have a free conversation moderated by someone who’s very familiar with the movement.
 
-If you do want dinners with professors...
+<u>If you do want dinners with professors...</u>
 
 All of this said, professors can add tremendous value to your group. For this reason, we decided to have a series of “Dinners with Professors” parallel to the fellowship, which was open to board members and fellows. If you run these, here are some helpful tips.
 
-_Pick professors carefully and never bring a professor without meeting them in person first_
+<u>_Pick professors carefully and never bring a professor without meeting them in person first_</u>
 
 Some professors are surprisingly awful at giving talks and leading discussions. Others seem like they do interesting work, but then it turns out that their opinions are antithetical to core effective altruism ideas. Few semesters ago, we managed to bring a professor who was an awfully dull speaker _and_ was convinced that it was ridiculous to even be the slightest worried about AI alignment. To be sure, it can be could to have professors push back on mainstream EA thinking, but it’s not very useful if they don’t even agree with the very basic principles that make EA what it is.
 
-_Assign a reading or video_
+<u>_Assign a reading or video_</u>
 
 Discussions are usually better if people are on the same page in terms of the topic of discussion. Talk to the professor about choosing a good assignment that isn’t much longer than 20 minutes worth of reading/watching/listening.
 
-_Get participants to sign-up affirmatively_
+<u>_Get participants to sign-up affirmatively_</u>
 
 Students are busy and will flake from optional events if they feel like it. For this reason, it’s good to get people to commit to showing up. Usually, I first send out an RSVP form (using google forms or similar) to determine which 15-16 people get a spot for the dinner. Then, I send an email to those people, asking them to respond with an email confirming that they are able to come and that they will do the reading.
 
@@ -234,9 +234,9 @@ Beyond that, all you’ve got to do are the basic logistics:
 
 One of the main purposes of the fellowship is to integrate new members into the core EA community at Yale. To this end, social events are pretty essential.
 
-**Initiation.** As part of the fellowship, we had an “initiation” event on the first weekend of the program. This was framed as being “mandatory” and was pretty well attended. The initiation was a chill mixer taking place in a dorm common room. Beverages and snacks were served and we played a few games, including name games and ice-breaker games like “two truths and a lie.”
+<u>**Initiation.**</u> As part of the fellowship, we had an “initiation” event on the first weekend of the program. This was framed as being “mandatory” and was pretty well attended. The initiation was a chill mixer taking place in a dorm common room. Beverages and snacks were served and we played a few games, including name games and ice-breaker games like “two truths and a lie.”
 
-**Other social events.** Throughout the semester, we invited the fellows to all YEA social events but it was pretty rare that any fellows attended. In their evaluation survey responses, fellows seemed to suggest that actually wanted to be more of a part of the community, but just didn’t have the time. There’s some room for improvement on this front!
+<u>**Other social events.**</u> Throughout the semester, we invited the fellows to all YEA social events but it was pretty rare that any fellows attended. In their evaluation survey responses, fellows seemed to suggest that actually wanted to be more of a part of the community, but just didn’t have the time. There’s some room for improvement on this front!
 
 **Workshops**
 
@@ -266,21 +266,21 @@ You should definitely use Mailchimp, as it makes for some nice-looking emails.
 
 **Running discussions**
 
-**Make sure everyone has a chance to speak.** Some people are more talkative; louder; better at “seizing the microphone”; and quicker at formulating their ideas than others. This means that you’ll sometimes have discussions where a few people are doing most of the talking. This is bad for two reasons. One, it can be less exciting and interactive for the people who don’t talk. Two, you get an unrepresentative sample of people’s opinions and people might think that no one believes in position X, just because no one happens to be arguing in favor for it.
+<u>**Make sure everyone has a chance to speak.**</u> Some people are more talkative; louder; better at “seizing the microphone”; and quicker at formulating their ideas than others. This means that you’ll sometimes have discussions where a few people are doing most of the talking. This is bad for two reasons. One, it can be less exciting and interactive for the people who don’t talk. Two, you get an unrepresentative sample of people’s opinions and people might think that no one believes in position X, just because no one happens to be arguing in favor for it.
 
 If this happens, it might be useful to sometimes say “How about some of the people who haven’t really had the chance to talk yet - is there anything you’d like to add?” Another trick is to pay close attention to people who aren’t saying much. Sometimes, their face will reveal that they actually have something on their mind, in which case you can gently say “Laura, you look like you’re \[nodding/disagreeing/whatever]. What’s on your mind?” Sometimes, they’ll chime in and sometimes they’ll politely say no.
 
-**Table unresolveable or tangential discussions.** Every once in a while, the conversation will move towards really big picture questions like “capitalism versus other economic systems” or “radical versus moderate political platforms.” When this happens, I like to interject and say something like “This is an extremely interesting and important issue. However, I think we should table it for now and stick to the topic at hand. The conversation should definitely be continued outside the fellowship, though.” The main benefits of this approach are:
+<u>**Table unresolveable or tangential discussions.**</u> Every once in a while, the conversation will move towards really big picture questions like “capitalism versus other economic systems” or “radical versus moderate political platforms.” When this happens, I like to interject and say something like “This is an extremely interesting and important issue. However, I think we should table it for now and stick to the topic at hand. The conversation should definitely be continued outside the fellowship, though.” The main benefits of this approach are:
 
 * Keeping focus on the topic of the night
 * Making progress on narrowly defined questions instead of aimlessly discussing extremely difficult questions that could not possibly be resolved in the span of one hour
 * Avoiding heated ideological debates
 
-**Making sure everyone is on the same page.** Every once in a while, someone will refer to an advanced concept, either from their coursework or from the reading, and go on to discuss that. In some of those cases, it might be a good idea to interject and say something like “Would you mind defining that term?” or “Can you remind us what her argument is?”, which allows other people to partake even if they don’t know the term or concept.
+<u>**Making sure everyone is on the same page.**</u> Every once in a while, someone will refer to an advanced concept, either from their coursework or from the reading, and go on to discuss that. In some of those cases, it might be a good idea to interject and say something like “Would you mind defining that term?” or “Can you remind us what her argument is?”, which allows other people to partake even if they don’t know the term or concept.
 
-**Be respectful of people’s opinions and interests.** Many fellows will undoubtedly - as they should - care deeply about issues other than those commonly considered in EA. Of course, you want to present sustained arguments for priority EA-areas. However, being dismissive towards other causes and organizations will do you no benefit and can cause a great deal of harm. Not only will it make for a less enjoyable experience for the fellows but you also risk that fellows become defensive and even less likely to consider EA arguments. Even more troubling is the risk that you affect the reputation of EA negatively by making the community and philosophy appear hostile to and incompatible with a concern for other, important issues.
+<u>**Be respectful of people’s opinions and interests.**</u> Many fellows will undoubtedly - as they should - care deeply about issues other than those commonly considered in EA. Of course, you want to present sustained arguments for priority EA-areas. However, being dismissive towards other causes and organizations will do you no benefit and can cause a great deal of harm. Not only will it make for a less enjoyable experience for the fellows but you also risk that fellows become defensive and even less likely to consider EA arguments. Even more troubling is the risk that you affect the reputation of EA negatively by making the community and philosophy appear hostile to and incompatible with a concern for other, important issues.
 
-**Educate, don’t argue.** Occasionally, someone will present a claim that is somewhat at odds with mainstream thinking within EA. Often, I believe that the right course of action is to resist the temptation to refute their argument right away. You’re not there to prove how much you know about EA or to convince everyone that EA is 100% right on 100% of issues (as it most likely isn’t). Instead, you are there to offer insights and arguments to people for their consideration. Some people won’t change their mind on some issues, and it can be a waste of everyone’s time to try and convince them that they’re wrong. One of the best pieces of advice I ever got was to think of EA advocacy as being about “an offer of information, not about persuasion.”
+<u>**Educate, don’t argue.**</u> Occasionally, someone will present a claim that is somewhat at odds with mainstream thinking within EA. Often, I believe that the right course of action is to resist the temptation to refute their argument right away. You’re not there to prove how much you know about EA or to convince everyone that EA is 100% right on 100% of issues (as it most likely isn’t). Instead, you are there to offer insights and arguments to people for their consideration. Some people won’t change their mind on some issues, and it can be a waste of everyone’s time to try and convince them that they’re wrong. One of the best pieces of advice I ever got was to think of EA advocacy as being about “an offer of information, not about persuasion.”
 
 **Approaches to keeping attendance high**
 
