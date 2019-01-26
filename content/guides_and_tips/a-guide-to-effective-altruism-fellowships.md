@@ -216,11 +216,11 @@ _Pick professors carefully and never bring a professor without meeting them in p
 
 Some professors are surprisingly awful at giving talks and leading discussions. Others seem like they do interesting work, but then it turns out that their opinions are antithetical to core effective altruism ideas. Few semesters ago, we managed to bring a professor who was an awfully dull speaker _and_ was convinced that it was ridiculous to even be the slightest worried about AI alignment. To be sure, it can be could to have professors push back on mainstream EA thinking, but it’s not very useful if they don’t even agree with the very basic principles that make EA what it is.
 
-Assign a reading or video
+_Assign a reading or video_
 
 Discussions are usually better if people are on the same page in terms of the topic of discussion. Talk to the professor about choosing a good assignment that isn’t much longer than 20 minutes worth of reading/watching/listening.
 
-Get participants to sign-up affirmatively
+_Get participants to sign-up affirmatively_
 
 Students are busy and will flake from optional events if they feel like it. For this reason, it’s good to get people to commit to showing up. Usually, I first send out an RSVP form (using google forms or similar) to determine which 15-16 people get a spot for the dinner. Then, I send an email to those people, asking them to respond with an email confirming that they are able to come and that they will do the reading.
 
@@ -343,7 +343,7 @@ Keeping the focus on one cause area. On the face of it, one might think that fel
 
 For one, it is very difficult to make apples-to-apples comparisons of the pros and cons of organizations in different fields; especially considering the lack of quantitative methods in our IC.
 
-Second, the choice between cause areas does often not come down to analysis but rather to moral and philosophical judgments. These judgments are extremely important and considering them is a crucial part of being an aspiring effective altruist. However, I do not believe that the IC is the ideal forum for discussing these philosophical issues. I suspect that people are much less likely to update their moral intuitions through a few hours discussion, than they are to update their empirical beliefs about what’s effective. For this reason, I think that within-area comparison would allow fellows to genuinely _learn_ a lot through open-minded research, whereas I fear that between-area comparison might risk leading the fellows to argue for whichever cause area they felt most intuitively compelled by from the beginning.
+Second, the choice between cause areas does often not come down to analysis but rather to moral and philosophical judgments. These judgments are extremely important and considering them is a crucial part of being an aspiring effective altruist. However, I do not believe that the IC is the ideal forum for discussing these philosophical issues. I suspect that people are much less likely to update their moral intuitions through a few hours discussion, than they are to update their empirical beliefs about what’s effective. For this reason, I think that within-area comparison would allow fellows to genuinely _learn_ a lot through open-minded research, whereas I fear that between-area comparison might risk leading the fellows to _argue for_ whichever cause area they felt most intuitively compelled by from the beginning.
 
 Finally, I have an idea that a lot of people in the EA community began with an interest in global health and development and only later gained an interest for e.g. existential risks (as I discuss elsewhere.) On this view, it makes sense to avoid pitting cause areas against each other so early in people’s EA trajectory. We gave this a lot of thought prior to launching the IC and it also seemed to have been the best choice after the fact. If anyone wishes to discuss this topic further, feel free to reach out.
 
@@ -353,7 +353,7 @@ Focusing the impact challenge. It is tempting to think that the fellows should g
 
 **Voting**
 
-I sort of improvised a voting system, where each fellow would rank the organizations from 1 through 4. If an organization got ranked first, it got 1 point, if it was ranked second, it got 2 points, etc. In the end, the organization with the fewest points won. This system seemed to get the job done alright, but there’s likely a better solution. I encourage organizers to listen to the [80,000 Hours podcast interview with Aaron Hamlin on voting systems](https://80000hours.org/podcast/episodes/aaron-hamlin-voting-reform/).
+I sort of improvised a voting system, where each fellow would rank the organizations from 1 through 4. If an organization got ranked first, it got 1 point, if it was ranked second, it got 2 points, etc. In the end, the organization with the _fewest_ points won. This system seemed to get the job done alright, but there’s likely a better solution. I encourage organizers to listen to the [80,000 Hours podcast interview with Aaron Hamlin on voting systems](https://80000hours.org/podcast/episodes/aaron-hamlin-voting-reform/).
 
 Some fellows expressed interest in being able to spread the donation across all four organizations or to at least have the allocation be proportional to the number of votes. While this is also an option, I felt that the winner-takes-all model was better at creating incentives for rigorous research and serious deliberation.
 
