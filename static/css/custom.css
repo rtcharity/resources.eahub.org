@@ -120,7 +120,6 @@ body {
 
 .article_license {
   font-style: italic;
-  font-size: 80%;
 }
 
 .article_meta {
@@ -129,7 +128,6 @@ body {
 
 .article_original {
   font-style: italic;
-  font-size: 80%;
   margin-bottom: 10px;
 }
 
@@ -143,6 +141,7 @@ body {
 
 .article_title {
   color: #512B52; /* EAHub purple */
+  font-weight: bold;
 }
 
 .bg-black-box {
@@ -239,6 +238,12 @@ body {
   text-align: center;
 }
 
+.f3 p {
+  font-size: 2rem;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .footer {
   background-color: #512B52;
   display: block;
@@ -314,6 +319,11 @@ body {
   text-align: center;
 }
 
+.landing_columns h2 {
+  color: #635274;
+  margin-bottom: 25px;
+}
+
 .landing_item {
   text-align: left;
   display: inline-block;
@@ -327,11 +337,6 @@ body {
 .landing_item_popular {
   background-color: #E8E8E8;
   border-radius: 5px;
-}
-
-.landing_headings {
-  font-size: 32px;
-  color: #635274;
 }
 
 .main {
@@ -440,6 +445,11 @@ body {
 .popular_title {
   margin-bottom: 10px;
   font-weight: 400;
+}
+
+.section-list h2 {
+  color: #635274;
+  text-align: center;
 }
 
 /* mobile responsive */
