@@ -304,12 +304,6 @@ body {
   cursor: pointer;
 }
 
-#logo {
-  width: 150px;
-  height: auto;
-  margin-top: -7px;
-}
-
 .landing_main {
   display: flex;
   justify-content: space-between;
@@ -361,16 +355,19 @@ body {
   max-width: 900px;
 }
 /* nav */
-.navbar-header {
-  width: 100%;
+
+.navbar-header h4 {
+  color: grey;
+  float: right;
+  margin-top: 18px;
+  padding-left: 5px;
 }
 
-.navbar-header .title {
-  color: grey;
-  display: inline-block;
-  padding-left: 10px;
-  font-size: 28px;
+.navbar-header img {
+  width: 120px;
+  height: auto;
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .navbar-inverse,
@@ -413,18 +410,22 @@ body {
   font-style: italic;
 }
 
-.dropdown-menu{
+/* .dropdown-menu{
   border: none;
   display: none;
   right: 0;
   left: auto;
   font-size: 14px;
-}
+} */
 .navbar img{
   height: 30px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.navbar .dropdown-menu {
+  display: none;
+}
+
 .navbar-nav > li:hover{
   transform: scale(1.1);
   font-weight: 500;
