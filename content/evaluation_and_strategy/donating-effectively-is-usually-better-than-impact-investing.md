@@ -4,6 +4,7 @@ date: 2019-01-27T18:06:17.570Z
 description: >-
   Effective impact investing is very hard and, to maximize social impact, it is
   usually much more effective to donate.
+illustration: /img/impact-inv.png
 author: 'John Halstead, Hauke Hillebrandt'
 originalPublicationURL: 'https://lets-fund.org/research/impact-investing/'
 block: true
@@ -21,12 +22,12 @@ _John Halstead is part of the research team at Founders Pledge. Hauke Hillebrand
 
 ## EXECUTIVE SUMMARY
 
-Impact investing – investing in, or divesting from, for-profits for the purpose of social impact – is an increasingly popular approach to doing good. It seems to offer the promise of a double bottom line: direct social impact and profits that you can keep or reinvest in other socially beneficial businesses. A donation to charity, in contrast, yields no monetary returns and can only be spent once. In this report, we discuss whether impact investing is indeed a promising approach for people who want to have social impact.
+Impact investing – investing in, or divesting from, for-profits for the purpose of social impact – is an increasingly popular approach to doing good. It seems to offer the promise of a double bottom line: direct social impact _and_ profits that you can keep or reinvest in other socially beneficial businesses. A donation to charity, in contrast, yields no monetary returns and can only be spent once. In this report, we discuss whether impact investing is indeed a promising approach for people who want to have social impact.
 
 Impact investors face two distinct challenges:
 
 * Investors must find companies with **enterprise impact** – companies that make a positive difference to the world.
-* Investors must have **additionality** – they need to make a difference to the performance of those companies, either through providing additional capital (known as investment impact) or through providing non-monetary support, such as advice or access to networks.
+* Investors must have **additionality** – they need to make a difference to the performance of those companies, either through providing additional capital (known as _investment impact_) or through providing non-monetary support, such as advice or access to networks.
 
 For both of these challenges, it is crucial to consider the _counterfactual_. That is, we have to ask: what would have happened had we not invested? Will a given solar power company merely displace another near-identical solar power company? Will my capital merely displace another investor? This marks a crucial difference between investing for profit and investing for impact. When investing for profit, we do not need to consider these kinds of questions. If the solar power company I invested in is making a $100 million profit, it doesn’t matter whether an identical solar power company would have sprung up one week later if the company did not exist. And if I made a substantial profit from my investment in the company, the fact that someone else would have acquired those profits had I not done so is irrelevant. When aiming for social impact, however, these questions are fundamental.
 
