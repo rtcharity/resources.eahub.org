@@ -22,7 +22,8 @@
           <li class="navbar-signup-xs"><a href="{% url 'signup' %}"><i class="fa fa-user-plus"></i> Sign Up</a></li>
           <li><a href="https://eahub.azurewebsites.net/profiles"><i class="fa fa-users"></i> Profiles</a></li>
           <li><a href="https://eahub.azurewebsites.net/groups"><i class="fa fa-globe"></i> Groups</a></li>
-          <li class="resources"><a href="/"><b>Resources Home</b></a></li>
+          <hr>
+          <li><a href="/"><b>Resources Home</b></a></li>
           {{ range .Site.Sections.ByWeight }}
             {{ if ne .Params.drop_down false }}
             <li><a href="{{ .URL }}">
