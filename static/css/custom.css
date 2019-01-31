@@ -395,8 +395,8 @@ body {
 .navbar .logo_with_page_name {
   margin-top: -2px;
 }
-.navbar .resources {
-  border-top: 1px white solid;
+.navbar hr {
+  margin: 0px 5px 5px 5px;
 }
 .navbar-header {
   background-color: #7bb0a8;
@@ -633,6 +633,11 @@ body {
 
   .landing_main {
     display: block;
+  }
+
+  .navbar h4 {
+    font-size: 16px;
+    margin-top: 18px;
   }
 
   .navbar-signup-md {
