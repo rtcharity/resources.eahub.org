@@ -361,44 +361,110 @@ body {
 }
 /* nav */
 
-.navbar-header h4 {
-  color: grey;
+/* nav */
+.navbar h4 {
+  color: white;
   display: inline-block;
-  margin-top: 18px;
+  font-size: 26px;
+  margin-top: 10px;
   padding-left: 5px;
 }
-
-.navbar-header img {
+.navbar img {
   width: 120px;
   height: auto;
   margin-bottom: 10px;
+}
+.navbar li {
+  float: none;
+}
+.navbar li:hover{
+  transform: scale(1.1);
+  font-weight: 500;
+}
+.navbar li a {
+  padding: 5px 15px 5px 0px;
+  color: white;
+  text-decoration: none;
+}
+.navbar .container {
+  z-index: 20;
+}
+.navbar .logo {
+  margin-top: 12px;
+}
+.navbar .logo_with_page_name {
   margin-top: -2px;
 }
-
-
-/* nav */
-
-.nav {
-  background-color: #7bb0a8;
+.navbar .resources {
+  border-top: 1px white solid;
 }
-
-.navbar-inverse,
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:focus,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .open > a,
-.navbar-inverse .navbar-nav > .open > a:focus,
-.navbar-inverse .navbar-nav > .open > a:hover{
+.navbar-header {
   background-color: #7bb0a8;
-  height: 50px;
+  float: none;
 }
-
-
+.navbar-inverse {
+  background-color: transparent;
+}
 .navbar-inverse .navbar-nav > li > a{
   color: #fff;
 }
 .navbar-inverse{
   border: none;
+}
+
+.navbar-menu {
+  background-color: rgba(81, 43, 82, 0.9);
+  border-radius: 5px;
+  display: none;
+  float: right;
+  margin-right: 25px;
+  padding-left: 20px;
+  padding-right: 5px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+}
+
+.navbar-menu a {
+  margin-right: -5px;
+}
+
+.navbar-menu ul {
+  margin-left: 10px;
+}
+
+.navbar-nav {
+  display: inline-block;
+  float: none!important;
+  margin-right: 0px !important;
+  margin-top: 7.5px;
+  text-align: right;
+  width: 100%;
+}
+.navbar-nav li a {
+  padding-right: 25px;
+}
+.navbar-toggle {
+  border: none;
+  display: inline-block;
+  float: right !important;
+  margin-top: 10px;
+}
+
+.navbar-right {
+  float: none !important;
+}
+.navbar-signup-md {
+  display: inline-block;
+  float: right;
+  margin-right: 0px;
+  margin-top: 17px;
+}
+.navbar-signup-md li {
+  display: inline-block;
+}
+
+.navbar-signup-xs {
+  display: none !important;
 }
 
 /* jumbotron */
@@ -569,22 +635,12 @@ body {
     display: block;
   }
 
-  .nav {
-    padding-bottom: 20px;
+  .navbar-signup-md {
+    display: none;
   }
 
-  .navbar .dropdown-menu {
-    background-color: transparent;
-    border: none;
-    position: static;
-  }
-
-  .navbar .dropdown-menu > li > a {
-  color: white !important;
-  }
-
-  .navbar .dropdown-menu > li > a:hover {
-    color: #E0E0E0 !important;
+  .navbar-signup-xs {
+    display: block !important;
   }
 
 }

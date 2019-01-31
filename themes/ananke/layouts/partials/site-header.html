@@ -1,41 +1,39 @@
 
   <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button id="menu-burger" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
+    <div class="navbar-header">
+      <div class="container">
+        <button type="button" id="burger-btn" class="navbar-toggle">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+        <ul class="navbar-signup-md">
+          <li><a href="https://eahub.azurewebsites.net/profile"><i class="fa fa-user"></i> My Profile</a></li>
+          <li><a href="https://eahub.azurewebsites.net/profile/signup/"><i class="fa fa-user-plus"></i> Sign Up</a></li>
+        </ul>
         <a href="https://eahub.azurewebsites.net"><img id="logo" src="/img/logo_transparent.png" /></a>
         <h4> /Resources </h4>
       </div>
-      <div id="navbar" class="navbar-collapse collapse">
+    </div>
+    <div class="container">
+      <div id="navbar" class="navbar-menu">
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="https://eahub.azurewebsites.net/profile"><i class="fa fa-user"></i> My Profile</a></li>
-            <li><a href="https://eahub.azurewebsites.net/profile/signup/"><i class="fa fa-user-plus"></i> Sign Up</a></li>
-            <li><a href="https://eahub.azurewebsites.net/profiles"><i class="fa fa-users"></i> Profiles</a></li>
-            <li><a href="https://eahub.azurewebsites.net/groups"><i class="fa fa-globe"></i> Groups</a></li>
-            <li class="dropdown">
-              <a href="#" id="more-btn" class="dropdown-toggle hover_scale" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
-              <ul id="more-menu" class="dropdown-menu">
-                <li><a href="/"><b>Resources Home</b></a></li>
-              {{ range .Site.Sections.ByWeight }}
-
-                {{ if ne .Params.drop_down false }}
-                <li><a href="{{ .URL }}">
-                  {{ .Title }}
-                </a></li>
-                {{ end }}
-              {{ end }}
-            </ul>
-          </li>
+          <li class="navbar-signup-xs"><a href="{% url 'my_profile' %}"><i class="fa fa-user"></i> My Profile</a></li>
+          <li class="navbar-signup-xs"><a href="{% url 'signup' %}"><i class="fa fa-user-plus"></i> Sign Up</a></li>
+          <li><a href="https://eahub.azurewebsites.net/profiles"><i class="fa fa-users"></i> Profiles</a></li>
+          <li><a href="https://eahub.azurewebsites.net/groups"><i class="fa fa-globe"></i> Groups</a></li>
+          <li class="resources"><a href="/"><b>Resources Home</b></a></li>
+          {{ range .Site.Sections.ByWeight }}
+            {{ if ne .Params.drop_down false }}
+            <li><a href="{{ .URL }}">
+              {{ .Title }}
+            </a></li>
+            {{ end }}
+          {{ end }}
         </ul>
       </div>
     </div>
   </nav>
 
-</div>
 <script src="/js/banner.js"></script>
     {{ template "_internal/google_analytics.html" . }}
