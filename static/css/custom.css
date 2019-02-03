@@ -365,14 +365,14 @@ body {
 .navbar h4 {
   color: white;
   display: inline-block;
-  font-size: 26px;
-  margin-top: 10px;
-  padding-left: 5px;
+  font-size: 22px;
+  margin-top: 12px;
+  padding-left: 0px;
 }
 .navbar img {
-  width: 120px;
+  width: 100px;
   height: auto;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 .navbar li {
   float: none;
@@ -386,14 +386,22 @@ body {
   color: white;
   text-decoration: none;
 }
+.navbar .home {
+  font-size: 18px;
+  margin-top: 15px;
+}
 .navbar .container {
   z-index: 20;
 }
 .navbar .logo {
   margin-top: 12px;
 }
+.navbar .logo_full {
+  margin-top: 2px;
+  width: 220px
+}
 .navbar .logo_with_page_name {
-  margin-top: -2px;
+  margin-top: 0px;
 }
 .navbar hr {
   margin: 0px 5px 5px 5px;
@@ -465,6 +473,13 @@ body {
 
 .navbar-signup-xs {
   display: none !important;
+}
+
+#logo_home_desktop {
+  display: inline-block;
+}
+#logo_home_mobile {
+  display: none;
 }
 
 /* jumbotron */
@@ -636,8 +651,8 @@ body {
   }
 
   .navbar h4 {
-    font-size: 16px;
-    margin-top: 18px;
+    font-size: 20px;
+    margin-top: 14px;
   }
 
   .navbar-signup-md {
@@ -648,19 +663,11 @@ body {
     display: block !important;
   }
 
-}
-
-@media(min-width: 768px) {
-  .banner-drop-down-links {
-    margin-top: -40px;
-    margin-right: 0px;
-    padding: 3px 10px 3px 3px;
-    text-align: right;
-    visibility: visible !important;
-    z-index: 1;
+  #logo_home_desktop {
+    display: none;
+  }
+  #logo_home_mobile {
+    display: inline-block;
   }
 
-  .banner-drop-down-links li {
-    float: left !important;
-  }
 }
