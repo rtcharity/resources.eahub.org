@@ -11,8 +11,12 @@
           <li><a href="https://eahub.azurewebsites.net/profile"><i class="fa fa-user"></i> My Profile</a></li>
           <li><a href="https://eahub.azurewebsites.net/profile/signup/"><i class="fa fa-user-plus"></i> Sign Up</a></li>
         </ul>
+        {{ if eq .Page.Title "Resources" }}
+        <a href="https://eahub.azurewebsites.net"><img class="logo_full" id="logo" src="/img/logo_full_transparent.png" /></a>
+        {{ else }}
         <a href="https://eahub.azurewebsites.net"><img id="logo" src="/img/logo_transparent.png" /></a>
-        <h4> /Resources </h4>
+        {{ end }}
+        <h4>/Resources </h4>
       </div>
     </div>
     <div class="container">
