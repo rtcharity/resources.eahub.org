@@ -386,6 +386,10 @@ body {
   color: white;
   text-decoration: none;
 }
+.navbar .home {
+  font-size: 18px;
+  margin-top: 15px;
+}
 .navbar .container {
   z-index: 20;
 }
@@ -469,6 +473,13 @@ body {
 
 .navbar-signup-xs {
   display: none !important;
+}
+
+#logo_home_desktop {
+  display: inline-block;
+}
+#logo_home_mobile {
+  display: none;
 }
 
 /* jumbotron */
@@ -652,19 +663,11 @@ body {
     display: block !important;
   }
 
-}
-
-@media(min-width: 768px) {
-  .banner-drop-down-links {
-    margin-top: -40px;
-    margin-right: 0px;
-    padding: 3px 10px 3px 3px;
-    text-align: right;
-    visibility: visible !important;
-    z-index: 1;
+  #logo_home_desktop {
+    display: none;
+  }
+  #logo_home_mobile {
+    display: inline-block;
   }
 
-  .banner-drop-down-links li {
-    float: left !important;
-  }
 }
