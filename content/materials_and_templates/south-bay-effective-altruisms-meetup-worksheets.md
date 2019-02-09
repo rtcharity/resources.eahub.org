@@ -10,4 +10,4 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-**[South Bay Effective Altruism's meetup worksheets on Google Drive](https://drive.google.com/drive/folders/1cOIITSwKPnmKbGMw8rk_KDR4yFerpZvK?usp=sharing)**
+**South Bay Effective Altruism's** [**meetup worksheets**](https://drive.google.com/drive/folders/1cOIITSwKPnmKbGMw8rk_KDR4yFerpZvK?usp=sharing) **on Google Drive**
