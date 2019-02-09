@@ -11,5 +11,5 @@ license:
   url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-* [**Should Global Poverty Donors Give Now or Later? An In-Depth Analysis**](https://mdickens.me/2019/01/21/should_global_poverty_donors_give_now_or_later/#introduction) on the author's blog
-* [Comments](https://forum.effectivealtruism.org/posts/9yq793WkswfR3txgG/should-global-poverty-donors-give-now-or-later-an-in-depth) on the EA Forum
+1. [**Should Global Poverty Donors Give Now or Later? An In-Depth Analysis**](https://mdickens.me/2019/01/21/should_global_poverty_donors_give_now_or_later/#introduction) on the author's blog
+2. [Comments](https://forum.effectivealtruism.org/posts/9yq793WkswfR3txgG/should-global-poverty-donors-give-now-or-later-an-in-depth) on the EA Forum
