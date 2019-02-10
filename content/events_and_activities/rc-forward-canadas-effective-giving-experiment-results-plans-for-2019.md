@@ -122,67 +122,46 @@ Some notes on fees:
 
 \[6]
 
-RC Forward Funds
+**RC Forward Funds**
 
 RC Forward began with four cause area-specific funds, but has now been reduced to three. Here is the information on money moved through those from Q1 to Q3 of 2018:
 
-\    Global Health Fund - $241,322.11 - 70% ($168,925.47) to AMF & 30% ($72,396.63) to SCI, per GiveWell's recommended allocation at the time of each disbursement. This includes donations through Charity Science labeled as ‘unrestricted for GiveWell’s top charities.’
+* [**Global Health Fund**](https://rcforward.org/global-health-fund/) **\- $241,322.11** - 70% ($168,925.47) to AMF & 30% ($72,396.63) to SCI, per GiveWell's recommended allocation at the time of each disbursement. This includes donations through Charity Science labeled as _‘unrestricted for GiveWell’s top charities.’_
+* [**Human Empowerment Fund**](https://rcforward.org/human-empowerment-fund/) **\- $34,621.86** - 100% to GiveDirectly. Determined independently based on GiveWell’s framework.
+* [**Animal Welfare Fund**](https://rcforward.org/animal-welfare-fund/) **\- $17,808.00** - First quarter funds were split evenly between ACE’s three top charities at the time of disbursement, $5,936.00 each to Animal Equality, The Humane League, and The Good Food Institute, as per ACE’s recommendations \[9].
+* **Future Prosperity Fund - $4,246.00** - First quarter funds were split evenly between three different charities: $1,415.34 each to CFAR, Cool Earth, and MIRI.
 
-\    Human Empowerment Fund - $34,621.86 - 100% to GiveDirectly. Determined independently based on GiveWell’s framework.
-
-\    Animal Welfare Fund - $17,808.00 - First quarter funds were split evenly between ACE’s three top charities at the time of disbursement, $5,936.00 each to Animal Equality, The Humane League, and The Good Food Institute, as per ACE’s recommendations \[9].
-
-\    Future Prosperity Fund - $4,246.00 - First quarter funds were split evenly between three different charities: $1,415.34 each to CFAR, Cool Earth, and MIRI. 
-
-Individual Charities - Fundraising Total (CAD)
+**Individual Charities - Fundraising Total (CAD)**
 
 Readers might have noticed that the sum of cause area-specific funds doesn’t match our total money moved. That’s because a majority of donations that came through our system were earmarked for specific charities. Below is the net total amounts distributed to our partner charities after all credit card fees have been paid. Please note that the major cryptocurrency donations are included in the MIRI and AMF figures below, and cover Q1 - Q3 in 2018.
 
-Individual Charity Disbursements
+**Individual Charity Disbursements**
 
-Note: The totals in this section do not include money passed to these charities through the above-mentioned funds.
+_Note: The totals in this section do not include money passed to these charities through the above-mentioned funds._
 
-Against Malaria Foundation - $1,818,686.29
+* Against Malaria Foundation - $1,818,686.29
+* Machine Intelligence Research Institute - $1,350,305.89
+* GiveDirectly - $329,267.10
+* RC Forward- Operations - $32,246.65
+* Schistosomiasis Control Initiative - $30,049.63
+* Evidence Action - $16,300.32
+* Cool Earth - $3,903.40
+* Living Goods - $2,951.00
+* Good Food Institute - $4,766.93
+* GiveWell - $3,021.39
+* Animal Charity Evaluators (all for programs/ops) - $1,727.00
+* Project Healthy Children - $1,670.23
+* Iodine Global Network - $1,125.00
+* SENS Research Foundation - $1,000.00
+* The Humane League - $229.84
+* Development Media International - $2,594.51
+* StrongMinds - $131.48
+* Animal Equality - $2,414.90
+* **Total - $3,591,423.92**
 
-Machine Intelligence Research Institute - $1,350,305.89
+**Cryptocurrency Donations**
 
-GiveDirectly - $329,267.10
-
-RC Forward- Operations - $32,246.65
-
-Schistosomiasis Control Initiative - $30,049.63
-
-Evidence Action - $16,300.32
-
-Cool Earth - $3,903.40
-
-Living Goods - $2,951.00
-
-Good Food Institute - $4,766.93
-
-GiveWell - $3,021.39
-
-Animal Charity Evaluators (all for programs/ops) - $1,727.00
-
-Project Healthy Children - $1,670.23
-
-Iodine Global Network - $1,125.00
-
-SENS Research Foundation - $1,000.00
-
-The Humane League - $229.84
-
-Development Media International - $2,594.51
-
-StrongMinds - $131.48
-
-Animal Equality - $2,414.90
-
-Total - $3,591,423.92
-
-Cryptocurrency Donations
-
-RC Forward facilitated sizable cryptocurrency donations in 2018 with help from CHIMP, including a historic gift to MIRI and another major gift to AMF.
+RC Forward facilitated sizable cryptocurrency donations in 2018 [with help from CHIMP](https://chimp.net/blog/donate-cryptocurrency-charity-chimp/), including a [historic gift](https://intelligence.org/2018/09/01/summer-miri-updates/) to MIRI and another major gift to AMF.
 
 The first installment of the cryptocurrency donation we referred was $1,334,505.68 to the Machine Intelligence Research Institute (MIRI). The second was $1,576,358.59 to the Against Malaria Foundation. This second installment could have been made without our assistance, though the donor noted that they would not have been aware of the option to make these donations without the referral from of RC Forward. We saved the donor roughly $44,000 in fees by using our service instead of other comparable donation platforms.
 
@@ -190,7 +169,7 @@ Other options would have cost the donor approximately $44,000 more than RC Forwa
 
 \[7]
 
-According to publicly listed figures.
+According to [publicly listed](https://www.canadahelps.org/en/why-canadahelps/our-fees/) figures.
 
 \[8]
 
