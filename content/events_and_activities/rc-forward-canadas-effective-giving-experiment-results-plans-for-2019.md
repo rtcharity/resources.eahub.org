@@ -100,15 +100,14 @@ In addition, covering RC Forward platform fees could be interpreted as having an
 
 <a name='f3' href="javascript:history.back()">3:</a> This was not factored into the conservative estimates of $110,000 to $165,000 in counterfactual money moved in the last year. This would boost the counterfactual money moved by RC Forward to $155,000 - $210,000.
 
-\[4]
 
-Some notes on fees:
+<a name='f4' href="javascript:history.back()">4:</a> Some notes on fees:
 
 1. The group of organizations that facilitate our cross-border donations charge 4% on the first $200,000 of the year across the border and 0.5% on anything beyond that (a discount from their normal fees, for which we’re hugely appreciative). All told, we paid $16,088.15 in fees from Q1 - Q3 in 2018. This came out of RC Forward’s operating budget and did not affect the amount that made it to the charities.
 2. CHIMP, our platform provider, charges a small credit card fee for online donations. Depending on the credit card, this is somewhere between 2% and 3%. Because of this, larger donors are recommended to give by cheque or electronic transfer. In total, $4,641.51 (0.13% of received donations) went to credit card fees. RC Forward does not cover credit card fees, though we have considered doing so in the future. These fees have already been factored in to the disbursement amounts above.
 3. A small loss of value when converting currencies is inevitable, due to banks using conversion rates favorable to them. However, RC Forward ensures that disbursements are made in large sums, which generally allows banks to provide more favorable rates, thus minimizing losses.
 
-\[5]
+<a name='f5' href="javascript:history.back()">5:</a>
 
 1. _Not all of this money was raised in the first half of 2018. Some of it is carried over from Giving Season 2017._
 2. _We have Charity Science to thank for an existing donor base and for facilitating many of these donations throughout our transition. This means that many funds went through and were processed by Charity Science before being passed to RC Forward._
@@ -116,7 +115,8 @@ Some notes on fees:
 4. _A large portion of this (\~$2.9M CAD) came from a single donor in the form of two cryptocurrency donations to MIRI (\~$1.3m CAD) and AMF (~$1.6m). The latter was only referred by RC Forward. Though we did not handle this donation directly, it is unlikely the donation would have been made otherwise._
 5. _We are uncertain about how counterfactual the total donations are. However, we would note that it would have been otherwise impossible for donors to receive tax benefits on donations to the majority of charities listed here._
 
-\[6]
+
+<a name='f6' href="javascript:history.back()">6:</a>
 
 **RC Forward Funds**
 
@@ -163,14 +163,8 @@ The first installment of the cryptocurrency donation we referred was $1,334,505.
 
 Other options would have cost the donor approximately $44,000 more than RC Forward’s method.
 
-\[7]
+<a name='f7' href="javascript:history.back()">7:</a> According to [publicly listed](https://www.canadahelps.org/en/why-canadahelps/our-fees/) figures.
 
-According to [publicly listed](https://www.canadahelps.org/en/why-canadahelps/our-fees/) figures.
+<a name='f8' href="javascript:history.back()">8:</a> The [EA Survey](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data?fbclid=IwAR1tQIXUBOpMoFu2G24Ps6bxvA3ZGAM8F1L88F1gTxI-eQyBpSzxvWTVypw) is housed under LEAN with high-quality analysis provided by Rethink Priorities.
 
-\[8]
-
-The [EA Survey](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data?fbclid=IwAR1tQIXUBOpMoFu2G24Ps6bxvA3ZGAM8F1L88F1gTxI-eQyBpSzxvWTVypw) is housed under LEAN with high-quality analysis provided by Rethink Priorities.
-
-\[9]
-
-ACE has since added a 4th top charity in Q4 of 2018, the Albert Schweitzer Foundation.
+<a name='f9' href="javascript:history.back()">9:</a>ACE has since added a 4th top charity in Q4 of 2018, the Albert Schweitzer Foundation.
