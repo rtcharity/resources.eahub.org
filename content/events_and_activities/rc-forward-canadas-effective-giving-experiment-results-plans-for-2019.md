@@ -22,11 +22,11 @@ RC Forward is a donation platform through which Canadians can make tax-advantage
 **Table of Contents**
 
 * [What is RC Forward?](#c1)
-* Plans for 2019
-* Project Budget
-* 2018 Recap
-* Whether to Support RC Forward
-* About Rethink Charity
+* [Plans for 2019](#c2)
+* [Project Budget](#c3)
+* [2018 Recap](#c4)
+* [Whether to Support RC Forward](#c5)
+* [About Rethink Charity](#c6)
 
 ## <a name='c1'></a>What is RC Forward?
 
@@ -36,7 +36,7 @@ Over 2018, RC Forward has moved over $4M \[1]. Conservative estimates places RC 
 
 RC Forward does not charge donors. Rethink Charity absorbs the operations costs and fees incurred from our partner organizations that help us facilitate these transactions \[4]. Evidence [suggests](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) that covering these fees could incentivize donors, and we believe this “zero fees” commitment to Canadian donors will boost the counterfactual impact of the project. Based on the results outlined, leveraging the know-how from this experiment and replicating this model internationally could compound its value further.
 
-## Plans for 2019
+## <a name='c2'></a>Plans for 2019
 
 After steadily observing performance indicators throughout the year, we find that several opportunities exist to optimize the project. Below is an overview of our 2019 plans for expansion aimed at boosting money moved by doing the following:
 
@@ -46,11 +46,11 @@ After steadily observing performance indicators throughout the year, we find tha
 * **Fundraising experimentation outside of EA** - We’ve begun seeking support from public and private foundations focused on global health and development, animal welfare, and existential risks with third-party fundraising tools like [Grant Advance](https://www.grantadvance.com/).
 * **Keep it free** - Rethink Charity will continue to absorb operations costs and third-party fees so that Canadian donors can maximize their tax benefits.
 
-## Project Budget ($USD)
+## <a name='c3'></a>Project Budget ($USD)
 
 ![RC Forward's itemized 2019 budget table](/img/rc-budget.png)
 
-## 2018 Recap
+## <a name='c4'></a>2018 Recap
 
 In the autumn of 2017, RC Forward was launched to capitalize on perceived demand in Canada for tax-advantaged donations, which we estimated from our informal networks was worth several hundred thousand dollars per year. Our goal was to capture additional value by providing a badly needed service for those simply looking to maximize their donation value. RC [originally projected](https://docs.google.com/document/d/1Gti1gd2b3prrrEodmR_GciruvlVPn7LtFPr0MrSEp48/edit) that the platform could move $1M in 2018. As of Q3 2018, RC Forward has passed through $3,611,142.94 to effective charities \[5]. Q4 results have yet to come in, but the platform is confirmed to have surpassed $4M \[6].
 
@@ -60,7 +60,7 @@ Due to a general lack of bandwidth in 2018, we were unable to attend to Canadian
 
 We also underestimated the length of time it would take between the end of each quarterly granting period and when charities were able to receive their disbursements. Our current system relies on sequential steps that must be completed in collaboration with partner organizations. Therefore, no matter how much we attempt to expedite the process, we will be bottlenecked to some degree by our reliance on third parties. We are continuously working on streamlining this process, however, these delays may nonetheless persist to a lesser degree moving forward. These shortcomings should be addressed in 2019 with the addition of a full-time managerial hire.
 
-## Whether to support RC Forward
+## <a name='c5'></a>Whether to support RC Forward
 
 Below we’ve outlined a handful of considerations examining how sensible it is to support this project, followed by our brief reply to these points. Feel free to pass additional considerations to the project lead, Siobhan Brenton, at [siobhan@rtcharity.org](Siobhan@rtcharity.org).
 
@@ -80,7 +80,7 @@ It is not uncommon to come across potential donors who see less value in support
 
 Additional FAQs can be found [here](https://rcforward.org/frequently-asked-questions/).
 
-## About Rethink Charity
+## <a name='c6'></a>About Rethink Charity
 
 [Rethink Charity](https://rtcharity.org/) (RC) powers a collection of EA projects that range from wide-reaching staples of the community to specialized efforts designed for outsized impact returns. We’ve retained several guiding principles [since our founding](https://forum.effectivealtruism.org/posts/a3sScjxdgNTCseBMJ/impact-is-now-rethink-charity), including a commitment to keeping effective altruism broadly accessible, and a refusal to wait for an invitation to do the most good possible. RC projects reflect this approach through various means, often supporting others who are ready to actualize their highest contribution to the world.
 
