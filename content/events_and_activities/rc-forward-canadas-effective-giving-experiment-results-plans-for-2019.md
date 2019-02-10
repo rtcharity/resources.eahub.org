@@ -96,7 +96,7 @@ Figures beyond this point are in Canadian Dollars unless indicated otherwise.
 
 \[2]
 
-Estimates we’ve largely derived from literature cite multiple independent lines of evidence that suggest typical donors are influenced by reduction of fees. Based on this, we place the counterfactual increase in donations between 4% and 55%, bringing in between $40,000 to $550,000 per $1,000,000 raised. Our best guess is that RC Forward results in a 10 to 15% increase in money moved, which would bring the total counterfactual value of money moved to $100,000 to $150,000 per $1,000,000 raised. Discounting the major cryptocurrency donations within a more conservative estimate, the lower bound (5% of $1.1M) has produced $55,000 in counterfactual donations, which slightly more than what we spent on the project in the first year of operation. Our best guess at 10 to 15% counterfactual dollars generated means that RC Forward has produced between $110,000 and $165,000.
+Estimates we’ve largely derived from [literature](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) cite multiple independent lines of evidence that suggest typical donors are influenced by reduction of fees. Based on this, we place the counterfactual increase in donations between 4% and 55%, bringing in between $40,000 to $550,000 per $1,000,000 raised. Our best guess is that RC Forward results in a 10 to 15% increase in money moved, which would bring the total counterfactual value of money moved to $100,000 to $150,000 per $1,000,000 raised. Discounting the major cryptocurrency donations within a more conservative estimate, the lower bound (5% of $1.1M) has produced $55,000 in counterfactual donations, which slightly more than what we spent on the project in the first year of operation. Our best guess at 10 to 15% counterfactual dollars generated means that RC Forward has produced between $110,000 and $165,000.
 
 In addition, covering RC Forward platform fees could be interpreted as having an effect similar to matching donations – potentially incentivizing donors by providing a fee-free donation avenue.
 
@@ -108,23 +108,17 @@ This was not factored into the conservative estimates of $110,000 to $165,000 in
 
 Some notes on fees:
 
-\    The group of organizations that facilitate our cross-border donations charge 4% on the first $200,000 of the year across the border and 0.5% on anything beyond that (a discount from their normal fees, for which we’re hugely appreciative). All told, we paid $16,088.15 in fees from Q1 - Q3 in 2018. This came out of RC Forward’s operating budget and did not affect the amount that made it to the charities.
-
-\    CHIMP, our platform provider, charges a small credit card fee for online donations. Depending on the credit card, this is somewhere between 2% and 3%. Because of this, larger donors are recommended to give by cheque or electronic transfer. In total, $4,641.51 (0.13% of received donations) went to credit card fees. RC Forward does not cover credit card fees, though we have considered doing so in the future. These fees have already been factored in to the disbursement amounts above.
-
-\    A small loss of value when converting currencies is inevitable, due to banks using conversion rates favorable to them. However, RC Forward ensures that disbursements are made in large sums, which generally allows banks to provide more favorable rates, thus minimizing losses.
+1. The group of organizations that facilitate our cross-border donations charge 4% on the first $200,000 of the year across the border and 0.5% on anything beyond that (a discount from their normal fees, for which we’re hugely appreciative). All told, we paid $16,088.15 in fees from Q1 - Q3 in 2018. This came out of RC Forward’s operating budget and did not affect the amount that made it to the charities.
+2. CHIMP, our platform provider, charges a small credit card fee for online donations. Depending on the credit card, this is somewhere between 2% and 3%. Because of this, larger donors are recommended to give by cheque or electronic transfer. In total, $4,641.51 (0.13% of received donations) went to credit card fees. RC Forward does not cover credit card fees, though we have considered doing so in the future. These fees have already been factored in to the disbursement amounts above.
+3. A small loss of value when converting currencies is inevitable, due to banks using conversion rates favorable to them. However, RC Forward ensures that disbursements are made in large sums, which generally allows banks to provide more favorable rates, thus minimizing losses.
 
 \[5]
 
-\    Not all of this money was raised in the first half of 2018. Some of it is carried over from Giving Season 2017.
-
-\    We have Charity Science to thank for an existing donor base and for facilitating many of these donations throughout our transition. This means that many funds went through and were processed by Charity Science before being passed to RC Forward.
-
-\    As of posting this, our combined Q2 and Q3 donations are en route to our partner charities (totalling $124,979.50).
-
-\    A large portion of this (\~$2.9M CAD) came from a single donor in the form of two cryptocurrency donations to MIRI (\~$1.3m CAD) and AMF (~$1.6m). The latter was only referred by RC Forward. Though we did not handle this donation directly, it is unlikely the donation would have been made otherwise.
-
-\    We are uncertain about how counterfactual the total donations are. However, we would note that it would have been otherwise impossible for donors to receive tax benefits on donations to the majority of charities listed here.
+1. _Not all of this money was raised in the first half of 2018. Some of it is carried over from Giving Season 2017._
+2. _We have Charity Science to thank for an existing donor base and for facilitating many of these donations throughout our transition. This means that many funds went through and were processed by Charity Science before being passed to RC Forward._
+3. _As of posting this, our combined Q2 and Q3 donations are en route to our partner charities (totalling $124,979.50)._
+4. _A large portion of this (\~$2.9M CAD) came from a single donor in the form of two cryptocurrency donations to MIRI (\~$1.3m CAD) and AMF (~$1.6m). The latter was only referred by RC Forward. Though we did not handle this donation directly, it is unlikely the donation would have been made otherwise._
+5. _We are uncertain about how counterfactual the total donations are. However, we would note that it would have been otherwise impossible for donors to receive tax benefits on donations to the majority of charities listed here._
 
 \[6]
 
