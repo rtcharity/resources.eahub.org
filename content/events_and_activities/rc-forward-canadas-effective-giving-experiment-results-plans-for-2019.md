@@ -167,4 +167,4 @@ Other options would have cost the donor approximately $44,000 more than RC Forwa
 
 <a name='f8' href="javascript:history.back()">8:</a> The [EA Survey](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data?fbclid=IwAR1tQIXUBOpMoFu2G24Ps6bxvA3ZGAM8F1L88F1gTxI-eQyBpSzxvWTVypw) is housed under LEAN with high-quality analysis provided by Rethink Priorities.
 
-<a name='f9' href="javascript:history.back()">9:</a>ACE has since added a 4th top charity in Q4 of 2018, the Albert Schweitzer Foundation.
+<a name='f9' href="javascript:history.back()">9:</a> ACE has since added a 4th top charity in Q4 of 2018, the Albert Schweitzer Foundation.
