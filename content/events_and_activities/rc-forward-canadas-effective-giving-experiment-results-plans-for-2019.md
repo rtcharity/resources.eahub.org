@@ -28,15 +28,15 @@ RC Forward is a donation platform through which Canadians can make tax-advantage
 * [Whether to Support RC Forward](#c5)
 * [About Rethink Charity](#c6)
 
-## <a name='c1'></a>What is RC Forward?
+## <a name='c1' href="javascript:history.back()"></a>What is RC Forward?
 
 [RC Forward](https://rcforward.org/) is a donation platform through which Canadians can make tax-deductible donations to high-impact charities located inside and outside of Canada. Absent the platform, Canadians would be unable to donate tax efficiently to over [20 high-impact charities](https://rcforward.org/specific-charities/) recommended by GiveWell, the Open Philanthropy Project, Animal Charity Evaluators, Founders Pledge and The Life You Can Save. The platform gives donors the affordance to support [each respective](https://rcforward.org/specific-charities/) charity, or give through [funds](https://rcforward.org/rcfunds/) that largely adhere to allocation recommendations made by selected evaluators. Every donor receives a Canadian tax receipt for gifts routed through RC Forward. We’ve also added the options to donate affordably via securities, such as cryptocurrency.
 
-Over 2018, RC Forward has moved over $4M \[1]. Conservative estimates places RC Forward counterfactual value produced at $110,000 to $165,000 in the last year, on a budget of roughly $50,000 \[2]. The value add from this project is incentivizing donors to give more than they otherwise would by saving them money via tax advantaged donations, reduced fees and optimized processing arrangements. For example, on a $1.6M CAD cryptocurrency donation to AMF, we saved the donor roughly $45,000 CAD in fees by using our service instead of other comparable donation platforms (not included in the conservative estimates above) \[3]. RC Forward also processed the [single largest donation](https://intelligence.org/2018/09/01/summer-miri-updates/) by an individual ever received by MIRI.
+Over 2018, RC Forward has moved over $4M [<sup>1</sup>](#f1). Conservative estimates places RC Forward counterfactual value produced at $110,000 to $165,000 in the last year, on a budget of roughly $50,000 [<sup>2</sup>](#f2). The value add from this project is incentivizing donors to give more than they otherwise would by saving them money via tax advantaged donations, reduced fees and optimized processing arrangements. For example, on a $1.6M CAD cryptocurrency donation to AMF, we saved the donor roughly $45,000 CAD in fees by using our service instead of other comparable donation platforms (not included in the conservative estimates above) [<sup>3</sup>](#f3). RC Forward also processed the [single largest donation](https://intelligence.org/2018/09/01/summer-miri-updates/) by an individual ever received by MIRI.
 
-RC Forward does not charge donors. Rethink Charity absorbs the operations costs and fees incurred from our partner organizations that help us facilitate these transactions \[4]. Evidence [suggests](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) that covering these fees could incentivize donors, and we believe this “zero fees” commitment to Canadian donors will boost the counterfactual impact of the project. Based on the results outlined, leveraging the know-how from this experiment and replicating this model internationally could compound its value further.
+RC Forward does not charge donors. Rethink Charity absorbs the operations costs and fees incurred from our partner organizations that help us facilitate these transactions [<sup>4</sup>](#f4). Evidence [suggests](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) that covering these fees could incentivize donors, and we believe this “zero fees” commitment to Canadian donors will boost the counterfactual impact of the project. Based on the results outlined, leveraging the know-how from this experiment and replicating this model internationally could compound its value further.
 
-## <a name='c2'></a>Plans for 2019
+## <a name='c2' href="javascript:history.back()"></a>Plans for 2019
 
 After steadily observing performance indicators throughout the year, we find that several opportunities exist to optimize the project. Below is an overview of our 2019 plans for expansion aimed at boosting money moved by doing the following:
 
@@ -46,13 +46,13 @@ After steadily observing performance indicators throughout the year, we find tha
 * **Fundraising experimentation outside of EA** - We’ve begun seeking support from public and private foundations focused on global health and development, animal welfare, and existential risks with third-party fundraising tools like [Grant Advance](https://www.grantadvance.com/).
 * **Keep it free** - Rethink Charity will continue to absorb operations costs and third-party fees so that Canadian donors can maximize their tax benefits.
 
-## <a name='c3'></a>Project Budget ($USD)
+## <a name='c3' href="javascript:history.back()"></a>Project Budget ($USD)
 
 ![RC Forward's itemized 2019 budget table](/img/rc-budget.png)
 
-## <a name='c4'></a>2018 Recap
+## <a name='c4' href="javascript:history.back()"></a>2018 Recap
 
-In the autumn of 2017, RC Forward was launched to capitalize on perceived demand in Canada for tax-advantaged donations, which we estimated from our informal networks was worth several hundred thousand dollars per year. Our goal was to capture additional value by providing a badly needed service for those simply looking to maximize their donation value. RC [originally projected](https://docs.google.com/document/d/1Gti1gd2b3prrrEodmR_GciruvlVPn7LtFPr0MrSEp48/edit) that the platform could move $1M in 2018. As of Q3 2018, RC Forward has passed through $3,611,142.94 to effective charities \[5]. Q4 results have yet to come in, but the platform is confirmed to have surpassed $4M \[6].
+In the autumn of 2017, RC Forward was launched to capitalize on perceived demand in Canada for tax-advantaged donations, which we estimated from our informal networks was worth several hundred thousand dollars per year. Our goal was to capture additional value by providing a badly needed service for those simply looking to maximize their donation value. RC [originally projected](https://docs.google.com/document/d/1Gti1gd2b3prrrEodmR_GciruvlVPn7LtFPr0MrSEp48/edit) that the platform could move $1M in 2018. As of Q3 2018, RC Forward has passed through $3,611,142.94 to effective charities [<sup>5</sup>](#f5). Q4 results have yet to come in, but the platform is confirmed to have surpassed $4M [<sup>6</sup>](#f6).
 
 **What could have been done better**
 
@@ -60,11 +60,11 @@ Due to a general lack of bandwidth in 2018, we were unable to attend to Canadian
 
 We also underestimated the length of time it would take between the end of each quarterly granting period and when charities were able to receive their disbursements. Our current system relies on sequential steps that must be completed in collaboration with partner organizations. Therefore, no matter how much we attempt to expedite the process, we will be bottlenecked to some degree by our reliance on third parties. We are continuously working on streamlining this process, however, these delays may nonetheless persist to a lesser degree moving forward. These shortcomings should be addressed in 2019 with the addition of a full-time managerial hire.
 
-## <a name='c5'></a>Whether to support RC Forward
+## <a name='c5' href="javascript:history.back()"></a>Whether to support RC Forward
 
 Below we’ve outlined a handful of considerations examining how sensible it is to support this project, followed by our brief reply to these points. Feel free to pass additional considerations to the project lead, Siobhan Brenton, at [siobhan@rtcharity.org](Siobhan@rtcharity.org).
 
-It would be reasonable to question whether success can be repeated after a strong first year. This could have been luck or happenstance. After all, the majority of our money moved so far came from a single cryptocurrency donor. We also shared the same uncertainty, which is why we put minimal resources into RC Forward during its experimental phase. However, the platform has broad appeal, currently processing thousands of donations from hundreds of donors. Even if we were to write off the two largest cryptocurrency donations as one-offs, the total money moved still exceeds our 2018 forecast of $1M. This time around, the majority of money moved came from a single donor, with whom our involvement facilitated two massive donations. This is particularly true of the $1.5M cryptocurrency donation to AMF, in which [our processing arrangements](https://docs.google.com/document/d/1SrCHlUbix7O0_QWBHWrXE3xtvCzWiQLYmkEK2zAz4V0/edit) for securities saved ~$45,000 in fees relative to the amount that would have been charged by comparable services \[7].
+It would be reasonable to question whether success can be repeated after a strong first year. This could have been luck or happenstance. After all, the majority of our money moved so far came from a single cryptocurrency donor. We also shared the same uncertainty, which is why we put minimal resources into RC Forward during its experimental phase. However, the platform has broad appeal, currently processing thousands of donations from hundreds of donors. Even if we were to write off the two largest cryptocurrency donations as one-offs, the total money moved still exceeds our 2018 forecast of $1M. This time around, the majority of money moved came from a single donor, with whom our involvement facilitated two massive donations. This is particularly true of the $1.5M cryptocurrency donation to AMF, in which [our processing arrangements](https://docs.google.com/document/d/1SrCHlUbix7O0_QWBHWrXE3xtvCzWiQLYmkEK2zAz4V0/edit) for securities saved ~$45,000 in fees relative to the amount that would have been charged by comparable services [<sup>7</sup>](#f7).
 
 Some donors would rather optimize for organization(s) they believe to be best, rather than support a broad array of effective charities. If you’re fairly sure about the organization(s) you believe to be optimal, this could makes sense. Naturally, we’d agree with Will MacAskill about [embracing uncertainty](https://forum.effectivealtruism.org/posts/CWT3FfG7eEDrv7aHQ/will-macaskill-why-should-effective-altruists-embrace) and find arguments compelling about supporting a broader ecosystem of effective charities. Keeping the service alive does also allow donors from an entire country to get tax benefits for donating to the organization(s) one might feel are optimal as well. This reasoning is more or less compelling depending on which charities and funds that Canadians appear to support the most.
 
@@ -80,29 +80,25 @@ It is not uncommon to come across potential donors who see less value in support
 
 Additional FAQs can be found [here](https://rcforward.org/frequently-asked-questions/).
 
-## <a name='c6'></a>About Rethink Charity
+## <a name='c6' href="javascript:history.back()"></a>About Rethink Charity
 
 [Rethink Charity](https://rtcharity.org/) (RC) powers a collection of EA projects that range from wide-reaching staples of the community to specialized efforts designed for outsized impact returns. We’ve retained several guiding principles [since our founding](https://forum.effectivealtruism.org/posts/a3sScjxdgNTCseBMJ/impact-is-now-rethink-charity), including a commitment to keeping effective altruism broadly accessible, and a refusal to wait for an invitation to do the most good possible. RC projects reflect this approach through various means, often supporting others who are ready to actualize their highest contribution to the world.
 
 Our project selection and resource allocation therein allows for tight coordination where beneficial, sustained experimentation where necessary, and swift exploitation of neglected niches of impact. RC Forward is a compelling example of realizing considerable impact gains from niche areas - constructing a previously non-existent gateway to effective charities that taps into a high level of demand in Canada.
 
-RC is largely comprised of four projects, including [RC Forward](https://rcforward.org/), Rethink Priorities ([RP](http://rethinkpriorities.org/)), Students for High-Impact Charity ([SHIC](https://shicschools.org/)), and the Local Effective Altruism Network ([LEAN](https://rtcharity.org/lean/)) \[8].
+RC is largely comprised of four projects, including [RC Forward](https://rcforward.org/), Rethink Priorities ([RP](http://rethinkpriorities.org/)), Students for High-Impact Charity ([SHIC](https://shicschools.org/)), and the Local Effective Altruism Network ([LEAN](https://rtcharity.org/lean/)) [<sup>8</sup>](#f8).
 
 ## Footnotes
 
-\[1]
+<a name='f1' href="javascript:history.back()">1:</a> Figures beyond this point are in Canadian Dollars unless indicated otherwise.
 
-Figures beyond this point are in Canadian Dollars unless indicated otherwise.
 
-\[2]
-
-Estimates we’ve largely derived from [literature](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) cite multiple independent lines of evidence that suggest typical donors are influenced by reduction of fees. Based on this, we place the counterfactual increase in donations between 4% and 55%, bringing in between $40,000 to $550,000 per $1,000,000 raised. Our best guess is that RC Forward results in a 10 to 15% increase in money moved, which would bring the total counterfactual value of money moved to $100,000 to $150,000 per $1,000,000 raised. Discounting the major cryptocurrency donations within a more conservative estimate, the lower bound (5% of $1.1M) has produced $55,000 in counterfactual donations, which slightly more than what we spent on the project in the first year of operation. Our best guess at 10 to 15% counterfactual dollars generated means that RC Forward has produced between $110,000 and $165,000.
+<a name='f2' href="javascript:history.back()">2:</a> Estimates we’ve largely derived from [literature](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) cite multiple independent lines of evidence that suggest typical donors are influenced by reduction of fees. Based on this, we place the counterfactual increase in donations between 4% and 55%, bringing in between $40,000 to $550,000 per $1,000,000 raised. Our best guess is that RC Forward results in a 10 to 15% increase in money moved, which would bring the total counterfactual value of money moved to $100,000 to $150,000 per $1,000,000 raised. Discounting the major cryptocurrency donations within a more conservative estimate, the lower bound (5% of $1.1M) has produced $55,000 in counterfactual donations, which slightly more than what we spent on the project in the first year of operation. Our best guess at 10 to 15% counterfactual dollars generated means that RC Forward has produced between $110,000 and $165,000.
 
 In addition, covering RC Forward platform fees could be interpreted as having an effect similar to matching donations – potentially incentivizing donors by providing a fee-free donation avenue.
 
-\[3]
 
-This was not factored into the conservative estimates of $110,000 to $165,000 in counterfactual money moved in the last year. This would boost the counterfactual money moved by RC Forward to $155,000 - $210,000.
+<a name='f3' href="javascript:history.back()">3:</a> This was not factored into the conservative estimates of $110,000 to $165,000 in counterfactual money moved in the last year. This would boost the counterfactual money moved by RC Forward to $155,000 - $210,000.
 
 \[4]
 
