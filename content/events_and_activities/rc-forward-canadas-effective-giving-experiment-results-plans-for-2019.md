@@ -86,9 +86,9 @@ Additional FAQs can be found [here](https://rcforward.org/frequently-asked-quest
 
 Our project selection and resource allocation therein allows for tight coordination where beneficial, sustained experimentation where necessary, and swift exploitation of neglected niches of impact. RC Forward is a compelling example of realizing considerable impact gains from niche areas - constructing a previously non-existent gateway to effective charities that taps into a high level of demand in Canada.
 
-RC is largely comprised of four projects, including RC Forward, Rethink Priorities (RP), Students for High-Impact Charity (SHIC), and the Local Effective Altruism Network (LEAN) \[8].
+RC is largely comprised of four projects, including [RC Forward](https://rcforward.org/), Rethink Priorities ([RP](http://rethinkpriorities.org/)), Students for High-Impact Charity ([SHIC](https://shicschools.org/)), and the Local Effective Altruism Network ([LEAN](https://rtcharity.org/lean/)) \[8].
 
-Footnotes
+## Footnotes
 
 \[1]
 
