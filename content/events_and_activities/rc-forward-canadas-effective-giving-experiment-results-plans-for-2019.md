@@ -173,7 +173,7 @@ According to [publicly listed](https://www.canadahelps.org/en/why-canadahelps/ou
 
 \[8]
 
-The EA Survey is housed under LEAN with high-quality analysis provided by Rethink Priorities.
+The [EA Survey](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data?fbclid=IwAR1tQIXUBOpMoFu2G24Ps6bxvA3ZGAM8F1L88F1gTxI-eQyBpSzxvWTVypw) is housed under LEAN with high-quality analysis provided by Rethink Priorities.
 
 \[9]
 
