@@ -21,14 +21,14 @@ RC Forward is a donation platform through which Canadians can make tax-advantage
 
 **Table of Contents**
 
-* What is RC Forward?
+* [What is RC Forward?](#c1)
 * Plans for 2019
 * Project Budget
 * 2018 Recap
 * Whether to Support RC Forward
 * About Rethink Charity
 
-## What is RC Forward?
+## <a name='c1'></a>What is RC Forward?
 
 [RC Forward](https://rcforward.org/) is a donation platform through which Canadians can make tax-deductible donations to high-impact charities located inside and outside of Canada. Absent the platform, Canadians would be unable to donate tax efficiently to over [20 high-impact charities](https://rcforward.org/specific-charities/) recommended by GiveWell, the Open Philanthropy Project, Animal Charity Evaluators, Founders Pledge and The Life You Can Save. The platform gives donors the affordance to support [each respective](https://rcforward.org/specific-charities/) charity, or give through [funds](https://rcforward.org/rcfunds/) that largely adhere to allocation recommendations made by selected evaluators. Every donor receives a Canadian tax receipt for gifts routed through RC Forward. We’ve also added the options to donate affordably via securities, such as cryptocurrency.
 
