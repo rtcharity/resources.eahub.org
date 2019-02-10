@@ -48,13 +48,13 @@ After steadily observing performance indicators throughout the year, we find tha
 
 ## Project Budget ($USD)
 
-![](/img/rc-budget.png)
+![RC Forward's itemized 2019 budget table](/img/rc-budget.png)
 
 ## 2018 Recap
 
-In the autumn of 2017, RC Forward was launched to capitalize on perceived demand in Canada for tax-advantaged donations, which we estimated from our informal networks was worth several hundred thousand dollars per year. Our goal was to capture additional value by providing a badly needed service for those simply looking to maximize their donation value. RC originally projected that the platform could move $1M in 2018. As of Q3 2018, RC Forward has passed through $3,611,142.94 to effective charities \[5]. Q4 results have yet to come in, but the platform is confirmed to have surpassed $4M \[6].
+In the autumn of 2017, RC Forward was launched to capitalize on perceived demand in Canada for tax-advantaged donations, which we estimated from our informal networks was worth several hundred thousand dollars per year. Our goal was to capture additional value by providing a badly needed service for those simply looking to maximize their donation value. RC [originally projected](https://docs.google.com/document/d/1Gti1gd2b3prrrEodmR_GciruvlVPn7LtFPr0MrSEp48/edit) that the platform could move $1M in 2018. As of Q3 2018, RC Forward has passed through $3,611,142.94 to effective charities \[5]. Q4 results have yet to come in, but the platform is confirmed to have surpassed $4M \[6].
 
-What could have been done better
+**What could have been done better**
 
 Due to a general lack of bandwidth in 2018, we were unable to attend to Canadian donors as much as we would have preferred. Lack of capacity in that regard might have ultimately resulted in smaller gift amounts to effective charities. Additionally, we had hoped to fundraise directly on behalf of our supported high-impact charities during 2018’s holiday season.
 
