@@ -32,27 +32,19 @@ RC Forward is a donation platform through which Canadians can make tax-advantage
 
 [RC Forward](https://rcforward.org/) is a donation platform through which Canadians can make tax-deductible donations to high-impact charities located inside and outside of Canada. Absent the platform, Canadians would be unable to donate tax efficiently to over [20 high-impact charities](https://rcforward.org/specific-charities/) recommended by GiveWell, the Open Philanthropy Project, Animal Charity Evaluators, Founders Pledge and The Life You Can Save. The platform gives donors the affordance to support [each respective](https://rcforward.org/specific-charities/) charity, or give through [funds](https://rcforward.org/rcfunds/) that largely adhere to allocation recommendations made by selected evaluators. Every donor receives a Canadian tax receipt for gifts routed through RC Forward. We’ve also added the options to donate affordably via securities, such as cryptocurrency.
 
-
-
 Over 2018, RC Forward has moved over $4M \[1]. Conservative estimates places RC Forward counterfactual value produced at $110,000 to $165,000 in the last year, on a budget of roughly $50,000 \[2]. The value add from this project is incentivizing donors to give more than they otherwise would by saving them money via tax advantaged donations, reduced fees and optimized processing arrangements. For example, on a $1.6M CAD cryptocurrency donation to AMF, we saved the donor roughly $45,000 CAD in fees by using our service instead of other comparable donation platforms (not included in the conservative estimates above) \[3]. RC Forward also processed the [single largest donation](https://intelligence.org/2018/09/01/summer-miri-updates/) by an individual ever received by MIRI.
 
-RC Forward does not charge donors. Rethink Charity absorbs the operations costs and fees incurred from our partner organizations that help us facilitate these transactions \[4]. Evidence suggests that covering these fees could incentivize donors, and we believe this “zero fees” commitment to Canadian donors will boost the counterfactual impact of the project. Based on the results outlined, leveraging the know-how from this experiment and replicating this model internationally could compound its value further.
+RC Forward does not charge donors. Rethink Charity absorbs the operations costs and fees incurred from our partner organizations that help us facilitate these transactions \[4]. Evidence [suggests](https://docs.google.com/document/d/1zZiWMX4hMdrZSficuwmwyIB4h3zlnAtZgntNPWD0bWg/edit) that covering these fees could incentivize donors, and we believe this “zero fees” commitment to Canadian donors will boost the counterfactual impact of the project. Based on the results outlined, leveraging the know-how from this experiment and replicating this model internationally could compound its value further.
 
-Plans for 2019
+## Plans for 2019
 
 After steadily observing performance indicators throughout the year, we find that several opportunities exist to optimize the project. Below is an overview of our 2019 plans for expansion aimed at boosting money moved by doing the following:
 
-
-
-\    Hiring a full-time project manager - An internal staff hire will initiate and oversee the expansion of RC Forward, allowing senior management and operations staff to reallocate their time.
-
-\    Increasing awareness and engagement with the platform - We will be testing selected outreach strategies, beginning with mining in-network referrals. Nearly two-dozen effective charities have Canadian donors that could benefit from our platform. As a concrete example, a Canadian donor was referred to RC Forward eventually gave MIRI $1.3M.
-
-\    Conduct donor stewardship on behalf of effective charities - RC Forward staff will provide various means of donor stewardship with high net-worth (HNW) individuals. This can range from sorting out donation logistics to more high-touch interactions, such as donor advising.
-
-\    Fundraising experimentation outside of EA - We’ve begun seeking support from public and private foundations focused on global health and development, animal welfare, and existential risks with third-party fundraising tools like Grant Advance.
-
-\    Keep it free - Rethink Charity will continue to absorb operations costs and third-party fees so that Canadian donors can maximize their tax benefits. 
+* **Hiring a full-time project manager** - An internal staff hire will initiate and oversee the expansion of RC Forward, allowing senior management and operations staff to reallocate their time.
+* **Increasing awareness and engagement with the platform** - We will be testing selected outreach strategies, beginning with mining in-network referrals. Nearly two-dozen effective charities have Canadian donors that could benefit from our platform. As a concrete example, a Canadian donor was referred to RC Forward eventually [gave MIRI $1.3M](https://intelligence.org/2018/09/01/summer-miri-updates/).
+* **Conduct donor stewardship on behalf of effective charities** - RC Forward staff will provide various means of donor stewardship with high net-worth (HNW) individuals. This can range from sorting out donation logistics to more high-touch interactions, such as donor advising.
+* **Fundraising experimentation outside of EA** - We’ve begun seeking support from public and private foundations focused on global health and development, animal welfare, and existential risks with third-party fundraising tools like [Grant Advance](https://www.grantadvance.com/).
+* **Keep it free** - Rethink Charity will continue to absorb operations costs and third-party fees so that Canadian donors can maximize their tax benefits.
 
 
 
