@@ -244,23 +244,23 @@ body {
   margin-bottom: 15px;
 }
 
+/* bootstrap sticky footer */
 .footer {
-  background-color: #512B52;
+  position: relative;
   display: block;
-  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #512B52;
+  color: #fff;
+  padding: 10px;
 }
-
-.footer_license {
-  margin-top: 15px;
+.footer a{
+  color: #fff;
+  text-decoration: underline;
 }
-
-.footer_license a {
-  color: hsla(0,0%,100%,.7);
-  text-decoration: none;
-}
-
-.footer_license a:hover {
-  opacity: 0.5;
+.footer a:hover{
+  opacity: 0.7;
 }
 
 .header {
@@ -595,6 +595,10 @@ body {
 
   .contact_form {
     max-width: 250px;
+  }
+
+  .footer {
+    height: 80px;
   }
 
   .header {
