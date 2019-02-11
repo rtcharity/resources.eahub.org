@@ -3,9 +3,9 @@ title: 'EA Giving Tuesday Donation Matching Initiative 2018: Retrospective'
 date: 2019-02-11T17:21:30.263Z
 description: >-
   In 2018, Facebook and PayPal announced plans to match up to $7 million in
-  donations on Giving Tuesday. We made a coordinated effort to direct matching
-  funds to EA-aligned organizations, with a focus on donating fast and starting
-  preparation work early.
+  donations on Giving Tuesday. A group of EAs made a coordinated effort to
+  direct matching funds to EA-aligned organizations, with a focus on donating
+  fast and starting preparation work early.
 author: Avi Norowitz
 license:
   name: Creative Commons Attribution-ShareAlike 3.0
