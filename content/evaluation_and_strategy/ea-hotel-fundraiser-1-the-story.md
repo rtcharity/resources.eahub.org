@@ -65,4 +65,6 @@ Do you like this initiative, and want to see it continue for longer, on a more s
 
 For further instructions please see our [GoFundMe](https://www.gofundme.com/ea-hotel).
 
+If you’d like to give regular support, we also have a [Patreon](https://www.patreon.com/eahotel).
+
 To learn more about the hotel, and to book a stay, please see our [website](https://eahotel.org/).
