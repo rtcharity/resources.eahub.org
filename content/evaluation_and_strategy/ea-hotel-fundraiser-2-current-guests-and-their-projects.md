@@ -131,16 +131,16 @@ Do you like this initiative, and want to see it continue for longer, on a more s
 
 For further instructions please see our [GoFundMe](https://www.gofundme.com/ea-hotel).
 
-If you’d like to give regular support, we also have a Patreon.
+If you’d like to give regular support, we also have a [Patreon](https://www.patreon.com/eahotel).
 
-To learn more about the hotel, and to book a stay, please see our website.
+To learn more about the hotel, and to book a stay, please see our [website](https://eahotel.org/).
 
-Thanks to Toon Alfrink for conducting the survey and drafting the post, and Sasha Cooper and Florent Berthet for comments.
+_Thanks to Toon Alfrink for conducting the survey and drafting the post, and Sasha Cooper and Florent Berthet for comments._
 
 ## Footnote
 
-\[1] Some people have voiced concerns over the kind of people that the EA Hotel would attract. For example, citing one top comment on a SSC article about the hotel:
+\[1] Some people have voiced concerns over the kind of people that the EA Hotel would attract. For example, citing one top [comment](https://www.reddit.com/r/slatestarcodex/comments/990yg8/practicallyabook_review_ea_hotel/e4kj2w9/) on a SSC article about the hotel:
 
-\    “This is going to attract people who are into EA and unusually bad at making a living. Is that bad? Not sure, but I expect the most competent EAs have no problem making ends meet in \[High Cost Of Living] areas (despite the insane inefficiency of that phenomenon).”
+> This is going to attract people who are into EA and unusually bad at making a living. Is that bad? Not sure, but I expect the most competent EAs have no problem making ends meet in \[High Cost Of Living] areas (despite the insane inefficiency of that phenomenon).
 
 This is a valid concern, but does it reflect reality? It is perhaps more true that most of our guests have good earning potential, but instead choose to do other things - i.e. direct EA work. We have a general impression of competence, but realize that this is very hard to formally specify. In this post we will instead give you some of the data that has led us to that impression.
