@@ -5,7 +5,7 @@ description: >-
   This is the second of a series of posts that accompany the EA Hotel
   fundraiser. The post gives some information on the current guests and their
   projects.
-author: Greg Colbourn
+author: 'Greg Colbourn, Toon Alfrink'
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/j7xz4rQidfRgFo6KC/ea-hotel-fundraiser-2-current-guests-and-their-projects
 license:
@@ -15,7 +15,7 @@ relatedArticles: []
 ---
 This is the second of a series of posts that accompany the EA Hotel [fundraiser](https://www.gofundme.com/ea-hotel). The plan was to post a proper EV analysis of the hotel, but that has taken longer than expected. We will post an appetiser in the meantime, with apologies from the kitchen.
 
-Readers may be curious as to the kinds of guests the EA hotel has so far hosted\[1]. Below have compiled some information on current guests and their projects.
+Readers may be curious as to the kinds of guests the EA hotel has so far hosted<sup>[[1]](#note1)</sup>. Below have compiled some information on current guests and their projects.
 
 ## Statistics
 
@@ -139,7 +139,7 @@ _Thanks to Toon Alfrink for conducting the survey and drafting the post, and Sas
 
 ## Footnote
 
-\[1] Some people have voiced concerns over the kind of people that the EA Hotel would attract. For example, citing one top [comment](https://www.reddit.com/r/slatestarcodex/comments/990yg8/practicallyabook_review_ea_hotel/e4kj2w9/) on a SSC article about the hotel:
+<a name="note1" href="javascript:history.back()">[1]</a>: Some people have voiced concerns over the kind of people that the EA Hotel would attract. For example, citing one top [comment](https://www.reddit.com/r/slatestarcodex/comments/990yg8/practicallyabook_review_ea_hotel/e4kj2w9/) on a SSC article about the hotel:
 
 > This is going to attract people who are into EA and unusually bad at making a living. Is that bad? Not sure, but I expect the most competent EAs have no problem making ends meet in \[High Cost Of Living] areas (despite the insane inefficiency of that phenomenon).
 
