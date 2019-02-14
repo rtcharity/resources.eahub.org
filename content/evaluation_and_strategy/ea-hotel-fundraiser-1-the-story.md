@@ -13,7 +13,7 @@ license:
   url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-This is the first of a series of posts that accompany the EA Hotel fundraiser, which will run over the course of January. It will cover the broad narrative of its inception, its current state, and its future. The next post will be an in-depth statistical analysis of impact.
+This is the first of a series of posts that accompany the EA Hotel [fundraiser](https://www.gofundme.com/ea-hotel), which will run over the course of January. It will cover the broad narrative of its inception, its current state, and its future. The next post will be an in-depth statistical analysis of impact.
 
 ## 1. Inception
 
@@ -21,7 +21,7 @@ By 2017, there had been various initiatives that had attempted to reform EA and 
 
 Blackpool was a popular holiday resort in the 80s. When international holidays became cheaper, it fell out of fashion. But the council held on to the city’s main source of income. Many of the hotels back in the day did not get permission to convert to residential. They’re still around today, and most of them are completely vacant. This means that hotels in Blackpool are among the cheapest real estate in the developed world.
 
-By the end of 2017, aspiring effective altruist Greg Colbourn made some successful crypto investments. He used that money to decisively turn these latent intentions into reality. He bought a hotel in Blackpool, and the EA Hotel was born.
+By the end of 2017, aspiring effective altruist Greg Colbourn made some successful crypto investments. He used that money to decisively turn these latent intentions into reality. He bought a hotel in Blackpool, and the [EA Hotel was born](https://forum.effectivealtruism.org/posts/JdqHvyy2Tjcj3nKoD/ea-hotel-with-free-accommodation-and-board-for-two-years).
 
 ## 2. Current state
 
@@ -41,11 +41,9 @@ Based on our regular interviews with the current residents, we think that this i
 
 To give you an idea of what current guests are working on, we will describe a few abstracted case studies:
 
-A is an aspiring EA entrepreneur, in the process of starting an effective charity. They have some good ideas, but can’t easily get their organisation off the ground. For that, they need to develop their ideas by bouncing them off people. They also need to apply for grants, develop a platform and work through the formalities of starting a registered charity. Instead of doing this in their spare time alongside their day job, they joined the EA Hotel for 6 months. Here they meet people that already have experience in starting charities, who give them good advice. They also learn about some important considerations that lead them to change the scope of their charity for the better.
-
-B is an EA with an eye to community building. They have some good ideas about what people in the community need. To this end, they host events and retreats that help EA’s get more socially involved and helps them get a clearer picture of how to contribute. They do this work pro bono from the hotel.
-
-C would really like to launch their EA career, but is still looking for a place to start. They move into the EA Hotel, where they take a few months to really educate themselves on how the world works. During their stay, they identify the cause areas they find most pressing, and decide that they would be a good fit for an ops role. They do a few applications and leave the hotel with a fresh job at an EA organisation.
+* A is an aspiring EA entrepreneur, in the process of starting an effective charity. They have some good ideas, but can’t easily get their organisation off the ground. For that, they need to develop their ideas by bouncing them off people. They also need to apply for grants, develop a platform and work through the formalities of starting a registered charity. Instead of doing this in their spare time alongside their day job, they joined the EA Hotel for 6 months. Here they meet people that already have experience in starting charities, who give them good advice. They also learn about some important considerations that lead them to change the scope of their charity for the better.
+* B is an EA with an eye to community building. They have some good ideas about what people in the community need. To this end, they host events and retreats that help EA’s get more socially involved and helps them get a clearer picture of how to contribute. They do this work pro bono from the hotel.
+* C would really like to launch their EA career, but is still looking for a place to start. They move into the EA Hotel, where they take a few months to really educate themselves on how the world works. During their stay, they identify the cause areas they find most pressing, and decide that they would be a good fit for an ops role. They do a few applications and leave the hotel with a fresh job at an EA organisation.
 
 A future post might interview some actual residents, to let them chime in with their experience.
 
@@ -65,6 +63,6 @@ Looking ahead even further, there are thousands of vacant buildings in Blackpool
 
 Do you like this initiative, and want to see it continue for longer, on a more stable footing, and at a bigger scale? Do you want to cheaply buy time spent working full time on work relating to EA, whilst simultaneously facilitating a thriving EA community hub? Then we would like to ask for your support.
 
-For further instructions please see our GoFundMe.
+For further instructions please see our [GoFundMe](https://www.gofundme.com/ea-hotel).
 
-To learn more about the hotel, and to book a stay, please see our website.
+To learn more about the hotel, and to book a stay, please see our [website](https://eahotel.org/).
