@@ -19,7 +19,7 @@ Readers may be curious as to the kinds of guests the EA hotel has so far hosted<
 
 ## Statistics
 
-We have gathered data from 19/20 residents (as of Jan 22nd).
+We have gathered data from 19 / 20 residents (as of Jan 22nd).
 
 **Former EA engagement**
 
@@ -116,7 +116,7 @@ Providing a description of one’s work is mandatory for those staying long-term
 * **Markus Salmela** studies human health, philosophy and social sciences. He has worked on research projects relating to existential risks and [long term forecasting](http://gcrinstitute.org/papers/trajectories.pdf), and also organised EA-events. He is currently writing about longevity research from an existential risk perspective.
 * **Evan Sandhoefner** graduated from Harvard in 2017 with a degree in economics and computer science. He worked as a program manager at Microsoft for a short time before leaving to pursue EA work directly. For now, he's independently studying a wide range of EA-relevant topics, with a particular interest in consciousness.
 
-## Conclusion 
+## Conclusion
 
 The question we’re trying to answer is the following: is the average project carried out by EA Hotel residents worth its investment? This overview should give a good first impression.
 
@@ -139,7 +139,7 @@ _Thanks to Toon Alfrink for conducting the survey and drafting the post, and Sas
 
 ## Footnote
 
-<a name="note1" href="javascript:history.back()">[1]</a>: Some people have voiced concerns over the kind of people that the EA Hotel would attract. For example, citing one top [comment](https://www.reddit.com/r/slatestarcodex/comments/990yg8/practicallyabook_review_ea_hotel/e4kj2w9/) on a SSC article about the hotel:
+<a name="note1" href="javascript:history.back()">\[1]</a>: Some people have voiced concerns over the kind of people that the EA Hotel would attract. For example, citing one top [comment](https://www.reddit.com/r/slatestarcodex/comments/990yg8/practicallyabook_review_ea_hotel/e4kj2w9/) on a SSC article about the hotel:
 
 > This is going to attract people who are into EA and unusually bad at making a living. Is that bad? Not sure, but I expect the most competent EAs have no problem making ends meet in \[High Cost Of Living] areas (despite the insane inefficiency of that phenomenon).
 
