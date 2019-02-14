@@ -15,7 +15,7 @@ relatedArticles: []
 ---
 This is the second of a series of posts that accompany the EA Hotel [fundraiser](https://www.gofundme.com/ea-hotel). The plan was to post a proper EV analysis of the hotel, but that has taken longer than expected. We will post an appetiser in the meantime, with apologies from the kitchen.
 
-Readers may be curious as to the kinds of guests the EA hotel has so far hosted<sup>[\[1]](#note1)</sup>. Below have compiled some information on current guests and their projects.
+Readers may be curious as to the kinds of guests the EA hotel has so far hosted<sup>[[1]](#note1)</sup>. Below have compiled some information on current guests and their projects.
 
 ## Statistics
 
