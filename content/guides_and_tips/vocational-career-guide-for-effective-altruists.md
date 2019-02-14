@@ -4,7 +4,7 @@ date: 2019-02-13T17:52:29.243Z
 description: >-
   This guide is aimed at people who do not have or intend to pursue a 4-year
   college degree to help them find an EA career.
-author: kbog
+author: Kyle Bogosian
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/qZiLnFmteyLNz9BK3/vocational-career-guide-for-effective-altruists
 license:
@@ -12,7 +12,7 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-Hello, I’m Kyle, and I’ve written this guide to help anyone find an EA career. In particular, it is aimed at people who do not have or intend to pursue a 4-year college degree. Some people aim to pursue trade school, or work right after high school / GED. If that sounds like you, keep reading.
+I’ve written this guide to help anyone find an EA career. In particular, it is aimed at people who do not have or intend to pursue a 4-year college degree. Some people aim to pursue trade school, or work right after high school / GED. If that sounds like you, keep reading.
 
 The first step that anyone should take when making career decisions is to go through [80,000 Hours’ broadly applicable career guide](https://80000hours.org/career-guide/). This gives a good general framework to assist your decisions. You can also make use of the EA community – ask on one of the forums for advice on your particular options.
 
