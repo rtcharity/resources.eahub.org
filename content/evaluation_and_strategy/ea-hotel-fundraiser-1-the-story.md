@@ -13,7 +13,7 @@ license:
   url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-This is the first of a series of posts that accompany the EA Hotel [fundraiser](https://www.gofundme.com/ea-hotel), which will run over the course of January. It will cover the broad narrative of its inception, its current state, and its future. The next post will be an in-depth statistical analysis of impact.
+This is the first of a series of posts that accompany the EA Hotel [fundraiser](https://www.gofundme.com/ea-hotel), which will run over the course of January. It will cover the broad narrative of its inception, its current state, and its future. The [next post](https://resources.eahub.org/evaluation_and_strategy/ea-hotel-fundraiser-2-current-guests-and-their-projects/) will be an in-depth statistical analysis of impact.
 
 ## 1. Inception
 
