@@ -174,22 +174,22 @@ _Section summary: some initial charity and career recommendations are made. More
 
 Let’s suppose you’ve decided that mental health is how you can do the most good with your time or money. What next?
 
-Regarding charitable donations, [<u>StrongMinds</u>](https://strongminds.org/) seems to be the current low-risk favourite.
+Regarding charitable donations, [StrongMinds](https://strongminds.org/) seems to be the current low-risk favourite.
 
 There are, however, other charities someone could consider, though none have yet been thoroughly evaluated against StrongMinds. These are, with brief explanations in brackets:
 
-* <u>[Friendship Bench](https://www.friendshipbenchzimbabwe.org/)</u> (a charity which provides problem solving therapy in Zimbabwe through lay health workers. They’ve had a <u>[RCT conducted on their intervention](https://jamanetwork.com/journals/jama/article-abstract/2594719)</u>, which found an initial impact greater than my estimate for StrongMind’s; however, I don’t yet have costs so can’t make a cost-effectiveness calculation).
-* <u>[Multidisciplinary Association for Psychedelic Studies](https://maps.org/)</u> (MAPS) or [<u>The Psychedelic Society</u>](http://psychedelicsociety.org.uk/petitions/psychedelics-for-mental-health) (both work to do research into, and increase access to, psychedelic treatments for mental illness).
-* <u>[The International Positive Education](http://ipen-network.com/)</u> (‘IPEN’; as the name suggests, the organisation aims to spread positive education in schools).
-* <u>[Mental Health Research UK](http://www.mentalhealthresearchuk.org.uk/home)</u> (currently funding PhDs in mental health research).
+* [Friendship Bench](https://www.friendshipbenchzimbabwe.org/) (a charity which provides problem solving therapy in Zimbabwe through lay health workers. They’ve had a [RCT conducted on their intervention](https://jamanetwork.com/journals/jama/article-abstract/2594719), which found an initial impact greater than my estimate for StrongMind’s; however, I don’t yet have costs so can’t make a cost-effectiveness calculation).
+* [Multidisciplinary Association for Psychedelic Studies](https://maps.org/) (MAPS) or [The Psychedelic Society](http://psychedelicsociety.org.uk/petitions/psychedelics-for-mental-health) (both work to do research into, and increase access to, psychedelic treatments for mental illness).
+* [The International Positive Education](http://ipen-network.com/) (‘IPEN’; as the name suggests, the organisation aims to spread positive education in schools).
+* [Mental Health Research UK](http://www.mentalhealthresearchuk.org.uk/home) (currently funding PhDs in mental health research).
 
 Regarding high impact careers, no systemic work has been done to evaluate what these might be. Intuitively, the following stand out as promising, but these are just some initial ideas:
 
-1. Cause prioritisation research - it’s hard to escape this conclusion, given how little work has been done. For those who are interested, I’ve highlighted some important questions in the following document: <u>[Human Welfare: A Research Agenda](https://docs.google.com/document/d/15DqZNMfqRw4cOEcz3lpBM5jPoLWXnOIZ2IXznBH6Bf0/edit)</u>. I am in the process of forming an organisation to conduct such research. If you would like to participate, please <u>[contact me](mailto:%20michael.plant@stx.ox.ac.uk)</u>.
+1. Cause prioritisation research - it’s hard to escape this conclusion, given how little work has been done. For those who are interested, I’ve highlighted some important questions in the following document: [Human Welfare: A Research Agenda](https://docs.google.com/document/d/15DqZNMfqRw4cOEcz3lpBM5jPoLWXnOIZ2IXznBH6Bf0/edit). I am in the process of forming an organisation to conduct such research. If you would like to participate, please [contact me](mailto:%20michael.plant@stx.ox.ac.uk).
 2. Economics (or other social science) research into happiness, e.g. determining what the most effective government policies are.
 3. Research into new treatments for mental health, e.g. psychedelics, and/or advocacy for these treatments. Lee Sharkey and I have written about drug policy reform elsewhere.\[55]
 4. Work in developing world mental health. Trying to improve organisations already in this area, possibly with a view to trying to start new, more effective ones.
-5. Entrepreneurship in mental health technology. There are some effective altruists working on projects in this area already, such as <u>[Mind Ease](https://mindease.io/)</u> and <u>[UpLift](http://www.uplift.us/)</u>.
+5. Entrepreneurship in mental health technology. There are some effective altruists working on projects in this area already, such as [Mind Ease](https://mindease.io/) and [UpLift](http://www.uplift.us/).
 6. Politics or policy. Trying to change what governments do and their attitudes towards happiness.
 
 ### Conclusion
@@ -200,7 +200,7 @@ Whilst mental health has so far not been considered one of the world’s most ur
 
 \[0] I am very grateful to Max Dalton, Alex Lintz, Siebe Rozendaal, Justus Arnd, Andrew Fisher and Paul Davies for reading and offering comments on this draft.
 
-\[1] Theo Vos et al., “Global, Regional, and National Incidence, Prevalence, and Years Lived with Disability for 301 Acute and Chronic Diseases and Injuries in 188 Countries, 1990–2013: A Systematic Analysis for the Global Burden of Disease Study 2013,” _The Lancet_ 386, no. 9995 (2015): 743–800, <u><https://doi.org/10.1016/S0140-6736(15)60692-4></u>. Depression and anxiety are the ‘common mental health disorders’; I’ve left out others such as schizophrenia, anorexia, bipolar disorder, etc.
+\[1] Theo Vos et al., “Global, Regional, and National Incidence, Prevalence, and Years Lived with Disability for 301 Acute and Chronic Diseases and Injuries in 188 Countries, 1990–2013: A Systematic Analysis for the Global Burden of Disease Study 2013,” _The Lancet_ 386, no. 9995 (2015): 743–800, <https://doi.org/10.1016/S0140-6736(15)60692-4>. Depression and anxiety are the ‘common mental health disorders’; I’ve left out others such as schizophrenia, anorexia, bipolar disorder, etc.
 
 \[2] Vos et al.
 
@@ -270,7 +270,7 @@ Whilst mental health has so far not been considered one of the world’s most ur
 
 \[35] Johannes Haushofer, James Reisinger, and Jeremy Shapiro, “Your Gain Is My Pain: Negative Psychological Externalities of Cash Transfers, Working Paper,” 2015.
 
-\[36] Andrew E. Clark, “Happiness, Income and Poverty,” _International Review of Economics_ 64, no. 2 (June 21, 2017): 145–58, <u><https://doi.org/10.1007/s12232-017-0274-7></u>.
+\[36] Andrew E. Clark, “Happiness, Income and Poverty,” _International Review of Economics_ 64, no. 2 (June 21, 2017): 145–58, <https://doi.org/10.1007/s12232-017-0274-7>.
 
 \[37] Clark, Andrew E., Natavudh Powdthavee, Sarah Flèche, Richard Layard, and George Ward. The Origins of Happiness : The Science of Well-Being over the Life Course, 2018.
 
@@ -280,7 +280,7 @@ Whilst mental health has so far not been considered one of the world’s most ur
 
 \[40] A list GiveWell top charities is available here: https://www.givewell.org/charities/top-charities
 
-\[41] Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <u><https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0></u>. Note the impact is nearly identical whether an assuming of a constant benefit of four years (i.e. the inference for Wiles et al. 2016) or if we assume a 75% annual retention of benefits, which is the method taken by Halstead and Snowden, “Cause Area Report: Mental Health”, Founders Pledge, <u><https://founderspledge.com/research/Cause%20Report%20-%20Mental%20Health.pdf></u>
+\[41] Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0>. Note the impact is nearly identical whether an assuming of a constant benefit of four years (i.e. the inference for Wiles et al. 2016) or if we assume a 75% annual retention of benefits, which is the method taken by Halstead and Snowden, “Cause Area Report: Mental Health”, Founders Pledge, <https://founderspledge.com/research/Cause%20Report%20-%20Mental%20Health.pdf>
 
 \[42] GiveWell "2018 Cost-effectiveness analysis -version 4" states that 2% of the cost-effectiveness of the deworming charities (DtW, SCI, Sightsavers, END) comes from 'short-term health effects' and 98% from 'eventual income and consumption gains'. See Results tab in this spreadsheet: https://docs.google.com/spreadsheets/d/1moyxmsn4UjhH3CzFJmPwAN7LUAkmmaoXDb6bdW3WILg/edit#gid=1364064522.
 
@@ -294,7 +294,7 @@ Whilst mental health has so far not been considered one of the world’s most ur
 
 \[47] Helliwell, Layard, and Sachs, _World Happiness Report 2017 p28_
 
-\[48] Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <u><https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0></u>.
+\[48] Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0>.
 
 \[49] For a summary of the problems of population ethics, see Hilary Greaves, “Population Axiology,” _Philosophy Compass_, 2017. Note Greaves is unsympathetic to person-affecting views.
 
