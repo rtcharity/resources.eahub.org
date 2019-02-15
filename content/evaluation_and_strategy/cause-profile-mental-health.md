@@ -58,9 +58,7 @@ First, there are psychological treatments. While many people’s mental image of
 
 CBT is best understood as a family of therapies, rather than a single treatment: the CBT procedures for depression and, say, social phobia, share almost no overlap.\[19] The latest forms of CBT are a substantial improvement on earlier methods. For example, 78% of patients with social anxiety recovered from cognitive treatments, compared with 38% from exposure therapy, which was the original (non-psychoanalytic) procedure used to treat it. \[20] The effects of CBT can be long-lasting, too. A study on CBT recipients found the effects of treatment (compared to usual care with antidepressants), measured in standard mental health scores, were present 4 years later without obviously appearing to reduce over time, as shown in figure 2. \[21] This can be explained by the fact that CBT teaches the patient a skill; so as long as they remember what they’ve learnt, the effect should continue.
 
-<figure>!\[](https://lh4.googleusercontent.com/fZicVE8FzkIB6OI4thKLxwJHb-eWjgQR9Bq1LKeszzdrbTCbShmn1ce7mJVkFcyKG5lknxSyzIoFQBQOd3wLfSc-BxN4_dOtlUVD2LoNY9f9hxoSY3sndIqntMgJYsNEJMSSGWdrOYJXzzV9WA)</figure>
-
-Figure 2. The effect of Cognitive Behavioural Therapy (CBT) remains for at least 4 years, as indicated by the lower mean scores for the treatment group on the Beck Depression Inventory (BDI-II), compared to the control group.
+![Figure 2](/img/image2.png "Figure 2. The effect of Cognitive Behavioural Therapy (CBT) remains for at least 4 years, as indicated by the lower mean scores for the treatment group on the Beck Depression Inventory (BDI-II), compared to the control group.")
 
 CBT is not the only effective psychological therapy: others include mindfulness-based cognitive therapy, interpersonal therapy, and counselling.\[22]
 
