@@ -42,13 +42,13 @@ Three of the surveyed countries were developed (UK, USA, Australia) and one was 
 
 For our purposes, it’s not essential to work out which of those two is bigger. The key point is that the worldwide scale of suffering caused by mental illness is huge, and at least of the same order of magnitude as poverty. It will almost inevitably increase, relative to poverty, over time. I expect this to be a surprise to many readers; it certainly was to me, as I had assumed poverty caused far more global suffering.\[11]
 
-### Neglectedness (how many resources are going towards this problem?)
+## Neglectedness (how many resources are going towards this problem?)
 
 _Section summary: Mental health is neglected, even relative to poverty and physical health._
 
 One third of Lower and Middle Income (i.e. developing) Countries do not have a designated mental health budget,\[12] and for those that do the average expenditure is 0.5% of their total health budget.\[13] In such countries, the treatment gap for mental health (i.e. the number who don’t get treatment as a percentage of those who need it) is 76-85%.\[14] A Centre for Global Development report describes mental illness as a “truly neglected area of global health policy”.\[15]
 
-### Tractability (are there cost-effective solutions?)
+## Tractability (are there cost-effective solutions?)
 
 _Section summary: existing psychological treatments for mental illness are effective; more effective interventions seem to be on the horizon_.
 
@@ -78,7 +78,7 @@ Of course, we shouldn’t only be thinking about treating people who are already
 
 Overall, there are a number of ways to tackle mental illness and it remains to be seen which will be the best.
 
-### Mental health vs global development: comparing charity cost-effectiveness
+## Mental health vs global development: comparing charity cost-effectiveness
 
 _Section summary: a mental health charity, StrongMinds, looks more cost-effective at improving lives than one of GiveWell’s top charities, GiveDirectly. This assumes we understand cost-effectiveness in terms of happiness, as measured by self-reported life satisfaction. It’s unclear if StrongMinds is better than all GiveWell’s life-improving charities (due to gaps in evidence regarding the size of negative spillover effects) or GiveWell’s life-saving charities (due to methodological issues about where on a 0-10 life satisfaction is the ‘neutral point’ equivalent to being dead)._
 
@@ -128,7 +128,7 @@ The problem here is that these cost-effectiveness numbers are highly dependent o
 
 More work is therefore urgently needed to determine where the neutral point is. Two potential methods for doing this would be (1) asking people to state where they think this neutral point is; or (2) using mood reports and finding out at what score on the life satisfaction scale people report net neutral mood.
 
-### Why might you - and why might you not - prioritise this area?
+## Why might you - and why might you not - prioritise this area?
 
 _Section summary: there are a large number of open-ended questions which need to be resolved before we can determine how we do the most good. This section sets out some of the crucial considerations, but does not attempt to answer them._
 
@@ -168,7 +168,7 @@ Finally, someone could decide that making currently existing humans lives happie
 * Loneliness (lacking friends) and ‘lovelessness’ (lacking a romantic partner). Given the amount of misery these seem to produce (e.g. see figure 1 ‘No partner’), finding a way to progress here could be high impact.
 * ‘Ordinary human unhappiness’, which refers to mundane, everyday existence being less good than it could be. Even projects that attempt to cause seemingly trivial lifestyle changes, such as exercising more or encouraging people to take shorter commutes (commuting is shown, in time-use studies, to be one of the worst parts of the day), are potentially high impact if they have a small, but long-term, daily impact across many people.
 
-### How can you help?
+## How can you help?
 
 _Section summary: some initial charity and career recommendations are made. More work is needed here._
 
@@ -192,11 +192,11 @@ Regarding high impact careers, no systemic work has been done to evaluate what t
 5. Entrepreneurship in mental health technology. There are some effective altruists working on projects in this area already, such as [Mind Ease](https://mindease.io/) and [UpLift](http://www.uplift.us/).
 6. Politics or policy. Trying to change what governments do and their attitudes towards happiness.
 
-### Conclusion
+## Conclusion
 
 Whilst mental health has so far not been considered one of the world’s most urgent problems among effective altruists, it seems, on further reflection, there is a strong case it should as high a priority as global health and development, a current EA top-cause. Given the variety of options for improving mental health, and the lack of prioritization research on the topic, it seems likely we’ll find even better ways to make progress on this problem in the near future. Establishing which cause allows one to do the most good is complicated. This document set out some of the crucial considerations relevant to deciding whether this should (or should not) be someone’s top priority; and suggested what you might do if you conclude working on improving mental health is how you will do the most good.
 
-### Endnotes
+**Endnotes**
 
 \[0] I am very grateful to Max Dalton, Alex Lintz, Siebe Rozendaal, Justus Arnd, Andrew Fisher and Paul Davies for reading and offering comments on this draft.
 
