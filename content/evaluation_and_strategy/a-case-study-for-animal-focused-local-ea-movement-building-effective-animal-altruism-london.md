@@ -84,7 +84,7 @@ These are the most direct measures of EAAL having generated impact so far. I do 
 This metric matters because it may lead to realisation of actions to generate significantly greater impact for animals at later time points. This seems more likely to be the case for deeper and more specific knowledge, especially among those already deeply engaged with animal advocacy (such as employees of charities) or among individuals who seem dedicated to EAA, than it does for wider public awareness.
 
 * EAAL: I asked the survey respondents how far their knowledge and understanding of EA and EAA had increased or deepened since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for an average increase in knowledge and understanding of 70%.
-* EAAL: I asked the survey respondents if they had changed their views about the prioritisation of broad cause areas, sub-cause areas within animal advocacy (e.g. farmed or wild animals), or specific interventions within animal advocacy, and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for less than 1 “impact-adjusted significant prioritisation change." \[7]
+* EAAL: I asked the survey respondents if they had changed their views about the prioritisation of broad cause areas, sub-cause areas within animal advocacy (e.g. farmed or wild animals), or specific interventions within animal advocacy, and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for less than 1 “impact-adjusted significant prioritisation change."<sup>[[7]](#fn7)</sup>
 
 **Survey data on increased inclination and support for EAA**
 
@@ -95,7 +95,7 @@ This metric matters because it may lead to realisation of actions to generate si
 
 **Attendance**
 
-Attendance is not inherently valuable or positive. It is therefore only a useful metric insofar as it sometimes serves as the best proxy for the metrics that matter more. Going forwards, I will only use attendance as a measure of success for events intending to promote broad awareness of EAA (or EAAL more specifically). Note that the attendance figures for EAAL include some estimates for a few missing events that are not included in the Effective Altruism London figures; this may give the impression that EAAL attendance has been a slightly larger proportion of wider Effective Altruism London attendance than it actually has. \[8]
+Attendance is not inherently valuable or positive. It is therefore only a useful metric insofar as it sometimes serves as the best proxy for the metrics that matter more. Going forwards, I will only use attendance as a measure of success for events intending to promote broad awareness of EAA (or EAAL more specifically). Note that the attendance figures for EAAL include some estimates for a few missing events that are not included in the Effective Altruism London figures; this may give the impression that EAAL attendance has been a slightly larger proportion of wider Effective Altruism London attendance than it actually has.<sup>[[8]](#fn8)</sup>
 
 * EAAL: 320 estimated unique attendees attending once or more in 2018.
 * Effective Altruism London more widely: 604 unique attendees attending once or more in 2018.
@@ -106,7 +106,7 @@ Attendance is not inherently valuable or positive. It is therefore only a useful
 
 Repeat attendance seems like a better proxy for engagement with EA / EAA than raw attendance.
 
-* EAAL: 80 estimated separate attendees attending twice or more in 2018. \[8]
+* EAAL: 80 estimated separate attendees attending twice or more in 2018.<sup>[[8]](#fn8)</sup>
 * Effective Altruism London more widely: 114 separate attendees tracked as attending twice or more in 2018.
 
 ## Resource costs
@@ -119,19 +119,19 @@ In terms of organisational time, I am fairly confident that organising EAAL was 
 
 Of course, when events involve external speakers or organisers, there will be time and resource costs for them too.
 
-I estimate I have spent the equivalent of £7800 on EAAL. \[9] Hannah Masson-Smyth notes that she has spent the equivalent of £1200 on EAAL. \[10] David Nash estimates that he has spent the equivalent of £1000 on EAAL. This brings a combined estimated total of £10,000 spent on EAAL over two years. Note that these estimates are quite uncertain and the counterfactuals are quite unclear. Note that some other individuals have made smaller contributions, but I have not included estimates for their costs here, \[11] nor have I included potential costs for attendees or guest speakers.
+I estimate I have spent the equivalent of £7800 on EAAL.<sup>[[9]](#fn9)</sup> Hannah Masson-Smyth notes that she has spent the equivalent of £1200 on EAAL.<sup>[[10]](#fn10)</sup> David Nash estimates that he has spent the equivalent of £1000 on EAAL. This brings a combined estimated total of £10,000 spent on EAAL over two years. Note that these estimates are quite uncertain and the counterfactuals are quite unclear. Note that some other individuals have made smaller contributions, but I have not included estimates for their costs here,<sup>[[11]](#fn11)</sup> nor have I included potential costs for attendees or guest speakers.
 
 ## Extremely rough cost-effectiveness estimates
 
-Note that all of the cost-effectiveness estimates below are very uncertain, and there are likely long-term or indirect implications of our work that have not been factored in that could greatly alter the conclusions. \[12] These estimates should be seen as facilitating extremely rough ballpark comparisons for relatively short-term outcomes, rather being precise measures of actual impact.
+Note that all of the cost-effectiveness estimates below are very uncertain, and there are likely long-term or indirect implications of our work that have not been factored in that could greatly alter the conclusions.<sup>[[12]](#fn12)</sup> These estimates should be seen as facilitating extremely rough ballpark comparisons for relatively short-term outcomes, rather being precise measures of actual impact.
 
 Given an estimated cost of £10,000 on EAAL, and an estimated 1.56 IASPCs caused through EAAL, the cost per IASPC is £6410.
 
 By comparison, in December 2016, 80,000 Hours [estimated](https://80000hours.org/2016/12/has-80000-hours-justified-its-costs/) that each plan change worked out as having cost £470. This suggests that the cost per IASPC for EAAL is over an order of magnitude larger than it was for 80,000 Hours at that point.
 
-As noted above, I don’t think that IASPCs capture the total impact of EAAL. However, I would be surprised if the total impact of EAAL was more than 3 times as valuable as its impact through IASPCs. The survey is unlikely to have captured all of EAAL’s impact, but I would be surprised if the total impact of EAAL was more than 3 times as valuable as its impact recorded in the survey. It therefore seems that EAAL is likely to fall short of the cost-effectiveness of 80,000 Hours, although possibly by less than an order of magnitude. \[13]
+As noted above, I don’t think that IASPCs capture the total impact of EAAL. However, I would be surprised if the total impact of EAAL was more than 3 times as valuable as its impact through IASPCs. The survey is unlikely to have captured all of EAAL’s impact, but I would be surprised if the total impact of EAAL was more than 3 times as valuable as its impact recorded in the survey. It therefore seems that EAAL is likely to fall short of the cost-effectiveness of 80,000 Hours, although possibly by less than an order of magnitude.<sup>[[13]](#fn13)</sup>
 
-Of course, a direct comparison between EAAL and 80,000 Hours assumes that EA movement building generally and EAA movement building are equally valuable. I currently believe that EAA is similarly high in expected value to some of the most promising far future-oriented cause areas, \[14] and orders of magnitude higher in expected value than some other cause areas supported more directly by EA movement building, such as work on global health. The calculations here therefore suggest to me that work on EAAL has been similarly cost-effective to work by 80,000 Hours, although readers’ own conclusions may differ by several orders of magnitude, depending on their views on cause prioritisation.
+Of course, a direct comparison between EAAL and 80,000 Hours assumes that EA movement building generally and EAA movement building are equally valuable. I currently believe that EAA is similarly high in expected value to some of the most promising far future-oriented cause areas,<sup>[[14]](#fn14)</sup> and orders of magnitude higher in expected value than some other cause areas supported more directly by EA movement building, such as work on global health. The calculations here therefore suggest to me that work on EAAL has been similarly cost-effective to work by 80,000 Hours, although readers’ own conclusions may differ by several orders of magnitude, depending on their views on cause prioritisation.
 
 ## Footnotes
 
