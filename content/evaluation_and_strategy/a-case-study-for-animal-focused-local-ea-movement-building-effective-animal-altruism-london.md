@@ -71,7 +71,7 @@ For some of the questions, I transformed qualitative responses into numerical sc
 
 The original questions can be seen [here](https://docs.google.com/forms/d/e/1FAIpQLSecUU6iNTSyZ8j9ZFhd_NKU0zO0RWPYrdw_wi98opSj77oqpA/viewform). The anonymised results and numbers used in the transformations and calculations can be seen [here](https://docs.google.com/spreadsheets/d/1vtk-S1tFgrVtAG-T56z3QmWOjgBC0Ki-oagctvj1LSg/edit#gid=1298639620). This sheet contains the precise results of the calculations, whereas the numbers below have been rounded.
 
-## Survey data on realisation of actions to generate impact for animals:
+**Survey data on realisation of actions to generate impact for animals**
 
 These are the most direct measures of EAAL having generated impact so far. I do not believe that they are the only metrics of importance, however.
 
@@ -79,43 +79,37 @@ These are the most direct measures of EAAL having generated impact so far. I do 
 * EAAL: I asked the survey respondents whether the charities that they donate to, volunteer for or otherwise substantially support had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for 4.5 “impact-adjusted significant charity changes." \[6]
 * Personally (although I haven’t checked my employers’ thoughts on this), I suspect that I would not have been able to secure my current role were it not for the opportunities and incentive for deeper engagement in EAA that were provided to me by organising for EAAL. I suspect that my career in EAA would have been delayed by at least a year were it not for Effective Altruism London and the opportunity to organise EAAL events.
 
-## Survey data on increased awareness and knowledge:
+**Survey data on increased awareness and knowledge**
 
 This metric matters because it may lead to realisation of actions to generate significantly greater impact for animals at later time points. This seems more likely to be the case for deeper and more specific knowledge, especially among those already deeply engaged with animal advocacy (such as employees of charities) or among individuals who seem dedicated to EAA, than it does for wider public awareness.
 
-\    EAAL: I asked the survey respondents how far their knowledge and understanding of EA and EAA had increased or deepened since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for an average increase in knowledge and understanding of 70%.
+* EAAL: I asked the survey respondents how far their knowledge and understanding of EA and EAA had increased or deepened since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for an average increase in knowledge and understanding of 70%.
+* EAAL: I asked the survey respondents if they had changed their views about the prioritisation of broad cause areas, sub-cause areas within animal advocacy (e.g. farmed or wild animals), or specific interventions within animal advocacy, and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for less than 1 “impact-adjusted significant prioritisation change." \[7]
 
-\    EAAL: I asked the survey respondents if they had changed their views about the prioritisation of broad cause areas, sub-cause areas within animal advocacy (e.g. farmed or wild animals), or specific interventions within animal advocacy, and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for less than 1 “impact-adjusted significant prioritisation change." \[7]
+**Survey data on increased inclination and support for EAA**
 
-Survey data on increased inclination and support for EAA:
+This metric matters because it may lead to realisation of actions to generate significantly greater impact for animals at later time points among the deeply engaged. It is also important among those who are not deeply engaged, as it may have [implications](https://www.effectivealtruism.org/articles/how-valuable-is-movement-growth-owen-cotton-barratt/) for the long-term impact of EA as a wider movement.
 
-This metric matters because it may lead to realisation of actions to generate significantly greater impact for animals at later time points among the deeply engaged. It is also important among those who are not deeply engaged, as it may have implications for the long-term impact of EA as a wider movement.
+* EAAL: I asked the respondents how far their inclination towards and support for EA and EAA had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for an average increase by more than 0.5 on a -2 to 2 scale.
+* EAAL: I also asked the survey respondents if they thought that their own inclination hadn’t changed or had decreased but that EAAL had helped to prevent a greater decrease in inclination. Only 8 responded to this question and the results suggested a negligible effect.
 
-\    EAAL: I asked the respondents how far their inclination towards and support for EA and EAA had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for an average increase by more than 0.5 on a -2 to 2 scale.
-
-\    EAAL: I also asked the survey respondents if they thought that their own inclination hadn’t changed or had decreased but that EAAL had helped to prevent a greater decrease in inclination. Only 8 responded to this question and the results suggested a negligible effect.
-
-Attendance:
+**Attendance**
 
 Attendance is not inherently valuable or positive. It is therefore only a useful metric insofar as it sometimes serves as the best proxy for the metrics that matter more. Going forwards, I will only use attendance as a measure of success for events intending to promote broad awareness of EAA (or EAAL more specifically). Note that the attendance figures for EAAL include some estimates for a few missing events that are not included in the Effective Altruism London figures; this may give the impression that EAAL attendance has been a slightly larger proportion of wider Effective Altruism London attendance than it actually has. \[8]
 
-\    EAAL: 320 estimated unique attendees attending once or more in 2018.
+* EAAL: 320 estimated unique attendees attending once or more in 2018.
+* Effective Altruism London more widely: 604 unique attendees attending once or more in 2018.
+* EAAL: 506 estimated attendances in 2018 (average 1.5 attendances per tracked attendee).
+* Effective Altruism London more widely: 1430 attendances in 2018 (average 2.4).
 
-\    Effective Altruism London more widely: 604 unique attendees attending once or more in 2018.
-
-\    EAAL: 506 estimated attendances in 2018 (average 1.5 attendances per tracked attendee).
-
-\    Effective Altruism London more widely: 1430 attendances in 2018 (average 2.4).
-
-Repeat attendance:
+**Repeat attendance**
 
 Repeat attendance seems like a better proxy for engagement with EA / EAA than raw attendance.
 
-\    EAAL: 80 estimated separate attendees attending twice or more in 2018. \[8]
+* EAAL: 80 estimated separate attendees attending twice or more in 2018. \[8]
+* Effective Altruism London more widely: 114 separate attendees tracked as attending twice or more in 2018.
 
-\    Effective Altruism London more widely: 114 separate attendees tracked as attending twice or more in 2018.
-
-Resource costs
+## Resource costs
 
 The direct financial cost of EAAL over the past two years has been low. I am usually able to use free venues, and suspect that I have spent less than £250 on venue hire in total (where I have paid for venues, I have redirected money from donations I would otherwise have made to EAA charities).
 
