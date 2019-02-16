@@ -4,10 +4,10 @@ title: >-
   Altruism London
 date: 2019-02-16T19:41:53.429Z
 description: >-
-  After modifying for counterfactuals, survey results suggest that EAAL has
-  increased the knowledge of the most engaged members of the community by over
-  50%, increased their inclination towards EA, caused at least one significant
-  career plan change, and led to some significant changes in the charities that
+  Modifying for counterfactuals, survey results suggest that EAAL has increased
+  the knowledge of the most engaged members of the community by over 50%,
+  increased their inclination towards EA, caused at least one significant career
+  plan change, and led to some significant changes in the charities that
   individuals support. It does not seem to have caused much change in cause
   prioritisation.
 author: Jamie Harris
