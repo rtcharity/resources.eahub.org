@@ -166,36 +166,84 @@ Let’s suppose instead the neutral point is 4. If this is so, saving the child 
 
 
 The problem here is that these cost-effectiveness numbers are highly dependent on a (so far) arbitrary decision about where the neutral point goes. If someone instead assumes the neutral point were 3 - which, intuitively, seems too low - then AMF’s cost-effectiveness would leap to 24.4 LSPs/$1,000 and it would be more cost-effective than StrongMinds, at least on this simplified picture. I note this approach to comparing life-improving to life-comparing interventions (i.e. assessing how much additional life satisfaction is generated) is different GiveWell’s approach (i.e. asking their staff to judge how many years of doubled consumption are morally equivalent to saving a child’s life).
+
+
 More work is therefore urgently needed to determine where the neutral point is. Two potential methods for doing this would be (1) asking people to state where they think this neutral point is; or (2) using mood reports and finding out at what score on the life satisfaction scale people report net neutral mood.
 
 ## Why might you - and why might you not - prioritise this area?
 
 _Section summary: there are a large number of open-ended questions which need to be resolved before we can determine how we do the most good. This section sets out some of the crucial considerations, but does not attempt to answer them._
+
+
 Ultimately, you should prioritise the problem that you think will allow you to do the most good with your spare resources (your time and money). Working out what will do the most good is obviously rather complicated. In this section I’ll set out some of the considerations that seem most relevant to deciding whether mental health could be your top priority. I do not consider this an exhaustive list.
+
+
 **Value: is happiness all that ultimately matters?**
+
+
 Earlier, I suggested a particular mental health charity might be more cost-effective at increasing happiness than at least one of the global development charities GiveWell recommend. Presumably, happiness, a positive balance of enjoyment over suffering, is one of the things that is intrinsically good, that is, good in itself. Some (including this author), believe it is the only intrinsic good.
+
+
 If you believed there were other intrinsic goods, that would potentially change the priorities. Suppose you thought autonomy, equality and happiness were all valuable in themselves. As a result, you might, perhaps, think poverty is more important than mental health on the grounds poverty alleviation increases autonomy and equality whereas improving mental health does not.
+
+
 However, such a conclusion might be a bit too quick. Even if you value things other than happiness, a mental health intervention might, from the point of view of your moral theory, still do the most good. You could believe targeting mental illness is just as autonomy-enhancing or equality-increasing as alleviating poverty, given how disabling it can be to be depressed, anxious, etc. Or, even if treating mental health does a poor job at promoting autonomy and equality, you might think that it does a good enough job of increasing happiness, something that you, presumably, value anyway, so as to compensate for its apparent lack of effect on other values.
+
+
 **Population ethics: do only some people matter morally, such as those currently alive, or does everyone who could ever live matter?**
+
+
 The (mathematically) simplest view in population ethics is totalism, which holds the best outcome is the one with the greatest sum total of well-being of everyone - past, present, and future. As a result, all possible people matter according to totalism.<sup>\[49]</sup>
+
+
 In contrast, many people intuitively hold a ‘person-affecting’ view of population ethics: while the well-being of those who do (or will) exist matters, there is no value in creating new lives. This is typically justified on the grounds that an outcome can be better or worse because and to the extent that it’s better or worse _for persons_, and existence can never be better or worse for a person than non-existence. Hence there’s no value in creating new lives, as being created is not good _for anyone_. Much of this is captured by Jan Narveson’s famous slogan “We are in favor of _making people happy_, but neutral about _making happy people_.” <sup>\[50]</sup>
+
+
 One particular person-affecting view is necessitarianism, which holds the only people who matter, when choosing between two outcomes, are those that are going to exist whatever we choose to do (i.e. exist necessarily). On this view, we still count the future people who will exist anyway. However, in practice, it’s unlikely there are many necessary, future people. The identities of who comes into existence depends, among other things, on whom the genetic parents of someone happen to be.<sup>\[51]</sup> Given the nature of human reproduction, if your parents had had sex a moment earlier, or later, then someone else would almost certainly have been born instead. Plausibly, even small changes in the world are likely to change who gets conceived and thus alter the identities of future people. As a result, necessitarians will think our moral concerns are, in effect, restricted to those who presently exist.
+
+
 As is probably obvious, whether you think a person-affecting view (e.g. necessitarianism) or what we can call an ‘impersonal’ view, one that counts all possible people (e.g. totalism), is correct may be a very important consideration in prioritising what to do (there are other views in population ethics, but it would be an unnecessary diversion to discuss those here). Some causes, such as reducing existential threats to humanity (e.g. from AI) or improving animal welfare (e.g. by reducing factory farming) primarily affect future people (technically: sentient life), rather than present people. By contrast, while alleviating the mental illness or reducing the poverty of those alive today will have some effect on future people, presumably their main impact is that they benefit the present generation. Thus, if you think an impersonal view is correct, you might think factory farming or reducing existential risks are simply a lot more important than mental health or poverty; if you think a person-affecting view is correct, mental health or poverty may be the priority instead.
+
+
 Which is correct? Population ethics is a notoriously problematic area, where all of the views can be shown to have apparently implausible implications, and there is not space to get into this here.<sup>\[52]</sup> (Psychologically autobiographical aside: I tend to think person-affecting views are the least-bad of the options).
+
+
 **Empirical and personal complications**
+
+
 Simply settling your moral views is not sufficient to tell you what to prioritise; there are a range of empirical considerations too.
+
+
 For example, you could hold a person-affecting view but still conclude reducing existential risks is the top priority simply based on the risk they pose to the present generation.<sup>\[53]</sup>
+
+
 Or, you could hold an impersonal view - and therefore accept that it would be good, in theory, to make progress on animal welfare and shaping the far future - but nevertheless think, in practice, you can do more good by focusing on something in the near-term, such as mental health or global development instead. You might reach this conclusion if you held some of the following beliefs: (a) the expected value of the future will be negative, such that it would be good if sentient life dies out and so reducing existential risks would be bad; (b) there are especially good opportunities to do good in the present; (c) there is very little we can do to improve the far future; (d) we have a particular moral duty to help other existing humans compared to future humans or animals; or (e) (probably the most important of all) your skills, abilities and personal motivation mean you have particularly high aptitude to work on some nearer-cause area rather than another.
+
+
 Finally, someone could decide that making currently existing humans lives happier (as opposed to, say, saving humanity), is how they’d do the most good, but not think mental health is the top priority. To state the obvious, mental illness is not the only source of unhappiness. If we could wave a magic wand and fully treat all mental health conditions, the world would not be at maximum happiness. Some possible contenders not otherwise mentioned in this document are:
 
-* Pain. A recent Lancet Commission on the subject said, “lack of global access to pain relief and palliative care throughout the life cycle constitutes a global crisis, and action to close this divide between rich and poor is a moral, health, and ethical imperative”.<sup>\[54]</sup> _Loneliness (lacking friends) and ‘lovelessness’ (lacking a romantic partner). Given the amount of misery these seem to produce (e.g. see figure 1 ‘No partner’), finding a way to progress here could be high impact._ ‘Ordinary human unhappiness’, which refers to mundane, everyday existence being less good than it could be. Even projects that attempt to cause seemingly trivial lifestyle changes, such as exercising more or encouraging people to take shorter commutes (commuting is shown, in time-use studies, to be one of the worst parts of the day), are potentially high impact if they have a small, but long-term, daily impact across many people.
-  ## How can you help?
-  _Section summary: some initial charity and career recommendations are made. More work is needed here._
-  Let’s suppose you’ve decided that mental health is how you can do the most good with your time or money. What next?
-  Regarding charitable donations, [StrongMinds](https://strongminds.org/) seems to be the current low-risk favourite.
-  There are, however, other charities someone could consider, though none have yet been thoroughly evaluated against StrongMinds. These are, with brief explanations in brackets:
-* [Friendship Bench](https://www.friendshipbenchzimbabwe.org/) (a charity which provides problem solving therapy in Zimbabwe through lay health workers. They’ve had a [RCT conducted on their intervention](https://jamanetwork.com/journals/jama/article-abstract/2594719), which found an initial impact greater than my estimate for StrongMind’s; however, I don’t yet have costs so can’t make a cost-effectiveness calculation). _[Multidisciplinary Association for Psychedelic Studies](https://maps.org/) (MAPS) or [The Psychedelic Society](http://psychedelicsociety.org.uk/petitions/psychedelics-for-mental-health) (both work to do research into, and increase access to, psychedelic treatments for mental illness)._ [The International Positive Education](http://ipen-network.com/) (‘IPEN’; as the name suggests, the organisation aims to spread positive education in schools).* [Mental Health Research UK](http://www.mentalhealthresearchuk.org.uk/home) (currently funding PhDs in mental health research).
-  Regarding high impact careers, no systemic work has been done to evaluate what these might be. Intuitively, the following stand out as promising, but these are just some initial ideas:
+* Pain. A recent Lancet Commission on the subject said, “lack of global access to pain relief and palliative care throughout the life cycle constitutes a global crisis, and action to close this divide between rich and poor is a moral, health, and ethical imperative”.<sup>\[54]</sup> 
+* Loneliness (lacking friends) and ‘lovelessness’ (lacking a romantic partner). Given the amount of misery these seem to produce (e.g. see figure 1 ‘No partner’), finding a way to progress here could be high impact. 
+* ‘Ordinary human unhappiness’, which refers to mundane, everyday existence being less good than it could be. Even projects that attempt to cause seemingly trivial lifestyle changes, such as exercising more or encouraging people to take shorter commutes (commuting is shown, in time-use studies, to be one of the worst parts of the day), are potentially high impact if they have a small, but long-term, daily impact across many people.
+
+
+
+## How can you help?
+
+_Section summary: some initial charity and career recommendations are made. More work is needed here._
+
+
+Let’s suppose you’ve decided that mental health is how you can do the most good with your time or money. What next?
+
+
+Regarding charitable donations, [StrongMinds](https://strongminds.org/) seems to be the current low-risk favourite.
+There are, however, other charities someone could consider, though none have yet been thoroughly evaluated against StrongMinds. These are, with brief explanations in brackets:
+
+* [Friendship Bench](https://www.friendshipbenchzimbabwe.org/) (a charity which provides problem solving therapy in Zimbabwe through lay health workers. They’ve had a [RCT conducted on their intervention](https://jamanetwork.com/journals/jama/article-abstract/2594719), which found an initial impact greater than my estimate for StrongMind’s; however, I don’t yet have costs so can’t make a cost-effectiveness calculation).
+* _[Multidisciplinary Association for Psychedelic Studies](https://maps.org/)_ (MAPS) or _[The Psychedelic Society](http://psychedelicsociety.org.uk/petitions/psychedelics-for-mental-health)_ (both work to do research into, and increase access to, psychedelic treatments for mental illness). [The International Positive Education](http://ipen-network.com/) (‘IPEN’; as the name suggests, the organisation aims to spread positive education in schools).
+* [Mental Health Research UK](http://www.mentalhealthresearchuk.org.uk/home) (currently funding PhDs in mental health research).
+
+Regarding high impact careers, no systemic work has been done to evaluate what these might be. Intuitively, the following stand out as promising, but these are just some initial ideas:
 
 1. Cause prioritisation research - it’s hard to escape this conclusion, given how little work has been done. For those who are interested, I’ve highlighted some important questions in the following document: [Human Welfare: A Research Agenda](https://docs.google.com/document/d/15DqZNMfqRw4cOEcz3lpBM5jPoLWXnOIZ2IXznBH6Bf0/edit). I am in the process of forming an organisation to conduct such research. If you would like to participate, please [contact me](mailto:%20michael.plant@stx.ox.ac.uk).
 2. Economics (or other social science) research into happiness, e.g. determining what the most effective government policies are.
@@ -203,8 +251,10 @@ Finally, someone could decide that making currently existing humans lives happie
 4. Work in developing world mental health. Trying to improve organisations already in this area, possibly with a view to trying to start new, more effective ones.
 5. Entrepreneurship in mental health technology. There are some effective altruists working on projects in this area already, such as [Mind Ease](https://mindease.io/) and [UpLift](http://www.uplift.us/).
 6. Politics or policy. Trying to change what governments do and their attitudes towards happiness.
-   ## Conclusion
-   Whilst mental health has so far not been considered one of the world’s most urgent problems among effective altruists, it seems, on further reflection, there is a strong case it should as high a priority as global health and development, a current EA top-cause. Given the variety of options for improving mental health, and the lack of prioritization research on the topic, it seems likely we’ll find even better ways to make progress on this problem in the near future. Establishing which cause allows one to do the most good is complicated. This document set out some of the crucial considerations relevant to deciding whether this should (or should not) be someone’s top priority; and suggested what you might do if you conclude working on improving mental health is how you will do the most good.
+
+## Conclusion
+
+Whilst mental health has so far not been considered one of the world’s most urgent problems among effective altruists, it seems, on further reflection, there is a strong case it should as high a priority as global health and development, a current EA top-cause. Given the variety of options for improving mental health, and the lack of prioritization research on the topic, it seems likely we’ll find even better ways to make progress on this problem in the near future. Establishing which cause allows one to do the most good is complicated. This document set out some of the crucial considerations relevant to deciding whether this should (or should not) be someone’s top priority; and suggested what you might do if you conclude working on improving mental health is how you will do the most good.
 
 **Endnotes**
 
