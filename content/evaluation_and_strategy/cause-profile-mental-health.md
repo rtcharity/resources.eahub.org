@@ -305,60 +305,60 @@ Whilst mental health has so far not been considered one of the world’s most ur
 
 <a name="fn26" href="javascript:history.back()">[26]</a>: Keith S. Dobson et al., “Randomized Trial of Behavioral Activation, Cognitive Therapy, and Antidepressant Medication in the Prevention of Relapse and Recurrence in Major Depression.,” _Journal of Consulting and Clinical Psychology_ 76, no. 3 (June 2008): 468–77, https://doi.org/10.1037/0022-006X.76.3.468.
 
-\[27] Olivia F O’Leary, Timothy G Dinan, and John F Cryan, “Faster, Better, Stronger: Towards New Antidepressant Therapeutic Strategies,” _European Journal of Pharmacology_ 753 (April 2015): 32–50, https://doi.org/10.1016/j.ejphar.2014.07.046. Marije aan het Rot et al., “Safety and Efficacy of Repeated-Dose Intravenous Ketamine for Treatment-Resistant Depression,” _Biological Psychiatry_ 67, no. 2 (January 15, 2010): 139–45, https://doi.org/10.1016/J.BIOPSYCH.2009.08.038. Rebecca Brachman, _Could a Drug Prevent Depression and PTSD? | TED Talk_, 2016, https://www.ted.com/talks/rebecca_brachman_could_a_drug_prevent_depression_and_ptsd/transcript?language=en.
+<a name="fn27" href="javascript:history.back()">[27]</a>: Olivia F O’Leary, Timothy G Dinan, and John F Cryan, “Faster, Better, Stronger: Towards New Antidepressant Therapeutic Strategies,” _European Journal of Pharmacology_ 753 (April 2015): 32–50, https://doi.org/10.1016/j.ejphar.2014.07.046. Marije aan het Rot et al., “Safety and Efficacy of Repeated-Dose Intravenous Ketamine for Treatment-Resistant Depression,” _Biological Psychiatry_ 67, no. 2 (January 15, 2010): 139–45, https://doi.org/10.1016/J.BIOPSYCH.2009.08.038. Rebecca Brachman, _Could a Drug Prevent Depression and PTSD? | TED Talk_, 2016, https://www.ted.com/talks/rebecca_brachman_could_a_drug_prevent_depression_and_ptsd/transcript?language=en.
 
-\[28] MAPS, “FDA Grants Breakthrough Therapy Designation for MDMA-Assisted Psychotherapy for PTSD, Agrees on Special Protocol Assessment for Phase 3 Trials,” 2017, https://maps.org/news/media/6786-press-release-fda-grants-breakthrough-therapy-designation-for-mdma-assisted-psychotherapy-for-ptsd,-agrees-on-special-protocol-assessment-for-phase-3-trials. Michael C Mithoefer et al., “Durability of Improvement in Post-Traumatic Stress Disorder Symptoms and Absence of Harmful Effects or Drug Dependency after 3,4-Methylenedioxymethamphetamine-Assisted Psychotherapy: A Prospective Long-Term Follow-up Study.,” _Journal of Psychopharmacology (Oxford, England)_ 27, no. 1 (January 2013): 28–39, https://doi.org/10.1177/0269881112456611.
+<a name="fn28" href="javascript:history.back()">[28]</a>: MAPS, “FDA Grants Breakthrough Therapy Designation for MDMA-Assisted Psychotherapy for PTSD, Agrees on Special Protocol Assessment for Phase 3 Trials,” 2017, https://maps.org/news/media/6786-press-release-fda-grants-breakthrough-therapy-designation-for-mdma-assisted-psychotherapy-for-ptsd,-agrees-on-special-protocol-assessment-for-phase-3-trials. Michael C Mithoefer et al., “Durability of Improvement in Post-Traumatic Stress Disorder Symptoms and Absence of Harmful Effects or Drug Dependency after 3,4-Methylenedioxymethamphetamine-Assisted Psychotherapy: A Prospective Long-Term Follow-up Study.,” _Journal of Psychopharmacology (Oxford, England)_ 27, no. 1 (January 2013): 28–39, https://doi.org/10.1177/0269881112456611.
 
-\[29] Robin L Carhart-Harris et al., “Psilocybin with Psychological Support for Treatment-Resistant Depression: An Open-Label Feasibility Study,” _The Lancet Psychiatry_ 3, no. 7 (July 2016): 619–27, https://doi.org/10.1016/S2215-0366(16)30065-7. See also D. E. Nichols, M. W. Johnson, and C. D. Nichols, “Psychedelics as Medicines: An Emerging New Paradigm,” _Clinical Pharmacology and Therapeutics_ 101, no. 2 (2017), https://doi.org/10.1002/cpt.557.
+<a name="fn29" href="javascript:history.back()">[29]</a>: Robin L Carhart-Harris et al., “Psilocybin with Psychological Support for Treatment-Resistant Depression: An Open-Label Feasibility Study,” _The Lancet Psychiatry_ 3, no. 7 (July 2016): 619–27, https://doi.org/10.1016/S2215-0366(16)30065-7. See also D. E. Nichols, M. W. Johnson, and C. D. Nichols, “Psychedelics as Medicines: An Emerging New Paradigm,” _Clinical Pharmacology and Therapeutics_ 101, no. 2 (2017), https://doi.org/10.1002/cpt.557.
 
-\[30] Michael Plant and Lee Sharkey, “High Time For Drug Policy Reform. Part 1/4: Introduction and Cause Summary,” Effective Altruism Forum, 2017, http://effective-altruism.com/ea/1d8/high_time_for_drug_policy_reform_part_14/.
+<a name="fn30" href="javascript:history.back()">[30]</a>: Michael Plant and Lee Sharkey, “High Time For Drug Policy Reform. Part 1/4: Introduction and Cause Summary,” Effective Altruism Forum, 2017, http://effective-altruism.com/ea/1d8/high_time_for_drug_policy_reform_part_14/.
 
-\[31] Sidney H. Kennedy et al., “Deep Brain Stimulation for Treatment-Resistant Depression: Follow-Up After 3 to 6 Years,” _American Journal of Psychiatry_ 168, no. 5 (May 1, 2011): 502–10, https://doi.org/10.1176/appi.ajp.2010.10081187.
+<a name="fn31" href="javascript:history.back()">[31]</a>: Sidney H. Kennedy et al., “Deep Brain Stimulation for Treatment-Resistant Depression: Follow-Up After 3 to 6 Years,” _American Journal of Psychiatry_ 168, no. 5 (May 1, 2011): 502–10, https://doi.org/10.1176/appi.ajp.2010.10081187.
 
-\[32] J Brunelin et al., “Efficacy of Repetitive Transcranial Magnetic Stimulation (RTMS) in Major Depression: A Review,” _L’Encephale_ 33, no. 2 (2007): 126–34, https://doi.org/10.1016/S0013-7006(07)91542-0.
+<a name="fn32" href="javascript:history.back()">[32]</a>: J Brunelin et al., “Efficacy of Repetitive Transcranial Magnetic Stimulation (RTMS) in Major Depression: A Review,” _L’Encephale_ 33, no. 2 (2007): 126–34, https://doi.org/10.1016/S0013-7006(07)91542-0.
 
-\[33] Alejandro Adler, “Teaching Well-Being Increases Academic Performance: Evidence From Bhutan, Mexico, and Peru,” _Publicly Accessible Penn Dissertations_, January 1, 2016, https://repository.upenn.edu/edissertations/1572.
+<a name="fn33" href="javascript:history.back()">[33]</a>: Alejandro Adler, “Teaching Well-Being Increases Academic Performance: Evidence From Bhutan, Mexico, and Peru,” _Publicly Accessible Penn Dissertations_, January 1, 2016, https://repository.upenn.edu/edissertations/1572.
 
-\[34] I’ve put all the calculations for the cost-effectiveness of both GiveDirectly and StrongMinds, including references, in the following spreadsheet: Michael Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty,” 2018, n.d., https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0.
+<a name="fn34" href="javascript:history.back()">[34]</a>: I’ve put all the calculations for the cost-effectiveness of both GiveDirectly and StrongMinds, including references, in the following spreadsheet: Michael Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty,” 2018, n.d., https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0.
 
-\[35] Johannes Haushofer, James Reisinger, and Jeremy Shapiro, “Your Gain Is My Pain: Negative Psychological Externalities of Cash Transfers, Working Paper,” 2015.
+<a name="fn35" href="javascript:history.back()">[35]</a>: Johannes Haushofer, James Reisinger, and Jeremy Shapiro, “Your Gain Is My Pain: Negative Psychological Externalities of Cash Transfers, Working Paper,” 2015.
 
-\[36] Andrew E. Clark, “Happiness, Income and Poverty,” _International Review of Economics_ 64, no. 2 (June 21, 2017): 145–58, <https://doi.org/10.1007/s12232-017-0274-7>.
+<a name="fn36" href="javascript:history.back()">[36]</a>: Andrew E. Clark, “Happiness, Income and Poverty,” _International Review of Economics_ 64, no. 2 (June 21, 2017): 145–58, <https://doi.org/10.1007/s12232-017-0274-7>.
 
-\[37] Clark, Andrew E., Natavudh Powdthavee, Sarah Flèche, Richard Layard, and George Ward. The Origins of Happiness : The Science of Well-Being over the Life Course, 2018.
+<a name="fn37" href="javascript:history.back()">[37]</a>: Clark, Andrew E., Natavudh Powdthavee, Sarah Flèche, Richard Layard, and George Ward. The Origins of Happiness : The Science of Well-Being over the Life Course, 2018.
 
-\[38] Johannes Haushofer and Jeremy Shapiro, “THE LONG-TERM IMPACT OF UNCONDITIONAL CASH TRANSFERS: EXPERIMENTAL EVIDENCE FROM KENYA,” 2018, http://jeremypshapiro.com/papers/Haushofer_Shapiro_UCT2_2018-01-30_paper_only.pdf.
+<a name="fn38" href="javascript:history.back()">[38]</a>: Johannes Haushofer and Jeremy Shapiro, “THE LONG-TERM IMPACT OF UNCONDITIONAL CASH TRANSFERS: EXPERIMENTAL EVIDENCE FROM KENYA,” 2018, http://jeremypshapiro.com/papers/Haushofer_Shapiro_UCT2_2018-01-30_paper_only.pdf.
 
-\[39] Available at: https://blog.givewell.org/2018/05/04/new-research-on-cash-transfers/
+<a name="fn39" href="javascript:history.back()">[39]</a>: Available at: https://blog.givewell.org/2018/05/04/new-research-on-cash-transfers/
 
-\[40] A list of GiveWell's top charities is available here: https://www.givewell.org/charities/top-charities
+[40]: A list of GiveWell's top charities is available here: https://www.givewell.org/charities/top-charities
 
-\[41] Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0>. Note the impact is nearly identical whether an assuming of a constant benefit of four years (i.e. the inference for Wiles et al. 2016) or if we assume a 75% annual retention of benefits, which is the method taken by Halstead and Snowden, “Cause Area Report: Mental Health”, Founders Pledge, <https://founderspledge.com/research/Cause%20Report%20-%20Mental%20Health.pdf>
+<a name="fn41" href="javascript:history.back()">[41]</a>: Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0>. Note the impact is nearly identical whether an assuming of a constant benefit of four years (i.e. the inference for Wiles et al. 2016) or if we assume a 75% annual retention of benefits, which is the method taken by Halstead and Snowden, “Cause Area Report: Mental Health”, Founders Pledge, <https://founderspledge.com/research/Cause%20Report%20-%20Mental%20Health.pdf>
 
-\[42] GiveWell "2018 Cost-effectiveness analysis -version 4" states that 2% of the cost-effectiveness of the deworming charities (DtW, SCI, Sightsavers, END) comes from 'short-term health effects' and 98% from 'eventual income and consumption gains'. See Results tab in this spreadsheet: https://docs.google.com/spreadsheets/d/1moyxmsn4UjhH3CzFJmPwAN7LUAkmmaoXDb6bdW3WILg/edit#gid=1364064522.
+<a name="fn42" href="javascript:history.back()">[42]</a>: GiveWell "2018 Cost-effectiveness analysis -version 4" states that 2% of the cost-effectiveness of the deworming charities (DtW, SCI, Sightsavers, END) comes from 'short-term health effects' and 98% from 'eventual income and consumption gains'. See Results tab in this spreadsheet: https://docs.google.com/spreadsheets/d/1moyxmsn4UjhH3CzFJmPwAN7LUAkmmaoXDb6bdW3WILg/edit#gid=1364064522.
 
-\[43] Michael Plant, “Are You Sure You Want To Donate To The Against Malaria Foundation?,” Effective Altruism Forum, 2016, http://effective-altruism.com/ea/14k/are_you_sure_you_want_to_donate_to_the_against/.
+<a name="fn43" href="javascript:history.back()">[43]</a>: Michael Plant, “Are You Sure You Want To Donate To The Against Malaria Foundation?,” Effective Altruism Forum, 2016, http://effective-altruism.com/ea/14k/are_you_sure_you_want_to_donate_to_the_against/.
 
-\[44] “The Meat-Eater Problem - Effective Altruism Concepts,” accessed September 21, 2018, https://concepts.effectivealtruism.org/concepts/the-meat-eater-problem/.
+<a name="fn44" href="javascript:history.back()">[44]</a>: “The Meat-Eater Problem - Effective Altruism Concepts,” accessed September 21, 2018, https://concepts.effectivealtruism.org/concepts/the-meat-eater-problem/.
 
-\[45] Hilary Greaves, “Optimum Population Size,” in _Oxford Handbook of Population Ethics_, ed. Arrhenius, Bykvist, and Campbell (Oxford University Press, n.d.).
+<a name="fn45" href="javascript:history.back()">[45]</a>: Hilary Greaves, “Optimum Population Size,” in _Oxford Handbook of Population Ethics_, ed. Arrhenius, Bykvist, and Campbell (Oxford University Press, n.d.).
 
-\[46] GiveWell, “2018 GiveWell Cost-Effectiveness Analysis — Version 4,” 2018, https://docs.google.com/spreadsheets/d/1moyxmsn4UjhH3CzFJmPwAN7LUAkmmaoXDb6bdW3WILg/edit#gid=1364064522.
+<a name="fn46" href="javascript:history.back()">[46]</a>: GiveWell, “2018 GiveWell Cost-Effectiveness Analysis — Version 4,” 2018, https://docs.google.com/spreadsheets/d/1moyxmsn4UjhH3CzFJmPwAN7LUAkmmaoXDb6bdW3WILg/edit#gid=1364064522.
 
-\[47] Helliwell, Layard, and Sachs, _World Happiness Report 2017 p28_
+<a name="fn47" href="javascript:history.back()">[47]</a>: Helliwell, Layard, and Sachs, _World Happiness Report 2017 p28_
 
-\[48] Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0>.
+<a name="fn48" href="javascript:history.back()">[48]</a>: Plant, “Life Satisfaction Impact of Treating Mental Health vs Alleviating Poverty.” <https://docs.google.com/spreadsheets/d/1FcpfiP6P-nxJ7ilqOH0Vv-6TwYdsWc2bOtWLvBmt8wM/edit#gid=0>.
 
-\[49] For a summary of the problems of population ethics, see Hilary Greaves, “Population Axiology,” _Philosophy Compass_, 2017. Note Greaves is unsympathetic to person-affecting views.
+<a name="fn49" href="javascript:history.back()">[49]</a>: For a summary of the problems of population ethics, see Hilary Greaves, “Population Axiology,” _Philosophy Compass_, 2017. Note Greaves is unsympathetic to person-affecting views.
 
-\[50] Jan Narveson, “Moral Problems of Population,” _The Monist_, 1973, 62–86.
+<a name="fn50" href="javascript:history.back()">[50]</a>: Jan Narveson, “Moral Problems of Population,” _The Monist_, 1973, 62–86.
 
-\[51] See Parfit, Reasons and Persons, part 4, 1984.
+<a name="fn51" href="javascript:history.back()">[51]</a>: See Parfit, Reasons and Persons, part 4, 1984.
 
-\[52] Gustav Arrhenius, “An Impossibility Theorem for Welfarist Axiologies,” _Economics & Philosophy_ 16, no. 2 (2000): 247–66.
+<a name="fn52" href="javascript:history.back()">[52]</a>: Gustav Arrhenius, “An Impossibility Theorem for Welfarist Axiologies,” _Economics & Philosophy_ 16, no. 2 (2000): 247–66.
 
-\[53] Gregory Lewis, “The Person-Affecting Value of Existential Risk Reduction,” Effective Altruism Forum, 2018, http://effective-altruism.com/ea/1n0/the_personaffecting_value_of_existential_risk/.
+<a name="fn53" href="javascript:history.back()">[53]</a>: Gregory Lewis, “The Person-Affecting Value of Existential Risk Reduction,” Effective Altruism Forum, 2018, http://effective-altruism.com/ea/1n0/the_personaffecting_value_of_existential_risk/.
 
-\[54] Felicia Marie Knaul et al., “Alleviating the Access Abyss in Palliative Care and Pain Relief-an Imperative of Universal Health Coverage: The Lancet Commission Report.,” _Lancet (London, England)_ 0, no. 0 (October 11, 2017), https://doi.org/10.1016/S0140-6736(17)32513-8.
+<a name="fn54" href="javascript:history.back()">[54]</a>: Felicia Marie Knaul et al., “Alleviating the Access Abyss in Palliative Care and Pain Relief-an Imperative of Universal Health Coverage: The Lancet Commission Report.,” _Lancet (London, England)_ 0, no. 0 (October 11, 2017), https://doi.org/10.1016/S0140-6736(17)32513-8.
 
-\[55] Plant and Sharkey, “High Time For Drug Policy Reform. Part 1/4: Introduction and Cause Summary.”
+<a name="fn55" href="javascript:history.back()">[55]</a>: Plant and Sharkey, “High Time For Drug Policy Reform. Part 1/4: Introduction and Cause Summary.”
