@@ -38,9 +38,7 @@ The 2013 Global Burden of Disease (GBD) report estimated that depression affects
 
 To properly assess scale we also need to know how much suffering each causes: if poverty makes people miserable but mental illnesses are only mildly bad, poverty will be larger in scale. In a recent analysis of self-reported happiness scores, the World Happiness Report evaluated how well poverty, lack of education, unemployment, being single, physical health (N.B. not just malaria) and mental health explain misery, where ‘misery’ here refers to those reporting the lowest happiness scores, roughly the bottom 10%.<sup>\[7]</sup> Happiness is standardly measured by asking, “Overall how satisfied are you with your life these days?” measured on a scale of 1 to 10 (from ‘extremely dissatisfied’ to ‘extremely satisfied’).<sup>\[8]</sup> For discussion of whether such measures of happiness are meaningful in general, see Dolan and White (2007) and Diener, Inglehart and Tay (2013) and for whether are cross-nationally comparable, see Veenhoven (2012).<sup>\[9]</sup> The authors of the World Happiness Report found mental illness was the biggest cause of misery overall (i.e. it accounts for the largest proportion of those in the miserable category). This is represented in figure 1 below.
 
-
 ![Figure 1](/img/image3.png "Figure 1. Mental illness increases the likelihood of being ‘in misery’ the most. Graphics from The Economist, underlying data from World Happiness Report 2017 (ch.5)")
-
 
 Three of the surveyed countries were developed (UK, USA, Australia) and one was not (Indonesia), but in each country emotional problems were the biggest cause of misery. Interestingly, mental illness was still the biggest cause of lost happiness if we look at the non-miserable part of the population too.<sup>\[10]</sup> Of course, we may well expect poverty causes a larger amount of misery in countries even poorer than Indonesia - I’m not aware of an equivalent analysis of very poor countries - so there’s room to disagree about whether poverty or mental illness causes the most unhappiness worldwide.
 
@@ -67,9 +65,7 @@ First, there are psychological treatments. While many people’s mental image of
 
 CBT is best understood as a family of therapies, rather than a single treatment: the CBT procedures for depression and, say, social phobia, share almost no overlap.<sup>\[19]</sup> The latest forms of CBT are a substantial improvement on earlier methods. For example, 78% of patients with social anxiety recovered from cognitive treatments, compared with 38% from exposure therapy, which was the original (non-psychoanalytic) procedure used to treat it. <sup>\[20]</sup> The effects of CBT can be long-lasting, too. A study on CBT recipients found the effects of treatment (compared to usual care with antidepressants), measured in standard mental health scores, were present 4 years later without obviously appearing to reduce over time, as shown in figure 2. <sup>\[21]</sup> This can be explained by the fact that CBT teaches the patient a skill; so as long as they remember what they’ve learnt, the effect should continue.
 
-
 ![Figure 2](/img/image2.png "Figure 2. The effect of Cognitive Behavioural Therapy (CBT) remains for at least 4 years, as indicated by the lower mean scores for the treatment group on the Beck Depression Inventory (BDI-II), compared to the control group.")
-
 
 CBT is not the only effective psychological therapy: others include mindfulness-based cognitive therapy, interpersonal therapy, and counselling.<sup>\[22]</sup>
 
@@ -82,9 +78,7 @@ Second, there are chemical treatments, the best known being antidepressants.<sup
 
 There are also some highly promising treatments for mental illnesses that rely on currently illegal recreational drugs. Ketamine may provide substantial short-term relief from depression.<sup>\[27]</sup> MDMA (‘ecstasy’) has recently been labelled a ‘breakthrough drug’ by the FDA in the USA because of its remarkable effectiveness in treating post-traumatic stress disorder.<sup>\[28]</sup> Perhaps most promising of all is the potential of psychedelics, such as LSD and psilocybin (the active ingredient in ‘magic mushrooms’) for treating mental illness. Carhart-Harris et al. (2016) gave a single dose of psilocybin to 12 people with moderate to severe treatment-resistant depression.<sup>\[29]</sup> The subjects had been depressed for a mean average of 17.8 years. After psychedelic-assisted therapy, 67% were classed as non-depressed after 1 week and 42% as non-depressed after 3 months without any further treatment. This is displayed in figure 3.
 
-
-![Figure 3](/img/image1.png "Figure 3. Depression severity dropped substantially after psilocybin treatment and shows an effect 3 months later without further treatment.")
-
+![Figure 3](/img/image1.png "Figure 3. Depression severity dropped substantially after psilocybin treatment and shows an effect 3 months later without further treatment. ")
 
 [Stage-2 trials](https://clinicaltrials.gov/ct2/show/NCT03380442) started in September 2018 to test the effectiveness of psilocybin on a larger scale. In October 2018 the [FDA granted](https://compasspathways.com/compass-pathways-receives-fda-breakthrough-therapy-designation-for-psilocybin-therapy-for-treatment-resistant-depression/?fbclid=IwAR2YFiib1BBcrknbvrorFnuTeKYl-Wei7IKIAriwFKH4hHGtrG4WFkZwfcc) the 'breakthrough therapy' designation for psilocybin therapy for Treatment-resistant Depression. If psychedelics turn out to be even partially as effective as they first appear, they could still become the most-effective treatment for depression.<sup>\[30]</sup>
 
