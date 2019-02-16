@@ -88,7 +88,6 @@ Third, there are direct, or electrical, treatments, such as deep brain stimulati
 
 Of course, we shouldn’t only be thinking about treating people who are already suffering, but also about prevention. One promising (psychological) method of prevention this would be ‘positive education’: teaching resilience and life skills in schools. A series of trials in Bhutan, Peru and Mexico involving over 750,000 students found that positive education not only improved measures of child well-being, but also increased standardised academic test scores.<sup>\[33]</sup>
 
-
 Overall, there are a number of ways to tackle mental illness and it remains to be seen which will be the best.
 
 ## Mental health vs global development: comparing charity cost-effectiveness
