@@ -52,7 +52,7 @@ Although I haven’t necessarily listed all of the sources for the ideas include
 * Conversations with others engaged in movement building, especially David Nash.
 * Resources put out by CEA, especially the models listed [here](https://www.centreforeffectivealtruism.org/models-of-community-building/).
 * Conversations and resources specific to EAA, especially from [Sentience Institute](https://www.sentienceinstitute.org/) and [Animal Charity Evaluators](https://animalcharityevaluators.org/).
-* Various other EA resources, such as those posted on the EA Forum.
+* Various other EA resources, such as those posted on the [EA Forum](https://forum.effectivealtruism.org/).
 
 ## Impact
 
@@ -62,29 +62,24 @@ After each measure of potential impact I also asked a variation of this question
 
 Despite the inclusion of these questions, there are several factors that may mean that the 'true' impact of EAAL on reducing animal suffering through these individuals is lower than the survey data implies:
 
-\    Without the resources put into EAAL, some of the same impact might have been achieved by Effective Altruism London more widely without additional resources, e.g. if some of the survey respondents had attended wider EA events. In subsequent calculations, I’ll use a discount rate of 15% to account for this. \[1]
-
-\    The participants may have given unrealistically high answers in order to make the organisers of EAAL feel pleased with our efforts. Note that given the phrasing of the survey, the message that I sent to participants, and the depth of engagement of participants themselves, I wouldn’t expect this effect to be large. \[2] In subsequent calculations, I’ll use a discount rate of 20% to account for this.
-
-\    Social desirability bias in answering the questions. In subsequent calculations, I’ll use a discount rate of 5% to account for this. \[3]
-
-\    I’m generally unsure about how to account for the problem of double counting impact between EAAL and the individuals themselves. 
+* Without the resources put into EAAL, some of the same impact might have been achieved by Effective Altruism London more widely without additional resources, e.g. if some of the survey respondents had attended wider EA events. In subsequent calculations, I’ll use a discount rate of 15% to account for this. \[1]
+* The participants may have given unrealistically high answers in order to make the organisers of EAAL feel pleased with our efforts. Note that given the phrasing of the survey, the message that I sent to participants, and the depth of engagement of participants themselves, I wouldn’t expect this effect to be large. \[2] In subsequent calculations, I’ll use a discount rate of 20% to account for this.
+* Social desirability bias in answering the questions. In subsequent calculations, I’ll use a discount rate of 5% to account for this. \[3]
+* I’m generally unsure about how to account for the problem of double counting impact between EAAL and the individuals themselves. 
 
 For some of the questions, I transformed qualitative responses into numerical scales. These results were then multiplied by the proportion of the change that they attribute to EAAL. In some cases, this number was multiplied again by a figure to represent the likely significance of the change, where those who donate at least 10% of their income or currently do in depth volunteering for animal advocacy organisations were coded as +1. \[4]
 
-The original questions can be seen here. The anonymised results and numbers used in the transformations and calculations can be seen here. This sheet contains the precise results of the calculations, whereas the numbers below have been rounded.
+The original questions can be seen [here](https://docs.google.com/forms/d/e/1FAIpQLSecUU6iNTSyZ8j9ZFhd_NKU0zO0RWPYrdw_wi98opSj77oqpA/viewform). The anonymised results and numbers used in the transformations and calculations can be seen [here](https://docs.google.com/spreadsheets/d/1vtk-S1tFgrVtAG-T56z3QmWOjgBC0Ki-oagctvj1LSg/edit#gid=1298639620). This sheet contains the precise results of the calculations, whereas the numbers below have been rounded.
 
-Survey data on realisation of actions to generate impact for animals:
+## Survey data on realisation of actions to generate impact for animals:
 
 These are the most direct measures of EAAL having generated impact so far. I do not believe that they are the only metrics of importance, however.
 
-\    EAAL: I asked the survey respondents if their career plans had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for 1.5 impact-adjusted significant plan changes. \[5]
+* EAAL: I asked the survey respondents if their career plans had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for 1.5 [impact-adjusted](https://80000hours.org/2016/07/update-on-number-of-significant-plan-changes/#impact-adjustment-of-significant-plan-changes) [significant plan changes](https://80000hours.org/2015/07/new-definition-of-a-significant-plan-change/). \[5]
+* EAAL: I asked the survey respondents whether the charities that they donate to, volunteer for or otherwise substantially support had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for 4.5 “impact-adjusted significant charity changes." \[6]
+* Personally (although I haven’t checked my employers’ thoughts on this), I suspect that I would not have been able to secure my current role were it not for the opportunities and incentive for deeper engagement in EAA that were provided to me by organising for EAAL. I suspect that my career in EAA would have been delayed by at least a year were it not for Effective Altruism London and the opportunity to organise EAAL events.
 
-\    EAAL: I asked the survey respondents whether the charities that they donate to, volunteer for or otherwise substantially support had changed since January 2017 and what proportion of this they would attribute to EAAL. The results suggest that EAAL was responsible for 4.5 “impact-adjusted significant charity changes." \[6]
-
-\    Personally (although I haven’t checked my employers’ thoughts on this), I suspect that I would not have been able to secure my current role were it not for the opportunities and incentive for deeper engagement in EAA that were provided to me by organising for EAAL. I suspect that my career in EAA would have been delayed by at least a year were it not for Effective Altruism London and the opportunity to organise EAAL events.
-
-Survey data on increased awareness and knowledge:
+## Survey data on increased awareness and knowledge:
 
 This metric matters because it may lead to realisation of actions to generate significantly greater impact for animals at later time points. This seems more likely to be the case for deeper and more specific knowledge, especially among those already deeply engaged with animal advocacy (such as employees of charities) or among individuals who seem dedicated to EAA, than it does for wider public awareness.
 
