@@ -48,17 +48,13 @@ Some considerations for and against forming a specific EAA subgroup of a local E
 
 Although I haven’t necessarily listed all of the sources for the ideas included in these files, the development in my views has been shaped mostly by:
 
-\    The experience of running the group and reflection on what we have/haven’t achieved.
+* The experience of running the group and reflection on what we have/haven’t achieved.
+* Conversations with others engaged in movement building, especially David Nash.
+* Resources put out by CEA, especially the models listed [here](https://www.centreforeffectivealtruism.org/models-of-community-building/).
+* Conversations and resources specific to EAA, especially from [Sentience Institute](https://www.sentienceinstitute.org/) and [Animal Charity Evaluators](https://animalcharityevaluators.org/).
+* Various other EA resources, such as those posted on the EA Forum.
 
-\    Conversations with others engaged in movement building, especially David Nash.
-
-\    Resources put out by CEA, especially the models listed here.
-
-\    Conversations and resources specific to EAA, especially from Sentience Institute and Animal Charity Evaluators.
-
-\    Various other EA resources, such as those posted on the EA Forum.
-
-Impact
+## Impact
 
 The evidence of impact for several of the metrics used here comes from a survey conducted earlier in January 2019 with some of the more engaged members of the EAAL community. Several questions asked about how respondents’ views, actions, and careers had changed since January 2017, when I started organising EAAL. This survey was sent directly to those who I thought EAAL might have affected significantly and who I thought were unlikely to feel irritated about filling in a 5 to 10 minute survey. It therefore does not represent the average attendee at an EAAL event or the entirety of EAAL’s impact. 28 people responded.
 
