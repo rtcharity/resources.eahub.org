@@ -8,6 +8,7 @@ description: >-
 author: Michael Plant
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/XWSTBBH8gSjiaNiy7/cause-profile-mental-health
+block: true
 license:
   name: Creative Commons Attribution-ShareAlike 3.0
   url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
