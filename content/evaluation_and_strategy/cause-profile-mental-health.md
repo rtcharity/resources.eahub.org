@@ -251,59 +251,59 @@ Whilst mental health has so far not been considered one of the world’s most ur
 
 **Endnotes**
 
-\[0] I am very grateful to Max Dalton, Alex Lintz, Siebe Rozendaal, Justus Arnd, Andrew Fisher and Paul Davies for reading and offering comments on this draft.
+[0]: I am very grateful to Max Dalton, Alex Lintz, Siebe Rozendaal, Justus Arnd, Andrew Fisher and Paul Davies for reading and offering comments on this draft.
 
-\[1] Theo Vos et al., “Global, Regional, and National Incidence, Prevalence, and Years Lived with Disability for 301 Acute and Chronic Diseases and Injuries in 188 Countries, 1990–2013: A Systematic Analysis for the Global Burden of Disease Study 2013,” _The Lancet_ 386, no. 9995 (2015): 743–800, <https://doi.org/10.1016/S0140-6736(15)60692-4>. Depression and anxiety are the ‘common mental health disorders’; I’ve left out others such as schizophrenia, anorexia, bipolar disorder, etc.
+<a name="fn1" href="javascript:history.back()">[1]</a>: Theo Vos et al., “Global, Regional, and National Incidence, Prevalence, and Years Lived with Disability for 301 Acute and Chronic Diseases and Injuries in 188 Countries, 1990–2013: A Systematic Analysis for the Global Burden of Disease Study 2013,” _The Lancet_ 386, no. 9995 (2015): 743–800, <https://doi.org/10.1016/S0140-6736(15)60692-4>. Depression and anxiety are the ‘common mental health disorders’; I’ve left out others such as schizophrenia, anorexia, bipolar disorder, etc.
 
-\[2] Vos et al.
+<a name="fn2" href="javascript:history.back()">[2]</a>: Vos et al.
 
-\[3] Ibid
+<a name="fn3" href="javascript:history.back()">[3]</a>: Ibid
 
-\[4] Brandon H. Hidaka, “Depression as a Disease of Modernity: Explanations for Increasing Prevalence,” _Journal of Affective Disorders_ 140, no. 3 (November 2012): 205–14, https://doi.org/10.1016/j.jad.2011.12.036.
+<a name="fn4" href="javascript:history.back()">[4]</a>: Brandon H. Hidaka, “Depression as a Disease of Modernity: Explanations for Increasing Prevalence,” _Journal of Affective Disorders_ 140, no. 3 (November 2012): 205–14, https://doi.org/10.1016/j.jad.2011.12.036.
 
-\[5] NHS, “Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014 - NHS Digital,” 2016, https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatric-morbidity-survey-survey-of-mental-health-and-wellbeing-england-2014#key-facts.
+<a name="fn5" href="javascript:history.back()">[5]</a>: NHS, “Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014 - NHS Digital,” 2016, https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatric-morbidity-survey-survey-of-mental-health-and-wellbeing-england-2014#key-facts.
 
-\[6] Jean M. Twenge et al., “Birth Cohort Increases in Psychopathology among Young Americans, 1938–2007: A Cross-Temporal Meta-Analysis of the MMPI,” _Clinical Psychology Review_ 30, no. 2 (March 2010): 145–54, https://doi.org/10.1016/j.cpr.2009.10.005.
+<a name="fn6" href="javascript:history.back()">[6]</a>: Jean M. Twenge et al., “Birth Cohort Increases in Psychopathology among Young Americans, 1938–2007: A Cross-Temporal Meta-Analysis of the MMPI,” _Clinical Psychology Review_ 30, no. 2 (March 2010): 145–54, https://doi.org/10.1016/j.cpr.2009.10.005.
 
-\[7] John F. Helliwell, Richard Layard, and Jeffrey Sachs, _World Happiness Report 2017, chapter 5_ (Sustainable Development Solutions Network, 2017), http://worldhappiness.report/ed/2017/.
+<a name="fn7" href="javascript:history.back()">[7]</a>: John F. Helliwell, Richard Layard, and Jeffrey Sachs, _World Happiness Report 2017, chapter 5_ (Sustainable Development Solutions Network, 2017), http://worldhappiness.report/ed/2017/.
 
-\[8] Ibid. Those interested in how life satisfaction (one of the components of what is sometimes called ‘subjective well-being’) is measured, and how reliable those measures are should see Ed Diener, Ronald Inglehart, and Louis Tay, “Theory and Validity of Life Satisfaction Scales,” _Social Indicators Research_ 112, no. 3 (July 13, 2013): 497–527, OECD, _Guidelines on Measuring Subjective Well-Being_ (OECD Publishing, 2013) and Paul Dolan and Mathew P. White, “How Can Measures of Subjective Well-Being Be Used to Inform Public Policy?,” _Perspectives on Psychological Science_ 2, no. 1 (March 21, 2007): 71–85
+<a name="fn8" href="javascript:history.back()">[8]</a>: Ibid. Those interested in how life satisfaction (one of the components of what is sometimes called ‘subjective well-being’) is measured, and how reliable those measures are should see Ed Diener, Ronald Inglehart, and Louis Tay, “Theory and Validity of Life Satisfaction Scales,” _Social Indicators Research_ 112, no. 3 (July 13, 2013): 497–527, OECD, _Guidelines on Measuring Subjective Well-Being_ (OECD Publishing, 2013) and Paul Dolan and Mathew P. White, “How Can Measures of Subjective Well-Being Be Used to Inform Public Policy?,” _Perspectives on Psychological Science_ 2, no. 1 (March 21, 2007): 71–85
 
-\[9] Dolan and White, “How Can Measures of Subjective Well-Being Be Used to Inform Public Policy?” Ed Diener, Ronald Inglehart, and Louis Tay, “Theory and Validity of Life Satisfaction Scales,” _Social Indicators Research_ 112, no. 3 (July 13, 2013): 497–527, https://doi.org/10.1007/s11205-012-0076-y. Ruut Veenhoven, “Cross-National Difference in Happiness: Cultural Measurement Bias or Effect of Culture?,” _International Journal of Wellbeing_ 2, no. 4 (December 13, 2012), https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/98.
+<a name="fn9" href="javascript:history.back()">[9]</a>: Dolan and White, “How Can Measures of Subjective Well-Being Be Used to Inform Public Policy?” Ed Diener, Ronald Inglehart, and Louis Tay, “Theory and Validity of Life Satisfaction Scales,” _Social Indicators Research_ 112, no. 3 (July 13, 2013): 497–527, https://doi.org/10.1007/s11205-012-0076-y. Ruut Veenhoven, “Cross-National Difference in Happiness: Cultural Measurement Bias or Effect of Culture?,” _International Journal of Wellbeing_ 2, no. 4 (December 13, 2012), https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/98.
 
-\[10] Ibid. See also Sarah Fleche and Richard Layard, “Do More of Those in Misery Suffer from Poverty, Unemployment or Mental Illness?,” _Kyklos_ 70, no. 1 (February 1, 2017): 27–41, https://doi.org/10.1111/kykl.12129.
+<a name="fn10" href="javascript:history.back()">[10]</a>: Ibid. See also Sarah Fleche and Richard Layard, “Do More of Those in Misery Suffer from Poverty, Unemployment or Mental Illness?,” _Kyklos_ 70, no. 1 (February 1, 2017): 27–41, https://doi.org/10.1111/kykl.12129.
 
-\[11] Another approach would be to use health metrics. This is less useful that using happiness scores for two reasons. First, that only allows us to compare health states, and we want to able to compare health states to poverty, which we can do with happiness scores. Second, health metrics (DALYs and QALYs) reflect how people who have mostly never experienced these illnesses imagine they would feel if they did so. A better alternative is to measure directly how people actually feel when they actually do experience the illness. When QALYs have been compared to happiness scores, it was found the public hugely underestimated by how much mental pain (compared with physical pain) would reduce their satisfaction with life, as discussed by Paul Dolan and Robert Metcalfe, “Valuing Health,” _Medical Decision Making_ 32, no. 4 (July 2, 2012): 578–82, https://doi.org/10.1177/0272989X11435173.
+<a name="fn11" href="javascript:history.back()">[11]</a>: Another approach would be to use health metrics. This is less useful that using happiness scores for two reasons. First, that only allows us to compare health states, and we want to able to compare health states to poverty, which we can do with happiness scores. Second, health metrics (DALYs and QALYs) reflect how people who have mostly never experienced these illnesses imagine they would feel if they did so. A better alternative is to measure directly how people actually feel when they actually do experience the illness. When QALYs have been compared to happiness scores, it was found the public hugely underestimated by how much mental pain (compared with physical pain) would reduce their satisfaction with life, as discussed by Paul Dolan and Robert Metcalfe, “Valuing Health,” _Medical Decision Making_ 32, no. 4 (July 2, 2012): 578–82, https://doi.org/10.1177/0272989X11435173.
 
-\[12] Shekhar Saxena et al., “WHO’s Assessment Instrument for Mental Health Systems: Collecting Essential Information for Policy and Service Delivery,” _Psychiatric Services_ 58, no. 6 (June 2007): 816–21, https://doi.org/10.1176/ps.2007.58.6.816.
+<a name="fn12" href="javascript:history.back()">[12]</a>: Shekhar Saxena et al., “WHO’s Assessment Instrument for Mental Health Systems: Collecting Essential Information for Policy and Service Delivery,” _Psychiatric Services_ 58, no. 6 (June 2007): 816–21, https://doi.org/10.1176/ps.2007.58.6.816.
 
-\[13] WHO, _Mental Health Atlas 2011_ (World Health Organization, 2011).
+<a name="fn13" href="javascript:history.back()">[13]</a>: WHO, _Mental Health Atlas 2011_ (World Health Organization, 2011).
 
-\[14] Victoria de Menil, “Missed Opportunities in Global Health: Identifying New Strategies to Improve Mental Health in LMICs,” 2015.
+<a name="fn14" href="javascript:history.back()">[14]</a>: Victoria de Menil, “Missed Opportunities in Global Health: Identifying New Strategies to Improve Mental Health in LMICs,” 2015.
 
-\[15] Ibid
+<a name="fn15" href="javascript:history.back()">[15]</a>: Ibid
 
-\[16] A Roth and P Fonagy, _What Works for Whom?: A Critical Review of Psychotherapy Research_, 2nd ed. (Guilford Publications, 2005).
+<a name="fn16" href="javascript:history.back()">[16]</a>: A Roth and P Fonagy, _What Works for Whom?: A Critical Review of Psychotherapy Research_, 2nd ed. (Guilford Publications, 2005).
 
-\[17] Richard Layard and David M. (David Millar) Clark, _Thrive : The Power of Evidence-Based Psychological Therapies_, n.d.
+<a name="fn17" href="javascript:history.back()">[17]</a>: Richard Layard and David M. (David Millar) Clark, _Thrive : The Power of Evidence-Based Psychological Therapies_, n.d.
 
-\[18] David M. Clark, “Realizing the Mass Public Benefit of Evidence-Based Psychological Therapies: The IAPT Program,” _Annual Review of Clinical Psychology_ 14, no. 1 (May 7, 2018): 159–83, https://doi.org/10.1146/annurev-clinpsy-050817-084833.
+<a name="fn18" href="javascript:history.back()">[18]</a>: David M. Clark, “Realizing the Mass Public Benefit of Evidence-Based Psychological Therapies: The IAPT Program,” _Annual Review of Clinical Psychology_ 14, no. 1 (May 7, 2018): 159–83, https://doi.org/10.1146/annurev-clinpsy-050817-084833.
 
-\[19] Layard and Clark, _Thrive : The Power of Evidence-Based Psychological Therapies_. P143
+<a name="fn19" href="javascript:history.back()">[19]</a>: Layard and Clark, _Thrive : The Power of Evidence-Based Psychological Therapies_. P143
 
-\[20] B Boecking, “Mechanism of Change in Cognitive Therapy for Social Phobia” (King’s College London, 2010).
+<a name="fn20" href="javascript:history.back()">[20]</a>: B Boecking, “Mechanism of Change in Cognitive Therapy for Social Phobia” (King’s College London, 2010).
 
-\[21] Nicola J Wiles et al., “Long-Term Effectiveness and Cost-Effectiveness of Cognitive Behavioural Therapy as an Adjunct to Pharmacotherapy for Treatment-Resistant Depression in Primary Care: Follow-up of the CoBalT Randomised Controlled Trial,” _The Lancet Psychiatry_ 3, no. 2 (February 1, 2016): 137–44, https://doi.org/10.1016/S2215-0366(15)00495-2.
+<a name="fn21" href="javascript:history.back()">[21]</a>: Nicola J Wiles et al., “Long-Term Effectiveness and Cost-Effectiveness of Cognitive Behavioural Therapy as an Adjunct to Pharmacotherapy for Treatment-Resistant Depression in Primary Care: Follow-up of the CoBalT Randomised Controlled Trial,” _The Lancet Psychiatry_ 3, no. 2 (February 1, 2016): 137–44, https://doi.org/10.1016/S2215-0366(15)00495-2.
 
-\[22] Layard and Clark, _Thrive : The Power of Evidence-Based Psychological Therapies_.
+<a name="fn22" href="javascript:history.back()">[22]</a>: Layard and Clark, _Thrive : The Power of Evidence-Based Psychological Therapies_.
 
-\[23] For a longer discussion of mental health and StrongMinds, see John Halstead and James Snowden, “Cause Report - Mental Health,” n.d., https://founderspledge.com/research/Cause Report - Mental Health.pdf.
+<a name="fn23" href="javascript:history.back()">[23]</a>: For a longer discussion of mental health and StrongMinds, see John Halstead and James Snowden, “Cause Report - Mental Health,” n.d., https://founderspledge.com/research/Cause Report - Mental Health.pdf.
 
-\[24] KC Cukrowicz and TE Joiner, “Computer-Based Intervention for Anxious and Depressive Symptoms in a Non-Clinical Population,” _Cognitive Therapy and Research_, 2007, http://link.springer.com/article/10.1007/s10608-006-9094-x. E Kaltenthaler et al., “Computerised Cognitive–behavioural Therapy for Depression: Systematic Review,” _The British Journal Of_, 2008, http://bjp.rcpsych.org/content/193/3/181.short.
+<a name="fn24" href="javascript:history.back()">[24]</a>: KC Cukrowicz and TE Joiner, “Computer-Based Intervention for Anxious and Depressive Symptoms in a Non-Clinical Population,” _Cognitive Therapy and Research_, 2007, http://link.springer.com/article/10.1007/s10608-006-9094-x. E Kaltenthaler et al., “Computerised Cognitive–behavioural Therapy for Depression: Systematic Review,” _The British Journal Of_, 2008, http://bjp.rcpsych.org/content/193/3/181.short.
 
-\[25] Andrea Cipriani et al., “Comparative Efficacy and Acceptability of 21 Antidepressant Drugs for the Acute Treatment of Adults with Major Depressive Disorder: A Systematic Review and Network Meta-Analysis.,” _Lancet (London, England)_ 391, no. 10128 (April 7, 2018): 1357–66, https://doi.org/10.1016/S0140-6736(17)32802-7. Irving Kirsch et al., “Initial Severity and Antidepressant Benefits: A Meta-Analysis of Data Submitted to the Food and Drug Administration,” ed. Phillipa Hay, _PLoS Medicine_ 5, no. 2 (February 26, 2008): e45, https://doi.org/10.1371/journal.pmed.0050045.
+<a name="fn25" href="javascript:history.back()">[25]</a>: Andrea Cipriani et al., “Comparative Efficacy and Acceptability of 21 Antidepressant Drugs for the Acute Treatment of Adults with Major Depressive Disorder: A Systematic Review and Network Meta-Analysis.,” _Lancet (London, England)_ 391, no. 10128 (April 7, 2018): 1357–66, https://doi.org/10.1016/S0140-6736(17)32802-7. Irving Kirsch et al., “Initial Severity and Antidepressant Benefits: A Meta-Analysis of Data Submitted to the Food and Drug Administration,” ed. Phillipa Hay, _PLoS Medicine_ 5, no. 2 (February 26, 2008): e45, https://doi.org/10.1371/journal.pmed.0050045.
 
-\[26] Keith S. Dobson et al., “Randomized Trial of Behavioral Activation, Cognitive Therapy, and Antidepressant Medication in the Prevention of Relapse and Recurrence in Major Depression.,” _Journal of Consulting and Clinical Psychology_ 76, no. 3 (June 2008): 468–77, https://doi.org/10.1037/0022-006X.76.3.468.
+<a name="fn26" href="javascript:history.back()">[26]</a>: Keith S. Dobson et al., “Randomized Trial of Behavioral Activation, Cognitive Therapy, and Antidepressant Medication in the Prevention of Relapse and Recurrence in Major Depression.,” _Journal of Consulting and Clinical Psychology_ 76, no. 3 (June 2008): 468–77, https://doi.org/10.1037/0022-006X.76.3.468.
 
 \[27] Olivia F O’Leary, Timothy G Dinan, and John F Cryan, “Faster, Better, Stronger: Towards New Antidepressant Therapeutic Strategies,” _European Journal of Pharmacology_ 753 (April 2015): 32–50, https://doi.org/10.1016/j.ejphar.2014.07.046. Marije aan het Rot et al., “Safety and Efficacy of Repeated-Dose Intravenous Ketamine for Treatment-Resistant Depression,” _Biological Psychiatry_ 67, no. 2 (January 15, 2010): 139–45, https://doi.org/10.1016/J.BIOPSYCH.2009.08.038. Rebecca Brachman, _Could a Drug Prevent Depression and PTSD? | TED Talk_, 2016, https://www.ted.com/talks/rebecca_brachman_could_a_drug_prevent_depression_and_ptsd/transcript?language=en.
 
