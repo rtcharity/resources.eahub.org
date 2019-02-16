@@ -81,36 +81,90 @@ Second, there are chemical treatments, the best known being antidepressants.<sup
 
 
 There are also some highly promising treatments for mental illnesses that rely on currently illegal recreational drugs. Ketamine may provide substantial short-term relief from depression.<sup>\[27]</sup> MDMA (‘ecstasy’) has recently been labelled a ‘breakthrough drug’ by the FDA in the USA because of its remarkable effectiveness in treating post-traumatic stress disorder.<sup>\[28]</sup> Perhaps most promising of all is the potential of psychedelics, such as LSD and psilocybin (the active ingredient in ‘magic mushrooms’) for treating mental illness. Carhart-Harris et al. (2016) gave a single dose of psilocybin to 12 people with moderate to severe treatment-resistant depression.<sup>\[29]</sup> The subjects had been depressed for a mean average of 17.8 years. After psychedelic-assisted therapy, 67% were classed as non-depressed after 1 week and 42% as non-depressed after 3 months without any further treatment. This is displayed in figure 3.
+
+
 ![Figure 3](/img/image1.png "Figure 3. Depression severity dropped substantially after psilocybin treatment and shows an effect 3 months later without further treatment.")
+
+
 [Stage-2 trials](https://clinicaltrials.gov/ct2/show/NCT03380442) started in September 2018 to test the effectiveness of psilocybin on a larger scale. In October 2018 the [FDA granted](https://compasspathways.com/compass-pathways-receives-fda-breakthrough-therapy-designation-for-psilocybin-therapy-for-treatment-resistant-depression/?fbclid=IwAR2YFiib1BBcrknbvrorFnuTeKYl-Wei7IKIAriwFKH4hHGtrG4WFkZwfcc) the 'breakthrough therapy' designation for psilocybin therapy for Treatment-resistant Depression. If psychedelics turn out to be even partially as effective as they first appear, they could still become the most-effective treatment for depression.<sup>\[30]</sup>
+
+
 Third, there are direct, or electrical, treatments, such as deep brain stimulation (DBS)<sup>\[31]</sup> and repetitive transcranial magnetic stimulation (rTMS).<sup>\[32]</sup> I am uncertain of how effective these are compared to other treatments, but note that NICE do not recommend these as a first-line treatment. Possibly, further research will improve them or demonstrate their potential.
+
+
 Of course, we shouldn’t only be thinking about treating people who are already suffering, but also about prevention. One promising (psychological) method of prevention this would be ‘positive education’: teaching resilience and life skills in schools. A series of trials in Bhutan, Peru and Mexico involving over 750,000 students found that positive education not only improved measures of child well-being, but also increased standardised academic test scores.<sup>\[33]</sup>
+
+
 Overall, there are a number of ways to tackle mental illness and it remains to be seen which will be the best.
 
 ## Mental health vs global development: comparing charity cost-effectiveness
 
 _Section summary: a mental health charity, StrongMinds, looks more cost-effective at improving lives than one of GiveWell’s top charities, GiveDirectly. This assumes we understand cost-effectiveness in terms of happiness, as measured by self-reported life satisfaction. It’s unclear if StrongMinds is better than all GiveWell’s life-improving charities (due to gaps in evidence regarding the size of negative spillover effects) or GiveWell’s life-saving charities (due to methodological issues about where on a 0-10 life satisfaction is the ‘neutral point’ equivalent to being dead)._
+
+
 Even if there are mental health interventions that work, effective altruists shouldn’t donate to organisations that combat mental illness if they can find something even better. As the global development charities recommended by [GiveWell](http://www.givewell.org/) are widely accepted as the most effective organisations to donate to at present, they are the natural point of comparison.
+
+
 I claim that, on the present evidence, a mental health charity, StrongMinds, is at least four times more cost-effective than at least one of GiveWell’s life-improving charities, GiveDirectly, which provides unconditional cash transfers to poor Kenyan farmers. I am not able to say whether it is better than GiveWell’s other life-improving charities - which all, ultimately, aim to alleviate poverty - or GiveWell’s life-saving charities. I will compare StrongMinds first to the life-improving, then to the life-saving, GiveWell recommendations, setting out the key uncertainty in each case.
+
+
 **StrongMinds vs GiveWell's recommended life-improving charities**
+
+
 To evaluate StrongMinds and GiveDirectly, we need to convert their impact into a common unit. I’ll use self-reported life satisfaction scores, as mentioned earlier, to make this comparison. In effect, the question becomes: which charity is more cost-effective at increasing life satisfaction? A longer treatment of how and why life satisfaction scores should be used to measure happiness can be found [here](https://forum.effectivealtruism.org/posts/FvbTKrEQWXwN5A6Tb/a-happiness-manifesto-why-and-how-effective-altruism-should).
+
+
 A study of GiveDirectly indicates cash transfers increase life satisfaction by about 0.3 life satisfaction points - hereafter ‘LSPs’ - on a 10 point scale.<sup>\[34]</sup> To explain, this effect would be equivalent to increasing my life satisfaction from 6 to 6.3 out of 10. This was measured after 4.3 months on average, but let's assume this effect lasts a whole year. I assume it is the same for everyone in the recipient household, and there are 5 people per household on average. Hence the annual LSP impact is 0.3 (LS/person) x 1 (year) x 5 (persons) = 1.5 LSPs. The average cash transfer is $750, implying a cost-effectiveness of 2 LSPs/$1000.
-However, this may well _overstate_ the effectiveness of cash transfers. It accounts only for the life satisfaction increase of _recipients_. Research into GiveDirectly has suggested that their cash transfers, while making some people wealthier (and so more satisfied with life) have _negative spillovers_: it makes non-recipients less satisfied with their lives. As Haushofer, Reisinger and Shapiro (2015, p1) state:
-"The decrease in life satisfaction induced by transfers to neighbors more than offsets the direct positive effect of transfers, and is largest for individuals who did not receive a direct transfer themselves."<sup>\[35]</sup>
+
+
+However, this may well _overstate_ the effectiveness of cash transfers. It accounts only for the life satisfaction increase of _recipients_. Research into GiveDirectly has suggested that their cash transfers, while making some people wealthier (and so more satisfied with life) have _negative spillovers_: it makes non-recipients less satisfied with their lives. As Haushofer, Reisinger and Shapiro (2015, p1) state<sup>\[35]</sup>:
+
+>
+> The decrease in life satisfaction induced by transfers to neighbors more than offsets the direct positive effect of transfers, and is largest for individuals who did not receive a direct transfer themselves.
+
+
 While this result may surprise the reader, as Clark (2017) notes ‘there is considerable evidence from a variety of sources to suggest that well-being is a function of relative income’.<sup>\[36]</sup> In other words, your absolute level of wealth matters much less than whether you are richer or poorer than your peers. Hence the finding about GiveDirectly is consistent with the other research on happiness. Indeed, Clark et al. (2018), using developed country data, finds doubling one person’s income causes a reduction in life-satisfaction in that individual’s peer group that is nearly identical in size to the life satisfaction gain to the individual themself <sup>\[37]</sup>. What is novel about the 2015 GiveDirectly result is that it finds this relative effect at such a low level of absolute wealth.
+
+
 We might hope these negative spillovers would dissipate eventually and, over the long run, cash transfers would be effective in increasing life satisfaction. A 2018 study on the long-term (3 year) effects of GiveDirectly by Haushofer and Shapiro (2018, p. 22) finds recipients, compared to non-recipients in distant villages, have 40% more assets but that recipients do no better on a psychological well-being index.<sup>\[38]</sup> Hence, the effect seems to be in the short-term.
-Confusingly however, GiveWell claim a more recent ‘general equilbrium’ (GE) study of GiveDirectly, to which GiveWell have been given private access to a draft, shows there is:
-"No evidence of across village spillover effects on household asset ownership or subjective well-being. They find a positive spillover effect on subjective well-being of ineligible households within treatment villages".<sup>\[39]</sup>
+
+
+Confusingly however, GiveWell claim a more recent ‘general equilbrium’ (GE) study of GiveDirectly, to which GiveWell have been given private access to a draft, shows there is<sup>\[39]</sup>:
+
+>
+> No evidence of across village spillover effects on household asset ownership or subjective well-being. They find a positive spillover effect on subjective well-being of ineligible households within treatment villages.
+
+
 I note this (more recent) finding is inconsistent both with the 2015 paper, and the more general finding of relative income noted by Clark (et al.) above. Given this inconsistency, and without access to the draft, I’m unclear how to update my views accordingly. Let’s return to this concern in a moment.
+
+
 There isn’t research on StrongMinds which has directly measured its impact in terms of life satisfaction, so I estimate this using other available information, explained this endnote.<sup>\[41]</sup> I infer that the treatment effect is an increase 0.8 LSPs per person (to 1 d.p.; modelled either as 0.2 LSPs per person per year for 4 years, or 0.2 LSP in the first year with a 75% annual retention thereafter). StrongMinds say their per-participant costs are $102 (StrongMinds Q1.2018 report). That suggests the impact is 8 LSPs/$1000 (to 1 d.p.).
+
+
 The cost-effectiveness evaluation between StrongMinds and GiveDirectly is not sensitive to inclusion of the negative spillovers as, even if we assume GiveDirectly has no negative spillover effects, then StrongMinds would still seem to be around four times more cost-effective (2 vs 8 LSPs/$1,000). Note that, if we were take the view that its negative spillovers were just as big as its positive impacts, then GiveDirectly would not increase aggregate life satisfaction _at all_ and _anything_ with a positive impact would be more cost-effective.
+
+
 In contrast, the analysis of whether StrongMinds is cost-effective than GiveWell’s other life-improving charities - namely SCI, Deworm the World, SightSavers and END - is sensitive to how strong we think the negative spillover effect of increasing wealth is. To see this, we must first recognise these other charities could have negative spillovers: they all eventually increase the wealth of their beneficiaries. While those organisations provide deworming interventions, the vast majority of the benefit of deworming, according to GiveWell, comes not from reducing the physical discomfort the worms cause, but from the fact dewormed children earn more in later life.<sup>\[42]</sup> If it’s generally true that making some wealthier (and so more satisfied), reduces the satisfaction by others to at least extent, then this concern will apply there too. Second, note that, according to GiveWell, all these other charities are at least four times more cost-effective than GiveDirectly: Deworm the World is rated as 18.3 times better (the highest), and END 5.5 (the lowest). If StrongMinds is only 4 times more cost-effective on GiveDirectly then, assuming there are no negative spillovers, all these other charities would be better (assuming GiveWell’s analysis is otherwise correct). If, on the other hand, these charities have negative spillovers large enough to entirely cancel out their positive impacts, then StrongMinds will be better. Thus, the size of negative spillovers is highly important, which is why it is frustrating the evidence is inconsistent (at least, it is once we account for the latest, unpublished draft of GiveDirectly seen by GiveWell).
+
+
 I am not able to offer a resolution to this issue here. What I think follows from this analysis is (a) more work is needed on understanding the size of negative spillover effects from wealth increases, (b) the possibility mental health intervention could be more cost-effective than the best poverty-alleviation interventions should be taken seriously and (c) given how little scrutiny mental health has received with effective altruism, efforts to find even more effective mental health interventions are valuable.
+
+
 **StrongMinds vs GiveWell's recommended life-saving charities**
+
+
 The other important comparison to make is between the life-improving mental health intervention, StrongMinds, and GiveWell’s recommended life-saving interventions, such as the Against Malaria Foundation (AMF). This is analysis is not very straightforward. First, there are different philosophical views about the badness of an individual’s death, as I note elsewhere.<sup>\[43]</sup> Second, a thorough analysis would also need to take into account the ‘social value’ of lives, the value a given life has on everyone else. To assess this we’d need to account for the grief to friends and family saving a life prevents, as well as some complicated and potentially disturbing factors that are not usually considered, such as the meat eater problem<sup>\[44]</sup> and whether or not the Earth is under- or overpopulated.<sup>\[45]</sup>
+
+
 I will put the complexities of the social value of lives to one side, and use the (simple) _life comparative_ account of the badness of death, on which the value of saving a life is the total well-being the person would have had if they’d lived.
+
+
 How cost-effective is AMF? According to GiveWell’s estimates, AMF saves a life (i.e. prevents a premature death) for around $3,500 <sup>\[46]</sup>. Suppose that grants 60 counterfactual years of life. Let’s again use life satisfaction scores as our metric of well-being. Average life satisfaction in Kenya, where AMF operates, is 4.4 out of 10.<sup>\[47]</sup> Now we run into a problem. Life satisfaction surveys don’t ask people to specify what point on the 0 to 10 scale they would consider equivalent to not being alive. 0 is labelled ‘extremely dissatisfied’ and 10 ‘extremely satisfied’. Intuitively, the mid-point in the scale, 5, would be the neutral point. Yet, if that’s true, then saving lives through AMF would, in fact, be bad: 4.4 (out of 10) is below the neutral point, so AMF are prolonging lives not worth living.
+
+
 Let’s suppose instead the neutral point is 4. If this is so, saving the child is worth 0.4 life satisfaction points a year for 60 years, thus 24 LSPs (0.4 x 60). Given the $3,500 cost, we can calculate cost-effectiveness as 6.9 LSPs/$1,000. Earlier, I estimated StrongMinds’ cost-effectiveness was 8 LSPs/$1000.<sup>\[48]</sup> If these estimates are correct, then StrongMinds is still more cost-effective, albeit only slightly, than AMF. Of course, we should be cautious about taking these estimates too literally.
+
+
 The problem here is that these cost-effectiveness numbers are highly dependent on a (so far) arbitrary decision about where the neutral point goes. If someone instead assumes the neutral point were 3 - which, intuitively, seems too low - then AMF’s cost-effectiveness would leap to 24.4 LSPs/$1,000 and it would be more cost-effective than StrongMinds, at least on this simplified picture. I note this approach to comparing life-improving to life-comparing interventions (i.e. assessing how much additional life satisfaction is generated) is different GiveWell’s approach (i.e. asking their staff to judge how many years of doubled consumption are morally equivalent to saving a child’s life).
 More work is therefore urgently needed to determine where the neutral point is. Two potential methods for doing this would be (1) asking people to state where they think this neutral point is; or (2) using mood reports and finding out at what score on the life satisfaction scale people report net neutral mood.
 
