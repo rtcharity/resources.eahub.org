@@ -22,7 +22,7 @@ _Disclaimer: I am an employee of Sentience Institute but this post represents en
 
 ## Summary
 
-Effective Animal Altruism London (EAAL) is one part of is one part of the Effective Altruism (EA) community in London. EAAL works mostly independently from the movement building charity Effective Altruism London.
+[Effective Animal Altruism London](https://www.ealondon.com/effective-animal-altruism-london/) (EAAL) is one part of is one part of the Effective Altruism (EA) community in London. EAAL works mostly independently from the movement building charity Effective Altruism London.
 
 The goals of this post of this post are:
 
@@ -58,7 +58,7 @@ Although I haven’t necessarily listed all of the sources for the ideas include
 
 The evidence of impact for several of the metrics used here comes from a survey conducted earlier in January 2019 with some of the more engaged members of the EAAL community. Several questions asked about how respondents’ views, actions, and careers had changed since January 2017, when I started organising EAAL. This survey was sent directly to those who I thought EAAL might have affected significantly and who I thought were unlikely to feel irritated about filling in a 5 to 10 minute survey. It therefore does not represent the average attendee at an EAAL event or the entirety of EAAL’s impact. 28 people responded.
 
-After each measure of potential impact I also asked a variation of this question: “If you answered ‘Yes’ to the above question, what proportion of this change/these changes do you suspect is/are directly or indirectly due to the events, community, and/or support that you have been introduced to via Effective Animal Altruism London? (i.e. what proportion of this change would not have happened if EAAL did not exist at all).” I modified the results for each measure of impact by the given proportion.
+After each measure of potential impact I also asked a variation of this question: _“If you answered ‘Yes’ to the above question, what proportion of this change/these changes do you suspect is/are directly or indirectly due to the events, community, and/or support that you have been introduced to via Effective Animal Altruism London? (i.e. what proportion of this change would not have happened if EAAL did not exist at all).”_ I modified the results for each measure of impact by the given proportion.
 
 Despite the inclusion of these questions, there are several factors that may mean that the 'true' impact of EAAL on reducing animal suffering through these individuals is lower than the survey data implies:
 
