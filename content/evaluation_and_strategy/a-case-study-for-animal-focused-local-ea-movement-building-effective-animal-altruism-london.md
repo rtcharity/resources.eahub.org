@@ -121,13 +121,13 @@ Of course, when events involve external speakers or organisers, there will be ti
 
 I estimate I have spent the equivalent of £7800 on EAAL. \[9] Hannah Masson-Smyth notes that she has spent the equivalent of £1200 on EAAL. \[10] David Nash estimates that he has spent the equivalent of £1000 on EAAL. This brings a combined estimated total of £10,000 spent on EAAL over two years. Note that these estimates are quite uncertain and the counterfactuals are quite unclear. Note that some other individuals have made smaller contributions, but I have not included estimates for their costs here, \[11] nor have I included potential costs for attendees or guest speakers.
 
-Extremely rough cost-effectiveness estimates
+## Extremely rough cost-effectiveness estimates
 
 Note that all of the cost-effectiveness estimates below are very uncertain, and there are likely long-term or indirect implications of our work that have not been factored in that could greatly alter the conclusions. \[12] These estimates should be seen as facilitating extremely rough ballpark comparisons for relatively short-term outcomes, rather being precise measures of actual impact.
 
 Given an estimated cost of £10,000 on EAAL, and an estimated 1.56 IASPCs caused through EAAL, the cost per IASPC is £6410.
 
-By comparison, in December 2016, 80,000 Hours estimated that each plan change worked out as having cost £470. This suggests that the cost per IASPC for EAAL is over an order of magnitude larger than it was for 80,000 Hours at that point.
+By comparison, in December 2016, 80,000 Hours [estimated](https://80000hours.org/2016/12/has-80000-hours-justified-its-costs/) that each plan change worked out as having cost £470. This suggests that the cost per IASPC for EAAL is over an order of magnitude larger than it was for 80,000 Hours at that point.
 
 As noted above, I don’t think that IASPCs capture the total impact of EAAL. However, I would be surprised if the total impact of EAAL was more than 3 times as valuable as its impact through IASPCs. The survey is unlikely to have captured all of EAAL’s impact, but I would be surprised if the total impact of EAAL was more than 3 times as valuable as its impact recorded in the survey. It therefore seems that EAAL is likely to fall short of the cost-effectiveness of 80,000 Hours, although possibly by less than an order of magnitude. \[13]
 
