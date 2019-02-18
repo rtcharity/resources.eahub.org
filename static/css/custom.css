@@ -309,6 +309,10 @@ body {
   cursor: pointer;
 }
 
+#burger-btn:hover {
+  background-color: #d6d2d2;
+}
+
 .landing_main {
   display: flex;
   justify-content: space-between;
