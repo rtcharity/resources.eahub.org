@@ -84,7 +84,11 @@ Notably these clusters correspond fairly intuitively with differences that we pr
 
 One more sensitive finding was the relationship between gender and membership of different EA groups. Across virtually every category of group membership, a lower percentage of women were members relative to the sample as a whole. The one exception is The Life You Can Save Pledge, which appears to have a slightly higher percentage of women.
 
+![Gender table](/img/gender.png)
+
 A different way to look at this is the % of women and men, in our sample, who were members of the different groups. Note that the number of respondents for the categories “Other” and “Prefer not to answer” were not included in the analysis below as the very small number of responses would limit statistical analysis.
+
+![Group differences table](/img/group-differences.png)
 
 Of course, it is impossible to infer much about the cause of these differences from these results, nevertheless, it seems worth noting as potentially relevant to ongoing discussions about demographic differences within EA.
 
