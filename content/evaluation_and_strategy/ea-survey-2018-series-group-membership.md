@@ -54,7 +54,11 @@ Around 32.4% of EAs in our sample had taken the Giving What We Can Pledge. We wi
 
 Most (>83%) respondents who were members of the EA Forum, were also members of the EA Facebook group. This means we cannot, strictly speaking, think of group membership within our sample in terms of a larger, broader group of EA Facebook members, containing a more narrow, population of EA Forum members, though there is broad overlap. In contrast, just over 61% of Forum members are members of local groups. Among local group members, 31% (320 people in total) are also members of the EA Forum (note that this is substantially higher than among those who are not members of local groups (12.8%)).
 
+![Venn diagram of EA Facebook & EA Forum membership](/img/edited-venn.png)
+
 EA Facebook and EA Local Groups were the two groups with the largest membership within our sample and while there was substantial overlap, many EAs who were members of EA Facebook were not members of a local group and vice versa.
+
+![Venn diagram of EA Facebook & Local Group membership](/img/fb-local.png)
 
 Despite there being similar numbers of EA Forum and LessWrong members in our sample, and despite the two forums sharing some similar areas of interest, membership of LessWrong and the EA Forum was surprisingly non-overlapping. Only about 31% of Forum members were also members of LessWrong and only 30% of LW members were also members of the EA Forum, with only 165 people in our whole sample being members of both. The majority of respondents (1694, 65%) were members of neither.
 
