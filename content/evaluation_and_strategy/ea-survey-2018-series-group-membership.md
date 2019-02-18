@@ -24,17 +24,19 @@ In this post we explore which EA groups EA Survey 2018 respondents were members 
 
 **EA Facebook**
 
-The main EA Facebook group had the largest membership among our respondents, with slightly more than half being a member. This is unsurprising, given that the EA Facebook group has a very large, broad membership (>16,000, though only around 56.9% of these are active, based on data from the admins).
+The main [EA Facebook](https://www.facebook.com/EffectiveAltruism/) group had the largest membership among our respondents, with slightly more than half being a member. This is unsurprising, given that the EA Facebook group has a very large, broad membership (>16,000, though only around 56.9% of these are active, based on data from the admins).
 
 **EA Forum and LessWrong**
 
-By contrast, EA Forum members were a much smaller group, comprised of just over 500 respondents or 20% of the total sample. This finding makes sense given that the Forum caters to relatively more in depth, niche and advanced content and discussion. As noted in our previous post, the EA Forum is estimated to have only around 500 active members. A fairly similar number of EAs in our sample were members of LessWrong.
+By contrast, [EA Forum](https://forum.effectivealtruism.org/) members were a much smaller group, comprised of just over 500 respondents or 20% of the total sample. This finding makes sense given that the Forum caters to relatively more in depth, niche and advanced content and discussion. As noted in our [previous post](https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections), the EA Forum is estimated to have only around 500 active members. A fairly similar number of EAs in our sample were members of LessWrong.
 
 **Local Groups**
 
 One surprise from this year’s data was the high number of EAs who reported being members of a Local EA group. This was 1018 individuals, the second largest grouping behind the EA Facebook group, and just short of 40% of EAs in our sample. This is a significant increase compared to reported local group membership in previous years of the EA Survey (\~25% in 2015, \~30% in 2017), although comparisons across different iterations of the EA Survey should be treated with extreme caution, given possible differences in sampling (for example, we might have systematically under-sampled local group members in earlier years or have disproportionately heavily sampled them in later years).
 
 That said, it strikes us as plausible that there would be a real increase in the percentage of EAs being members of local groups, given that there has been a large increase in the total number of EA local groups in existence according to both Local Group Survey 2017 data and the central database of local groups (which both find a doubling in numbers of local groups since 2015).
+
+![Graph "% of EAs Who Are Members of a Local Group"](/img/over-time.png)
 
 N.B. no EA Survey was run in 2016.
 
