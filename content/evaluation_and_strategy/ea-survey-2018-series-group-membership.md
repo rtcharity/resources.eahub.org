@@ -20,6 +20,8 @@ In this post we explore which EA groups EA Survey 2018 respondents were members 
 
 ## Total membership of different groups
 
+![Table "Total membership of different groups"](/img/total-membership.png)
+
 **EA Facebook**
 
 The main EA Facebook group had the largest membership among our respondents, with slightly more than half being a member. This is unsurprising, given that the EA Facebook group has a very large, broad membership (>16,000, though only around 56.9% of these are active, based on data from the admins).
