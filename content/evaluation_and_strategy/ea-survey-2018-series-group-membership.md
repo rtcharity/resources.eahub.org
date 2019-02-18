@@ -112,13 +112,13 @@ _The annual EA Survey is a project of Rethink Charity with analysis and commenta
 
 Articles in the 2018 EA Survey Series
 
-I - Community Demographics & Characteristics
+[I - Community Demographics & Characteristics](http://effective-altruism.com/ea/1th/ea_survey_2018_series_community_demographics/)
 
-II - Distribution & Analysis Methodology
+[II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
 
-III - How do people get involved in EA?
+[III - How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea)
 
-IV - Subscribers and Identifiers
+[IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
 
 V - Donation Data
 
