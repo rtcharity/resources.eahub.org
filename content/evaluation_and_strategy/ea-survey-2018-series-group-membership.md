@@ -40,6 +40,8 @@ That said, it strikes us as plausible that there would be a real increase in the
 
 N.B. no EA Survey was run in 2016.
 
+![Graph showing the number of EA groups over time](/img/existence.png)
+
 From Local Group Survey 2017 data.
 
 This change is striking given that i) the EA community as a whole has often been perceived as a largely online community, ii) it has often been suspected that the EA Survey likely oversamples the online community and would undersample those who may be involved in EA offline, but are not active online. Each of these may still be true, and yet even if so, it seems there were still many more (around twice as many) EAs in our sample who reported being a member of a local group than the EA Forum and similar numbers were members of local groups than were members of the EA Facebook group.
