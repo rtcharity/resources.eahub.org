@@ -389,6 +389,7 @@ body {
 .navbar .home {
   font-size: 18px;
   margin-top: 15px;
+  margin-left: -5px;
 }
 .navbar .container {
   z-index: 20;
