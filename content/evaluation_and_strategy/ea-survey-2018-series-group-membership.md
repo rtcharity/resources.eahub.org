@@ -96,7 +96,7 @@ Of course, it is impossible to infer much about the cause of these differences f
 
 Overall, these analyses suggest that a fairly large proportion of EAs, in our sample at least, are not members of many EA groups. While moderately large portions of our sample were involved either in the EA Facebook group (\~50%), a local group (\~40%) or the EA Forum (~20%), relatively small numbers of individuals were involved in a wide variety of different groups. This seems to accord with a common view that, among EAs, a relatively small subset are highly involved, at least in terms of group membership alongside others with differing levels of involvement.
 
-We will be exploring possible predictors of individuals being more likely to be highly involved in EA groups in a follow-up post.
+We will be exploring possible predictors of individuals being more likely to be highly involved in EA groups in a [follow-up post](https://forum.effectivealtruism.org/posts/S4WmbHJr32WcmwFD7/ea-survey-series-2018-where-people-first-hear-about-ea-and).
 
 \[1] Note that the percentage female for GWWC pledges as a whole (which includes members who are not necessarily effective altruists) is estimated to be roughly 30%- higher than within the effective altruist sample, though far from gender parity.
 
@@ -106,7 +106,7 @@ This post was written and with analysis by David Moss, Neil Dullaghan and Kim Cu
 
 Thanks to Julia Wise for comment and to Peter Hurford for review and editing.
 
-The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities.
+_The annual EA Survey is a project of Rethink Charity with analysis and commentary from researchers at Rethink Priorities._
 
 **Supporting Documents**
 
