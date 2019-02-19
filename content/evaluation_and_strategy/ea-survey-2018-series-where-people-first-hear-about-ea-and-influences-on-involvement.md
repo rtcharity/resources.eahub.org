@@ -113,26 +113,18 @@ The annual EA Survey is a project of Rethink Charity with analysis and commentar
 
 **Supporting Documents**
 
-Articles in the 2018 EA Survey Series
+Articles in the 2018 EA Survey Series:
 
-I - Community Demographics & Characteristics
+* [I - Community Demographics & Characteristics](http://effective-altruism.com/ea/1th/ea_survey_2018_series_community_demographics/)
+* [II - Distribution & Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology)
+* [III - How do people get involved in EA?](https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea)
+* [IV - Subscribers and Identifiers](https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers)
+* [V - Donation Data](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data)
+* [VI - Cause Selection](https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections)
+* [VII- Group Membership](https://forum.effectivealtruism.org/posts/kqTTyz7BCt6ExrfF6/ea-survey-2018-series-group-membership)
 
-II - Distribution & Analysis Methodology
+Prior EA Surveys conducted by Rethink Charity:
 
-III - How do people get involved in EA?
-
-IV - Subscribers and Identifiers
-
-V - Donation Data
-
-VI - Cause Selection
-
-VII- Group Membership
-
-Prior EA Surveys conducted by Rethink Charity
-
-The 2017 Survey of Effective Altruists
-
-The 2015 Survey of Effective Altruists: Results and Analysis
-
-The 2014 Survey of Effective Altruists: Results and Analysis
+* [The 2017 Survey of Effective Altruists](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology)
+* [The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/EqgF5amS96TahanzK/the-2015-survey-of-effective-altruists-results-and-analysis)
+* [The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/z5swaf6342AbG93Mp/the-2014-survey-of-effective-altruists-results-and-analysis)
