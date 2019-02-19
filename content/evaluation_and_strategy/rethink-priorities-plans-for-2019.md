@@ -60,7 +60,7 @@ Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she con
 
 **Saulius Šimčikas - Research Analyst**
 
-Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at Animal Charity Evaluators, organized Effective Altruism events in the UK and Lithuania, and worked as a programmer.
+Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at [Animal Charity Evaluators](https://animalcharityevaluators.org/), organized Effective Altruism events in the UK and Lithuania, and worked as a programmer.
 
 **Neil Dullaghan - Junior Research Analyst**
 
