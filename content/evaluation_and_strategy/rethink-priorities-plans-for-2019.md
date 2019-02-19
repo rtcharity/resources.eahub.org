@@ -26,55 +26,55 @@ In 2018, our priority was our own capacity building and learning about how to do
 
 We also spent some time analyzing movement building strategy in cooperation with other projects of Rethink Charity. We ran the EA Survey and published some of our findings across five posts (e.g., [see this one on donation data](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data)) and expect to finish publishing one more post by the end of the year.
 
-Our 2018 research was mostly (though not exclusively) focused on farmed and wild animal welfare. We commissioned [a site visit of farming practices in rural Zambia](https://forum.effectivealtruism.org/posts/PkSncEsBgHkz5iD5E/what-is-animal-farming-in-rural-zambia-like-a-site-visit), we re-analyzed veg outreach studies, and we collaborated with Animal Charity Evaluators on a detailed report on farmed fish welfare (publication forthcoming).
+Our 2018 research was mostly (though not exclusively) focused on farmed and wild animal welfare. We commissioned [a site visit of farming practices in rural Zambia](https://forum.effectivealtruism.org/posts/PkSncEsBgHkz5iD5E/what-is-animal-farming-in-rural-zambia-like-a-site-visit), we [re-analyzed veg outreach studies](https://forum.effectivealtruism.org/posts/9ShnvD6Zprhj77zD8/animal-equality-showed-that-advocating-for-diet-change-works), and we collaborated with Animal Charity Evaluators on a detailed report on farmed fish welfare (publication forthcoming).
 
-Finally, we spent a significant amount of time doing thorough research into the invertebrate sentience (following Muehlhauser, 2017, Section 3.2), summarizing the academic literature across 15+ kinds of animals and 40+ potentially conscious indicating features, with publications expected in early 2019.
+Finally, we spent a significant amount of time doing thorough research into the invertebrate sentience (following [Muehlhauser, 2017](https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood), Section 3.2), summarizing the academic literature across 15+ kinds of animals and 40+ potentially conscious indicating features, with publications expected in early 2019.
 
-2019 Team
+## 2019 Team
 
 At the start of the year and of the project, the staff of Rethink Priorities consisted only of Peter and Marcus. We made an internal hire with David Moss and then decided to start a hiring round to expand the team to include more researchers. Our current team is:
 
-Marcus A. Davis - Lead Researcher
+**Marcus A. Davis - Lead Researcher**
 
-Marcus works on Rethink Priorities strategy and oversees research. He previously co-founded Charity Science Health, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science Health team, he ran Effective Altruism Chicago and worked with Rethink Charity coordinating outreach to local EA groups around the globe.
+Marcus works on Rethink Priorities strategy and oversees research. He previously co-founded [Charity Science Health](https://www.charitysciencehealth.com/), where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science Health team, he ran Effective Altruism Chicago and worked with Rethink Charity coordinating outreach to local EA groups around the globe.
 
-Peter Hurford - Lead Researcher
+**Peter Hurford - Lead Researcher**
 
 Peter works on Rethink Priorities strategy and oversees research. He also is a Data Scientist at DataRobot. He co-founded Rethink Charity, and is on the board of Charity Science Health and Animal Charity Evaluators. He has reviewed and produced research on cause prioritization and effective altruism since 2013.
 
-David Moss - Senior Research Analyst
+**David Moss - Senior Research Analyst**
 
 David Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He also works as a Research Analyst at Charity Entrepreneurship. David studied Philosophy at Cambridge and is an academic researcher of moral psychology.
 
-Kim Cuddington - Research Analyst
+**Kim Cuddington - Research Analyst**
 
 Kim Cuddington is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology at the University of Waterloo.
 
-Derek Foster - Research Analyst
+**Derek Foster - Research Analyst**
 
 Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the Global Happiness Policy Report and various other projects related to global health, education, and subjective well-being.
 
-Luisa Rodriguez - Research Analyst
+**Luisa Rodriguez - Research Analyst**
 
 Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at ImpactMatters, Innovations for Poverty Action, and GiveWell.
 
-Saulius Šimčikas - Research Analyst
+**Saulius Šimčikas - Research Analyst**
 
 Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at Animal Charity Evaluators, organized Effective Altruism events in the UK and Lithuania, and worked as a programmer.
 
-Neil Dullaghan - Junior Research Analyst
+**Neil Dullaghan - Junior Research Analyst**
 
 Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
 
-Jason Schukraft - Junior Research Analyst
+**Jason Schukraft - Junior Research Analyst**
 
 Jason is a Junior Research Analyst at Rethink Priorities. Before joining the RP team, Jason earned his doctorate in philosophy from the University of Texas at Austin. Jason specializes in questions at the intersection of epistemology and applied ethics.
 
-Daniela R. Waldhorn - Junior Research Analyst
+**Daniela R. Waldhorn - Junior Research Analyst**
 
 Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for Animal Ethics and for Animal Equality.
 
-2019 Research Agenda
+## 2019 Research Agenda
 
 With our team, we are well positioned for 2019 to produce substantial amount of high-quality research on a number of topics.
 
