@@ -112,8 +112,8 @@ While we are a project of [Rethink Charity](https://rtcharity.org/), we maintain
 
 Furthermore, we’re able to accept funding earmarked to a particular project area (for example, if you only want to fund work into wild animal welfare). We’ve done careful accounting to create budgets for each project and to minimize risk of fungibility between projects. However, unrestricted funding would be most valuable to us to allow us to pursue our highest priority research agendas or change our research plans if we find more important projects.
 
-Conclusion
+## Conclusion
 
 We’re excited by our new team and our ambitious research agenda for 2019. To fund this, we’re looking to raise $294K and we hope that you will consider supporting us. Cause prioritization research is valuable and widely neglected. Rethink Priorities is uniquely-placed to make a tractable impact on difficult problems.
 
-If you’d like to fund important research into farmed animal welfare, wild animal welfare, EA movement building, mental health, reducing catastrophic risks, or something else, please contact Marcus A. Davis (marcus@rtcharity.org).
+If you’d like to fund important research into farmed animal welfare, wild animal welfare, EA movement building, mental health, reducing catastrophic risks, or something else, please contact Marcus A. Davis ([marcus@rtcharity.org](marcus@rtcharity.org)).
