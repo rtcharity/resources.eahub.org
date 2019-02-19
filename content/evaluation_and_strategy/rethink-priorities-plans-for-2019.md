@@ -40,15 +40,15 @@ Marcus works on Rethink Priorities strategy and oversees research. He previously
 
 **Peter Hurford - Lead Researcher**
 
-Peter works on Rethink Priorities strategy and oversees research. He also is a Data Scientist at DataRobot. He co-founded Rethink Charity, and is on the board of Charity Science Health and Animal Charity Evaluators. He has reviewed and produced research on cause prioritization and effective altruism since 2013.
+Peter works on Rethink Priorities strategy and oversees research. He also is a Data Scientist at DataRobot. He co-founded Rethink Charity, and is on the board of Charity Science Health and [Animal Charity Evaluators](http://animalcharityevaluators.org/). He has reviewed and produced research on cause prioritization and effective altruism since 2013.
 
 **David Moss - Senior Research Analyst**
 
-David Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He also works as a Research Analyst at Charity Entrepreneurship. David studied Philosophy at Cambridge and is an academic researcher of moral psychology.
+David Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He also works as a Research Analyst at [Charity Entrepreneurship](http://www.charityentrepreneurship.com/). David studied Philosophy at Cambridge and is an academic researcher of moral psychology.
 
 **Kim Cuddington - Research Analyst**
 
-Kim Cuddington is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology at the University of Waterloo.
+Kim Cuddington is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology at [the University of Waterloo](https://uwaterloo.ca/biology/people-profiles/kim-md-cuddington).
 
 **Derek Foster - Research Analyst**
 
