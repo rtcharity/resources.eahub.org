@@ -52,11 +52,11 @@ Kim Cuddington is a Research Analyst at Rethink Priorities. She has a PhD in eco
 
 **Derek Foster - Research Analyst**
 
-Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the Global Happiness Policy Report and various other projects related to global health, education, and subjective well-being.
+Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the [Global Happiness Policy Report](http://www.happinesscouncil.org/) and various other projects related to global health, education, and subjective well-being.
 
 **Luisa Rodriguez - Research Analyst**
 
-Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at ImpactMatters, Innovations for Poverty Action, and GiveWell.
+Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at [ImpactMatters](https://www.impactm.org/), [Innovations for Poverty Action](https://www.poverty-action.org/), and [GiveWell](https://www.givewell.org/).
 
 **Saulius Šimčikas - Research Analyst**
 
