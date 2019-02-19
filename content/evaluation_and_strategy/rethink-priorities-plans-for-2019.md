@@ -64,7 +64,7 @@ Saulius is a Research Analyst at Rethink Priorities. Previously, he was a resear
 
 **Neil Dullaghan - Junior Research Analyst**
 
-Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
+Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for [Charity Entrepreneurship](http://www.charityentrepreneurship.com/) and [Animal Charity Evaluators](https://animalcharityevaluators.org/). Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
 
 **Jason Schukraft - Junior Research Analyst**
 
@@ -72,7 +72,7 @@ Jason is a Junior Research Analyst at Rethink Priorities. Before joining the RP 
 
 **Daniela R. Waldhorn - Junior Research Analyst**
 
-Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for Animal Ethics and for Animal Equality.
+Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for [Animal Ethics](https://www.animal-ethics.org/) and for [Animal Equality](https://animalequality.org/).
 
 ## 2019 Research Agenda
 
