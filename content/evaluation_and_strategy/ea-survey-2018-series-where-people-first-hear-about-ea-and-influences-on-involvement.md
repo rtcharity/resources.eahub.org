@@ -47,11 +47,17 @@ _N.B. images can be viewed in full size if opened in a new tab._
 
 In addition, many more EAs joined in more recent years (apart from in 2018, when the survey was run) than in earlier years. This means that 80,000 Hours is heavily overrepresented among those newest to EA.
 
-As we know that respondents who more recently heard of EA are much less likely to be more involved in EA (as captured by metrics such as EA Forum membership- see graph below), this means that we would expect those who heard of EA from 80,000 Hours to contain many more new and less involved EAs.
+![Bar chart of joining vs total EAs](/img/eas-join-line.png)
+
+As we know that respondents who more recently heard of EA are much less likely to be more involved in EA (as captured by metrics such as EA Forum membership - see graph below), this means that we would expect those who heard of EA from 80,000 Hours to contain many more new and less involved EAs.
+
+![](/img/eas-cohort.png)
 
 This means that comparing the percentages of more involved EAs who first heard EA from different sources will likely be misleading, due to penalising routes which have disproportionately recruited EAs more recently. That said, it may still serve as an indicator of the effect of different groups’ recruitment on the composition of EA so far.
 
 Sure enough, a smaller percentage of EAs first heard of EA from 80,000 Hours, when looking at Forum members, rather than looking at the rest of the sample. The same holds for those hearing about it from SlateStarCodex. Forum members were disproportionately more likely to have heard about EA from LessWrong, by contrast (note that more people first heard about EA via LessWrong in earlier years as well).
+
+![](/img/screenshot-2019-02-09-at-13-31-33.png)
 
 For the most part, the raw percentage point differences between the other categories are quite small (though they may reflect large differences in the proportion of people from different sources who join the Forum as shown in the table below) as are the total numbers of EAs (and Forum members) coming from many of these different sources.
 
