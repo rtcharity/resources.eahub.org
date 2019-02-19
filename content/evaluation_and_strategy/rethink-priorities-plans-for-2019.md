@@ -96,15 +96,19 @@ While this list is not meant to be a definitive look at which projects we will a
 
 We see our primary means of impact as influencing and informing the effective altruism movement. Our 2019 goal is to establish ourselves as an effective altruism research organization with a path toward influencing key donors and decision-makers, especially in the animal advocacy space. While the hope is that research we do may uncover important interventions that could absorb millions of dollars in funding, we’d like to start in 2019 simply by ensuring that at least four people or institutions granting at least $50,000 in 2019 each cite our research as a factor in their decision-making. We also intend to annually run a formal survey to discover if our target audience of large-scale donors has read our work and if it has influenced their decision-making.
 
-Fundraising
+## Fundraising
 
 Of course, we can’t do this without money! Our 2019 budget is ~$447K:
 
+![Table "Rethink Priorities 2019 Budget"](/img/funds.png)
+
 But thanks to generous funders, so far we’ve already raised \~$153K, thus making our funding needs \~$294K for 2019:
 
-Fungibility
+![Table on the funds raised so far](/img/funds-so-far.png)
 
-While we are a project of Rethink Charity, we maintain an entirely separate budget and fundraise separately. All funding specifically earmarked to Rethink Priorities will be used for Rethink Priorities research only and will not be used for other Rethink Charity projects.
+## Fungibility
+
+While we are a project of [Rethink Charity](https://rtcharity.org/), we maintain an entirely separate budget and fundraise separately. All funding specifically earmarked to Rethink Priorities will be used for Rethink Priorities research only and will not be used for other Rethink Charity projects.
 
 Furthermore, we’re able to accept funding earmarked to a particular project area (for example, if you only want to fund work into wild animal welfare). We’ve done careful accounting to create budgets for each project and to minimize risk of fungibility between projects. However, unrestricted funding would be most valuable to us to allow us to pursue our highest priority research agendas or change our research plans if we find more important projects.
 
