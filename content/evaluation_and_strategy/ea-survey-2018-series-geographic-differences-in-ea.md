@@ -97,7 +97,7 @@ The USA’s share of the movement has been declining as EA gains a more global r
 <ul><li><a href="http://effective-altruism.com/ea/1th/ea_survey_2018_series_community_demographics/">I - Community Demographics &amp; Characteristics</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology">II - Distribution &amp; Analysis Methodology</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea">III - How do people get involved in EA?</a></li>
-<li><a href="https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers#c2GgdQNkdyBAREtLE">IV - Subscribers and Identifiers</a></li>
+<li><a href="https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers">IV - Subscribers and Identifiers</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data">V - Donation Data</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections">VI - Cause Selection</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/S4WmbHJr32WcmwFD7/ea-survey-series-2018-where-people-first-hear-about-ea-and">VII- EA Group Membership</a></li>
