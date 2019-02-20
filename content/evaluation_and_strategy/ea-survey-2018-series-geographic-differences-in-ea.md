@@ -100,7 +100,7 @@ The USA’s share of the movement has been declining as EA gains a more global r
 <li><a href="https://forum.effectivealtruism.org/posts/K2u4rvy38YmSnhQ5X/ea-survey-series-2018-subscribers-and-identifiers">IV - Subscribers and Identifiers</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data">V - Donation Data</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections">VI - Cause Selection</a></li>
-<li><a href="https://forum.effectivealtruism.org/posts/S4WmbHJr32WcmwFD7/ea-survey-series-2018-where-people-first-hear-about-ea-and">VII- EA Group Membership</a></li>
+<li><a href="https://forum.effectivealtruism.org/posts/kqTTyz7BCt6ExrfF6/ea-survey-2018-series-group-membership">VII- EA Group Membership</a></li>
 <li><a href="https://forum.effectivealtruism.org/posts/S4WmbHJr32WcmwFD7/ea-survey-series-2018-where-people-first-hear-about-ea-and">VIII- Where People First Hear About EA and Higher Levels of Involvement</a></li></ul>
 <p>Prior EA Surveys conducted by Rethink Charity:</p>
 <ul><li><a href="https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology">The 2017 Survey of Effective Altruists</a></li>
