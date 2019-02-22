@@ -56,37 +56,37 @@ For Western European respondents, happiness stopped increasing alongside income 
 
 ## An aside on terminology
 
-"Subjective well-being" is the term social scientists use to think about happiness. Researchers usually break subjective well-being down into two components – life evaluation & emotional well-being. Here are heavyweights Daniel Kahneman & Angus Deaton on how those two things are different (a):
+"[Subjective well-being](https://en.wikipedia.org/wiki/Subjective_well-being)" is the term social scientists use to think about happiness. Researchers usually break subjective well-being down into two components – life evaluation & emotional well-being. Here are heavyweights Daniel Kahneman & Angus Deaton on [how those two things are different](https://www.pnas.org/content/107/38/16489) ([a](https://web.archive.org/web/20181208205826/https://www.pnas.org/content/107/38/16489)):
 
-\    Emotional well-being (sometimes called hedonic well-being or experienced happiness) refers to the emotional quality of an individual's everyday experience – the frequency and intensity of experiences of joy, fascination, anxiety, sadness, anger, and affection that make one's life pleasant or unpleasant. Life evaluation refers to a person's thoughts about his or her life. Surveys of subjective well-being have traditionally emphasized life evaluation. The most commonly asked question in these surveys is the life satisfaction question: “How satisfied are you with your life as a whole these days?” ... Emotional well-being is assessed by questions about the presence of various emotions in the experience of yesterday (e.g., enjoyment, happiness, anger, sadness, stress, worry).
+> Emotional well-being (sometimes called hedonic well-being or experienced happiness) refers to the emotional quality of an individual's everyday experience – the frequency and intensity of experiences of joy, fascination, anxiety, sadness, anger, and affection that make one's life pleasant or unpleasant. Life evaluation refers to a person's thoughts about his or her life. Surveys of subjective well-being have traditionally emphasized life evaluation. The most commonly asked question in these surveys is the life satisfaction question: “How satisfied are you with your life as a whole these days?” ... Emotional well-being is assessed by questions about the presence of various emotions in the experience of yesterday (e.g., enjoyment, happiness, anger, sadness, stress, worry).
 
-Jebb et al. break down emotional well-being further into positive affect & negative affect, which roughly correspond to experiencing positive & negative emotive states.
+[Jebb et al.](https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf) break down emotional well-being further into positive affect & negative affect, which roughly correspond to experiencing positive & negative emotive states.
 
 Life evaluation seems like the more intuitive metric for our purposes here. (It’s also the more conservative choice due to its higher satiation points.) So when I talk about "happiness," I'm actually talking about "subjective well-being as assessed by life evaluation scores." My main points would still hold if we focused on emotional well-being instead.
 
-Income increases happiness up to $115,000 / year
+## Income increases happiness up to $115,000 / year
 
-Returning to Table 1, we can pull out a couple of takeaways:
+Returning to [Table 1](https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf), we can pull out a couple of takeaways:
 
-\    The income satiation point for most EAs is at least $100,000 USD / year.
+The income satiation point for most EAs is at least $100,000 USD / year.
 
-\    Most EAs are in North America and Western Europe.
+Most EAs are in North America and Western Europe.
 
-\    The satiation point for life evaluation in Western Europe is about $100,000 USD / year.
+The satiation point for life evaluation in Western Europe is about $100,000 USD / year.
 
-\    The life evaluation satiation point in North America is about $105,000 USD / year.
+The life evaluation satiation point in North America is about $105,000 USD / year.
 
-\    Almost all EAs fall into Jebb et al.’s "high education" bracket: 16+ years of education, i.e. on track to complete a Bachelor’s.
+Almost all EAs fall into Jebb et al.’s "high education" bracket: 16+ years of education, i.e. on track to complete a Bachelor’s.
 
-\    High-education populations have higher satiation points than low-education populations, an effect that the authors attribute to "income aspirations or social comparisons with different groups."
+High-education populations have higher satiation points than low-education populations, an effect that the authors attribute to "income aspirations or social comparisons with different groups."
 
-\    The "high education" satiation point is $115,000 USD / year.
+The "high education" satiation point is $115,000 USD / year.
 
-\    That’s a global figure. The paper doesn’t give a region-by-region breakout of the "high education" cohort; it’s likely that the figure is even higher in the Western Europe & North American regions, which have higher satiation points than the global average.
+That’s a global figure. The paper doesn’t give a region-by-region breakout of the "high education" cohort; it’s likely that the figure is even higher in the Western Europe & North American regions, which have higher satiation points than the global average.
 
 Essentially, all income earned up to $115,000 USD / year (for college-educated folks living in North America & Western Europe) contributes to one’s happiness.
 
-Putting it all together
+## Putting it all together
 
 We can use the Jebb et al. paper to infer that donations which put your annual income below $115k will probably make you less happy. (And if you’re giving substantial amounts while earning a total income of less than $115k, those donations will probably contribute to a decrease in your happiness.)
 
