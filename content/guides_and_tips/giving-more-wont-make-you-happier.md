@@ -12,7 +12,9 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-_See also:_ [_Time-series data for income & happiness?_](https://forum.effectivealtruism.org/posts/DtSXXdZnEb2mH3jGs/time-series-data-for-income-and-happiness)__
+_See also:_ [_Time-series data for income & happiness?_](https://forum.effectivealtruism.org/posts/DtSXXdZnEb2mH3jGs/time-series-data-for-income-and-happiness)
+
+---
 
 At first approximation, there are two motivations for donating money – egoistic & altruistic.
 
@@ -93,5 +95,7 @@ My provisional conclusion here is that EA shouldn't recommend effective giving o
 There remains a strong altruistic case to be made for effective giving, but I think it’s worth acknowledging the real tradeoff between giving away large amounts of money and one’s personal happiness, at least for people earning less than $115,000 USD / year (on average, for college-educated people in Western Europe & North America). If you want to give large amounts while avoiding this tradeoff, you should achieve a stable annual income of at least $115k before making substantial donations.
 
 Further, EA should actively discourage people from effective giving if they're mainly considering it as a way to become happier. Effective giving probably won't make you happier than low-impact giving, and donating large amounts won't make you happier than donating small amounts. Saying otherwise would be a false promise.
+
+---
 
 _Thanks to Gregory Lewis, Howie Lempel, Helen Toner, Benjamin Pence, and an anonymous collaborator for feedback on drafts of this essay. Cross-posted to_ [_my blog_](https://flightfromperfection.com/giving-more-wont-make-you-happier.html)_._
