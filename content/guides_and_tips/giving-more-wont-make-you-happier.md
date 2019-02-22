@@ -12,7 +12,9 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-_See also:_ [_Time-series data for income & happiness?_](https://forum.effectivealtruism.org/posts/DtSXXdZnEb2mH3jGs/time-series-data-for-income-and-happiness)__
+_See also:_ [_Time-series data for income & happiness?_](https://forum.effectivealtruism.org/posts/DtSXXdZnEb2mH3jGs/time-series-data-for-income-and-happiness)
+
+---
 
 At first approximation, there are two motivations for donating money – egoistic & altruistic.
 
@@ -68,7 +70,7 @@ Life evaluation seems like the more intuitive metric for our purposes here. (It�
 
 Returning to [Table 1](https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf), we can pull out a couple of takeaways:
 
-<p><ul><li>The income satiation point for most EAs is at least $100,000 USD / year.</li><ul><li>Most EAs are in North America and Western Europe. </li><ul><li>The satiation point for life evaluation in Western Europe is about $100,000 USD / year.</li><li>The life evaluation satiation point in North America is about $105,000 USD / year.</li></ul></ul><li>Almost all EAs fall into Jebb et al.’s "high education" bracket: 16+ years of education, i.e. on track to complete a Bachelor’s. </li><ul><li>High-education populations have higher satiation points than low-education populations, an effect that the authors attribute to "income aspirations or social comparisons with different groups."</li><li>The "high education" satiation point is $115,000 USD / year. </li><ul><li>That’s a global figure. The paper doesn’t give a region-by-region breakout of the "high education" cohort; it’s likely that the figure is even higher in the Western Europe &amp; North American regions, which have higher satiation points than the global average.</li></ul></ul></ul></p>
+<ul><li>The income satiation point for most EAs is at least $100,000 USD / year.</li><ul><li>Most EAs are in North America and Western Europe. </li><ul><li>The satiation point for life evaluation in Western Europe is about $100,000 USD / year.</li><li>The life evaluation satiation point in North America is about $105,000 USD / year.</li></ul></ul><li>Almost all EAs fall into Jebb et al.’s "high education" bracket: 16+ years of education, i.e. on track to complete a Bachelor’s. </li><ul><li>High-education populations have higher satiation points than low-education populations, an effect that the authors attribute to "income aspirations or social comparisons with different groups."</li><li>The "high education" satiation point is $115,000 USD / year. </li><ul><li>That’s a global figure. The paper doesn’t give a region-by-region breakout of the "high education" cohort; it’s likely that the figure is even higher in the Western Europe &amp; North American regions, which have higher satiation points than the global average.</li></ul></ul></ul>
 
 Essentially, all income earned up to $115,000 USD / year (for college-educated folks living in North America & Western Europe) contributes to one’s happiness.
 
@@ -93,5 +95,7 @@ My provisional conclusion here is that EA shouldn't recommend effective giving o
 There remains a strong altruistic case to be made for effective giving, but I think it’s worth acknowledging the real tradeoff between giving away large amounts of money and one’s personal happiness, at least for people earning less than $115,000 USD / year (on average, for college-educated people in Western Europe & North America). If you want to give large amounts while avoiding this tradeoff, you should achieve a stable annual income of at least $115k before making substantial donations.
 
 Further, EA should actively discourage people from effective giving if they're mainly considering it as a way to become happier. Effective giving probably won't make you happier than low-impact giving, and donating large amounts won't make you happier than donating small amounts. Saying otherwise would be a false promise.
+
+---
 
 _Thanks to Gregory Lewis, Howie Lempel, Helen Toner, Benjamin Pence, and an anonymous collaborator for feedback on drafts of this essay. Cross-posted to_ [_my blog_](https://flightfromperfection.com/giving-more-wont-make-you-happier.html)_._
