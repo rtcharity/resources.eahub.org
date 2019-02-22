@@ -48,6 +48,8 @@ Jebb et al. were curious about the income satiation effect – is there a point 
 
 From the Gallup data, Jebb et al. found that there is indeed an income satiation effect:
 
+![Table 1. Satiation points across region, gender and education](/img/satiation-table.png)
+
 Globally, happiness stopped increasing alongside income after $95,000 USD / year.
 
 For Western European respondents, happiness stopped increasing alongside income after $100,000 USD / year. For North American respondents, the satiation point was $105,000 USD / year.
