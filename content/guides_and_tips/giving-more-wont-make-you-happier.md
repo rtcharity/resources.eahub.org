@@ -68,22 +68,6 @@ Life evaluation seems like the more intuitive metric for our purposes here. (It�
 
 Returning to [Table 1](https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf), we can pull out a couple of takeaways:
 
-The income satiation point for most EAs is at least $100,000 USD / year.
-
-Most EAs are in North America and Western Europe.
-
-The satiation point for life evaluation in Western Europe is about $100,000 USD / year.
-
-The life evaluation satiation point in North America is about $105,000 USD / year.
-
-Almost all EAs fall into Jebb et al.’s "high education" bracket: 16+ years of education, i.e. on track to complete a Bachelor’s.
-
-High-education populations have higher satiation points than low-education populations, an effect that the authors attribute to "income aspirations or social comparisons with different groups."
-
-The "high education" satiation point is $115,000 USD / year.
-
-That’s a global figure. The paper doesn’t give a region-by-region breakout of the "high education" cohort; it’s likely that the figure is even higher in the Western Europe & North American regions, which have higher satiation points than the global average.
-
 Essentially, all income earned up to $115,000 USD / year (for college-educated folks living in North America & Western Europe) contributes to one’s happiness.
 
 ## Putting it all together
