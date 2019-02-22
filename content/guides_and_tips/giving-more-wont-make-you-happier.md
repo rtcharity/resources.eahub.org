@@ -92,4 +92,4 @@ There remains a strong altruistic case to be made for effective giving, but I th
 
 Further, EA should actively discourage people from effective giving if they're mainly considering it as a way to become happier. Effective giving probably won't make you happier than low-impact giving, and donating large amounts won't make you happier than donating small amounts. Saying otherwise would be a false promise.
 
-Thanks to Gregory Lewis, Howie Lempel, Helen Toner, Benjamin Pence, and an anonymous collaborator for feedback on drafts of this essay. Cross-posted to my blog.
+_Thanks to Gregory Lewis, Howie Lempel, Helen Toner, Benjamin Pence, and an anonymous collaborator for feedback on drafts of this essay. Cross-posted to_ [_my blog_](https://flightfromperfection.com/giving-more-wont-make-you-happier.html)_._
