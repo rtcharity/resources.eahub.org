@@ -20,7 +20,7 @@ The egoistic motivation relates to the personal benefit you accrue from giving y
 
 ## The egoistic motivation for donating is scope insensitive
 
-The egoistic motivation for donating is highly scope insensitive – giving away $500 feels roughly as good as giving away $50,000. I haven’t found any academic evidence on this, but it’s been robustly true in my experience.
+The egoistic motivation for donating is highly [scope insensitive](https://en.wikipedia.org/wiki/Scope_neglect) – giving away $500 feels roughly as good as giving away $50,000. I haven’t found any academic evidence on this, but it’s been robustly true in my experience.
 
 This scope insensitivity seems pretty baked in – knowing about it doesn’t make it go away. I can remind myself that I’m having 100x the impact when I donate $50,000 than when I donate $500, but I find that when I reflect casually about my donations, I feel about as satisfied at my small donations as I do about my large ones, even after repeatedly reminding myself about the 100x differential.
 
@@ -28,9 +28,9 @@ We’re probably also scope insensitive qualitatively – giving $5,000 to a low
 
 ## Effective giving increases happiness, but so does low-impact giving
 
-EA sometimes advocates that giving will increase your happiness. Here’s an 80,000 Hours article (a) to that effect. Here’s a piece by Giving What We Can (a).
+EA sometimes advocates that giving will increase your happiness. Here’s an [80,000 Hours article](https://80000hours.org/articles/money-and-happiness/#if-you-gave-money-to-charity-would-it-make-you-more-satisfied-or-less) ([a](https://web.archive.org/web/20181204181048/https://80000hours.org/articles/money-and-happiness/)) to that effect. Here’s [a piece by Giving What We Can](https://www.givingwhatwecan.org/get-involved/giving-and-happiness/) ([a](https://web.archive.org/web/20180808162121/https://www.givingwhatwecan.org/get-involved/giving-and-happiness/)).
 
-I think sometimes implicit here is the claim that giving effectively will increase your happiness (I think this because almost all other discussion of giving in EA spaces is about effective giving, and why effective giving is something to get excited about).
+I think sometimes implicit here is the claim that giving _effectively_ will increase your happiness (I think this because almost all other discussion of giving in EA spaces is about effective giving, and why effective giving is something to get excited about).
 
 It seems pretty clear that donating some money to charity will increase your happiness. It’s less clear that donating to an effective charity will make you happier than donating to a low-impact charity.
 
