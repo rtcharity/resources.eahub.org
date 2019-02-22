@@ -12,13 +12,13 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-See also: Time-series data for income & happiness?
+_See also:_ [_Time-series data for income & happiness?_](https://forum.effectivealtruism.org/posts/DtSXXdZnEb2mH3jGs/time-series-data-for-income-and-happiness)__
 
 At first approximation, there are two motivations for donating money – egoistic & altruistic.
 
-The egoistic motivation relates to the personal benefit you accrue from giving your money away. The altruistic motivation relates to the benefits that other people receive from your donations. (This roughly maps to the fuzzies vs. utilons (a) distinction.)
+The egoistic motivation relates to the personal benefit you accrue from giving your money away. The altruistic motivation relates to the benefits that other people receive from your donations. (This roughly maps to the [fuzzies vs. utilons](https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately) ([a](https://web.archive.org/web/20181204220400/https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately)) distinction.)
 
-The egoistic motivation for donating is scope insensitive
+## The egoistic motivation for donating is scope insensitive
 
 The egoistic motivation for donating is highly scope insensitive – giving away $500 feels roughly as good as giving away $50,000. I haven’t found any academic evidence on this, but it’s been robustly true in my experience.
 
@@ -26,7 +26,7 @@ This scope insensitivity seems pretty baked in – knowing about it doesn’t ma
 
 We’re probably also scope insensitive qualitatively – giving $5,000 to a low-impact charity feels about as good as giving $5,000 to an effective charity (especially if you don’t reflect very much about the impact of the donation, and especially especially if the low-impact charity tells you a compelling story about the particular people your donation is helping).
 
-Effective giving increases happiness, but so does low-impact giving
+## Effective giving increases happiness, but so does low-impact giving
 
 EA sometimes advocates that giving will increase your happiness. Here’s an 80,000 Hours article (a) to that effect. Here’s a piece by Giving What We Can (a).
 
@@ -38,7 +38,7 @@ Given the scope insensitivity of the egoistic motivation, it’s also unclear th
 
 It seems especially unclear that the donation-to-happiness link scales anywhere linearly. Perhaps donating $1,000 makes you happier than donating $100, but does it make you 10x as happy? Does donating $2,000 make you 2x as donating $1,000? My intuition is that it doesn’t.
 
-Income increases happiness, up to a point
+## Income increases happiness, up to a point
 
 Okay, so that’s a bunch of discussion from intuition & lived experience. Now let’s look at paper.
 
@@ -52,7 +52,7 @@ Globally, happiness stopped increasing alongside income after $95,000 USD / year
 
 For Western European respondents, happiness stopped increasing alongside income after $100,000 USD / year. For North American respondents, the satiation point was $105,000 USD / year.
 
-An aside on terminology
+## An aside on terminology
 
 "Subjective well-being" is the term social scientists use to think about happiness. Researchers usually break subjective well-being down into two components – life evaluation & emotional well-being. Here are heavyweights Daniel Kahneman & Angus Deaton on how those two things are different (a):
 
