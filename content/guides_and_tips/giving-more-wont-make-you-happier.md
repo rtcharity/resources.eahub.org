@@ -72,7 +72,7 @@ Essentially, all income earned up to $115,000 USD / year (for college-educated f
 
 ## Putting it all together
 
-We can use the Jebb et al. paper to infer that donations which put your annual income below $115k will probably make you less happy. (And if you’re giving substantial amounts while earning a total income of less than $115k, those donations will probably contribute to a decrease in your happiness.)
+We can use the [Jebb et al. paper](https://flightfromperfection.com/files/post_attachments/jebb_et_al_2018.pdf) to infer that donations which put your annual income below $115k will probably make you less happy. (And if you’re giving substantial amounts while earning a total income of less than $115k, those donations will probably contribute to a decrease in your happiness.)
 
 Correspondingly, donating amounts such that your annual income remains above $115k probably won’t affect your happiness.
 
@@ -80,7 +80,7 @@ There’s a wrinkle here: it’s possible that much of the happiness benefit of 
 
 So perhaps only a weaker version of the claim holds: once you achieve an annual income above $115,000, you can give away large portions of it without incurring a happiness penalty (having already realized the happy-making benefit of your earnings). But even in this case, donating large amounts out of an income less than $115k still lowers your happiness (because you never benefit from the knowledge that you earn at least $115k).
 
-It’s true that the act of donating will generate some personal happiness. But given the scope insensitivity at play here, you can realize a lot of this benefit by donating small amounts (and thus keeping a lot more of your money, which can then be deployed in other happy-making ways).
+It’s true that the act of donating will generate some personal happiness. But given the [scope insensitivity](https://en.wikipedia.org/wiki/Scope_neglect) at play here, you can realize a lot of this benefit by donating small amounts (and thus keeping a lot more of your money, which can then be deployed in other happy-making ways).
 
 From a purely egoistic viewpoint, scope insensitivity lets us have our cake & eat it too – we can feel good about our donating behavior while keeping most of our money.
 
