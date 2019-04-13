@@ -9,7 +9,7 @@ tag: popular
 author: Evan Gaensbauer
 originalPublicationURL: >-
   https://forum.effectivealtruism.org/posts/MYth4Ju4kbfHmJRbA/remote-volunteering-opportunities-in-effective-altruism
-block: false
+block: true
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
