@@ -1,5 +1,5 @@
 ---
-title: 'Giving More Won''t Make You Happier '
+title: 'Giving More Won't Make You Happier'
 date: 2019-02-22T17:44:03.044Z
 description: >-
   The provisional conclusion of this post is that EA shouldn't recommend
@@ -14,7 +14,7 @@ relatedArticles: []
 ---
 _See also:_ [_Time-series data for income & happiness?_](https://forum.effectivealtruism.org/posts/DtSXXdZnEb2mH3jGs/time-series-data-for-income-and-happiness)
 
----
+
 
 At first approximation, there are two motivations for donating money – egoistic & altruistic.
 
@@ -96,6 +96,6 @@ There remains a strong altruistic case to be made for effective giving, but I th
 
 Further, EA should actively discourage people from effective giving if they're mainly considering it as a way to become happier. Effective giving probably won't make you happier than low-impact giving, and donating large amounts won't make you happier than donating small amounts. Saying otherwise would be a false promise.
 
----
+
 
 _Thanks to Gregory Lewis, Howie Lempel, Helen Toner, Benjamin Pence, and an anonymous collaborator for feedback on drafts of this essay. Cross-posted to_ [_my blog_](https://flightfromperfection.com/giving-more-wont-make-you-happier.html)_._
