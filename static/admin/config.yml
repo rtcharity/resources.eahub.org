@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  use_large_media_transforms_in_media_library: false
 
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
