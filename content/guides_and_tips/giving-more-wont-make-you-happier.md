@@ -1,5 +1,5 @@
 ---
-title: 'Giving More Will Not Make You Happier'
+title: 'Giving More Won''t Make You Happier'
 date: 2019-02-22T17:44:03.044Z
 description: >-
   The provisional conclusion of this post is that EA shouldn't recommend
