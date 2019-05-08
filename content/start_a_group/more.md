@@ -9,4 +9,6 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
-More resources on starting an EA Group are coming soon.
+# More resources on starting an EA Group are coming soon.
+
+* fsdjkffmafniweocna
