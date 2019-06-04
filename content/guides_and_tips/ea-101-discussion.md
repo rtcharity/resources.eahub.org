@@ -10,8 +10,7 @@ originalPublicationURL: >-
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
-relatedArticles:
-  - {}
+relatedArticles: []
 ---
 ## EA 101 #1
 
@@ -19,7 +18,7 @@ Corresponds to the first half of EA 101
 
 **Introductions**
 
-Your name, what your chosen profession would be in utopia, the most interesting thing you’ve learned in the last week
+Your name, what your chosen profession would be in utopia, the most interesting thing you’ve learned in the last week.
 
 **Assessing Claims**
 
