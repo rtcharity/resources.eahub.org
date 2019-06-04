@@ -1,5 +1,5 @@
 ---
-title: EA 101 Discussion
+title: TESTTESTTEST
 date: 2018-11-14T18:11:02.078Z
 description: Basic discussion guides.
 illustration: /img/hublego.png
