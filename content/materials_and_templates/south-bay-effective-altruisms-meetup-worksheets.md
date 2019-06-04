@@ -1,5 +1,5 @@
 ---
-title: TESTTEST
+title: South Bay Effective Altruism's Meetup Worksheets
 date: 2019-02-09T18:18:50.463Z
 description: South Bay Effective Altruism shares its worksheets on dozens of its meetups.
 tag: popular
