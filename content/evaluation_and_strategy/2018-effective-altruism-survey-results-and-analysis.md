@@ -1,5 +1,5 @@
 ---
-title: Effective Altruism Survey Results and Analysis
+title: 2018 Effective Altruism Survey Results and Analysis
 date: 2019-06-11T20:59:53.632Z
 description: 'The EA survey provides an annual snapshot of the EA community. '
 author: EA Survey Team
