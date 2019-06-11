@@ -8,6 +8,8 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 relatedArticles: []
 ---
+The EA survey provides an annual snapshot of the EA community. \
+\
 [Community Demographics & Characteristics](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and)  - September 2018
 
 [Distribution and Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology) - October 2018
