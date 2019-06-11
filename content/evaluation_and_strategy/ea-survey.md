@@ -30,18 +30,18 @@ The EA survey provides an annual snapshot of the EA community.
 
 [Geographic Differences in EA](https://forum.effectivealtruism.org/posts/t2Wqszc4wpKxMinSs/ea-survey-2018-series-geographic-differences-in-ea) - February 2019
 
-[How Welcoming is EA?](https://forum.effectivealtruism.org/posts/eoCexTGET3eFQz3w2/ea-survey-2018-series-how-welcoming-is-ea) - February 2019\
-\
+[How Welcoming is EA?](https://forum.effectivealtruism.org/posts/eoCexTGET3eFQz3w2/ea-survey-2018-series-how-welcoming-is-ea) - February 2019
+
 [How Long Do EAs Stay in EA?](https://forum.effectivealtruism.org/posts/bGcKJiBt4HSSScF76/ea-survey-2018-series-how-long-do-eas-stay-in-ea) - May 2019
 
 [Is EA Growing? EA Growth Metrics for 2018](https://forum.effectivealtruism.org/posts/MBJvDDw2sFGkFCA29/is-ea-growing-ea-growth-metrics-for-2018) - June 2019
 
 # 2017 EA Survey
 
-[Distribution and Analysis Methodology](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology) - August 2017\
-\
-[Community Demographics & Beliefs](https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs) - August 2017\
-\
+[Distribution and Analysis Methodology](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology) - August 2017
+
+[Community Demographics & Beliefs](https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs) - August 2017
+
 [Cause Area Preferences](https://forum.effectivealtruism.org/posts/xeduPnHfCQ9m9f3go/ea-survey-2017-series-cause-area-preferences) - September 2017
 
 [Donation Data](https://forum.effectivealtruism.org/posts/S2ypk8fsHFrQopvyo/ea-survey-2017-series-donation-data) - September 2017
