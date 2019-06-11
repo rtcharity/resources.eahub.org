@@ -10,12 +10,8 @@ relatedArticles: []
 ---
 The EA survey provides an annual snapshot of the EA community. 
 
-
-
 # 2018 EA Survey
 
-\
-\
 [Community Demographics & Characteristics](https://forum.effectivealtruism.org/posts/S2Sonawxz2cY4YdXK/ea-survey-2018-series-community-demographics-and)  - September 2018
 
 [Distribution and Analysis Methodology](https://forum.effectivealtruism.org/posts/iSjttL9PPq9eiqrc3/ea-survey-2018-series-distribution-and-analysis-methodology) - October 2018
@@ -54,14 +50,9 @@ The EA survey provides an annual snapshot of the EA community.
 
 [Demographics II](https://forum.effectivealtruism.org/posts/Em7kSysc3STrH9HhQ/ea-survey-2017-series-demographics-ii) - September 2017
 
-[](https://forum.effectivealtruism.org/posts/J49YemrTzXGtnri9n/ea-survey-2017-series-qualitative-comments-summary)\
-7
-
 [Have EA Priorities Changed Over Time?](https://forum.effectivealtruism.org/posts/A54Lrz5vQK5kgtxA2/ea-survey-2017-series-have-ea-priorities-changed-over-time) - October 2017
 
 [How do people get into EA?](https://forum.effectivealtruism.org/posts/Cyuq6Yyp5bcpPfRuN/ea-survey-2017-series-how-do-people-get-into-ea) - November 2017
-
-
 
 # 2015 EA Survey
 
