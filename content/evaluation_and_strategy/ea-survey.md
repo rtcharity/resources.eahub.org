@@ -1,5 +1,5 @@
 ---
-title: EA Survey
+title: Effective Altruism Survey
 date: 2019-06-11T21:45:29.762Z
 description: 'The EA survey provides an annual snapshot of the EA community. '
 author: EA Survey Team
