@@ -56,6 +56,6 @@ The EA survey provides an annual snapshot of the EA community.
 
 [The 2015 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/EqgF5amS96TahanzK/the-2015-survey-of-effective-altruists-results-and-analysis) - July 2016
 
-# 2016 EA Survey
+# 2014 EA Survey
 
 [The 2014 Survey of Effective Altruists: Results and Analysis](https://forum.effectivealtruism.org/posts/z5swaf6342AbG93Mp/the-2014-survey-of-effective-altruists-results-and-analysis) - March 2015
