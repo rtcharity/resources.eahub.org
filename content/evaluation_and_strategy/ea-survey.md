@@ -36,6 +36,10 @@ The EA survey provides an annual snapshot of the EA community.
 
 [Is EA Growing? EA Growth Metrics for 2018](https://forum.effectivealtruism.org/posts/MBJvDDw2sFGkFCA29/is-ea-growing-ea-growth-metrics-for-2018) - June 2019
 
+[Do EA Survey Takers Keep Their GWWC Pledge?](https://forum.effectivealtruism.org/posts/fZ3Y4iYwt36Pjmwhz/ea-survey-2018-series-do-ea-survey-takers-keep-their-gwwc-1) - June 2019
+
+
+
 # 2017 EA Survey
 
 [Distribution and Analysis Methodology](https://forum.effectivealtruism.org/posts/TuzkYANf7tmQDF2Hk/ea-survey-2017-series-distribution-and-analysis-methodology) - August 2017
