@@ -1,67 +1,23 @@
-
 {{ define "main" }}
-    <!-- Carousel -->
-    <section class="flex-ns flex-wrap justify-around mt5 carousel">
-      {{ range .Sections.ByWeight }}
-        {{ if .Params.carousel }}
-        <div class="carousel_containers">
-          <a class="carousel_links" href="{{ .URL }}">
-            <img class="carousel_links_img" src={{ .Params.link_image }} />
-            <h4 class="carousel_links_text">{{ .Title }}</h4>
-          </a>
+
+<div class="landing_main">
+
+  <div class="landing_page_menu">
+  {{ range .Sections }}
+    {{ if .Params.landingPageMenuItem }}
+    <div class="landing_page_menu_section">
+      <h2>{{ .Title }}</h2>
+      {{ range .Sections }}
+        <div class="landing_page_menu_topic">
+          <h3>{{ .Title }}</h3>
         </div>
-        {{ end }}
       {{ end }}
-    </section>
 
-    <!-- Main Body -->
-    <div class="landing_main">
-
-    <!-- Selection of popular articles -->
-    <div class="landing_columns">
-      <h2 class="landing_headings flex-none">Selection of Popular Articles</h2>
-      <div class="landing_item landing_item_popular">
-      {{ range .Pages }}
-        {{ if eq .Params.Tag "popular" }}
-        <div class="popular_card">
-        <a href="{{ .URL }}">
-          <h4 class="dim link"> {{ .Title }}</h4>
-          <p class="f4 lh-copy mv0 purple">By {{ .Params.Author }}</p>
-        </a>
-        </div>
-        {{ end }}
-      {{ end }}
-      </div>
     </div>
+    {{ end }}
+  {{ end }}
+  </div>
 
-    <div class="landing_columns">
-      <!-- Action links -->
-      <div class="landing_item">
-      <h2 class="landing_headings flex-none">Actions</h2>
-        {{ range .Params.actionLinks }}
-        <div class="action_links">
-        {{ if .contact }}
-        <div class="action_links_contact">
-        {{ else }}
-        <div class="action_links_no_contact">
-        {{ end }}
-
-          <a target="_blank" href="{{ .url }}">
-            <div class="color-inherit">{{ .name }}</div>
-          </a>
-        </div>
-        </div>
-        {{ end }}
-      </div>
-
-      <div class="landing_item">
-      <h2 class="landing_headings flex-none">{{ .Params.calendar.title }}</h2>
-        <a class="color-inherit dim link" target="_blank" href="{{ .Params.calendar.url }}">
-          <img width="150px" src="{{ .Params.calendar.imageLink }}"></img>
-        </a>
-      </div>
-    </div>
-
-    </div> <!-- end of Main Body -->
+</div>
 
 {{ end }}

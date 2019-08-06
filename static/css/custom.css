@@ -323,11 +323,6 @@ body {
   text-align: center;
 }
 
-.landing_columns h2 {
-  color: #635274;
-  margin-bottom: 25px;
-}
-
 .landing_item {
   text-align: left;
   display: inline-block;
@@ -341,6 +336,23 @@ body {
 .landing_item_popular {
   background-color: #E8E8E8;
   border-radius: 5px;
+}
+
+.landing_page_menu_section {
+  display: block;
+}
+
+.landing_page_menu_section h2 {
+  color: #635274;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.landing_page_menu_topic {
+  display: inline-block;
+}
+
+.landing_page_menu_topic h3 {
+  color: #635274;
 }
 
 .main {
@@ -654,7 +666,7 @@ body {
     width: 100%;
   }
 
-  .landing_headings {
+  .landing_page_menu_section h2 {
     font-size: 24px;
     color: #635274;
   }
