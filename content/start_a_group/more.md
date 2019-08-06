@@ -2,6 +2,7 @@
 title: More Resources Coming Soon
 date: 2018-11-22T20:27:13.164Z
 description: More resources on starting an EA Group coming soon
+tag: Introductory
 author: LEAN
 originalPublicationURL: ''
 license:
