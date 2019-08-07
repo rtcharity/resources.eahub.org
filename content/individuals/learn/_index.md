@@ -1,4 +1,4 @@
 ---
 Title: "Learn"
-Image: "/img/guides-tips.png"
+Pictogram: "/img/guides-tips.png"
 ---

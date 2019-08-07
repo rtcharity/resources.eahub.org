@@ -1,5 +1,5 @@
 ---
 Title: "Events"
 landingPageMenuItem: true
-Image: "/img/events-activities.png"
+Pictogram: "/img/events-activities.png"
 ---

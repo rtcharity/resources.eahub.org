@@ -1,19 +1,27 @@
 {{ define "main" }}
 
-<div class="landing_main">
+<div class="landing">
 
-  <div class="landing_page_menu">
+  <h1>{{ .Title }}</h1>
+  <div class="landing_description">
+    {{ .Description }}
+  </div>
+
+  <div class="landing_menu">
   {{ range .Sections }}
     {{ if .Params.landingPageMenuItem }}
-    <div class="landing_page_menu_section">
+    <div class="landing_menu_category">
       <h2>{{ .Title }}</h2>
+      <div class="landing_row">
       {{ range .Sections }}
-        <div class="landing_page_menu_topic">
-          <img src={{ .Params.Image }} />
+        <a href="{{ .URL }}">
+        <div class="landing_menu_section">
+          <img src={{ .Params.Pictogram }} />
           <h4>{{ .Title }}</h4>
         </div>
+        </a>
       {{ end }}
-
+      </div>
     </div>
     {{ end }}
   {{ end }}

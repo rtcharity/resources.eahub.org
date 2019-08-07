@@ -1,18 +1,24 @@
 {{ define "main" }}
 
-  <article class="pa3 pa4-ns nested-copy-line-height nested-img section-list">
+  <article class="section">
     <h2>{{ .Title }}</h2>
-    <section class="flex-ns flex-wrap justify-around mt5">
+    <div class="section_description">
+        {{ .Description }}
+    </div>
+    <div class="section_img_container">
+      <img src="{{ .Params.Image }}" />
+    </div>
+    <ul>
       {{ range .Paginator.Pages }}
-
+      <li>
+      <section>
         {{ if (ne .Params.block  true) }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{- partial "description.html" . -}}
-        </div>
+          {{- partial "article_list.html" . -}}
         {{ end }}
-
+      </section>
+      </li>
       {{ end }}
-    </section>
+    </ul>
     {{- template "_internal/pagination.html" . -}}
   </article>
 {{ end }}

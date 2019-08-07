@@ -1,4 +1,4 @@
 ---
 Title: "Tips on Running a Group"
-Image: "/img/ea-groups.png"
+Pictogram: "/img/ea-groups.png"
 ---

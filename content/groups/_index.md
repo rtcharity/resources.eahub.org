@@ -1,4 +1,4 @@
 ---
-title: Resources for EA Groups
+Title: Resources for EA Groups
 landingPageMenuItem: true
 ---

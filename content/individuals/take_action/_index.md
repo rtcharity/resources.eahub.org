@@ -1,4 +1,4 @@
 ---
 Title: "Take Action"
-Image: "/img/take-action.png"
+Pictogram: "/img/take-action.png"
 ---

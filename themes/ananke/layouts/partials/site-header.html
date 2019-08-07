@@ -33,9 +33,16 @@
           <li><a href="/"><b>Resources Home</b></a></li>
           {{ range .Site.Sections.ByWeight }}
             {{ if ne .Params.drop_down false }}
-            <li><a href="{{ .URL }}">
-              {{ .Title }}
-            </a></li>
+            <li>
+              <a href="{{ .URL }}">{{ .Title }}</a>
+              <ul class="navbar-sections">
+                  {{ range .Sections }}
+                    <li>
+                      <a href="{{ .URL }}">{{ .Title }}</a>
+                    </li>
+                  {{ end }}
+              </ul>
+            </li>
             {{ end }}
           {{ end }}
         </ul>
