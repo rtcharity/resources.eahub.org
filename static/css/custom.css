@@ -347,12 +347,18 @@ body {
   margin-bottom: 25px;
   text-align: center;
 }
+
 .landing_page_menu_topic {
   display: inline-block;
 }
 
 .landing_page_menu_topic h3 {
   color: #635274;
+}
+
+.landing_page_menu_topic img {
+  width: 100px;
+  height: 100px;
 }
 
 .main {

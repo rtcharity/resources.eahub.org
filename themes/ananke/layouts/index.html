@@ -9,7 +9,8 @@
       <h2>{{ .Title }}</h2>
       {{ range .Sections }}
         <div class="landing_page_menu_topic">
-          <h3>{{ .Title }}</h3>
+          <img src={{ .Params.Image }} />
+          <h4>{{ .Title }}</h4>
         </div>
       {{ end }}
 
