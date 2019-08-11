@@ -340,12 +340,15 @@ body {
 .landing h1 {
   color: #635274;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .landing_description {
-  padding-left: 50px;
-  padding-right: 50px;
+  max-width: 700px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
 }
 
 .landing_menu {
