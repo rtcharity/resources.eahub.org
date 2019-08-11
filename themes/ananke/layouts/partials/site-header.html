@@ -32,12 +32,12 @@
           <hr>
           <li><a href="/"><b>Resources Home</b></a></li>
           <ul>
-          {{ range $index, $element := .Site.Sections.ByWeight }}
-            {{ if ne $element.Params.drop_down false }}
+          {{ range .Site.Sections.ByWeight }}
+            {{ if ne .Params.drop_down false }}
             <li class="navbar-category">
-              <h5>{{ $element.Title }}</h5>
+              <h5>{{ .Title }}</h5>
               <ul class="navbar-sections">
-                  {{ range $element.Sections }}
+                  {{ range .Sections }}
                     <li>
                       <a href="{{ .URL }}">{{ .Title }}</a>
                     </li>
