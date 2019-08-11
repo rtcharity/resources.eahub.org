@@ -429,6 +429,10 @@ body {
   transform: scale(1.1);
   font-weight: 500;
 }
+.navbar-nav li.navbar-category:hover {
+  transform: none;
+  font-weight: inherit;
+}
 .navbar li a {
   padding: 5px 15px 5px 0px;
   color: white;
@@ -455,6 +459,12 @@ body {
 .navbar hr {
   margin: 0px 5px 5px 5px;
 }
+
+.navbar-category {
+  list-style: none;
+  padding-right: 20px;
+}
+
 .navbar-header {
   background-color: #7bb0a8;
   float: none;
@@ -495,12 +505,15 @@ body {
   float: none!important;
   margin-right: 0px !important;
   margin-top: 7.5px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: right;
   width: 100%;
 }
 .navbar-nav li a {
-  padding-right: 30px;
+  padding-right: 25px;
+}
+.navbar-sections li a {
+  padding-right: 0;
 }
 .navbar-toggle {
   border: none;
@@ -514,12 +527,13 @@ body {
 }
 
 .navbar-sections {
-
+  display: none;
 }
 
 .navbar-sections li {
   list-style: none;
   font-size: 12px;
+  margin-bottom: 5px;
 }
 
 .navbar-signup-md {
@@ -566,11 +580,6 @@ body {
 
 .navbar .dropdown-menu {
   display: none;
-}
-
-.navbar-nav > li:hover{
-  transform: scale(1.1);
-  font-weight: 500;
 }
 
 .nav_container {

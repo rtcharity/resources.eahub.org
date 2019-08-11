@@ -31,24 +31,30 @@
           <li><a href="{{ .Site.Params.eahubURL }}/groups"><i class="fa fa-globe"></i> Groups</a></li>
           <hr>
           <li><a href="/"><b>Resources Home</b></a></li>
-          {{ range .Site.Sections.ByWeight }}
-            {{ if ne .Params.drop_down false }}
-            <li>
-              <a href="{{ .URL }}">{{ .Title }}</a>
-              <ul class="navbar-sections">
-                  {{ range .Sections }}
+          <ul>
+          {{ range $index, $element := .Site.Sections.ByWeight }}
+            {{ if ne $element.Params.drop_down false }}
+            <li class="navbar-category"
+                onmouseover="document.getElementById({{ $index }}).style.display = 'block'"
+                onmouseout="document.getElementById({{ $index }}).style.display = 'none'"
+            >
+              <h5 class="navbar-category-title">{{ $element.Title }}</h5>
+              <ul class="navbar-sections" id="{{ $index }}">
+                  {{ range $element.Sections }}
                     <li>
                       <a href="{{ .URL }}">{{ .Title }}</a>
                     </li>
                   {{ end }}
               </ul>
             </li>
+
             {{ end }}
           {{ end }}
+          <ul>
         </ul>
       </div>
     </div>
   </nav>
 
-<script src="/js/banner.js"></script>
+<script src="/js/navbar.js"></script>
     {{ template "_internal/google_analytics.html" . }}
