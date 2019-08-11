@@ -34,12 +34,9 @@
           <ul>
           {{ range $index, $element := .Site.Sections.ByWeight }}
             {{ if ne $element.Params.drop_down false }}
-            <li class="navbar-category"
-                onmouseover="document.getElementById({{ $index }}).style.display = 'block'"
-                onmouseout="document.getElementById({{ $index }}).style.display = 'none'"
-            >
-              <h5 class="navbar-category-title">{{ $element.Title }}</h5>
-              <ul class="navbar-sections" id="{{ $index }}">
+            <li class="navbar-category">
+              <h5>{{ $element.Title }}</h5>
+              <ul class="navbar-sections">
                   {{ range $element.Sections }}
                     <li>
                       <a href="{{ .URL }}">{{ .Title }}</a>

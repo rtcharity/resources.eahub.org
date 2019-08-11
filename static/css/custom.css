@@ -410,6 +410,9 @@ body {
 /* nav */
 
 /* nav */
+#navbar {
+  width: 250px;
+}
 .navbar h4 {
   color: white;
   display: inline-block;
@@ -463,6 +466,15 @@ body {
 .navbar-category {
   list-style: none;
   padding-right: 20px;
+  margin-bottom: 20px;
+}
+
+.navbar-category h5 {
+
+}
+
+li.navbar-category:nth-child(2) {
+  margin-bottom: 0;
 }
 
 .navbar-header {
@@ -513,7 +525,7 @@ body {
   padding-right: 25px;
 }
 .navbar-sections li a {
-  padding-right: 0;
+  padding-right: 5px;
 }
 .navbar-toggle {
   border: none;
@@ -526,8 +538,8 @@ body {
   float: none !important;
 }
 
-.navbar-sections {
-  display: none;
+.navbar-right ul {
+  padding-inline-start: 20px;
 }
 
 .navbar-sections li {
