@@ -154,40 +154,6 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.carousel {
-  margin-top: 5px;
-  padding-top: 10px;
-  background-color: transparent;
-  text-align: center;
-}
-
-.carousel_containers {
-  margin: 10px 10px 40px 10px;
-}
-
-.carousel_containers a {
-  text-decoration: none;
-  color: #635274;
-}
-
-.carousel_containers a:hover {
-  opacity: 0.7;
-}
-
-.carousel_containers a:visited {
-  color: #635274;
-}
-
-.carousel_links_img {
-  max-width: 150px;
-}
-
-.carousel_links_text {
-  margin-top: 10px;
-  text-align: center;
-  display: block;
-}
-
 .contact_form {
   width: 300px;
   margin-left: auto;
@@ -225,6 +191,11 @@ body {
 .contact_title {
   color: #512B52; /* EAHub purple */
   text-align: center;
+}
+
+.content {
+  background-color: #F4F4F4;
+  padding-bottom: 50px;
 }
 
 .drop_down {
@@ -391,8 +362,8 @@ body {
 }
 
 .main {
-  background-color: #F4F4F4;
-  padding-bottom: 50px;
+  display: flex;
+  align-items: flex-start;
 }
 
 .menu_bar {
@@ -435,10 +406,6 @@ body {
   transform: scale(1.1);
   font-weight: 500;
 }
-.navbar-nav li.navbar-category:hover {
-  transform: none;
-  font-weight: inherit;
-}
 .navbar li a {
   padding: 5px 15px 5px 0px;
   color: white;
@@ -464,20 +431,6 @@ body {
 }
 .navbar hr {
   margin: 0px 5px 5px 5px;
-}
-
-.navbar-category {
-  list-style: none;
-  padding-right: 20px;
-  margin-bottom: 20px;
-}
-
-.navbar-category h5 {
-
-}
-
-li.navbar-category:nth-child(2) {
-  margin-bottom: 0;
 }
 
 .navbar-header {
@@ -527,9 +480,7 @@ li.navbar-category:nth-child(2) {
 .navbar-nav li a {
   padding-right: 25px;
 }
-.navbar-sections li a {
-  padding-right: 5px;
-}
+
 .navbar-toggle {
   border: none;
   display: inline-block;
@@ -543,12 +494,6 @@ li.navbar-category:nth-child(2) {
 
 .navbar-right ul {
   padding-inline-start: 20px;
-}
-
-.navbar-sections li {
-  list-style: none;
-  font-size: 12px;
-  margin-bottom: 5px;
 }
 
 .navbar-signup-md {
@@ -653,7 +598,61 @@ li.navbar-category:nth-child(2) {
   width: 80%;
 }
 
+.site-menu {
+  background-color: white;
+  color: #512B52; /* EAHub purple */
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-left: 5px;
+}
 
+.site-menu a {
+  color: #512B52; /* EAHub purple */
+}
+
+.site-menu h4, h5 {
+  display: inline-block;
+  margin-top: 0px;
+  width: calc(100% - 15px);
+}
+
+.site-menu ul {
+  padding-inline-start: 10px;
+}
+
+.site-menu .caret {
+  border-top: 6px dashed;
+  border-top: 6px solid;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  margin-top: 4px;
+}
+
+.site-menu-category {
+  list-style: none;
+  padding-right: 20px;
+  margin-bottom: 10px;
+}
+
+li.site-menu-category:nth-child(2) {
+  margin-bottom: 0;
+}
+
+.site-menu-heading {
+  display: flex;
+  align-items: flex-start;
+}
+
+.site-menu-sections li {
+  list-style: none;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.site-menu-sections li a {
+  padding-right: 5px;
+  margin-bottom: 10px;
+}
 
 /* mobile responsive */
 @media(max-width: 768px) {
