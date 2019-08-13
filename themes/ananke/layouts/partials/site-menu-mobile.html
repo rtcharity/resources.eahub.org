@@ -1,5 +1,4 @@
-<div class="site-menu site-menu-desktop">
-  <h4>MENU</h4>
+<div class="site-menu site-menu-mobile">
   <ul>
   {{ range $indexCategory, $category :=  .Site.Sections.ByWeight }}
     {{ if ne $category.Params.drop_down false }}
@@ -7,10 +6,10 @@
       <div class="site-menu-heading">
         <h5>{{ $category.Title }}</h5>
         {{ if .Sections }}
-        <span class="site-menu-item-toggle caret" data-target="site-menu-sections-{{$indexCategory}}" />
+        <span class="site-menu-item-toggle caret" data-target="site-menu-mobile-sections-{{$indexCategory}}" />
         {{ end }}
       </div>
-      <ul class="site-menu-sections" id="site-menu-sections-{{$indexCategory}}" style="display: none">
+      <ul class="site-menu-sections" id="site-menu-mobile-sections-{{$indexCategory}}" style="display: none">
           {{ range $indexSection, $section := .Sections }}
             <li>
               <div class="site-menu-heading">
@@ -20,11 +19,11 @@
                 {{ if $section.Paginator.Pages }}
                 <span
                   class="site-menu-item-toggle caret"
-                  data-target='site-menu-articles-{{$indexCategory}}-{{$indexSection}}'
+                  data-target='site-menu-mobile-articles-{{$indexCategory}}-{{$indexSection}}'
                 />
                 {{ end }}
               </div>
-              <ul class="site-menu-articles" id="site-menu-articles-{{$indexCategory}}-{{$indexSection}}" style="display: none">
+              <ul class="site-menu-articles" id="site-menu-mobile-articles-{{$indexCategory}}-{{$indexSection}}" style="display: none">
               {{ range $article := $section.Paginator.Pages }}
                 <li><a href="{{ $article.URL }}">{{ $article.Title }}</a></li>
               {{ end }}

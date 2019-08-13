@@ -14,6 +14,7 @@
         <a href="{{ .Site.Params.eahubURL }}" id="logo_home_desktop"><img class="logo_full" id="logo" src="/img/logo_full_transparent.png" /></a>
         <a href="{{ .Site.Params.eahubURL }}" id="logo_home_mobile"><img id="logo" src="/img/logo_transparent.png" /></a>
         <h4 class="home">/ Resources </h4>
+
         {{ else }}
         <a href="{{ .Site.Params.eahubURL }}"><img id="logo" src="/img/logo_transparent.png" /></a>
         <h4>/Resources </h4>
@@ -30,6 +31,7 @@
           <li><a href="{{ .Site.Params.eahubURL }}/groups"><i class="fa fa-globe"></i> Groups</a></li>
           <hr>
           <li><a href="/"><b>Resources Home</b></a></li>
+          {{ block "siteMenuMobile" . }}{{ partial "site-menu-mobile.html" .}}{{ end }}
         </ul>
       </div>
     </div>

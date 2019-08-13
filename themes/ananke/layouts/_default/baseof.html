@@ -59,16 +59,18 @@
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <div class="main">
-      <span>
+      <div class="col-sm-3 col-lg-2">
         {{ block "siteMenu" . }}{{ partial "site-menu.html" .}}{{ end }}
-      </span>
-      <span>
+      </div>
+      <div class="col-xs-12 col-sm-9 col-lg-10">
         <main class="content" role="main">
           {{ block "main" . }}{{ end }}
-        </main>
+        </div>
       </span>
     </div>
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
   </body>
 </html>
+
+<script src="/js/site-menu.js"></script>

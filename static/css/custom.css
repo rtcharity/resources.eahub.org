@@ -366,6 +366,11 @@ body {
   align-items: flex-start;
 }
 
+.main .col-lg-2, .col-lg-10 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .menu_bar {
   width: 25px;
   height: 3px;
@@ -465,7 +470,7 @@ body {
 }
 
 .navbar-menu ul {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .navbar-nav {
@@ -478,7 +483,7 @@ body {
   width: 100%;
 }
 .navbar-nav li a {
-  padding-right: 25px;
+  padding-right: 20px;
 }
 
 .navbar-toggle {
@@ -601,9 +606,9 @@ body {
 .site-menu {
   background-color: white;
   color: #512B52; /* EAHub purple */
-  margin-left: 20px;
   padding-top: 10px;
-  padding-left: 5px;
+  padding-left: 10px;
+  width: 100%;
 }
 
 .site-menu a {
@@ -643,6 +648,37 @@ li.site-menu-category:nth-child(2) {
   align-items: flex-start;
 }
 
+.site-menu-desktop {
+  display: block;
+}
+
+.site-menu-mobile {
+  display: none;
+}
+
+.site-menu-mobile {
+  text-align: right;
+}
+
+.site-menu-mobile h4 {
+  display: none;
+}
+
+.site-menu-mobile li:hover {
+  transform: none;
+}
+
+.site-menu-mobile li a {
+  color: #512B52; /* EAHub purple */
+  padding-top: 0px;
+  text-align: right;
+  width: 100%;
+}
+
+.site-menu-mobile .site-menu-articles a {
+  font-size: 11px;
+}
+
 .site-menu-sections li {
   list-style: none;
   font-size: 12px;
@@ -652,6 +688,10 @@ li.site-menu-category:nth-child(2) {
 .site-menu-sections li a {
   padding-right: 5px;
   margin-bottom: 10px;
+}
+
+.site-menu-mobile .site-menu-sections li a {
+  margin-bottom: 0;
 }
 
 /* mobile responsive */
@@ -789,6 +829,14 @@ li.site-menu-category:nth-child(2) {
   }
   #logo_home_mobile {
     display: inline-block;
+  }
+
+  .site-menu-desktop {
+    display: none;
+  }
+
+  .site-menu-mobile {
+    display: block;
   }
 
 }
