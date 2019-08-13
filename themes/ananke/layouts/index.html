@@ -14,12 +14,12 @@
       <h2>{{ .Title }}</h2>
       <div class="landing_row">
       {{ range .Sections }}
-        <a href="{{ .URL }}">
         <div class="landing_menu_section">
+          <a href="{{ .URL }}">
           <img src={{ .Params.Pictogram }} />
           <h4>{{ .Title }}</h4>
+          </a>
         </div>
-        </a>
       {{ end }}
       </div>
     </div>

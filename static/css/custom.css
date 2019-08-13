@@ -196,6 +196,9 @@ body {
 .content {
   background-color: #F4F4F4;
   padding-bottom: 50px;
+  width: 80%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .drop_down {
@@ -341,9 +344,9 @@ body {
 .landing_menu_section {
   display: inline-block;
   text-align: center;
-  width: 200px;
   margin-left: 5px;
   margin-right: 5px;
+  width: 250px;
 }
 
 .landing_menu_section h4 {
@@ -608,7 +611,7 @@ body {
   color: #512B52; /* EAHub purple */
   padding-top: 10px;
   padding-left: 10px;
-  width: 100%;
+  width: 20%;
 }
 
 .site-menu a {
@@ -806,9 +809,19 @@ li.site-menu-category:nth-child(2) {
     width: 100%;
   }
 
+  .landing_menu {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
   .landing_menu_category h2 {
     font-size: 24px;
     color: #635274;
+  }
+
+  .landing_row {
+    display: block;
+    text-align: center;
   }
 
   .navbar h4 {
@@ -829,6 +842,10 @@ li.site-menu-category:nth-child(2) {
   }
   #logo_home_mobile {
     display: inline-block;
+  }
+
+  .content {
+    width: 100%;
   }
 
   .site-menu-desktop {
