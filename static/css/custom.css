@@ -645,6 +645,7 @@ li.site-menu-category:nth-child(2) {
 }
 
 .site-menu-desktop {
+  color: #512B52; /* EAHub purple */
   display: block;
   float: left;
   max-width: 220px;
