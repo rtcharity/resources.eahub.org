@@ -8,9 +8,9 @@ publish_mode: editorial_workflow #prevents changes from going live immediately a
 
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "evaluation_and_strategy" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Evaluation and Strategy" # Used in the UI, ie.: "New Post"
-    folder: "content/evaluation_and_strategy" # The path to the folder where the documents are stored
+  - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Groups: Events" # Used in the UI, ie.: "New Post"
+    folder: "content/groups/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -37,9 +37,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
 
-  - name: "events_and_activities" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Events and Activities" # Used in the UI, ie.: "New Post"
-    folder: "content/events_and_activities" # The path to the folder where the documents are stored
+  - name: "start" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Groups: Start an EA Group" # Used in the UI, ie.: "New Post"
+    folder: "content/groups/start" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -66,9 +66,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
 
-  - name: "guides_and_tips" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Guides and Tips" # Used in the UI, ie.: "New Post"
-    folder: "content/guides_and_tips" # The path to the folder where the documents are stored
+  - name: "tips" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Groups: Tips on Running a Group" # Used in the UI, ie.: "New Post"
+    folder: "content/groups/tips" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -95,9 +95,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
 
-  - name: "start_group" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Start an EA Group" # Used in the UI, ie.: "New Post"
-    folder: "content/start_a_group" # The path to the folder where the documents are stored
+  - name: "learn" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Individuals: Learn" # Used in the UI, ie.: "New Post"
+    folder: "content/individuals/learn" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -124,9 +124,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Title", name: "title", widget: "string"}
         - {label: "URL", name: "url", widget: "string"}
 
-  - name: "materials_and_templates" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Materials and Templates" # Used in the UI, ie.: "New Post"
-    folder: "content/materials_and_templates" # The path to the folder where the documents are stored
+  - name: "take_action" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Individuals: Take Action" # Used in the UI, ie.: "New Post"
+    folder: "content/individuals/take_action" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
