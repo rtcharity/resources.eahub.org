@@ -23,7 +23,7 @@ license:
 \
 <p>Now I'm just writing html straight in.</p>
 <br>
-<img src="https://shicschools.org/wp-content/uploads/2017/07/44b964_f16b09bc63944a0b867454d65651e5e6-mv2.jpg" alt="Have to work out how to get urls of images hosted on the hub" style="width:200px;">
+<img src="https://shicschools.org/wp-content/uploads/2017/07/44b964_f16b09bc63944a0b867454d65651e5e6-mv2.jpg" alt="Have to work out how to get urls of images hosted on the hub" style="width:200px;" class="center">
 
 \
 I would like to have responsive columns so photos can go next to text. Not sure hot to do that - prob need access to the style sheet
