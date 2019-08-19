@@ -14,18 +14,15 @@ license:
 
 ## Header 2
 
-
-
 > Quote
 
 ```
-<p>This is a code block. I'm uncertain what languages it understands</p>
+<p>This is a code block. I'm uncertain what languages it understands. Oh it just changes the font. Okey</p>
 ```
 
-
-
-<p>Now I'm just writing html straight in.</p>\
-<br>\
+\
+<p>Now I'm just writing html straight in.</p>
+<br>
 <img src="https://shicschools.org/wp-content/uploads/2017/07/44b964_f16b09bc63944a0b867454d65651e5e6-mv2.jpg" alt="Have to work out how to get urls of images hosted on the hub" style="width:200px;">
 
 \
