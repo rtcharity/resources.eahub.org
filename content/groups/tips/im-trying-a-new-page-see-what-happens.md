@@ -11,16 +11,24 @@ license:
 
 # Contents
 
-<a href="/heading2">This is the first section</a>
+<a href="#heading2">This is the first section</a>
 
-<a href="/heading2">This is the first subsection of the first section - would be nice to have it indented</a>
+<a href="#heading2">This is the first subsection of the first section - would be nice to have it indented</a>
 
 
 <h1 id="heading1"> Heading 1 - really would like a sans serif font</h2>
 
-<h2 id="heading2">Chapter 4</h2>
+Blah
+Blah
 
-## Heading 2
+Blah
+
+Blah
+Blah
+
+<h2 id="heading2">Heading 2</h2>
+
+## Another Heading 2
 
 ### Heading 3 yay for markdown
 
