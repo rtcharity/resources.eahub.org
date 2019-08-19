@@ -15,7 +15,14 @@ license:
 
 <a href="#heading2">   This is the first subsection of the first section - would be nice to have it indented</a>
 
-
+<ul>
+  <li><a href="#heading2">I could do it with bullets instead of indents?</a>
+</li>
+<ul>
+<li>Cool, that works!
+</li>
+</ul>
+</ul>
 <h1 id="heading1"> Heading 1 - really would like a sans serif font</h2>
 
 Blah
