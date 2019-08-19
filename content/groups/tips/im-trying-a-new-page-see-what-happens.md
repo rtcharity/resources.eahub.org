@@ -13,7 +13,7 @@ license:
 
 <a href="#heading2">This is the first section</a>
 
-<a href="#heading2">This is the first subsection of the first section - would be nice to have it indented</a>
+<a href="#heading2">   This is the first subsection of the first section - would be nice to have it indented</a>
 
 
 <h1 id="heading1"> Heading 1 - really would like a sans serif font</h2>
