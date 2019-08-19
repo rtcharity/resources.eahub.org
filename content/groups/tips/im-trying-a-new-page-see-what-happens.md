@@ -11,7 +11,7 @@ license:
 
 # Contents
 
-<a href="#heading2">This is the first section</a>
+<a href="#heading1">This is the first section</a>
 
 <a href="#heading2">   This is the first subsection of the first section - would be nice to have it indented</a>
 
