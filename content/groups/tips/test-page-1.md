@@ -25,8 +25,9 @@ license:
 <br>
 <img src="https://shicschools.org/wp-content/uploads/2017/07/44b964_f16b09bc63944a0b867454d65651e5e6-mv2.jpg" alt="Have to work out how to get urls of images hosted on the hub" style="width:200px;" class="center">
 
+Why aren't the piggies centered? Where do these slashes come from?\
 \
-I would like to have responsive columns so photos can go next to text. Not sure hot to do that - prob need access to the style sheet
+I would like to have responsive columns so photos can go next to text. Not sure how to do that - prob need access to the style sheet or header code or somethings... 
 
 ![Not sure how easy it is to resize like this - perhaps we have to determine the number of pixels for all pictures or use html. ](/img/hublogosmall.png "This is an image I'm adding with the + button. ")
 
