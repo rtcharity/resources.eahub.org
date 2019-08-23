@@ -20,6 +20,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", required: false}
+      - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -61,6 +63,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", required: false}
+      - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -102,6 +106,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", required: false}
+      - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -143,6 +149,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", required: false}
+      - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -172,7 +180,7 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
 
-  #TAKE ACTION  
+  #TAKE ACTION
   - name: "take_action" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Take Action" # Used in the UI, ie.: "New Post"
     folder: "content/take_action" # The path to the folder where the documents are stored
@@ -184,6 +192,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", required: false}
+      - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
       - label: "License"
         name: "license"
         widget: "list"
