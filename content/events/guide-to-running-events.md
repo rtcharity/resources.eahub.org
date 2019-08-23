@@ -9,5 +9,5 @@ This is a section. It's a guide to running events.
 
 It refers to some more detailed articles:
 
-[Planning checklist]<https://confident-minsky-f713d6.netlify.com/events/articles/planning_checklist>
-[On the day checklist]<https://confident-minsky-f713d6.netlify.com/events/articles/on-the-day-checklist>
+* [Planning checklist](https://confident-minsky-f713d6.netlify.com/events/articles/planning_checklist)
+* [On the day checklist](https://confident-minsky-f713d6.netlify.com/events/articles/on-the-day-checklist)
