@@ -28,9 +28,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
 
-  - name: "events/articles" # Used in routes, ie.: /admin/collections/:slug/edit
+  - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Groups: Events - Articles" # Used in the UI, ie.: "New Post"
-    folder: "content/groups/events" # The path to the folder where the documents are stored
+    folder: "content/groups/events/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
