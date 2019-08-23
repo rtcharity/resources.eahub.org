@@ -6,29 +6,18 @@
     <li class="site-menu-category">
       <div class="site-menu-heading">
         <h5>{{ $category.Title }}</h5>
-        {{ if .Sections }}
+        {{ if $category.Paginator.Pages }}
         <span class="site-menu-item-toggle caret" data-target="site-menu-sections-{{$indexCategory}}" />
         {{ end }}
       </div>
       <ul class="site-menu-sections" id="site-menu-sections-{{$indexCategory}}" style="display: none">
-          {{ range $indexSection, $section := .Sections }}
+          {{ range $indexSection, $section := $category.Paginator.Pages }}
             <li>
               <div class="site-menu-heading">
                 <a href="{{ .URL }}">
                   {{ $section.Title }}
                 </a>
-                {{ if $section.Paginator.Pages }}
-                <span
-                  class="site-menu-item-toggle caret"
-                  data-target='site-menu-articles-{{$indexCategory}}-{{$indexSection}}'
-                />
-                {{ end }}
               </div>
-              <ul class="site-menu-articles" id="site-menu-articles-{{$indexCategory}}-{{$indexSection}}" style="display: none">
-              {{ range $article := $section.Paginator.Pages }}
-                <li><a href="{{ $article.URL }}">{{ $article.Title }}</a></li>
-              {{ end }}
-              </ul>
             </li>
           {{ end }}
       </ul>

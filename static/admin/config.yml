@@ -8,9 +8,10 @@ publish_mode: editorial_workflow #prevents changes from going live immediately a
 
 
 collections: # A list of collections the CMS should be able to edit
+  #EVENTS
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Groups: Events" # Used in the UI, ie.: "New Post"
-    folder: "content/groups/events" # The path to the folder where the documents are stored
+    label: "Events" # Used in the UI, ie.: "New Post"
+    folder: "content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -19,7 +20,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -28,9 +28,9 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
 
-  - name: "events/articles" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Groups: Events - Articles" # Used in the UI, ie.: "New Post"
-    folder: "content/groups/events/articles" # The path to the folder where the documents are stored
+  - name: "events_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Events - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/events/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -41,7 +41,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -49,17 +48,30 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-      - label: "Related Articles"
-        name: "relatedArticles"
-        widget: "list"
-        required: false
-        fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "URL", name: "url", widget: "string"}
 
+  # START AN EA GROUP
   - name: "start" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Groups: Start an EA Group" # Used in the UI, ie.: "New Post"
-    folder: "content/groups/start" # The path to the folder where the documents are stored
+    label: "Start an EA Group" # Used in the UI, ie.: "New Post"
+    folder: "content/start" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+
+  - name: "start_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Start an EA Group - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/start/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -70,7 +82,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -78,17 +89,30 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-      - label: "Related Articles"
-        name: "relatedArticles"
-        widget: "list"
-        required: false
-        fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "URL", name: "url", widget: "string"}
 
+  # TIPS ON RUNNING A GROUP
   - name: "tips" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Groups: Tips on Running a Group" # Used in the UI, ie.: "New Post"
-    folder: "content/groups/tips" # The path to the folder where the documents are stored
+    label: "Tips on Running a Group" # Used in the UI, ie.: "New Post"
+    folder: "content/tips" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+
+  - name: "tips_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Tips on Running a Group - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/tips/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -99,7 +123,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -107,17 +130,30 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-      - label: "Related Articles"
-        name: "relatedArticles"
-        widget: "list"
-        required: false
-        fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "URL", name: "url", widget: "string"}
 
+  #LEARN
   - name: "learn" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Individuals: Learn" # Used in the UI, ie.: "New Post"
-    folder: "content/individuals/learn" # The path to the folder where the documents are stored
+    label: "Learn" # Used in the UI, ie.: "New Post"
+    folder: "content/learn" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+
+  - name: "learn_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Learn - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/learn/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -128,7 +164,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -136,17 +171,30 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-      - label: "Related Articles"
-        name: "relatedArticles"
-        widget: "list"
-        required: false
-        fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "URL", name: "url", widget: "string"}
 
+  #TAKE ACTION
   - name: "take_action" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Individuals: Take Action" # Used in the UI, ie.: "New Post"
-    folder: "content/individuals/take_action" # The path to the folder where the documents are stored
+    label: "Take Action" # Used in the UI, ie.: "New Post"
+    folder: "content/take_action" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+
+  - name: "take_action_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Take Action - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/take_action/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -157,7 +205,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tag", name: "tag", widget: "string", required: false}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-      - {label: "Blocked", name: "block", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -165,14 +212,6 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-      - label: "Related Articles"
-        name: "relatedArticles"
-        widget: "list"
-        required: false
-        fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "URL", name: "url", widget: "string"}
-
 
   - name: "pages"
     label: "Pages"

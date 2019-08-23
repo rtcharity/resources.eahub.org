@@ -21,12 +21,19 @@ Current URL: https://elated-khorana-9gb345.netlify.com
 * Follow link sent to your email. If it doesn't redirect to admin page, go to https://elated-khorana-9gb345.netlify.com/admin/ again
 * (When logging in next time, you might get a "Logged in as [Your username] message". If you close it, it   sends you back to the login page. Click login again, and you're redirected to the admin page. )
 
+### Content structure  
+There are three layers of content: **categories**, **sections** and **articles**.
+* Categories: This is the highest level of content, e.g., "Events", "Start a Group", or "Take Action". Categories are predefined and can only be added or removed in the source code, not through the content panel.
+* Sections: Categories contain sections. For example, the category "Events" can contain the section "Guide to running events". Sections usually contain some text and images and links to articles which provide further detail on the section topic. However, they **don't have** to contain links to articles. Admins can change/add/remove sections in their category folder. For example, an admin can add a new section in the category "Events", by clicking on "Events" in the left hand panel and then select "New: Events".
+* Articles: Articles are the lowest level of content. They are linked to in sections. Admins can create a new article by clicking on the articles button of the **category** it belongs to. For example, to create an article "Planning checklist" that will later be linked to in the section "Guide to running events", which again belongs to the category "Events", click on the button "Events Articles" on the left hand panel and then select "New: Events Articles". To link to the article in its section, just add its URL in the section text. The URL follows the format ```category_names/articles/article_name```. In our example, this would be ```events/articles/planning_checklist```. The precise article name can be read from the article's URL on the admin page.
+
 ### Changing content
 * Change content
 * Click Save
 * Set status to "ready" to make changes ready for publication
 * "Publish" to make changes go live
 * If you want content to be listed under "Selection of popular articles", add tag "popular"
+
 ### Access to Netlify account (for devs)
 * https://app.netlify.com
 * Ask Seb (sebbecker@gmx.net) for login details
