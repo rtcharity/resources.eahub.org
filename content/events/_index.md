@@ -1,6 +1,7 @@
 ---
 title: Events
 description: Some content on EA events
+weight: -23
 ---
 _This is the index page of a category, namely "Events". Category index pages can contain links to sections within the category_
 
