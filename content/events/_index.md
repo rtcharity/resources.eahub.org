@@ -1,7 +1,7 @@
 ---
 title: Events
 Pictogram: "/img/events-activities.png"
-weight: 0
+weight: 5
 description: Some content on EA events
 
 ---
