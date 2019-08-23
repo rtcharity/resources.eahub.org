@@ -1,6 +1,5 @@
 ---
-Title: "Tips on running a group"
-landingPageMenuItem: true
-Pictogram: "/img/take-action.png"
+title: "Tips on running a group"
+pictogram: "/img/take-action.png"
 weight: 4
 ---

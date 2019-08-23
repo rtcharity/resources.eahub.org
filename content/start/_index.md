@@ -1,6 +1,5 @@
 ---
-Title: "Start an EA Group"
-landingPageMenuItem: true
-Pictogram: "/img/events-activities.png"
+title: "Start an EA Group"
+pictogram: "/img/events-activities.png"
 weight: 3
 ---

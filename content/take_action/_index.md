@@ -1,6 +1,5 @@
 ---
-Title: "Take Action"
-landingPageMenuItem: true
-Pictogram: "/img/take-action.png"
+title: "Take Action"
+pictogram: "/img/take-action.png"
 weight: 2
 ---

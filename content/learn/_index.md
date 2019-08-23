@@ -1,5 +1,5 @@
 ---
-Title: "Learn"
-Pictogram: "/img/guides-tips.png"
+title: "Learn"
+pictogram: "/img/guides-tips.png"
 weight: 1
 ---
