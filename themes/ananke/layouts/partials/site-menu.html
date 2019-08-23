@@ -11,7 +11,7 @@
         {{ end }}
       </div>
       <ul class="site-menu-sections" id="site-menu-sections-{{$indexCategory}}" style="display: none">
-          {{ range $indexSection, $section := $category.Paginator.Pages }}
+          {{ range $indexSection, $section := $category.Paginator.Pages.ByWeight }}
             <li>
               <div class="site-menu-heading">
                 <a href="{{ .URL }}">

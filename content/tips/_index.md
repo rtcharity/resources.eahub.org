@@ -1,6 +1,6 @@
 ---
-Title: "Take Action"
+Title: "Tips on running a group"
 landingPageMenuItem: true
 Pictogram: "/img/take-action.png"
-weight: 2
+weight: 4
 ---

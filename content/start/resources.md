@@ -3,6 +3,7 @@ title: Introductory Resources for Aspiring EAs
 date: 2018-11-22T20:27:13.164Z
 description: Useful content for those starting their journey with Effective Altruism.
 tag: popular
+weight: 1
 author: Various
 originalPublicationURL: ''
 license:

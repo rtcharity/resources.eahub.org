@@ -8,23 +8,20 @@
   </div>
 
   <div class="landing_menu">
-  {{ range .Sections }}
+    <div class="landing_row">
+  {{ range $indexCategory, $category := .Sections.ByWeight }}
+
     {{ if .Params.landingPageMenuItem }}
-    <div class="landing_menu_category">
-      <h2>{{ .Title }}</h2>
-      <div class="landing_row">
-      {{ range .Sections }}
         <div class="landing_menu_section">
           <a href="{{ .URL }}">
-          <img src={{ .Params.Pictogram }} />
+          <img src="{{ .Params.Pictogram }}" />
           <h4>{{ .Title }}</h4>
           </a>
         </div>
-      {{ end }}
-      </div>
-    </div>
     {{ end }}
+
   {{ end }}
+  </div>
   </div>
 
 </div>

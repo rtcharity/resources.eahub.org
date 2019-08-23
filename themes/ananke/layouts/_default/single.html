@@ -24,9 +24,11 @@
           {{- .Date.Format "January 2, 2006" -}}
         </time>
         {{ end }}
+        {{ if .Params.author }}
         <div class="article_author">
             by&nbsp;{{- .Params.author -}}
         </div>
+        {{ end }}
       </div>
     </header>
 
