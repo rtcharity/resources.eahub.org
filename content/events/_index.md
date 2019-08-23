@@ -14,6 +14,6 @@ Once you know this, you probably want to know how to run them:
 
 [Guide to running events](events/guide-to-running-events)
 
-Index pages of categories can also contain images
+_Index pages of categories can also contain images_
 
 ![](/img/job-opportunity-2_orig.png)
