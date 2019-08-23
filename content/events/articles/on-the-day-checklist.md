@@ -7,8 +7,8 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-This checklist belongs to the section "Guide to running events"
-
+__This checklist belongs to the section "Guide to running events"__
+__Because it's an article, it does not appear in the menu.__
 
 
 * Arrive before the other participants

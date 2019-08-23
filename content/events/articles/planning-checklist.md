@@ -7,9 +7,9 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-This article is part of the section "Guide on running events".  
+__This article is part of the section "Guide on running events".__  
 
-Because it's an article, it does not appear in the menu.   
+__Because it's an article, it does not appear in the menu.__   
 
 * Think of something fun, like a bouncy castle  
 * Invite nice people
