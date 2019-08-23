@@ -27,34 +27,35 @@ collections: # A list of collections the CMS should be able to edit
         fields:
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-      - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
-        label: "Groups: Events - Articles" # Used in the UI, ie.: "New Post"
-        folder: "content/groups/events/articles" # The path to the folder where the documents are stored
-        create: true # Allow users to create new documents in this collection
-        fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Description", name: "description", widget: "text"}
-          - {label: "Illustration", name: "illustration", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Tag", name: "tag", widget: "string", required: false}
-          - {label: "Author", name: "author", widget: "string"}
-          - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
-          - {label: "Blocked", name: "block", widget: "boolean", required: false}
-          - label: "License"
-            name: "license"
-            widget: "list"
-            required: false
-            fields:
-            - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
-            - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
-          - label: "Related Articles"
-            name: "relatedArticles"
-            widget: "list"
-            required: false
-            fields:
-            - {label: "Title", name: "title", widget: "string"}
-            - {label: "URL", name: "url", widget: "string"}
+
+  - name: "events_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Groups: Events - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/groups/events/articles" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Blocked", name: "block", widget: "boolean", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+      - label: "Related Articles"
+        name: "relatedArticles"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "URL", name: "url", widget: "string"}
 
   - name: "start" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Groups: Start an EA Group" # Used in the UI, ie.: "New Post"
