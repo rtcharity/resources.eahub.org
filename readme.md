@@ -22,11 +22,24 @@ Current URL: https://elated-khorana-9gb345.netlify.com
 * (When logging in next time, you might get a "Logged in as [Your username] message". If you close it, it   sends you back to the login page. Click login again, and you're redirected to the admin page. )
 
 ### Content structure  
-There are three layers of content: **categories**, **sections** and **articles**.
-* Categories: This is the highest level of content, e.g., "Events", "Start a Group", or "Take Action". Categories are predefined and can only be added or removed in the source code, not through the content panel.
-Their index pages can be edited by admins. Click on the category name in the left hand panel, e.g., "Events". The first item in the list, which has the same name as the category, is the category's index page. 
-* Sections: Categories contain sections. For example, the category "Events" can contain the section "Guide to running events". Sections usually contain some text and images and links to articles which provide further detail on the section topic. However, they **don't have** to contain links to articles. Admins can change/add/remove sections in their category folder. For example, an admin can add a new section in the category "Events", by clicking on "Events" in the left hand panel and then select "New: Events".
-* Articles: Articles are the lowest level of content. They are linked to in sections. Admins can create a new article by clicking on the articles button of the **category** it belongs to. For example, to create an article "Planning checklist" that will later be linked to in the section "Guide to running events", which again belongs to the category "Events", click on the button "Events Articles" on the left hand panel and then select "New: Events Articles". To link to the article in its section, just add its URL in the section text. The URL follows the format ```category_names/articles/article_name```. In our example, this would be ```events/articles/planning_checklist```. The precise article name can be read from the article's URL on the admin page.
+There are three layers of content: **categories**, **sections** and **articles**.  
+
+#### Categories
+* Hierachy: This is the highest level of content, e.g., "Events", "Start a Group", or "Take Action".  
+* Add/remove: Categories are predefined and can only be added or removed in the source code, not through the admin panel.  
+* Edit: Their index pages can be edited on the admin panel. Click on the category name in the left hand panel, e.g., "Events". The first item in the list, which has the same name as the category, is the category's index page.
+
+#### Sections
+* Hierarchy: Categories contain sections. For example, the category "Events" can contain the section "Guide to running events".
+* Format: Sections usually contain some text and images and links to articles which provide further detail on the section topic. However, they **don't have** to contain links to articles.
+* Add/remove: Admins can change/add/remove sections in their category folder. For example, an admin can add a new section in the category "Events", by clicking on "Events" in the left hand panel and then select "New: Events".
+* Edit: A section can be changed in the admin panel by selecting its button in its category's list.  
+
+#### Articles:
+* Hierarchy: Articles are the lowest level of content.
+* Format: Articles usually contain some text and images.
+* Add/remove: Admins can create a new article by clicking on the articles button of the **category** it belongs to. For example, to create an article "Planning checklist" that will later be linked to in the section "Guide to running events", which again belongs to the category "Events", click on the button "Events Articles" on the left hand panel and then select "New: Events Articles". To link to the article in its section, just add its URL in the section text. The URL follows the format ```category_name/articles/article_name```. In our example, this would be ```events/articles/planning_checklist```. The precise article name can be read from the article's URL on the admin page.  
+* Edit: Admins can edit articles by selecting its button in it's category's article list.  
 
 ### Changing content
 * Change content
