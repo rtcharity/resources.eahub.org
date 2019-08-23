@@ -1,6 +1,6 @@
 ---
 title: Events
-description: Content on EA events
+description: Some content on EA events
 ---
 _This is the index page of a category, namely "Events". Category index pages can contain links to sections within the category_
 
