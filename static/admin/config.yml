@@ -156,6 +156,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: "pages"
     label: "Pages"
+    create: true
     files:
       - file: "content/_index.md"
         label: "Home Page"
