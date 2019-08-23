@@ -25,7 +25,8 @@ Current URL: https://elated-khorana-9gb345.netlify.com
 There are three layers of content: **categories**, **sections** and **articles**.  
 
 #### Categories
-* Hierachy: This is the highest level of content, e.g., "Events", "Start a Group", or "Take Action".  
+* Hierachy: This is the highest level of content, e.g., "Events", "Start a Group", or "Take Action".
+* Format: The index pages of categories contain texts, images, and links to the sections they contain.  
 * Add/remove: Categories are predefined and can only be added or removed in the source code, not through the admin panel.  
 * Edit: Their index pages can be edited on the admin panel. Click on the category name in the left hand panel, e.g., "Events". The first item in the list, which has the same name as the category, is the category's index page.
 
