@@ -6,20 +6,6 @@
         {{ .Description }}
     </div>
     {{ .Content }}
-    <div class="section_img_container">
-      <img src="{{ .Params.Image }}" />
-    </div>
-    <ul>
-      {{ range .Paginator.Pages }}
-      <li>
-      <section>
-        {{ if (ne .Params.block  true) }}
-          {{- partial "article_list.html" . -}}
-        {{ end }}
-      </section>
-      </li>
-      {{ end }}
-    </ul>
     {{- template "_internal/pagination.html" . -}}
   </article>
 {{ end }}

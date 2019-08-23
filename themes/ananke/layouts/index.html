@@ -11,7 +11,7 @@
     <div class="landing_row">
   {{ range $indexCategory, $category := .Sections.ByWeight }}
 
-    {{ if .Params.landingPageMenuItem }}
+    {{ if ne .Params.LandingPageMenuItem false }}
         <div class="landing_menu_section">
           <a href="{{ .URL }}">
           <img src="{{ .Params.Pictogram }}" />

@@ -5,14 +5,16 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-This is a section. It's a guide to running events.  
+_This is a section._
 
-Because it's a section, it appears in the menu (under its category, "Events").  
+This is our guide to running events.
 
-It refers to some more detailed articles:
+_Because it's a section, it appears in the menu (under its category, "Events")._  
+
+Here are some more detailed articles:
 
 * [Planning checklist](/events/articles/planning-checklist)
 * [On the day checklist](/events/articles/on-the-day-checklist)
 
-Sections can contain images.
+_Sections can contain images._
 ![London Group](/img/london_group.jpg)

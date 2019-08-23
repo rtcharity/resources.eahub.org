@@ -5,7 +5,9 @@
     {{ if ne $category.Params.drop_down false }}
     <li class="site-menu-category">
       <div class="site-menu-heading">
-        <h5>{{ $category.Title }}</h5>
+        <a href={{ $category.URL }}>
+          <h5>{{ $category.Title }}</h5>
+        </a>
         {{ if $category.Paginator.Pages }}
         <span class="site-menu-item-toggle caret" data-target="site-menu-sections-{{$indexCategory}}" />
         {{ end }}
