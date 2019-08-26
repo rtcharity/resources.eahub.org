@@ -1,14 +1,11 @@
 ---
 title: 'I''m trying a new page... see what happens '
-date: 2019-08-19T05:53:05.072Z
 description: Another test
 illustration: /img/landscape.jpg
-author: Me!
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-
 # Contents
 
 <a href="#heading1">This is the first section</a>
@@ -35,7 +32,7 @@ Blah
 
 <h2 id="heading2">Heading 2</h2>
 
-## Another Heading 2
+## Another Heading 2fdsa 
 
 ### Heading 3 yay for markdown
 
@@ -45,4 +42,4 @@ Blah
 
 ###### have we reached the end?
 
-### Heading 3 agains. 
+### Heading 3 agains.
