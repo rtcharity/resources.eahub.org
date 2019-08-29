@@ -1,5 +1,4 @@
 ---
-title: Contact LEAN
-drop_down: false
+title: Contact the Resources Team
 landingPageMenuItem: false
 ---

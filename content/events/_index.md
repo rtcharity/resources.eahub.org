@@ -1,5 +1,5 @@
 ---
-title: Events
+title: EA Group Events
 pictogram: "/img/events-activities.png"
 weight: 5
 description: Some content on EA events

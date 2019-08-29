@@ -1,5 +1,5 @@
 ---
-title: "Tips on running a group"
+title: "Tips on Running an EA Group"
 pictogram: "/img/take-action.png"
 weight: 4
 ---
