@@ -110,6 +110,13 @@ body {
   margin-left: auto;
 }
 
+.article_large_image {
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  min-width: 300px;
+}
+
 .article_keyquote {
   background-color: #A7DBAB; /* EAHub green */
   padding: 10px;
