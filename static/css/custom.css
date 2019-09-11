@@ -111,10 +111,16 @@ body {
 }
 
 .article_large_image {
-  margin-right: auto;
-  margin-left: auto;
+  text-align: center;
   width: 50%;
   min-width: 300px;
+}
+
+.article_small_image {
+  float: left;
+  width: 20%;
+  min-width: 100px;
+  padding-right: 10px;
 }
 
 .article_keyquote {
