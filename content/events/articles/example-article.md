@@ -15,6 +15,8 @@ This is an example article to show how to implement the features requested in \[
 <a href="#jump-link">1. Jump links</a>\
 <a href="#tables">2. Tables</a>\
 <a href="#images">3. Images</a>
+<a href="#links">4. Links</a>
+<a href="#videos">5. Videos</a>
 
 <a name="jump-link"></a>
 
@@ -71,5 +73,8 @@ You can simply create alphanumeric lists by writing them according to your likin
 2. Item 2  
     a) Subitem 2A  
     b) Subitem 2B  
+
+## 5. Videos  
+    
 
 <a name="target"></a>This here is the target of the jump link.
