@@ -53,7 +53,12 @@ Notice that for small images you don't need the paragraph tag `<p>`. Sed ut pers
 
 1. Item 1
 
-  a) Subitem A
-  b) Subitem B
+  a) Subitem 1A
+  b) Subitem 1B
+
+2. Item 2
+
+  a) Subitem 2A
+  b) Subitem 2B
 
 <a name="target"></a>This here is the target of the jump link.
