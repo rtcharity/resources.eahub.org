@@ -47,12 +47,18 @@ This is a small, left-aligned image, which text floats around:
 
 Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
-4. Lists  
+4. Lists    
+
+
 
 1. Item 1
 
-   a) Subitem A
+  a) Subitem 1A
+  b) Subitem 1B
 
-   b) Subitem B
+2. Item 2
+
+  a) Subitem 2A
+  b) Subitem 2B
 
 <a name="target"></a>This here is the target of the jump link.
