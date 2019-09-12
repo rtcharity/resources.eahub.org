@@ -16,11 +16,15 @@ This is an example article to show how to implement the features requested in \[
 <a href="#tables">2. Tables</a>\
 <a href="#images">3. Images</a>
 
-<a name="jump-link"></a>1. Jump links 
+<a name="jump-link"></a>
+
+## 1. Jump links  
 
 <a href="#target">Jump link</a>
 
-<a name="tables"></a>2. Tables   
+<a name="tables"></a>
+
+## 2. Tables   
 
 This is a table. Check out Markdown to see how to create it
 
@@ -30,7 +34,10 @@ This is a table. Check out Markdown to see how to create it
 | more stuff    | this is        | $12            |
 | exaaaaample   | what up NYC?   | $1             |
 
-<a name="images"></a>3. Images\
+<a name="images"></a>
+
+## 3. Images  
+
 This is a large, centered image:
 
 <p class="article_large_image">
@@ -47,18 +54,22 @@ This is a small, left-aligned image, which text floats around:
 
 Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
-4. Lists    
+## 4. Lists    
+
+You can simply create alphanumeric lists by writing them according to your liking in Markdown mode. Watch out for the following potential pitfalls:
+- Leave two whitespaces at the end of a line to ensure there is a linebreak after
+- Add sufficient whitespace before the letters/numbers to achieve indentation (see below example) . 
+
+1. Item 1  
+    a) Subitem 1A   
+    b) Subitem 1B  
+
+         (i) Subsubitem 1bi   
+         (ii) Subsubitem 1bii
 
 
-
-1. Item 1
-
-  a) Subitem 1A
-  b) Subitem 1B
-
-2. Item 2
-
-  a) Subitem 2A
-  b) Subitem 2B
+2. Item 2  
+    a) Subitem 2A  
+    b) Subitem 2B  
 
 <a name="target"></a>This here is the target of the jump link.
