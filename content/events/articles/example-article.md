@@ -10,23 +10,35 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-This is an example article to show how to implement the features requested in \[this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427)
+This is an example article to show how to implement the features requested in \[this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources.  
 
-<a href="#jump-link">1. Jump links</a>\
-<a href="#tables">2. Tables</a>\
-<a href="#images">3. Images</a>\
-<a href="#links">4. Links</a>\
-<a href="#videos">5. Videos</a>
+<a href="#general-advice">1. General advice</a>
+
+<a href="#jump-link">2. Jump links</a>\
+<a href="#tables">3. Tables</a>\
+<a href="#images">4. Images</a>\
+<a href="#links">5. Links</a>\
+<a href="#videos">6. Videos</a>
+
+<a name="general-advice"></a>
+
+## 1. General advice
+
+* The simplest way to add elements is through the panel in Rich Text mode. For example, it allows you to make text bold by clicking the 'B'.  
+* The Markdown mode gives you more options than the Rich Text mode. [This](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a good resource for using markdown  
+* As a last option, you can add your own HTML if the option provided by Rich Text and Markdown are not sufficient.  
+
+For lots of the examples in this article you need to see the Markdown to understand how their work. Thus, it is recommend to view this example article in Markdown mode.  
 
 <a name="jump-link"></a>
 
-## 1. Jump links
+## 2. Jump links  
 
 <a href="#target">Jump link</a>
 
 <a name="tables"></a>
 
-## 2. Tables
+## 3. Tables
 
 This is a table. Check out Markdown to see how to create it
 
@@ -38,7 +50,7 @@ This is a table. Check out Markdown to see how to create it
 
 <a name="images"></a>
 
-## 3. Images
+## 4. Images
 
 This is a large, centered image:
 
@@ -56,7 +68,7 @@ This is a small, left-aligned image, which text floats around:
 
 Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
-## 4. Lists
+## 5. Lists
 
 You can simply create alphanumeric lists by writing them according to your liking in Markdown mode. Watch out for the following potential pitfalls:
 
@@ -70,7 +82,7 @@ You can simply create alphanumeric lists by writing them according to your likin
    a) Subitem 2A\
    b) Subitem 2B  
 
-## 5. Videos
+## 6. Videos
 
 This is a video. Checkout Markdown to see how to embed it. For the link to the video (`src`) make sure to use a link suitable for embedding on a webpage. For example, for a youtube video choose an embed link (accessible when you click on `Share` under a video and then `Embed`).
 
