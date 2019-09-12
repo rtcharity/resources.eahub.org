@@ -157,6 +157,12 @@ body {
   font-weight: bold;
 }
 
+.article_video {
+  width: 420px;
+  height: 310px;
+  max-width: 100%;
+}
+
 .bg-black-box {
   background-color: black;
   display: inline-block;
@@ -167,6 +173,10 @@ body {
   background-color: #F4F4F4;
   font-family: 'Open Sans', sans-serif;
   width: 100%;
+}
+
+.textAlignCenter {
+  text-align: center;
 }
 
 .contact_form {

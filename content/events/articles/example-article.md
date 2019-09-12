@@ -10,16 +10,15 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-This is an example article to show how to implement the features requested in \[this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources.  
+This is an example article to show how to implement the features requested in [this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources.  
 
-<a href="#general-advice">1. General advice</a>
-
+<a href="#general-advice">1. General advice</a>\
 <a href="#jump-link">2. Jump links</a>\
 <a href="#tables">3. Tables</a>\
 <a href="#images">4. Images</a>\
 <a href="#lists">5. Lists</a>\
-<a href="#videos">6. Videos</a>
-<a href="#links">7. Links</a>
+<a href="#videos">6. Videos</a>\
+<a href="#links">7. Links</a>\
 
 <a name="general-advice"></a>
 
@@ -66,7 +65,7 @@ This is a small, left-aligned image, which text floats around:
 
 <img class="article_small_image" style="float: left" src="/img/bill-gates.jpg" />
 
-Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
 <a name="lists"></a>
 ## 5. Lists
@@ -74,7 +73,7 @@ Notice that for small images you don't need the paragraph tag `<p>`. Sed ut pers
 You can simply create alphanumeric lists by writing them according to your liking in Markdown mode. Watch out for the following potential pitfalls:
 
 * Leave two whitespaces at the end of a line (or a backward slash) to ensure there is a linebreak after
-* Add sufficient whitespace before the letters/numbers to achieve indentation (see below example) .   
+* Add sufficient whitespace before the letters/numbers to achieve indentation (see below example).  
 
 1. Item 1\
    a) Subitem 1A\
@@ -88,15 +87,20 @@ You can simply create alphanumeric lists by writing them according to your likin
 
 This is a video. Checkout Markdown to see how to embed it. For the link to the video (`src`) make sure to use a link suitable for embedding on a webpage. For example, for a youtube video choose an embed link (accessible when you click on `Share` under a video and then `Embed`).
 
-
-<iframe width="420" height="315"
+<div class="textAlignCenter">
+<iframe class="article_video"
   src="https://www.youtube.com/embed/WyprXhvGVYk">
 </iframe>
+</div>
 
-## 7. Links
-- Links that open in the same tab, can simply be created through the link button in Rich Text or through Markdown
-- Links that open in a new tab, need to be added through HTML
+<a name="links"></a>
+## 7. Links
+
+* Links that open in the same tab, can simply be created through the link button in Rich Text or through Markdown
+* Links that open in a new tab, need to be added through HTML
 
 <a target="_blank" href="https://eahub.org">This link opens in a new tab</a>
+
+## 8. Misc
 
 <a name="target"></a>This here is the target of the jump link from section 2.
