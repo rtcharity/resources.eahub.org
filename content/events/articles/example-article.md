@@ -1,16 +1,17 @@
 ---
 title: Example Article
+author: Seb
 date: 2019-08-29T20:01:47.775Z
 description: >-
   This is an example article to show how to implement the features requested in
   [this github
   ticket](https://github.com/rtcharity/resources.eahub.org/issues/427)
-author: Seb
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
 This is an example article to show how to implement the features requested in [this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources.  
+
 
 <a href="#general-advice">1. General advice</a>\
 <a href="#jump-link">2. Jump links</a>\
@@ -28,12 +29,16 @@ This is an example article to show how to implement the features requested in [t
 * The Markdown mode gives you more options than the Rich Text mode. [This](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a good resource for using markdown  
 * As a last option, you can add your own HTML if the option provided by Rich Text and Markdown are not sufficient.  
 
-For lots of the examples in this article you need to see the Markdown to understand how their work. Thus, it is recommend to view this example article in Markdown mode.  
+For lots of the examples in this article you need to see the Markdown to understand how their work.  
+
+**Thus, you should view this example article on the admin page, in Markdown mode.**  
+
+Note though that the preview on the right hand side on the admin page is not what the article actually looks like. To see this, go [here](https://confident-minsky-f713d6.netlify.com/events/articles/example-article/)
 
 <a name="jump-link"></a>
 ## 2. Jump links  
 
-This is a jump link. It's target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it.  
+This is a jump link. Its target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it.  
 
 <a href="#target">Jump link</a>
 
