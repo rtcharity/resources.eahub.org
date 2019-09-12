@@ -1,24 +1,23 @@
 ---
 title: Example Article
+author: Seb
 date: 2019-08-29T20:01:47.775Z
 description: >-
   This is an example article to show how to implement the features requested in
   [this github
   ticket](https://github.com/rtcharity/resources.eahub.org/issues/427)
-author: Seb
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
 This is an example article to show how to implement the features requested in \[this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources.  
 
-<a href="#general-advice">1. General advice</a>
-
+<a href="#general-advice">1. General advice</a>\
 <a href="#jump-link">2. Jump links</a>\
 <a href="#tables">3. Tables</a>\
 <a href="#images">4. Images</a>\
 <a href="#lists">5. Lists</a>\
-<a href="#videos">6. Videos</a>
+<a href="#videos">6. Videos</a>   
 <a href="#links">7. Links</a>
 
 <a name="general-advice"></a>
@@ -29,7 +28,9 @@ This is an example article to show how to implement the features requested in \[
 * The Markdown mode gives you more options than the Rich Text mode. [This](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a good resource for using markdown  
 * As a last option, you can add your own HTML if the option provided by Rich Text and Markdown are not sufficient.  
 
-For lots of the examples in this article you need to see the Markdown to understand how their work. Thus, it is recommend to view this example article in Markdown mode.  
+For lots of the examples in this article you need to see the Markdown to understand how their work.  
+
+**Thus, you should view this example article on the admin page, in Markdown mode.**  
 
 <a name="jump-link"></a>
 ## 2. Jump links  
@@ -93,10 +94,15 @@ This is a video. Checkout Markdown to see how to embed it. For the link to the v
   src="https://www.youtube.com/embed/WyprXhvGVYk">
 </iframe>
 
-## 7. Links
-- Links that open in the same tab, can simply be created through the link button in Rich Text or through Markdown
+## 7. Links
+
+- Links that open in the same tab can simply be created through the link button in Rich Text or through Markdown
 - Links that open in a new tab, need to be added through HTML
 
 <a target="_blank" href="https://eahub.org">This link opens in a new tab</a>
 
-<a name="target"></a>This here is the target of the jump link from section 2.
+
+## 8. Misc
+
+<a name="target"></a>
+This here is the target of the jump link from section 2.
