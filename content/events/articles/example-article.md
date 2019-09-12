@@ -17,8 +17,9 @@ This is an example article to show how to implement the features requested in \[
 <a href="#jump-link">2. Jump links</a>\
 <a href="#tables">3. Tables</a>\
 <a href="#images">4. Images</a>\
-<a href="#links">5. Links</a>\
+<a href="#lists">5. Lists</a>\
 <a href="#videos">6. Videos</a>
+<a href="#links">7. Links</a>
 
 <a name="general-advice"></a>
 
@@ -31,13 +32,13 @@ This is an example article to show how to implement the features requested in \[
 For lots of the examples in this article you need to see the Markdown to understand how their work. Thus, it is recommend to view this example article in Markdown mode.  
 
 <a name="jump-link"></a>
-
 ## 2. Jump links  
+
+This is a jump link. It's target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it.  
 
 <a href="#target">Jump link</a>
 
 <a name="tables"></a>
-
 ## 3. Tables
 
 This is a table. Check out Markdown to see how to create it
@@ -49,7 +50,6 @@ This is a table. Check out Markdown to see how to create it
 | exaaaaample   | what up NYC?   | $1             |
 
 <a name="images"></a>
-
 ## 4. Images
 
 This is a large, centered image:
@@ -68,6 +68,7 @@ This is a small, left-aligned image, which text floats around:
 
 Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
+<a name="lists"></a>
 ## 5. Lists
 
 You can simply create alphanumeric lists by writing them according to your liking in Markdown mode. Watch out for the following potential pitfalls:
@@ -82,14 +83,20 @@ You can simply create alphanumeric lists by writing them according to your likin
    a) Subitem 2A\
    b) Subitem 2B  
 
+<a name="videos"></a>
 ## 6. Videos
 
 This is a video. Checkout Markdown to see how to embed it. For the link to the video (`src`) make sure to use a link suitable for embedding on a webpage. For example, for a youtube video choose an embed link (accessible when you click on `Share` under a video and then `Embed`).
 
-```
+
 <iframe width="420" height="315"
   src="https://www.youtube.com/embed/WyprXhvGVYk">
 </iframe>
-```
 
-<a name="target"></a>This here is the target of the jump link.
+## 7. Links
+- Links that open in the same tab, can simply be created through the link button in Rich Text or through Markdown
+- Links that open in a new tab, need to be added through HTML
+
+<a target="_blank" href="https://eahub.org">This link opens in a new tab</a>
+
+<a name="target"></a>This here is the target of the jump link from section 2.
