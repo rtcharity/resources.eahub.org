@@ -14,8 +14,8 @@ This is an example article to show how to implement the features requested in \[
 
 <a href="#jump-link">1. Jump links</a>\
 <a href="#tables">2. Tables</a>\
-<a href="#images">3. Images</a>
-<a href="#links">4. Links</a>
+<a href="#images">3. Images</a>\
+<a href="#links">4. Links</a>\
 <a href="#videos">5. Videos</a>
 
 <a name="jump-link"></a>
@@ -60,24 +60,24 @@ Notice that for small images you don't need the paragraph tag `<p>`. Sed ut pers
 
 You can simply create alphanumeric lists by writing them according to your liking in Markdown mode. Watch out for the following potential pitfalls:
 
-* Leave two whitespaces at the end of a line to ensure there is a linebreak after
-* Add sufficient whitespace before the letters/numbers to achieve indentation (see below example) . 
+* Leave two whitespaces at the end of a line (or a backward slash) to ensure there is a linebreak after
+* Add sufficient whitespace before the letters/numbers to achieve indentation (see below example) .   
 
 1. Item 1\
    a) Subitem 1A\
    b) Subitem 1B  
-   ```
-    (i) Subsubitem 1bi   
-    (ii) Subsubitem 1bii
-   ```
 2. Item 2\
    a) Subitem 2A\
    b) Subitem 2B  
 
 ## 5. Videos
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=WyprXhvGVYk" type="video">
-</video>
+This is a video. Checkout Markdown to see how to embed it. For the link to the video (`src`) make sure to use a link suitable for embedding on a webpage. For example, for a youtube video choose an embed link (accessible when you click on `Share` under a video and then `Embed`).
+
+```
+<iframe width="420" height="315"
+  src="https://www.youtube.com/embed/WyprXhvGVYk">
+</iframe>
+```
 
 <a name="target"></a>This here is the target of the jump link.
