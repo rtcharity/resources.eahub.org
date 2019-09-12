@@ -12,7 +12,15 @@ license:
 ---
 This is an example article to show how to implement the features requested in \[this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427)
 
+<a href="#jump-link">1. Jump links</a>  
+<a href="#tables">2. Tables</a>  
+<a href="#images">3. Images</a>
+
+<a name="jump-link"></a>1. Jump links 
+ 
 <a href="#target">Jump link</a>
+
+<a name="tables"></a>2. Tables   
 
 This is a table. Check out Markdown to see how to create it
 
@@ -23,7 +31,7 @@ This is a table. Check out Markdown to see how to create it
 | exaaaaample   | what up NYC?   | $1             |
 
 
-
+<a name="images"></a>3. Images  
 This is a large, centered image:
 
 <p class="article_large_image">
