@@ -32,6 +32,8 @@ For lots of the examples in this article you need to see the Markdown to underst
 
 **Thus, you should view this example article on the admin page, in Markdown mode.**  
 
+Note though that the preview on the right hand side on the admin page is not what the article actually looks like. To see this, go [here](https://confident-minsky-f713d6.netlify.com/events/articles/example-article/)
+
 <a name="jump-link"></a>
 ## 2. Jump links  
 
