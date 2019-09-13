@@ -7,6 +7,10 @@ description: >-
 weight: 3
 pictogram: /img/events-activities.png
 ---
+![](/img/eaphilippinesstart.png "EA Philippines")
+
+#### Published 13th September 2019
+
 Effective altruism groups usually fall into two categories: city groups, which bring together anyone interested in effective altruism near a particular geographic area, and uni groups. Some groups have a combined city/uni group.
 
 This guide is primarily intended for individuals considering starting a new city or uni group. However, it may also be useful for someone taking on a leadership role at an existing EA group or for someone interested in starting a group that focuses on a specific subset of EA, such as effective animal advocacy or promoting effective global poverty charities.
@@ -27,8 +31,6 @@ This guide to starting an EA group is a compilation of ideas from various group 
 
 We intend for this guide to evolve and improve over time, so if you have any suggestions for it, please <a target="_blank" href="https://resources.eahub.org/contact-lean/">contact us</a>.
 
-
-
 # Guide Contents:
 
 ## [Why Start an EA Group?](https://resources.eahub.org/start/why/) START HERE
@@ -39,7 +41,7 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 ## [Get Support and Start Your Group](https://resources.eahub.org/start/support/)
 
-## [Uni Groups: How to Register with Your University](https://resources.eahub.org/start/register-uni/) 
+## [Uni Groups: How to Register with Your University](https://resources.eahub.org/start/register-uni/)
 
 ## [Uni Groups: Clubs Fair and Your First Event](https://resources.eahub.org/start/run-city-group/)
 
