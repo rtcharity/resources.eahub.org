@@ -7,9 +7,8 @@ description: >-
 weight: 3
 pictogram: /img/events-activities.png
 ---
-<p class="article_large_image">
- <img src="/img/eaphilippinesstart.png" />
-</p>
+
+![](/img/eaphilippinesstart.png "EA Philippines")
 
 #### Published 13th September 2019
 
@@ -29,22 +28,22 @@ To find local EAs:
 
 # Using this Guide
 
-This guide to starting an EA group is a compilation of ideas from various group organisers and the Local Effective Altruism Network (LEAN). Every organiser and every group is different, and ideas that work well for one group may need changes to work for another. So, use this guide as a starting point rather than a prescription, and <a target="_blank" href="/start/support/">seek advice from others</a>.
+This guide to starting an EA group is a compilation of ideas from various group organisers and the Local Effective Altruism Network (LEAN). Every organiser and every group is different, and ideas that work well for one group may need changes to work for another. So, use this guide as a starting point rather than a prescription, and <a target="_blank" href="https://resources.eahub.org/start/support/">seek advice from others</a>.
 
-We intend for this guide to evolve and improve over time, so if you have any suggestions for it, please <a target="_blank" href="/contact-lean/">contact us</a>.
+We intend for this guide to evolve and improve over time, so if you have any suggestions for it, please <a target="_blank" href="https://resources.eahub.org/contact-lean/">contact us</a>.
 
 # Guide Contents:
 
-## [Why Start an EA Group?](/start/why/) START HERE
+## [Why Start an EA Group?](https://resources.eahub.org/start/why/) START HERE
 
-## [Uni Groups: What is Involved in Running a Uni Group?](/start/run-uni-group/)
+## [Uni Groups: What is Involved in Running a Uni Group?](https://resources.eahub.org/start/run-uni-group)
 
-## [City Groups: What is Involved in Running a City Group?](/start/run-city-group/)
+## [City Groups: What is Involved in Running a City Group?](https://resources.eahub.org/start/run-city-group/)
 
-## [Get Support and Start Your Group](/start/support/)
+## [Get Support and Start Your Group](https://resources.eahub.org/start/support/)
 
-## [Uni Groups: How to Register with Your University](/start/register-uni/)
+## [Uni Groups: How to Register with Your University](https://resources.eahub.org/start/register-uni/)
 
-## [Uni Groups: Clubs Fair and Your First Event](/start/first-event-uni/)
+## [Uni Groups: Clubs Fair and Your First Event](https://resources.eahub.org/start/run-city-group/)
 
 ## [City Groups: Preparing for Your First Event](https://resources.eahub.org/start/run-city-group/)
