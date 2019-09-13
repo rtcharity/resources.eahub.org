@@ -7,6 +7,11 @@ description: >-
 weight: 3
 pictogram: /img/events-activities.png
 ---
+<p class="article_large_image">
+ <img src="/img/eaphilippinesstart.png" />
+</p>
+
+
 ### _Published 13th September 2019_
 
 Effective altruism groups usually fall into two categories: city groups, which bring together anyone interested in effective altruism near a particular geographic area, and uni groups. Some groups have a combined city/uni group.
