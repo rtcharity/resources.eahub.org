@@ -1,5 +1,5 @@
 ---
-title: Why
+title: Why Start an EA Group?
 description: Why Start an EA Group?
 weight: 1
 license:
