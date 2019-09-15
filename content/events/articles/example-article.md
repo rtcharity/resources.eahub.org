@@ -109,3 +109,16 @@ This is a video. Checkout Markdown to see how to embed it. For the link to the v
 ## 8. Misc
 
 <a name="target"></a>This here is the target of the jump link from section 2.
+
+
+# TESTING
+Text before ACE logo. Text before ACE logo. Text before ACE logo. Text before ACE logo. Text before ACE logo. 
+<img class="article_small_image" style="float: left" src="/img/acelogo.jpg" /> Text after ACE logo. Text after ACE logo. Text after ACE logo. Text after ACE logo.
+
+Text after ACE logo and after paragraph break.Text after ACE logo and after paragraph break. Text after ACE logo and after paragraph break. Text after ACE logo and after paragraph break.
+
+Text before GW logo. Text before GW logo. Text before GW logo. Text before GW logo. <img class="article_small_image" style="float: left" src="/img/givewell-logo-.png" /> Text after GW logo. Text after GW logo. Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo. 
+
+
+<img class="article_small_image" style="float: left" src="/img/eightythousandhours.png" /> Text after 80K Logo. 
+
