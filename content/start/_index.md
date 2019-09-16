@@ -1,13 +1,9 @@
 ---
 title: Start an EA Group
-description: >-
-  This guide is for individuals considering starting a new city or uni effective
-  altruism group. It may also be useful for existing organisers and people
-  taking on a leadership role at an existing EA group.
 weight: 3
 pictogram: /img/events-activities.png
 ---
-<p class="article_large_image">
+<p class="large_image_wrapper">
  <img src="/img/eaphilippinesstart.png" />
 </p>
 Photo from EA Philippines
@@ -26,7 +22,7 @@ To find local EAs:
 * Search for “\[your location / your university] Effective Altruism” on Facebook
 * Ask contacts you might have in the EA community
 * Join the <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook group </a>
-  and ask there 
+  and ask there
 
 # Using this Guide
 

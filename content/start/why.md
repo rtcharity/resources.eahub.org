@@ -1,12 +1,11 @@
 ---
 title: Why Start an EA Group?
-description: Why Start an EA Group?
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-<p class="article_large_image">
+<p class="large_image_wrapper">
  <img src="/img/easydneystartwhy.png" />
 </p>
 
@@ -26,6 +25,6 @@ According to the 2018 EA Survey, only <a target="_blank" href="https://forum.eff
 <a target="_blank" href="https://80000hours.org/problem-profiles/promoting-effective-altruism/">This article from 80,000 Hours</a> outlines reasons for and against working in community building. It is mostly directed towards people considering building the effective altruism community as a job, so if you are unsure whether to start a group or to use your time for other EA projects, this article might help you decide.
 
 
-# Next 
+# Next
 ## [Uni Groups: What is Involved in Running a Uni Group?](/start/run-uni-group/)
 ## [City Groups: What is Involved in Running a City Group?](/start/run-city-group/)
