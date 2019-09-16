@@ -110,8 +110,11 @@ body {
   margin-left: auto;
 }
 
-.article_large_image {
+.article_large_image_wrapper {
   text-align: center;
+}
+
+.article_large_image_wrapper img {
   width: 50%;
   min-width: 300px;
 }

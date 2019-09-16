@@ -58,7 +58,7 @@ This is a table. Check out Markdown to see how to create it
 
 This is a large, centered image:
 
-<p class="article_large_image">
+<p class="article_large_image_wrapper">
  <img src="/img/bill-gates.jpg" />
 </p>
 
