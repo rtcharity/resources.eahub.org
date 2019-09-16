@@ -110,11 +110,11 @@ body {
   margin-left: auto;
 }
 
-.article_large_image_wrapper {
+.large_image_wrapper {
   text-align: center;
 }
 
-.article_large_image_wrapper img {
+.large_image_wrapper img {
   width: 50%;
   min-width: 300px;
 }
@@ -593,40 +593,11 @@ body {
   font-weight: 400;
 }
 
-.section h2 {
-  color: #635274;
-  text-align: center;
-}
-
-.section ul {
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 20px;
-  padding-inline-start: 0;
-  width: 80%;
-}
-
-.section li {
-  list-style: none;
-}
-
 .section_description {
   margin-bottom: 25px;
   padding-left: 50px;
   padding-right: 50px;
   text-align: center;
-}
-
-.section_img_container {
-  text-align: center;
-}
-
-.section_img_container img {
-  width: 70%;
-}
-
-.section_artice_item {
-  width: 80%;
 }
 
 .site-menu {

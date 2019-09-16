@@ -58,7 +58,7 @@ This is a table. Check out Markdown to see how to create it
 
 This is a large, centered image:
 
-<p class="article_large_image_wrapper">
+<p class="large_image_wrapper">
  <img src="/img/bill-gates.jpg" />
 </p>
 
@@ -68,7 +68,7 @@ If you want to add a new image, add it through the menu above (the plus icon). T
 
 This is a small, left-aligned image, which text floats around:
 
-<img class="article_small_image" style="float: left" src="/img/bill-gates.jpg" />
+<img class="small_image" style="float: left" src="/img/bill-gates.jpg" />
 
 Notice that for small images you don't need the paragraph tag `<p>`. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
@@ -112,16 +112,15 @@ This is a video. Checkout Markdown to see how to embed it. For the link to the v
 
 
 # TESTING
-Text before ACE logo. Text before ACE logo. Text before ACE logo. Text before ACE logo. Text before ACE logo. 
+Text before ACE logo. Text before ACE logo. Text before ACE logo. Text before ACE logo. Text before ACE logo.
 
-<img class="article_small_image" style="float: left" src="/img/acelogo.jpg" /> Text after ACE logo. Text after ACE logo. Text after ACE logo. Text after ACE logo.
+<img class="small_image" style="float: left" src="/img/acelogo.jpg" /> Text after ACE logo. Text after ACE logo. Text after ACE logo. Text after ACE logo.
 
 Text after ACE logo and after paragraph break.Text after ACE logo and after paragraph break. Text after ACE logo and after paragraph break. Text after ACE logo and after paragraph break.
 
-Text before GW logo. Text before GW logo. Text before GW logo. Text before GW logo. <img class="article_small_image" style="float: left" src="/img/givewell-logo-.jpg" /> ### Text after GW logo. 
+Text before GW logo. Text before GW logo. Text before GW logo. Text before GW logo. <img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" /> ### Text after GW logo.
 
-Text after GW logo. Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo. 
+Text after GW logo. Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.Text after GW logo. Text after GW logo.
 
 
-<img class="article_small_image" style="float: left" src="/img/eightythousandhours.png" /> Text after 80K Logo. 
-
+<img class="small_image" style="float: left" src="/img/eightythousandhours.png" /> Text after 80K Logo.

@@ -2,7 +2,6 @@
 title: EA Group Events
 pictogram: "/img/events-activities.png"
 weight: 5
-description: Some content on EA events
 
 ---
 _This is the index page of a category, namely "Events". Category index pages can contain links to sections within the category_

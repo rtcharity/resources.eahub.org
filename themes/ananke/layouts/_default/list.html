@@ -1,11 +1,27 @@
 {{ define "main" }}
+  <article class="article flex-l flex-wrap justify-between mw9 center ph3 ph0-l">
 
-  <article class="section">
-    <h2>{{ .Title }}</h2>
-    <div class="section_description">
-        {{ .Description }}
-    </div>
-    {{ .Content }}
-    {{- template "_internal/pagination.html" . -}}
+    <header class="mt4 w-100">
+      <h1 class="f0 mb1 article_title">
+        {{- .Title -}}
+      </h1>
+    </header>
+
+    <main class="nested-copy-line-height lh-copy f3 nested-links nested mid-gray">
+      <div class="section_description">
+          {{ .Description }}
+      </div>
+        {{- .Content -}}
+      {{ if .Params.originalPublicationURL }}
+      <div class="article_original">
+        This article was originally published <a href="{{ .Params.originalPublicationURL }}">here</a>.
+      </div>
+      {{ end }}
+      <div class="article_license">
+          This article is under a <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">
+            Creative Commons Attribution-ShareAlike 3.0</a> license.
+      </div>
+    </main>
+
   </article>
 {{ end }}
