@@ -213,6 +213,47 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
         - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
 
+  #GRAPHICS
+  - name: "graphics" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Graphics" # Used in the UI, ie.: "New Post"
+    folder: "content/graphics" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", required: false}
+      - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+
+  - name: "graphics_articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Graphics - Articles" # Used in the UI, ie.: "New Post"
+    folder: "content/graphics/articles" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Illustration", name: "illustration", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tag", name: "tag", widget: "string", required: false}
+      - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
+      - label: "License"
+        name: "license"
+        widget: "list"
+        required: false
+        fields:
+        - {label: "Name", name: "name", widget: "string", default: "Creative Commons Attribution-ShareAlike 3.0"}
+        - {label: "URL", name: "url", widget: "string", default: "https://creativecommons.org/licenses/by-sa/3.0/legalcode"}
+
   - name: "pages"
     label: "Pages"
     create: true
