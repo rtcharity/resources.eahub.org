@@ -1,5 +1,5 @@
 ---
 title: "Learn"
-pictogram: "/img/guides-tips.png"
+pictogram: "/img/start.png"
 weight: 1
 ---

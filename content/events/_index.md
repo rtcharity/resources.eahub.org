@@ -1,6 +1,6 @@
 ---
 title: EA Group Events
-pictogram: "/img/events-activities.png"
+pictogram: "/img/events.png"
 weight: 5
 
 ---

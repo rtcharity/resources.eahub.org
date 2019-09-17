@@ -1,5 +1,5 @@
 ---
 title: "Graphics"
-pictogram: "/img/guides-tips.png"
+pictogram: "/img/graphics.png"
 weight: 6
 ---
