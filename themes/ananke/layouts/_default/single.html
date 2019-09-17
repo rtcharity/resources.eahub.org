@@ -18,7 +18,7 @@
       <h1 class="f0 mb1 article_title">
         {{- .Title -}}
       </h1>
-      <div class="article_meta">
+      <div>
         {{ if .Site.Params.showDates }}
         <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
           {{- .Date.Format "January 2, 2006" -}}
