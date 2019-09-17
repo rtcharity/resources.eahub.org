@@ -389,7 +389,7 @@ body {
 .landing_row {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .main .col-lg-2, .col-lg-10 {
