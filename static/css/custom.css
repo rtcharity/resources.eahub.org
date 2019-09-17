@@ -602,16 +602,13 @@ body {
   border-right: 6px solid transparent;
   border-left: 6px solid transparent;
   margin-top: 10px;
+  margin-left: 5px;
 }
 
 .site-menu-category {
   list-style: none;
   padding-right: 20px;
   margin-bottom: 10px;
-}
-
-li.site-menu-category:nth-child(2) {
-  margin-bottom: 0;
 }
 
 .site-menu-heading {
@@ -637,14 +634,14 @@ li.site-menu-category:nth-child(2) {
 .site-menu-mobile {
   display: none;
   color: white;
-}
-
-.site-menu-mobile {
   text-align: right;
 }
 
 .site-menu-mobile h4 {
   display: none;
+}
+.site-menu-mobile h5 {
+  margin: 0px;
 }
 
 .site-menu-mobile li:hover {
@@ -653,13 +650,25 @@ li.site-menu-category:nth-child(2) {
 
 .site-menu-mobile li a {
   color: white; /* EAHub purple */
-  padding-top: 0px;
+  padding: 0 5px 0 0;
   text-align: right;
   width: 100%;
 }
 
+.site-menu-mobile .caret {
+  margin-top: 0px;
+}
+
 .site-menu-mobile .site-menu-articles a {
   font-size: 11px;
+}
+
+.site-menu-mobile .site-menu-heading {
+  display: block;
+}
+
+.site-menu-mobile .site-menu-sections {
+  margin-top: 5px;
 }
 
 .site-menu-sections li {
