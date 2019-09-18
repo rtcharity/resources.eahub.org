@@ -6,14 +6,17 @@ license:
 ---
 ### _Published 18th September 2019_
 
+
 # Goals for Uni Groups
 
 There are a number of different types of uni groups. To work out what type of group is suitable for your university, consider: 
+
 * The goals you have for your group
 * The amount of time and energy you have available
 * The number of people already interested in effective altruism
 
 Possible goals your group could have include:
+
 * Introducing new people to the ideas of effective altruism
 * Giving existing EAs the advice and resources they need to become more effective
 * Creating a warm, tight-knit community to support members in their efforts to do good
@@ -33,6 +36,7 @@ If you happen to gather members whose priorities substantially differ from yours
 
 ## Formal groups
 Being recognised as a student organisation gives you certain privileges, which may include:
+
 * Having a stall at the clubs fair, a day where groups recruit new members from the student population
 * Applying for funding
 * Booking rooms
@@ -55,6 +59,7 @@ Multi-session courses run for a small group of admitted participants, usually ad
 Fellowships may have more consistent attendance than regular clubs, but they require enough initial advertisement to reach enough applicants. 
 
 A fellowship might be a good way of starting a group if your group organisers:
+
 * Are confident at public speaking and facilitating discussions
 * Have plenty of time before and during the semester to plan and execute the fellowship
 * Have good organisational skills 
@@ -86,6 +91,7 @@ _EA ANU used to act as a city-uni partnership but later chose to split the non-s
 
 # Who Should Start a Group?
 Starting a uni group is a good idea if you:
+
 * Are knowledgeable and passionate about EA
 * Are friendly and enthusiastic about helping others to learn about effective altruism and be involved in your club and the movement
 * Have enough time available to reliably organise group activities
@@ -100,6 +106,7 @@ This isn’t to say you shouldn’t start a group if the above don’t all apply
 The time commitment for running a group depends on what you’re planning to do with it. Some groups just meet casually every now and then socially and for discussions, while others run extensive outreach campaigns, retreats, or large events. Remember that starting a group isn’t all-or-nothing: if you can’t currently run anything fancy, you can still introduce new people to the movement and support other EAs in your community in whatever ways you have time for. Along the way, you may find new members who want to help you plan more things!
 
 At bare minimum, your group’s leadership needs the capacity to:
+
 * Handle paperwork, including the official registration of the club if you are a formal group
 * Handle receipts and other financial matters, such as requesting funding, if your activities involve purchases of food or other items
 * Understand and comply with university policies
@@ -111,6 +118,7 @@ Before you start a club, make sure you and your fellow organisers can handle the
 If you’re founding a club by yourself, you may find yourself overwhelmed. Don’t feel bad if you decide you’re too busy to start a group or realise after doing so that you can’t manage the workload. You’re likely to go on to bigger, better, higher-impact things after you graduate. If you burn out now, you might be unable to take advantage of future opportunities.
  
 After the club’s basic functions are taken care of, spare capacity can be used to:
+
 * Expand advertising efforts
 * Manage a web presence and social media
 * Plan special events such as retreats, career workshops, and speakers
@@ -122,6 +130,7 @@ If you’re having trouble managing the workload, delegate where you can and rea
 Working with a co-organiser lets you share the tasks of starting and running a group, and also can be good for your motivation. If you don’t have co-organisers, you may still want to talk through your plans with friends or group organisers from other universities before implementing them, just to get another perspective. 
 
 You can find potential co-organisers by checking for existing EAs in your area, which might involve some of the following tasks.
+
 * Ask your friends who are interested in effective altruism and would be open to helping you out to get the ball rolling
 * Ask existing EA connections if they know anyone else in your area
 * Check if any members of a local city group are staff or students at your university. <a target="_blank" href="https://eahub.org/groups/ ">Find groups here</a>. 
