@@ -6,7 +6,6 @@ license:
 ---
 ### _Published 18th September 2019_
 
-
 # Goals for Uni Groups
 
 There are a number of different types of uni groups. To work out what type of group is suitable for your university, consider: 
@@ -59,7 +58,6 @@ Multi-session courses run for a small group of admitted participants, usually ad
 Fellowships may have more consistent attendance than regular clubs, but they require enough initial advertisement to reach enough applicants. 
 
 A fellowship might be a good way of starting a group if your group organisers:
-
 * Are confident at public speaking and facilitating discussions
 * Have plenty of time before and during the semester to plan and execute the fellowship
 * Have good organisational skills 
