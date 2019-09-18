@@ -6,6 +6,11 @@ license:
 ---
 ### _Published 18th September 2019_
 
+<p class="large_image_wrapper">
+ <img src="/img/startntnu.jpg" />
+</p>
+
+
 # Goals for Uni Groups
 
 There are a number of different types of uni groups. To work out what type of group is suitable for your university, consider: 
