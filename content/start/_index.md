@@ -1,7 +1,7 @@
 ---
 title: Start an EA Group
 weight: 3
-pictogram: /img/events-activities.png
+pictogram: /img/start.png
 ---
 <p class="large_image_wrapper">
  <img src="/img/eaphilippinesstart.png" />
