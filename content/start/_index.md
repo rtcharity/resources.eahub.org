@@ -32,16 +32,16 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 # Guide Contents:
 
-## [Why Start an EA Group?](/start/why/) START HERE
+### [Why Start an EA Group?](/start/why/) START HERE
 
-## [Uni Groups: What is Involved in Running a Uni Group?](/start/run-uni-group)
+### [Uni Groups: What is Involved in Running a Uni Group?](/start/run-uni-group)
 
-## [City Groups: What is Involved in Running a City Group?](/start/run-city-group/)
+### [City Groups: What is Involved in Running a City Group?](/start/run-city-group/)
 
-## [Get Support and Start Your Group](/start/support/)
+### [Get Support and Start Your Group](/start/support/)
 
-## [Uni Groups: How to Register with Your University](/start/register-uni/)
+### [Uni Groups: How to Register with Your University](/start/register-uni/)
 
-## [Uni Groups: Clubs Fair and Your First Event](/start/run-city-group/)
+### [Uni Groups: Clubs Fair and Your First Event](/start/run-city-group/)
 
-## [City Groups: Preparing for Your First Event](start/run-city-group/)
+### [City Groups: Preparing for Your First Event](start/run-city-group/)
