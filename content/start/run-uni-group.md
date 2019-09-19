@@ -55,7 +55,7 @@ _Most EA uni groups are formal groups._
 ## Casual groups
 If you already know EAs at your university, you can meet up with them every now and then without worrying about outreach or complex programming. Members of casual groups hang out, discuss the movement, and support each other’s career plans. You may not even have to register as an official club with your university, though you should be careful not to violate any regulations. This is a good option if you’re very pressed for time, and it can turn into something more ambitious if your organising capacity increases later. 
 
-_UC San Diego runs a casual club._
+_UC San Diego runs a casual group._ 
 
 ## Fellowships
 Multi-session courses run for a small group of admitted participants, usually advertised as fellowships, can be an excellent way to kickstart recruitment and quickly educate people who are new to EA. Some organisers begin their groups as only a fellowship and afterwards develop additional club activities with the help of the most committed fellows.
