@@ -7,7 +7,7 @@ pictogram: /img/events-activities.png
  <img src="/img/eaphilippinesstart.png" />
 </p>
 
-_Photo from EA Philippines_
+_Image: EA Philippines_
 
 ### _Published 13th September 2019_
 
