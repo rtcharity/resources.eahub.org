@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Get Support and Start Your Group
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
