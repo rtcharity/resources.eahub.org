@@ -1,5 +1,6 @@
 ---
 title: 'Uni Groups: What is Involved in Running a Uni Group? '
+weight: 0
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -10,6 +11,7 @@ license:
  <img src="/img/startntnu.jpg" />
 </p>
 
+_Image: EA NTNU_
 
 # Goals for Uni Groups
 
