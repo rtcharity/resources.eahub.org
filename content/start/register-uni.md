@@ -1,5 +1,5 @@
 ---
-title: Register Uni
+title: 'Uni Groups: How to Register with Your University'
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -56,8 +56,7 @@ Effective Altruism <Name of Uni> aims to promote effective altruism in all its f
 
 # Example Constitutions
 
-Here are some examples of constitutions from EA groups: <a target="_blank" href="https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo”>Cambridge</a> (UK), <a target="_blank" href="https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ/edit”>Auckland</a> (New Zealand), 
-<a target="_blank" href="https://docs.google.com/document/d/1ir4DMn4tmc2N_zJR3x5Ca_yiaveTycmKJqKrJaSo4iQ”>MIT</a> (USA).
+Here are some examples of constitutions from EA groups: <a target=”_blank” href=”https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo”>Cambridge</a> (UK), <a target=”_blank” href=”https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ”>Auckland</a> (NZ), <a target=”_blank” href=”https://docs.google.com/document/d/1ir4DMn4tmc2N_zJR3x5Ca_yiaveTycmKJqKrJaSo4iQ”>MIT</a> (USA). 
 
 # Getting a Faculty Advisor
 Some universities require clubs to have a faculty member act as an advisor for groups. If you or your co-organisers have a good relationship with a professor, ask them first. Otherwise, try professors of related topics such as philosophy, global development, and economics. Start by emailing them, stating that you’d like to start an effective altruism club (with a brief description of what effective altruism is), and ask for an in-person meeting. At the meeting, make it clear what you want them to do (it might just be to sign some documents). Have your <a target=”_blank” href=”/learn/articles/what-to-say”>EA pitch</a> sorted out and be ready to explain what your group will do. If possible, bring a <a target=”_blank” href=”/graphics/editable-graphics/#brochure”>brochure about EA</a>.
