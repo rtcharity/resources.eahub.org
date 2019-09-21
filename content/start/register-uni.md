@@ -1,5 +1,5 @@
 ---
-title: Register Uni
+title: 'Uni Groups: How to Register with Your University'
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
