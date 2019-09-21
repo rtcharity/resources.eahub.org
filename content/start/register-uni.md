@@ -49,7 +49,7 @@ Effective Altruism (Name of Uni) aims to promote effective altruism in all its f
 
 ### Article 6: Dissolution 
 
-1. The Society may be dissolved at a General Meeting provided that written notice of at least 21 days of the intention to dissolve the Society has been given to the members. Dissolution of Effective Altruism <Name of Uni> shall be decided by consensus. 
+1. The Society may be dissolved at a General Meeting provided that written notice of at least 21 days of the intention to dissolve the Society has been given to the members. Dissolution of Effective Altruism (Name of Uni) shall be decided by consensus. 
 2. In case of dissolution, all funds and property shall be transferred to another Registered University Society, or to the Office of Student Affairs. 
 ### Article 7: Amendment 
 1. Amendments can be proposed by any member of the organisation. 
@@ -58,10 +58,10 @@ Effective Altruism (Name of Uni) aims to promote effective altruism in all its f
 
 # Example Constitutions 
 
-Here are some examples of constitutions from EA groups: <a target=”_blank” href=”https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo”>Cambridge</a> (UK), <a target=”_blank” href=”https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ”>Auckland</a> (NZ), <a target=”_blank” href=”https://docs.google.com/document/d/1ir4DMn4tmc2N_zJR3x5Ca_yiaveTycmKJqKrJaSo4iQ”>MIT</a> (USA). 
+Here are some examples of constitutions from EA groups: <a target=”_blank” href=”https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo/”>Cambridge</a> (UK), <a target=”_blank” href=”https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ/”>Auckland</a> (NZ), <a target=”_blank” href=”https://docs.google.com/document/d/1ir4DMn4tmc2N_zJR3x5Ca_yiaveTycmKJqKrJaSo4iQ/”>MIT</a> (USA). 
 
 # Getting a Faculty Advisor 
-Some universities require clubs to have a faculty member act as an advisor for groups. If you or your co-organisers have a good relationship with a professor, ask them first. Otherwise, try professors of related topics such as philosophy, global development, and economics. Start by emailing them, stating that you’d like to start an effective altruism club (with a brief description of what effective altruism is), and ask for an in-person meeting. At the meeting, make it clear what you want them to do (it might just be to sign some documents). Have your <a target=”_blank” href=”/learn/articles/what-to-say”>EA pitch</a> sorted out and be ready to explain what your group will do. If possible, bring a <a target=”_blank” href=”/graphics/editable-graphics/#brochure”>brochure about EA</a>. 
+Some universities require clubs to have a faculty member act as an advisor for groups. If you or your co-organisers have a good relationship with a professor, ask them first. Otherwise, try professors of related topics such as philosophy, global development, and economics. Start by emailing them, stating that you’d like to start an effective altruism club (with a brief description of what effective altruism is), and ask for an in-person meeting. At the meeting, make it clear what you want them to do (it might just be to sign some documents). Have your <a target=”_blank” href=”/learn/articles/what-to-say/”>EA pitch</a> sorted out and be ready to explain what your group will do. If possible, bring a <a target=”_blank” href=”/graphics/editable-graphics/#brochure”>brochure about EA</a>. 
 # Utilising the Student Union 
 * Get a copy of any booklet that the Student Union produces for clubs. 
 * Find out what resources are available to you, for instance: 
@@ -75,6 +75,6 @@ Some universities require clubs to have a faculty member act as an advisor for g
 * Check what sources of funding/grants are available for student groups. 
 * Check if there are any committees on which it would be useful for your group to have input (e.g. campaigns, student activities, clubs and societies, or any that determine the distribution of funds). If so, consider encouraging members of your group to run for election to them. 
 # More on Starting a Uni Group 
-For general tips on starting a uni group check out this <a target=”_blank” href=”https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM”>guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
-### [NEXT: Uni Groups: Clubs Fair and your First Event](/start/first-event-uni) 
+For general tips on starting a uni group check out this <a target=”_blank” href=”https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM/”>guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
+### [NEXT: Uni Groups: Clubs Fair and your First Event](/start/first-event-uni/) 
 
