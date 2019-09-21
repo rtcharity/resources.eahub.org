@@ -11,11 +11,15 @@ pictogram: /img/tips.png
 
 _Image: EA Estonia_
 
-### [STRATEGY AND ORGANISATION](/tips/strategy/)
+### [STRATEGY AND ORGANISATION](/tips/strategy/)
+
 Tips on prioritising group activities, leadership skills, management and communication skills, and some interesting readings about how to build the EA movement.
 
 ### PUBLICITY - Coming Soon
-There’s no point in running great events and projects if ### COMMUNITY HEALTH - Coming Soon
+There’s no point in running great events and projects if 
+
+### COMMUNITY HEALTH - Coming Soon
+
 This will have suggestions and readings about establishing a positive and welcoming group. 
 
 ### [ONE ON ONES](/tips/one-on-ones/)
