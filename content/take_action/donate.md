@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: Donate or Pledge
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
