@@ -26,19 +26,19 @@ If your school doesn't have any specific requirements for constitutions, that's 
 # Sample Constitution 
 We've written a sample constitution as an example of the style and substance many universities desire. This will almost certainly not fulfil your institution's requirements; but it is a good place to start. This is just an example; if you wish to write your own constitution, go for it! 
 
-## EFFECTIVE ALTRUISM Name of Uni CONSTITUTION 
+## EFFECTIVE ALTRUISM [Name of Uni] CONSTITUTION 
 
 ### Article 1: Name 
-The name of the Society shall be “Effective Altruism Name of Uni”. 
+The name of the Society shall be “Effective Altruism [Name of Uni]”. 
 
 ### Article 2: Statement of Purpose 
-Effective Altruism Name of Uni aims to promote effective altruism in all its forms, including encouraging increased charitable donations and the idea of cost-effectiveness in charitable giving, and the idea of using one’s career to improve the world. Effective Altruism Name of Uni will explain the ideas of effective altruism and provide support to our members on how to put those ideas into practice. 
+Effective Altruism [Name of Uni] aims to promote effective altruism in all its forms, including encouraging increased charitable donations and the idea of cost-effectiveness in charitable giving, and the idea of using one’s career to improve the world. Effective Altruism [Name of Uni] will explain the ideas of effective altruism and provide support to our members on how to put those ideas into practice. 
 
 ### Article 3: Criteria for Membership 
 
-1. Effective Altruism Name of Uni is open to all members of the University. 
-2. Community members and students from other schools are always welcome at all Effective Altruism Name of Uni events, unless otherwise specified. 
-3. Members of Effective Altruism Name of Uni will be considered for expulsion if they create a disruptive environment for other members. Prior to expulsion, the member will receive an explicit verbal warning and an additional explicit electronic or written warning. The individual in question will have one final opportunity to appeal to the Executive Committee before expulsion. 
+1. Effective Altruism [Name of Uni] is open to all members of the University. 
+2. Community members and students from other schools are always welcome at all Effective Altruism [Name of Uni] events, unless otherwise specified. 
+3. Members of Effective Altruism [Name of Uni] will be considered for expulsion if they create a disruptive environment for other members. Prior to expulsion, the member will receive an explicit verbal warning and an additional explicit electronic or written warning. The individual in question will have one final opportunity to appeal to the Executive Committee before expulsion. 
 
 ### Article 4: Structure and Duties of the Executive Board 
 
@@ -57,7 +57,7 @@ Effective Altruism Name of Uni aims to promote effective altruism in all its for
 
 ### Article 6: Dissolution 
 
-1. The Society may be dissolved at a General Meeting provided that written notice of at least 21 days of the intention to dissolve the Society has been given to the members. Dissolution of Effective Altruism <Name of Uni> shall be decided by consensus. 
+1. The Society may be dissolved at a General Meeting provided that written notice of at least 21 days of the intention to dissolve the Society has been given to the members. Dissolution of Effective Altruism [Name of Uni] shall be decided by consensus. 
 2. In case of dissolution, all funds and property shall be transferred to another Registered University Society, or to the Office of Student Affairs. 
 
 ### Article 7: Amendment 
