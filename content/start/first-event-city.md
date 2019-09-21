@@ -1,5 +1,5 @@
 ---
-title: First Event City
+title: 'City Groups: Preparing for Your First Event'
 weight: 8
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
