@@ -51,6 +51,7 @@ Effective Altruism <Name of Uni> aims to promote effective altruism in all its f
 
 1. The Society may be dissolved at a General Meeting provided that written notice of at least 21 days of the intention to dissolve the Society has been given to the members. Dissolution of Effective Altruism <Name of Uni> shall be decided by consensus. 
 2. In case of dissolution, all funds and property shall be transferred to another Registered University Society, or to the Office of Student Affairs. 
+
 ### Article 7: Amendment 
 1. Amendments can be proposed by any member of the organisation. 
 2. At least one week prior to any vote, the Secretary must distribute a copy of the proposed amendment to all members. 
@@ -74,6 +75,7 @@ Some universities require clubs to have a faculty member act as an advisor for g
 * Find out if there is a contact list for other groups. Get in touch with like-minded groups and check their meeting and event times. You may want to attend events to meet people and casually recruit members, or you may want to team up with them for certain activities and events. 
 * Check what sources of funding/grants are available for student groups. 
 * Check if there are any committees on which it would be useful for your group to have input (e.g. campaigns, student activities, clubs and societies, or any that determine the distribution of funds). If so, consider encouraging members of your group to run for election to them. 
+
 # More on Starting a Uni Group 
 For general tips on starting a uni group check out this <a target=”_blank” href=”https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM”>guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
 ### [NEXT: Uni Groups: Clubs Fair and your First Event](/start/first-event-uni) 
