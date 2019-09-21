@@ -12,10 +12,13 @@ license:
 Universities generally require student groups seeking recognition (in order to use the school name, receive funding, etc.) to submit a formal constitution. This is meant to give long-term structure to the group by formally specifying its purpose, leadership, scope, and decision-making process. However, it can be difficult to write a formal constitution if you're just getting started because you don't really know how your group will function yet. We recommend, when starting out, not to worry too much about a constitution that's good—just submit something that fits the school’s requirements. It's perfectly valid to come back and change it later. 
 
 You’ll need to find your school’s requirements. Most schools publish their own unique list of requirements that submitted constitutions must fulfil. This can generally be found online on the website of the Student Union, or whatever part of the university administers clubs. (The fastest way to find them is generally to Google “[university name] student group constitution”.) LEAN has written an example constitution below, which hopefully can be quickly edited to align it with your institution's requirements. 
+
 The requirements list will generally specify some of these three things: 
 
 * A required format – for example, Article 1: Name, Article 2: Statement of Purpose, etc. 
+
 * Information that is required to be in these articles. We've tried to make our sample articles below fairly inclusive; however, there will inevitably be requirements our example does not cover. Go ahead and write these out yourself. 
+
 * Required passages – for example, UC Berkeley requires all groups to state that “We will not haze according to California State Law.” Required passages can be copied and pasted from the requirements list onto the constitution in the appropriate place. 
 
 If your school doesn't have any specific requirements for constitutions, that's great news! You can just copy and paste the sample constitution, provided below, and submit it. 
