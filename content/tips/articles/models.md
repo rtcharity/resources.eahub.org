@@ -28,7 +28,7 @@ A group aiming to have a high impact could set goals to help their members incre
 * Owen Cotton-Barrett also explains <a target="_blank_" href="https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/">why communities of do-gooders should be exceptionally considerate</a>
 * Stefan Schubert and Ben Garfinkel explain why <a target="_blank_" href="https://www.effectivealtruism.org/articles/hard-to-reverse-decisions-destroy-option-value/">hard to reverse decisions destroy option value</a>, and discuss how this applies to EA movement building
 * CEA on the <a target="_blank_" href="https://www.centreforeffectivealtruism.org/blog/the-fidelity-model-of-spreading-ideas/">fidelity Model of spreading ideas</a>, which argues that movement building should prefer mechanisms for spreading EA ideas that are more likely to keep the nuance of the ideas intact
-* Rebecca Baron outlines a <a target="_blank_" href="https://forum.effectivealtruism.org/posts/KeBgeY8XvYb3pbFRA/movement-collapse-scenarios">few possible ways the EA movement could collapse, with additional scenarios provided in the comments.
+* Rebecca Baron outlines a <a target="_blank_" href="https://forum.effectivealtruism.org/posts/KeBgeY8XvYb3pbFRA/movement-collapse-scenarios">few possible ways the EA movement could collapse</a>, with additional scenarios provided in the comments.
 
 
 # Models of an EA Group
