@@ -11,9 +11,13 @@ pictogram: /img/tips.png
 
 _Image: EA Estonia_
 
-### [STRATEGY AND ORGANISATION](/tips/strategy/)
+### [STRATEGY](/tips/strategy/)
 
-Tips on prioritising group activities, leadership skills, management and communication skills, and some interesting readings about how to build the EA movement.
+Ideas about prioritising group activities, and some interesting readings about how to build a thriving EA movement.
+
+### [ORGANISATION](/tips/organisation/)
+
+Tips on gaining leadership skills and how to organise your group. 
 
 ### PUBLICITY - Coming Soon
 There’s no point in running great events and projects if 
