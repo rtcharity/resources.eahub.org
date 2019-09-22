@@ -1,5 +1,5 @@
 ---
-title: Leadership
+title: Leadership Skills
 date: 2019-09-22T23:01:05.550Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -34,6 +34,7 @@ A community is strongest when it is made of many connections between members, ra
 
 Most importantly, foster a healthy positive community. The page on Community Health has more advice on building a healthy community (coming soon). 
 
+<a name="delegation"></a>
 # Delegation
 
 Don't worry about asking for help! People are often looking for ways to help and will be happy to do so.
