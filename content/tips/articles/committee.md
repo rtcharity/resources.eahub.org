@@ -1,5 +1,5 @@
 ---
-title: Committee
+title: Committee Structures
 date: 2019-09-22T23:10:57.814Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
