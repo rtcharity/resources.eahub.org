@@ -152,7 +152,7 @@ body {
 }
 
 .article_title {
-  color: #512B52; /* EAHub purple */
+  color: #635274;
   font-weight: bold;
 }
 
@@ -213,7 +213,7 @@ body {
 }
 
 .contact_title {
-  color: #512B52; /* EAHub purple */
+  color: #635274;
   text-align: center;
 }
 
@@ -356,7 +356,7 @@ body {
 }
 
 .landing_menu h2 {
-  color: #512B52; /* EAHub purple */
+  color: #635274;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -584,7 +584,7 @@ body {
 }
 
 .purple {
-  color: #512B52; /* EAHub purple */
+  color: #635274;
 }
 
 .popular_title {
@@ -631,14 +631,14 @@ body {
 }
 
 .site-menu-desktop {
-  color: #512B52; /* EAHub purple */
+  color: #635274;
   display: block;
   float: left;
   max-width: 220px;
 }
 
 .site-menu-desktop a {
-  color: #512B52; /* EAHub purple */
+  color: #635274;
 }
 
 .site-menu-mobile {
@@ -659,7 +659,7 @@ body {
 }
 
 .site-menu-mobile li a {
-  color: white; /* EAHub purple */
+  color: white;
   padding: 0 5px 0 0;
   text-align: right;
   width: 100%;
