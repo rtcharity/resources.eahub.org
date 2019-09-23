@@ -638,6 +638,8 @@ body {
   display: block;
   float: left;
   max-width: 220px;
+  position: sticky;
+  top: 50px;
 }
 
 .site-menu-desktop a {
