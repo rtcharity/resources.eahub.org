@@ -1,5 +1,5 @@
 ---
-title: Handover
+title: Handing Over Leadership
 weight: 7
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
