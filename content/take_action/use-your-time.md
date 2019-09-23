@@ -9,7 +9,7 @@ license:
 <img src="/img/takeactioneanz.png" />
 </p>
 
-### Published 21st September 2019_
+### _Published 21st September 2019_
 
 # Volunteer
 
@@ -19,20 +19,20 @@ Volunteering gives you the opportunity to start making a difference now, while a
 
 Place to look for volunteering opportunities:
 
-* <a target="_blank" href="https://www.effectivealtruism.org/get-involved/?fbclid=IwAR27_bQSqtujLN3dsRYI25UtN7Ux5pG0t7NVxKBJ4Bwo85e1q7eUDybdMDU#give-your-time">Suggested voluntary activities</a> from CEA, which you can sort based on your availability, time and background in EA.
+* <a target="_blank" href="https://www.effectivealtruism.org/get-involved#give-your-time">Suggested voluntary activities</a> from CEA, which you can sort based on your availability, time and background in EA.
 * See the <a target="_blank" href="https://www.facebook.com/groups/1392613437498240/">Effective Altruism Volunteering Facebook group</a> for current volunteer opportunities.
 * See <a target="_blank" href="https://forum.effectivealtruism.org/posts/MYth4Ju4kbfHmJRbA/remote-volunteering-opportunities-in-effective-altruism">this forum post</a> on cause-area specific opportunities for more ideas. 
 * If you’re interested in volunteering for effective animal charities, see <a target="_blank" href="https://animalcharityevaluators.org/advocacy-interventions/advocacy-advice/volunteer-effectively/">this guide</a> of opportunities from Animal Charity Evaluators
 * Go to <a target="_blank" href="https://www.eawork.club/">eawork.club</a> to check out volunteer opportunities
 * Tick the box “available to volunteer” on your <a target="_blank" href="https://eahub.org/profiles/">EA Hub profile</a>
 * If there is an <a target="_blank" href="https://eahub.org/groups/">EA group in your area</a>, meet up with them and volunteer to help run the group. If there isn’t an EA group in your area, consider <a target="_blank" href="/start/">starting a group</a>. 
-* If you see an opportunity, or a need that isn’t being met, consider starting your own project. You can seek advice and assistance from other EAs by writing your idea up on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>, or on an <a target="_blank" href="https://docs.google.com/document/d/1Utp0mSbjo-RDk7YmSi-a1KBxMZWR4IH7d0EF4I8DajM/edit#heading=h.4ci1xamrt4mw">EA Facebook Page</a>. 
+* If you see an opportunity, or a need that isn’t being met, consider starting your own project. You can seek advice and assistance from other EAs by writing your idea up on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>, or on an <a target="_blank" href="/learn/connect/">EA Facebook Page</a>. 
 
 # Research
 
 If you are embarking on research as part of your degree, the <a target="_blank" href="http://effectivethesis.com">Effective Thesis</a> program will connect you with a coach who will help you find a thesis topic with a high potential to improve the world. They have current and finished theses on their website. 
 
-Many non-students conduct their own research and publish it on the <a target="_blank" href="">EA Forum</a>. 
+Many non-students conduct their own research and publish it on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>. 
 
 # Fundraise for Charity
 
