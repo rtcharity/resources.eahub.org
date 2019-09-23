@@ -52,15 +52,21 @@ This is a table. Check out Markdown to see how to create it
 <a name="images"></a>
 ## 4. Images
 
-This is a large, centered image:
+This is an extra large image that fills the whole text width:
 
-<p class="large_image_wrapper">
+<p class="xl_image_wrapper">
  <img src="/img/bill-gates.jpg" />
 </p>
 
 Notice the paragraph tag `<p>` around the image. You need it, don't remove it.
 
 If you want to add a new image, add it through the menu above (the plus icon). Then switch to Markdown to copy its filepath (in the case of the above image it's `/img/bill-gates.jpg`. Then copy paste the bit of HTML above and replace the href with the filepath of your new picture.
+
+This is a large, centered image:
+
+<p class="large_image_wrapper">
+ <img src="/img/bill-gates.jpg" />
+</p>
 
 This is a small, left-aligned image, which text floats around:
 

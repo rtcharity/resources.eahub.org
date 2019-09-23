@@ -114,9 +114,12 @@ body {
   text-align: center;
 }
 
-.large_image_wrapper img {
-  width: 50%;
-  min-width: 300px;
+.xl_image_wrapper {
+  text-align: center;
+}
+
+.xl_image_wrapper img {
+  width: 100%;
 }
 
 .small_image {
