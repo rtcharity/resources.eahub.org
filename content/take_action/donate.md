@@ -13,7 +13,7 @@ Even if it seems like you have relatively little to give, you may be richer than
 
 For example, if an average wage earner in the UK was to donate 10% of their income, their donations could fund:
 
-<p class="large_image_wrapper">
+<p class="xl_image_wrapper">
 <img src="/img/gwwcimpact.png" />
 </p>
 
@@ -23,24 +23,30 @@ To learn more about the importance of effective giving, see REG’s introductory
 
 Finding an organisation to donate to can be challenging. Thankfully, there are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
 
-<img class="small_image" style="float: left" src="/img/givewelllogo.png" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
+<img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
 
-<img class="small_image" style="float: left" src="/img/aclogo.png" />
+<p>
+<img class="small_image" style="float: left" src="/img/acelogo.png" />
 See recommendations by <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> to find out some of the best ways to help farmed animals. 
+</p>
 
-
+<p>
 <img class="small_image" style="float: left" src="/img/founderspledge.png" />Looking at a broader range of cause areas, <a target="_blank" href="https://founderspledge.com/research">Founders Pledge</a> conducts research and recommends charities in a variety of philanthropic fields, including climate change, pandemics, mental health and forced displacement. 
+</p>
 
 <img class="small_image" style="float: left" src="/img/tlycslogo.png" />
 <a target="_blank" href="https://www.thelifeyoucansave.org/best-charities">The Life You Can Save</a> publishes a list of 22 charities working in global health and poverty based on research from <a target="_blank" href="https://www.givewell.org/">GiveWell</a> and <a target="_blank" href="https://www.impactm.org/">ImpactMatters</a>.
+
 
 <img class="small_image" style="float: left" src="/img/openphillogo.png" />
 <a target="_blank" href="https://www.openphilanthropy.org/">The Open Philanthropy Project</a> conducts research to choose where to allocate funding from Good Ventures. While they generally don’t specifically recommend charities for other donors, their <a target="_blank" href="https://www.openphilanthropy.org/giving/grants">grant database</a> and research is publically available and can be used to inform giving. Each year Open Philanthropy Projects’ staff publish their <a target="_blank" href="https://www.openphilanthropy.org/blog/suggestions-individual-donors-open-philanthropy-project-staff-2018">suggestions for individual donors</a> (suggestions from December 2018). 
+
 
 Another option is to give your money to a philanthropic fund managed by experts. 
 
 <img class="small_image" style="float: left" src="/img/eafunds.png" /> 
 <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Meta</a>.
+
 
 <img class="small_image" style="float: left" src="/img/eaflogo.png" />
 The <a target="_blank" href="https://ea-foundation.org/">EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund dedicated to supporting research and policy efforts to prevent technological risks facing our civilization</a>. 
