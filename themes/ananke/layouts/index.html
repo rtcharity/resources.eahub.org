@@ -8,20 +8,34 @@
   </div>
 
   <div class="landing_menu">
+
+    <h2>Resources for Aspiring EAs</h2>
     <div class="landing_row">
-  {{ range $indexCategory, $category := .Sections.ByWeight }}
-
-    {{ if ne .Params.LandingPageMenuItem false }}
-        <div class="landing_menu_section">
-          <a href="{{ .URL }}">
-          <img src="{{ .Params.Pictogram }}" />
-          <h4>{{ .Title }}</h4>
-          </a>
-        </div>
+    {{ range .Sections.ByWeight }}
+      {{ if .Params.resourceForIndividuals }}
+          <div class="landing_menu_section">
+            <a href="{{ .URL }}">
+            <img src="{{ .Params.Pictogram }}" />
+            <h4>{{ .Title }}</h4>
+            </a>
+          </div>
+      {{ end }}
     {{ end }}
+    </div>
 
-  {{ end }}
-  </div>
+    <h2>Resources for Aspiring EAs</h2>
+    <div class="landing_row">
+    {{ range .Sections.ByWeight }}
+      {{ if .Params.resourceForGroups }}
+          <div class="landing_menu_section">
+            <a href="{{ .URL }}">
+            <img src="{{ .Params.Pictogram }}" />
+            <h4>{{ .Title }}</h4>
+            </a>
+          </div>
+      {{ end }}
+    {{ end }}
+    </div>
   </div>
 
 </div>

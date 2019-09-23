@@ -2,7 +2,7 @@
 title: EA Group Events
 pictogram: "/img/events.png"
 weight: 5
-
+resourceForGroups: true
 ---
 _This is the index page of a category, namely "Events". Category index pages can contain links to sections within the category_
 

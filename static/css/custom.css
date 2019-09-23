@@ -355,6 +355,12 @@ body {
   margin-right: 50px;
 }
 
+.landing_menu h2 {
+  color: #512B52; /* EAHub purple */
+  margin-bottom: 20px;
+  text-align: center;
+}
+
 .landing_menu_category {
   display: block;
 }
@@ -371,7 +377,7 @@ body {
   margin-left: 5px;
   margin-right: 5px;
   margin-bottom: 20px;
-  width: 250px;
+  width: 200px;
 }
 
 .landing_menu_section h4 {
