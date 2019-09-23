@@ -25,6 +25,7 @@ Finding an organisation to donate to can be challenging. Thankfully, there are s
 
 <img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
 
+
 <img class="small_image" style="float: left" src="/img/acelogo.png" />
 See recommendations by <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> to find out some of the best ways to help farmed animals. 
 
