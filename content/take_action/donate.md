@@ -23,10 +23,10 @@ To learn more about the importance of effective giving, see REG’s introductory
 
 Finding an organisation to donate to can be challenging. Thankfully, there are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
 
-<img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. <br>
+<img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
 
 <img class="small_image" style="float: left" src="/img/acelogo.png" />
-See recommendations by <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> to find out some of the best ways to help farmed animals. <br>
+See recommendations by <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> to find out some of the best ways to help farmed animals. 
 
 
 <img class="small_image" style="float: left" src="/img/founderspledge.png" />Looking at a broader range of cause areas, <a target="_blank" href="https://founderspledge.com/research">Founders Pledge</a> conducts research and recommends charities in a variety of philanthropic fields, including climate change, pandemics, mental health and forced displacement. 
