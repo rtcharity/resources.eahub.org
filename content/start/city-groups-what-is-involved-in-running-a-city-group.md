@@ -10,7 +10,8 @@ license:
 <p class="large_image_wrapper">
 <img src="/img/startsydney2.jpg" />
 </p>
-_EA Sydney_
+
+_Image: EA Sydney_
 
 # Goals
 
@@ -30,7 +31,7 @@ Your goals will determine the types of events and activities you should run. Onc
 
 Different groups have very different goals, but the most common goals of EA groups are assisting EAs to take effective career paths, recruiting new people to effective altruism and making the group welcoming. This is shown below (from the Local Group Survey 2019).
 
-<p class="large_image_wrapper">
+<p class="xl_image_wrapper">
 <img src="/img/localgroupfocus.png" />
 </p>
 
@@ -69,9 +70,9 @@ Here are some ways to find individual EAs in your area who might want to help or
 
 * Ask any existing EA connections you have if they know anyone else in your area
 * Search for “[your location] Effective Altruism” on Facebook
-* Search on the EA Hub, <a target=”_blank” href=https://eahub.org/profiles/> here</a>.
+* Search on the EA Hub, <a target=”_blank” href="https://eahub.org/profiles/">here</a>.
 
-If you haven’t found anything, post in the <a target=”_blank” href=”https://www.facebook.com/groups/eahangout/”>EA Hangout Facebook group</a>, asking if anyone is in your area. 
+If you haven’t found anything, post in the <a target="_blank" href="https://www.facebook.com/groups/eahangout/">EA Hangout Facebook group</a>, asking if anyone is in your area. 
 
 Quality over quantity is a good rule of thumb—if you are lucky enough to find one very dedicated person to work with you, this is preferable to having 10 who can “help out”, as this dedicated person will be able to help make decisions and take charge of parts of the organising. Ten helpers require coordination and management. 
 
