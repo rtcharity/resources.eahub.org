@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Get Support
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
