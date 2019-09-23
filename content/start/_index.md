@@ -43,6 +43,6 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 ### [Uni Groups: How to Register with Your University](/start/register-uni/)
 
-### [Uni Groups: Clubs Fair and Your First Event](/start/run-city-group/)
+### [Uni Groups: Clubs Fair and Your First Event](/start/first-event-uni/)
 
-### [City Groups: Preparing for Your First Event](start/run-city-group/)
+### [City Groups: Preparing for Your First Event](/start/first-event-city/)
