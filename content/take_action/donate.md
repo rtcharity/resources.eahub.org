@@ -25,13 +25,14 @@ Finding an organisation to donate to can be challenging. Thankfully, there are s
 
 <img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
 
-
+<p>
 <img class="small_image" style="float: left" src="/img/acelogo.png" />
 See recommendations by <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> to find out some of the best ways to help farmed animals. 
+</p>
 
-
+<p>
 <img class="small_image" style="float: left" src="/img/founderspledge.png" />Looking at a broader range of cause areas, <a target="_blank" href="https://founderspledge.com/research">Founders Pledge</a> conducts research and recommends charities in a variety of philanthropic fields, including climate change, pandemics, mental health and forced displacement. 
-
+</p>
 
 <img class="small_image" style="float: left" src="/img/tlycslogo.png" />
 <a target="_blank" href="https://www.thelifeyoucansave.org/best-charities">The Life You Can Save</a> publishes a list of 22 charities working in global health and poverty based on research from <a target="_blank" href="https://www.givewell.org/">GiveWell</a> and <a target="_blank" href="https://www.impactm.org/">ImpactMatters</a>.
