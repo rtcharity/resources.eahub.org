@@ -31,7 +31,7 @@ If there are quite a few people at your university who are already interested in
 
 Different groups have very different goals, but the most common goals of EA groups are assisting EAs to adopt effective career paths, recruiting new people to EA, and fostering a  welcoming community (from the not-yet-published Local Group Survey 2019), as shown below.
 
-<p class="large_image_wrapper">
+<p class="xl_image_wrapper">
  <img src="/img/localgroupfocus.png" />
 </p>
 
@@ -140,7 +140,7 @@ You can find potential co-organisers by checking for existing EAs in your area, 
 * Ask existing EA connections if they know anyone else in your area
 * Check if any members of a local city group are staff or students at your university. <a target="_blank" href="https://eahub.org/groups/ ">Find groups here</a>. 
 * Search for <a target="_blank" href="https://eahub.org/profiles/ ">individual profiles on the EA Hub.</a> 
-* Put up posters around the university which say “Have you heard of Effective Altruism? If so, contact us!” (with an [official looking email address](/start/support/#website)). The first EA NTNU organiser found co-organisers this way during the term before they started the group
+* Put up posters around the university which say “Have you heard of Effective Altruism? If so, contact us!” (with an [official looking email address](/start/support#website)). The first EA NTNU organiser found co-organisers this way during the term before they started the group
 * If you have the capacity to run a clubs fair by yourself, look for people who already know about effective altruism that might be good candidates. Schedule one-on-one chats with them to talk more about their interest in effective altruism and whether they’d be interested in helping to organise
 
 If none of these options work out and you have the capacity, you could host a few smaller events yourself and get people with little or no prior knowledge of effective altruism involved.
