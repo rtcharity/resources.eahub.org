@@ -15,7 +15,7 @@ _Image: EA Sydney_
 
 These pages contain ideas about prioritising group activities, measuring your group’s impact, and some interesting readings about how to build a thriving EA movement.
 
-###[Priorities](/tips/articles/priorities/)
+### [Priorities](/tips/articles/priorities/)
 
 All groups are time and/or funding constrained to some extent, so this page outlines some suggestions about what groups at different stages could prioritise. 
 
