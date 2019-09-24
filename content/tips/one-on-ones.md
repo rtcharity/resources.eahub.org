@@ -38,7 +38,7 @@ Why one on ones might be less important compared to other activities:
 
 # Introductory and Mentor One on Ones
 
-Before you start introductory one on ones, read the EA Hub pages on <a target="_blank" href="/learn/communicate-ea/">communicating about effective altruism</a>, so you have a few good ways of explaining EA, and know some common questions and concerns. Also check out the EA Hub resources to <a target="_blank" href="/learn.">learn about effective altruism</a>, so you are familiar with resources and organisations you might be able to refer the group member to. 
+Before you start introductory one on ones, read the EA Hub pages on <a target="_blank" href="/learn/communicate-ea/">communicating about effective altruism</a>, so you have a few good ways of explaining EA, and know some common questions and concerns. Also check out the EA Hub resources to <a target="_blank" href="/learn/">learn about effective altruism</a>, so you are familiar with resources and organisations you might be able to refer the group member to. 
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/NrLCM4vcf8PRqkLaH/guide-to-successful-community-1-1s">This guide from EA Oxford</a> leads you through introductory one on ones and mentor one on ones, from finding leads, to following up. 
 
