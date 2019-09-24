@@ -20,29 +20,70 @@ If you are running a uni group, it’s also a good idea to talk to some organise
 
 # People Who can Advise You
 
-| Topic | Contact Person | Email |
-| ------------- | -------------- | -------------- |
-| Starting a Group, General Group Advice | Alex Barry - Centre for Effective Altruism | <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a> |
-| Group Technical Needs - Websites and Email Addresses | Michael Trzesimiech - Local Effective Altruism Network | <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a> |
-| Community Health, Issues | Julia Wise - Centre for Effective Altruism | <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> | Talking to Journalists/the Media | Sky Mayhew - Centre for Effective Altruism | <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a> |
-| Running EAGx | Rebecca Baron - EAGxBoston Organiser | <a target="_blank" href="mailto:rebecca.h.baron@gmail.com">rebecca.h.baron@gmail.com</a> |
-| Running Introductory EA Presentations to non-EA groups |
-Catherine Low - Local Effective Altruism Network | <a target="_blank" href="mailto:catherine@eahub.org">catherine@eahub.org</a> |
-| Running Retreats |Jessica McCurdy - Yale EA | <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a> |
-|| Nick Anyos - EA Australia | <a target="_blank" href="mailto:nick.anyos@gmail.com">nick.anyos@gmail.com</a> |
-| Running a Group with a Community Building Grant | Frankie Anderson-Wood - Yale EA | <a target="_blank" href="mailto:frankie.wood123@gmail.com">frankie.wood123@gmail.com</a> |
-| _University-specific_ |||
-| Clubs Fairs | Eli F Nathan - Oxford EA | <a target="_blank" href="mailto:elifnathan@hotmail.co.uk">elifnathan@hotmail.co.uk</a> |
-| Starting or Running a Group at a Small University | Haven King-Nobles - EA Oberlin | <a target="_blank" href="mailto:hkingnob@gmail.com">hkingnob@gmail.com</a> |
-|| Vaidehi Agarwalla - Philly EA (previously: Haverford EA) | <a target="_blank" href="mailto:vaidehiagarwalla@gmail.com">vaidehiagarwalla@gmail.com</a> |
-| Starting or Running a Group at a Large University |
-Keirra Woodard | <a target="_blank" href="mailto:keirra.woodard@gmail.com">keirra.woodard@gmail.com</a> |
-| Running a Fellowship | Stephen Caspar - Harvard EA |
-<a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a> |
-|| Jessica McCurdy - Yale EA | <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a> |
-| Succession Planning | Juan Gil - EA MIT | <a target="_blank" href="mailto:jgil@mit.edu">jgil@mit.edu</a> |
-| Regional Support |||
-| Australia and New Zealand | Sophia Cyna - EAANZ | <a target="_blank" href="mailto:admin@eaanz.org">admin@eaanz.org</a> |
+## General
+
+### Starting a Group, General Group Advice:
+
+Alex Barry - Centre for Effective Altruism <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
+
+### Group Technical Needs - Websites and Email Addresses:
+
+Michael Trzesimiech - Local Effective Altruism Network <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a>
+
+### Community Health, Issues: 
+
+Julia Wise - Centre for Effective Altruism <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a>
+
+### Talking to Journalists/the Media:
+
+Sky Mayhew - Centre for Effective Altruism <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>
+
+### Running EAGx:
+
+Rebecca Baron - EAGxBoston Organiser <a target="_blank" href="mailto:rebecca.h.baron@gmail.com">rebecca.h.baron@gmail.com</a>
+
+### Running Introductory EA Presentations to non-EA groups:
+
+Catherine Low - Local Effective Altruism Network <a target="_blank" href="mailto:catherine@eahub.org">catherine@eahub.org</a> 
+
+### Running Retreats:
+
+Jessica McCurdy - Yale EA <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>
+
+Nick Anyos - EA Australia <a target="_blank" href="mailto:nick.anyos@gmail.com">nick.anyos@gmail.com</a> 
+
+### Running a Group with a Community Building Grant:
+
+Frankie Anderson-Wood - Yale EA | <a target="_blank" href="mailto:frankie.wood123@gmail.com">frankie.wood123@gmail.com</a> 
+
+### _University-Specific_
+
+### Clubs Fairs:
+
+Eli F Nathan - Oxford EA <a target="_blank" href="mailto:elifnathan@hotmail.co.uk">elifnathan@hotmail.co.uk</a>
+
+### Starting or Running a Group at a Small University:
+
+Haven King-Nobles - EA Oberlin <a target="_blank" href="mailto:hkingnob@gmail.com">hkingnob@gmail.com</a>
+
+Vaidehi Agarwalla - Philly EA (previously: Haverford EA) <a target="_blank" href="mailto:vaidehiagarwalla@gmail.com">vaidehiagarwalla@gmail.com</a>
+
+### Starting or Running a Group at a Large University:
+
+Keirra Woodard | <a target="_blank" href="mailto:keirra.woodard@gmail.com">keirra.woodard@gmail.com</a>
+
+### Running a Fellowship:
+
+Stephen Caspar - Harvard EA <a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a>
+
+Jessica McCurdy - Yale EA <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>
+
+Succession Planning:
+
+Juan Gil - EA MIT <a target="_blank" href="mailto:jgil@mit.edu">jgil@mit.edu</a>
+
+### Regional Support
+Australia and New Zealand Sophia Cyna - EAANZ <a target="_blank" href="mailto:admin@eaanz.org">admin@eaanz.org</a>
 
 # How to get Funding for your Group
 
