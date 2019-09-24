@@ -9,14 +9,15 @@ pictogram: /img/events.png
 <img src="/img/eventeaf.png" />
 </p>
 
+_Image: EAF_
 
-_These pages are a work in progress. We will be adding many more resources for running events in the coming months._ 
+# _These pages are a work in progress. We will be adding many more resources for running events in the coming months._ 
 
 ### Types of Events (Coming Soon)
-An overview of the types of EA events your group could run, and suggestions on which events would suit your group. 
+This page will have an overview of the types of EA events your group could run, and suggestions on which events would suit your group. 
 
 ### Guide to Running an Event (Coming Soon)
-Planning events and tips to ensure your event goes well. 
+This page will have information on how to plan events, and tips to ensure your event goes well. 
 
 ### [Discussion Groups](/events/discussions/) 
 Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! This page includes plenty of suggested content with questions to get the discussion going, and tips on facilitating a interesting and positive discussion.
