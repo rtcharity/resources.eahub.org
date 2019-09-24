@@ -11,7 +11,7 @@ _This section was written by the LEAN team, utilising some ideas gained from EA 
 
 Given that groups will be time- and/or funding-constrained to some extent, prioritising between activities is very important. This could be affected by several factors, such as the age and stage of development of your group, the demographic, needs and preferences of your members, and your organisers’ particular skill-sets.
 
-To begin prioritising, you need to determine what stage of development your group is at. Below 3 different group states are identified, organized by group size. **All priorities from the earlier states apply to the later states.**
+To begin prioritising, you need to determine what stage of development your group is at. Below 3 different group states are identified, organized by group size. _All priorities from the earlier states apply to the later states._
 
 The following is a suggested method of prioritising tasks, but is by no means fixed. Different groups may benefit from different models of prioritisation. It is useful to create a document which lists your group’s priorities (you can always adapt the one below) and revisit it at fixed intervals (every 6 months, or at the end of every semester) to evaluate which tier your group is in, and whether you need to adjust how many goals you are targeting.
 
@@ -33,11 +33,13 @@ Medium sized groups have the ability to maintain or grow, but many are at risk o
 Characteristics: Approximately 3-5 group organisers, and 10-20 regular group members.
 
 Priorities could be:
+
 * Make valuable connections between people in the group and the broader EA community
 * Develop an overarching group strategy and object level goals to achieve in a given time frame
 * Develop infrastructure to help maintain the group’s current level of activity, this can involve developing more <a target="_blank" href="/tips/articles/committee/">formalised group roles</a>
 * Have a <a target="_blank" href="/tips/handover">robust handover process</a> if the current organisers may leave
-* Hold a variety of activities that might work to increase engagement in <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">all parts of the funnel model of engagement</a> in EA. This includes
+* Hold a variety of activities that might work to increase engagement in <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">all parts of the funnel model of engagement</a> in EA. This includes:
+
     * Moving people from “audience” to “followers” in the funnel model. This involves outreach to people who haven’t heard of EA before
     * Moving people from “followers” to “participants”. This could involve holding events that help new people become more knowledgeable about EA
     * Moving people from “participants” to “contributors” by providing support for people to conduct projects, volunteer, attend conferences, or make significant commitments  
