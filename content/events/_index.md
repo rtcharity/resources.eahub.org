@@ -1,21 +1,43 @@
 ---
 title: EA Group Events
-pictogram: "/img/events.png"
 weight: 5
-resourceForGroups: true
+pictogram: /img/events.png
 ---
-_This is the index page of a category, namely "Events". Category index pages can contain links to sections within the category_
+### _Published 24th September 2019_
 
-Events are key to organising EA Groups. We've collated a few things on how to do this.
+<p class="large_image_wrapper">
+<img src="/img/eventeaf.png" />
+</p>
 
-First, you probably want to know how to run them:
 
-[Guide to running events](/events/guide-to-running-events)
+_These pages are a work in progress. We will be adding many more resources for running events in the coming months._ 
 
-Next, you might want to know what sort of events there are:
+### Types of Events (Coming Soon)
+An overview of the types of EA events your group could run, and suggestions on which events would suit your group. 
 
-[Types of events](/events/types_of_events)
+### Guide to Running an Event (Coming Soon)
+Planning events and tips to ensure your event goes well. 
 
-_Index pages of categories can also contain images_
+### [Discussion Groups](/events/discussions/) 
+Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! This page includes plenty of suggested content with questions to get the discussion going, and tips on facilitating a interesting and positive discussion.
 
-![](/img/job-opportunity-2_orig.png)
+### [Introductory EA Workshops and Presentations](/events/intro/)
+These workshops and presentations are designed for audiences that are unfamiliar with effective altruism. They could be used for newcomers events, or for presenting to non-EA groups. 
+
+### Intermediate Workshops (Coming Soon)
+These workshops are designed for audiences that are familiar with effective altruism, but haven’t necessarily read a lot about EA concepts and cause areas. 
+
+
+### Clubs Fairs and Tabling - Uni Groups (Coming Soon)
+The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orientation) is the annual or bi-annual student extracurricular fair most Universities host at the beginning of the term. This is an excellent opportunity to find new people (especially first-years) to get involved in your EA group. 
+
+
+### [Fellowships - Uni Groups](/events/fellowships)
+EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
+
+
+### Social Events (Coming Soon)
+
+### Retreats and Conferences (Coming Soon)
+
+### [Graphics for Advertising Your Events](/graphics/)
