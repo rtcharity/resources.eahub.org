@@ -1,21 +1,37 @@
 ---
 title: EA Group Events
-pictogram: "/img/events.png"
 weight: 5
-resourceForGroups: true
+pictogram: /img/events.png
 ---
-_This is the index page of a category, namely "Events". Category index pages can contain links to sections within the category_
+### _Published 24th September 2019_
 
-Events are key to organising EA Groups. We've collated a few things on how to do this.
+_These pages are a work in progress. We will be adding many more resources for running events in the coming months._ 
 
-First, you probably want to know how to run them:
+### Types of Events (Coming Soon)
+An overview of the types of EA events your group could run, and suggestions on which events would suit your group. 
 
-[Guide to running events](/events/guide-to-running-events)
+### Guide to Running an Event (Coming Soon)
+Planning events and tips to ensure your event goes well. 
 
-Next, you might want to know what sort of events there are:
+### [Discussion Groups](/events/discussions/) 
+Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! This page includes plenty of suggested content with questions to get the discussion going, and tips on facilitating a interesting and positive discussion.
 
-[Types of events](/events/types_of_events)
 
-_Index pages of categories can also contain images_
+### [Introductory EA Workshops and Presentations](/events/intro/)
+These workshops and presentations are designed for audiences that are unfamiliar with effective altruism. They could be used for newcomers events, or for presenting to non-EA groups. 
 
-![](/img/job-opportunity-2_orig.png)
+### [Intermediate Workshops](/events/intro/)
+These workshops are designed for audiences that are familiar with effective altruism, but haven’t necessarily read a lot about EA concepts and cause areas. 
+
+
+### [Clubs Fairs and Tabling - Uni Groups](/events/clubs-fair/)
+
+### [Fellowships](/events/fellowships)
+A guide for uni groups running fellowships
+
+
+### Social Events (Coming Soon)
+
+### Retreats and Conferences (Coming Soon)
+
+### [Graphics for Advertising Your Events](/graphics/)
