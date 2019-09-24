@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Introductory Presentations and Workshops
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -35,3 +35,4 @@ Cause-prioritisation is one of the most important and unique aspects of EA. Whil
 
 This <a target="_blank" href="https://drive.google.com/drive/folders/1BsxHxbc_vE_hIM6NCs-yCoh_aRG176cY?usp=sharing">Google Drive folder</a> has all the materials needed for a workshop that introduces EA, and gives participants an activity to use the Scale, Neglectedness, Solvability framework to assess 3 to 6 cause areas. It includes powerpoint slides, a sample script, information sheets on 6 cause areas and a worksheet. 
 
+# More Introductory Presentations Coming Soon
