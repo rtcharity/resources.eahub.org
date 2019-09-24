@@ -1,5 +1,5 @@
 ---
-title: Editable Graphics
+title: Available Editable Graphics
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
