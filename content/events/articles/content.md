@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Content for Discussion Groups
 date: 2019-09-24T10:12:00.548Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
