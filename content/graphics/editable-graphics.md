@@ -8,7 +8,7 @@ license:
 ### _Published 24th September 2019_
 
 
-Choose a file to modify below, or browse the <a target="_blank" href="">graphics google drive folder</a>.
+Choose a file to modify below, or browse the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>.
 
 More editable graphics will be added over time. Please <a target="_blank" href="/contact-lean/">contact us</a> if you have existing graphics to share, or suggestions for graphics that your group would find useful.
 
@@ -67,23 +67,24 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 </p>
 
 <a href="https://drive.google.com/open?id=1niVHow4bqxIemGxKjNySXuj_b_vh8rfM">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1ESLAGkEpNg-QKxiQ9R3ARbve4SOkTxuG">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/horizontalbanner6images.png" />
 </p>
 
-<a href="">Editable Gravit File</a>
-<a href="">High Res png</a>
-
 <a href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">High Res png</a>
+
 
 <p class="large_image_wrapper">
 <img src="/img/verticalbannerplain.png" />
 </p>
 
 <a href="https://drive.google.com/open?id=1pmcnc8KRK2-LJ5Y3XFSiaRZtfLAGsllY">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1VWwUrlmfKDHxukMAoZ6Nfk4YetmqUKpI">High Res png</a>
 
 <p class="large_image_wrapper">
@@ -91,6 +92,7 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 </p>
 
 <a href="https://drive.google.com/open?id=1Tj4xuZWvbI06XcK9yq1i4p1SHPgmHogY">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
 
 <p class="large_image_wrapper">
@@ -98,6 +100,7 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 </p>
 
 <a href="https://drive.google.com/open?id=16eXa55SAK6iPfcwLvMYA5eqq0DxC_TzX">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1-KwNPkxWsgQm5hf9xh3OA5tgTPp3OERj">High Res png</a>
 
 
@@ -159,6 +162,7 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 </p>
 
 <a href="https://drive.google.com/open?id=1cjq7cds5MN3I73PwO91IiunAYkLB8F4Z">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1IHaZdRV-hGXHLsgoFopNzCS0ZClnSt7K">Image png</a>
 
 <p class="large_image_wrapper">
@@ -166,6 +170,7 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 </p>
 <a href="https://drive.google.com/open?id=1pJhqZ-2IiYPpjbBzGijT14129HyYTpHv">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1K13pIuAj0uV5Xu09IW95k34wavrc0tQb">Image png</a>
 
 
@@ -174,6 +179,7 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 </p>
 
 <a href="https://drive.google.com/open?id=1xPbZi8UCHTd_IBe4Ba-p3vgJueqEt2J5">Editable Gravit File</a>
+
 <a href="https://drive.google.com/open?id=1KBXrnmY38bsT09zAGtuO_b_iKDh4uenr">Image png</a>
 
 <a name="events"></a>
@@ -225,7 +231,7 @@ Facebook:
 <a href="https://drive.google.com/open?id=1Pyyq7j3x5S3_fWdvE_8SONInoGSPorPI">Editable Gravit File</a>
 
 
-## Far Future
+## Long-Term Future
 
 Facebook:
 
@@ -238,7 +244,7 @@ Facebook:
 Poster:
 
 <p class="large_image_wrapper">
-<img src="/img/lfteventposter.png" />
+<img src="/img/ltfeventposter.png" />
 </p>
 
 <a href="https://drive.google.com/open?id=1FYV7e_CvzcSwWWxeQkM5wTBi6SIdN1wz">Editable Gravit File</a>
@@ -247,7 +253,7 @@ Facebook:
 
 
 <p class="large_image_wrapper">
-<img src="/img/lftevent2.png" />
+<img src="/img/ltfevent2.png" />
 </p>
 
 <a href="https://drive.google.com/open?id=1xjUYo07y9KTpHAyT8a0PxsZfRehxuHA8">Editable Gravit File</a>
@@ -304,7 +310,7 @@ Poster:
 
 
 <p class="large_image_wrapper">
-<img src="/img/factoryfarmingposter.png" />
+<img src="/img/factoryfarmingeventposter.png" />
 </p>
 
 <a href="https://drive.google.com/open?id=1wU-caV8qfMgDQHMlQEz3ygXoRRt1vw1f">Editable Gravit File</a>
@@ -332,6 +338,7 @@ Outer page design based on the CEA brochure, text based on <a target="_blank" hr
 </p>
 
 <a href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Brochure Gravit file (A4)</a>
+
 <a href="https://drive.google.com/open?id=1hVx4ARoBKVPWhFUjLit3PufmOrEU97GE">Brochure Gravit file (Letter Sized)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
@@ -349,6 +356,7 @@ This flyer is intended for giving out to people who express interest in EA, e.g.
 </p>
 
 <a href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Flyer Gravit file (Three on one A4 page)</a>
+
 <a href="https://drive.google.com/open?id=1K0V0upe0A2I5U0XrxJxGSExQPmTZ4AUh">Flyer Gravit file (Three on one Letter sized page)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
