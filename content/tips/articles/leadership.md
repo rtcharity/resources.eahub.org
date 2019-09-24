@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 23rd September 2019_
 
-_This guide was compiled from resources from The Life You Can Save, LEAN, and the experience of several group organisers._
+_This guide was compiled from resources from The Life You Can Save, LEAN, and the experience of several group organisers._
 
 
 Organising a local group requires leadership skills. This section provides helpful tips on people skills in the context of building and maintaining a community, and delegating tasks.
