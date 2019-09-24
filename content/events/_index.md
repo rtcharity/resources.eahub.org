@@ -5,6 +5,11 @@ pictogram: /img/events.png
 ---
 ### _Published 24th September 2019_
 
+<p class="large_image_wrapper">
+<img src="/img/eventeaf.png" />
+</p>
+
+
 _These pages are a work in progress. We will be adding many more resources for running events in the coming months._ 
 
 ### Types of Events (Coming Soon)
