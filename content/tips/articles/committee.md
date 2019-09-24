@@ -7,9 +7,9 @@ license:
 ---
 ### _Published 23rd September 2019_
 
-_Compiled from resources by LEAN and research by Rohin Shah_
+_Compiled from resources by LEAN and research by Rohin Shah_
 
-The following section contains suggestions on how to structure a committee. Except for the few <a target="_blank" href="https://docs.google.com/document/d/14Os6uuP2GZy4RPLOAeeM1s9_RJptk5PFo90woLxyDgg/edit#heading=h.4qbhoj4o4wpf">casual groups</a>, uni groups are affiliated with their university, which usually require formal committee structures. However, small uni groups can use their committee structure flexibly. City groups may only want to use these structures if they become quite large. 
+The following section contains suggestions on how to structure a committee. Except for the few <a target="_blank" href="/start/run-uni-group/">casual groups</a>, uni groups are affiliated with their university, which usually require formal committee structures. However, small uni groups can use their committee structure flexibly. City groups may only want to use these structures if they become quite large. 
 
 # General tips
 
