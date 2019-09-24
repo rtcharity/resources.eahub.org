@@ -10,6 +10,8 @@ license:
 <img src="/img/eventseaf2.jpg" />
 </p>
 
+_Image: EAF_
+
 ### Tips on Running a Discussion Group (Coming Soon)
 
-### [Discussion Group Suggested Content](/events/articles/content/)
+### [Discussion Group Suggested Content](/events/articles/discussion-content/)
