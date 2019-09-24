@@ -1,5 +1,5 @@
 ---
-title: How to Edit
+title: How to Edit These Graphics (Or Make Your Own)
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
