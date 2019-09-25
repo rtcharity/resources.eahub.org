@@ -1,5 +1,5 @@
 ---
-title: Connect
+title: Connect and Keep Up to Date
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
