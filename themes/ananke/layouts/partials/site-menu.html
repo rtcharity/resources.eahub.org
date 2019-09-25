@@ -13,7 +13,8 @@
         {{ end }}
       </div>
       <ul class="site-menu-sections" id="site-menu-sections-{{$indexCategory}}" style="display: none">
-          {{ range $indexSection, $section := $category.Paginator.Pages.ByWeight }}
+          {{ range $section := $category.Pages.ByWeight }}
+            {{ if not (in .URL "/article")  }}
             <li>
               <div class="site-menu-heading">
                 <a href="{{ .URL }}">
@@ -21,6 +22,7 @@
                 </a>
               </div>
             </li>
+            {{end}}
           {{ end }}
       </ul>
     </li>
