@@ -33,7 +33,7 @@ Find terms commonly used in the EA community.
 Links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected. 
 
 ### [A guide to key EA-aligned organisations](/learn/orgs/)
-
+Information about a few organisations in the EA ecosystem. 
 
 ### [Life as an EA](/learn/life)
 This section is a collection of articles about dealing with the challenges of being altruistic and tips on how to be effective, happy and balanced with your altruism. 
