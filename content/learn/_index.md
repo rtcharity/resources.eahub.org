@@ -26,7 +26,7 @@ Head here if EA is new to you or if you’d like an overview.
 ### [Readings, videos and podcasts about specific EA related topics](/learn/reading-lists/) 
 These reading lists including several cause areas, rationality and longtermism. Head here if you want to dive into a particular topic. 
 
-### [EA Glossary](/learn/glossary/)
+### [EA glossary](/learn/glossary/)
 Find terms commonly used in the EA community.
 
 ### [Connect and keep up to date](/learn/connect/) 
@@ -35,9 +35,9 @@ Links to newsletters, fora, Facebook groups, podcasts and other ways of keeping 
 ### [A guide to key EA-aligned organisations](/learn/orgs/)
 Information about a few organisations in the EA ecosystem. 
 
-### [Life as an EA](/learn/life)
+### [Life as an aspiring effective altruist](/learn/life)
 This section is a collection of articles about dealing with the challenges of being altruistic and tips on how to be effective, happy and balanced with your altruism. 
 
-### [Communicating about EA](/learn/communicating-ea/)
+### [Communicating about effective altruism](/learn/communicating-ea/)
 Whether you are talking to your family or giving a formal presentation, talking to people about EA ideas can sometimes be challenging. This section gives some tips on how to talk about EA, some concise explanations you could use, and some frequently asked questions. 
 
