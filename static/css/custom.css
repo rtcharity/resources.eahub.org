@@ -129,6 +129,13 @@ body {
   padding-right: 10px;
 }
 
+.small_image_block {
+  display: block;
+  width: 30%;
+  min-width: 100px;
+  padding-right: 10px;
+}
+
 .article_keyquote {
   background-color: #A7DBAB; /* EAHub green */
   padding: 10px;
