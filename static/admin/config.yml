@@ -21,6 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "number", required: false}
       - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - {label: "resourceForGroups", name: "resourceForGroups", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -62,6 +63,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "number", required: false}
       - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - {label: "resourceForGroups", name: "resourceForGroups", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -103,6 +105,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "number", required: false}
       - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - {label: "resourceForGroups", name: "resourceForGroups", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -144,6 +147,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "number", required: false}
       - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - {label: "resourceForIndividuals", name: "resourceForIndividuals", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -185,6 +189,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "number", required: false}
       - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - {label: "resourceForIndividuals", name: "resourceForIndividuals", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"
@@ -226,6 +231,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Original Publication URL", name: "originalPublicationURL", widget: "string", required: false}
       - {label: "Weight", name: "weight", widget: "number", required: false}
       - {label: "Pictogram", name: "pictogram", widget: "image", required: false}
+      - {label: "resourceForGroups", name: "resourceForGroups", widget: "boolean", required: false}
       - label: "License"
         name: "license"
         widget: "list"

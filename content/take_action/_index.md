@@ -2,6 +2,7 @@
 title: Take Action
 weight: 2
 pictogram: /img/takeaction.png
+resourceForIndividuals: true
 ---
 
 ### _Published 21st September 2019_

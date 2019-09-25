@@ -2,6 +2,7 @@
 title: Start an EA Group
 weight: 3
 pictogram: /img/start.png
+resourceForGroups: true
 ---
 <p class="large_image_wrapper">
  <img src="/img/eaphilippinesstart.png" />
