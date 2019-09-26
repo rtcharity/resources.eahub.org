@@ -22,7 +22,7 @@ It would be a good idea to:
 * Read or watch introductory articles, books or videos about effective altruism. If you’ve gotten to the point of considering starting an effective altruism group you probably have this covered already, but here are some <a target="_blank" href="/learn/about-ea/">general resources about effective altruism</a> if you are new to effective altruism or want a refresher
 * Know a little about some of the <a target="_blank" href="/learn/orgs/">EA-aligned organisations</a> so that you can direct people to information that might be useful to them
 * Have a <a target="_blank" href="/learn/articles/what-to-say/">few good ways of explaining effective altruism</a>, so you can confidently talk about EA to newcomers
-* Know some of the <a target="_blank" href="/learn/articles/faq/">frequently asked questions</a> and <a target="_blank" href="/learn/articles/objections/">common criticisms</a> of effective altruism and possible polite, constructive responses to them
+* Know some of the <a target="_blank" href="/learn/articles/faqs/">frequently asked questions</a> and <a target="_blank" href="/learn/articles/objections/">common criticisms</a> of effective altruism and possible polite, constructive responses to them
 
 If possible, you should try to attend events with <a target="_blank" href="https://eahub.org/groups/">a nearby group</a> and <a target="_blank" href="https://www.eaglobal.org/events/">attend an EA conference</a>. 
 
