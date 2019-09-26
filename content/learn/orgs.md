@@ -75,7 +75,7 @@ Rethink Charity runs a variety of projects that aid the effective altruism commu
 * <a target="_blank" href="https://rcforward.org/">RC Forward</a>, a cause-neutral donation routing fund that makes high-impact charities tax-deductible in Canada
 
 
-<img class="small_image_block" src="/img/openphil.png" />
+<img class="small_image_block" src="/img/openphillogo.png" />
 
 
 ### <a target="_blank" href="https://www.openphilanthropy.org/">Open Philanthropy Project</a> (Open Phil)
