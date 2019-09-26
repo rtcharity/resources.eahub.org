@@ -1,5 +1,5 @@
 ---
-title: Communicate EA
+title: Communicating About Effective Altruism
 weight: 7
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
