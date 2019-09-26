@@ -26,7 +26,7 @@ It would be a good idea to:
 
 If possible, you should try to attend events with <a target="_blank" href="https://eahub.org/groups/">a nearby group</a> and <a target="_blank" href="https://www.eaglobal.org/events/">attend an EA conference</a>. 
 
-It is also a good idea to keep up-to-date with EA happenings by <a target=”_blank” href="https://www.effectivealtruism.org/ea-newsletter-archives/">reading the EA Newsletter</a>.  Take a look at <a target="_blank" href="/learn/connect">this list</a> of other Facebook pages and fora you might like to join. 
+It is also a good idea to keep up-to-date with EA happenings by <a target=”_blank” href="https://www.effectivealtruism.org/ea-newsletter-archives/">reading the EA Newsletter</a>.  Take a look at <a target="_blank" href="/learn/connect/">this list</a> of other Facebook pages and fora you might like to join. 
 
 More important than in-depth knowledge is being dedicated to improving the world, and being friendly, open, inclusive, and enthusiastic about helping others get more involved. A big factor in the success of any movement is whether people enjoy being a part of it, so do what you can to make your group a positive place.
 
