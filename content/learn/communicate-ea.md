@@ -32,5 +32,5 @@ The following pages provide some suggestions about having a fruitful conversatio
 
 ### [What to Say (Pitch Guide)](/learn/articles/what-to-say/)
 ### [Tips to Help Your Conversation Goes Well](/learn/articles/tips/)
-### [Frequently Asked Questions](/learn/articles/faq/)
+### [Frequently Asked Questions](/learn/articles/faqs/)
 ### [Responding to Objections](/learn/articles/objections/)
