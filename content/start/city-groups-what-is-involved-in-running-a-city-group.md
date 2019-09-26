@@ -92,6 +92,6 @@ Some groups used this model to start their group as follows:
 
 Once you have more than a couple of people helping run your group, it is important to have regular meetings, ensure each person is clear on their tasks to avoid repetition or important tasks getting missed. Some larger groups have found creating formal roles useful in the group, and a few groups have chosen to incorporate to be an official organisation – which can help the group remain well organised, get public liability insurance, and ensure clear ownership of assets.
 
-Information and tips on organising your organisers such as communication tools, organisational structures, ways of running meetings, and incorporations can be found <a target=”_blank” href=”/tips/”>here</a>.
+Information and tips on organising your organisers such as communication tools, organisational structures, ways of running meetings, and incorporations can be found <a target="_blank" href="/tips/">here</a>.
  
-### [NEXT: Knowledge and Skills to Start a Group](\start\knowledge)
+### [NEXT: Knowledge and Skills to Start a Group](\start\knowledge\)
