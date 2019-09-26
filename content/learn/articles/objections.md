@@ -1,5 +1,5 @@
 ---
-title: Objections
+title: Responding to Objections
 date: 2019-09-26T11:46:41.078Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
