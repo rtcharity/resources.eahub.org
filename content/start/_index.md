@@ -38,7 +38,7 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 ### [Uni Groups: What is Involved in Running a Uni Group?](/start/run-uni-group)
 
-### [City Groups: What is Involved in Running a City Group?](/start/run-city-group/)
+### [City Groups: What is Involved in Running a City Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
 
 ### [Get Support and Start Your Group](/start/support/)
 
