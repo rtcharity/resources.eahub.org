@@ -31,6 +31,6 @@ Note that there are people who have come away from conversations with EAs with a
 The following pages provide some suggestions about having a fruitful conversation with people who haven’t heard of EA before, or are very new to the ideas. 
 
 ### [What to Say (Pitch Guide)](/learn/articles/what-to-say/)
-### [Tips to Ensure Your Conversation Goes Well](/learn/articles/tips/)
+### [Tips to Help Your Conversation Goes Well](/learn/articles/tips/)
 ### [Frequently Asked Questions](/learn/articles/faq/)
 ### [Responding to Objections](/learn/articles/objections/)
