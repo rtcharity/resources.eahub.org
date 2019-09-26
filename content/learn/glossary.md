@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: EA Glossary
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
