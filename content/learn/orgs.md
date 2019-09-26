@@ -10,6 +10,7 @@ license:
 There are numerous organisations that are connected to the EA community. This page outlines a few of the organisations that might be useful for you to know about. It is not an exhaustive list.
 
 Contents:
+
 * <a href="#general">Organisations working in a range of areas</a>
 * <a href="#charity">Charity Evaluators</a>
 * <a href="#research">Other Research</a>
