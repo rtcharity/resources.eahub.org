@@ -132,6 +132,7 @@ After the club’s basic functions are taken care of, spare capacity can be used
  
 If you’re having trouble managing the workload, delegate where you can and reach out for support. Notice where you are being unnecessarily meticulous and where you can drop some responsibilities. Focus on the club’s core activities by making your plans less ambitious and by letting go of less crucial programming.
 
+<a name="coorganisers"></a>
 # Co-organisers
 Working with a co-organiser lets you share the tasks of starting and running a group, and also can be good for your motivation. If you don’t have co-organisers, you may still want to talk through your plans with friends or group organisers from other universities before implementing them, just to get another perspective. 
 
