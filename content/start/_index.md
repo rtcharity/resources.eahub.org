@@ -40,6 +40,8 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 ### [City Groups: What is Involved in Running a City Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
 
+### [Knowledge and Skills to Start a Group](/start/knowledge/)
+
 ### [Get Support and Start Your Group](/start/support/)
 
 ### [Uni Groups: How to Register with Your University](/start/register-uni/)
