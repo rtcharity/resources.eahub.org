@@ -65,6 +65,7 @@ Multi-session courses run for a small group of admitted participants, usually ad
 Fellowships may have more consistent attendance than regular clubs, but they require enough initial advertisement to reach enough applicants. 
 
 A fellowship might be a good way of starting a group if your group organisers:
+
 * Are confident at public speaking and facilitating discussions
 * Have plenty of time before and during the semester to plan and execute the fellowship
 * Have good organisational skills 
