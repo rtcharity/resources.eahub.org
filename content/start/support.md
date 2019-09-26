@@ -51,7 +51,7 @@ Each university has different requirements around groups. <a target="_blank" hre
 
 EA Hub resources has an extensive list of resources, compiled by the Local Effective Altruism Network (LEAN), to help you <a target="_blank" href="/tips/">run your group</a> or put on <a target="_blank" href="/events/">events</a>. 
 
-<a name=”website”></a>
+<a name="website"></a>
 # Optional: Get a Website and an EA Email Address
 
 LEAN can host and help create a website for your group. 
