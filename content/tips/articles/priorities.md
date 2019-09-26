@@ -11,7 +11,7 @@ _This section was written by the LEAN team, utilising some ideas gained from EA 
 
 Given that groups will be time- and/or funding-constrained to some extent, prioritising between activities is very important. This could be affected by several factors, such as the age and stage of development of your group, the demographic, needs and preferences of your members, and your organisers’ particular skill-sets.
 
-To begin prioritising, you need to determine what stage of development your group is at. Below 3 different group states are identified, organized by group size. _All priorities from the earlier states apply to the later states._
+To begin prioritising, you need to determine what stage of development your group is at. Below 3 different group states are identified, organized by group size. **All priorities from the earlier states apply to the later states.**
 
 The following is a suggested method of prioritising tasks, but is by no means fixed. Different groups may benefit from different models of prioritisation. It is useful to create a document which lists your group’s priorities (you can always adapt the one below) and revisit it at fixed intervals (every 6 months, or at the end of every semester) to evaluate which tier your group is in, and whether you need to adjust how many goals you are targeting.
 
