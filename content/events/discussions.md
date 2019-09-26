@@ -12,4 +12,4 @@ license:
 
 ### Tips on Running a Discussion Group (Coming Soon)
 
-### [Discussion Group Suggested Content](/events/articles/discussion-content/)
+### [Discussion Group Suggested Content](/events/articles/content/)
