@@ -23,27 +23,28 @@ To learn more about the importance of effective giving, see REG’s introductory
 
 Finding an organisation to donate to can be challenging. Thankfully, there are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
 
-<img class="small_image" style="float: left" src="/img/givewell-logo-.jpg" />For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
+<img class="small_image_block" src="/img/givewell-logo-.jpg" />
+For global health and poverty recommendations, check out <a target="_blank" href="https://www.givewell.org/">GiveWell</a> which conducts rigorous evaluations of promising interventions and charities and recommends a few highly effective charities. Their recommendations are updated every year based on new evidence. 
 <p></p>
 
-<img class="small_image" style="float: left" src="/img/acelogo.png" />
+<img class="small_image_block" src="/img/acelogo.png" />
 See recommendations by <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> to find out some of the best ways to help farmed animals. <br><br><br>
 
 
-<img class="small_image" style="float: left" src="/img/founderspledge.png" />Looking at a broader range of cause areas, <a target="_blank" href="https://founderspledge.com/research">Founders Pledge</a> conducts research and recommends charities in a variety of philanthropic fields, including climate change, pandemics, mental health and forced displacement. 
+<img class="small_image_block" src="/img/founderspledge.png" />Looking at a broader range of cause areas, <a target="_blank" href="https://founderspledge.com/research">Founders Pledge</a> conducts research and recommends charities in a variety of philanthropic fields, including climate change, pandemics, mental health and forced displacement. 
 
-<img class="small_image" style="float: left" src="/img/tlycslogo.png" />
+<img class="small_image_block" src="/img/tlycslogo.png" />
 <a target="_blank" href="https://www.thelifeyoucansave.org/best-charities">The Life You Can Save</a> publishes a list of 22 charities working in global health and poverty based on research from <a target="_blank" href="https://www.givewell.org/">GiveWell</a> and <a target="_blank" href="https://www.impactm.org/">ImpactMatters</a>.
 
-<img class="small_image" style="float: left" src="/img/openphillogo.png" />
+<img class="small_image_block" src="/img/openphillogo.png" />
 <a target="_blank" href="https://www.openphilanthropy.org/">The Open Philanthropy Project</a> conducts research to choose where to allocate funding from Good Ventures. While they generally don’t specifically recommend charities for other donors, their <a target="_blank" href="https://www.openphilanthropy.org/giving/grants">grant database</a> and research is publically available and can be used to inform giving. Each year Open Philanthropy Projects’ staff publish their <a target="_blank" href="https://www.openphilanthropy.org/blog/suggestions-individual-donors-open-philanthropy-project-staff-2018">suggestions for individual donors</a> (suggestions from December 2018). 
 
 Another option is to give your money to a philanthropic fund managed by experts. 
 
-<img class="small_image" style="float: left" src="/img/eafunds.png" /> 
+<img class="small_image_block" src="/img/eafunds.png" /> 
 <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Meta</a>.
 
-<img class="small_image" style="float: left" src="/img/eaflogo.png" />
+<img class="small_image_block" src="/img/eaflogo.png" />
 The <a target="_blank" href="https://ea-foundation.org/">EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund</a> dedicated to supporting research and policy efforts to prevent technological risks facing our civilization. 
 
 Finally, you could put your money into a Donor Lottery where one donor is selected to choose how all the funds are donated. For example if you donated $10,000 into a fund that generated $100,000, you would have a 10% chance of being able to choose where $100,000 from that fund gets donated. 
@@ -51,6 +52,11 @@ Finally, you could put your money into a Donor Lottery where one donor is select
 This has an advantage over simply donating if you believe a donation of $100,000 to the organisation you wish to support is more than 10 times better than donating $10,000 to them. Also the person that wins the lottery will be more likely to be motivated to do in-depth research to work out where to donate the money, and that might result in better choices than if all the contributing donors did only a little research to choose where to donate their smaller sums. The Centre for Effective Altruism <a target="_blank" href="https://app.effectivealtruism.org/lotteries">organises a donor lottery once a year</a>.
 
 # Advice on donating efficiently
+
+## Giving Tuesday
+
+* US donors may wish to utilise Facebook's donation matching campaign "Giving Tuesday". Each year on a Tuesday in late November or early December Facebook will match donations made through Facebook to registered charities until their matching funds are exhausted. The funds usually run out in seconds, and while some other countries are eligible, few donors from outside of US manages to get their donations matched. More information is on the EA Giving Tuesday <a target="_blank" href="https://www.eagivingtuesday.org/">website</a> and <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">facebook group</a>. 
+
 
 ## Tax information
 
@@ -71,6 +77,10 @@ This has an advantage over simply donating if you believe a donation of $100,000
 ## Whether to split your donations between several charities or just donate to one
 
 * Advice from <a target="_blank" href="https://www.benkuhn.net/how-many-causes">Ben Kuhn</a> and <a target="_blank" href="https://reg-charity.org/to-split-or-not-to-split-part-1/">Raising for Effective Giving</a>.
+
+## Matching Campaigns
+
+* Some charities offer to double or triple your donations - called "donation matching. While there are some exceptions, this matching is usually illusory and the matching funds would have gone to the charity whether or not you donated. This <a target="_blank" href="https://blog.givewell.org/2011/12/15/why-you-shouldnt-let-donation-matching-affect-your-giving/">blog post by GiveWell</a> explains more. Exceptions include Facebook's Giving Tuesday, as while Facebook would have donated the money without your donation, your donation could cause the money to be allocated to more effective charities.  
 
 # Take a Pledge to Donate in the Future
 
