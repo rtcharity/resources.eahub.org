@@ -20,7 +20,7 @@ One on ones are often reported as being one of the most valuable activities of a
 
 The purpose of the meeting will be different if you are meeting a new member ("Intro one on ones"), meeting a current member ("Mentor one on ones"), meeting to discuss careers ("Career one on ones") or meeting to discuss donation opportunities (Donation one on ones). 
 
-# Why and why not?
+# Why and Why Not?
 
 Why one on ones might be relatively important for your group: 
 
