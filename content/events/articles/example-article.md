@@ -6,7 +6,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-This is an example article to show how to implement the features requested in [this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources  
+This is an example article to show how to implement the features requested in [this github ticket](https://github.com/rtcharity/resources.eahub.org/issues/427) through the admin page of EA Resources.  
 
 
 <a href="#general-advice">1. General advice</a>\
@@ -34,7 +34,7 @@ Note though that the preview on the right hand side on the admin page is not wha
 <a name="jump-link"></a>
 ## 2. Jump links  
 
-This is a jump link. Its target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it.  
+This is a jump link. Its target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it  
 
 <a href="#target">Jump link</a>
 
