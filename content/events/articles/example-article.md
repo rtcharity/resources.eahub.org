@@ -34,7 +34,7 @@ Note though that the preview on the right hand side on the admin page is not wha
 <a name="jump-link"></a>
 ## 2. Jump links  
 
-This is a jump link. Its target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it.  
+This is a jump link. Its target is at the bottom of this article. It is labeled as this links target by adding ```<a name="target"></a>``` in front of it  
 
 <a href="#target">Jump link</a>
 

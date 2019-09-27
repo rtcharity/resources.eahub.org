@@ -33,7 +33,7 @@ More information about using social media, Meetup, and mailing lists effectively
 # Connect with Other Group Organisers
 Talking to people that have done this before can be super helpful for finding answers, reassurance, and tips you may not have come across yet.
 
-The <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook group</a> is a great place to ask questions. There is also an <a target="_blank" href="https://eagroups.slack.com/">EA Groups Slack workspace</a>, where you can share resources and ask questions. To join the Slack workspace, <a target="_blank" href="https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I">click here</a>.
+The <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook group</a> is a great place to ask questions. There is also an <a target="_blank" href="https://eagroups.slack.com/">EA Groups Slack workspace</a>, where you can share resources and ask questions. Ask the CEA Groups Team, or a fellow EA group organiser to invite you to the workspace. 
 
 More seasoned organisers are often excited to learn about new groups and happy to provide mentoring even if you haven’t met before.
 

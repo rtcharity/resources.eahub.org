@@ -62,6 +62,7 @@ Allow time for planning and running events, as well as:
 
 In   <a target="_blank" href=" https://forum.effectivealtruism.org/posts/2NsnGWtC2jxLxEQYR/how-i-organise-a-growing-effective-altruism-group-in-a-big ">this article</a>, one of the organisers of EA London explains how he ran the group for only 30 minutes a month. This is quite exceptional, as most group organisers spend significantly more time than this and EA London now has a full-time community builder, but the article shows that it is possible to have a group without investing much time.
 
+<a name="coorganisers"></a>
 # Number of Organisers
 
 The number of people needed is once again dependent on your goals. If your goal is to run larger events and a bigger group, then having several core members is good, with additional committee members and volunteers as needed. But if you don’t have this, don’t worry; small and new groups can easily be managed by one person and you can run a group just fine like this. Besides, while running a small group you might find other people interested in helping you organise it.

@@ -117,7 +117,7 @@ At bare minimum, your group’s leadership needs the capacity to:
 * Handle receipts and other financial matters, such as requesting funding, if your activities involve purchases of food or other items
 * Understand and comply with university policies
 * Take care of any other logistics involved in the activities you deem most important (this might involve advertising events, booking meeting spaces, or buying food)
-* Advertise your group at clubs fairs if you are a formal group
+* Advertise your group at clubs fairs (also called Freshers Fair, Activities Fair or Orientation) if you are a formal group
  
 Before you start a club, make sure you and your fellow organisers can handle the workload involved on top of your classes, jobs, internships, and other activities. Remember that people usually underestimate how long it takes to do tasks (<a target="_blank" href="https://en.wikipedia.org/wiki/Planning_fallacy ">the planning fallacy</a>)! This shouldn’t be a problem if there are several of you, you’re not trying anything overly ambitious, and you remain flexible. While some university clubs hold many large events, it is also very valuable to have a small uni group that simply acts as a place for interested people to discuss ideas. 
 
@@ -132,6 +132,7 @@ After the club’s basic functions are taken care of, spare capacity can be used
  
 If you’re having trouble managing the workload, delegate where you can and reach out for support. Notice where you are being unnecessarily meticulous and where you can drop some responsibilities. Focus on the club’s core activities by making your plans less ambitious and by letting go of less crucial programming.
 
+<a name="coorganisers"></a>
 # Co-organisers
 Working with a co-organiser lets you share the tasks of starting and running a group, and also can be good for your motivation. If you don’t have co-organisers, you may still want to talk through your plans with friends or group organisers from other universities before implementing them, just to get another perspective. 
 
