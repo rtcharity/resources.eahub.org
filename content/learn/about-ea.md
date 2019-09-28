@@ -67,7 +67,7 @@ Cause-impartiality— the concept that we should choose our cause area based on 
 
 <div class="textAlignCenter">
 <iframe class="article_video"
-src="https://www.youtube.com/embed/ ">
+src="https://www.youtube.com/embed/1xsR0XBwyo4">
 </iframe>
 </div>
 
