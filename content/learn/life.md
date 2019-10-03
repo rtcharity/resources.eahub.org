@@ -27,7 +27,7 @@ Many people in the EA community have contributed advice and shared their experie
 * Julia Wise on 
     * Why it is important to “<a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">walk cheerfully over the world</a>”.
     * <a target="_blank" href="http://www.givinggladly.com/2015/10/burnout-and-self-care.html">Burnout and Self-care</a>.
-    * Why It is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
+    * Why it is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
     * Countering <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">Imposter Syndrome</a>, a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud". Anecdotal evidence suggests this is quite common among EAs.
 
 * <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">80,000 hours on why self-care is important</a> to succeed in any job, and some recommendations about tackling mental health issues.
@@ -52,6 +52,7 @@ There are many apps that are good for helping with your mood and mental state of
 
 ## Mental Health Resources
 Some professional health care providers within the EA community have written some mental health resources:
+
 * Scott Alexander on <a target="_blank" href="https://slatestarcodex.com/2015/07/13/things-that-sometimes-work-if-you-have-anxiety/">Anxiety</a>
 * Scott Alexander on <a target="_blank" href="https://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/">Depression</a>
 * Julia Wise on <a target="_blank" href="https://forum.effectivealtruism.org/posts/CJZGFxzHfdPuu2X76/a-mental-health-resource-for-ea-community">Mania and Psychosis</a> 
