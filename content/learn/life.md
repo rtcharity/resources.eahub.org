@@ -27,7 +27,7 @@ Many people in the EA community have contributed advice and shared their experie
 * Julia Wise on 
     * Why it is important to “<a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">walk cheerfully over the world</a>”.
     * <a target="_blank" href="http://www.givinggladly.com/2015/10/burnout-and-self-care.html">Burnout and Self-care</a>.
-    * Why it is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
+    * Why It is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
     * Countering <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">Imposter Syndrome</a>, a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud". Anecdotal evidence suggests this is quite common among EAs.
 
 * <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">80,000 hours on why self-care is important</a> to succeed in any job, and some recommendations about tackling mental health issues.
@@ -45,7 +45,8 @@ Julia Wise and Sky Mayhew are <a target="_blank" href="https://forum.effectiveal
 ## Facebook Support Group
 <a target="_blank" href="https://www.facebook.com/groups/ea.peer.support/">Peer Support Group</a> This is a private Facebook group to allow EAs going through personal struggles to support each other. Contact <a target="_blank" href="https://www.facebook.com/stafforini">Pablo</a> on Facebook to be added to the group.
 ## Apps
-There are many apps that are good for helping with your mood and mental state of mind. Here are some examples founded by people in the EA community. 
+There are many apps that are good for helping with your mood and mental state of mind. Here are some examples founded by people in the EA community: 
+
 * <a target="_blank" href="https://www.clearerthinking.org/tools-and-mini-courses">Improve your Mood tools</a> on Clearer Thinking - Free
 * <a target="_blank" href="https://www.mindease.io/">MindEase</a> - Anxiety and Stress Relief App - Free
 * <a target="_blank" href="https://www.uplift.app/">UpLift</a> - Cognitive Behavioural Therapy App to help combat depression
