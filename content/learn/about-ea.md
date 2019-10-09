@@ -41,9 +41,9 @@ src="https://www.youtube.com/embed/LtWINl3C_7s">
 
 If you watched Beth Barnes’ talk above, you’ll know what could happen if the richest 10% donated effectively. Now use <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">this online app</a> to work out where you lie in the world’s income distribution.
 
-<p class="large_image_wrapper">
+<a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/"> <p class="large_image_wrapper">
 <img src="/img/howrichami.png" />
-</p>
+</p> </a>
 
 
 
