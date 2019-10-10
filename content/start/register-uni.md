@@ -68,7 +68,7 @@ Effective Altruism [Name of Uni] aims to promote effective altruism in all its f
 
 # Example Constitutions
 
-Here are some examples of constitutions from EA groups: <a target="_blank" href="https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo/edit?usp=sharing">Cambridge</a> (UK), <a target="_blank" href="https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ/edit?usp=sharing">Auckland</a> (New Zealand), <a target="_blank" href="https://drive.google.com/open?id=1GxXrSpWElJF3ktrAPBN9W0C7dAzcwjxl">MIT</a> (USA).
+Here are some examples of constitutions from EA groups: <a target="_blank" href="https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo/edit?usp=sharing">Cambridge</a> (UK), <a target="_blank" href="https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ/edit?usp=sharing">Auckland</a> (New Zealand), <a target="_blank" href="https://docs.google.com/document/d/14KPAi3_oy4PE0Zybnob7PO40J0HZWjRVAaVLEmtk7f8/edit">Yale</a> (USA).
 
 # Getting a Faculty Advisor 
 
@@ -93,4 +93,6 @@ Some universities require clubs to have a faculty member act as an advisor for g
 For general tips on starting a uni group check out this <a target="_blank" href="https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM">guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
 
 ### [NEXT: Uni Groups: Clubs Fair and your First Event](/start/first-event-uni) 
+
+### [Back to Start a Group](/start/)
 
