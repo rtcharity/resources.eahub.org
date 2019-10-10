@@ -23,4 +23,4 @@ Ideas for tracking tasks and coordinating between fellow organisers, and communi
 
 <hr>
 
-### [BACK: Running a Group](/tips/)
+### [BACK: Strategy](/tips/articles/models/)
