@@ -21,7 +21,7 @@ Contents:
 <a name="general"></a>
 # Organisations working in a range of areas
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/cealogo.png" /></a>
+<a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" src="/img/cealogo.png" /></a>
 
 
 
@@ -37,7 +37,7 @@ The Centre for Effective Altruism’s mission is to create a global community of
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/80Klogo.png" /></a>
+<a target="_blank" href="https://80000hours.org/"><img class="small_image_block" src="/img/80Klogo.png" /></a>
 
 
 
@@ -52,7 +52,7 @@ The Centre for Effective Altruism’s mission is to create a global community of
 
 
 
-<a target="_blank" href="">
+<a target="_blank" href="https://ea-foundation.org/">
 <img class="small_image_block" src="/img/eaflogo.png" /></a>
 
 
@@ -67,7 +67,7 @@ EAF conducts and coordinates research on how to do the most good in terms of red
 
 
 
-<a target="_blank" href=""><img class="small_image_block"  src="/img/rclogo.png" /></a>
+<a target="_blank" href="https://rethinkprojects.org"><img class="small_image_block"  src="/img/rclogo.png" /></a>
 
 
 
@@ -80,7 +80,7 @@ Rethink Charity runs a variety of projects that aid the effective altruism commu
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/openphillogo.png" /></a>
+<a target="_blank" href="https://www.openphilanthropy.org/"><img class="small_image_block" src="/img/openphillogo.png" /></a>
 
 
 ### <a target="_blank" href="https://www.openphilanthropy.org/">Open Philanthropy Project</a> (Open Phil)
@@ -92,7 +92,7 @@ The Open Philanthropy Project is a research and grant-making organisation aiming
 These organisations conduct research in order to recommend outstanding charities.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/givewell-logo-.jpg " /></a>
+<a target="_blank" href="https://www.givewell.org/"><img class="small_image_block" src="/img/givewell-logo-.jpg " /></a>
 
 
 ### <a target="_blank" href="https://www.givewell.org/">GiveWell</a>
@@ -101,7 +101,7 @@ GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/acelogo.png " /></a>
+<a target="_blank" href="https://animalcharityevaluators.org/"><img class="small_image_block" src="/img/acelogo.png " /></a>
 
 
 ### <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> (ACE, pronounced as one word “ace”)
@@ -109,18 +109,15 @@ ACE is dedicated to finding and promoting the most effective ways to help animal
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/founderspledge.png " /></a>
+<a target="_blank" href="https://founderspledge.com/"><img class="small_image_block" src="/img/founderspledge.png " /></a>
 
 
 ### <a target="_blank" href="https://founderspledge.com/">Founders Pledge</a>
 Founders Pledge produces <a target="_blank" href="https://founderspledge.com/research">research reports and recommends charities</a> concerning a wide range of cause areas, including global health, cash transfers, climate change, mental health, animal welfare, evidence-based policy, women’s empowerment, forced displacement, and existential risks.
 
+
 
-
-
-
-
-<a target="_blank" href=""><img class="small_image_block" src="/img/tlycslogo.png " /></a>
+<a target="_blank" href="https://thelifeyoucansave.org/"><img class="small_image_block" src="/img/tlycslogo.png " /></a>
 
 
 ### <a target="_blank" href="https://thelifeyoucansave.org/">The Life You Can Save</a> (TLYCS)
@@ -131,7 +128,7 @@ TLYCS promotes a <a target="_blank" href="https://www.thelifeyoucansave.org/best
 ## Range of Cause Areas
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/openphillogo.png " /></a>
+<a target="_blank" href="https://www.openphilanthropy.org/"><img class="small_image_block" src="/img/openphillogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.openphilanthropy.org/">Open Philanthropy Project</a> (‘Open Phil’)
@@ -139,7 +136,7 @@ The Open Philanthropy Project is a grant making organisation aiming to give effe
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/rplogo.png " /></a>
+<a target="_blank" href="https://www.rethinkpriorities.org/"><img class="small_image_block" src="/img/rplogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.rethinkpriorities.org/">Rethink Priorities</a>
@@ -147,7 +144,7 @@ Rethink Priorities, a project of <a target="_blank" href="https://www.rethinkpro
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/celogo.png " /></a>
+<a target="_blank" href="http://www.charityentrepreneurship.com/"><img class="small_image_block" src="/img/celogo.png " /></a>
 
 
 
@@ -160,7 +157,7 @@ Charity Entrepreneurship is a research and training program aimed at creating mu
 ### Global Priorities and Existential Risk
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/cserlogo.png " /></a>
+<a target="_blank" href="https://www.cser.ac.uk/"><img class="small_image_block" src="/img/cserlogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.cser.ac.uk/">Centre for the Study of Existential Risk</a> (CSER, pronounced see-ser)
@@ -169,7 +166,7 @@ CSER is an interdisciplinary research centre dedicated to the <a target="_blank"
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/gpilogo.png " /></a>
+<a target="_blank" href="https://globalprioritiesinstitute.org/"><img class="small_image_block" src="/img/gpilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://globalprioritiesinstitute.org/">Global Priorities Institute</a> (GPI)
@@ -178,9 +175,7 @@ GPI’s mission is to conduct and promote foundational academic research on how 
 GPI is a part of the University of Oxford.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/fhilogo.png " /></a>
-
-
+<a target="_blank" href="https://www.fhi.ox.ac.uk/"><img class="small_image_block" src="/img/fhilogo.png " /></a>
 
 
 
@@ -191,7 +186,7 @@ FHI houses the <a target="_blank" href="https://www.fhi.ox.ac.uk/govai/">Center 
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/flilogo.png " /></a>
+<a target="_blank" href="https://futureoflife.org/"><img class="small_image_block" src="/img/flilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://futureoflife.org/">Future of Life Institute</a> (FLI)
@@ -205,14 +200,14 @@ FLI supports research and initiatives for safeguarding life and developing optim
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/berilogo.png " /></a>
+<a target="_blank" href="https://existence.org/"><img class="small_image_block" src="/img/berilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://existence.org/">Berkeley Existential Risk Initiative</a> (BERI, pronounced like “berry”)
 BERI’s goal is to support the “existential risk ecosystem” by providing a source of flexible funding and human capital for its most important and neglected projects.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/frilogo.png " /></a>
+<a target="_blank" href="https://foundational-research.org/"><img class="small_image_block" src="/img/frilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://foundational-research.org/">Foundational Research Institute</a> (FRI)
@@ -222,7 +217,7 @@ FRI is a project of the <a target="_blank" href="https://ea-foundation.org/">Eff
 ## Animals
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/acelogo.png " /></a>
+<a target="_blank" href="https://animalcharityevaluators.org/"><img class="small_image_block" src="/img/acelogo.png " /></a>
 
 
 ### <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> (ACE, pronounced as one word “ace”)
@@ -232,14 +227,14 @@ ACE is dedicated to finding and promoting the most effective ways to help animal
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/silogo.png " /></a>
+<a target="_blank" href="https://www.sentienceinstitute.org/"><img class="small_image_block" src="/img/silogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.sentienceinstitute.org/">Sentience Institute</a>
 Sentience Institute is a think tank dedicated to the expansion of humanity’s moral circle. They currently focus on strategies to expand the circle to <a target="_blank" href="https://www.sentienceinstitute.org/perspective">farmed animals</a>.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/aelogo.png " /></a>
+<a target="_blank" href="http://www.animal-ethics.org/"><img class="small_image_block" src="/img/aelogo.png " /></a>
 
 
 
@@ -250,7 +245,7 @@ Animal Ethics was formed to promote discussion about issues in animal ethics and
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/wailogo.png " /></a>
+<a target="_blank" href="https://www.wildanimalinitiative.org/"><img class="small_image_block" src="/img/wailogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.wildanimalinitiative.org/">Wild Animal Initiative</a>
@@ -260,14 +255,14 @@ Wild Animal Initiative’s mission is to research, raise awareness of, and reduc
 ## Global Health and Poverty
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/givewell-logo-.jpg " /></a>
+<a target="_blank" href="https://www.givewell.org/"><img class="small_image_block" src="/img/givewell-logo-.jpg " /></a>
 
 
 ### <a target="_blank" href="https://www.givewell.org/">GiveWell</a>
 GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in the field of global health & development. They publish their analysis and recommend a small number of <a target="_blank" href="https://www.givewell.org/charities/top-charities">high-impact giving opportunities</a>. GiveWell also provides <a target="_blank" href="https://www.givewell.org/research/incubation-grants">incubation grants</a> for highly-promising new charities.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/jpallogo.png " /></a>
+<a target="_blank" href="https://www.povertyactionlab.org"><img class="small_image_block" src="/img/jpallogo.png " /></a>
 
 
 
@@ -275,7 +270,7 @@ GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in
 J-PAL is a global research center working to reduce poverty by ensuring that policy is informed by scientific evidence. They do this through research (including many <a target="_blank" href="https://www.povertyactionlab.org/evaluations">randomised impact evaluations</a>), <a target="_blank" href="https://www.povertyactionlab.org/evidence-to-policy">policy outreach</a> and <a target="_blank" href="https://www.povertyactionlab.org/training">training</a>.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/ipalogo.png " /></a>
+<a target="_blank" href="https://www.poverty-action.org/"><img class="small_image_block" src="/img/ipalogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.poverty-action.org/">Innovations for Poverty Action</a> (IPA)
@@ -285,7 +280,7 @@ IPA is a research and policy nonprofit that discovers and promotes effective sol
 ## AI Safety
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/mirilogo.png " /></a>
+<a target="_blank" href="https://intelligence.org/"><img class="small_image_block" src="/img/mirilogo.png " /></a>
 
 
 
@@ -294,7 +289,7 @@ MIRI is a research nonprofit studying the mathematical underpinnings of intellig
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/chailogo.png " /></a>
+<a target="_blank" href="https://humancompatible.ai/"><img class="small_image_block" src="/img/chailogo.png " /></a>
 
 
 
@@ -306,7 +301,7 @@ CHAI's goal is to develop the conceptual and technical understanding to reorient
 # Membership Organisations
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/bluelightbulbonwhite.png" />
+<a target="_blank" href="https://eahub.org/groups/"><img class="small_image_block" src="/img/bluelightbulbonwhite.png" />
 
 
 
@@ -325,7 +320,7 @@ Giving What We Can is a community of effective givers. They inspire people to do
 GWWC is a part of the Centre for Effective Altruism.
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/founderspledge.png" /></a>
+<a target="_blank" href="https://founderspledge.com/"><img class="small_image_block" src="/img/founderspledge.png" /></a>
 
 
 
@@ -334,7 +329,7 @@ Founders Pledge empowers entrepreneurs to do good. <a target="_blank" href="http
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/tlycslogo.png" /></a>
+<a target="_blank" href="https://thelifeyoucansave.org/"><img class="small_image_block" src="/img/tlycslogo.png" /></a>
 
 
 ### <a target="_blank" href="https://thelifeyoucansave.org/">The Life You Can Save</a> (TLYCS)
@@ -343,7 +338,7 @@ The mission of TLYCS is to promote effective <a target="_blank" href="https://ww
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/oftwlogo.png" /></a>
+<a target="_blank" href="https://www.1fortheworld.org/"><img class="small_image_block" src="/img/oftwlogo.png" /></a>
 
 
 ### <a target="_blank" href="https://www.1fortheworld.org/">One for the World</a> (OFTW)
