@@ -1,5 +1,5 @@
 ---
-title: One on Ones
+title: One-on-Ones
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -10,52 +10,52 @@ license:
 _This page was compiled with resources from EAF, CEA, EA Oxford and the LEAN team._
 
 
-This is about group organisers meeting new and current members of the EA community to have in-person conversations (one on ones). The section below outlines the benefits of one on ones, and some reasons why they may be important (or not) for your group. It also contains some important tips collected from the community and additional resources. 
+This is about group organisers meeting new and current members of the EA community to have in-person conversations (one-on-ones). The section below outlines the benefits of one-on-ones, and some reasons why they may be important (or not) for your group. It also contains some important tips collected from the community and additional resources. 
 
-One on ones are often reported as being one of the most valuable activities of an EA community. They are useful for many different purposes, including:
+One-on-ones are often reported as being one of the most valuable activities of an EA community. They are useful for many different purposes, including:
 
 * Sharing information about EA topics, and responding to questions and concerns.
 * Providing motivation
 * Building relationships between organisers and community members, and between community members
 
-The purpose of the meeting will be different if you are meeting a new member ("Intro one on ones"), meeting a current member ("Mentor one on ones"), meeting to discuss careers ("Career one on ones") or meeting to discuss donation opportunities (Donation one on ones). 
+The purpose of the meeting will be different if you are meeting a new member (Intro one-on-ones), meeting a current member (Mentor one-on-ones), meeting to discuss careers (Career one-on-ones) or meeting to discuss donation opportunities (Donation one-on-ones). 
 
 # Why and Why Not?
 
-Why one on ones might be relatively important for your group: 
+Why one-on-ones might be relatively important for your group: 
 
-* If many group members are quite new to EA, and have lots they want to learn which can be accomplished with one on one mentoring.
-* If the group covers a large geographic area, one on ones may be a significant means of engaging people who live some distance away from other group members or from where events are often held.
+* If many group members are quite new to EA, and have lots they want to learn which can be accomplished with one-on-one mentoring.
+* If the group covers a large geographic area, one-on-ones may be a significant means of engaging people who live some distance away from other group members or from where events are often held.
 * If many group members have busy and less flexible schedules, making it harder for them to attend events.
 * If what many group members want from the group is guidance on specific topics from the group, such as wanting to learn specific skills, be more productive, or learn about different cause areas (rather than wanting to feel part of a community more generally).
 * If many group members would like career guidance or feedback.
 
-Why one on ones might be less important compared to other activities: 
+Why one-on-ones might be less important compared to other activities: 
 
-* There isn’t anyone in your group that is comfortable and capable of offering one on ones. This might be if you aren’t that knowledgeable about effective altruism, or you may not feel able to answer common questions, or find one on ones socially challenging. It is important that the person running one on ones is good at making people feel comfortable and welcomed, as if a prospective member doesn’t click well with the person leading the one on one, the experience deter them from getting more involved.
+* There isn’t anyone in your group that is comfortable and capable of offering one-on-ones. This might be if you aren’t that knowledgeable about effective altruism, or you may not feel able to answer common questions, or find one on ones socially challenging. It is important that the person running one-on-ones is good at making people feel comfortable and welcomed, as if a prospective member doesn’t click well with the person leading the one-on-one, the experience deter them from getting more involved.
 
-* Your group does not have the capacity to run both one on ones and other types of events and group members want to experience a community. 
+* Your group does not have the capacity to run both one-on-ones and other types of events and group members want to experience a community. 
 
-# Introductory and Mentor One on Ones
+# Introductory and Mentor One-on-Ones
 
-Before you start introductory one on ones, read the EA Hub pages on <a target="_blank" href="/learn/communicate-ea/">communicating about effective altruism</a>, so you have a few good ways of explaining EA, and know some common questions and concerns. Also check out the EA Hub resources to <a target="_blank" href="/learn/">learn about effective altruism</a>, so you are familiar with resources and organisations you might be able to refer the group member to. 
+Before you start introductory one-on-ones, read the EA Hub pages on <a target="_blank" href="/learn/communicate-ea/">communicating about effective altruism</a>, so you have a few good ways of explaining EA, and know some common questions and concerns. Also check out the EA Hub resources to <a target="_blank" href="/learn/">learn about effective altruism</a>, so you are familiar with resources and organisations you might be able to refer the group member to. 
 
-<a target="_blank" href="https://forum.effectivealtruism.org/posts/NrLCM4vcf8PRqkLaH/guide-to-successful-community-1-1s">This guide from EA Oxford</a> leads you through introductory one on ones and mentor one on ones, from finding leads, to following up. 
+<a target="_blank" href="https://forum.effectivealtruism.org/posts/NrLCM4vcf8PRqkLaH/guide-to-successful-community-1-1s">This guide from EA Oxford</a> leads you through introductory one-on-ones and mentor one on ones, from finding leads, to following up. 
 
-# Careers One on Ones (Coming Soon)
+# Careers One-on-Ones (Coming Soon)
 
 This guide will discuss the benefits and risks of having one on one meetings about careers, what preparation is needed, and offers tips on how to run these meetings successfully. 
 
-# Donation One on Ones
+# Donation One-on-Ones
 
 Donation one on ones involve chatting to a prospective donor about where they could donate. Two group organisers have collated some <a target="_blank" href="https://docs.google.com/document/d/1hItIAv82v8qE8xy4vc1YBtRe-Q6_807ixB8vH810bzA/edit#">thoughts on running donation one on ones</a>.
 
 # Tips
-One on ones can seem a bit weird to some people, at least initially. 
+One-on-ones can seem a bit weird to some people, at least initially. 
 
 ## Some tips to relieve this awkwardness:
 
-* When you first bring up the option of having a one on one, let people know this is a regular activity your group does, which will hopefully make it obvious you aren’t asking them on a date! 
+* When you first bring up the option of having a one-on-one, let people know this is a regular activity your group does, which will hopefully make it obvious you aren’t asking them on a date! 
 * Use phrases like “grabbing a coffee and chatting about X”. 
 * Have the meeting in a public space - e.g. a cafe or park.
 
@@ -64,7 +64,7 @@ One on ones can seem a bit weird to some people, at least initially.
 * Schedule a meeting as soon as possible after someone expresses interest.
 * 30 minutes seems to be a good time for a session.
 * If you are planning on doing an introductory seminar, then personal interaction can be a crucial factor in getting people to sign up for it.
-* Check in with people the day before a 1-on-1 and make sure they are still available
+* Check in with people the day before a one-on-one and make sure they are still available
 * Don’t run overtime: Discuss at the start how long each of you have for the meeting, then finish by recapping the resources you intend to send them.
 
 ## During the meeting:
@@ -84,5 +84,5 @@ Send a follow up email, with a personalised list of reading recommendations.
 # Additional Resources
 
 * Spencer Greenberg on making a <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">positive impression</a> in a conversation 
-* A <a target="_blank" href="https://docs.google.com/document/d/1fhs60wsJufK37KkCVS0q3JkRqh0cYTbRh4gA4r0IYR8/edit?usp=sharing">guide to the TGROW</a> (Topic, Goal, Reality, Obstacles, Options, Way Forward) model for 1-on-1s.
+* A <a target="_blank" href="https://docs.google.com/document/d/1fhs60wsJufK37KkCVS0q3JkRqh0cYTbRh4gA4r0IYR8/edit?usp=sharing">guide to the TGROW</a> (Topic, Goal, Reality, Obstacles, Options, Way Forward) model for one-on-ones.
 
