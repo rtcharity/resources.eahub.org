@@ -44,14 +44,14 @@ Here are some ways to find other groups to ask if they’d be willing to give yo
 
 If you are running a uni group, it’s also a good idea to talk to some organisers of other clubs at your university. They might be able to give you a sense of how to navigate policies, publicise events, and tailor general club-running advice to your university in particular.
 
-# Uni Groups: Register with Your University and Utilise Available Resources
+# Register with Your University and Utilise Available Resources (Uni Groups)
 
 Each university has different requirements around groups. <a target="_blank" href="/start/register-uni/">Read our guide</a> to registering as an official group and how to use the university’s resources.
 # Find Resources
 
 EA Hub resources has an extensive list of resources, compiled by the Local Effective Altruism Network (LEAN), to help you <a target="_blank" href="/tips/">run your group</a> or put on <a target="_blank" href="/events/">events</a>. 
 
-<a name=”website”></a>
+<a name="website"></a>
 # Optional: Get a Website and an EA Email Address
 
 LEAN can host and help create a website for your group. 
@@ -73,6 +73,8 @@ If your group is a registered uni group, you can apply for funding through your 
 
 Now, fill out the forms, contact the right people, and get started!
 
-### NEXT: 
-### [Uni Groups: How to Register with your University](/start/register-uni)
-### [City Groups: Preparing for your First Event](/start/first-event-city/)
+### [NEXT: How to Register with your University (Uni Groups)](/start/register-uni)
+### Or
+### [NEXT: Preparing for your First Event (City Groups)](/start/first-event-city/)
+
+### [BACK: Useful Knowledge](/start/knowledge/)
