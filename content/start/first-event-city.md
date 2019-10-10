@@ -49,4 +49,4 @@ Information on how to advertise your group and your group’s events is coming s
 
 ### [NEXT: Tips on Running a Group](/tips/)
 
-### [Go Back to Start a Group](/start/)
+### [BACK: Get Support and Start Your Group](/start/support/)
