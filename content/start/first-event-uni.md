@@ -1,5 +1,5 @@
 ---
-title: 'Uni Groups: Clubs Fair and Your First Event'
+title: Clubs Fair and Your First Event (Uni Groups)
 weight: 7
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -49,4 +49,6 @@ I know, I know, you are still working out how to host your first one, but it’s
 Try to make this within a month of the first event (or sooner, especially for bigger groups), so that you can maintain momentum. Perhaps, prepare a slide about the next event if you are giving a presentation or write it up on a flyer (flyer templates can be found <a target=
 "_blank" href="/graphics/editable-graphics/">here</a>). At least make sure to clearly state that there will be another event and where people can find these details. 
 
+### [NEXT: Tips on Running a Group](/tips/)
 
+### [Go Back to Start a Group](/start/)
