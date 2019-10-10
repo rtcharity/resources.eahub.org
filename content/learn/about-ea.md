@@ -111,7 +111,7 @@ In the <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Po
 
 ## Criticisms of Effective Altruism
 
-While most of the above links advocate for EA, it is also worth learning what effective altruism might have wrong. The Centre for Effective Altruism has compiled a <a target="_blank" href="https://www.effectivealtruism.org/faqs-criticism-objections/#objections-to-effective-altruism">list of a few common objections to effective altruism</a>., and responses to these objections.
+While most of the above links advocate for EA, it is also worth learning what effective altruism might have wrong. The Centre for Effective Altruism has compiled a <a target="_blank" href="https://www.effectivealtruism.org/faqs-criticism-objections/#objections-to-effective-altruism">list of a few common objections to effective altruism</a>, and responses to these objections.
 
 
 ## More Reading
