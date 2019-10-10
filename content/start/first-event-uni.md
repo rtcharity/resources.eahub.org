@@ -49,6 +49,8 @@ I know, I know, you are still working out how to host your first one, but it’s
 Try to make this within a month of the first event (or sooner, especially for bigger groups), so that you can maintain momentum. Perhaps, prepare a slide about the next event if you are giving a presentation or write it up on a flyer (flyer templates can be found <a target=
 "_blank" href="/graphics/editable-graphics/">here</a>). At least make sure to clearly state that there will be another event and where people can find these details. 
 
+<hr>
+
 ### [NEXT: Tips on Running a Group](/tips/)
 
 ### [BACK: Register With Your University](/start/register-uni/)
