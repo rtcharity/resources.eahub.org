@@ -165,6 +165,8 @@ Some groups take several years before they are firmly established. You should co
 
 More information on preparing to handover leadership can be found <a target="_blank" href="/tips/handover">here</a>. 
 
+<hr>
+
 ### [NEXT: Useful Knowledge](/start/knowledge/) 
 
 ### [BACK: Why Start a Group](/start/why/) 
