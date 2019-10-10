@@ -1,5 +1,5 @@
 ---
-title: 'City Groups: Preparing for Your First Event'
+title: Preparing for Your First Event (City Groups)
 weight: 8
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -46,3 +46,7 @@ Try to make this within a month of the first event (or sooner, especially for bi
 # Advertising
 
 Information on how to advertise your group and your group’s events is coming soon.
+
+### [NEXT: Tips on Running a Group](/tips/)
+
+### [Go Back to Start a Group](/start/)
