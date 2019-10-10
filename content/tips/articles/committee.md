@@ -37,3 +37,9 @@ Similar strategies can be used for other committee roles.
 # Incorporation
 
 If you are considering whether or not to incorporate your city group, it is important to check the legal regulations that your group will adhere to. If your group is not very large or your members do not have a lot of time, the organisational overhead may not be worth it. EA Melbourne shared the considerations that they made, <a target="_blank" href="https://docs.google.com/document/d/1GCUwDKE5MTWeoM6Fr5be63j1u-PW-lUUASRTOywEtqg/edit">here</a>. 
+
+<hr>
+
+### [NEXT: Leadership Skills](/tips/articles/leadership)
+
+### [BACK: Organisation](/tips/organisation)
