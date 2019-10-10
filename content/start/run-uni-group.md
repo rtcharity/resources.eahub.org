@@ -1,5 +1,5 @@
 ---
-title: 'Uni Groups: What is Involved in Running a Uni Group? '
+title: 'What is Involved in Running a Group? (Uni Groups) '
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -165,4 +165,7 @@ Some groups take several years before they are firmly established. You should co
 
 More information on preparing to handover leadership can be found <a target="_blank" href="/tips/handover">here</a>. 
 
-### [NEXT: Knowledge and Skills to Start a Group](/start/knowledge) 
+### [NEXT: Useful Knowledge](/start/knowledge/) 
+
+### [BACK: Why Start a Group](/start/why/) 
+
