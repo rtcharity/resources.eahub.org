@@ -20,3 +20,7 @@ Tips on how to run organiser meetings. It covers the main tasks and roles for be
 
 ### [Communication Tools](/tips/articles/communication-tools/)
 Ideas for tracking tasks and coordinating between fellow organisers, and communicating between organisers and group members. 
+
+<hr>
+
+### [BACK: Running a Group](/tips/)
