@@ -51,4 +51,4 @@ Try to make this within a month of the first event (or sooner, especially for bi
 
 ### [NEXT: Tips on Running a Group](/tips/)
 
-### [Go Back to Start a Group](/start/)
+### [BACK: Register With Your University](/start/register-uni/)
