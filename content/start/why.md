@@ -1,5 +1,5 @@
 ---
-title: Why Start an EA Group?
+title: Why Start a Group?
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
