@@ -15,14 +15,20 @@ _Image: EA Sydney_
 
 These pages contain ideas about prioritising group activities, measuring your group’s impact, and some interesting readings about how to build a thriving EA movement.
 
-### [Priorities](/tips/articles/priorities/)
+## [Priorities](/tips/articles/priorities/)
 
 All groups are time and/or funding constrained to some extent, so this page outlines some suggestions about what groups at different stages could prioritise. 
 
-### Group Measurement and Evaluation (Coming Soon)
+## Group Measurement and Evaluation (Coming Soon)
 
 This page will contain ideas on how to measure the impact we are having, and use this information to improve the running of the group. 
 
-### [Models of Movement Building](/tips/articles/models/) 
+## [Models of Movement Building](/tips/articles/models/) 
 
 This page links to a variety of articles about the role of EA groups, and the building of the EA movement in general.  
+
+<hr>
+
+### [NEXT: Priorities](/tips/articles/priorities)
+
+### [BACK: Running a Group](/tips/)
