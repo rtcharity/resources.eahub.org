@@ -86,3 +86,8 @@ Send a follow up email, with a personalised list of reading recommendations.
 * Spencer Greenberg on making a <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">positive impression</a> in a conversation 
 * A <a target="_blank" href="https://docs.google.com/document/d/1fhs60wsJufK37KkCVS0q3JkRqh0cYTbRh4gA4r0IYR8/edit?usp=sharing">guide to the TGROW</a> (Topic, Goal, Reality, Obstacles, Options, Way Forward) model for one-on-ones.
 
+<hr>
+
+### [NEXT: Getting Support](/tips/support/)
+
+### [BACK: Communication Tools](/tips/articles/communication-tools/) 
