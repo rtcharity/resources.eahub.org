@@ -24,6 +24,7 @@ According to the 2018 EA Survey, only <a target="_blank" href="https://forum.eff
 # Further Reading
 <a target="_blank" href="https://80000hours.org/problem-profiles/promoting-effective-altruism/">This article from 80,000 Hours</a> outlines reasons for and against working in community building. It is mostly directed towards people considering building the effective altruism community as a job, so if you are unsure whether to start a group or to use your time for other EA projects, this article might help you decide.
 
+<hr>
 
 ### [NEXT: What is Involved in Running a Group? (Uni Groups)](/start/run-uni-group/)
 ### Or
