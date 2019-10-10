@@ -1,5 +1,5 @@
 ---
-title: What is Involved in Running a City Group?
+title: What is Involved in Running a Group? (City Groups)
 weight: 3
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -95,6 +95,6 @@ Once you have more than a couple of people helping run your group, it is importa
 
 Information and tips on organising your organisers such as communication tools, organisational structures, ways of running meetings, and incorporations can be found <a target="_blank" href="/tips/">here</a>.
 
-### [NEXT: Knowledge and Skills to Start a Group](/start/knowledge/)
+### [NEXT: Useful Knowledge](/start/knowledge/)
 
 ### [Go Back to Start a Group](/start/)
