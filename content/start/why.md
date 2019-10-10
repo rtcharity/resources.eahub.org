@@ -28,4 +28,4 @@ According to the 2018 EA Survey, only <a target="_blank" href="https://forum.eff
 # Next
 ### [What is Involved in Running a Group? (Uni Groups)](/start/run-uni-group/)
 ### Or
-### [What is Involved in Running a Group?(City Groups)](/start/city-groups-what-is-involved-in-running-a-city-group/)
+### [What is Involved in Running a Group?(City Groups)](/start/run-city-group/)
