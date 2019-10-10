@@ -76,6 +76,8 @@ If your group is a registered uni group, you can apply for funding through your 
 
 Now, fill out the forms, contact the right people, and get started!
 
+<hr>
+
 ### [NEXT: How to Register with your University (Uni Groups)](/start/register-uni)
 ### Or
 ### [NEXT: Preparing for your First Event (City Groups)](/start/first-event-city/)
