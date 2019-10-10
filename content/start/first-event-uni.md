@@ -1,5 +1,5 @@
 ---
-title: 'Uni Groups: Clubs Fair and Your First Event'
+title: Clubs Fair and Your First Event (Uni Groups)
 weight: 7
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
