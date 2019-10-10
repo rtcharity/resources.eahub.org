@@ -1,5 +1,5 @@
 ---
-title: Start an EA Group
+title: Start a Group
 weight: 3
 pictogram: /img/start.png
 resourceForGroups: true
@@ -12,7 +12,7 @@ _Image: EA Philippines_
 
 ### _Published 13th September 2019_
 
-Effective altruism groups usually fall into two categories: city groups, which bring together anyone interested in effective altruism near a particular geographic area, and uni groups. Some groups have a combined city/uni group.
+Effective altruism groups usually fall into two categories: city groups, which bring together anyone interested in effective altruism in a particular geographic area, and uni groups based out of a college or university. Some groups have a combined city/uni group.
 
 This guide is primarily intended for individuals considering starting a new city or uni group. However, it may also be useful for someone taking on a leadership role at an existing EA group or for someone interested in starting a group that focuses on a specific subset of EA, such as effective animal advocacy or promoting effective global poverty charities.
 
@@ -38,15 +38,15 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 * ### [Why Start an EA Group?](/start/why/) START HERE
 
-* ### [What is Involved in Running a Group? (Uni Group)](/start/run-uni-group)
+* ### [What is Involved in Running a Group?](/start/run-uni-group)
 
 * ### [Useful Knowledge](/start/knowledge/)
 
 * ### [Get Support and Start Your Group](/start/support/)
 
-* ### [How to Register with Your University (Uni Group)](/start/register-uni/)
+* ### [How to Register with Your University](/start/register-uni/)
 
-* ### [Clubs Fair and Your First Event (Uni Group)](/start/first-event-uni/)
+* ### [Clubs Fair and Your First Event](/start/first-event-uni/)
 
 
 
@@ -54,10 +54,10 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 * ### [Why Start an EA Group?](/start/why/) START HERE
 
-* ### [What is Involved in Running a Group? (City Groups)](/start/city-groups-what-is-involved-in-running-a-city-group/)
+* ### [What is Involved in Running a Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
 
 * ### [Useful Knowledge](/start/knowledge/)
 
 * ### [Get Support and Start Your Group](/start/support/)
 
-* ### [Preparing for Your First Event (City Groups)](/start/first-event-city/)
+* ### [Preparing for Your First Event](/start/first-event-city/)
