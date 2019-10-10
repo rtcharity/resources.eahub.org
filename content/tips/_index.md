@@ -1,5 +1,5 @@
 ---
-title: Tips on Running an EA Group
+title: Running a Group
 weight: 4
 pictogram: /img/tips.png
 resourceForGroups: true
@@ -28,8 +28,8 @@ There’s no point in running great events and projects if
 
 This will have suggestions and readings about establishing a positive and welcoming group.
 
-### [ONE ON ONES](/tips/one-on-ones/)
-Tips for group organisers meeting new and current members of the EA community to have one on one conversations.
+### [ONE-ON-ONES](/tips/one-on-ones/)
+Tips for group organisers meeting new and current members of the EA community to have one-on-one conversations.
 
 ### [GETTING SUPPORT](/tips/support/)
 How to find people who can give you guidance on running your group, and money to run group activities.
