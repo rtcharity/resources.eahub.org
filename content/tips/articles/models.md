@@ -44,3 +44,8 @@ A group aiming to have a high impact could set goals to help their members incre
 * Ja-Ying Chung describes <a target="_blank_" href="https://forum.effectivealtruism.org/posts/KmondPMrgZ2ctKnP4/a-framework-for-assessing-the-potential-of-ea-development-in-1">a framework for emerging EA locations</a>
 * Ben Todd discusses the potential for “lock in” of ideas when conducting mass outreach (especially in new languages) in this <a target="_blank_" href="https://forum.effectivealtruism.org/posts/Z95TxtkjHGPq4TAqY/why-not-to-rush-to-translate-effective-altruism-into-other">forum post</a>.
 
+<hr>
+
+### [NEXT: Organisation](/tips/organisation/)
+
+### [BACK: Priorities](tips/articles/priorities/)
