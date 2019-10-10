@@ -38,15 +38,15 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 * ### [Why Start an EA Group?](/start/why/) START HERE
 
-* ### [What is Involved in Running a Uni Group?](/start/run-uni-group)
+* ### [What is Involved in Running a Group? (Uni Group)](/start/run-uni-group)
 
 * ### [Useful Knowledge](/start/knowledge/)
 
 * ### [Get Support and Start Your Group](/start/support/)
 
-* ### [How to Register with Your University](/start/register-uni/)
+* ### [How to Register with Your University (Uni Group)](/start/register-uni/)
 
-* ### [Clubs Fair and Your First Event](/start/first-event-uni/)
+* ### [Clubs Fair and Your First Event (Uni Group)](/start/first-event-uni/)
 
 
 
@@ -54,10 +54,10 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 * ### [Why Start an EA Group?](/start/why/) START HERE
 
-* ### [What is Involved in Running a City Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
+* ### [What is Involved in Running a Group? (City Groups)](/start/city-groups-what-is-involved-in-running-a-city-group/)
 
 * ### [Useful Knowledge](/start/knowledge/)
 
 * ### [Get Support and Start Your Group](/start/support/)
 
-* ### [Preparing for Your First Event](/start/first-event-city/)
+* ### [Preparing for Your First Event (City Groups)](/start/first-event-city/)
