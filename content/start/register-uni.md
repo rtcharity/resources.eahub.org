@@ -92,6 +92,8 @@ Some universities require clubs to have a faculty member act as an advisor for g
 
 For general tips on starting a uni group check out this <a target="_blank" href="https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM">guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
 
+<hr>
+
 ### [NEXT: Clubs Fair and your First Event](/start/first-event-uni) 
 
 ### [BACK: Get Support and Start Your Group](/start/support/)
