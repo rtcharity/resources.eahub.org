@@ -95,6 +95,8 @@ Once you have more than a couple of people helping run your group, it is importa
 
 Information and tips on organising your organisers such as communication tools, organisational structures, ways of running meetings, and incorporations can be found <a target="_blank" href="/tips/">here</a>.
 
+<hr>
+
 ### [NEXT: Useful Knowledge](/start/knowledge/)
 
 ### [BACK: Why Start a Group](/start/why/)
