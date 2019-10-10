@@ -11,6 +11,8 @@ license:
 Once you have decided you want to start a group, contact the <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#groups-team">groups team at CEA</a>. They are happy to schedule calls with aspiring group organisers to share advice and point them towards resources. You can reach them at <a target=”_blank” href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>. They are the best people to talk to for general group advice. 
 
 The groups team will also add you to the EA Groups newsletter. You can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+
+You can also check out the <a target="_blank" href="/tips/support/">Groups Support Page</a> for other people to contact if you need support for particular topics such as running introductory presentations, issues within the group, or running fellowships. 
  
 # Register Your Group
 Register your group on the Effective Altruism Hub <a target="_blank" href="https://eahub.org/groups/">website</a>. The EA Hub hosts the official list of EA groups. 
@@ -68,8 +70,9 @@ LEAN can also provide email addresses for your group (e.g. info@eamadison.org), 
 
 Contact the LEAN team at <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a> if you are interested in getting websites or email addresses. 
 
-Optional: Apply for Funding
+# Optional: Apply for Funding
 If your group is a registered uni group, you can apply for funding through your Student Association. For funding city groups, or if your uni group needs additional funding, you can apply to CEA. <a target="_blank" href="https://app.effectivealtruism.org/groups/resources/mentorship-and-funding/">Group funding</a> can be used for printing, running events, supplying food at events, travel expenses for speakers, and group projects. CEA also funds Community Building Grants to allow some people to work part or full time on effective altruism community building.
+
 
 Now, fill out the forms, contact the right people, and get started!
 
