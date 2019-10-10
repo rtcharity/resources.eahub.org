@@ -21,7 +21,7 @@ Contents:
 <a name="general"></a>
 # Organisations working in a range of areas
 
-<img class="small_image_block" src="/img/cealogo.png" />
+<a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" src="/img/cealogo.png" /></a>
 
 
 
@@ -36,7 +36,8 @@ The Centre for Effective Altruism’s mission is to create a global community of
 * <a target="_blank" href="http://www.effectivealtruism.org">www.effectivealtruism.org</a> - an introductory website that compiles key EA resources.  
 
 
-<img class="small_image_block" src="/img/80Klogo.png" />
+
+<a target="_blank" href="https://80000hours.org/"><img class="small_image_block" src="/img/80Klogo.png" /></a>
 
 
 
@@ -51,7 +52,8 @@ The Centre for Effective Altruism’s mission is to create a global community of
 
 
 
-<img class="small_image_block" src="/img/eaflogo.png" />
+<a target="_blank" href="https://ea-foundation.org/">
+<img class="small_image_block" src="/img/eaflogo.png" /></a>
 
 
 
@@ -64,7 +66,8 @@ EAF conducts and coordinates research on how to do the most good in terms of red
 * A tax-deductible <a target="_blank" href="https://ea-foundation.org/donate-ea/">donation portal</a> to EA organisations and effective charities, for donors in Germany and Switzerland.
 
 
-<img class="small_image_block"  src="/img/rclogo.png" />
+
+<a target="_blank" href="https://rethinkprojects.org"><img class="small_image_block"  src="/img/rclogo.png" /></a>
 
 
 
@@ -76,7 +79,8 @@ Rethink Charity runs a variety of projects that aid the effective altruism commu
 * <a target="_blank" href="https://rcforward.org/">RC Forward</a>, a cause-neutral donation routing fund that makes high-impact charities tax-deductible in Canada
 
 
-<img class="small_image_block" src="/img/openphillogo.png" />
+
+<a target="_blank" href="https://www.openphilanthropy.org/"><img class="small_image_block" src="/img/openphillogo.png" /></a>
 
 
 ### <a target="_blank" href="https://www.openphilanthropy.org/">Open Philanthropy Project</a> (Open Phil)
@@ -87,7 +91,8 @@ The Open Philanthropy Project is a research and grant-making organisation aiming
 # Charity Evaluators
 These organisations conduct research in order to recommend outstanding charities.
 
-<img class="small_image_block" src="/img/givewell-logo-.jpg " />
+
+<a target="_blank" href="https://www.givewell.org/"><img class="small_image_block" src="/img/givewell-logo-.jpg " /></a>
 
 
 ### <a target="_blank" href="https://www.givewell.org/">GiveWell</a>
@@ -95,24 +100,24 @@ GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in
 
 
 
-<img class="small_image_block" src="/img/acelogo.png " />
+
+<a target="_blank" href="https://animalcharityevaluators.org/"><img class="small_image_block" src="/img/acelogo.png " /></a>
 
 
 ### <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> (ACE, pronounced as one word “ace”)
 ACE is dedicated to finding and promoting the most effective ways to help animals. They conduct research on how to help animals effectively and publish a list of their most highly recommended <a target="_blank" href="https://animalcharityevaluators.org/donation-advice/recommended-charities/">charities</a>. ACE also funds <a target="_blank" href="https://researchfund.animalcharityevaluators.org/">research</a>.
 
 
-<img class="small_image_block" src="/img/founderspledge.png " />
+
+<a target="_blank" href="https://founderspledge.com/"><img class="small_image_block" src="/img/founderspledge.png " /></a>
 
 
 ### <a target="_blank" href="https://founderspledge.com/">Founders Pledge</a>
 Founders Pledge produces <a target="_blank" href="https://founderspledge.com/research">research reports and recommends charities</a> concerning a wide range of cause areas, including global health, cash transfers, climate change, mental health, animal welfare, evidence-based policy, women’s empowerment, forced displacement, and existential risks.
 
+
 
-
-
-
-<img class="small_image_block" src="/img/tlycslogo.png " />
+<a target="_blank" href="https://thelifeyoucansave.org/"><img class="small_image_block" src="/img/tlycslogo.png " /></a>
 
 
 ### <a target="_blank" href="https://thelifeyoucansave.org/">The Life You Can Save</a> (TLYCS)
@@ -122,21 +127,24 @@ TLYCS promotes a <a target="_blank" href="https://www.thelifeyoucansave.org/best
 # Other Research
 ## Range of Cause Areas
 
-<img class="small_image_block" src="/img/openphillogo.png " />
+
+<a target="_blank" href="https://www.openphilanthropy.org/"><img class="small_image_block" src="/img/openphillogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.openphilanthropy.org/">Open Philanthropy Project</a> (‘Open Phil’)
 The Open Philanthropy Project is a grant making organisation aiming to give effectively and share their findings openly. They are mostly cause-neutral, but have been focused on <a target="_blank" href="https://www.openphilanthropy.org/focus">four broad categories</a>: U.S. policy, global catastrophic risks, scientific research, and global health & development. Open Phil receives most of its money from Dustin Moskovitz and Cari Tuna of <a target="_blank" href="http://www.goodventures.org/">Good Ventures</a>, and is currently the largest funder of effective altruism projects.
 
 
-<img class="small_image_block" src="/img/rplogo.png " />
+
+<a target="_blank" href="https://www.rethinkpriorities.org/"><img class="small_image_block" src="/img/rplogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.rethinkpriorities.org/">Rethink Priorities</a>
 Rethink Priorities, a project of <a target="_blank" href="https://www.rethinkprojects.org/">Rethink Charity</a>, is dedicated to doing foundational research on several neglected causes in an empirical and transparent manner. Their research includes work on animal welfare, global health, long-term future and the EA movement. Rethink Priorities has also created <a target="_blank" href="http://priority.wiki/">PriorityWiki</a>, a cause prioritisation wiki anyone can edit.
 
 
-<img class="small_image_block" src="/img/celogo.png " />
+
+<a target="_blank" href="http://www.charityentrepreneurship.com/"><img class="small_image_block" src="/img/celogo.png " /></a>
 
 
 
@@ -148,7 +156,8 @@ Charity Entrepreneurship is a research and training program aimed at creating mu
 
 ### Global Priorities and Existential Risk
 
-<img class="small_image_block" src="/img/cserlogo.png " />
+
+<a target="_blank" href="https://www.cser.ac.uk/"><img class="small_image_block" src="/img/cserlogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.cser.ac.uk/">Centre for the Study of Existential Risk</a> (CSER, pronounced see-ser)
@@ -156,7 +165,8 @@ CSER is an interdisciplinary research centre dedicated to the <a target="_blank"
 
 
 
-<img class="small_image_block" src="/img/gpilogo.png " />
+
+<a target="_blank" href="https://globalprioritiesinstitute.org/"><img class="small_image_block" src="/img/gpilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://globalprioritiesinstitute.org/">Global Priorities Institute</a> (GPI)
@@ -164,9 +174,8 @@ GPI’s mission is to conduct and promote foundational academic research on how 
 
 GPI is a part of the University of Oxford.
 
-<img class="small_image_block" src="/img/fhilogo.png " />
 
-
+<a target="_blank" href="https://www.fhi.ox.ac.uk/"><img class="small_image_block" src="/img/fhilogo.png " /></a>
 
 
 
@@ -176,7 +185,8 @@ FHI houses the <a target="_blank" href="https://www.fhi.ox.ac.uk/govai/">Center 
 
 
 
-<img class="small_image_block" src="/img/flilogo.png " />
+
+<a target="_blank" href="https://futureoflife.org/"><img class="small_image_block" src="/img/flilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://futureoflife.org/">Future of Life Institute</a> (FLI)
@@ -189,13 +199,15 @@ FLI supports research and initiatives for safeguarding life and developing optim
 
 
 
-<img class="small_image_block" src="/img/berilogo.png " />
+
+<a target="_blank" href="https://existence.org/"><img class="small_image_block" src="/img/berilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://existence.org/">Berkeley Existential Risk Initiative</a> (BERI, pronounced like “berry”)
 BERI’s goal is to support the “existential risk ecosystem” by providing a source of flexible funding and human capital for its most important and neglected projects.
 
-<img class="small_image_block" src="/img/frilogo.png " />
+
+<a target="_blank" href="https://foundational-research.org/"><img class="small_image_block" src="/img/frilogo.png " /></a>
 
 
 ### <a target="_blank" href="https://foundational-research.org/">Foundational Research Institute</a> (FRI)
@@ -204,7 +216,8 @@ FRI is a project of the <a target="_blank" href="https://ea-foundation.org/">Eff
 
 ## Animals
 
-<img class="small_image_block" src="/img/acelogo.png " />
+
+<a target="_blank" href="https://animalcharityevaluators.org/"><img class="small_image_block" src="/img/acelogo.png " /></a>
 
 
 ### <a target="_blank" href="https://animalcharityevaluators.org/">Animal Charity Evaluators</a> (ACE, pronounced as one word “ace”)
@@ -213,14 +226,15 @@ ACE is dedicated to finding and promoting the most effective ways to help animal
 
 
 
-<img class="small_image_block" src="/img/silogo.png " />
+
+<a target="_blank" href="https://www.sentienceinstitute.org/"><img class="small_image_block" src="/img/silogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.sentienceinstitute.org/">Sentience Institute</a>
 Sentience Institute is a think tank dedicated to the expansion of humanity’s moral circle. They currently focus on strategies to expand the circle to <a target="_blank" href="https://www.sentienceinstitute.org/perspective">farmed animals</a>.
 
-<img class="small_image_block" src="/img/aelogo.png " />
 
+<a target="_blank" href="http://www.animal-ethics.org/"><img class="small_image_block" src="/img/aelogo.png " /></a>
 
 
 
@@ -230,7 +244,8 @@ Animal Ethics was formed to promote discussion about issues in animal ethics and
 
 
 
-<img class="small_image_block" src="/img/wailogo.png " />
+
+<a target="_blank" href="https://www.wildanimalinitiative.org/"><img class="small_image_block" src="/img/wailogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.wildanimalinitiative.org/">Wild Animal Initiative</a>
@@ -239,20 +254,23 @@ Wild Animal Initiative’s mission is to research, raise awareness of, and reduc
 
 ## Global Health and Poverty
 
-<img class="small_image_block" src="/img/givewell-logo-.jpg " />
+
+<a target="_blank" href="https://www.givewell.org/"><img class="small_image_block" src="/img/givewell-logo-.jpg " /></a>
 
 
 ### <a target="_blank" href="https://www.givewell.org/">GiveWell</a>
 GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in the field of global health & development. They publish their analysis and recommend a small number of <a target="_blank" href="https://www.givewell.org/charities/top-charities">high-impact giving opportunities</a>. GiveWell also provides <a target="_blank" href="https://www.givewell.org/research/incubation-grants">incubation grants</a> for highly-promising new charities.
 
-<img class="small_image_block" src="/img/jpallogo.png " />
+
+<a target="_blank" href="https://www.povertyactionlab.org"><img class="small_image_block" src="/img/jpallogo.png " /></a>
 
 
 
 ### <a target="_blank" href="https://www.povertyactionlab.org">Abdul Latif Jameel Poverty Action Lab</a> (J-PAL pronounced “jay-pal”)
 J-PAL is a global research center working to reduce poverty by ensuring that policy is informed by scientific evidence. They do this through research (including many <a target="_blank" href="https://www.povertyactionlab.org/evaluations">randomised impact evaluations</a>), <a target="_blank" href="https://www.povertyactionlab.org/evidence-to-policy">policy outreach</a> and <a target="_blank" href="https://www.povertyactionlab.org/training">training</a>.
 
-<img class="small_image_block" src="/img/ipalogo.png " />
+
+<a target="_blank" href="https://www.poverty-action.org/"><img class="small_image_block" src="/img/ipalogo.png " /></a>
 
 
 ### <a target="_blank" href="https://www.poverty-action.org/">Innovations for Poverty Action</a> (IPA)
@@ -261,7 +279,8 @@ IPA is a research and policy nonprofit that discovers and promotes effective sol
 
 ## AI Safety
 
-<img class="small_image_block" src="/img/mirilogo.png " />
+
+<a target="_blank" href="https://intelligence.org/"><img class="small_image_block" src="/img/mirilogo.png " /></a>
 
 
 
@@ -269,7 +288,8 @@ IPA is a research and policy nonprofit that discovers and promotes effective sol
 MIRI is a research nonprofit studying the mathematical underpinnings of intelligent behavior. Their mission is to develop formal tools for the clean design and analysis of general-purpose AI systems, with the intent of making such systems <a target="_blank" href="https://intelligence.org/faq/#safety">safer and more reliable</a> when they are developed.
 
 
-<img class="small_image_block" src="/img/chailogo.png " />
+
+<a target="_blank" href="https://humancompatible.ai/"><img class="small_image_block" src="/img/chailogo.png " /></a>
 
 
 
@@ -280,7 +300,8 @@ CHAI's goal is to develop the conceptual and technical understanding to reorient
 <a name="membership"></a>
 # Membership Organisations
 
-<img class="small_image_block" src="/img/bluelightbulbonwhite.png" />
+
+<a target="_blank" href="https://eahub.org/groups/"><img class="small_image_block" src="/img/bluelightbulbonwhite.png" />
 
 
 
@@ -288,7 +309,8 @@ CHAI's goal is to develop the conceptual and technical understanding to reorient
 There are EA groups that you can join in many countries in the world.
 
 
-<img class="small_image_block" src="/img/gwwclogo.png" />
+
+<a target="_blank" href=""><img class="small_image_block" src="/img/gwwclogo.png" /></a>
 
 
 
@@ -297,7 +319,8 @@ Giving What We Can is a community of effective givers. They inspire people to do
 
 GWWC is a part of the Centre for Effective Altruism.
 
-<img class="small_image_block" src="/img/founderspledge.png" />
+
+<a target="_blank" href="https://founderspledge.com/"><img class="small_image_block" src="/img/founderspledge.png" /></a>
 
 
 
@@ -305,7 +328,8 @@ GWWC is a part of the Centre for Effective Altruism.
 Founders Pledge empowers entrepreneurs to do good. <a target="_blank" href="https://founderspledge.com/how-it-works">Pledgers</a> commit to give a percentage of their future exit or liquidity event earnings to high-impact charities of their choice. Founders Pledge also produces <a target="_blank" href="https://founderspledge.com/research">research reports on and recommends charities</a> for a wide range of cause areas, including global health, cash transfers, climate change, mental health, animal welfare, evidence-based policy, women’s empowerment, forced displacement, and existential risks.
 
 
-<img class="small_image_block" src="/img/tlycslogo.png" />
+
+<a target="_blank" href="https://thelifeyoucansave.org/"><img class="small_image_block" src="/img/tlycslogo.png" /></a>
 
 
 ### <a target="_blank" href="https://thelifeyoucansave.org/">The Life You Can Save</a> (TLYCS)
@@ -313,7 +337,8 @@ The mission of TLYCS is to promote effective <a target="_blank" href="https://ww
 
 
 
-<img class="small_image_block" src="/img/oftwlogo.png" />
+
+<a target="_blank" href="https://www.1fortheworld.org/"><img class="small_image_block" src="/img/oftwlogo.png" /></a>
 
 
 ### <a target="_blank" href="https://www.1fortheworld.org/">One for the World</a> (OFTW)
@@ -322,7 +347,7 @@ OFTW encourages people to donate at least 1% of their income to OFTW’s <a targ
 <a name="rationality"></a>
 # Rationality
 
-<img class="small_image_block" src="/img/cfarlogo.png" />
+<img class="small_image_block" src="/img/cfarlogo.png" /></a>
 
 
 ### <a target="_blank" href="https://rationality.org/">Center for Applied Rationality</a> (CFAR, pronounced see-far)
