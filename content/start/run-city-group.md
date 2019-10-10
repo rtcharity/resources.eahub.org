@@ -1,5 +1,5 @@
 ---
-title: Run City Group
+title: What is Involved in Running a Group? (City Groups)
 weight: 3
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
