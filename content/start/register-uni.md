@@ -1,5 +1,5 @@
 ---
-title: 'Uni Groups: How to Register with Your University'
+title: Register with Your University (Uni Groups)
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -92,7 +92,7 @@ Some universities require clubs to have a faculty member act as an advisor for g
 
 For general tips on starting a uni group check out this <a target="_blank" href="https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM">guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
 
-### [NEXT: Uni Groups: Clubs Fair and your First Event](/start/first-event-uni) 
+### [NEXT: Clubs Fair and your First Event](/start/first-event-uni) 
 
-### [Back to Start a Group](/start/)
+### [BACK: Get Support and Start Your Group](/start/support/)
 
