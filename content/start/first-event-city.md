@@ -47,6 +47,8 @@ Try to make this within a month of the first event (or sooner, especially for bi
 
 Information on how to advertise your group and your group’s events is coming soon.
 
+<hr>
+
 ### [NEXT: Tips on Running a Group](/tips/)
 
 ### [BACK: Get Support and Start Your Group](/start/support/)
