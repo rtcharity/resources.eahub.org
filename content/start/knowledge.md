@@ -1,5 +1,5 @@
 ---
-title: Knowledge and Skills to Start a Group
+title: Knowledge to Start a Group
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -32,5 +32,7 @@ More important than in-depth knowledge is being dedicated to improving the world
 
 If you feel you lack the skills to start a group, it might help to know that many people who start groups feel the same way. Consider that you might be suffering from imposter syndrome, where talented people underestimate their abilities – a common affliction among EAs. Having a chat with <a target="_blank_" href="/start/support">CEA or with other group organisers</a> might help you work out whether starting a group is right for you.
 
-### [NEXT: Get Support and Start Your Group](/start/support)
+### [NEXT: Get Support and Start Your Group](/start/support/)
+
+### [Go Back to Start a Group](/start/)
  
