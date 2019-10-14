@@ -31,4 +31,4 @@ This page links to a variety of articles about the role of EA groups, and the bu
 
 ### [NEXT: Priorities](/tips/articles/priorities)
 
-### [BACK: Running a Group](/tips/)
+### [BACK: Getting Support](/tips/support/)
