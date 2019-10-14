@@ -49,10 +49,7 @@ Michael Trzesimiech - Local Effective Altruism Network <a target="_blank" href=
 
 Julia Wise - Centre for Effective Altruism <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a>
 
-Julia runs office hours on community health:
-Thursdays from 9 am - 5 pm Eastern US time. Book a call on <a target="_blank" href="https://calendly.com/julia-d-wise/community-health-office-hours">her calendly</a>, or email her if you'd like to schedule at another time. 
-
-Julia also runs small group meetings on the first Monday (4 pm Eastern US time) and third Thursday (10 am Eastern US time) of each month. You can sign up <a target="_blank" href="hhttps://calendly.com/julia-d-wise/ea-organizer-small-groups">here</a>.
+Julia runs office hours on community health on Thursdays from 9 am - 5 pm Eastern US time. Book a call on <a target="_blank" href="https://calendly.com/julia-d-wise/community-health-office-hours">her calendly</a>, or email her if you'd like to schedule at another time. Julia also runs small group meetings on the first Monday (4 pm Eastern US time) and third Thursday (10 am Eastern US time) of each month. You can sign up <a target="_blank" href="https://calendly.com/julia-d-wise/ea-organizer-small-groups">here</a>.
 
 ### Talking to Journalists/the Media
 
