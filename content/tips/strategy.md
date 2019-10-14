@@ -1,6 +1,6 @@
 ---
 title: Strategy
-weight: 1
+weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
