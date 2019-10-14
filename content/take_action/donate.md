@@ -55,7 +55,7 @@ This has an advantage over simply donating if you believe a donation of $100,000
 
 ## Giving Tuesday
 
-* US donors may wish to utilise Facebook's donation matching campaign "Giving Tuesday". Each year on a Tuesday in late November or early December Facebook will match donations made through Facebook to registered charities until their matching funds are exhausted. The funds usually run out in seconds, and while some other countries are eligible, few donors from outside of US manages to get their donations matched. More information is on the EA Giving Tuesday <a target="_blank" href="https://www.eagivingtuesday.org/">website</a> and <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">facebook group</a>. 
+* Donors wishing to donate to US registered charities may wish to utilise Facebook's donation matching campaign "Giving Tuesday". Each year on a Tuesday in late November or early December Facebook will match donations made through Facebook to registered charities until their matching funds are exhausted. The funds usually run out in seconds, and while some other countries are eligible, few donors from outside of US manages to get their donations matched. More information is on the EA Giving Tuesday <a target="_blank" href="https://www.eagivingtuesday.org/">website</a> and <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">facebook group</a>. 
 
 
 ## Tax information
@@ -80,7 +80,7 @@ This has an advantage over simply donating if you believe a donation of $100,000
 
 ## Matching Campaigns
 
-* Some charities offer to double or triple your donations - called "donation matching. While there are some exceptions, this matching is usually illusory and the matching funds would have gone to the charity whether or not you donated. This <a target="_blank" href="https://blog.givewell.org/2011/12/15/why-you-shouldnt-let-donation-matching-affect-your-giving/">blog post by GiveWell</a> explains more. Exceptions include Facebook's Giving Tuesday, as while Facebook would have donated the money without your donation, your donation could cause the money to be allocated to more effective charities.  
+* Some charities offer to double or triple your donations - called "donation matching. While there are some exceptions, this matching is usually illusory and the matching funds would have gone to the charity whether or not you donated. This <a target="_blank" href="https://blog.givewell.org/2011/12/15/why-you-shouldnt-let-donation-matching-affect-your-giving/">blog post by GiveWell</a> explains more. Exceptions include Facebook's <a target="_blank" href="https://www.eagivingtuesday.org/">Giving Tuesday</a>, as while Facebook would have donated the money without your donation, your donation could cause the money to be allocated to more effective charities.  
 
 # Take a Pledge to Donate in the Future
 
