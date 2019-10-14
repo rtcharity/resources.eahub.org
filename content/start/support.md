@@ -10,7 +10,11 @@ license:
 # Guidance from the Centre for Effective Altruism (CEA)
 Once you have decided you want to start a group, contact the <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#groups-team">groups team at CEA</a>. They are happy to schedule calls with aspiring group organisers to share advice and point them towards resources. You can reach them at <a target=”_blank” href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>. They are the best people to talk to for general group advice. 
 
-The groups team will also add you to the EA Groups newsletter. You can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+
+
+# Groups Newsletter
+CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+
 
 You can also check out the <a target="_blank" href="/tips/support/">Groups Support Page</a> for other people to contact if you need support for particular topics such as running introductory presentations, issues within the group, or running fellowships. 
  
