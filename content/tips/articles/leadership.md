@@ -68,6 +68,6 @@ These books have been recommended by group organisers:
 
 <hr>
 
-[NEXT: Organiser Meetings](/tips/articles/organiser-meetings/)
+### [NEXT: Organiser Meetings](/tips/articles/organiser-meetings/)
 
-[BACK: Committee Structures](/tips/articles/committee/)
+### [BACK: Committee Structures](/tips/articles/committee/)
