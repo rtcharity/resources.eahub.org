@@ -33,7 +33,7 @@ The most popular EA fellowship is the Arete Fellowship, which was first designed
 
 This <a target="_blank" href="https://drive.google.com/drive/folders/1BSwUdewEI_IIkx2jtHECbN4wkI4P8Afw">Google Drive folder</a> maintained by Harvard EA includes all necessary materials to run an Arete Fellowship. Start with the <a target="_blank" href="https://drive.google.com/open?id=1vovG4UymDb7-ToyzswsNyoPS4Y9ahZoo_6Ci1505lAE">Arete Fellowship Guide</a>, which explains how the fellowship works and gives advice on how to make it successful. If you organise a similar fellowship, you can make copies of Harvard’s resources and modify them to suit your own group.
 
-This <a target="_blank" href="https://forum.effectivealtruism.org/posts/4GkAtcMohxK2m2bXH/the-arete-fellowship">post on the EA Forum describes the experience Harvard EA has had with running the fellowship.
+This <a target="_blank" href="https://forum.effectivealtruism.org/posts/4GkAtcMohxK2m2bXH/the-arete-fellowship">post on the EA Forum</a> describes the experience Harvard EA has had with running the fellowship.
 
 
 Stephen Casper (<a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a>) from Harvard EA can give you advice if you are interested in running a similar fellowship. 
@@ -43,7 +43,7 @@ Stephen Casper (<a target="_blank" href="mailto:thestephencasper@gmail.com">thes
 Yale runs a similar fellowship to Arete, but with a larger giving game component (the “Impact Challenge”) which focuses exclusively on global health and poverty. 
 
 
-<a target="_blank" href="https://forum.effectivealtruism.org/posts/suGcEobbHZZ4Gspeh/a-guide-to-effective-altruism-fellowships">This post on the EA Forum describes how the Yale Fellowship works, and has links to all relevant  resources. Joshua Monrad (<a target="_blank" href="mailto:joshua.monrad@yale.edu">joshua.monrad@yale.edu</a>) from Yale EA can give you advice if you are interested in running a similar fellowship.
+<a target="_blank" href="https://forum.effectivealtruism.org/posts/suGcEobbHZZ4Gspeh/a-guide-to-effective-altruism-fellowships">This post on the EA Forum</a> describes how the Yale Fellowship works, and has links to all relevant  resources. Joshua Monrad (<a target="_blank" href="mailto:joshua.monrad@yale.edu">joshua.monrad@yale.edu</a>) from Yale EA can give you advice if you are interested in running a similar fellowship.
 
 # Careers Fellowships
 
