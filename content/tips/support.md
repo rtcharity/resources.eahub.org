@@ -39,77 +39,80 @@ CEA also funds <a target="_blank" href="https://www.effectivealtruism.org/commun
 
 ### Starting a Group, General Group Advice:
 
-Alex Barry - Centre for Effective Altruism <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
+Alex Barry - Centre for Effective Altruism: <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
 
 ### Group Technical Needs - Websites and Email Addresses:
 
-Michael Trzesimiech - Local Effective Altruism Network <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a>
+Michael Trzesimiech - Local Effective Altruism Network: <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a>
 
 ### Community Health, Issues:
-Julia Wise - Centre for Effective Altruism <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a>
+Julia Wise - Centre for Effective Altruism: <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a>
 
 Julia runs office hours on community health on Thursdays from 9 am - 5 pm Eastern US time. Book a call on <a target="_blank" href="https://calendly.com/julia-d-wise/community-health-office-hours">her calendly</a>, or email her if you'd like to schedule at another time. Julia also runs small group meetings on the first Monday (4 pm Eastern US time) and third Thursday (10 am Eastern US time) of each month. You can sign up <a target="_blank" href="https://calendly.com/julia-d-wise/ea-organizer-small-groups">here</a>.
 
 ### Talking to Journalists/the Media:
 
-Sky Mayhew - Centre for Effective Altruism <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>
+Sky Mayhew - Centre for Effective Altruism: <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>
 
 Before contacting Sky, read <a target="_blank" href="https://forum.effectivealtruism.org/posts/6hbyTXT5kvDmGp3AY/what-to-know-before-talking-with-journalists-about-ea">her article on the EA Forum</a> about talking to journalists. 
 
 ### Running EAGx:
 
-Rebecca Baron - EAGxBoston Organiser <a target="_blank" href="mailto:rebecca.h.baron@gmail.com">rebecca.h.baron@gmail.com</a>
+Rebecca Baron - EAGxBoston Organiser: <a target="_blank" href="mailto:rebecca.h.baron@gmail.com">rebecca.h.baron@gmail.com</a>
 
-Michael Townsend - EAGxAustralia Organiser
-<a target="_blank" href="mailto:michael.townsend50@gmail.com ">michael.townsend50@gmail.com</a>
+Michael Townsend - EAGxAustralia Organiser: <a target="_blank" href="mailto:michael.townsend50@gmail.com ">michael.townsend50@gmail.com</a>
 
 You might want to also check out <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B_wD8N-eHg0zYzdINlBkaExrQlU">these resources about running EAGx conferences</a> (start with the README folder, and note this resource is from 2017 so some aspects may be out of date). 
 
 ### Running Introductory EA Presentations to non-EA groups:
 
-Catherine Low - Local Effective Altruism Network <a target="_blank" href="mailto:catherine@eahub.org">catherine@eahub.org</a> 
+Catherine Low - Local Effective Altruism Network: <a target="_blank" href="mailto:catherine@eahub.org">catherine@eahub.org</a> 
 
 You might also want to check out the EA Hub resources on <a target="_blank" href="https://resources.eahub.org/events/intro/">running introductory presentations</a>. 
 
 ### Running Retreats:
 
-Jessica McCurdy - Yale EA <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>
+Jessica McCurdy - Yale EA: <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>
 
-Nick Anyos - EA Australia <a target="_blank" href="mailto:nick.anyos@gmail.com">nick.anyos@gmail.com</a> 
+Nick Anyos - EA Australia: <a target="_blank" href="mailto:nick.anyos@gmail.com">nick.anyos@gmail.com</a> 
 
 ### Running a Group with a Community Building Grant:
 
-Frankie Anderson-Wood - Yale EA | <a target="_blank" href="mailto:frankie.wood123@gmail.com">frankie.wood123@gmail.com</a> 
+Frankie Anderson-Wood - Yale EA: <a target="_blank" href="mailto:frankie.wood123@gmail.com">frankie.wood123@gmail.com</a> 
 
 ### Regional Support:
-Australia and New Zealand - Sophia Cyna - EAANZ <a target="_blank" href="mailto:admin@eaanz.org">admin@eaanz.org</a>
+Australia and New Zealand - Sophia Cyna - EAANZ: <a target="_blank" href="mailto:admin@eaanz.org">admin@eaanz.org</a>
 
 
 ## University-Specific:
 
 ### Clubs Fairs:
 
-Eli F Nathan - Oxford EA <a target="_blank" href="mailto:elifnathan@hotmail.co.uk">elifnathan@hotmail.co.uk</a>
+Eli F Nathan - Oxford EA: <a target="_blank" href="mailto:elifnathan@hotmail.co.uk">elifnathan@hotmail.co.uk</a>
 
 ### Starting or Running a Group at a Small University:
 
-Haven King-Nobles - EA Oberlin <a target="_blank" href="mailto:hkingnob@gmail.com">hkingnob@gmail.com</a>
+Haven King-Nobles - EA Oberlin: <a target="_blank" href="mailto:hkingnob@gmail.com">hkingnob@gmail.com</a>
 
-Vaidehi Agarwalla - Philly EA (previously Haverford EA) <a target="_blank" href="mailto:vaidehiagarwalla@gmail.com">vaidehiagarwalla@gmail.com</a>
+Vaidehi Agarwalla - Philly EA (previously Haverford EA): <a target="_blank" href="mailto:vaidehiagarwalla@gmail.com">vaidehiagarwalla@gmail.com</a>
 
 ### Starting or Running a Group at a Large University:
 
-Keirra Woodard - EA University of Houston <a target="_blank" href="mailto:keirra.woodard@gmail.com">keirra.woodard@gmail.com</a>
+Keirra Woodard - EA University of Houston: <a target="_blank" href="mailto:keirra.woodard@gmail.com">keirra.woodard@gmail.com</a>
 
 ### Running a Fellowship:
 
-Stephen Caspar - Harvard EA <a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a>
+Stephen Caspar - Harvard EA: <a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a>
 
-Jessica McCurdy - Yale EA <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>
+Jessica McCurdy - Yale EA: <a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>
 
 ### Succession Planning:
 
-Juan Gil - EA MIT <a target="_blank" href="mailto:jgil@mit.edu">jgil@mit.edu</a>
+Juan Gil - EA MIT: <a target="_blank" href="mailto:jgil@mit.edu">jgil@mit.edu</a>
 
+<hr>
 
+### [NEXT: Handing Over Leadership](/tips/handover/)
+
+### [BACK: One-on-Ones](/tips/one-on-ones/)
 
