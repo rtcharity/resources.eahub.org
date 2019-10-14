@@ -1,6 +1,6 @@
 ---
 title: Getting Support
-weight: 6
+weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -112,7 +112,7 @@ Juan Gil - EA MIT: <a target="_blank" href="mailto:jgil@mit.edu">jgil@mit.edu</a
 
 <hr>
 
-### [NEXT: Handing Over Leadership](/tips/handover/)
+### [NEXT: Strategy](/tips/handover/)
 
-### [BACK: One-on-Ones](/tips/one-on-ones/)
+### [BACK: Running a Group](/tips/)
 
