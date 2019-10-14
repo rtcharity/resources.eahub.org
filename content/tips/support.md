@@ -112,7 +112,7 @@ Juan Gil - EA MIT: <a target="_blank" href="mailto:jgil@mit.edu">jgil@mit.edu</a
 
 <hr>
 
-### [NEXT: Strategy](/tips/handover/)
+### [NEXT: Strategy](/tips/strategy/)
 
 ### [BACK: Running a Group](/tips/)
 
