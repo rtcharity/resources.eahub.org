@@ -88,6 +88,6 @@ Send a follow up email, with a personalised list of reading recommendations.
 
 <hr>
 
-### [NEXT: Getting Support](/tips/support/)
+### [NEXT: Handing Over Leadership](/tips/handover/)
 
 ### [BACK: Communication Tools](/tips/articles/communication-tools/) 
