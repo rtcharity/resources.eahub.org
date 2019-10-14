@@ -1,5 +1,5 @@
 ---
-title: Available Editable Graphics
+title: Available Graphics
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -121,7 +121,7 @@ These were made from Harvard EA Posters.
 <a href="https://drive.google.com/open?id=1X85eNGEmAWAY5MpJ_yg54kZgBUNZzTMr">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
-<img src="/img/globalhealthevent1poster" />
+<img src="/img/globalhealthevent1poster.png" />
 </p>
 
 <a href="https://drive.google.com/open?id=13Di4BEGuk9C-2apg-Mx4Lfq7S8YaiHQ_">Editable Gravit File</a>
@@ -365,4 +365,20 @@ These are designed to be printed directly onto A4 or Letter Sized paper and then
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
+## Detailed Flyer
+This flyer has a little more information, and is intended for giving out to people after they attend an introductory presentation on EA. The idea is that the flyer contains the main links recommended in the content of the presentation so that people can follow up on the topics that interest them, so we recommend you alter the content to suit. 
 
+
+<p class="large_image_wrapper">
+<img src="/img/EA_detailed_flyer_A4.png" />
+</p>
+
+<a href="https://drive.google.com/open?id=1urCEdjmSQV-A6NiksypUChSqPjumgihn">Detailed Flyer Gravit file (Three on one A4 page)</a>
+
+<a href="https://drive.google.com/open?id=10o857UDTS9Q8QWYdhqGP3Hk-Oy2zv-wb">Detailed Flyer Gravit file (Three on one Letter sized page)</a>
+
+Download the gravit file to make alterations. At least change the group name and details.
+ 
+These are designed to be printed directly onto A4 or Letter Sized paper and then cut without the edges being trimmed. Therefore there will be a white surround to each panel of the flyer. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
+
+Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
