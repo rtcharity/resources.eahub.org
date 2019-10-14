@@ -1,5 +1,5 @@
 ---
-title: General Resources About Effective Altruism
+title: About Effective Altruism
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
