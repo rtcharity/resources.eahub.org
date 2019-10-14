@@ -38,9 +38,13 @@ Tips for group organisers meeting new and current members of the EA community to
 ## [Getting Support](/tips/support/)
 How to find people who can give you guidance on running your group, and money to run group activities.
 
-### [Handing Over Leadership](/tips/handover/)
+## [Handing Over Leadership](/tips/handover/)
 Suggestions for recruiting new organisers for your group, and handing over responsibility. Particularly important for uni groups.
 
-### [Communicating About Effective Altruism](/learn/communicate-ea)
+## [Communicating About Effective Altruism](/learn/communicate-ea)
 Approaches to discussing EA that various community members have found useful when talking one on one with people who are new to EA, or when delivering introductory presentations about EA.
 no one hears about them! These resources will cover tips for reaching people and ensuring good first impressions of effective altruism.
+
+<hr>
+
+### [NEXT: Strategy](/tips/strategy/)
