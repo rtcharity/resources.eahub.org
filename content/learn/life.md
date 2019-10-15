@@ -19,11 +19,13 @@ EA can demand a lot from people, and there is a sense of urgency to act, but it 
 ## EAs on self-care
 Many people in the EA community have contributed advice and shared their experiences about being an altruist:
 
+
+* Helen Toner on <a target="_blank" href=" https://www.youtube.com/watch?v=C9SukBgSxyE">Sustainable Motivation</a> (24 minute talk from EA Global SF 2019).
 * See these <a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">Practical steps for self-care from Boston EA</a>.
 * Julia Wise on 
     * Why it is important to “<a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">walk cheerfully over the world</a>”.
     * <a target="_blank" href="http://www.givinggladly.com/2015/10/burnout-and-self-care.html">Burnout and Self-care</a>.
-    * Why It is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
+    * Why it is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
     * Countering <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">Imposter Syndrome</a>, a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud". Anecdotal evidence suggests this is quite common among EAs.
 
 * <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">80,000 hours on why self-care is important</a> to succeed in any job, and some recommendations about tackling mental health issues.
