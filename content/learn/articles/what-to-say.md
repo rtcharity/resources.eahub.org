@@ -98,7 +98,7 @@ Note: If you use this framing, ensure you make it clear you are not insinuating 
 
 ## We have an obligation to help others (the “Drowning Child” argument)
 
-_Note: Talk about obligation with care, the risk is that it can seem judgemental towards others. Consider talking about how you feel an obligation, rather than that we have an obligation. More discussion on this topic <a target="_blank" href="/learn/articles/tips#morality">here</a>._ 
+_Note: Talk about obligation with care, the risk is that it can seem judgmental towards others._ _Consider talking about how you feel an obligation, rather than that we have an obligation._ _More discussion on this topic <a target="_blank" href="/learn/articles/tips#morality">here</a>._ 
 
 * Imagine you are walking past a shallow muddy pond, and you notice a child has fallen in and appears to be drowning. You have to act immediately to save the child. To wade in and pull the child out would be easy, but it will mean that you get your expensive clothes and your fancy smartphone would be ruined. The question is - do you have any obligation to rescue the child? Most people say they do, as the importance of saving a child so far outweighs the cost of ruined belongings. Would it make any difference if the child were far away, in another country perhaps, but similarly in danger of death, and equally within your means to save, at no great cost – and absolutely no danger – to yourself? We are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a relatively small cost to us.
 * Idea from Peter Singer (<a target="_blank" href="https://forum.effectivealtruism.org/posts/SwG8Tj9RkG8DzpM4f/the-drowning-child-and-the-expanding-circle">Source</a>)
@@ -106,14 +106,13 @@ _Note: Talk about obligation with care, the risk is that it can seem judgemental
 ## We need to consider cost-effectiveness
 
 * **Most people give to nearby causes**. Many people in wealthy nations usually donate to causes that are close to them, or causes that affect wealthy people <a target="_blank" href="https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=42">(over 90% in the case of donations from the US stay in the US)</a> - leaving little money for international issues. But, our money doesn’t go very far in very rich countries, while in low income countries people die of diseases that could be prevented or cured easily and cheaply. 
-* <a target="_blank" href="http://closetomyhead.com/2012/04/15/why-closetomyhead/">Source</a>
 
-* **The charitable sector lacks normal economic forces.** Imagine two pizzerias in your town, each serving high-quality pizzas, but one for $500, and the other for $5. That sounds crazy, but what do you think would happen? No one would buy the expensive pizza and they would go out of business. Charities aren’t bound by the same economic forces, because the people donating aren’t the same people receiving the benefit. Even though some charities are hundreds of time more cost-effective (cheaper to do more good), it is the charities that are better at advertising that get the most money.
+* **The charitable sector lacks normal economic forces.** Imagine two pizzerias in your town, each serving pizzas of the same high-quality, but one for $500, and the other for $5. That sounds crazy, but what do you think would happen? No one would buy the expensive pizza and that pizzeria would go out of business. Charities aren’t bound by the same economic forces, because the people donating aren’t the same people receiving the benefit. Even though some charities are hundreds of time more cost-effective (cheaper to do more good), it is the charities that are better at advertising that get the most money.
 
-* **Guide-dog example**. The Blind Foundation can help someone with incurable blindness by providing a guide dog, for <a target="_blank" href="https://80000hours.org/2012/09/is-there-such-thing-as-a-bad-charity/">$50,000</a>, who can provide service for about 9 years. However, The Fred Hollows Foundation can cure blindness from cataracts through a simple surgery, <a target="_blank" href="https://blog.givewell.org/2017/05/11/update-on-our-views-on-cataract-surgery/">for about $1000 (in some low-income countries)</a>, Both The Blind Foundation and The Fred Hollows Foundation are helping people, but one is having a much bigger impact, with the same resources. 
+* **Guide-dog example**. Guide-dogs can help someone with incurable blindness for <a target="_blank" href="https://puppyintraining.com/how-much-does-a-guide-dog-cost/">$50,000</a>, who can provide service for about 9 years. However, The Fred Hollows Foundation can cure blindness from cataracts through a simple surgery, <a target="_blank" href="https://blog.givewell.org/2017/05/11/update-on-our-views-on-cataract-surgery/">for about $1000 (in some low-income countries)</a>. Both the Guide-dog charity and The Fred Hollows Foundation are helping people, but one will cause a much bigger impact with the same donation. 
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/b2Mb3xi9wviMKXrK5/top-tips-on-how-to-choose-an-effective-charity">Source</a>
 
-* **HIV/AIDS example**. Surgery to treat Karposi’s Sarcoma (a common cancer in people with AIDS) is an effective treatment, but it is expensive. In comparison, improving education for high-risk groups reduces the spread of HIV and AIDS - and it’s estimated to be 1,400 times more cost-effective than surgical treatment for Kaposi’s sarcoma. 
+* **HIV/AIDS example**. Surgery to treat Karposi’s Sarcoma (a common cancer in people with AIDS) is an effective treatment, but it is expensive. In comparison, improving education for high-risk groups reduces the spread of HIV and AIDS - and it’s estimated to be 1,400 times more cost-effective at reducing the harm of HIV/AIDS than surgical treatment for Kaposi’s sarcoma. 
 * <a target="_blank" href="https://www.cgdev.org/sites/default/files/1427016_file_moral_imperative_cost_effectiveness.pdf">Source</a>.
 
 
@@ -123,7 +122,7 @@ _Note: Talk about obligation with care, the risk is that it can seem judgemental
 * We choose to work on causes according to whether the cause is
     * Great in scale (it affects many lives, by a great amount)
     * Highly neglected (few other people are working on the problem), and
-* Highly tractable (additional resources will do a great deal to alleviate it).
+    * Highly tractable (additional resources will do a great deal to alleviate it).
 * From Will MacAskill (<a target="_blank" href="https://www.ted.com/talks/will_macaskill_how_can_we_do_the_most_good_for_the_world">Source</a>)
 
 ### EA encompasses a wide range of interventions
@@ -134,9 +133,9 @@ _Note: Talk about obligation with care, the risk is that it can seem judgemental
 
 ## Current Key Cause Areas
 
-* Global health impacts billions, it is super solvable, and some interventions/areas are incredibly neglected. We have an amazing track record - rates of death from measles, malaria, diarrheal disease are down by over 70 percent, and in 1980 smallpox was eradicated. On our current best estimates, we can save a life by distributing just a few thousand dollars worth of long-lasting insecticide-treated bed nets.
-Factory farming impacts billions of non-human animals, is something we can easily impact and is super neglected. There are 70 billion land animals used every year for food, and the vast majority of them are factory farmed, living in conditions of horrific suffering. They're probably among the worst-off creatures on this planet, and * in many cases, we could significantly improve their lives for just pennies per animal.
-* Existential risks are events like a nuclear war or a global pandemic that could permanently derail civilization or even lead to the extinction of the human race. This is highly neglected, mostly due to indifference toward less tangible problems, especially those affecting future generations, as well as scope insensitivity. These problems still seem reasonably tractable though - there are various ways you can contribute with your money, your career or your political engagement.
+* Poverty related health problems impact billions of people, we have tried and tested interventions that we know help, and some interventions/areas are incredibly neglected. and in 1980 smallpox was eradicated. On our current best estimates, we can save a life by distributing just a few thousand dollars worth of long-lasting insecticide-treated bed nets.
+* Factory farming impacts billions of non-human animals, is something we can easily impact and is very neglected. There are 70 billion land animals killed every year for food, and the vast majority of them are factory farmed, living in conditions of horrific suffering. They're probably among the worst-off creatures on this planet, and in many cases, we could significantly improve their lives for just pennies per animal.
+* Existential risks are events like a nuclear war or a global pandemic that could permanently derail civilization or even lead to the extinction of the human race. These risks are highly neglected, however, there are various ways you can contribute with your money, your career or your political engagement.
 * From Will MacAskill (<a target="_blank" href="https://www.ted.com/talks/will_macaskill_how_can_we_do_the_most_good_for_the_world">Source</a>)
 
 ## Describe a particular effective charity
