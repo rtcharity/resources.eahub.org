@@ -28,6 +28,9 @@ Place to look for volunteering opportunities:
 * If there is an <a target="_blank" href="https://eahub.org/groups/">EA group in your area</a>, meet up with them and volunteer to help run the group. If there isn’t an EA group in your area, consider <a target="_blank" href="/start/">starting a group</a>. 
 * If you see an opportunity, or a need that isn’t being met, consider starting your own project. You can seek advice and assistance from other EAs by writing your idea up on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>, or on an <a target="_blank" href="/learn/connect/">EA Facebook Page</a>. 
 
+You can also <a target="_blank" href="https://eahub.org/profiles">mark yourself available for volunteer opportunities</a> on the EA Hub. This will cause your profile to be viewable on the <a target="_blank" href="https://eahub.org/volunteers/">volunteers page</a>. 
+
+
 # Research
 
 If you are embarking on research as part of your degree, the <a target="_blank" href="http://effectivethesis.com">Effective Thesis</a> program will connect you with a coach who will help you find a thesis topic with a high potential to improve the world. They have current and finished theses on their website. 
