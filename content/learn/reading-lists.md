@@ -41,7 +41,7 @@ These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwall
 
 <hr>
 
-### [NEXT: Organisations](/learn/orgs/)
+### [NEXT: Connect and Keep Up to Date](/learn/connect/)
 
 ### [BACK: Glossary](/learn/glossary/)
  
