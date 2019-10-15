@@ -35,17 +35,14 @@ See recommendations by <a target="_blank" href="https://animalcharityevaluators.
 
 <a target="_blank" href="https://founderspledge.com/research"><img class="small_image_block" src="/img/founderspledge.png" /></a>
 Looking at a broader range of cause areas, <a target="_blank" href="https://founderspledge.com/research">Founders Pledge</a> conducts research and recommends charities in a variety of philanthropic fields, including climate change, pandemics, mental health and forced displacement. 
-
 <br>
 
 <a target="_blank" href="https://www.thelifeyoucansave.org/best-charities"><img class="small_image_block" src="/img/tlycslogo.png" /></a>
 <a target="_blank" href="https://www.thelifeyoucansave.org/best-charities">The Life You Can Save</a> publishes a list of 22 charities working in global health and poverty based on research from <a target="_blank" href="https://www.givewell.org/">GiveWell</a> and <a target="_blank" href="https://www.impactm.org/">ImpactMatters</a>.
-
 <br>
 
 <a target="_blank" href="https://www.openphilanthropy.org/"><img class="small_image_block" src="/img/openphillogo.png" /></a>
 <a target="_blank" href="https://www.openphilanthropy.org/">The Open Philanthropy Project</a> conducts research to choose where to allocate funding from Good Ventures. While they generally don’t specifically recommend charities for other donors, their <a target="_blank" href="https://www.openphilanthropy.org/giving/grants">grant database</a> and research is publically available and can be used to inform giving. Each year Open Philanthropy Projects’ staff publish their <a target="_blank" href="https://www.openphilanthropy.org/blog/suggestions-individual-donors-open-philanthropy-project-staff-2018">suggestions for individual donors</a> (suggestions from December 2018). 
-
 <br>
 
 ## Funds
@@ -54,15 +51,15 @@ Another option is to give your money to a philanthropic fund managed by experts.
 
 <a target="_blank" href="https://app.effectivealtruism.org/funds"><img class="small_image_block" src="/img/eafunds.png" /></a>
 <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Meta</a>.
-
 <br>
 
 <a target="_blank" href="https://ea-foundation.org/"><img class="small_image_block" src="/img/eaflogo.png" /></a>
 The <a target="_blank" href="https://ea-foundation.org/">EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund</a> dedicated to supporting research and policy efforts to prevent technological risks facing our civilization. 
+<br>
 
 ## Donor Lotteries
 
-You could also choose to put your money into a Donor Lottery where one donor is selected to choose how all the funds are donated. For example if you donated $10,000 into a fund that generated $100,000, you would have a 10% chance of being able to choose where $100,000 from that fund gets donated. 
+You could also choose to put your money into a Donor Lottery where one donor is selected to choose how all the funds are donated. For example if you donated $10,000 into a fund that generated $100,000, you would have a 10% chance of being able to choose where the entire $100,000 gets donated. 
 
 This has an advantage over simply donating if you believe a donation of $100,000 to the organisation you wish to support is more than 10 times better than donating $10,000 to them. Also the person that wins the lottery will be more likely to be motivated to do in-depth research to work out where to donate the money, and that might result in a better choice than if all the contributing donors did only a little research to choose where to donate their smaller sums. The Centre for Effective Altruism <a target="_blank" href="https://app.effectivealtruism.org/lotteries">organises a donor lottery once a year</a>.
 
