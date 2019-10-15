@@ -1,5 +1,5 @@
 ---
-title: What To Say (Pitch Guide)
+title: What to Say
 date: 2019-09-26T10:47:43.355Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -9,7 +9,7 @@ license:
 
 # How to Use This Guide
 
-This article has suggestions about how to concisely talk about EA. “Pitch” isn’t really the right word because it is best not to think about your conversation as a sales pitch, but more about letting a person know about EA ideas, so they can learn more if they are interested. 
+This article has suggestions about how to concisely talk about EA, commonly called "Pitches". “Pitch” isn’t really the right word though, because it is best not to think about your conversation as a sales pitch, but more about letting a person know about EA ideas, so they can learn more if they are interested. 
 
 Have a read through these suggestions and pull out a few to try yourself. For example, as part of a conversation you could: 
 
@@ -152,3 +152,10 @@ If you can, tie in your own personal story of exploration of these ideas into th
 * What changed you? 
 
 If you cannot provide your own story, try telling the story of a friend or someone who inspired you. 
+
+
+<hr>
+
+### [NEXT: Tips to Help Your Conversation Go Well](/learn/articles/tips/)
+
+### [BACK: Communicate About EA](/learn/communicate-ea/) 
