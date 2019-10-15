@@ -1,5 +1,5 @@
 ---
-title: Life as an Aspiring Effective Altruist
+title: Sustaining an EA Lifestyle
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -10,11 +10,7 @@ license:
 <img src="/img/ealondonpicnic.png" />
 </p>
 
- 
-# Donating
-Many people in the EA community choose to donate money to effective causes as part of their altruistic choices. 
-
-<a target="_blank" href="/take-action/donate/">This section</a> provides resources for an introduction to effective giving and where to find advice on donating effectively.
+This page has information and links about caring for yourself, value drift, and productivity. 
  
 # Self-care and Mental Health
 EA can demand a lot from people, and there is a sense of urgency to act, but it is important to do so in a healthy way. Self-care is about making sure that you take care of your mental and physical health, and that you do not do altruistic things at the cost of your own personal health. 
@@ -115,3 +111,8 @@ Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/
 * <a target="_blank" href="https://www.lesswrong.com/lw/fux/my_workflow/">Paul Christiano's Workflow</a>
 * <a target="_blank" href="https://www.lesswrong.com/lw/hgd/10step_antiprocrastination_checklist/">10 Step Anti-Procrastination Checklist</a>
 * <a target="_blank" href="http://www.zenhabits.net/">Zenhabits</a>
+
+
+<hr>
+
+### [BACK: Responding to Objections](/learn/articles/objections) 
