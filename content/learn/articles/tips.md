@@ -16,7 +16,7 @@ Have a simple, uncontroversial description of what effective altruism is (ideall
 * E.g.  "Effective Altruism is applying evidence and analysis to the goal of making the world a better place."
 * (Or something that seems to work in a less formal context - like a social gathering… “working out how to be better at being less awful human beings”)
 * Several other suggestions are listed <a target="_blank" href="https://docs.google.com/document/d/1KoiG-528EVvg9YBEDvVXLIXe38kLOSpJNdSyn32p3-8/edit#heading=h.obmzfoj97k97">here</a>. 
-* You May Wish to Explain the Term “Effective Altruism” i.e the word “altruism” may need explaining and the term “effective altruism” does insinuate that other ways of being altruistic are ineffective or useless, however EA really is about seeking the _most_ effective ways of doing good. So it might be worth clarifying the term. 
+* You may wish to explain the term “effective altruism”: The word “altruism” may need explaining and the term “effective altruism” does insinuate that other ways of being altruistic are ineffective or useless, however EA really is about seeking the _most_ effective ways of doing good. So it might be worth clarifying the term. 
 
 # Use Personal Stories
 If you can tie in your own personal story of exploration of these ideas into the narrative. How did you come across EA ideas? What inspired you? What things do you do? What changed you? Talking about your experiences can also reduce the chances of you coming across judgemental towards the other person. 
@@ -29,7 +29,7 @@ If you can tie in your own personal story of exploration of these ideas into the
 * If you already know what issues the person cares about (or if they freely offer this information during the conversation), it might work well to discuss how EA principles could work within that cause area.
 * However, if you don’t know what the person cares about, and they simply asked you about EA, then it probably isn’t appropriate to ask them 20 questions to find out their position on morality and world issues before you start explaining EA! In that case you’d be better to simply answer the question, and wait until a bit later in the conversation to ask what they are interested in.  
 
-# Highlight the Process of EA More Than the Cause or the Intervention
+# Highlight the Process of EA
 
 * It is easy for EAs to come across sounding like they think they know everything. By emphasising EA as a question or an ongoing process to work out the most impactful things to do to improve the world, you are less likely to sound arrogant. 
 * Part of EA is about being curious about the world, and being able to change our beliefs based on evidence and arguments. This can be demonstrated in conversation by showing curiosity towards the other person’s thoughts and beliefs. 
@@ -37,7 +37,7 @@ If you can tie in your own personal story of exploration of these ideas into the
  
 <a name="morality"></a>
 
-# Be Careful When Discussing Morality
+# Use Caution When Discussing Morality
 
 * Members of the EA community are split on <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs#Do_they_see_EA_as_an_opportunity_or_an_obligation_/">whether they feel they have an obligation to good</a>, or whether it is just an opportunity (or <a target="_blank" href="https://forum.effectivealtruism.org/posts/CFjvywYNWkqGtQiZh/altruistic-motivations/">neither</a>). Since framing EA as an obligation can seem judgemental towards others, it may be more effective to frame effective altruism as <a target="_blank" href="">an opportunity</a>. 
 * However, arguments based on obligations such as Peter Singer’s <a target="_blank" href="https://www.youtube.com/watch?v=rBMZiaD-OYo">drowning child thought experiment</a> can be extremely compelling to some people, so you shouldn’t shy away from using such arguments entirely, especially if you yourself find this framing compelling and have good reason to believe your audience will too  
@@ -45,7 +45,8 @@ If you can tie in your own personal story of exploration of these ideas into the
 * Remember that EAs and EA orgs use moral judgements to decide what causes/careers/charities are the best. For example, GiveWell <a target="_blank" href="https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/comparing-moral-weights">uses their moral beliefs</a> to inform their cost-effectiveness analyses. A person with different moral beliefs from GiveWell, using the same evidence, could reasonably disagree with GiveWell’s top charity list.
 * It may be best to avoid talking about utilitarianism (the moral philosophy that states that we should act to maximise wellbeing for the greatest number of people). Many people find utilitarianism off-putting, and it isn’t a necessary part of EA. Of course if you are talking to someone who is interested in having a deep conversation about moral philosophy, then go for it, but clarify that there are a variety of moral positions within EA so that the person you are talking to (or any listeners) realise your position isn’t necessarily what all EAs believe. 
 
-# Consider That Your Knowledge and Beliefs Might Be Uncommon 
+# Consider That Your Beliefs Might Be Uncommon 
+
 * This section might apply to people that spend a lot of their time thinking about EA and talking with other EAs. If your brain exists in EA land, it can be easy to forget how uncommon many EA ideas are. So it is worth remembering what beliefs are unusual, so that you don’t assume the other person already agrees with you. 
 * Avoid jargon and acronyms. 
 * It is common for people to believe we have significantly more obligation to help those near to us than those far away. 
@@ -79,3 +80,10 @@ Note that global poverty was the <a target="_blank" href="https://forum.effectiv
 * If someone seems uncomfortable, defensive, or just looks a bit bored, it might be time to move on to another topic entirely. 
 * Remember that a lot of people don't give as much thought to these topics, so try not to overload a person with too many new ideas at once. If you have the luxury of talking to people over several weeks or months it might be good to start with one or two ideas, and perhaps bring up more ideas at a later date if you think they’d be receptive. 
 * There are a lot of cognitive and emotional challenges to accepting EA ideas, so even if we were able to present a watertight argument for EA, it might not be accepted. Geoffrey Miller describes ten barriers to accepting EA ideas in a slideshow <a target="_blank" href="https://geoffrey-miller-y5jr.squarespace.com/s/EA-talk-march09-public-shorter-tcdh.pptx">here</a>.  
+
+
+<hr>
+
+### [NEXT: Frequently Asked Questions](/learn/articles/faqs/)
+
+### [BACK: What to Say](/learn/articles/what-to-say/)
