@@ -1,5 +1,5 @@
 ---
-title: Life as an Aspiring Effective Altruist
+title: Sustaining an EA Lifestyle
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -10,11 +10,7 @@ license:
 <img src="/img/ealondonpicnic.png" />
 </p>
 
- 
-# Donating
-Many people in the EA community choose to donate money to effective causes as part of their altruistic choices. 
-
-<a target="_blank" href="/take-action/donate/">This section</a> provides resources for an introduction to effective giving and where to find advice on donating effectively.
+This page has information and links about caring for yourself, value drift, and productivity. 
  
 # Self-care and Mental Health
 EA can demand a lot from people, and there is a sense of urgency to act, but it is important to do so in a healthy way. Self-care is about making sure that you take care of your mental and physical health, and that you do not do altruistic things at the cost of your own personal health. 
@@ -27,7 +23,7 @@ Many people in the EA community have contributed advice and shared their experie
 * Julia Wise on 
     * Why it is important to “<a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">walk cheerfully over the world</a>”.
     * <a target="_blank" href="http://www.givinggladly.com/2015/10/burnout-and-self-care.html">Burnout and Self-care</a>.
-    * Why it is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
+    * Why It is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
     * Countering <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">Imposter Syndrome</a>, a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud". Anecdotal evidence suggests this is quite common among EAs.
 
 * <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">80,000 hours on why self-care is important</a> to succeed in any job, and some recommendations about tackling mental health issues.
@@ -45,7 +41,8 @@ Julia Wise and Sky Mayhew are <a target="_blank" href="https://forum.effectiveal
 ## Facebook Support Group
 <a target="_blank" href="https://www.facebook.com/groups/ea.peer.support/">Peer Support Group</a> This is a private Facebook group to allow EAs going through personal struggles to support each other. Contact <a target="_blank" href="https://www.facebook.com/stafforini">Pablo</a> on Facebook to be added to the group.
 ## Apps
-There are many apps that are good for helping with your mood and mental state of mind. Here are some examples founded by people in the EA community. 
+There are many apps that are good for helping with your mood and mental state of mind. Here are some examples founded by people in the EA community: 
+
 * <a target="_blank" href="https://www.clearerthinking.org/tools-and-mini-courses">Improve your Mood tools</a> on Clearer Thinking - Free
 * <a target="_blank" href="https://www.mindease.io/">MindEase</a> - Anxiety and Stress Relief App - Free
 * <a target="_blank" href="https://www.uplift.app/">UpLift</a> - Cognitive Behavioural Therapy App to help combat depression
@@ -114,3 +111,8 @@ Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/
 * <a target="_blank" href="https://www.lesswrong.com/lw/fux/my_workflow/">Paul Christiano's Workflow</a>
 * <a target="_blank" href="https://www.lesswrong.com/lw/hgd/10step_antiprocrastination_checklist/">10 Step Anti-Procrastination Checklist</a>
 * <a target="_blank" href="http://www.zenhabits.net/">Zenhabits</a>
+
+
+<hr>
+
+### [BACK: Responding to Objections](/learn/articles/objections) 
