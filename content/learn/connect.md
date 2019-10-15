@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 25th September 2019_
 # Local Groups
-In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a>.  and keep up to date with EA related research.  
+In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a> and keep up to date with EA related research.  
 
 Check out the <a target="_blank" href="http://eahub.com/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
 
@@ -150,3 +150,8 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://discordapp.com/invite/nFsNfaH">EA Corner Discord Server</a> An informal chat room hosted on Discord, with subthreads on many EA and non-EA related topics.
 * <a target="_blank" href="https://www.reddit.com/r/EffectiveAltruism/">Effective Altruism Subreddit</a>
 
+<hr>
+
+### [NEXT: Organisations](/learn/orgs/)
+
+### [BACK: Reading Lists](/learn/reading-lists/)
