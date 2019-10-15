@@ -56,4 +56,8 @@ There are a few more general FAQs from CEA in <a target="_blank" href="https://w
 
 <a target="_blank" href="https://intelligence.org/faq/">AI Safety FAQ</a> from the Machine Intelligence Research Institute
  
+<hr>
 
+### [NEXT: Responding to Objections](learn/articles/objections/)
+
+### [BACK: Tips to Help Your Conversation Go Well](/learn/articles/tips/)
