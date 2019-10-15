@@ -58,6 +58,6 @@ There are a few more general FAQs from CEA in <a target="_blank" href="https://w
  
 <hr>
 
-### [NEXT: Responding to Objections](learn/articles/objections/)
+### [NEXT: Responding to Objections](/learn/articles/objections/)
 
 ### [BACK: Tips to Help Your Conversation Go Well](/learn/articles/tips/)
