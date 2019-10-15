@@ -1,5 +1,5 @@
 ---
-title: EA Glossary
+title: Glossary
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -351,3 +351,8 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 <a target="_blank" href="https://conceptually.org/concepts/zero-vs-positive-sum">Zero-sum game</a> - A situation where resources are limited, have a finite allocation and cannot be infinitely shared. There’s only so many pieces of the pie, and if I get more, you necessarily get less. It’s a win-lose dynamic, as opposed to positive-sum, where the pie only gets bigger and bigger, and the results are win-win.
 
 
+<hr>
+
+### [NEXT: Reading Lists](/learn/reading-lists/)
+
+### [BACK: About Effective Altruism](/learn/about-ea/)
