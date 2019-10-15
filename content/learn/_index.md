@@ -26,7 +26,7 @@ Head here if EA is new to you or if you’d like an overview.
 ## [Readings, videos and podcasts about specific EA related topics](/learn/reading-lists/)
 These reading lists including several cause areas, rationality and longtermism. Head here if you want to dive into a particular topic.
 
-## [EA glossary](/learn/glossary/)
+## [Glossary](/learn/glossary/)
 Find terms commonly used in the EA community.
 
 ## [Connect and keep up to date](/learn/connect/)
@@ -40,3 +40,7 @@ This section is a collection of articles about dealing with the challenges of be
 
 ## [Communicating about EA](/learn/communicate-ea/)
 Whether you are talking to your family or giving a formal presentation, talking to people about EA ideas can sometimes be challenging. This section gives some tips on how to talk about EA, some concise explanations you could use, and some frequently asked questions.
+
+<hr>
+
+### [NEXT: About EA](/learn/about-ea/)
