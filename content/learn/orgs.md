@@ -1,5 +1,5 @@
 ---
-title: Organisations Connected to EA
+title: Organisations
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -356,3 +356,9 @@ CFAR aims to improve our understanding of how human cognition works, in order to
 
 ### <a target="_blank" href="https://www.lesswrong.com/">LessWrong</a>
 LessWrong is a community blog devoted to rationality. They provide a place to read the content produced by the rationality community, which anyone can contribute to. ‘<a target="_blank" href="https://www.lesswrong.com/rationality/">Rationality A:Z</a>’ is often recommended as a long-form introduction to the formative ideas behind LessWrong.
+
+<hr>
+
+### [NEXT: Connect and Keep Up To Date](/learn/connect/)
+
+### [BACK: Communicating about EA](/learn/communicate/)
