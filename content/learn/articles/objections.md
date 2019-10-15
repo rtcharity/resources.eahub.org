@@ -22,3 +22,9 @@ Do your best to discuss objections in a positive way.
 * **Acknowledge the truth in the objection**. This could involve acknowledging the concern they have behind the objection and/or, if true, saying that you also believed it, or that it is a common belief, so that you show some level of agreement. 
 * **If you disagree with the objection, explain why.** It often helps to pose this in terms of your personal position or beliefs so it doesn’t seem like you are pushing this point onto the other person.  
 * **Check for shared understanding at the end.** This is a good way to draw out more objections, to get to the heart of any difference in opinion.
+
+<hr>
+
+### [NEXT: Sustaining an EA lifestyle](/learn/life/)
+
+### [BACK: Frequently Asked Questions](/learn/articles/faqs/)
