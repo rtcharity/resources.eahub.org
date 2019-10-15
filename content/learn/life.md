@@ -117,4 +117,6 @@ Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/
 
 <hr>
 
-### [BACK: Responding to Objections](/learn/articles/objections) 
+### [NEXT: Take Action](/take_action/)
+
+### [BACK: Responding to Objections](/learn/articles/objections/) 
