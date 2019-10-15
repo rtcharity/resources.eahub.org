@@ -7,7 +7,7 @@ resourceForIndividuals: true
 
 ### _Published 21st September 2019_
 
-There are many ways to take action as an effective altruist. This page summarises some of those options, and provides links to resources to use, groups to join, and organisations to get involved with.
+There are many ways to make the world a better place. This page summarises some of those options, and provides links to resources to use, groups to join, and organisations to get involved with.
 
 The driving spirit of EA is informed action. The ‘informed’ part is essential. If you’re not ready to move forward just yet, and want to better understand the principles underpinning EA, you can start by <a target="_blank" href="/learn/">learning more</a>, and <a target="_blank" href="/learn/connect/">getting connected to the community</a>.
 
