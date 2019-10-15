@@ -94,7 +94,7 @@ Is listening your preferred way of intaking info?
 </p></a>
 
 
-The <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/">“Doing Good Better” podcast</a>.  has three episodes that introduce EA, focusing on how we can make a difference for those living in extreme poverty.
+The <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/">“Doing Good Better” podcast</a> has three episodes that introduce EA, focusing on how we can make a difference for those living in extreme poverty.
 
 
 
@@ -106,6 +106,10 @@ In the <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Po
 
 
 ## Careers
+
+<a target="_blank" href="https://80000hours.org/"><p class="large_image_wrapper">
+<img src="/img/80Klogo.png" />
+</p></a>
 
 80,000 Hours explains <a target="_blank" href="https://80000hours.org/key-ideas/">their key ideas</a>  about how to have a large impact in your career. This article contains plenty of links to help you direct more in-depth thinking.
 
@@ -121,7 +125,14 @@ While most of the above links advocate for EA, it is also worth learning what ef
 <img src="/img/eahandbook.png" />
 </p></a>
 
-The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a>.  of articles covering EA principles and promising cause areas if you want to learn more.  Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format.
+The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more.  Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format.
 
 
 Or, if you want to dive more deeply into a topic within EA, check out <a target="_blank" href="/learn/reading-lists/">these reading lists</a>.
+
+<hr>
+
+### [NEXT: Glossary](/learn/glossary/)
+
+### [BACK: Learn](/learn/)
+
