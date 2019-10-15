@@ -32,7 +32,7 @@ The Centre for Effective Altruism’s mission is to create a global community of
 * <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> - philanthropic managed funds
 * <a target="_blank" href="https://app.effectivealtruism.org/groups">Local EA group support</a>
 * <a target="_blank" href="https://www.effectivealtruism.org/grants/">Effective Altruism Grants</a> - which supports new projects
-* <a target="_blank" href="">Giving What We Can</a> - a community of people who have pledged to donate 10% of their income.
+* <a target="_blank" href="https://www.givingwhatwecan.org/">Giving What We Can</a> - a community of people who have pledged to donate 10% of their income.
 * <a target="_blank" href="http://www.effectivealtruism.org">www.effectivealtruism.org</a> - an introductory website that compiles key EA resources.  
 
 
@@ -44,7 +44,8 @@ The Centre for Effective Altruism’s mission is to create a global community of
 ### <a target="_blank" href="https://80000hours.org/">80,000 Hours</a> (80K)
 80,000 Hours aims to help people pursue high-impact careers. They do this by providing career advice for talented people who want to have a social impact. They provide relevant information in several ways, including:
 
-* Their <a target="_blank" href="https://80000hours.org/research/">research</a> on careers with social impact (start with their <a target="_blank" href="https://80000hours.org/key-ideas/">Key Ideas</a> series)
+* <a target="_blank" href="https://80000hours.org/key-ideas/">Key ideas</a> on career planning
+* Their <a target="_blank" href="https://80000hours.org/research/">research</a> on careers with social impact 
 * The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a>, which features in-depth interviews about a variety of topics relevant to effective altruism and career decisions
 * A curated <a target="_blank" href="https://80000hours.org/job-board/">high-impact job board</a>
 
@@ -73,6 +74,7 @@ EAF conducts and coordinates research on how to do the most good in terms of red
 
 ### <a target="_blank" href="https://rethinkprojects.org">Rethink Charity</a>
 Rethink Charity runs a variety of projects that aid the effective altruism community. These include:
+
 * The <a target="_blank" href="https://localeffectivealtruism.network/">Local Effective Altruism Network</a> (LEAN), which supports local groups working to bring effective altruism to a wider audience, and runs the <a target="_blank" href="https://eahub.org/">EA Hub</a>
 * The <a target="_blank" href="https://www.rethinkprojects.org/easurvey">EA Survey</a>, which provides an annual snapshot of the effective altruism community
 * <a target="_blank" href="https://www.rethinkpriorities.org/">Rethink Priorities</a>, dedicated to doing foundational research on neglected causes in a highly empirical and transparent manner
@@ -310,7 +312,7 @@ There are EA groups that you can join in many countries in the world.
 
 
 
-<a target="_blank" href=""><img class="small_image_block" src="/img/gwwclogo.png" /></a>
+<a target="_blank" href="https://www.givingwhatwecan.org/"><img class="small_image_block" src="/img/gwwclogo.png" /></a>
 
 
 
@@ -347,7 +349,7 @@ OFTW encourages people to donate at least 1% of their income to OFTW’s <a targ
 <a name="rationality"></a>
 # Rationality
 
-<img class="small_image_block" src="/img/cfarlogo.png" /></a>
+<a target="_blank" href="https://rationality.org/"><img class="small_image_block" src="/img/cfarlogo.png" /></a>
 
 
 ### <a target="_blank" href="https://rationality.org/">Center for Applied Rationality</a> (CFAR, pronounced see-far)
@@ -359,6 +361,7 @@ LessWrong is a community blog devoted to rationality. They provide a place to re
 
 <hr>
 
-### [NEXT: Connect and Keep Up To Date](/learn/connect/)
+### [NEXT: Communicating about EA](/learn/communicate/)
 
-### [BACK: Communicating about EA](/learn/communicate/)
+### [BACK: Connect and Keep Up To Date](/learn/connect/)
+
