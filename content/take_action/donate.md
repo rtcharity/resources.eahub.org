@@ -96,3 +96,10 @@ This has an advantage over simply donating if you believe a donation of $100,000
 * <a target="_blank" href="https://www.jefftk.com/news/giving">Jeff</a> and <a target="_blank" href="http://www.givinggladly.com/2013/06/whats-it-like-to-give-half.html">Julia</a>.
 * <a target="_blank" href="https://thingofthings.wordpress.com/2019/02/25/why-im-an-ea/">Ozy</a> (and Ozy on <a target="_blank" href="https://thingofthings.wordpress.com/2019/05/22/visualizing-donations/">visualising donations</a>).
 * Other stories from the <a target="_blank" href="https://www.givingwhatwecan.org/blog/">Giving What We Can blog</a>.
+
+
+<hr> 
+
+### [NEXT: Use Your Time](/take_action/use-your-time/)
+
+### [BACK: Take Action](/take-action/)
