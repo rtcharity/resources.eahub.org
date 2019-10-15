@@ -140,6 +140,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/global-catastrophic-risks/">Global catastrophic risks (GCRs)</a> - All risks with the potential to cause serious harm on a global scale. Includes existential risks, but is not limited to them. Catastrophic risks that may not threaten human existence outright include political instability leading to increased warfare, or mass deaths from disease, climate change or geo-engineering.
 
+<a target="_blank" href="https://www.lesswrong.com/posts/YtvZxRpZjcFNwJecS/the-importance-of-goodhart-s-law">Goodhart's law</a> - An adage named after economist Charles Goodhart: "When a measure becomes a target, it ceases to be a good measure."
+
+
 <a target="_blank" href="https://www.givingwhatwecan.org/pledge/">GWWC pledge (Giving What We Can pledge)</a> - A commitment to giving at least 10% (or 1% for students) of your income to the organisations that you think can do the most good with it.
 
 
@@ -154,6 +157,8 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a target="_blank" href="https://www.merriam-webster.com/dictionary/hedonic">Hedonic</a> - relating to or characterised by pleasure. 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Hedonic_treadmill">Hedonic treadmill</a> - The tendency of the human mind to adapt back to a stable set point of happiness in spite of positive or negative experiences/changes in life. 
+
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Hedon">Hedons</a> - The unit philosophers use to quantify pleasure. Hedons are abstract units with no standardised metric.
 
 <a target="_blank" href="https://conceptually.org/concepts/heuristics">Heuristics</a> - Mental shortcuts we use to make decisions. Using ‘common sense’ is a heuristic that we use to determine an answer without searching comprehensively for all the facts ourselves. E.g. the availability heuristic: if events are easier to recall, our brains assume that they’re more likely to occur. 
 
@@ -318,7 +323,12 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Utilitarianism</a> - A consequentialist moral theory that holds well-being as the primary good. Actions that produce more well-being are good, whereas actions that lead to a diminishment of well-being are bad. 
 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Utility">Utility</a> - Utility is how much a certain outcome satisfies the preferences of a particular being.
+
 <a target="_blank" href="https://en.wikipedia.org/wiki/Utility_monster">Utility monster</a> - A thought experiment, of a hypothetical ‘monster’ that receives multitudes more units of pleasure per amount of resource than any other being, which functions as a criticism of utilitarianism. 
+
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Utility">Utils, also known as Utilons</a> - A unit of utility. For utilitarians, a greater number of utils is better.
+
 
 <a name="V"></a>
 # V
