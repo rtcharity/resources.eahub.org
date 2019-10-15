@@ -28,7 +28,7 @@ To find local EAs:
 
 # Using this Guide
 
-This guide to starting an EA group is a compilation of ideas from various group organisers and the Local Effective Altruism Network (LEAN). Every organiser and every group is different, and ideas that work well for one group may need changes to work for another. So, use this guide as a starting point rather than a prescription, and <a target="_blank" href="/start/support/">seek advice from others</a>.
+This guide to starting an EA group is a compilation of ideas from the Local Effective Altruism Network (LEAN), and various group organisers mostly from US, UK and Australia. Every organiser and every group is different, and ideas that work well for one group may need changes to work for another. So, use this guide as a starting point rather than a prescription, and <a target="_blank" href="/start/support/">seek advice from others</a>.
 
 We intend for this guide to evolve and improve over time, so if you have any suggestions for it, please <a target="_blank" href="/contact-lean/">contact us</a>.
 
