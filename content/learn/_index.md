@@ -35,8 +35,8 @@ Links to newsletters, fora, Facebook groups, podcasts and other ways of keeping 
 ## [A guide to key EA-aligned organisations](/learn/orgs/)
 Information about a few organisations in the EA ecosystem.
 
-## [Life as an aspiring effective altruist](/learn/life)
-This section is a collection of articles about dealing with the challenges of being altruistic and tips on how to be effective, happy and balanced with your altruism.
+## [Sustaining an EA Lifestyle](/learn/life)
+This section is a collection of articles about dealing with the challenges of being altruistic and tips on how to be productive and balanced with your altruism. 
 
 ## [Communicating about EA](/learn/communicate-ea/)
 Whether you are talking to your family or giving a formal presentation, talking to people about EA ideas can sometimes be challenging. This section gives some tips on how to talk about EA, some concise explanations you could use, and some frequently asked questions.
