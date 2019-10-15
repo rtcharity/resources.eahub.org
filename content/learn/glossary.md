@@ -13,7 +13,7 @@ license:
 
 
 
-This page features words and acronyms that are used by people in the effective altruism community, but are not as common outside the community. EA organisations do not appear in this glossary, but many organisations are listed here.
+This page features words and acronyms that are used by people in the effective altruism community, but are not as common outside the community. EA organisations do not appear in this glossary, but many organisations are listed <a target="_blank" href="/learn/orgs">here</a>.
 
 If you’d like to suggest more words or acronyms, or suggest improved definitions or links, please <a target="_blank" href="/contact-lean">contact us</a>. 
 
@@ -50,7 +50,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://conceptually.org/concepts/cognitive-biases">Cognitive biases</a> - Habits or shortcuts of thinking that can produce misleading or inaccurate conclusions, often unconscious to the thinker. E.g. our inclination to favour evidence that confirms what we already believe, or our irrational resistance to being changed by new evidence are both examples of cognitive biases that are very common barriers to rational progress.
 
-<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance - The discomfort we feel when holding two or more conflicting beliefs. E.g. a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
+<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g. a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g. Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g. The EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
 
@@ -62,7 +62,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="http://www.harvardea.org/terms">Cost-effectiveness</a> - The cost-effectiveness of an activity refers to its impact per amount of money it requires. For example, the cost-effectiveness of some global health charities can be measured by the number of disability adjusted life years (DALYs) averted per $10,000.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Cost-effectiveness_analysis">Cost-effectiveness analysis (CEA)/ Cost-effectiveness estimate (CEE) - An analysis of the costs and outcomes of an intervention or course of action, for example calculating a cost per death averted. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Cost-effectiveness_analysis">Cost-effectiveness analysis (CEA)/ Cost-effectiveness estimate (CEE)</a> - An analysis of the costs and outcomes of an intervention or course of action, for example calculating a cost per death averted. 
 
 <a target="_blank" href="https://conceptually.org/concepts/counterfactual-thinking">Counterfactual Reasoning</a> - Comparing the expected outcome of an action that was taken to what would have happened in an alternative situation where the action was not taken. 
 
@@ -241,7 +241,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view/">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
 
 <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Pond Analogy</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
 
@@ -351,8 +351,7 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">X-risk or Existential risk</a> - Processes or events that would result in either the extinction of humanity or permanently curtail the potential of humanity.
 
-
-# Y
+# Y
 
 
 <a name="Z"></a>
