@@ -11,9 +11,9 @@ license:
 
 ### Does EA only recommend things that are ‘proven’ to work?
 
-* Effective altruism is about doing as much good as we can, which may include actions that are yet to be empirically proven. We research actions that exist on a scale between:
-    * **Cost-effective and evidence-based**, such as scientifically proven health care     interventions, e.g. anti-malaria nets, or vitamin A supplementation. 
-    * **Uncertain impact**, but with a high potential upside, such as conducting research to improve our understanding of disease, or advocating for policy changes that could improve the lives of many. We consider these actions to have high expected value.
+* Effective altruism is about doing as much good as we can, which may include actions that are yet to be empirically proven. The aim is to find actions that exist on a scale between:
+    * **Cost-effective and evidence-based**, such as scientifically proven health care interventions, e.g. anti-malaria nets, or vitamin A supplementation. 
+    * **Uncertain impact, but with a very high potential upside**, such as conducting research to improve our understanding of disease, or advocating for policy changes that could improve the lives of many. These actions have a high expected value.
 
 ### Isn’t it obvious?
 
@@ -38,7 +38,7 @@ Effective altruism makes recommendations about the best available opportunities 
 
 ### What do you think about volunteering?
 
-* Volunteering is a bit like donating. It can be harmful if you do it wrong, but it could also make a huge difference. Volunteers take time to train and manage, so be sure to only volunteer if you are able to commit, otherwise you may create more costs than benefits to the charity. Another thing to be careful about is if you volunteer in countries where you don’t understand the community well, or doing a job you aren’t adequately trained for - you could be doing a worse job than the locals would do, or even causing harm. For example, working with children in orphanages can be particularly bad, as the demand for orphanage tourism has resulted in children being taken off their parents to pretend to be orphans, and the lack of consistency with adult carers causes psychological problems.
+* Volunteering is a bit like donating. It can be harmful if you do it wrong, but it could also make a huge difference. Volunteers take time to train and manage, so be sure to only volunteer if you are able to commit, otherwise you may create more costs than benefits to the charity. Another thing to be careful about is if you volunteer in countries where you don’t understand the community well and do a job you aren’t adequately trained for - you could be doing a worse job than the locals would do, or even causing harm. For example, working with children in orphanages can be particularly bad, as the demand for orphanage voluntourism has resulted in children being taken off their parents to pretend to be orphans, and the lack of consistency with adult carers causes psychological problems.
 * But volunteering can be an excellent way of gaining useful skills and a deeper understanding of the world, which can help you make more of a difference in the future. 
  
 # Additional general FAQs
@@ -48,7 +48,7 @@ There are a few more general FAQs from CEA in <a target="_blank" href="https://w
 # Cause Area Specific FAQs
 
 
-<a target="_blank" href="https://docs.google.com/document/d/1Pi2M3nt9k55fTM_UJL8JAUPFQzHMJkCicB4c8jRGqfI/edit#heading=h.prhbnjwo4ai2">Global Poverty FAQ</a> including FAQs about GiveDirectly, the Against Malaria Foundation and the Schistosomiasis Control Initiative.
+<a target="_blank" href="https://docs.google.com/document/d/1Pi2M3nt9k55fTM_UJL8JAUPFQzHMJkCicB4c8jRGqfI/edit#heading=h.prhbnjwo4ai2">Global Poverty FAQ</a> from Students for High-Impact Charity, which includes questions about GiveDirectly, the Against Malaria Foundation and the Schistosomiasis Control Initiative.
 
 <a target="_blank" href="http://www.existential-risk.org/faq.html">Existential-risk FAQ</a> from the Future of Humanity Institute
 
