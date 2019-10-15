@@ -14,13 +14,13 @@ More editable graphics will be added over time. Please <a target="_blank" href="
 
 # Contents:
 
-1. <a href="#logos">Logos</a>
-2. <a href="#banners">Physical Banners</a>
-3. <a href="#advertising">General Advertising Posters</a>
-4. <a href="#facebookbanners">Facebook and Meetup Banners</a>
-5. <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
-6. <a href="#events">Event Advertising</a>
-7. <a href="#brochures">Brochures and Flyers</a>
+* <a href="#logos">Logos</a>
+* <a href="#banners">Physical Banners</a>
+* <a href="#advertising">General Advertising Posters</a>
+* <a href="#facebookbanners">Facebook and Meetup Banners</a>
+* <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
+* <a href="#events">Event Advertising</a>
+* <a href="#brochures">Brochures and Flyers</a>
 
 <a name="logos"></a>
 # Logos
@@ -76,7 +76,7 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">Editable Gravit File</a>
 
-<a href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">High Res png</a>
+<a href="https://drive.google.com/open?id=15CTRwmglm6V8tinypYYvoOBqL1F8iwPR">High Res png</a>
 
 
 <p class="large_image_wrapper">
@@ -93,7 +93,7 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a href="https://drive.google.com/open?id=1Tj4xuZWvbI06XcK9yq1i4p1SHPgmHogY">Editable Gravit File</a>
 
-<a href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
+<a href="https://drive.google.com/open?id=1-KwNPkxWsgQm5hf9xh3OA5tgTPp3OERj">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/verticalbanner3images2.png" />
@@ -101,8 +101,8 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a href="https://drive.google.com/open?id=16eXa55SAK6iPfcwLvMYA5eqq0DxC_TzX">Editable Gravit File</a>
 
-<a href="https://drive.google.com/open?id=1-KwNPkxWsgQm5hf9xh3OA5tgTPp3OERj">High Res png</a>
 
+<a href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
 
 <a name="advertising"></a>
 # General Advertising Posters
@@ -142,7 +142,7 @@ From EA Auckland
 <img src="/img/facebookbanner6images.png" />
 </p>
 
-<a href="https://drive.google.com/open?id=1A8vkvmAiWf_5pMYfl6mcoGGc6alknm8A">Editable Gravit File</a>
+<a href="https://drive.google.com/open?id=1hJwD6gtUWo9FzngHbEPRJGk-R2H93o-w">Editable Gravit File</a>
 
 
 <p class="large_image_wrapper">
@@ -155,6 +155,7 @@ From EA Auckland
 
 For other ideas for facebook banner images, check out this <a target="_blank" href="https://drive.google.com/open?id=1b0iFuwjydeczcuas36wH6cPdnRFQQvC5">selection of banner images</a> from various EA groups around the world. Many groups choose to use a photo of their area or city, and place the EA logo and text over this image. 
 
+<a name="facebookprofiles"></a>
 # Facebook Page Profile Pictures
 
 <p class="large_image_wrapper">
