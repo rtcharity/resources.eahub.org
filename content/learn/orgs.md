@@ -1,5 +1,5 @@
 ---
-title: Organisations Connected to EA
+title: Organisations
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
