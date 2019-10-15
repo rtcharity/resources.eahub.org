@@ -5,21 +5,21 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-Some of the EA Hub graphics files are good to use without editing - all the files with no group names on them. For these feel free to just use the png, jpgs or pdfs directly. 
+Most of the graphics available require some editing, if only to change the name of the group. A few are able to use without editing. For these feel free to just use the png, jpgs or pdfs directly. 
 
-If you do want or need to make changes, this can be done in <a target="_blank" href="https://designer.gravit.io/">Gravit</a>, a free graphics package that can be used in your web browser. The EA Hub Resources team chose to make our files in Gravit as the free version has many excellent features, and it is easier to use than many other similar apps. This means that group organisers can make, share, and modify resources freely. 
+If you want or need to make changes, this can be done in <a target="_blank" href="https://designer.gravit.io/">Gravit</a>, a free graphics package that can be used in your web browser. The EA Hub Resources team chose to make our files in Gravit as the free version has many excellent features, and it is easier to use than many other similar apps. This means that group organisers can make, share, and modify resources freely. 
 
 # Basic instructions:
 
-1. Download the gvdesign file of the image you want to modify from the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>, or directly from the <a target="_blank" href="">Editable Graphics page</a>. 
-2. Go to <a target="_blank" href="https://designer.gravit.io/">https://designer.gravit.io</a> and sign up - the free version is absolutely fine. 
-3. Go to “Open from Computer” (or from the file menu “Open Local File”), to open the gvdesign you uploaded. 
-4. Then edit away!
-5. Export your file into jpg, png or pdf.
+1. Download the gvdesign file of the image you want to modify from the <a target="_blank" href="">Available Graphics page</a>, or from the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>. 
+2. Go to <a target="_blank" href="https://designer.gravit.io/">https://designer.gravit.io</a> and sign up - the free version has plenty of features so it is unlikely you'll need to buy the professional version.
+3. Go to “Open from Computer” (or from the file menu “Open Local File”), to open the gvdesign you downloaded. 
+4. Edit
+5. Export your file into jpg, png or pdf. and use!
 
 # Detailed instructions: 
 
-This video explains how to make new gravit files, edit existing EA Hub files, save, and export.
+This video explains how to make new Gravit files, edit existing EA Hub Gravit files, save, and export.
 
 <div class="textAlignCenter">
 <iframe class="article_video"
@@ -44,7 +44,7 @@ Other places for finding great free stock images are:
 * <a target="_blank" href="https://www.pexels.com/">Pexels</a>
 * <a target="_blank" href="https://pixabay.com/">Pixabay</a>
 
-Or you can try google image search. In the tools menu, click on “usage rights” and select “labeled for non-commercial reuse with modification”
+Or you can try google image search. In the tools menu, click on “usage rights” and select “labeled for non-commercial reuse with modification” so that you only find images you can legally use.
 
 You can also use photos from EA events shared by other groups:
 
@@ -79,4 +79,4 @@ This same size works for a meetup group banner, but meetup doesn’t crop the im
 ### Physical banners
 Different printing companies have different options for banner dimensions. Before you edit an image, work out what banner stand you are using, and find the ratio of the width to the height of the banner that fits the stand. 
 
-Make the file as large as possible (the more pixels the better) to ensure your print is crisp print. 
+Make the file as large as possible (the more pixels the better) to ensure your print is crisp. 
