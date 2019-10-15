@@ -18,3 +18,7 @@ The <a target="_blank" href="https://www.facebook.com/groups/1062957250383195/">
 The <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">Effective Altruism Careers Discussion Facebook group</a> is for EA’s looking to network about careers, and supporting each other in questions about career plans and changes.
 
 You can also <a target="_blank" href="https://eahub.org/profiles">mark yourself available for job opportunities</a> on the EA Hub. This will cause your profile to be viewable on the <a target="_blank" href="https://eahub.org/candidates">candidates page</a>. 
+
+<hr>
+
+### [BACK: Use Your Time](/take_action/use-your-time/)
