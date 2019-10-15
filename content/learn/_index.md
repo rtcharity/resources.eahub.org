@@ -40,3 +40,7 @@ This section is a collection of articles about dealing with the challenges of be
 
 ## [Communicating about EA](/learn/communicate-ea/)
 Whether you are talking to your family or giving a formal presentation, talking to people about EA ideas can sometimes be challenging. This section gives some tips on how to talk about EA, some concise explanations you could use, and some frequently asked questions.
+
+<hr>
+
+### [NEXT: About EA](/learn/about-ea/)
