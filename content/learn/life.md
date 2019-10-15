@@ -23,19 +23,19 @@ Many people in the EA community have contributed advice and shared their experie
 * Helen Toner on <a target="_blank" href=" https://www.youtube.com/watch?v=C9SukBgSxyE">Sustainable Motivation</a> (24 minute talk from EA Global SF 2019).
 * See these <a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">Practical steps for self-care from Boston EA</a>.
 * Julia Wise on 
-    * Why it is important to “<a target="_blank" href="http://www.givinggladly.com/2016/06/practical-steps-for-self-care.html">walk cheerfully over the world</a>”.
+    * Why it is important to “<a target="_blank" href="http://www.givinggladly.com/2013/06/cheerfully.html">walk cheerfully over the world</a>”.
     * <a target="_blank" href="http://www.givinggladly.com/2015/10/burnout-and-self-care.html">Burnout and Self-care</a>.
     * Why it is important to <a target="_blank" href="http://www.givinggladly.com/2019/02/you-have-more-than-one-goal-and-thats.html">balance your resources</a> across your different goals. 
-    * Countering <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">Imposter Syndrome</a>, a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud". Anecdotal evidence suggests this is quite common among EAs.
+    * Countering <a target="_blank" href="https://forum.effectivealtruism.org/posts/TQrobtcPuqB2PT5uT/countering-imposter-syndrome">Imposter Syndrome</a>, a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud". Anecdotal evidence suggests this is quite common among EAs.
 
 * <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">80,000 hours on why self-care is important</a> to succeed in any job, and some recommendations about tackling mental health issues.
-* Lukas Gloor on <a target="_blank" href="https://forum.effectivealtruism.org/posts/4fPxQjq6GFZgurSsf/room-for-other-things-how-to-adjust-if-ea-seems-overwhelming">How to adjust if EA seems overwhelming</a>.
-* Elizabeth on <a target="_blank" href="https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it">Burnout: What it is and How to Treat It</a>.
-* Holly Morgan on <a target="_blank" href="http://www.thelifeyoucansave.org/Blog/ID/10/But-Im-not-doing-enough-Dealing-with-guilt-as-an-effective-altruist">But I’m not doing enough: Dealing with guilt as an effective altruist</a>.
-* The long (but excellent) <a target="_blank" href="http://doingguiltbetter.com">Replacing Guilt Series</a> by Nate Soares on dealing with guilt productively. 
+* Lukas Gloor on <a target="_blank" href="https://forum.effectivealtruism.org/posts/4fPxQjq6GFZgurSsf/room-for-other-things-how-to-adjust-if-ea-seems-overwhelming">how to adjust if EA seems overwhelming</a>.
+* Elizabeth on <a target="_blank" href="https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it">burnout: What it is and how to treat it</a>.
+* Holly Morgan on <a target="_blank" href="http://www.thelifeyoucansave.org/Blog/ID/10/But-Im-not-doing-enough-Dealing-with-guilt-as-an-effective-altruist">dealing with guilt as an effective altruist</a>.
+* The long (but excellent) <a target="_blank" href="http://doingguiltbetter.com">"Replacing Guilt Series"</a> by Nate Soares on dealing with guilt productively. 
 * Holly Morgan on <a target="_blank" href="https://forum.effectivealtruism.org/posts/DeYLsacSsB5mRw3XC/scrupulosity-my-eagxboston-2019-lightning-talk">scrupulosity</a> (feelings of excessive guilt and moral personal responsibility).
 
-Many people find it helpful to be part of a community of like-minded people--to see if there is an EA group in your area check out the <a target="_blank" href="https://eahub.org/groups/">map of local groups</a>. 
+Many people find it helpful to be part of a community of like-minded people. To see if there is an EA group in your area check out the <a target="_blank" href="https://eahub.org/groups/">map of local groups</a>. 
 
 ## EA Community point people
 Julia Wise and Sky Mayhew are <a target="_blank" href="https://forum.effectivealtruism.org/posts/hYh6jKBsKXH8mWwtc/a-contact-person-for-the-ea-community">point people</a> for the EA community. They are people you can come to with concerns about problems you’ve noticed or experienced in the EA community. The best way to contact them is <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. You can also contact Julia <a target="_blank" href="https://goo.gl/forms/oqiYRuynO37oOtYv1">anonymously</a>.
@@ -58,27 +58,27 @@ Some professional health care providers within the EA community have written som
 
 Other resources recommended by people in the community:
 
-* Gruntled and Hinged on <a target="_blank" href="https://gruntledandhinged.com/how-to-get-therapy/">how to get therapy
-* David Burns’ book <a target="_blank" href="https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336/">Feeling Good</a>  is a classic Cognitive Behavioural Therapy book for depression. 
+* Gruntled and Hinged on <a target="_blank" href="https://gruntledandhinged.com/how-to-get-therapy/">how to get therapy</a>
+* David Burns’ book <a target="_blank" href="https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336/">Feeling Good</a>  is a classic Cognitive Behavioural Therapy book for depression 
 * Harvard Medical School article on <a target="_blank" href="https://www.health.harvard.edu/diseases-and-conditions/how-to-taper-off-your-antidepressant/">how to taper off antidepressants</a>  (not that we're advising this per se, but read this first if you're planning to).
-* Resources on <a target="_blank" href="https://optionb.org/">building resilience</a>.
+* Resources on <a target="_blank" href="https://optionb.org/">building resilience</a>
 
 # Value Drift and Staying Motivated
 
 Most people in the EA community are young, and therefore their greatest impact could lie in the medium- to long-term, when they are at the peak of their careers. However, not everyone in the EA community will continue to act according to effective altruism principles throughout their lives. 
 
-“Value drift” is a term used to describe various ways people greatly reduce or cease their altruistic actions. The causes could be a change in values, a loss of motivation, or a change in lifestyle. The percentage of people drifting away from EA has been estimated by Peter Hurford <a target="_blank" href="https://forum.effectivealtruism.org/posts/bGcKJiBt4HSSScF76/ea-survey-2018-series-how-long-do-eas-stay-in-ea">using the EA Survey data</a>, and by Joey in <a target="_blank" href="https://forum.effectivealtruism.org/posts/mZWFEFpyDs3R6hD3r/empirical-data-on-value-drift">Empirical Data on Value Drift</a>.
+“Value drift” is a term used to describe various ways people greatly reduce or cease their altruistic actions. The causes could be a change in values, a loss of motivation, or a change in lifestyle. The percentage of people drifting away from EA has been estimated by Peter Hurford <a target="_blank" href="https://forum.effectivealtruism.org/posts/bGcKJiBt4HSSScF76/ea-survey-2018-series-how-long-do-eas-stay-in-ea">using the EA Survey data</a>, and by Joey in <a target="_blank" href="https://forum.effectivealtruism.org/posts/mZWFEFpyDs3R6hD3r/empirical-data-on-value-drift">"Empirical Data on Value Drift"</a>.
 
 If you are highly motivated now, but think you are likely to experience value drift, you may wish to focus on having an impact in the short term. 
 
-Also you may wish to take action now to reduce the chances that your values and motivations will change. For practical things you can do to make it less likely for you to change your values, and more likely for you to remain motivated, see the excellent list in <a target="_blank" href="https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift">Concrete Ways to Reduce the Risk of Value Drift</a>. 
+Also you may wish to take action now to reduce the chances that your values and motivations will change. For practical things you can do to make it less likely for you to change your values, and more likely for you to remain motivated, see the excellent list in <a target="_blank" href="https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift">"Concrete Ways to Reduce the Risk of Value Drift"</a>. 
  
 Note that while it seems reasonable to take steps to keep your motivation high, it is debatable whether we should take steps to prevent your values from changing as it is possible that your future self will have better values than your current self.
 
 # Productivity Resources
 Many people in the EA movement get significant value out of learning to be more productive in their work. Here are some tools and readings to help you get more out of your day. 
 
-Peter Hurford’s article <a target="_blank" href="https://forum.effectivealtruism.org/posts/TCr8gEfeFyZQcEHFR/productivity-101-for-beginners/">Productivity 101 for Beginners</a> is a good starting point for thinking about productivity. His article <a target="_blank" href="https://www.lesswrong.com/posts/JTHe5oGvdj6T73o4o/how-i-am-productive/">How to Be Productive</a> provides a more in-depth look at particular methods.
+Peter Hurford’s article <a target="_blank" href="https://forum.effectivealtruism.org/posts/TCr8gEfeFyZQcEHFR/productivity-101-for-beginners/">"Productivity 101 for Beginners"</a> is a good starting point for thinking about productivity. His article <a target="_blank" href="https://www.lesswrong.com/posts/JTHe5oGvdj6T73o4o/how-i-am-productive/">"How to Be Productive"</a> provides a more in-depth look at particular methods.
 ## Tools
 
 ### Improve Decision Making and Reducing Cognitive Biases
