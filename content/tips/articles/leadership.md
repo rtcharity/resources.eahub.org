@@ -65,3 +65,9 @@ These books have been recommended by group organisers:
 
 * <a target="_blank" href="https://www.amazon.com/Becoming-Master-Manager-Competing-Approach/dp/1118582586">Becoming a Master Manager: A Competing Values Approach</a>
 * <a target="_blank" href="https://www.linkedin.com/pulse/manager-tools-mark-horstman-what-makes-effective-eddie-lazzari/">What Makes an Effective Manager</a>
+
+<hr>
+
+### [NEXT: Organiser Meetings](/tips/articles/organiser-meetings/)
+
+### [BACK: Committee Structures](/tips/articles/committee/)

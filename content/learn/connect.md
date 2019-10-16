@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 25th September 2019_
 # Local Groups
-In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a>.  and keep up to date with EA related research.  
+In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a> and keep up to date with EA related research.  
 
 Check out the <a target="_blank" href="http://eahub.com/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
 
@@ -22,7 +22,7 @@ If you’re able to travel, consider applying to attend an <a target="_blank" hr
 
 The <a target="_blank" href="https://www.effectivealtruism.org/ea-newsletter-archives/">Effective Altruism Newsletter</a> is a joint project between the <a target="_blank" href="https://www.centreforeffectivealtruism.org/">Centre for Effective Altruism</a> and <a target="_blank" href="https://rethinkprojects.org/">Rethink Charity</a> that provides news and updates about the effective altruism community. 
 
-The <a target="_blank" href="https://80000hours.org/job-board/">80,000 Hours Job Board Newsletter provides updates on the latest high-impact roles that 80,000 Hours has identified in the EA community and adjacent fields. 
+The <a target="_blank" href="https://80000hours.org/job-board/">80,000 Hours Job Board</a> Newsletter provides updates on the latest high-impact roles that 80,000 Hours has identified in the EA community and adjacent fields. 
 
 The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect</a> project on Vox takes an EA perspective on a large range of issues, including, but not limited to, main EA causes. You can sign up for their newsletter <a target="_blank" href="https://confirmsubscription.com/h/d/A2BA26698741513A">here</a>. 
 
@@ -33,7 +33,7 @@ The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podca
 
 <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
 
-<a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174">Future of Life Podcast</a> Ariel Conn from FLI in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Find a complete list of episodes above.
+<a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> Ariel Conn from FLI in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Find a complete list of episodes above.
 
 <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> The Future Perfect podcast studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
 
@@ -78,7 +78,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/effectiveenvironmentalism/">Effective Environmentalism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1832948053436066/">Institutional Decision-Making</a>
 * <a target="_blank" href="https://www.facebook.com/groups/EAmentalhealthandhappiness/">Mental Health & Happiness</a>
-* <a target="_blank" href="https://www.facebook.com/groups/1832948053436066/">Policy</a>
+* <a target="_blank" href="https://www.facebook.com/groups/450247668487258/">Policy</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1006887426016674/">System Change</a>
 * <a target="_blank" href="https://www.facebook.com/groups/144017955332/">Rationality</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1362064933805619/">LessWrong (Rationality Group) </a>
@@ -128,7 +128,7 @@ These groups are a good place to get feedback on specialized or specific career 
 ### Group Organizers
 
 * <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook Group Organizers</a>
-* <a target="_blank" href="https://eagroups.slack.com">EA groups Slack workspace</a>, where you can share resources and ask questions. To join the Slack workspace, <a target="_blank" href="https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I">click here</a>.
+* <a target="_blank" href="https://eagroups.slack.com">EA groups Slack workspace</a>, where you can share resources and ask questions. To join the Slack workspace ask a fellow group organiser for an invite, or <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">email the CEA groups team</a>. 
 
 ### Community Health
 
@@ -150,3 +150,8 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://discordapp.com/invite/nFsNfaH">EA Corner Discord Server</a> An informal chat room hosted on Discord, with subthreads on many EA and non-EA related topics.
 * <a target="_blank" href="https://www.reddit.com/r/EffectiveAltruism/">Effective Altruism Subreddit</a>
 
+<hr>
+
+### [NEXT: Organisations](/learn/orgs/)
+
+### [BACK: Reading Lists](/learn/reading-lists/)

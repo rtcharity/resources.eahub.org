@@ -1,5 +1,5 @@
 ---
-title: Start an EA Group
+title: Start a Group
 weight: 3
 pictogram: /img/start.png
 resourceForGroups: true
@@ -12,7 +12,7 @@ _Image: EA Philippines_
 
 ### _Published 13th September 2019_
 
-Effective altruism groups usually fall into two categories: city groups, which bring together anyone interested in effective altruism near a particular geographic area, and uni groups. Some groups have a combined city/uni group.
+Effective altruism groups usually fall into two categories: city groups, which bring together anyone interested in effective altruism in a particular geographic area, and uni groups based out of a college or university. Some groups have a combined city/uni group.
 
 This guide is primarily intended for individuals considering starting a new city or uni group. However, it may also be useful for someone taking on a leadership role at an existing EA group or for someone interested in starting a group that focuses on a specific subset of EA, such as effective animal advocacy or promoting effective global poverty charities.
 
@@ -28,24 +28,36 @@ To find local EAs:
 
 # Using this Guide
 
-This guide to starting an EA group is a compilation of ideas from various group organisers and the Local Effective Altruism Network (LEAN). Every organiser and every group is different, and ideas that work well for one group may need changes to work for another. So, use this guide as a starting point rather than a prescription, and <a target="_blank" href="/start/support/">seek advice from others</a>.
+This guide to starting an EA group is a compilation of ideas from the Local Effective Altruism Network (LEAN), and various group organisers mostly from US, UK and Australia. Every organiser and every group is different, and ideas that work well for one group may need changes to work for another. So, use this guide as a starting point rather than a prescription, and <a target="_blank" href="/start/support/">seek advice from others</a>.
 
 We intend for this guide to evolve and improve over time, so if you have any suggestions for it, please <a target="_blank" href="/contact-lean/">contact us</a>.
 
 # Guide Contents:
 
-### [Why Start an EA Group?](/start/why/) START HERE
+## Uni Groups
 
-### [Uni Groups: What is Involved in Running a Uni Group?](/start/run-uni-group)
+* ### [Why Start an EA Group?](/start/why/) START HERE
 
-### [City Groups: What is Involved in Running a City Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
+* ### [What is Involved in Running a Group?](/start/run-uni-group)
 
-### [Knowledge and Skills to Start a Group](/start/knowledge/)
+* ### [Useful Knowledge](/start/knowledge/)
 
-### [Get Support and Start Your Group](/start/support/)
+* ### [Get Support and Start Your Group](/start/support/)
 
-### [Uni Groups: How to Register with Your University](/start/register-uni/)
+* ### [How to Register with Your University](/start/register-uni/)
 
-### [Uni Groups: Clubs Fair and Your First Event](/start/first-event-uni/)
+* ### [Clubs Fair and Your First Event](/start/first-event-uni/)
 
-### [City Groups: Preparing for Your First Event](/start/first-event-city/)
+
+
+## City Groups
+
+* ### [Why Start an EA Group?](/start/why/) START HERE
+
+* ### [What is Involved in Running a Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
+
+* ### [Useful Knowledge](/start/knowledge/)
+
+* ### [Get Support and Start Your Group](/start/support/)
+
+* ### [Preparing for Your First Event](/start/first-event-city/)

@@ -1,6 +1,6 @@
 ---
 title: Handing Over Leadership
-weight: 7
+weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -66,3 +66,8 @@ Each group will have different requirements for their handover documents, but th
 * <a target="_blank" href="https://docs.google.com/document/d/1Zd3KNtH2laFCu7jDH2p4Q906NyE7TKRnFcBMGpcTM5c/edit?usp=sharing">Cambridge</a>
 * <a target="_blank" href="https://drive.google.com/open?id=1o8VL5ogRFE2te0NHRzVdquYvTEATewIk">EA NYU</a>
 
+<hr>
+
+### [NEXT: Group Events](/events/)
+
+### [BACK: One-on-Ones](/tips/one-on-ones)

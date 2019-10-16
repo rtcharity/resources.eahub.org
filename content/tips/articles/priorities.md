@@ -66,5 +66,9 @@ Priorities could be:
 * EA Denmark’s <a target="_blank" href="https://docs.google.com/document/d/1sf2y6sM3F0huE_XMRLFl98l_TuLuXM872e2ArGnlT1E/edit#heading=h.vs2jjp3on5g5">Overall Goals</a> 
 * EA Denmark’s <a target="_blank" href="https://forum.effectivealtruism.org/posts/7He8vRrbyyeKFZdif/strategy-development-for-ea-groups-lessons-learned-from-ea">process for determining their goals and creating projects</a>.
 
+<hr>
 
+### [NEXT: Models of Movement Building](/tips/articles/models/)
+
+### [BACK: Strategy](/tips/strategy/)
 

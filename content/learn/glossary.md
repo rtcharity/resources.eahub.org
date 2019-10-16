@@ -1,5 +1,5 @@
 ---
-title: EA Glossary
+title: Glossary
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -13,7 +13,7 @@ license:
 
 
 
-This page features words and acronyms that are used by people in the effective altruism community, but are not as common outside the community. EA organisations do not appear in this glossary, but many organisations are listed here.
+This page features words and acronyms that are used by people in the effective altruism community, but are not as common outside the community. EA organisations do not appear in this glossary, but many organisations are listed <a target="_blank" href="/learn/orgs">here</a>.
 
 If you’d like to suggest more words or acronyms, or suggest improved definitions or links, please <a target="_blank" href="/contact-lean">contact us</a>. 
 
@@ -50,7 +50,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://conceptually.org/concepts/cognitive-biases">Cognitive biases</a> - Habits or shortcuts of thinking that can produce misleading or inaccurate conclusions, often unconscious to the thinker. E.g. our inclination to favour evidence that confirms what we already believe, or our irrational resistance to being changed by new evidence are both examples of cognitive biases that are very common barriers to rational progress.
 
-<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance - The discomfort we feel when holding two or more conflicting beliefs. E.g. a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
+<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g. a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g. Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g. The EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
 
@@ -62,7 +62,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="http://www.harvardea.org/terms">Cost-effectiveness</a> - The cost-effectiveness of an activity refers to its impact per amount of money it requires. For example, the cost-effectiveness of some global health charities can be measured by the number of disability adjusted life years (DALYs) averted per $10,000.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Cost-effectiveness_analysis">Cost-effectiveness analysis (CEA)/ Cost-effectiveness estimate (CEE) - An analysis of the costs and outcomes of an intervention or course of action, for example calculating a cost per death averted. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Cost-effectiveness_analysis">Cost-effectiveness analysis (CEA)/ Cost-effectiveness estimate (CEE)</a> - An analysis of the costs and outcomes of an intervention or course of action, for example calculating a cost per death averted. 
 
 <a target="_blank" href="https://conceptually.org/concepts/counterfactual-thinking">Counterfactual Reasoning</a> - Comparing the expected outcome of an action that was taken to what would have happened in an alternative situation where the action was not taken. 
 
@@ -140,6 +140,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/global-catastrophic-risks/">Global catastrophic risks (GCRs)</a> - All risks with the potential to cause serious harm on a global scale. Includes existential risks, but is not limited to them. Catastrophic risks that may not threaten human existence outright include political instability leading to increased warfare, or mass deaths from disease, climate change or geo-engineering.
 
+<a target="_blank" href="https://www.lesswrong.com/posts/YtvZxRpZjcFNwJecS/the-importance-of-goodhart-s-law">Goodhart's law</a> - An adage named after economist Charles Goodhart: "When a measure becomes a target, it ceases to be a good measure."
+
+
 <a target="_blank" href="https://www.givingwhatwecan.org/pledge/">GWWC pledge (Giving What We Can pledge)</a> - A commitment to giving at least 10% (or 1% for students) of your income to the organisations that you think can do the most good with it.
 
 
@@ -154,6 +157,8 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a target="_blank" href="https://www.merriam-webster.com/dictionary/hedonic">Hedonic</a> - relating to or characterised by pleasure. 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Hedonic_treadmill">Hedonic treadmill</a> - The tendency of the human mind to adapt back to a stable set point of happiness in spite of positive or negative experiences/changes in life. 
+
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Hedon">Hedons</a> - The unit philosophers use to quantify pleasure. Hedons are abstract units with no standardised metric.
 
 <a target="_blank" href="https://conceptually.org/concepts/heuristics">Heuristics</a> - Mental shortcuts we use to make decisions. Using ‘common sense’ is a heuristic that we use to determine an answer without searching comprehensively for all the facts ourselves. E.g. the availability heuristic: if events are easier to recall, our brains assume that they’re more likely to occur. 
 
@@ -236,7 +241,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view/">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
 
 <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Pond Analogy</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
 
@@ -318,7 +323,12 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Utilitarianism</a> - A consequentialist moral theory that holds well-being as the primary good. Actions that produce more well-being are good, whereas actions that lead to a diminishment of well-being are bad. 
 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Utility">Utility</a> - Utility is how much a certain outcome satisfies the preferences of a particular being.
+
 <a target="_blank" href="https://en.wikipedia.org/wiki/Utility_monster">Utility monster</a> - A thought experiment, of a hypothetical ‘monster’ that receives multitudes more units of pleasure per amount of resource than any other being, which functions as a criticism of utilitarianism. 
+
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Utility">Utils, also known as Utilons</a> - A unit of utility. For utilitarians, a greater number of utils is better.
+
 
 <a name="V"></a>
 # V
@@ -341,8 +351,7 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">X-risk or Existential risk</a> - Processes or events that would result in either the extinction of humanity or permanently curtail the potential of humanity.
 
-
-# Y
+# Y
 
 
 <a name="Z"></a>
@@ -351,3 +360,8 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 <a target="_blank" href="https://conceptually.org/concepts/zero-vs-positive-sum">Zero-sum game</a> - A situation where resources are limited, have a finite allocation and cannot be infinitely shared. There’s only so many pieces of the pie, and if I get more, you necessarily get less. It’s a win-lose dynamic, as opposed to positive-sum, where the pie only gets bigger and bigger, and the results are win-win.
 
 
+<hr>
+
+### [NEXT: Reading Lists](/learn/reading-lists/)
+
+### [BACK: About Effective Altruism](/learn/about-ea/)

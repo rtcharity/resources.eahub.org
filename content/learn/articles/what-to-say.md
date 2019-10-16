@@ -1,5 +1,5 @@
 ---
-title: What To Say (Pitch Guide)
+title: What to Say
 date: 2019-09-26T10:47:43.355Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -9,7 +9,7 @@ license:
 
 # How to Use This Guide
 
-This article has suggestions about how to concisely talk about EA. “Pitch” isn’t really the right word because it is best not to think about your conversation as a sales pitch, but more about letting a person know about EA ideas, so they can learn more if they are interested. 
+This article has suggestions about how to concisely talk about EA, commonly called "Pitches". “Pitch” isn’t really the right word though, because it is best not to think about your conversation as a sales pitch, but more about letting a person know about EA ideas, so they can learn more if they are interested. 
 
 Have a read through these suggestions and pull out a few to try yourself. For example, as part of a conversation you could: 
 
@@ -98,7 +98,7 @@ Note: If you use this framing, ensure you make it clear you are not insinuating 
 
 ## We have an obligation to help others (the “Drowning Child” argument)
 
-_Note: Talk about obligation with care, the risk is that it can seem judgemental towards others. Consider talking about how you feel an obligation, rather than that we have an obligation. More discussion on this topic <a target="_blank" href="/learn/articles/tips#morality">here</a>._ 
+_Note: Talk about obligation with care, the risk is that it can seem judgemental towards others. Consider talking about how you feel an obligation, rather than that we have an obligation. More discussion on this topic_ <a target="_blank" href="/learn/articles/tips#morality">_here_</a>.
 
 * Imagine you are walking past a shallow muddy pond, and you notice a child has fallen in and appears to be drowning. You have to act immediately to save the child. To wade in and pull the child out would be easy, but it will mean that you get your expensive clothes and your fancy smartphone would be ruined. The question is - do you have any obligation to rescue the child? Most people say they do, as the importance of saving a child so far outweighs the cost of ruined belongings. Would it make any difference if the child were far away, in another country perhaps, but similarly in danger of death, and equally within your means to save, at no great cost – and absolutely no danger – to yourself? We are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a relatively small cost to us.
 * Idea from Peter Singer (<a target="_blank" href="https://forum.effectivealtruism.org/posts/SwG8Tj9RkG8DzpM4f/the-drowning-child-and-the-expanding-circle">Source</a>)
@@ -152,3 +152,10 @@ If you can, tie in your own personal story of exploration of these ideas into th
 * What changed you? 
 
 If you cannot provide your own story, try telling the story of a friend or someone who inspired you. 
+
+
+<hr>
+
+### [NEXT: Tips to Help Your Conversation Go Well](/learn/articles/tips/)
+
+### [BACK: Communicate About EA](/learn/communicate-ea/) 

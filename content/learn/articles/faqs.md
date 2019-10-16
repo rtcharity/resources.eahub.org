@@ -23,7 +23,7 @@ license:
 
 ### Is it just about donating money? 
 
-* In the past, the community made the <a target="_blank" href="https://80000hours.org/about/credibility/evaluations/mistakes/">mistake</a> of over-emphasising “earning to give” as an effective way to help. Most of us still think this is a good strategy for some people, particularly those who are well-suited to high-paying careers. 
+* In the past, the community made the <a target="_blank" href="https://80000hours.org/2015/07/80000-hours-thinks-that-only-a-small-proportion-of-people-should-earn-to-give-long-term/">mistake</a> of over-emphasising “earning to give” as an effective way to help. Most of us still think this is a good strategy for some people, particularly those who are well-suited to high-paying careers. 
 * But donating to charity is not the only way to have a large impact. A lot of people can do even better by using their careers to help others more directly. Many people in the community do both.
 * It could also be that there are lifestyle changes you might make, like reducing the amount of meat or dairy you consume, applying rationality to more aspects of your life, or volunteering your time towards EA work outside of your career. 
 
@@ -56,4 +56,8 @@ There are a few more general FAQs from CEA in <a target="_blank" href="https://w
 
 <a target="_blank" href="https://intelligence.org/faq/">AI Safety FAQ</a> from the Machine Intelligence Research Institute
  
+<hr>
 
+### [NEXT: Responding to Objections](/learn/articles/objections/)
+
+### [BACK: Tips to Help Your Conversation Go Well](/learn/articles/tips/)

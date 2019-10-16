@@ -53,3 +53,9 @@ Alternatively, use <a target="_blank" href="https://www.hubspot.com/crm/">HubSpo
 
 If you’d like to learn more, feel free to get in touch with <a target="_blank" href="mailto:evemccormick410@gmail.com">Eve</a> from EA Cambridge to hear about their experiences using these systems.
 
+<hr>
+
+### [NEXT: One-on-Ones](/tips/one-on-ones/)
+
+### [BACK: Organiser Meetings](/tips/articles/organiser-meetings/)
+

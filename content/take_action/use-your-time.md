@@ -24,15 +24,17 @@ Place to look for volunteering opportunities:
 * See <a target="_blank" href="https://forum.effectivealtruism.org/posts/MYth4Ju4kbfHmJRbA/remote-volunteering-opportunities-in-effective-altruism">this forum post</a> on cause-area specific opportunities for more ideas. 
 * If you’re interested in volunteering for effective animal charities, see <a target="_blank" href="https://animalcharityevaluators.org/advocacy-interventions/advocacy-advice/volunteer-effectively/">this guide</a> of opportunities from Animal Charity Evaluators
 * Go to <a target="_blank" href="https://www.eawork.club/">eawork.club</a> to check out volunteer opportunities
-* Tick the box “available to volunteer” on your <a target="_blank" href="https://eahub.org/profiles/">EA Hub profile</a>
 * If there is an <a target="_blank" href="https://eahub.org/groups/">EA group in your area</a>, meet up with them and volunteer to help run the group. If there isn’t an EA group in your area, consider <a target="_blank" href="/start/">starting a group</a>. 
 * If you see an opportunity, or a need that isn’t being met, consider starting your own project. You can seek advice and assistance from other EAs by writing your idea up on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>, or on an <a target="_blank" href="/learn/connect/">EA Facebook Page</a>. 
+
+You can also <a target="_blank" href="https://eahub.org/profiles">mark yourself available for volunteer opportunities</a> on the EA Hub. This will cause your profile to be viewable on the <a target="_blank" href="https://eahub.org/volunteers/">volunteers page</a>. 
+
 
 # Research
 
 If you are embarking on research as part of your degree, the <a target="_blank" href="http://effectivethesis.com">Effective Thesis</a> program will connect you with a coach who will help you find a thesis topic with a high potential to improve the world. They have current and finished theses on their website. 
 
-Many non-students conduct their own research and publish it on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>. 
+Many people conduct their own research and publish it on the <a target="_blank" href="https://forum.effectivealtruism.org/">EA Forum</a>. 
 
 # Fundraise for Charity
 
@@ -50,8 +52,14 @@ Peter Hurford describes how he created a successful birthday fundraiser <a targe
 
 # Spread EA Ideas
 
-Sharing your actions and the reasons behind them can be a great way of increasing your impact. It can encourage others to check out causes you mention, to donate more, or even to simply read an inspiring EA blog. This can admittedly be a difficult thing to do sometimes, and it can have some risk. Firstly talking about giving is often grouped with socially unacceptable behaviours like discussing income, so you might come across as strange. Also, if you spread EA messages poorly people could get a negative or inaccurate impression of EA, which could cause harm. However, sharing your story can be very powerful, as argued by Peter Hurford in <a target="_blank" href="https://forum.effectivealtruism.org/posts/5d3td2YpuCiE8L7yr/to-inspire-people-to-give-be-public-about-your-giving">in this forum post</a>.
+Sharing your actions and the reasons behind them can be a great way of increasing your impact. It can encourage others to check out causes you mention, to donate, or to get involved in the community. This can be a difficult thing to do sometimes, and it has some risk: Firstly talking about giving is often grouped with socially unacceptable behaviours like discussing income, so you might come across as strange. Also, if you spread EA messages poorly people could get a negative or inaccurate impression of EA, which could cause harm. However, sharing your story can be very powerful, as argued by Peter Hurford in <a target="_blank" href="https://forum.effectivealtruism.org/posts/5d3td2YpuCiE8L7yr/to-inspire-people-to-give-be-public-about-your-giving">in this forum post</a>.
 
 To maximise the chances that your communication of EA goes well, read <a target="_blank" href="/learn/communicate-ea">these tips on talking about EA</a>.  
 
 The <a target="_blank" href="https://eaworkplaceactivism.org/">EA Workplace Activism</a> project provides a handbook for anyone wanting to marshal the resources of their organisation and the enthusiasm of your colleagues to hasten the eradication of extreme poverty. 
+
+<hr>
+
+### [NEXT: Rethink Your Career Path](/take_action/career/)
+
+### [BACK: Donate or Pledge](/take_action/donate/)

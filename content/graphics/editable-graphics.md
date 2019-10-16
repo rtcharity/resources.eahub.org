@@ -1,5 +1,5 @@
 ---
-title: Available Editable Graphics
+title: Available Graphics
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -14,13 +14,13 @@ More editable graphics will be added over time. Please <a target="_blank" href="
 
 # Contents:
 
-1. <a href="#logos">Logos</a>
-2. <a href="#banners">Physical Banners</a>
-3. <a href="#advertising">General Advertising Posters</a>
-4. <a href="#facebookbanners">Facebook and Meetup Banners</a>
-5. <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
-6. <a href="#events">Event Advertising</a>
-7. <a href="#brochures">Brochures and Flyers</a>
+* <a href="#logos">Logos</a>
+* <a href="#banners">Physical Banners</a>
+* <a href="#advertising">General Advertising Posters</a>
+* <a href="#facebookbanners">Facebook and Meetup Banners</a>
+* <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
+* <a href="#events">Event Advertising</a>
+* <a href="#brochures">Brochures and Flyers</a>
 
 <a name="logos"></a>
 # Logos
@@ -76,7 +76,7 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">Editable Gravit File</a>
 
-<a href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">High Res png</a>
+<a href="https://drive.google.com/open?id=15CTRwmglm6V8tinypYYvoOBqL1F8iwPR">High Res png</a>
 
 
 <p class="large_image_wrapper">
@@ -93,7 +93,7 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a href="https://drive.google.com/open?id=1Tj4xuZWvbI06XcK9yq1i4p1SHPgmHogY">Editable Gravit File</a>
 
-<a href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
+<a href="https://drive.google.com/open?id=1-KwNPkxWsgQm5hf9xh3OA5tgTPp3OERj">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/verticalbanner3images2.png" />
@@ -101,8 +101,8 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a href="https://drive.google.com/open?id=16eXa55SAK6iPfcwLvMYA5eqq0DxC_TzX">Editable Gravit File</a>
 
-<a href="https://drive.google.com/open?id=1-KwNPkxWsgQm5hf9xh3OA5tgTPp3OERj">High Res png</a>
 
+<a href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
 
 <a name="advertising"></a>
 # General Advertising Posters
@@ -121,7 +121,7 @@ These were made from Harvard EA Posters.
 <a href="https://drive.google.com/open?id=1X85eNGEmAWAY5MpJ_yg54kZgBUNZzTMr">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
-<img src="/img/globalhealthevent1poster" />
+<img src="/img/globalhealthevent1poster.png" />
 </p>
 
 <a href="https://drive.google.com/open?id=13Di4BEGuk9C-2apg-Mx4Lfq7S8YaiHQ_">Editable Gravit File</a>
@@ -142,7 +142,7 @@ From EA Auckland
 <img src="/img/facebookbanner6images.png" />
 </p>
 
-<a href="https://drive.google.com/open?id=1A8vkvmAiWf_5pMYfl6mcoGGc6alknm8A">Editable Gravit File</a>
+<a href="https://drive.google.com/open?id=1hJwD6gtUWo9FzngHbEPRJGk-R2H93o-w">Editable Gravit File</a>
 
 
 <p class="large_image_wrapper">
@@ -155,6 +155,7 @@ From EA Auckland
 
 For other ideas for facebook banner images, check out this <a target="_blank" href="https://drive.google.com/open?id=1b0iFuwjydeczcuas36wH6cPdnRFQQvC5">selection of banner images</a> from various EA groups around the world. Many groups choose to use a photo of their area or city, and place the EA logo and text over this image. 
 
+<a name="facebookprofiles"></a>
 # Facebook Page Profile Pictures
 
 <p class="large_image_wrapper">
@@ -365,4 +366,20 @@ These are designed to be printed directly onto A4 or Letter Sized paper and then
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
+## Detailed Flyer
+This flyer has a little more information, and is intended for giving out to people after they attend an introductory presentation on EA. The idea is that the flyer contains the main links recommended in the content of the presentation so that people can follow up on the topics that interest them, so we recommend you alter the content to suit. 
 
+
+<p class="large_image_wrapper">
+<img src="/img/EA_detailed_flyer_A4.png" />
+</p>
+
+<a href="https://drive.google.com/open?id=1urCEdjmSQV-A6NiksypUChSqPjumgihn">Detailed Flyer Gravit file (Three on one A4 page)</a>
+
+<a href="https://drive.google.com/open?id=10o857UDTS9Q8QWYdhqGP3Hk-Oy2zv-wb">Detailed Flyer Gravit file (Three on one Letter sized page)</a>
+
+Download the gravit file to make alterations. At least change the group name and details.
+ 
+These are designed to be printed directly onto A4 or Letter Sized paper and then cut without the edges being trimmed. Therefore there will be a white surround to each panel of the flyer. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
+
+Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!

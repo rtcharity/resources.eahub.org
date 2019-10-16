@@ -245,6 +245,7 @@ body {
 
 .error404 {
   text-align: center;
+  height: 75vh;
 }
 
 .f3 p, .f3 li {

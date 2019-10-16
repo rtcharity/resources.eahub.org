@@ -10,7 +10,13 @@ license:
 # Guidance from the Centre for Effective Altruism (CEA)
 Once you have decided you want to start a group, contact the <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#groups-team">groups team at CEA</a>. They are happy to schedule calls with aspiring group organisers to share advice and point them towards resources. You can reach them at <a target=”_blank” href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>. They are the best people to talk to for general group advice. 
 
-The groups team will also add you to the EA Groups newsletter. You can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+
+
+# Groups Newsletter
+CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+
+
+You can also check out the <a target="_blank" href="/tips/support/">Groups Support Page</a> for other people to contact if you need support for particular topics such as running introductory presentations, issues within the group, or running fellowships. 
  
 # Register Your Group
 Register your group on the Effective Altruism Hub <a target="_blank" href="https://eahub.org/groups/">website</a>. The EA Hub hosts the official list of EA groups. 
@@ -44,14 +50,14 @@ Here are some ways to find other groups to ask if they’d be willing to give yo
 
 If you are running a uni group, it’s also a good idea to talk to some organisers of other clubs at your university. They might be able to give you a sense of how to navigate policies, publicise events, and tailor general club-running advice to your university in particular.
 
-# Uni Groups: Register with Your University and Utilise Available Resources
+# Register with Your University and Utilise Available Resources (Uni Groups)
 
 Each university has different requirements around groups. <a target="_blank" href="/start/register-uni/">Read our guide</a> to registering as an official group and how to use the university’s resources.
 # Find Resources
 
 EA Hub resources has an extensive list of resources, compiled by the Local Effective Altruism Network (LEAN), to help you <a target="_blank" href="/tips/">run your group</a> or put on <a target="_blank" href="/events/">events</a>. 
 
-<a name=”website”></a>
+<a name="website"></a>
 # Optional: Get a Website and an EA Email Address
 
 LEAN can host and help create a website for your group. 
@@ -68,11 +74,16 @@ LEAN can also provide email addresses for your group (e.g. info@eamadison.org), 
 
 Contact the LEAN team at <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a> if you are interested in getting websites or email addresses. 
 
-Optional: Apply for Funding
+# Optional: Apply for Funding
 If your group is a registered uni group, you can apply for funding through your Student Association. For funding city groups, or if your uni group needs additional funding, you can apply to CEA. <a target="_blank" href="https://app.effectivealtruism.org/groups/resources/mentorship-and-funding/">Group funding</a> can be used for printing, running events, supplying food at events, travel expenses for speakers, and group projects. CEA also funds Community Building Grants to allow some people to work part or full time on effective altruism community building.
+
 
 Now, fill out the forms, contact the right people, and get started!
 
-### NEXT: 
-### [Uni Groups: How to Register with your University](/start/register-uni)
-### [City Groups: Preparing for your First Event](/start/first-event-city/)
+<hr>
+
+### [NEXT: How to Register with your University (Uni Groups)](/start/register-uni)
+### Or
+### [NEXT: Preparing for your First Event (City Groups)](/start/first-event-city/)
+
+### [BACK: Useful Knowledge](/start/knowledge/)

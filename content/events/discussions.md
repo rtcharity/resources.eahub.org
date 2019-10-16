@@ -1,5 +1,6 @@
 ---
 title: Discussion Groups
+weight: 3
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -10,6 +11,12 @@ license:
 <img src="/img/eventseaf2.jpg" />
 </p>
 
-### Tips on Running a Discussion Group (Coming Soon)
+_Image: EAF_
 
-### [Discussion Group Suggested Content](/events/articles/content/)
+Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! 
+
+### Tips on Running a Discussion Group (Coming Soon)
+This page contains tips on facilitating a interesting and positive discussion.
+
+### [Discussion Group Suggested Content](/events/articles/discussion-content/)
+This page includes plenty of suggested content with questions to get the discussion going.
