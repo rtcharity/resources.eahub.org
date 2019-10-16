@@ -1,5 +1,5 @@
 ---
-title: EA Group Events
+title: Group Events
 weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
