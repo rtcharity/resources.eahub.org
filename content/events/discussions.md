@@ -20,4 +20,4 @@ Tips on how to have an enjoyable and stimulating group discussion.
 
 ## [Content for Discussion Groups](/events/articles/content/)
 
-This page contains suggested reading and questions for many discussion group topics.
+This page contains suggested readings and questions for many discussion group topics.
