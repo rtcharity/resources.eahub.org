@@ -7,15 +7,15 @@ license:
 ---
 ### _Published 24th September 2019_
 
-This page contains suggested reading and questions for many discussion group topics. 
+This page contains suggested reading and questions for many EA related topics. 
 
 # Introduction to EA
 
 **Reading Group Guide - Doing Good Better**
 
-This post includes a sample discussion guide for reading William McAskill's Book <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">Doing Good Better"</a>. 
+This post includes a sample discussion guide for reading William McAskill's book <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">"Doing Good Better"</a>. 
 
-<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">Reading Group Guide</a> [Source: EA Estonia]
+<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">Doing Good Better Reading Group Guide</a> [Source: EA Estonia]
 
 
 **Packing the Toolbox**
