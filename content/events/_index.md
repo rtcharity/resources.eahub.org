@@ -1,5 +1,5 @@
 ---
-title: Group Events
+title: Events
 weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
@@ -14,10 +14,10 @@ _Image: EAF_
 
 # _These pages are a work in progress. We will be adding many more resources for running events in the coming months._
 
-### Types of Events (Coming Soon)
+### Types of Events - Coming Soon
 This page will have an overview of the types of EA events your group could run, and suggestions on which events would suit your group.
 
-### Guide to Running an Event (Coming Soon)
+### Guide to Running an Event - Coming Soon
 This page will have information on how to plan events, and tips to ensure your event goes well.
 
 ### [Discussion Groups](/events/discussions/)
@@ -26,11 +26,11 @@ This page will have an overview of the types of EA events your group could run, 
 ### [Introductory Presentations](/events/intro/)
 These workshops and presentations are designed for audiences that are unfamiliar with effective altruism. They could be used for newcomers events, or for presenting to non-EA groups.
 
-### Intermediate Workshops (Coming Soon)
+### Intermediate Workshops - Coming Soon
 These workshops are designed for audiences that are familiar with effective altruism, but haven’t necessarily read a lot about EA concepts and cause areas.
 
 
-### Clubs Fairs and Tabling - Uni Groups (Coming Soon)
+### Clubs Fairs and Tabling (Uni Groups) - Coming Soon
 The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orientation) is the annual or bi-annual student extracurricular fair most Universities host at the beginning of the term. This is an excellent opportunity to find new people (especially first-years) to get involved in your EA group.
 
 
@@ -38,8 +38,8 @@ The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orie
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
 
 
-### Social Events (Coming Soon)
+### Social Events - Coming Soon
 
-### Retreats and Conferences (Coming Soon)
+### Retreats and Conferences - Coming Soon)
 
 ### [Graphics for Advertising Your Events](/graphics/)
