@@ -1,5 +1,5 @@
 ---
-title: Discussion Tips
+title: Tips for Running Discussion Groups
 date: 2019-10-17T02:22:37.883Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
