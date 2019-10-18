@@ -9,6 +9,18 @@ license:
 
 This page contains suggested reading and questions for many EA related topics. 
 
+# Content:
+* <a href="#intro">Introduction to EA</a>
+* <a href="#poverty">Global Health and Poverty</a>
+* <a href="#animals">Animals</a>
+* <a href="#aisafety">AI Safety</a>
+* <a href="#catrisks">Catastrophic Risks and Far Future</a>
+* <a href="#careers">Careers</a>
+* <a href="#meta">Meta</a>
+
+
+<a name="intro"></a>
+
 # Introduction to EA
 
 **Reading Group Guide - Doing Good Better**
@@ -30,6 +42,7 @@ This is used as week 2 of Harvard’s Arete Fellowship. There is more reading re
 
 <a target="_blank" href="https://docs.google.com/document/d/1Uk0cssQojKl7KFuA0wFgYwVJl3qeLHDUx9e0oIo3Z28/">Worksheet</a> [Source: Harvard Arete Fellowship]
 
+<a name="poverty"></a>
 
 # Global Health and Poverty
 
@@ -56,6 +69,8 @@ This worksheet introduces the concept of UBI and asks participants to consider p
 This is used as week 4 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
 
 <a target="_blank" href="https://docs.google.com/document/d/18rKfB6InZrA-V3BGukaG8-G3WSpfYTcPZlKWY6n84MM/">Worksheet</a> [Source: Harvard Arete Fellowship]
+
+<a name="animals"></a>
 
 # Animals
 **Animal Welfare - Who Matters?**
@@ -95,6 +110,8 @@ Prewatching - two videos by plant-based and clean meat advocates. These two pres
 
 Things to note: If some of your group eat meat, and some think it is morally obligatory to be a vegan or vegetarian there might be some tension! It is best to move the conversation away from the morality of individual consumption habits, towards how we might be able to shift society away from animal agriculture. [Source: EA Christchurch]
 
+<a name="aisafety"></a>
+
 # AI Safety
 
 **AI Safety - Introductory**
@@ -114,6 +131,8 @@ Suited for groups already familiar with AI safety issues. Discussion questions t
 This worksheet asks participants to brainstorm and discuss possible risks, preparations and actions we could take in the face of HLMI (high-level machine intelligence), presuming three different timeline scenarios - whether the technology could be available as soon as this generation, next, or by the end of the century.
 
 <a target="_blank" href="https://docs.google.com/document/d/1K4aRcpdx6DYnS09So7Gn03jtQiBM47GQoHIjNBBJxDs/">Worksheet</a> [Source: EA South Bay]
+
+<a name="catrisks"></a>
 
 # Catastrophic Risks in General
 
@@ -135,6 +154,8 @@ This is used as week 6 of Harvard’s Arete Fellowship. There is much more readi
 
 <a target="_blank" href="https://docs.google.com/document/d/1bvJWOGBhZEEy5h4HFudLVxbhJmpixMYjXPGu4CogzfY/">Worksheet</a> [Source: Harvard Arete Fellowship]
 
+<a name="careers"></a>
+
 # Careers
 **Careers: Dream Job (Intro Level)**
 
@@ -154,6 +175,7 @@ This is used as week 3 of Harvard’s Arete Fellowship. There is much more readi
 
 <a target="_blank" href="https://docs.google.com/document/d/1xfTsRhy6e1Qn2DLHS4Q2BJAc-UfPkgJa1oOEyFM9kWU/">Worksheet</a> [Source: Harvard Arete Fellowship]
 
+<a name="meta"></a>
 
 # Meta
 
