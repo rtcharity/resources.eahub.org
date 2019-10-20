@@ -7,7 +7,9 @@ license:
 ---
 ### _Published 17th October 2019_
 
-_Contributions were made by the LEAN team,_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia,_</a> <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>_, and _<a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>. 
+_Ideas from the LEAN team, <a target="_blank" href="">EA Estonia</a>, <a target="_blank" href="">Yale EA</a>, and <a target="_blank" href="">CEA</a>._ 
+
+_Contributions were made by the LEAN team, <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>_, _<a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>_, and _<a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>._ 
 
 
 # Possible goals for discussion groups
@@ -64,7 +66,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 
 * Start with providing drinks or snacks if you have them, and welcoming people. 
 * Unless you all know each other well, use name tags to make it easier to refer to each other, get everyone to introduce themselves and consider a small icebreaker exercise. 
-* Have the facilitator set a few brief guidelines for the discussion, especially if there are a few new people.
+* Have the facilitator set a few brief guidelines for the discussion, especially if there are a few new people.
 * Have the facilitator introduce the topic for ~2 minutes, or if reading was completed in advance, ask some members to summarise the reading briefly.
 * Read or view the material if it wasn’t assigned as pre-reading.
 * Allow people to spend ~5 minutes looking over and thinking about the discussion sheet questions.
@@ -91,15 +93,14 @@ When there are new people, or people don't know each other well, ask people to i
 
 ## General guidelines
 
-Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of don’ts.
+Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of don’ts. Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously. 
 
-Here are the suggestions from one group (EA Christchurch):
+Here are the suggestions from one group:
 
-* One of our aims here is to learn new information and new perspectives. So the idea is to maintain an open mind - go into discussions with the assumption that you will learn something valuable from each person in this room, so give everyone space to share their perspectives. 
+* Go into discussions with the assumption that you will learn something valuable from each person in this room, so give everyone space to share their perspectives, and listen attentively. 
 * If you disagree with an idea, aim to understand the other person’s position clearly by asking clarifying questions, or restating the other person’s position, before explaining your alternative point of view.
 * If you agree, or have learnt something from someone, say so. 
-* Be patient with each other. It sometimes takes a while to organise thoughts and responses.
-* And of course, be kind to each other. We may have different perspectives and beliefs but we all have shared goals. 
+* And of course, be patient and kind with each other. It sometimes takes a while to organise thoughts and responses, and while we may have  different perspectives and beliefs, we all have shared goals. 
 
 If there are more than 6 or so people in the group, it might be worth suggesting the group uses hands-up to signal they wish to talk. Just raising your hand a little until the facilitator catches your eye is enough, so this doesn't need to be intrusive.  
 
