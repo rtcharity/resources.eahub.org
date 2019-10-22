@@ -12,7 +12,7 @@
           <h5>{{ $category.Title }}</h5>
         </a>
         {{ if $category.Paginator.Pages }}
-          {{ if in $category.URL $currentSection }}
+          {{ if and (in $category.URL $currentSection) (not (eq $currentSection "")) }}
           <span class="site-menu-item-toggle caret caret-up" data-target="site-menu-sections-{{$indexCategory}}" />
           {{ else }}
           <span class="site-menu-item-toggle caret" data-target="site-menu-sections-{{$indexCategory}}" />
