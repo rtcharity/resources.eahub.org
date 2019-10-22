@@ -641,6 +641,10 @@ h3 {
   margin-bottom: 10px;
 }
 
+.site-menu-category .selected {
+  font-weight: bold;
+}
+
 .site-menu-heading {
   display: flex;
   align-items: flex-start;

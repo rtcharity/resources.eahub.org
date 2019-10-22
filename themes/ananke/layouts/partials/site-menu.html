@@ -1,6 +1,7 @@
 <div class="site-menu site-menu-desktop">
 
 {{ $currentSection := .Section }}
+{{ $currentURL := .Permalink }}
   <h4>MENU</h4>
   <ul>
 
@@ -9,7 +10,11 @@
     <li class="site-menu-category">
       <div class="site-menu-heading">
         <a href={{ $category.URL }}>
+          {{ if and (in $category.URL $currentSection) (not (eq $currentSection "")) }}
+          <h5 class="selected">{{ $category.Title }}</h5>
+          {{ else }}
           <h5>{{ $category.Title }}</h5>
+          {{ end }}
         </a>
         {{ if $category.Paginator.Pages }}
           {{ if and (in $category.URL $currentSection) (not (eq $currentSection "")) }}
@@ -28,8 +33,12 @@
             {{ if not (in .URL "/article")  }}
             <li>
               <div class="site-menu-heading">
+              {{ if in $currentURL $section.URL }}
+                <a href="{{ .URL }}" class="selected">
+              {{ else }}
                 <a href="{{ .URL }}">
-                  {{ $section.Title }}
+              {{ end }}
+                {{ $section.Title }}
                 </a>
               </div>
             </li>
