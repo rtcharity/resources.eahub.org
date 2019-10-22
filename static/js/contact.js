@@ -5,7 +5,8 @@ function submitForm() {
   var updatedForm = "form-name=" + form.attr('name') + "&" + form.serialize();
 
   $.ajax({
-    url: "https://confident-minsky-f713d6.netlify.com/contact/",
+    //URL of netlify page resources.eahub.org is redirected to
+    url: "https://elated-khorana-9gb345.netlify.com/contact/",
     method: "POST",
     headers: {
         "content-type": "application/x-www-form-urlencoded"
