@@ -210,16 +210,32 @@ body {
   text-align: left;
 }
 
-.contact_form_submit {
+.contact_btn_wrapper {
+  text-align: right;
+}
+
+.contact_btn_wrapper button {
   background-color: #635274;
   border: none;
-  float: right;
   color: white;
   padding: 10px 10px 10px 10px;
 }
 
-.contact_success {
-  font-weight: 600;
+#contact-error {
+  background-color: #E4F5B1;
+  color: black;
+  font-weight: normal;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+#contact-success {
+  background-color: #A7DBAB;
+  border: none;
+  color: black;
+  font-weight: normal;
+  margin-top: 20px;
+  padding: 10px;
 }
 
 .contact_title {
@@ -229,6 +245,7 @@ body {
 
 .content {
   background-color: #fff;
+  min-height: 85vh;
   overflow: hidden;
   padding-bottom: 50px;
   padding-left: 10px;

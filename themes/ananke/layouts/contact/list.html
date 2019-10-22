@@ -14,9 +14,18 @@
       <input name="last_name" placeholder="Your last name" class="contact_form_field">
       <input name="email" placeholder="Your email" class="contact_form_field">
       <textarea name="body" placeholder="Your message" class="contact_form_body"></textarea>
-      <button type="button" class="contact_form_submit" onclick="submitForm(); return false;">Submit</button>
+      <div class="contact_btn_wrapper">
+        <button type="button" onclick="submitForm(); return false;">Submit</button>
+      </div>
     </form>
+    <div id="contact-error" style="display: none">
+      Sorry, something went wrong
+    </div>
+    <div id="contact-success" style="display: none">
+      Thanks, we have received your message
+    </div>
   </article>
+
 </div>
 <script
   src="https://code.jquery.com/jquery-3.4.1.min.js"
