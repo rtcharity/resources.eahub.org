@@ -9,13 +9,34 @@
     <h2 class="contact_title">
     Send us a message
     </h2>
-    <form name="lean-form" method="POST" data-netlify="true" class="contact_form">
+    <form id="form" name="lean-form" method="POST" data-netlify="true" class="contact_form">
       <input name="first_name" placeholder="Your first name" class="contact_form_field">
       <input name="last_name" placeholder="Your last name" class="contact_form_field">
       <input name="email" placeholder="Your email" class="contact_form_field">
       <textarea name="body" placeholder="Your message" class="contact_form_body"></textarea>
-      <button type="submit" class="contact_form_submit">Submit</button>
+      <button type="button" class="contact_form_submit" onclick="submitForm(); return false;">Submit</button>
     </form>
   </article>
 </div>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous">
+</script>
+<script>
+function submitForm() {
+  var form = $('#form');
+  $.ajax({
+    url: "https://elated-khorana-9gb345.netlify.com/contact-lean/",
+    method: "POST",
+    headers: {
+        "content-type": "application/x-www-form-urlencoded",
+        "Upgrade-Insecure-Requests": 1
+    },
+    body: form.serialize()
+  });
+}
+</script>
+
+
 {{ end }}
