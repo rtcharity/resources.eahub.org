@@ -1,6 +1,9 @@
 <div class="site-menu site-menu-desktop">
+
+{{ $currentSection := .Section }}
   <h4>MENU</h4>
   <ul>
+
   {{ range $indexCategory, $category :=  .Site.Sections.ByWeight }}
     {{ if ne $category.Params.drop_down false }}
     <li class="site-menu-category">
@@ -9,10 +12,18 @@
           <h5>{{ $category.Title }}</h5>
         </a>
         {{ if $category.Paginator.Pages }}
-        <span class="site-menu-item-toggle caret" data-target="site-menu-sections-{{$indexCategory}}" />
+          {{ if in $category.URL $currentSection }}
+          <span class="site-menu-item-toggle caret caret-up" data-target="site-menu-sections-{{$indexCategory}}" />
+          {{ else }}
+          <span class="site-menu-item-toggle caret" data-target="site-menu-sections-{{$indexCategory}}" />
+          {{ end }}
         {{ end }}
       </div>
+      {{ if and (in $category.URL $currentSection) (not (eq $currentSection "")) }}
+      <ul class="site-menu-sections" id="site-menu-sections-{{$indexCategory}}" style="display: block">
+      {{ else }}
       <ul class="site-menu-sections" id="site-menu-sections-{{$indexCategory}}" style="display: none">
+        {{ end }}
           {{ range $section := $category.Pages.ByWeight }}
             {{ if not (in .URL "/article")  }}
             <li>

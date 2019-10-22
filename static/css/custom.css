@@ -627,6 +627,10 @@ h3 {
   margin-left: 5px;
 }
 
+.site-menu .caret-up {
+  transform: rotate(180deg)
+}
+
 .site-menu .caret:hover {
   cursor: pointer;
 }

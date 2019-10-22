@@ -6,6 +6,10 @@ for (var i=0; i < siteMenuItemToggles.length; i++) {
   siteMenuItemToggle.addEventListener('click', function() {
     const list = document.getElementById(target);
     list.style.display = list.style.display == 'none' ? 'block' : 'none';
-    siteMenuItemToggle.style.transform = siteMenuItemToggle.style.transform == 'rotate(180deg)' ? '' : 'rotate(180deg)';
+    if (siteMenuItemToggle.classList.contains('caret-up')) {
+      siteMenuItemToggle.classList.remove('caret-up');
+    } else {
+      siteMenuItemToggle.classList.add('caret-up');
+    }
   })
 }
