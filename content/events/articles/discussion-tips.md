@@ -7,7 +7,9 @@ license:
 ---
 ### _Published 17th October 2019_
 
-_Ideas for this page came from the LEAN team,_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>, _and_ <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>. 
+_Ideas from the LEAN team, <a target="_blank" href="">EA Estonia</a>, <a target="_blank" href="">Yale EA</a>, and <a target="_blank" href="">CEA</a>._ 
+
+_Contributions were made by the LEAN team, <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>_, _<a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>_, and _<a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>._ 
 
 
 # Possible goals for discussion groups
@@ -149,6 +151,7 @@ Summarise and evaluate.
 
 This list is a bit long, and have too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
 
+* Give the person you're interacting with your complete, genuine, interested attention. A great suggestion of how to do that is described by Spencer Greenberg <a target=_"blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">here</a>. 
 * Most people want to be perceived as intelligent, so interact with people in ways that allow others to perceive the person as intelligent (or at least not unintelligent).
 * Be polite, avoid interrupting others.
 * Maintain an open mind - make the assumption that you will learn something from each other person.
