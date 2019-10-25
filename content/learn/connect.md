@@ -108,7 +108,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/1095037267174400/">Education</a>
 * <a target="_blank" href="https://www.facebook.com/groups/191773064533511/">Tech</a>
 
-## Affiliations and Identities
+## Affiliations and Identities
 
 * <a target="_blank" href="https://www.facebook.com/groups/eaforchristians/">Christians</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1520172064903930/">Libertarians</a>
