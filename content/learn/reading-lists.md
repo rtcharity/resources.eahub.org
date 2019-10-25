@@ -13,8 +13,7 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 # Cause Areas:
 
 * <a target="_blank" href="https://docs.google.com/document/d/1cecBfierFprRdkhbbRjRdD8ujdNpDR2LOQtS8dzMC1M/edit#">Global Health and Development</a>
-* <a target="_blank" href="https://docs.google.com/document/d/1-mfbLjFY3QLJYdS_RYxKlBYBPIv2tYDYBIqYbX9pM_8/edit#">Farmed Animal Welfare</a>
-* <a target="_blank" href="https://docs.google.com/document/d/1LVCj4omt-bceh26U5nj8q1Mv_3-lcNbirieYLCGLZCM/edit#">Wild Animal Welfare</a>
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/aSBcRu4h2qH5sRypQ/effective-animal-advocacy-resources">Effective Animal Advocacy</a> (link to Saulius Šimčikas' list)
 * <a target="_blank" href="https://docs.google.com/document/d/1uGA8lPjPXSkuSdrFGubDVbDBO2Yfke8uijsN1_vfsVY/edit#">Climate Change</a>
 * <a target="_blank" href="https://docs.google.com/document/d/15v2uWwsKfSBdAolqrr0dPOQUDUCrwVULQZHVmhSj2-Q/edit#">AI Safety</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1xSuVG9vMiR6okYiSvc-jW1hsdlp5HxiLO7RIKyEr_LU/edit">Nuclear Security</a>
@@ -30,7 +29,7 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 * <a target="_blank" href="https://drive.google.com/open?id=1orfPyWps4bgPmEbZpPxChwy4_7tGTmVNpjHB51c4NPc">Longtermism</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1S8wtezuQTC0YIYdefWSiA-yJefVL8nP1mH1D2IPYTBE/edit#heading=h.avbpqexvhea">Criticisms of EA</a>
 
-These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwalla, Jamie Harris and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact-lean/">contact us</a>. 
+These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwalla, Saulius Šimčikas and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact-lean/">contact us</a>. 
 
 # Other reading lists:
 * The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more. Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format. 
