@@ -66,7 +66,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://conceptually.org/concepts/counterfactual-thinking">Counterfactual Reasoning</a> - Comparing the expected outcome of an action that was taken to what would have happened in an alternative situation where the action was not taken. 
 
-<a target="_blank" href="https://conceptually.org/concepts/signalling-and-countersignalling">Counter-signalling</a> - A type of signalling behaviour that displays a certain trait by acting in a contradictory manner. For example, being rich enough that displaying your wealth becomes unnecessary because people already know you can afford to, or being good enough friends that you can make disparaging comments confidently aware that the friend knows you are joking. 
+<a target="_blank" href="https://conceptually.org/concepts/signalling-and-countersignalling">Counter-signalling</a> - A type of [signalling](#signalling) behaviour that displays a certain trait by acting in a contradictory manner. For example, being rich enough that displaying your wealth becomes unnecessary because people already know you can afford to, or being good enough friends that you can make disparaging comments confidently aware that the friend knows you are joking. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/credences/">Credence(s)</a> - Degree of confidence or probability that a given proposition is true..
 
@@ -282,6 +282,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Sentience">Sentience</a> - The capacity to feel, perceive or experience.
 
+<a name="signalling"></a>
 <a target="_blank" href="https://conceptually.org/concepts/signalling-and-countersignalling">Signalling</a> - Actions that convey information about one person to another. Potential employees might signal to would-be employers, via money and time spent on higher education, their commitment and work ethic. Setting aside 10% of your yearly income for highly-effective giving can signal to others a person’s altruistic values. 
 
 <a target="_blank" href="https://conceptually.org/concepts/of-strawmen-and-steelwomen">Strawman/Steelman - A strawman is a version of an argument that is unnecessarily and deliberately weakened in order to be easily defeated. A steelman is charitably assuming the strongest version of an argument (whether it was presented that strongly or not) so as to engage in a more fruitful debate. 
