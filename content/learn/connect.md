@@ -100,7 +100,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/798404410293244/">Academia</a> (general)
 * <a target="_blank" href="https://www.facebook.com/groups/1696670373923332/">Artists and Designers</a>
 * <a target="_blank" href="https://www.facebook.com/groups/biologistsineffectivealtruism/">Biologists</a>
-* <a target="_blank" href=""https://www.facebook.com/groups/706709786095975/>Data Scientists</a>
+* <a target="_blank" href="https://www.facebook.com/groups/706709786095975/">Data Scientists</a>
 * <a target="_blank" href="https://www.facebook.com/groups/economicsofdoinggood/">Economics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/ea.entrepreneurship/">Entrepreneurs</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1067597556684941/">Operations</a>
@@ -108,13 +108,14 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/1095037267174400/">Education</a>
 * <a target="_blank" href="https://www.facebook.com/groups/191773064533511/">Tech</a>
 
-## Affiliations
+## Affiliations and Identities
 
 * <a target="_blank" href="https://www.facebook.com/groups/eaforchristians/">Christians</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1520172064903930/">Libertarians</a>
 * <a target="_blank" href="https://www.facebook.com/groups/eaparents/">Parents</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1521136334570384/">Politics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women & Non-binary</a>
+* <a target="_blank" href="https://www.facebook.com/groups/LGBTinEA/">LGBTQIA+ people and allies</a>
 
 ## Other
 
