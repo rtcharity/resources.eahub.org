@@ -6,6 +6,9 @@ license:
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
 ### _Published 25th September 2019_
+
+This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
+
 # Local Groups
 In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a> and keep up to date with EA related research.  
 
@@ -13,7 +16,7 @@ Check out the <a target="_blank" href="http://eahub.com/groups/">EA Hub Groups L
 
 # Websites
 Add your details to the <a target="_blank" href="https://eahub.org/profiles/">map of EAs on the EA hub</a>, and check out other profiles from around the world.
-# Forum
+# EA Forum
 The <a target="_blank" href="http://forum.effectivealtruism.org">Effective Altruism Forum</a> contains in-depth posts, articles and questions on EA cause areas. You can get a nuanced understanding of specific cause areas, and see the latest research being done in the community by EA organisations and community members. 
 # Conferences
 If you’re able to travel, consider applying to attend an <a target="_blank" href="https://www.eaglobal.org/">EAGx or EA Global</a> conference, which are the main international conferences for the EA community.
