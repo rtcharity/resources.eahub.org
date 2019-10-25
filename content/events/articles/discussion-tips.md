@@ -7,7 +7,9 @@ license:
 ---
 ### _Published 17th October 2019_
 
-_Contributions were made by the LEAN team,_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>, _and_ <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>. 
+_Ideas from the LEAN team, <a target="_blank" href="">EA Estonia</a>, <a target="_blank" href="">Yale EA</a>, and <a target="_blank" href="">CEA</a>._ 
+
+_Contributions were made by the LEAN team, <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>_, _<a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>_, and _<a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>._ 
 
 
 # Possible goals for discussion groups
@@ -22,7 +24,7 @@ Different groups and individuals will have different goals for discussion groups
 
 Guidelines for planning events are coming soon. The following is specific to planning discussion groups. 
 
-
+<a name="choosing"></a>
 ## Choosing readings and questions: 
 
 * There are many <a target="_blank" href="">examples of readings and discussion questions</a> to help you out with this. 
@@ -35,7 +37,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 ## Consider making hand out sheets: 
 
 * This is useful if you want to get through several questions or if you wish to have more structure.
-* Handouts could include a summary of the topic (or of the assigned material) and a list of questions to help frame the conversation. There are <a target="_blank" href="/graphics/editable-graphics/">handouts on several topics</a> already created that you can modify to suit your group.
+* Handouts could include a summary of the topic (or of the assigned material) and a list of questions to help frame the conversation. There are <a target="_blank" href="">handouts on several topics</a> already created that you can modify to suit your group.
 
 ## Marketing:
 
@@ -87,6 +89,9 @@ When there are new people, or people don't know each other well, ask people to i
 * If you could have one superpower, what would it be?
 
 
+
+<a name="guidelines"></a>
+
 # Guidelines for the discussion:
 
 ## General guidelines
@@ -120,7 +125,6 @@ Julia Wise from CEA has the following suggestion for facilitators and organisers
 
 This role shouldn’t dominate the discussion, but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
 
-* Give the person you’re interacting with your complete, genuine, interested attention. Spencer Greenberg has some great advice on how to do this <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">here</a>. 
 * Model good communication norms, as groups often follow the lead of the moderator. 
 * Keep comments to at most 3 minutes
 * Try to keep back-and-forths to at most 2 iterations (so person A, person B, person A, person B, then move on to someone new)
