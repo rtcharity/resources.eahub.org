@@ -13,7 +13,8 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 # Cause Areas:
 
 * <a target="_blank" href="https://docs.google.com/document/d/1cecBfierFprRdkhbbRjRdD8ujdNpDR2LOQtS8dzMC1M/edit#">Global Health and Development</a>
-* <a target="_blank" href="https://forum.effectivealtruism.org/posts/aSBcRu4h2qH5sRypQ/effective-animal-advocacy-resources">Effective Animal Advocacy</a> (link to Saulius Šimčikas' list)
+* <a target="_blank" href="https://docs.google.com/document/d/1-mfbLjFY3QLJYdS_RYxKlBYBPIv2tYDYBIqYbX9pM_8/edit#">Farmed Animal Advocacy</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1LVCj4omt-bceh26U5nj8q1Mv_3-lcNbirieYLCGLZCM/edit#">Wild Animals</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1uGA8lPjPXSkuSdrFGubDVbDBO2Yfke8uijsN1_vfsVY/edit#">Climate Change</a>
 * <a target="_blank" href="https://docs.google.com/document/d/15v2uWwsKfSBdAolqrr0dPOQUDUCrwVULQZHVmhSj2-Q/edit#">AI Safety</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1xSuVG9vMiR6okYiSvc-jW1hsdlp5HxiLO7RIKyEr_LU/edit">Nuclear Security</a>
