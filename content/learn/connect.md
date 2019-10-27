@@ -116,6 +116,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/1521136334570384/">Politics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women & Non-binary</a>
 * <a target="_blank" href="https://www.facebook.com/groups/LGBTinEA/">LGBTQIA+ people and allies</a>
+* <a target="_blank" href="https://www.facebook.com/groups/487263712002225/">Non-white ethnicity or race</a>
 
 ## Other
 
