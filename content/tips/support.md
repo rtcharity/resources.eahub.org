@@ -100,6 +100,12 @@ Frankie Anderson-Wood - Yale EA:
 ">frankie.wood123@gmail.com
 </a> 
 
+
+Kuhan Jeyapragasan - Stanford EA:
+ <a target="_blank" href="mailto:kuhanj@stanford.edu
+">kuhanj@stanford.edu
+</a> 
+
 ### Regional Support:
 
 Australia and New Zealand -
