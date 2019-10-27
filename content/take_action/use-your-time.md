@@ -8,6 +8,7 @@ license:
 <p class="large_image_wrapper">
 <img src="/img/takeactioneanz.png" />
 </p>
+
 _Image: EA New Zealand_
 
 ### _Published 21st September 2019_
