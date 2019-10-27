@@ -9,6 +9,8 @@ license:
 <img src="/img/takeactioneanz.png" />
 </p>
 
+_Image: EA New Zealand_
+
 ### _Published 21st September 2019_
 
 # Volunteer
