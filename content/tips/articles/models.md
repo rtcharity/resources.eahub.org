@@ -1,5 +1,5 @@
 ---
-title: Models
+title: Models of Movement Building
 date: 2019-09-22T10:21:54.322Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
@@ -20,7 +20,7 @@ Building a strong effective altruism community could have an extraordinarily lar
 * CEA’s <a target="_blank_" href="https://www.centreforeffectivealtruism.org/a-three-factor-model-of-community-building">Three-Factor Model of Community Building</a> frames people’s impact in terms of 
     * Resources: The scale of the resources (money, skills, etc.) they have to offer
     * Dedication: The proportion of those resources that they devote to helping
-    * Realization: How efficiently those resources devoted to helping are actually used
+    * Realisation: How efficiently those resources devoted to helping are actually used
 
 A group aiming to have a high impact could set goals to help their members increase their impact in one or more of these areas. The same model can also be applied to an EA group
 
