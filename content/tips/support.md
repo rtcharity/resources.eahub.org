@@ -27,7 +27,7 @@ Here are some ways to find other groups to ask if they’d be willing to give yo
 
 If you are running a uni group, it’s also a good idea to talk to some organisers of other clubs at your university. They might be able to give you a sense of how to navigate policies, publicise events, and tailor general club-running advice to your university in particular.
 
-# How to get Funding for your Group
+# How to Get Funding for your Group
 
 If your group is a registered uni group, you can apply for funding through your Student Association. 
 
@@ -35,7 +35,7 @@ For funding city groups, or if your uni group needs additional funding, you can 
 
 CEA also funds <a target="_blank" href="https://www.effectivealtruism.org/community-building-grants/">Community Building Grants</a> to allow some people to work part or full- time on effective altruism community building.
 
-# People Who can Advise You
+# People Who Can Advise You
 
 ## General
 
