@@ -20,12 +20,12 @@ Different groups and individuals will have different goals for discussion groups
 * Promoting the importance of critical thinking and knowing how to change your mind
 * Enjoyment and community.
 
-# Planning:
+# Planning
 
 Guidelines for planning events are coming soon. The following is specific to planning discussion groups. 
 
 <a name="choosing"></a>
-## Choosing readings and questions: 
+## Choosing readings and questions 
 
 * There are many <a target="_blank" href="">examples of readings and discussion questions</a> to help you out with this. 
 * Some people are happy to read/watch the material in advance, but if your text is short consider doing the reading/viewing/listening at the event, rather than as preparation.
@@ -34,7 +34,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * Go through the content thoroughly and come up with relevant questions to start the group off with. It is often useful to have a factual question or at the start (e.g. asking people what the key points are), before spending the bulk of the time on more interesting questions such as asking people why they disagree or agree with a point, or how this information should affect how we act. It is important to treat these questions as a guideline or starting point, but it is worth sometimes allowing the discussion to go on useful tangents, and asking others in the group for questions they’d like to discuss.
 * A number of people in the community have reported that they’ve felt alienated by some discussions, and for some people this has reduced their involvement in the community. For example, discussions about groups who are underrepresented (either in EA or in the wider community) can be particularly alienating to members of that group, or to people who have loved ones in that group. Therefore, think carefully before assigning readings and questions that could be overly controversial or personal, considering whether the possible benefits outweigh the possible risks of the discussion. Many discussions that have the potential to be alienating are also not particularly useful for working out how to effectively improve the world, so in these cases it might be better to choose another topic.
 
-## Consider making hand out sheets: 
+## Consider making hand out sheets
 
 * This is useful if you want to get through several questions or if you wish to have more structure.
 * Handouts could include a summary of the topic (or of the assigned material) and a list of questions to help frame the conversation. There are <a target="_blank" href="">handouts on several topics</a> already created that you can modify to suit your group.
@@ -45,12 +45,12 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * If you are assigning pre-reading, make it clear whether or not people should come if they don’t get a chance to read in advance. If the event will be useful for attendees who haven’t done the reading, then it is best to encourage people to come whether or not they have done the reading, and have the first question asking for a summary of the reading to get people up to speed. This also makes the event more welcoming to newcomers.
 * Some groups may wish to organise smaller, more intense reading groups, where you do expect the reading to be completed in advance. This could be particularly useful if you have a small group of people wanting to work through a particular book or subject area together. If you choose to organise discussion groups like this it might be best to publicise that you are planning to start a regular discussion group on a certain topic/series of topics to see who is interested, but make each individual event private. 
 
-## Group size: 
+## Group size
 
 * An ideal group size is 5 to 8 members - allowing for rich discussion, several different points of view, but also isn’t so large that people struggle to contribute their voice. 
 * If your group is larger, split into a few groups and at the end you could have each group report back with any takeaways from the discussion. 
 
-## Pick a facilitator:
+## Pick a facilitator
 
 * There should be one person to facilitate the discussion for each meeting. That person should be willing to model friendly, constructive discussions and be willing to redirect the discussion if one or more people dominate, head off on an unhelpful tangent or act in ways that may be off putting to others in the group. 
 * Ideally the facilitator is well-prepared with notes, possible discussion questions and comments.
@@ -60,7 +60,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 
 * Think about a reasonable length for a discussion, and decide when the finish time is. After that time people may wish to hang around for drinks or more casual chats. 
 
-# What happens at the event:
+# What happens at the event
 
 ## Overview
 
@@ -92,7 +92,7 @@ When there are new people, or people don't know each other well, ask people to i
 
 <a name="guidelines"></a>
 
-# Guidelines for the discussion:
+# Guidelines for the discussion
 
 ## General guidelines
 
@@ -180,6 +180,6 @@ You could ask how much the members enjoy the events, how much they learned, how 
 Regularly ask participants for suggestions from the group for future topics.
 
 
-# More reading:
+# More reading
 
 * Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> which were used to make this page. 
