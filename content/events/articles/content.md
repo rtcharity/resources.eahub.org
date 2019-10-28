@@ -9,7 +9,7 @@ license:
 
 This page contains suggested reading and questions for many EA related topics. 
 
-# Content:
+# Contents
 * <a href="#intro">Introduction to EA</a>
 * <a href="#poverty">Global Health and Poverty</a>
 * <a href="#animals">Animals</a>
