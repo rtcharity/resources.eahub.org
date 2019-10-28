@@ -31,9 +31,9 @@ Tips on gaining leadership skills and how to organise your group.
 ## Publicity - Coming Soon
 There’s no point in running great events and projects if
 
-## Community Health - Coming Soon
+## [Community Health](/tips/community-health)
 
-This will have suggestions and readings about establishing a positive and welcoming group.
+This page has suggestions and readings about establishing a positive and welcoming group.
 
 ## [One-on-Ones](/tips/one-on-ones/)
 Tips for group organisers meeting new and current members of the EA community to have one-on-one conversations.
