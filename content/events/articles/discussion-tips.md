@@ -11,7 +11,20 @@ license:
 
 _Contributions were made by the LEAN team,_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>, _and_ <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>.
 
-# Possible goals for discussion groups
+# Contents
+
+* <a href="#goals">Goals</a>
+* <a href="#planning">Planning</a>
+* <a href="#at-the-event">What happens at the event</a>
+* <a href="#guidelines">Guidelines for the discussion</a>
+* <a href="#tips">Tips for the facilitator</a>
+* <a href="#further-info">Further information about productive reading and discussion</a>
+* <a href="#follow-up">Follow up</a>
+* <a href="#more-reading">More reading</a>
+
+
+<a name="goals"></a>
+# Goals
 Different groups and individuals will have different goals for discussion groups, and it may be worth clarifying your group's goals to help ensure you meet these goals. 
 
 * Exchange ideas, deepen learning and inspire action towards doing the most good. 
@@ -19,6 +32,7 @@ Different groups and individuals will have different goals for discussion groups
 * Promoting the importance of critical thinking and knowing how to change your mind
 * Enjoyment and community.
 
+<a name="planning"></a>
 # Planning
 
 Guidelines for planning events are coming soon. The following is specific to planning discussion groups. 
@@ -59,6 +73,8 @@ Guidelines for planning events are coming soon. The following is specific to pla
 
 * Think about a reasonable length for a discussion, and decide when the finish time is. After that time people may wish to hang around for drinks or more casual chats. 
 
+
+<a name="at-the-event"></a>
 # What happens at the event
 
 ## Overview
@@ -120,7 +136,9 @@ Julia Wise from CEA has the following suggestion for facilitators and organisers
     * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room."     * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
 
-# Tips for the Facilitator 
+
+
+# Tips for the facilitator 
 
 This role shouldn’t dominate the discussion, but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
 
@@ -138,7 +156,12 @@ This role shouldn’t dominate the discussion, but exists to keep conversation f
 * If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they dominated the discussion too much or caused offence.  
 * Wrap up the discussion to make a clear finishing point.
 
+* <a href="#further-info">Further information about productive reading and discussion</a>
+* <a href="#follow-up">Follow up</a>
+* <a href="#more-reading">More reading</a>
 
+
+<a name="further-info"></a>
 # Further information about productive reading and discussion
 
 ## Things to remember when reading
@@ -170,6 +193,7 @@ This list is a bit long, and have too many "don'ts" to share out loud as part of
 * It's OK to ask a question that you think may be unsophisticated or uninformed.
 
 
+<a name="follow-up"></a>
 # Follow up
 
 Get feedback from the group regularly, ideally one-on-one or through a short survey so people are more able to share their thoughts. It is particularly worth soliciting feedback from quieter people and those who attended once or twice but stopped attending, as there may be ways you could engage these participants more. 
@@ -178,7 +202,7 @@ You could ask how much the members enjoy the events, how much they learned, how 
 
 Regularly ask participants for suggestions from the group for future topics.
 
-
+<a name="more-reading"></a>
 # More reading
 
 * Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> which were used to make this page. 
