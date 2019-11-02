@@ -159,6 +159,7 @@ This section links to guides covering interpersonal conflicts, lack of inclusive
 
 <a target="_blank" href="https://docs.google.com/document/d/15syYkyF8I8f4VHZgbmlytIJNtcQyxBjMZm8ALVhv_Eg/edit#heading=h.6buc2o1oljpe">What to do when you discover an issue in your group</a> (CEA)
 Contents of this guide:
+
 * How to have sensitive conversations
 * Examples of issues that may arise
 * Organiser’s order of responsibilities
@@ -169,12 +170,14 @@ Contents of this guide:
 
 <a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
 Contents of this guide:
+
 * Proactive steps
 * What to do if you notice a problem
 * After a problem
 
 <a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
 Contents of this guide:
+
 * List of potential controversies
 * Steps to take
 * Further reading
@@ -182,6 +185,7 @@ Contents of this guide:
 <a target="_blank" href="https://docs.google.com/document/d/1oBgTXsk-uDDQR3h1CVlH6nmNYoBP0xX_MhDgmld34jU/edit">How to deal with the death of a community member</a> (CEA)
 
 EA Hub’s resource on “<a target="_blank" href="/learn/life/">Sustaining an EA Lifestyle</a>”, which includes sections on 
+
 * Self care 
 * Mental Health
 * Value Drift
