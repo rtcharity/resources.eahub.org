@@ -30,9 +30,9 @@ For information on self-care as an EA, please see the page on <a target="_blank"
 
 # Creating Welcoming Groups
 
-This section is compiled from resources written by Owen Cotton-Barratt, Julia Wise, CEA Community Health <a target="_blank" href="">workshop sessions</a> and suggestions from the EA community.
+This section is compiled from resources written by Owen Cotton-Barratt, Julia Wise, CEA Community Health <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">workshop sessions</a> and suggestions from the EA community.
 
-This <a target="_blank" href="">excellent guide by Julia Wise of CEA outlines some of the main considerations on being welcoming, and is the first resource to read.
+This <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> by Julia Wise of CEA outlines some of the main considerations on being welcoming, and is the first resource to read.
 
 Below, some additional considerations are outlined. 
 
@@ -47,14 +47,14 @@ There are good reasons why EA groups should be welcoming and exceptionally consi
 These articles by Owen-Cotton Barratt explain these ideas:
 
 
-* <a target="_blank" href="">Why communities of do-gooders should be exceptionally considerate
-* <a target="_blank" href="">Awareness/Inclination Model of movements, and outlines possible trajectories that movements could take. This is followed by recommendations that the EA movement put more effort into improving people’s inclination towards EA rather than increasing awareness of EA.
+* <a target="_blank" href="https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/">Why communities of do-gooders should be exceptionally considerate</a>
+* <a target="_blank" href="http://globalprioritiesproject.org/wp-content/uploads/2015/05/MovementGrowth.pdf">Awareness/Inclination Model of movements</a>, and outlines possible trajectories that movements could take. This is followed by recommendations that the EA movement put more effort into improving people’s inclination towards EA rather than increasing awareness of EA.
 
 ## Boundaries
 For small groups, it’s best to stay open and welcoming to all, but as groups grow, organisers might eventually need to run some events with a more selective guest list in order for the events to be more successful. The best strategy is to consider the purpose of each event and  and the people who would be best-suited to this purpose, before advertising with with care to avoid the impression of excluding people.
 
 
-You’ll find more information about choosing a purpose <a target="_blank" href="">here, and in <a target="_blank" href="">these notes on “The Art of Gathering”, which also include tips for working out who to invite. 
+You’ll find more information about choosing a purpose <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit#heading=h.8f6mv3vsjg9t">here</a>, and in <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes on “The Art of Gathering”</a>, which also include tips for working out who to invite. 
 
 If you want an event for a subgroup of the community, you can: send personal invites to members; make a public event but with a sign-up to indicate interest and provide a hurdle so that only more engaged people will participate; be explicit about who the event is targeted to. 
 
@@ -62,18 +62,18 @@ Be cautious about having applications for events where you reject people - manag
 
 Finally, be aware of informal boundaries that might keep newcomers out. If your local community is very tight-knit this can be great, but newcomers can perceive these bonds so make sure to actively include them in discussions and events. 
 
-Further Reading
+### Further Reading
 
 
-For a detailed description of boundaries and their importance see <a target="_blank" href="">Principle 1 of The Art of Community.
+For a detailed description of boundaries and their importance see <a target="_blank" href="https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58">Principle 1 of The Art of Community</a>.
 
 ## Being Welcoming to People With a Diversity of Ideas
 
 People come with widely differing intuitions about things like population ethics, moral frameworks, etc, so don’t just assume someone feels the same way you do. You want to avoid pointless arguments and alienating people when you could be having productive debates.
 
-The EA Hub guide on “<a target="_blank" href="">Communicating About EA” includes suggestions and tips about how to introduce EA ideas in a way that may be more appealing to people with a diversity of ideas. 
-Julia Wise has suggestions about how to deal with ideological and psychological diversity in her guide on “<a target="_blank" href="">Making a Welcoming Group”. 
-Ozymandias’ post “<a target="_blank" href="">Being Welcoming to Conservatives”, offers several recommendations on how to include conservatives from a US context, but many of the recommendations can be adapted to people of other political or ideological backgrounds.
+The EA Hub guide on “<a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">Communicating About EA</a>” includes suggestions and tips about how to introduce EA ideas in a way that may be more appealing to people with a diversity of ideas. 
+Julia Wise has suggestions about how to deal with ideological and psychological diversity in her guide on “<a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.1fmjqomt474t">Making a Welcoming Group</a>”. 
+Ozymandias’ post “<a target="_blank" href="https://thingofthings.wordpress.com/2018/12/19/how-effective-altruists-can-be-welcoming-to-conservatives/">Being Welcoming to Conservatives</a>”, offers several recommendations on how to include conservatives from a US context, but many of the recommendations can be adapted to people of other political or ideological backgrounds.
 
 Remember that it is easy to get the impression that EAs are less diverse in their philosophical viewpoints on the internet than in person. For example, long-termist views are often prevalent  in the EA forum, but  the 2018 EA Survey indicates a much wider range of priorities among EAs overall, as seen in the graph below.
 
@@ -81,7 +81,7 @@ Remember that it is easy to get the impression that EAs are less diverse in thei
 <img src="/img/top-cause-2018.jpg" />
 </p>
 
-_Source: <a target="_blank" href="">EA Survey 2018_
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections">EA Survey 2018_</a>
 
 Additionally, here is the breakdown of cause prioritization according to the 2018 EA survey which shows a preference for global poverty, AI safety and climate change as top priorities, but significant support across almost all cause areas as a near-top priority:
 
@@ -89,7 +89,7 @@ Additionally, here is the breakdown of cause prioritization according to the 201
 <img src="/img/causes-2018.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href=""> _2018 EA Survey_
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _2018 EA Survey_
 
 
 Further, the survey found a wide variety of philosophical dispositions as well. From the graph below, we can see that almost 25% of EAs do not lean towards utilitarianism and a further 25% are not sure about their philosophical orientation. 
@@ -98,18 +98,20 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 <img src="/img/philosophy.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href=""> _EA Survey 2017_
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
 
 ## Additional Resources
 
-* <a target="_blank" href="">Event suggestions catered to women and non-binary people
-* <a target="_blank" href="">EA Forum post discussing the challenges of English as the dominant language of the EA movement
-* What to do about <a target="_blank" href="">differing cause areas by Owen Cotton-Barratt
-* <a target="_blank" href="">EA forum post discussing diversity of talent, experience, opinion and appearance.
-* <a target="_blank" href="">EA forum post on sensitive topics written by people from a range of underrepresented groups, and a <a target="_blank" href="">response to this post about the importance of open discussion. 
+* <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions</a> catered to women and non-binary people
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">EA Forum post</a> discussing the challenges of English as the dominant language of the EA movement
+* What to do about <a target="_blank" href="">differing cause areas</a> by Owen Cotton-Barratt
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA forum post</a> discussing diversity of talent, experience, opinion and appearance.
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/nqgE6cR72kyyfwZNL/making-discussions-in-ea-groups-inclusive">EA forum post</a> on sensitive topics written by people from a range of underrepresented groups, and a <a target="_blank" href="https://forum.effectivealtruism.org/posts/GqXQPy9duht3RL9pw/the-importance-of-truth-oriented-discussions-in-ea">response to this post</a> about the importance of open discussion. 
 
+<a name="sensitive-topics"></a>
 # Handling Sensitive Topics
-_Compiled from CEA’s_ <a target="_blank" href="">_Community Health Discussions_ _and Julia Wise._
+
+_Compiled from CEA’s_ <a target="_blank" href="https://docs.google.com/document/d/1JH0zG3X6jcYcyGbyTmunmuGUYtKWLfv1YMCxNxeHujM/edit">_Community Health Discussions_</a> _and Julia Wise._
 
 EAs often engage in serious conversations on a wide range of ethical and philosophical issues, which is great, but this can result in tension - while for some people, certain conversations are merely an intellectual exercise, for others, the same conversations can be intensely personal. It is worth remembering that many people may be affected by discussions of sensitive topics, not just the participants in the conversation.
 
@@ -121,7 +123,7 @@ It can be difficult to predict which topics will affect people negatively, but h
 
 * **Ethical Discussions.** During discussions of population ethics or other ethical questions, the topics of death, the value of life, child mortality, murder, or suicide are sometimes discussed. Depending on a person’s personal history, they may be sensitive to one or several of these topics. In addition to being troubling for some, ethical thought experiments can be uninteresting or alienating to some group members. Animal ethics can also raise sensitive points, especially around in-depth details of the suffering in factory farming etc. 
 
-* **Social Justice.** The intersection of social justice and EA can be a point of contention as there is a wide range of opinions within the community about the efficacy and importance of popular social justice movements. Some articles on this topic: SJ & EA, Privilege of Earning to Give, An Embarrassment of Riches, The intersection of EA and SJ
+* **Social Justice.** The intersection of social justice and EA can be a point of contention as there is a wide range of opinions within the community about the efficacy and importance of popular social justice movements. Some articles on this topic: <a target="_blank" href="https://orgs.law.harvard.edu/effectivealtruism/2017/08/03/sj-ea-extreme-poverty-as-a-social-justice-priority/">SJ & EA</a>, <a target="_blank" href="https://www.jefftk.com/p/the-privilege-of-earning-to-give">Privilege of Earning to Give</a>, <a target="_blank" href="http://www.givinggladly.com/2015/11/an-embarrassment-of-riches.html">An Embarrassment of Riches</a>, <a target="_blank" href="http://www.sydsbirthdaychallenge.com/blog/2015/5/16/effective-altruism-and-its-intersection-with-traditional-social-justice">The intersection of EA and SJ</a>
 
 * **Inclusion and diversity.** Topics relating to diversity within the EA community, and within society as a whole can often be controversial. Including faith, race, and gender roles in society. 
 
@@ -131,59 +133,63 @@ Many discussions that have the potential to be sensitive are also not particular
 
 Organisers can do many things to help people avoid, leave or de-escalate a sensitive conversation, including setting conversation norms, keeping topics relevant to EA and creating spaces for people to avoid discussions if they wish to. 
 
-The page “<a target="_blank" href="">Tips on Running Discussion Groups” has a guide on setting and modelling good discussion norms, particularly the section on setting <a target="_blank" href="">discussion guidelines and on <a target="_blank" href="">choosing topics. 
+The page “<a target="_blank" href="/events/articles/discussion-tips/">Tips on Running Discussion Groups</a>” has a guide on setting and modelling good discussion norms, particularly the section on setting <a target="_blank" href="/events/articles/discussion-tips#guidelines">discussion guidelines</a> and on <a target="_blank" href="/events/articles/discussion-tips#choosing">choosing topics</a>. 
 
 
 ## When the situation appears uncomfortable
 Sometimes, you can’t prevent a conversation from becoming uncomfortable and it can be difficult to choose whether to let someone decide for themselves or to step in on their behalf. An indirect intervention may be preferred because you won’t be calling someone out for making someone else uncomfortable. However, if you know the participants well then a direct intervention might be best, as it will be clearer and less likely to exacerbate any social awkwardness. 
 
-Indirect or Logistical intervention: You may want to offer to switch conversation partners (especially when at a dinner where it may be difficult to physically leave the space), invite others to join you getting snacks or refreshments, or announce another conversation is going on. 
+* **Indirect or Logistical intervention:** You may want to offer to switch conversation partners (especially when at a dinner where it may be difficult to physically leave the space), invite others to join you getting snacks or refreshments, or announce another conversation is going on. 
 
-Direct intervention: Just open it up - “Hey, this is getting really intense, do we need a break?” or "I notice this topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
+* **Direct intervention:** 
+Just open it up - “Hey, this is getting really intense, do we need a break?” or "I notice this topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
-Scenarios that have caused discomfort in groups:
+**Scenarios that have caused discomfort in groups:**
 
 Two people have engaged in deep, philosophical conversation that made others feel uncomfortable.
 Two group members heatedly debated an identity-related topic they have strong views on. 
 When a religious person offered to answer questions about their faith, questions from the group got more and more pointed, making the religious person uncomfortable.
 A suffering-focused EA tried to persuade someone that their life is net negative.
 
-Dealing with Issues
+<a name="issues"></a>
+# Dealing with Issues
 This section links to guides covering interpersonal conflicts, lack of inclusiveness, lack of motivation/engagement, mental health issues etc. 
 
-Guides
+## Guides
 
-What to do when you discover an issue in your group (CEA)
+<a target="_blank" href="https://docs.google.com/document/d/15syYkyF8I8f4VHZgbmlytIJNtcQyxBjMZm8ALVhv_Eg/edit#heading=h.6buc2o1oljpe">What to do when you discover an issue in your group</a> (CEA)
 Contents of this guide:
-How to have sensitive conversations
-Examples of issues that may arise
-Organiser’s order of responsibilities
-Issues of confidentiality
-What to do if you witness the problem
-What to do when you’re not sure how accurate a concern is
-Practice Scenarios
+* How to have sensitive conversations
+* Examples of issues that may arise
+* Organiser’s order of responsibilities
+* Issues of confidentiality
+* What to do if you witness the problem
+* What to do when you’re not sure how accurate a concern is
+* Practice Scenarios
 
-Reducing problems from alcohol at events (CEA)
+<a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
 Contents of this guide:
-Proactive steps
-What to do if you notice a problem
-After a problem
+* Proactive steps
+* What to do if you notice a problem
+* After a problem
 
-How to handle controversies in EA (CEA)
+<a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
 Contents of this guide:
-List of potential controversies
-Steps to take
-Further reading
+* List of potential controversies
+* Steps to take
+* Further reading
 
-How to deal with the death of a community member (CEA)
+<a target="_blank" href="https://docs.google.com/document/d/1oBgTXsk-uDDQR3h1CVlH6nmNYoBP0xX_MhDgmld34jU/edit">How to deal with the death of a community member</a> (CEA)
 
-EA Hub’s resource on “Sustaining an EA Lifestyle”, which includes sections on 
-Self care 
-Mental Health
-Value Drift
-Productivity
-What to do when you are involved in a bad situation
-As a group organiser, you may be directly involved in a situation where someone behaves inappropriately towards you or towards another group member. Remember that you are never obligated to confront the person yourself - you can ask another member of the group to talk to the person in question on your behalf. Also, remember that you can not only seek advice from your co-organisers but from the Community Health team: Julia Wise and Sky Mayhew. They are people you can come to with concerns about problems you’ve noticed or experienced in the EA community. The best way to contact them is julia.wise@centreforeffectivealtruism.org or sky@centreforeffectivealtruism.org. You can also contact Julia anonymously.
+EA Hub’s resource on “<a target="_blank" href="/learn/life/">Sustaining an EA Lifestyle</a>”, which includes sections on 
+* Self care 
+* Mental Health
+* Value Drift
+* Productivity
+
+## What to do when you are involved in a bad situation
+
+As a group organiser, you may be directly involved in a situation where someone behaves inappropriately towards you or towards another group member. Remember that you are never obligated to confront the person yourself - you can ask another member of the group to talk to the person in question on your behalf. Also, remember that you can not only seek advice from your co-organisers but from the Community Health team: Julia Wise and Sky Mayhew. They are people you can come to with concerns about problems you’ve noticed or experienced in the EA community. The best way to contact them is through email: <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. You can also contact <a target="_blank" href="https://goo.gl/forms/oqiYRuynO37oOtYv1">Julia anonymously</a>.
 
 If the person who behaved inappropriately did so towards another member of your group, you may wish to talk to the person in question yourself, in your role as “group organiser”. You can explain why what the person did was inappropriate in the context of the situation and how it might prevent others from feeling welcome or creating a safe environment. Focus on the general norm that they have broken rather than the specific situation, if possible. 
 
