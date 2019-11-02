@@ -81,7 +81,7 @@ Remember that it is easy to get the impression that EAs are less diverse in thei
 <img src="/img/top-cause-2018.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections">EA Survey 2018_</a>
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections"> _EA Survey 2018_</a>
 
 Additionally, here is the breakdown of cause prioritization according to the 2018 EA survey which shows a preference for global poverty, AI safety and climate change as top priorities, but significant support across almost all cause areas as a near-top priority:
 
@@ -89,7 +89,7 @@ Additionally, here is the breakdown of cause prioritization according to the 201
 <img src="/img/causes-2018.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _2018 EA Survey_
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _2018 EA Survey_</a>
 
 
 Further, the survey found a wide variety of philosophical dispositions as well. From the graph below, we can see that almost 25% of EAs do not lean towards utilitarianism and a further 25% are not sure about their philosophical orientation. 
@@ -98,7 +98,7 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 <img src="/img/philosophy.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
 
 ## Additional Resources
 
