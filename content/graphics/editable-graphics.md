@@ -338,13 +338,13 @@ Outer page design based on the CEA brochure, text based on <a target="_blank" hr
 <img src="/img/brochure2.png" />
 </p>
 
-<a href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Brochure Gravit file (A4)</a>
+<a href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Brochure Gravit File (A4)</a>
 
-<a href="https://drive.google.com/open?id=1hVx4ARoBKVPWhFUjLit3PufmOrEU97GE">Brochure Gravit file (Letter Sized)</a>
+<a href="https://drive.google.com/open?id=1hVx4ARoBKVPWhFUjLit3PufmOrEU97GE">Brochure Gravit File (Letter Sized)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
  
-These are designed to be printed directly onto A4 or Letter Sized paper and then folded without the edges being trimmed. Therefore there will be a white surround to each panel of the brochure. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
+These are designed to be printed directly onto A4 or letter sized paper and then folded without the edges being trimmed. Therefore there will be a white surround to each panel of the brochure. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they fold correctly before you do a big print run!
 
@@ -356,13 +356,13 @@ This flyer is intended for giving out to people who express interest in EA, e.g.
 <img src="/img/Simple_flyer_8.5x11.png" />
 </p>
 
-<a href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Flyer Gravit file (Three on one A4 page)</a>
+<a href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Flyer Gravit File (Three on One A4 Page)</a>
 
-<a href="https://drive.google.com/open?id=1K0V0upe0A2I5U0XrxJxGSExQPmTZ4AUh">Flyer Gravit file (Three on one Letter sized page)</a>
+<a href="https://drive.google.com/open?id=1K0V0upe0A2I5U0XrxJxGSExQPmTZ4AUh">Flyer Gravit File (Three on One Letter Sized Page)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
  
-These are designed to be printed directly onto A4 or Letter Sized paper and then cut without the edges being trimmed. Therefore there will be a white surround to each panel of the flyer. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
+These are designed to be printed directly onto A4 or letter sized paper and then cut without the edges being trimmed. Therefore there will be a white surround to each panel of the flyer. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
@@ -374,13 +374,13 @@ This flyer has a little more information, and is intended for giving out to peop
 <img src="/img/EA_detailed_flyer_A4.png" />
 </p>
 
-<a href="https://drive.google.com/open?id=1urCEdjmSQV-A6NiksypUChSqPjumgihn">Detailed Flyer Gravit file (Three on one A4 page)</a>
+<a href="https://drive.google.com/open?id=1urCEdjmSQV-A6NiksypUChSqPjumgihn">Detailed Flyer Gravit File (Three on One A4 Page)</a>
 
-<a href="https://drive.google.com/open?id=10o857UDTS9Q8QWYdhqGP3Hk-Oy2zv-wb">Detailed Flyer Gravit file (Three on one Letter sized page)</a>
+<a href="https://drive.google.com/open?id=10o857UDTS9Q8QWYdhqGP3Hk-Oy2zv-wb">Detailed Flyer Gravit File (Three on One Letter Sized Page)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
  
-These are designed to be printed directly onto A4 or Letter Sized paper and then cut without the edges being trimmed. Therefore there will be a white surround to each panel of the flyer. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
+These are designed to be printed directly onto A4 or letter sized paper and then cut without the edges being trimmed. Therefore there will be a white surround to each panel of the flyer. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
@@ -393,4 +393,4 @@ This is for printing on a single A4 or letter sized page.
 <img src="/img/EA_Fact_Sheet.jpg" />
 </p>
 
-<a href="https://drive.google.com/open?id=1SLC3oH-1n8DfmoN0HYWCQ9ke_3ISZ2JS">EA Fact Sheet Gravit file</a>
+<a href="https://drive.google.com/open?id=1SLC3oH-1n8DfmoN0HYWCQ9ke_3ISZ2JS">EA Fact Sheet Gravit File</a>
