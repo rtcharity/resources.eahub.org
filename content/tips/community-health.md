@@ -146,10 +146,10 @@ Just open it up - “Hey, this is getting really intense, do we need a break?”
 
 **Scenarios that have caused discomfort in groups:**
 
-Two people have engaged in deep, philosophical conversation that made others feel uncomfortable.
-Two group members heatedly debated an identity-related topic they have strong views on. 
-When a religious person offered to answer questions about their faith, questions from the group got more and more pointed, making the religious person uncomfortable.
-A suffering-focused EA tried to persuade someone that their life is net negative.
+* Two people have engaged in deep, philosophical conversation that made others feel uncomfortable.
+* Two group members heatedly debated an identity-related topic they have strong views on. 
+* When a religious person offered to answer questions about their faith, questions from the group got more and more pointed, making the religious person uncomfortable.
+* A suffering-focused EA tried to persuade someone that their life is net negative.
 
 <a name="issues"></a>
 # Dealing with Issues
@@ -158,6 +158,7 @@ This section links to guides covering interpersonal conflicts, lack of inclusive
 ## Guides
 
 <a target="_blank" href="https://docs.google.com/document/d/15syYkyF8I8f4VHZgbmlytIJNtcQyxBjMZm8ALVhv_Eg/edit#heading=h.6buc2o1oljpe">What to do when you discover an issue in your group</a> (CEA)
+
 Contents of this guide:
 
 * How to have sensitive conversations
@@ -169,6 +170,7 @@ Contents of this guide:
 * Practice Scenarios
 
 <a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
+
 Contents of this guide:
 
 * Proactive steps
@@ -176,6 +178,7 @@ Contents of this guide:
 * After a problem
 
 <a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
+
 Contents of this guide:
 
 * List of potential controversies
