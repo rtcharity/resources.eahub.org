@@ -144,7 +144,7 @@ Sometimes, you can’t prevent a conversation from becoming uncomfortable and it
 * **Direct intervention:** 
 Just open it up - “Hey, this is getting really intense, do we need a break?” or "I notice this topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
-**Scenarios that have caused discomfort in groups:**
+**Scenarios that have caused discomfort in groups:**
 
 * Two people have engaged in deep, philosophical conversation that made others feel uncomfortable.
 * Two group members heatedly debated an identity-related topic they have strong views on. 
