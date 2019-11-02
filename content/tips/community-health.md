@@ -81,7 +81,7 @@ Remember that it is easy to get the impression that EAs are less diverse in thei
 <img src="/img/top-cause-2018.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections">EA Survey 2018_</a>
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections"> _EA Survey 2018_</a>
 
 Additionally, here is the breakdown of cause prioritization according to the 2018 EA survey which shows a preference for global poverty, AI safety and climate change as top priorities, but significant support across almost all cause areas as a near-top priority:
 
@@ -89,7 +89,7 @@ Additionally, here is the breakdown of cause prioritization according to the 201
 <img src="/img/causes-2018.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _2018 EA Survey_
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _2018 EA Survey_</a>
 
 
 Further, the survey found a wide variety of philosophical dispositions as well. From the graph below, we can see that almost 25% of EAs do not lean towards utilitarianism and a further 25% are not sure about their philosophical orientation. 
@@ -98,7 +98,7 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 <img src="/img/philosophy.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
 
 ## Additional Resources
 
@@ -144,12 +144,12 @@ Sometimes, you can’t prevent a conversation from becoming uncomfortable and it
 * **Direct intervention:** 
 Just open it up - “Hey, this is getting really intense, do we need a break?” or "I notice this topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
-**Scenarios that have caused discomfort in groups:**
+**Scenarios that have caused discomfort in groups:**
 
-Two people have engaged in deep, philosophical conversation that made others feel uncomfortable.
-Two group members heatedly debated an identity-related topic they have strong views on. 
-When a religious person offered to answer questions about their faith, questions from the group got more and more pointed, making the religious person uncomfortable.
-A suffering-focused EA tried to persuade someone that their life is net negative.
+* Two people have engaged in deep, philosophical conversation that made others feel uncomfortable.
+* Two group members heatedly debated an identity-related topic they have strong views on. 
+* When a religious person offered to answer questions about their faith, questions from the group got more and more pointed, making the religious person uncomfortable.
+* A suffering-focused EA tried to persuade someone that their life is net negative.
 
 <a name="issues"></a>
 # Dealing with Issues
@@ -158,7 +158,9 @@ This section links to guides covering interpersonal conflicts, lack of inclusive
 ## Guides
 
 <a target="_blank" href="https://docs.google.com/document/d/15syYkyF8I8f4VHZgbmlytIJNtcQyxBjMZm8ALVhv_Eg/edit#heading=h.6buc2o1oljpe">What to do when you discover an issue in your group</a> (CEA)
+
 Contents of this guide:
+
 * How to have sensitive conversations
 * Examples of issues that may arise
 * Organiser’s order of responsibilities
@@ -168,13 +170,17 @@ Contents of this guide:
 * Practice Scenarios
 
 <a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
+
 Contents of this guide:
+
 * Proactive steps
 * What to do if you notice a problem
 * After a problem
 
 <a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
+
 Contents of this guide:
+
 * List of potential controversies
 * Steps to take
 * Further reading
@@ -182,6 +188,7 @@ Contents of this guide:
 <a target="_blank" href="https://docs.google.com/document/d/1oBgTXsk-uDDQR3h1CVlH6nmNYoBP0xX_MhDgmld34jU/edit">How to deal with the death of a community member</a> (CEA)
 
 EA Hub’s resource on “<a target="_blank" href="/learn/life/">Sustaining an EA Lifestyle</a>”, which includes sections on 
+
 * Self care 
 * Mental Health
 * Value Drift
