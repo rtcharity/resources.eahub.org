@@ -87,7 +87,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/1362064933805619/">LessWrong (Rationality Group) </a>
 
 
-## Careers and Volunteering
+## Careers and Volunteering
 
 * <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">Careers Discussion</a>
 * <a target="_blank" href="https://www.linkedin.com/groups/5057625/">80,000 Hours LinkedIn Group</a>
