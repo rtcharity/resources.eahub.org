@@ -16,4 +16,3 @@ logo = "/img/logo_transparent.png"
 custom_css = ["css/custom.css"]
 showDates = false
 eahubURL = "https://eahub.org"
-description = "Information, guides, tips and downloads about effective altruism for individuals and EA groups"
