@@ -9,11 +9,11 @@ SectionPagesMenu = "main"
 summarylength = 6
 
 [params]
-images = ["/img/logo.png"]
-favicon = "favicon.ico?v=kPP08pKEXB"
-featured_image = "/img/LandingBanner-lower3.png"
-logo = "/img/logo_transparent.png"
-custom_css = ["css/custom.css"]
-showDates = false
-eahubURL = "https://eahub.org"
-description = "Information, guides, tips and downloads about effective altruism for individuals and EA groups"
+  images = ["/img/logo.png"]
+  favicon = "favicon.ico?v=kPP08pKEXB"
+  featured_image = "/img/LandingBanner-lower3.png"
+  
+  custom_css = ["css/custom.css"]
+  showDates = false
+  eahubURL = "https://eahub.org"
+  description = "Information, guides, tips and downloads about effective altruism for individuals and EA groups"
