@@ -15,3 +15,4 @@ logo = "/img/logo_transparent.png"
 custom_css = ["css/custom.css"]
 showDates = false
 eahubURL = "https://eahub.org"
+description = "Testing OG"
