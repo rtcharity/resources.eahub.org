@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 summarylength = 6
 
 [params]
-images = ["/img/logo_transparent.png"]
+images = ["/img/logo.png"]
 favicon = "favicon.ico?v=kPP08pKEXB"
 featured_image = "/img/LandingBanner-lower3.png"
 logo = "/img/logo_transparent.png"
