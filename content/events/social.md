@@ -20,14 +20,15 @@ This page contains information about organising social events to get people toge
 * <a href="#venues">Venues</a>
 * <a href="#food">Food and Drink</a>
 * <a href="#non-ea-themed">Non-EA Themed Activities</a>
-* <a href="#ea-themed">EA Themed Activities</a>
-    * <a href="#speed-updating">Speed Updating</a>
-    * <a href="#wyr">EA “Would You Rather”</a>
-    * <a href="#fermi">Fermi Estimation Competition</a>
-    * <a href="#jeopardy">EA Jeopardy</a>
-    * <a href="#wits">Wits and Wagers</a>
-    * <a href="#quiz">Quiz Night</a>
-    * <a href="#movie">Movie Nights</a>
+* <a href="#ea-themed">EA Themed Activities</a>
+   * <a href="#speed-updating">Speed Updating</a>
+   * <a href="#wyr">EA “Would You Rather”</a>
+   * <a href="#fermi">Fermi Estimation Competition</a>
+   * <a href="#jeopardy">EA Jeopardy</a>
+   * <a href="#wits">Wits and Wagers</a>
+   * <a href="#quiz">Quiz Night</a>
+   * <a href="#one-on-ones">One-on-Ones</a>
+   * <a href="#movie">Movie Nights</a>
 
 
 <a name="structure"></a>
