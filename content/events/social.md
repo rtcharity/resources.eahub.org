@@ -50,7 +50,7 @@ _Anecdote from one organiser: “I ran a casual picnic with no structured conver
 
 <a name="general"></a>
 # General Information
-General information about running an event can be found <a target="_blank" href="">here</a>. 
+General information about running an event can be found <a target="_blank" href="/events/guide/">here</a>. 
 
 
 ## Additional considerations for social events
@@ -61,13 +61,13 @@ Social events are supposed to be social (obviously!), but are sometimes a lot mo
 If you are expecting people who are new to EA to come along to your social event, it is helpful to give a short introduction to EA - either to the whole group, or invite new people to chat with some experienced members of the group to give them an overview. 
 
 
-Check out the “<a target="_blank" href="">Communicating about EA” section for ideas to what to say in an introduction. 
+Check out the “<a target="_blank" href="/learn/communicate-ea/">Communicating about EA</a>” section for ideas to what to say in an introduction. 
 
-EA London <a target="_blank" href="">analysed the gender split</a> of their events and found that their social events were male-dominated while other events (talks, reading groups) were gender-balanced, so it is worth considering whether your social events are appealing to a diverse group of people interested in EA. 
+EA London <a target="_blank" href="https://forum.effectivealtruism.org/posts/znuJ2Z48YnEjrGLvA/why-do-ea-events-attract-more-men-than-women-focus-group">analysed the gender split</a> of their events and found that their social events were male-dominated while other events (talks, reading groups) were gender-balanced, so it is worth considering whether your social events are appealing to a diverse group of people interested in EA. 
 
 <a name="venues"></a>
 # Venues
-The “<a target="_blank" href="">Venues</a>” page has a list of ideas and considerations about choosing venues for social events.
+The “<a target="_blank" href="/events/articles/venues/">Venues</a>” page has a list of ideas and considerations about choosing venues for social events.
 
 <a name="food"></a>
 # Food and Drink
