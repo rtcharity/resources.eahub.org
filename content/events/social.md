@@ -1,5 +1,5 @@
 ---
-title: Social
+title: Social Events
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
