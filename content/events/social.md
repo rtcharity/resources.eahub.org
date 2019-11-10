@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 10th November_
+### _Published 10th November 2019_
 
 This page contains information about organising social events to get people together and enjoy each other’s company, including 
 
