@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Guide to Running an Event
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
