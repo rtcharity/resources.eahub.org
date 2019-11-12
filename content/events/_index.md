@@ -4,7 +4,7 @@ weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
 ---
-### _Published 24th September 2019_
+### _Published 12th October 2019_
 
 <p class="large_image_wrapper">
 <img src="/img/eventeaf.png" />
@@ -17,8 +17,14 @@ _Image: EAF_
 ### Types of Events - Coming Soon
 This page will have an overview of the types of EA events your group could run, and suggestions on which events would suit your group.
 
-### Guide to Running an Event - Coming Soon
-This page will have information on how to plan events, and tips to ensure your event goes well.
+### [Guide to Running an Event](/events/guide/)
+This page has information on how to plan events, and tips to ensure your event goes well.
+
+### [Venues](/events/venues/)
+Ideas and considerations when choosing a venue for your event.
+
+### [Food and Drink](/events/food/)
+Tips on event catering.
 
 ### [Discussion Groups](/events/discussions/)
 Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! This page includes plenty of suggested content with questions to get the discussion going, and tips on facilitating a interesting and positive discussion.
@@ -38,8 +44,9 @@ The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orie
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
 
 
-### Social Events - Coming Soon
+### [Social Events](/events/social/)
+A variety of ideas and resources for running structured and unstructured social get-togethers. 
 
-### Retreats and Conferences - Coming Soon)
+### Retreats and Conferences - Coming Soon
 
 ### [Graphics for Advertising Your Events](/graphics/)

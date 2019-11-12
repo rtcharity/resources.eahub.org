@@ -269,6 +269,16 @@ Facebook:
 <a href="https://drive.google.com/open?id=1WNYjhozScpwhLw_MIM2AzSqftjf6a1mJ">Editable Gravit File</a>
 
 
+<p class="large_image_wrapper">
+<img src="/img/giving-game-facebook-meetup-banner.jpg" />
+</p>
+
+<a href="https://drive.google.com/open?id=1ikbmaipHzgkTCuajx-Sb1Ug7MweqbnHY">Editable Gravit File</a>
+
+
+
+
+
 Facebook:
 
 
