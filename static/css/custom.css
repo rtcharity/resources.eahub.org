@@ -5,7 +5,7 @@ body {
 }
 
 .about a {
-  color: #7BB0A8; /* EAHub Banner green */
+  color: #49776f; /* EAHub Resources Link color */
 }
 
 .about a:hover {
@@ -57,7 +57,7 @@ body {
 }
 
 .article a {
-  color: #7BB0A8 !important; /* EAHub Banner green */
+  color: #49776f !important; /* EAHub Resources Link color */
 }
 
 .article a:hover {
