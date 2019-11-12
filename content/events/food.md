@@ -1,5 +1,5 @@
 ---
-title: Food
+title: Food and Drink
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
