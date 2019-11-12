@@ -9,7 +9,7 @@ _Published 12th November 2019_
 
 Food and drink during an event can motivate attendance, help people to relax, and can encourage people to stay and discuss their ideas. If you need to serve refreshments in a separate room, make sure it’s not too far away, as moving tends to lose people. In general, try to have a range of healthy and less healthy snacks and always provide plenty of accessible water.
 
-If you are hosting a dinner, please see here for additional tips.
+If you are hosting a dinner, please see <a target="_blank" href="https://docs.google.com/document/d/1spZ6Ohx_8GPrxoPF4l1lQsXnhJOIUu2KlbqxRQCHi4k/edit">here</a> for additional tips.
 
 # Dietary Restrictions 
 
