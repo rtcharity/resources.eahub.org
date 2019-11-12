@@ -44,8 +44,9 @@ The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orie
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
 
 
-### Social Events - Coming Soon
+### [Social Events](/events/social/)
+A variety of ideas and resources for running structured and unstructured social get-togethers. 
 
-### Retreats and Conferences - Coming Soon)
+### Retreats and Conferences - Coming Soon
 
 ### [Graphics for Advertising Your Events](/graphics/)
