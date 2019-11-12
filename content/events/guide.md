@@ -36,6 +36,7 @@ There are many different possible purposes for an event. When planning events, i
 The Art of Gathering</a>” contains excellent advice on choosing a purpose, and has tips on how this will affect your planning - check out <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes about “The Art of Gathering”</a> for a summary. 
 
 Some options for a purpose could be:
+
 * Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">funnel of engagement in EA</a>. Your event could facilitate one or more of these transitions:
    * Moving people from “audience” to “followers” - outreach to people who haven’t heard of EA before.
    * Moving people from “followers” to “participants” - eg holding events that help new people become more knowledgeable about EA.
@@ -69,6 +70,7 @@ b.	If you decide to host a more formal or structured event, budget time for atte
 
 # Volunteer roles
 Ask co-organisers or volunteers to help out, especially if you are expecting several new people to come to the event. Note that most, if not all, of these roles could be done by the same person.
+
 * Greeter/usher - Useful for larger events or when it is hard to find the room.  
 * New person contact - This person can keep an eye out for any new people and make sure they are welcomed to the group, and invited into conversations with people they might find interesting to talk to. They can also ask the new person if they would like to sign up for other things the group offers, e.g. sign up for the mailing list or make time for a one-on-one. New person contacts may find the page on <a target="_blank" href="/learn/communicate-ea/">communicating about EA</a> helpful. 
 * Jargon catcher - The jargon catcher can ask the speaker to explain the jargon e.g. “Can you explain what “DALY” means?”, or they can explain it themselves. This can be useful in small group conversations as well as in casual presentations.
