@@ -23,6 +23,7 @@ This page contains information about organising social events to get people toge
 * <a href="#ea-themed">EA Themed Activities</a>
    * <a href="#speed-updating">Speed Updating</a>
    * <a href="#wyr">EA “Would You Rather”</a>
+   * <a href="#superfight">Charity Superfight</a>
    * <a href="#fermi">Fermi Estimation Competition</a>
    * <a href="#jeopardy">EA Jeopardy</a>
    * <a href="#wits">Wits and Wagers</a>
@@ -133,6 +134,12 @@ These are a series of questions, where people choose which of two scenarios they
 
 * Harvard EA has some questions <a target="_blank" href="https://docs.google.com/document/d/1PRlTUjnlmBOOfyOPX7BLduG2AWLruegB2aNznxiw7I0/edit">here</a>. 
 * EA Haverford has some particularly silly questions <a target="_blank" href="https://docs.google.com/document/d/1WVElt8pjyqbRv8OHx94Sr9rEc00XL5CnGYIyqMnjVyI/edit">here</a>.
+
+<a name="superfight"></a>
+## Charity Superfight
+A game where participants choose three cards to make up the purpose of a silly charity, in the form of **“My charity (activity) (recipients) in (location/additional info)”**. Participants then have to argue why their charity is the best using the "<a target="_blank" href="https://80000hours.org/articles/problem-framework/">Scale, Neglectedness, Tractability</a>" framework. 
+Instructions and sample cards are <a target="_blank" href="https://docs.google.com/document/d/1CtxC5j8trBpoofd_UMNDexrqgfXQGvrrF8oNh7Hkbso/edit#">here</a>. 
+_By Rebecca Baron._
 
 <a name="fermi"></a>
 ## Fermi Estimation Competition
