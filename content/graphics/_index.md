@@ -20,9 +20,9 @@ This page includes instructions on how to edit the EA Hub’s editable Gravit fi
 This page links all the currently available editable graphics. Browse the whole page, or jump to:
 
 * <a target="_blank" href="/graphics/editable-graphics#logos">Logos</a>
-* <a target="_blank" href="/graphics/editable-graphics#banners/">Physical Banners</a>
-* <a target="_blank" href="/graphics/editable-graphics#advertising/">General Advertising Posters</a>
-* <a target="_blank" href="/graphics/editable-graphics#facebookbanners/">Facebook and Meetup Banners</a>
+* <a target="_blank" href="/graphics/editable-graphics#banners">Physical Banners</a>
+* <a target="_blank" href="/graphics/editable-graphics#advertising">General Advertising Posters</a>
+* <a target="_blank" href="/graphics/editable-graphics#facebookbanners">Facebook and Meetup Banners</a>
 * <a target="_blank" href="/graphics/editable-graphics#facebookprofiles">Facebook Page Profile Pictures</a>
-* <a target="_blank" href="/graphics/editable-graphics#events/">Event Advertising</a>
+* <a target="_blank" href="/graphics/editable-graphics#events">Event Advertising</a>
 * <a target="_blank" href="/graphics/editable-graphics#brochures">Brochures and Flyers</a>
