@@ -54,7 +54,7 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 * ### [Why Start an EA Group?](/start/why/) START HERE
 
-* ### [What is Involved in Running a Group?](/start/city-groups-what-is-involved-in-running-a-city-group/)
+* ### [What is Involved in Running a Group?](/start/run-city-group/)
 
 * ### [Useful Knowledge](/start/knowledge/)
 
