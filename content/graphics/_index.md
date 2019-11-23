@@ -10,7 +10,7 @@ These pages contain links to numerous resources that may be useful for groups. W
 
 The EA Hub Resources team chose to make our files in Gravit as the free version has many excellent features, and it is easier to use than many other similar apps. This means that group organisers can make, share, and modify resources freely.
 
-_More editable graphics will be added over time. Please_ <a target="_blank" href="/contact-lean/">_contact us_</a> _if you have existing graphics to share or requests for graphics._
+_More editable graphics will be added over time. Please_ <a target="_blank" href="/contact/">_contact us_</a> _if you have existing graphics to share or requests for graphics._
 
 ### <a target="_blank" href="/graphics/how-to-edit/">How to Edit These Graphics (Or Make Your Own)</a>
 
