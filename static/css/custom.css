@@ -56,7 +56,7 @@ body {
   padding-left: 50px;
 }
 
-.article, .contact, .landing_description a {
+.article a {
   color: #49776f !important; /* EAHub Resources Link color */
 }
 
@@ -153,6 +153,10 @@ body {
   background-color: #F4F4F4;
   font-family: 'Open Sans', sans-serif;
   width: 100%;
+}
+
+.contact a {
+  color: #49776f !important; /* EAHub Resources Link color */
 }
 
 .textAlignCenter {
@@ -361,6 +365,10 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 40px;
+}
+
+.landing_description a {
+  color: #49776f !important; /* EAHub Resources Link color */
 }
 
 .landing_menu {
