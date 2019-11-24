@@ -40,7 +40,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 <a name="choosing"></a>
 ## Choosing readings and questions 
 
-* There are many <a target="_blank" href="">examples of readings and discussion questions</a> to help you out with this. 
+* There are many <a target="_blank" href="/events/articles/content/">examples of readings and discussion questions</a> to help you out with this. 
 * Some people are happy to read/watch the material in advance, but if your text is short consider doing the reading/viewing/listening at the event, rather than as preparation.
 * Check your readings don’t have too much assumed knowledge. This is particularly important if you are expecting people who are new to EA to attend the event.
 * Unless you know you’ve got a particularly dedicated time-rich group of people, then 30 mins is a good maximum amount of preparation time. Reading speed varies a lot, but about 200 words a minute is reasonable if the text isn’t too difficult. 
