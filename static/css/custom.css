@@ -56,7 +56,7 @@ body {
   padding-left: 50px;
 }
 
-.article a {
+.article, .contact, .landing_description a {
   color: #49776f !important; /* EAHub Resources Link color */
 }
 
@@ -391,6 +391,10 @@ h3 {
   margin-right: 5px;
   margin-bottom: 20px;
   width: 200px;
+}
+
+.landing_menu_section a:hover {
+  color: #635274 !important;
 }
 
 .landing_menu_section h4 {
