@@ -4,51 +4,8 @@ body {
   padding-top: 50px;
 }
 
-.about a {
-  color: #49776f; /* EAHub Resources Link color */
-}
-
-.about a:hover {
-  opacity: 0.5;
-}
-
-
-.about_img {
-  width: 300px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-.about_emails {
-  text-align: center;
-  display: flex;
-  justify-content: space-around;
-  margin-bottom: 50px;
-  margin-top: 40px;
-}
-
-.about_emails_btn {
-  text-decoration: none;
-  color: white;
-  width: 150px;
-  height: 70px;
-  padding: 4px 4px 4px 4px;
-  font-size: 18px;
-}
-
-.about_emails a {
-  color: white;
-}
-
-.about_tech {
-  background-color: #A7DBAB;
-  line-height: 60px;
-}
-
-.about_suggestions {
-  background-color: #635274;
-  line-height: 30px;
+a:hover {
+  opacity: 0.5
 }
 
 .article {
@@ -58,10 +15,7 @@ body {
 
 .article a {
   color: #49776f !important; /* EAHub Resources Link color */
-}
-
-.article a:hover {
-  opacity: 0.5
+  text-decoration: underline;
 }
 
 .article_author {
@@ -157,6 +111,7 @@ body {
 
 .contact a {
   color: #49776f !important; /* EAHub Resources Link color */
+  text-decoration: underline;
 }
 
 .textAlignCenter {
@@ -369,6 +324,7 @@ h3 {
 
 .landing_description a {
   color: #49776f !important; /* EAHub Resources Link color */
+  text-decoration: underline;
 }
 
 .landing_menu {
@@ -403,6 +359,7 @@ h3 {
 
 .landing_menu_section a:hover {
   color: #635274 !important;
+  text-decoration: none;
 }
 
 .landing_menu_section h4 {
