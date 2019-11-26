@@ -385,6 +385,10 @@ h3 {
   padding-right: 0;
 }
 
+.main-text-colour {
+  color: #262626;
+}
+
 .menu_bar {
   width: 25px;
   height: 3px;
