@@ -174,7 +174,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Importance,Tractability, Neglectedness (ITN)</a> OR Scale, Neglectedness, Solvability (SNS) - a framework used within the EA community to decide which cause areas or interventions are likely to be more promising to focus on. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/information-hazards/">Information hazard</a> - Risks that arise when the dissemination or the potential dissemination of true information can cause harm. E.g. the genetic sequence of a lethal pathogen or a blueprint for making a thermonuclear weapon.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/information-hazards/">Information hazard</a> - Risks that arise when the dissemination or potential dissemination of true information can cause harm. E.g. the genetic sequence of a lethal pathogen or a blueprint for making a thermonuclear weapon.
 
 # J
 
@@ -183,7 +183,8 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Leveraging donations</a> - The influence of donations on how others (other donors, governments, or the private sector) allocate their funds. E.g. if a charity has the money to pay for the distribution of deworming tablets, this influences pharmaceutical companies to donate the tablets. 
 
-Light cone - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
+
+<a target="_blank" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a> - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
 
 Log of consumption/income - The log is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore the benefits proportional to the log of the increase in income. 
 
