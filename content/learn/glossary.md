@@ -155,7 +155,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 # H
 
 <a name="haly"></a>
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/measuring-healthy-life-years/">Health adjusted life year (HALY)</a> - A combined measure of mortality (death) and morbidity (level of ill-health/wellbeing) to quantify the burden of a disease. (see also [DALY](#daly) and [QALY](qaly)). 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/measuring-healthy-life-years/">Health adjusted life year (HALY)</a> - A combined measure of mortality (death) and morbidity (level of ill-health/wellbeing) to quantify the burden of a disease. (see also [DALY](#daly) and [QALY](#qaly)). 
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/">Heavy-tailed distributions</a> (also called fat tailed distributions) - Probability distributions, where one tail decreases towards zero more slowly than if it was a normal bell shaped distribution. E.g. the probability distribution of impact across global health interventions is heavy-tailed because the most effective interventions are many times more effective than the average, so most of the overall impact comes from these extremely effective interventions.
 
