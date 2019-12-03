@@ -41,9 +41,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/career-capital/">Career capital</a> - The collection of skills, connections, and credentials that allow a person to have an impact in their job. 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/understanding-cause-neutrality/">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
+<a target="_blank" href="https://causeprioritization.org/Cause_prioritization</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/moral-progress-and-cause-x/">Cause-X</a> -  A cause that's one of the most important moral problems of our time that we haven’t yet realised the importance of. 
 
@@ -186,8 +186,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a> - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
 
-Log of consumption/income - The natural logarithm (log) is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore, the benefits are proportional to the log of the increase in income. 
-
+<a target="_blank" href="http://www.compressingreality.com/Utility-Log-Income/">Log of consumption/income</a> - The natural logarithm (log) is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore, the benefits are proportional to the log of the increase in income. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-long-term-future/">Long term future (LTF)</a> - More than 100 years into the future, often used in relation to the millions or billions of years that humans and their descendents could live. 
 
