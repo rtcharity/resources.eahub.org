@@ -15,7 +15,7 @@ license:
 
 This page features words and acronyms that are used by people in the effective altruism community, but are not as common outside the community. EA organisations do not appear in this glossary, but many organisations are listed <a target="_blank" href="/learn/orgs">here</a>.
 
-If you’d like to suggest more words or acronyms, or suggest improved definitions or links, please <a target="_blank" href="/contact-lean">contact us</a>. 
+If you’d like to suggest more words or acronyms, or suggest improved definitions or links, please <a target="_blank" href="/contact">contact us</a>. 
 
 <a name="A"></a>
 # A
