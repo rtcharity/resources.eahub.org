@@ -245,15 +245,15 @@ Log of consumption/income - The natural logarithm (log) is a mathematical functi
 
 <a target="_blank" href="https://rationalwiki.org/wiki/Pascal%27s_wager">Pascal’s wager</a> - The argument that one should believe in God because the potential gains are infinitely good but the potential losses are insignificant. 
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view/">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
 
 <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Pond Analogy</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Population_ethics/">Population ethics</a> - The consideration of how our actions affect who is born and how many people are born in the future.
+<a target="_blank" href="https://en.wikipedia.org/wiki/Population_ethics">Population ethics</a> - The consideration of how our actions affect who is born and how many people are born in the future.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Precautionary_principle/">Precautionary principle</a> - A principle suggesting caution should be used when considering an action that has a possibility of harm to the public, especially when there is a lack of scientific evidence to address the safety concerns. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Precautionary_principle">Precautionary principle</a> - A principle suggesting caution should be used when considering an action that has a possibility of harm to the public, especially when there is a lack of scientific evidence to address the safety concerns. 
 
 
 <a target="_blank" href="https://wiki.lesswrong.com/wiki/Priors">Priors</a> - The beliefs a person holds regarding a fact, hypothesis or consequence, before being presented with new evidence.
