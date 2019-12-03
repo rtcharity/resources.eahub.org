@@ -298,7 +298,7 @@ Log of consumption/income - The natural logarithm (log) is a mathematical functi
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/superintelligence/">Superintelligence</a> - An intellect capable of performing nearly all cognitive tasks much better than any human can today. See also the <a target="_blank" href="https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies">book by Nick Bostrom</a>. 
 
 
-<a target="_blank" href="https://conceptually.org/concepts/dual-processing-theory">System 1 and System 2 (Dual Process Theory)</a> - Two methods of decision-making: System 1 thinking is intuitive, rapid, automatic, subconscious and emotional. System 2 thinking is deliberate, slow, logical and can involve using data. 
+<a target="_blank" href="https://conceptually.org/concepts/dual-processing-theory">System 1 and System 2 (Dual Process Theory)</a> - Two methods of decision-making: System 1 thinking is intuitive, rapid, automatic, subconscious and emotional. System 2 thinking is deliberate, slow, logical and can involve using data. See also David Kahneman's book <a target="_blank" href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow">Thinking, Fast and Slow</a>.
 
 <a name="T"></a>
 # T
