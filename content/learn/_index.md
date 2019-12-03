@@ -23,11 +23,11 @@ This collection is not an exhaustive list of all resources about EA, and is simp
 ## [General readings, videos and podcasts about effective altruism](/learn/about-ea/)
 Head here if EA is new to you or if you’d like an overview.
 
-## [Readings, videos and podcasts about specific EA related topics](/learn/reading-lists/)
-These reading lists including several cause areas, rationality and longtermism. Head here if you want to dive into a particular topic.
-
 ## [Glossary](/learn/glossary/)
 Find terms commonly used in the EA community.
+
+## [Readings, videos and podcasts about specific EA related topics](/learn/reading-lists/)
+These reading lists including several cause areas, rationality and longtermism. Head here if you want to dive into a particular topic.
 
 ## [Connect and keep up to date](/learn/connect/)
 Links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
