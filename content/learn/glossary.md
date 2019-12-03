@@ -26,33 +26,33 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/artificial-intelligence/">Artificial Intelligence (AI)</a> - Refers to the capability of machines to perform intellectual tasks, such as recognizing objects, forming plans to achieve goals and making predictions.
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Artificial_general_intelligence">Artificial General Intelligence (AGI)</a> -  A machine capable of behaving intelligently over a wide range of domains, similar to how a human can perform a wide variety of tasks. In contrast to narrow AI, which is a machine capable of intellectual tasks in a narrow domain. 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Artificial_general_intelligence">Artificial General Intelligence (AGI)</a> -  A machine capable of behaving intelligently over a wide range of domains, similar to how a human can perform a wide variety of tasks. This is in contrast to narrow AI, which is a machine capable of intellectual tasks in a narrow domain. 
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Astronomical_waste">Astronomical waste</a> - describes the opportunities that we miss out on by not colonising the universe. 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Astronomical_waste">Astronomical waste</a> - A description of the opportunities that we miss out on by not colonising the universe. 
 
 
 <a name="B"></a>
 # B
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Bayesian_probability">Bayesian probability</a> - the level of certainty or confidence relating to an idea or outcome. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Bayesian_probability">Bayesian probability</a> - The level of certainty or confidence relating to an idea or outcome. 
 
 <a name="C"></a>
 # C
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/career-capital/">Career capital</a> - The collection of skills, connections, and credentials that allow a person to have an impact in their job. 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
+<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
 
 <a target="_blank" href="http://www.harvardea.org/terms">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/moral-progress-and-cause-x/">Cause-X</a> -  A cause that's one of the most important moral problems of our time that we haven’t yet realised the importance of. 
 
 
-<a target="_blank" href="https://conceptually.org/concepts/cognitive-biases">Cognitive biases</a> - Habits or shortcuts of thinking that can produce misleading or inaccurate conclusions, often unconscious to the thinker. E.g. our inclination to favour evidence that confirms what we already believe, or our irrational resistance to being changed by new evidence are both examples of cognitive biases that are very common barriers to rational progress.
+<a target="_blank" href="https://conceptually.org/concepts/cognitive-biases">Cognitive biases</a> - Habits or shortcuts of thinking that can produce misleading or inaccurate conclusions, often unconscious to the thinker. E.g., our inclination to favour evidence that confirms what we already believe, or our irrational resistance to being changed by new evidence are both examples of cognitive biases that are very common barriers to rational progress.
 
-<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g. a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
+<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g., a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g. Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g. The EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g., Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g., the EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
 
 <a name="consequentialism"></a>
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this action. Utilitarianism is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
