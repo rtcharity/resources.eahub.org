@@ -15,7 +15,7 @@ license:
 
 This page features words and acronyms that are used by people in the effective altruism community, but are not as common outside the community. EA organisations do not appear in this glossary, but many organisations are listed <a target="_blank" href="/learn/orgs">here</a>.
 
-If you’d like to suggest more words or acronyms, or suggest improved definitions or links, please <a target="_blank" href="/contact-lean">contact us</a>. 
+If you’d like to suggest more words or acronyms, or suggest improved definitions or links, please <a target="_blank" href="/contact">contact us</a>. 
 
 <a name="A"></a>
 # A
@@ -26,38 +26,38 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/artificial-intelligence/">Artificial Intelligence (AI)</a> - Refers to the capability of machines to perform intellectual tasks, such as recognizing objects, forming plans to achieve goals and making predictions.
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Artificial_general_intelligence">Artificial General Intelligence (AGI)</a> -  A machine capable of behaving intelligently over a wide range of domains, similar to how a human can perform a wide variety of tasks. In contrast to narrow AI, which is a machine capable of intellectual tasks in a narrow domain. 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Artificial_general_intelligence">Artificial General Intelligence (AGI)</a> -  A machine capable of behaving intelligently over a wide range of domains, similar to how a human can perform a wide variety of tasks. This is in contrast to narrow AI, which is a machine capable of intellectual tasks in a narrow domain. 
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Astronomical_waste">Astronomical waste</a> - describes the opportunities that we miss out on by not colonising the universe. 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Astronomical_waste">Astronomical waste</a> - A description of the opportunities that we miss out on by not colonising the universe. 
 
 
 <a name="B"></a>
 # B
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Bayesian_probability">Bayesian probability</a> - the level of certainty or confidence relating to an idea or outcome. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Bayesian_probability">Bayesian probability</a> - The level of certainty or confidence relating to an idea or outcome. 
 
 <a name="C"></a>
 # C
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/career-capital/">Career capital</a> - The collection of skills, connections, and credentials that allow a person to have an impact in their job. 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause." 
+<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
 
 <a target="_blank" href="http://www.harvardea.org/terms">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/moral-progress-and-cause-x/">Cause-X</a> -  A cause that's one of the most important moral problems of our time that we haven’t yet realised the importance of. 
 
 
-<a target="_blank" href="https://conceptually.org/concepts/cognitive-biases">Cognitive biases</a> - Habits or shortcuts of thinking that can produce misleading or inaccurate conclusions, often unconscious to the thinker. E.g. our inclination to favour evidence that confirms what we already believe, or our irrational resistance to being changed by new evidence are both examples of cognitive biases that are very common barriers to rational progress.
+<a target="_blank" href="https://conceptually.org/concepts/cognitive-biases">Cognitive biases</a> - Habits or shortcuts of thinking that can produce misleading or inaccurate conclusions, often unconscious to the thinker. E.g., our inclination to favour evidence that confirms what we already believe, or our irrational resistance to being changed by new evidence are both examples of cognitive biases that are very common barriers to rational progress.
 
-<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g. a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
+<a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g., a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g. Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g. The EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g., Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g., the EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
 
 <a name="consequentialism"></a>
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this action. Utilitarianism is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
 
-<a target="_blank" href="https://conceptually.org/concepts/coordination-problems">Coordination Problem</a> - A problem that requires several people (or groups of people) to coordinate to reach the best outcome. <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">The prisoner’s dilemma</a> is a famous example of a coordination problem. An EA example: People see that there is a skill that is neglected in the EA community, so they learn that skill. If too many people take this action the skill becomes oversupplied, but if we are able to coordinate we may fill all the skill shortages over time. More examples.  
+<a target="_blank" href="https://conceptually.org/concepts/coordination-problems">Coordination Problem</a> - A problem that requires several people (or groups of people) to coordinate to reach the best outcome. <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">The prisoner’s dilemma</a> is a famous example of a coordination problem. An EA example: People see that there is a skill that is neglected in the EA community, so they learn that skill. If too many people take this action the skill becomes oversupplied, but if we are able to coordinate we may fill all the skill shortages over time. 
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/etvgLwj59Bs74cuxX/cosmopolitanism">Cosmopolitanism</a> - An inclusive view of the world that sees the interests of human beings of all nationalities as having equal importance. 
 
@@ -69,10 +69,10 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://conceptually.org/concepts/signalling-and-countersignalling">Counter-signalling</a> - A type of signalling behaviour that displays a certain trait by acting in a contradictory manner. For example, being rich enough that displaying your wealth becomes unnecessary because people already know you can afford to, or being good enough friends that you can make disparaging comments confidently aware that the friend knows you are joking. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/credences/">Credence(s)</a> - Degree of confidence or probability that a given proposition is true..
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/credences/">Credence(s)</a> - Degree of confidence or probability that a given proposition is true.
 
 <a name="crucial"></a>
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/">Crucial Considerations</a> - Information that has the potential to radically change your view on a topic, or on an action. E.g. Whether insects are capable of suffering is a crucial consideration in determining the scale of wild animal suffering.  
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/">Crucial Considerations</a> - Information that has the potential to radically change your view on a topic or action, e.g., whether insects are capable of suffering is a crucial consideration in determining the scale of wild animal suffering.  
 
 
 <a name="D"></a>
@@ -80,11 +80,11 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/decision-theory">Decision theory</a> - The study of how to choose actions or strategies that combine your views about the world with what you value. 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/#should-i-vote-in-the-national-election">Deliberation ladder</a> - A sequence of [crucial considerations](#crucial) regarding the same high-level subgoal, where the considerations hold in opposing directions. E.g. when asking the question “should I vote?”, your ladder could consist of “yes, I want to put a good politician in office”, “but my vote is unlikely to make a difference”, “but it could be a close election then I should vote”, “but if it is close then perhaps the candidates are of similar quality” etc. 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/#should-i-vote-in-the-national-election">Deliberation ladder</a> - A sequence of [crucial considerations](#crucial) regarding the same high-level subgoal, where the considerations hold in opposing directions. E.g., when asking the question “should I vote?”, your ladder could consist of “yes, I want to put a good politician in office”, “but my vote is unlikely to make a difference”, “but it could be a close election then I should vote”, “but if it is close then perhaps the candidates are of similar quality”, etc. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/deontology/">Deontology</a> - A group of moral rules or duties held as valuable irrespective of their effect or consequences. E.g. a deontological rule could be “do not kill another person”, which would mean it would be wrong to kill even if there were good consequences, e.g. if the person was about to murder other people. See ‘[Consequentialism](#consequentialism)’ for an opposing view.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/deontology/">Deontology</a> - A group of moral rules or duties held as valuable irrespective of their effect or consequences. E.g., a deontological rule could be “do not kill another person”, which would mean it would be wrong to kill even if there were good consequences, e.g., if the person was about to murder other people. See ‘[Consequentialism](#consequentialism)’ for an opposing view.
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/diminishing-returns/">Diminishing returns or value </a>- A decrease in the marginal value of an action or process as the amount of work that is put in increases. E.g. If a country of 20 million people has no vaccines for a common illness, providing 1 million vaccines for their most vulnerable citizens could be highly valuable, however, providing 1 million vaccines when they already have 19 million vaccines will be significantly less valuable.  
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/diminishing-returns/">Diminishing returns or value </a>- A decrease in the marginal value of an action or process as the amount of work that is put in increases. E.g., if a country of 20 million people has no vaccines for a common illness, providing 1 million vaccines for their most vulnerable citizens could be highly valuable, however, providing 1 million vaccines when they already have 19 million vaccines will be significantly less valuable.  
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/direct-work/">Direct Work</a> - Spending time/effort directly on a problem. 
 
@@ -123,7 +123,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/expected-value-theory/">Expected value</a> - A way of considering options based on the value of a possible outcome multiplied by the probability of that outcome occurring, giving the probability-weighted average of all possible outcomes.
 
 
-<a target="_blank" href="https://conceptually.org/concepts/explore-or-exploit/">Explore/Exploit tradeoff</a> - The tradeoff between using the information or skills you have now (‘exploiting’), or learning more (‘explore’). E.g. a person seeking a high-impact career may have to weigh up taking a known path they believe to be high-impact, or learning more to find out if there is a higher impact path available. 
+<a target="_blank" href="https://conceptually.org/concepts/explore-or-exploit/">Explore/Exploit tradeoff</a> - The tradeoff between using the information or skills you have now (‘exploiting’), or learning more (‘explore’). E.g., a person seeking a high-impact career may have to weigh up taking a known path they believe to be high-impact, or learning more to find out if there is a higher impact path available. 
 
 
 <a name="F"></a>
@@ -135,14 +135,14 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.effectivealtruism.org/get-involved/take-the-founders-pledge/">Founders pledge</a> - Commitment by start-up founders to give a percentage of their future exit or liquidity event earnings to the high-impact charities of their choice.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Fungibility">Fungibility</a> - The property of a good or a commodity whose individual units are essentially interchangeable, and each of its parts is indistinguishable from another part. E.g. cash is fungible as all $10s are the same. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Fungibility">Fungibility</a> - The property of a good or a commodity whose individual units are essentially interchangeable, and each of its parts is indistinguishable from another part. E.g., cash is fungible as all $10s are the same. 
 
 <a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Funging</a> - Crowding out a particular project with funding that would have otherwise come from elsewhere. 
 
 <a name="G"></a>
 # G
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/global-catastrophic-risks/">Global catastrophic risks (GCRs)</a> - All risks with the potential to cause serious harm on a global scale. Includes [existential risks](#existentialrisks), but is not limited to them. Catastrophic risks that may not threaten human existence outright include political instability leading to increased warfare, or mass deaths from disease, climate change or geo-engineering.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/global-catastrophic-risks/">Global catastrophic risks (GCRs)</a> - All risks with the potential to cause serious harm on a global scale. Includes <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">existential risks</a>, but is not limited to them. Catastrophic risks that may not threaten human existence outright include political instability leading to increased warfare, or mass deaths from disease, climate change or geo-engineering.
 
 <a target="_blank" href="https://www.lesswrong.com/posts/YtvZxRpZjcFNwJecS/the-importance-of-goodhart-s-law">Goodhart's law</a> - An adage named after economist Charles Goodhart: "When a measure becomes a target, it ceases to be a good measure."
 
@@ -155,9 +155,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 # H
 
 <a name="haly"></a>
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/measuring-healthy-life-years/">Health adjusted life year (HALY)</a> - A combined measure of mortality (death) and morbidity (level of ill-health/wellbeing) to quantify the burden of a disease. (see also [DALY](#daly) and [QALY](qaly)). 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/measuring-healthy-life-years/">Health adjusted life year (HALY)</a> - A combined measure of mortality (death) and morbidity (level of ill-health/wellbeing) to quantify the burden of a disease. (see also [DALY](#daly) and [QALY](#qaly)). 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/">Heavy-tailed distributions</a> (also called fat tailed distributions) - Probability distributions, where one tail decreases towards zero more slowly than if it was a normal bell shaped distribution. E.g. the probability distribution of impact across global health interventions is heavy-tailed because the most effective interventions are many times more effective than the average, so most of the overall impact comes from these extremely effective interventions.
+<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/">Heavy-tailed distributions</a> (also called fat tailed distributions) - Probability distributions, where one tail decreases towards zero more slowly than if it was a normal bell shaped distribution. E.g., the probability distribution of impact across global health interventions is heavy-tailed because the most effective interventions are many times more effective than the average, so most of the overall impact comes from these extremely effective interventions.
 
 <a target="_blank" href="https://www.merriam-webster.com/dictionary/hedonic">Hedonic</a> - relating to or characterised by pleasure. 
 
@@ -165,7 +165,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://wiki.lesswrong.com/wiki/Hedon">Hedons</a> - The unit philosophers use to quantify pleasure. Hedons are abstract units with no standardised metric.
 
-<a target="_blank" href="https://conceptually.org/concepts/heuristics">Heuristics</a> - Mental shortcuts we use to make decisions. Using ‘common sense’ is a heuristic that we use to determine an answer without searching comprehensively for all the facts ourselves. E.g. the availability heuristic: if events are easier to recall, our brains assume that they’re more likely to occur. 
+<a target="_blank" href="https://conceptually.org/concepts/heuristics">Heuristics</a> - Mental shortcuts we use to make decisions. Using ‘common sense’ is a heuristic that we use to determine an answer without searching comprehensively for all the facts ourselves. E.g., the availability heuristic: if events are easier to recall, our brains assume that they’re more likely to occur. 
 
 <a target="_blank" href="http://www.hpmor.com/#content">H.P.M.O.R. (Harry Potter and the Methods of Rationality)</a> - Eliezer Yudkowsky‘s epic Harry Potter fanfiction that rewrites the story on the premise of Harry understanding cognitive biases and logical fallacies. 
 
@@ -174,18 +174,19 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Importance,Tractability, Neglectedness (ITN)</a> OR Scale, Neglectedness, Solvability (SNS) - a framework used within the EA community to decide which cause areas or interventions are likely to be more promising to focus on. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/information-hazards/">Information hazard</a> - Risks that arise when the dissemination or the potential dissemination of true information can cause harm. E.g. the genetic sequence of a lethal pathogen or a blueprint for making a thermonuclear weapon.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/information-hazards/">Information hazard</a> - Risks that arise when the dissemination or potential dissemination of true information can cause harm. E.g., the genetic sequence of a lethal pathogen or a blueprint for making a thermonuclear weapon.
 
 # J
 
 <a name="L"></a>
 # L
 
-<a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Leveraging donations</a> - The influence of donations on how others (other donors, governments, or the private sector) allocate their funds. E.g. if a charity has the money to pay for the distribution of deworming tablets, this influences pharmaceutical companies to donate the tablets. 
+<a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Leveraging donations</a> - The influence of donations on how others (other donors, governments, or the private sector) allocate their funds. E.g., if a charity has the money to pay for the distribution of deworming tablets, this influences pharmaceutical companies to donate the tablets. 
 
-Light cone - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
 
-Log of consumption/income - The log is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore the benefits proportional to the log of the increase in income. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a> - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
+
+Log of consumption/income - The natural logarithm (log) is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore, the benefits are proportional to the log of the increase in income. 
 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-long-term-future/">Long term future (LTF)</a> - More than 100 years into the future, often used in relation to the millions or billions of years that humans and their descendents could live. 
@@ -227,7 +228,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 <a name="O"></a>
 # O
 
-<a target="_blank" href="https://causeprioritization.org/Moral_offset/">Offsetting</a> - Compensating for taking an action that may be immoral or harmful by counteracting it in some positive way, for example donating to protect rainforests to offset the carbon emissions of flying, or donating to an animal advocacy organisation to offset consuming meat. 
+<a target="_blank" href="https://causeprioritization.org/Moral_offset">Offsetting</a> - Compensating for taking an action that may be immoral or harmful by counteracting it in some positive way, for example donating to protect rainforests to offset the carbon emissions of flying, or donating to an animal advocacy organisation to offset consuming meat. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/opportunity-cost/">Opportunity cost</a> - The value of the best alternative action that could be or could have been taken instead of the action being considered. 
 
@@ -242,17 +243,17 @@ Log of consumption/income - The log is a mathematical function that is the inver
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Pascal%27s_mugging">Pascal’s mugging</a> - A thought-experiment demonstrating a problem in expected utility maximization. In one version the mugger, who has forgotten their weapon, promises to return tomorrow with much more money, if you’ll just hand over your wallet. While it is very unlikely that deal will be honoured, the mugger argues back that for any low probability of being able to pay back a large amount of money there exists a finite amount that makes it rational to take the bet. Sometimes used as a criticism of arguments that state we ought to take actions that have a tiny chance of preventing human extinction due to the possible upside of enabling trillions of future sentient lives to come into existence.  
 
-<a target="_blank" href="https://rationalwiki.org/wiki/Pascal%27s_wager/">Pascal’s wager</a> - The argument that one should believe in God because the potential gains are infinitely good but the potential losses are insignificant. 
+<a target="_blank" href="https://rationalwiki.org/wiki/Pascal%27s_wager">Pascal’s wager</a> - The argument that one should believe in God because the potential gains are infinitely good but the potential losses are insignificant. 
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view/">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80,000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
 
 <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Pond Analogy</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Population_ethics/">Population ethics</a> - The consideration of how our actions affect who is born and how many people are born in the future.
+<a target="_blank" href="https://en.wikipedia.org/wiki/Population_ethics">Population ethics</a> - The consideration of how our actions affect who is born and how many people are born in the future.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Precautionary_principle/">Precautionary principle</a> - A principle suggesting caution should be used when considering an action that has a possibility of harm to the public, especially when there is a lack of scientific evidence to address the safety concerns. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Precautionary_principle">Precautionary principle</a> - A principle suggesting caution should be used when considering an action that has a possibility of harm to the public, especially when there is a lack of scientific evidence to address the safety concerns. 
 
 
 <a target="_blank" href="https://wiki.lesswrong.com/wiki/Priors">Priors</a> - The beliefs a person holds regarding a fact, hypothesis or consequence, before being presented with new evidence.
@@ -261,14 +262,14 @@ Log of consumption/income - The log is a mathematical function that is the inver
 # Q
 
 <a name="qaly"></a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/Quality-adjusted_life_year/">Quality Adjusted Life Year (QALY)</a> - A measure of the equivalent of years of lived in perfect health. Usually in relation to health care interventions that can improve health and/or extend life. See also [HALY](#haly) and [DALY](#daly).
+<a target="_blank" href="https://en.wikipedia.org/wiki/Quality-adjusted_life_year">Quality Adjusted Life Year (QALY)</a> - A measure of the equivalent of years of lived in perfect health. Usually in relation to health care interventions that can improve health and/or extend life. See also [HALY](#haly) and [DALY](#daly).
 
 <a name="R"></a>
 # R
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/randomized-controlled-trials/">Randomised control trial (RCT)</a> - A scientific study to gain evidence about the impact of an intervention, by splitting the study participants into randomly assigned treatment or control groups and comparing the outcomes between these groups. 
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Rationality/">Rationality</a> - Being based on or agreeable to reason, using logical reasoning in your thinking and decision-making process. 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Rationality">Rationality</a> - Being based on or agreeable to reason, using logical reasoning in your thinking and decision-making process. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/risk-aversion/">Risk aversion</a> - A preference for the safe option over one that carries a higher risk, even if the higher risk option had a higher [expected value](#expectedvalue).
 
@@ -278,7 +279,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 <a name="S"></a>
 # S
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Suffering_risk/">S-risk</a> - Risk of the creation of suffering in the far future on an astronomical scale, vastly exceeding all suffering that has existed on Earth so far.
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Suffering_risk">S-risk</a> - Risk of the creation of suffering in the far future on an astronomical scale, vastly exceeding all suffering that has existed on Earth so far.
 
 <a target="_blank" href="https://www.lesswrong.com/posts/PtAuvfG9dgkPFLHbk/measuring-the-sanity-waterline/">Sanity waterline</a> - A metaphor used to describe the level of rationality in our civilisation.
 
@@ -312,15 +313,15 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
 
 <a target="_blank" href="https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence/">Transformative Artificial Intelligence (TAI)</a> -  AI that precipitates a transition in society comparable to (or more significant than) the agricultural or industrial revolution.
  
-<a target="_blank" href="https://en.wikipedia.org/wiki/Transhumanism/">Transhumanism</a> - A movement that advocates for the transformation of the human condition to enhance intellect and physiology. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Transhumanism">Transhumanism</a> - A movement that advocates for the transformation of the human condition to enhance intellect and physiology. 
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Trolley_problem/">Trolley problems</a> - A series of thought experiments to determine how we value and make decisions about human life, usually by making us consider whether we should take an action that will result in one person’s death in order to save five other people from death. See <a target="_blank" href="https://www.youtube.com/watch?v=bOpf6KcWYyw">this youtube video</a> for a simple outline. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Trolley_problem">Trolley problems</a> - A series of thought experiments to determine how we value and make decisions about human life, usually by making us consider whether we should take an action that will result in one person’s death in order to save five other people from death. See <a target="_blank" href="https://www.youtube.com/watch?v=bOpf6KcWYyw">this youtube video</a> for a simple outline. 
 
 
 <a name="U"></a>
 # U
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/unilateralists-curse/">Unilateralists Curse</a> - When a number of altruistically minded people each has the ability to “unilaterally” take an action that would accidentally cause harm to others, the probability that the action will be taken by someone will be higher the more people there are independently choosing whether to take this action. Often used in relation to risks of making information public. E.g. A group of scientists create a new strain of a disease, and have varying opinions of the risk of making their work public. Even if most of the scientists think it is too risky to make the discovery public, the work will be made public if the scientist with the lowest assessment of risk decides it is worth making it public. The more scientists in the group, the larger the chance that one will go public. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/unilateralists-curse/">Unilateralists Curse</a> - When a number of altruistically minded people each has the ability to “unilaterally” take an action that would accidentally cause harm to others, the probability that the action will be taken by someone will be higher the more people there are independently choosing whether to take this action. Often used in relation to risks of making information public. E.g., a group of scientists create a new strain of a disease, and have varying opinions of the risk of making their work public. Even if most of the scientists think it is too risky to make the discovery public, the work will be made public if the scientist with the lowest assessment of risk decides it is worth making it public. The more scientists in the group, the larger the chance that one will go public. 
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-global-2018-ubi/">Universal Basic Income (UBI)</a> - A periodic cash payment delivered to all on an individual basis without means test or work requirement. It is unconditional, automatic and would be considered a basic right. Check out <a target="_blank" href="https://www.givedirectly.org/basic-income/">GiveDirectly’s UBI research</a>. 
 
