@@ -41,7 +41,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/career-capital/">Career capital</a> - The collection of skills, connections, and credentials that allow a person to have an impact in their job. 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause." 
+<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
 
 <a target="_blank" href="http://www.harvardea.org/terms">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
 
@@ -57,7 +57,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a name="consequentialism"></a>
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this action. Utilitarianism is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
 
-<a target="_blank" href="https://conceptually.org/concepts/coordination-problems">Coordination Problem</a> - A problem that requires several people (or groups of people) to coordinate to reach the best outcome. <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">The prisoner’s dilemma</a> is a famous example of a coordination problem. An EA example: People see that there is a skill that is neglected in the EA community, so they learn that skill. If too many people take this action the skill becomes oversupplied, but if we are able to coordinate we may fill all the skill shortages over time. More examples.  
+<a target="_blank" href="https://conceptually.org/concepts/coordination-problems">Coordination Problem</a> - A problem that requires several people (or groups of people) to coordinate to reach the best outcome. <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">The prisoner’s dilemma</a> is a famous example of a coordination problem. An EA example: People see that there is a skill that is neglected in the EA community, so they learn that skill. If too many people take this action the skill becomes oversupplied, but if we are able to coordinate we may fill all the skill shortages over time. 
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/etvgLwj59Bs74cuxX/cosmopolitanism">Cosmopolitanism</a> - An inclusive view of the world that sees the interests of human beings of all nationalities as having equal importance. 
 
@@ -69,10 +69,10 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://conceptually.org/concepts/signalling-and-countersignalling">Counter-signalling</a> - A type of signalling behaviour that displays a certain trait by acting in a contradictory manner. For example, being rich enough that displaying your wealth becomes unnecessary because people already know you can afford to, or being good enough friends that you can make disparaging comments confidently aware that the friend knows you are joking. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/credences/">Credence(s)</a> - Degree of confidence or probability that a given proposition is true..
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/credences/">Credence(s)</a> - Degree of confidence or probability that a given proposition is true.
 
 <a name="crucial"></a>
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/">Crucial Considerations</a> - Information that has the potential to radically change your view on a topic, or on an action. E.g. Whether insects are capable of suffering is a crucial consideration in determining the scale of wild animal suffering.  
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/">Crucial Considerations</a> - Information that has the potential to radically change your view on a topic or action, e.g., whether insects are capable of suffering is a crucial consideration in determining the scale of wild animal suffering.  
 
 
 <a name="D"></a>
@@ -80,11 +80,11 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/decision-theory">Decision theory</a> - The study of how to choose actions or strategies that combine your views about the world with what you value. 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/#should-i-vote-in-the-national-election">Deliberation ladder</a> - A sequence of [crucial considerations](#crucial) regarding the same high-level subgoal, where the considerations hold in opposing directions. E.g. when asking the question “should I vote?”, your ladder could consist of “yes, I want to put a good politician in office”, “but my vote is unlikely to make a difference”, “but it could be a close election then I should vote”, “but if it is close then perhaps the candidates are of similar quality” etc. 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/#should-i-vote-in-the-national-election">Deliberation ladder</a> - A sequence of [crucial considerations](#crucial) regarding the same high-level subgoal, where the considerations hold in opposing directions. E.g., when asking the question “should I vote?”, your ladder could consist of “yes, I want to put a good politician in office”, “but my vote is unlikely to make a difference”, “but it could be a close election then I should vote”, “but if it is close then perhaps the candidates are of similar quality”, etc. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/deontology/">Deontology</a> - A group of moral rules or duties held as valuable irrespective of their effect or consequences. E.g. a deontological rule could be “do not kill another person”, which would mean it would be wrong to kill even if there were good consequences, e.g. if the person was about to murder other people. See ‘[Consequentialism](#consequentialism)’ for an opposing view.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/deontology/">Deontology</a> - A group of moral rules or duties held as valuable irrespective of their effect or consequences. E.g., a deontological rule could be “do not kill another person”, which would mean it would be wrong to kill even if there were good consequences, e.g. if the person was about to murder other people. See ‘[Consequentialism](#consequentialism)’ for an opposing view.
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/diminishing-returns/">Diminishing returns or value </a>- A decrease in the marginal value of an action or process as the amount of work that is put in increases. E.g. If a country of 20 million people has no vaccines for a common illness, providing 1 million vaccines for their most vulnerable citizens could be highly valuable, however, providing 1 million vaccines when they already have 19 million vaccines will be significantly less valuable.  
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/diminishing-returns/">Diminishing returns or value </a>- A decrease in the marginal value of an action or process as the amount of work that is put in increases. E.g., if a country of 20 million people has no vaccines for a common illness, providing 1 million vaccines for their most vulnerable citizens could be highly valuable, however, providing 1 million vaccines when they already have 19 million vaccines will be significantly less valuable.  
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/direct-work/">Direct Work</a> - Spending time/effort directly on a problem. 
 
@@ -142,7 +142,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a name="G"></a>
 # G
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/global-catastrophic-risks/">Global catastrophic risks (GCRs)</a> - All risks with the potential to cause serious harm on a global scale. Includes [existential risks](#existentialrisks), but is not limited to them. Catastrophic risks that may not threaten human existence outright include political instability leading to increased warfare, or mass deaths from disease, climate change or geo-engineering.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/global-catastrophic-risks/">Global catastrophic risks (GCRs)</a> - All risks with the potential to cause serious harm on a global scale. Includes <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">existential risks</a>, but is not limited to them. Catastrophic risks that may not threaten human existence outright include political instability leading to increased warfare, or mass deaths from disease, climate change or geo-engineering.
 
 <a target="_blank" href="https://www.lesswrong.com/posts/YtvZxRpZjcFNwJecS/the-importance-of-goodhart-s-law">Goodhart's law</a> - An adage named after economist Charles Goodhart: "When a measure becomes a target, it ceases to be a good measure."
 
