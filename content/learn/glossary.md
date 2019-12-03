@@ -41,9 +41,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/career-capital/">Career capital</a> - The collection of skills, connections, and credentials that allow a person to have an impact in their job. 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/understanding-cause-neutrality/">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
 
-<a target="_blank" href="http://www.harvardea.org/terms">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
+<a target="_blank" href="https://causeprioritization.org/Cause_prioritization</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/moral-progress-and-cause-x/">Cause-X</a> -  A cause that's one of the most important moral problems of our time that we haven’t yet realised the importance of. 
 
