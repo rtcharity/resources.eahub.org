@@ -30,13 +30,13 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 * <a target="_blank" href="https://drive.google.com/open?id=1orfPyWps4bgPmEbZpPxChwy4_7tGTmVNpjHB51c4NPc">Longtermism</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1S8wtezuQTC0YIYdefWSiA-yJefVL8nP1mH1D2IPYTBE/edit#heading=h.avbpqexvhea">Criticisms of EA</a>
 
-These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwalla, Saulius Šimčikas and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact-lean/">contact us</a>. 
+These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwalla, Saulius Šimčikas and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact/">contact us</a>. 
 
 # Other reading lists:
 * The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more. Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format. 
 
-* Will MacAskill’s <a target="_blank" href="https://fivebooks.com/best-books/effective-altruism-will-macaskill/">Five Books list</a>.  and interview. 
-* Good Reads <a target="_blank" href="https://www.goodreads.com/list/show/107382.Effective_Altruism_Books">list of Effective Altruism Books</a>.
+* Will MacAskill’s <a target="_blank" href="https://fivebooks.com/best-books/effective-altruism-will-macaskill/">Five Books list</a> and interview. 
+* Goodreads' <a target="_blank" href="https://www.goodreads.com/list/show/107382.Effective_Altruism_Books">list of Effective Altruism Books</a>.
 * The Life You Can Save’s <a target="_blank" href="https://docs.google.com/document/d/1O8yiwLg2jWP4RYKaD5MM0xtCr5VbsUt5OPrSdDZEtls/edit">list of books and films</a> mostly on Global Poverty.
 
 <hr>
