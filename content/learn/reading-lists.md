@@ -35,8 +35,8 @@ These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwall
 # Other reading lists:
 * The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more. Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format. 
 
-* Will MacAskill’s <a target="_blank" href="https://fivebooks.com/best-books/effective-altruism-will-macaskill/">Five Books list</a>.  and interview. 
-* Good Reads <a target="_blank" href="https://www.goodreads.com/list/show/107382.Effective_Altruism_Books">list of Effective Altruism Books</a>.
+* Will MacAskill’s <a target="_blank" href="https://fivebooks.com/best-books/effective-altruism-will-macaskill/">Five Books list</a> and interview. 
+* Goodreads' <a target="_blank" href="https://www.goodreads.com/list/show/107382.Effective_Altruism_Books">list of Effective Altruism Books</a>.
 * The Life You Can Save’s <a target="_blank" href="https://docs.google.com/document/d/1O8yiwLg2jWP4RYKaD5MM0xtCr5VbsUt5OPrSdDZEtls/edit">list of books and films</a> mostly on Global Poverty.
 
 <hr>
