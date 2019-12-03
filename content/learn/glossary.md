@@ -82,7 +82,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/#should-i-vote-in-the-national-election">Deliberation ladder</a> - A sequence of [crucial considerations](#crucial) regarding the same high-level subgoal, where the considerations hold in opposing directions. E.g., when asking the question “should I vote?”, your ladder could consist of “yes, I want to put a good politician in office”, “but my vote is unlikely to make a difference”, “but it could be a close election then I should vote”, “but if it is close then perhaps the candidates are of similar quality”, etc. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/deontology/">Deontology</a> - A group of moral rules or duties held as valuable irrespective of their effect or consequences. E.g., a deontological rule could be “do not kill another person”, which would mean it would be wrong to kill even if there were good consequences, e.g. if the person was about to murder other people. See ‘[Consequentialism](#consequentialism)’ for an opposing view.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/deontology/">Deontology</a> - A group of moral rules or duties held as valuable irrespective of their effect or consequences. E.g., a deontological rule could be “do not kill another person”, which would mean it would be wrong to kill even if there were good consequences, e.g., if the person was about to murder other people. See ‘[Consequentialism](#consequentialism)’ for an opposing view.
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/diminishing-returns/">Diminishing returns or value </a>- A decrease in the marginal value of an action or process as the amount of work that is put in increases. E.g., if a country of 20 million people has no vaccines for a common illness, providing 1 million vaccines for their most vulnerable citizens could be highly valuable, however, providing 1 million vaccines when they already have 19 million vaccines will be significantly less valuable.  
 
@@ -123,7 +123,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/expected-value-theory/">Expected value</a> - A way of considering options based on the value of a possible outcome multiplied by the probability of that outcome occurring, giving the probability-weighted average of all possible outcomes.
 
 
-<a target="_blank" href="https://conceptually.org/concepts/explore-or-exploit/">Explore/Exploit tradeoff</a> - The tradeoff between using the information or skills you have now (‘exploiting’), or learning more (‘explore’). E.g. a person seeking a high-impact career may have to weigh up taking a known path they believe to be high-impact, or learning more to find out if there is a higher impact path available. 
+<a target="_blank" href="https://conceptually.org/concepts/explore-or-exploit/">Explore/Exploit tradeoff</a> - The tradeoff between using the information or skills you have now (‘exploiting’), or learning more (‘explore’). E.g., a person seeking a high-impact career may have to weigh up taking a known path they believe to be high-impact, or learning more to find out if there is a higher impact path available. 
 
 
 <a name="F"></a>
@@ -135,7 +135,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.effectivealtruism.org/get-involved/take-the-founders-pledge/">Founders pledge</a> - Commitment by start-up founders to give a percentage of their future exit or liquidity event earnings to the high-impact charities of their choice.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Fungibility">Fungibility</a> - The property of a good or a commodity whose individual units are essentially interchangeable, and each of its parts is indistinguishable from another part. E.g. cash is fungible as all $10s are the same. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Fungibility">Fungibility</a> - The property of a good or a commodity whose individual units are essentially interchangeable, and each of its parts is indistinguishable from another part. E.g., cash is fungible as all $10s are the same. 
 
 <a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Funging</a> - Crowding out a particular project with funding that would have otherwise come from elsewhere. 
 
@@ -157,7 +157,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a name="haly"></a>
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/measuring-healthy-life-years/">Health adjusted life year (HALY)</a> - A combined measure of mortality (death) and morbidity (level of ill-health/wellbeing) to quantify the burden of a disease. (see also [DALY](#daly) and [QALY](#qaly)). 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/">Heavy-tailed distributions</a> (also called fat tailed distributions) - Probability distributions, where one tail decreases towards zero more slowly than if it was a normal bell shaped distribution. E.g. the probability distribution of impact across global health interventions is heavy-tailed because the most effective interventions are many times more effective than the average, so most of the overall impact comes from these extremely effective interventions.
+<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/">Heavy-tailed distributions</a> (also called fat tailed distributions) - Probability distributions, where one tail decreases towards zero more slowly than if it was a normal bell shaped distribution. E.g., the probability distribution of impact across global health interventions is heavy-tailed because the most effective interventions are many times more effective than the average, so most of the overall impact comes from these extremely effective interventions.
 
 <a target="_blank" href="https://www.merriam-webster.com/dictionary/hedonic">Hedonic</a> - relating to or characterised by pleasure. 
 
@@ -165,7 +165,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://wiki.lesswrong.com/wiki/Hedon">Hedons</a> - The unit philosophers use to quantify pleasure. Hedons are abstract units with no standardised metric.
 
-<a target="_blank" href="https://conceptually.org/concepts/heuristics">Heuristics</a> - Mental shortcuts we use to make decisions. Using ‘common sense’ is a heuristic that we use to determine an answer without searching comprehensively for all the facts ourselves. E.g. the availability heuristic: if events are easier to recall, our brains assume that they’re more likely to occur. 
+<a target="_blank" href="https://conceptually.org/concepts/heuristics">Heuristics</a> - Mental shortcuts we use to make decisions. Using ‘common sense’ is a heuristic that we use to determine an answer without searching comprehensively for all the facts ourselves. E.g., the availability heuristic: if events are easier to recall, our brains assume that they’re more likely to occur. 
 
 <a target="_blank" href="http://www.hpmor.com/#content">H.P.M.O.R. (Harry Potter and the Methods of Rationality)</a> - Eliezer Yudkowsky‘s epic Harry Potter fanfiction that rewrites the story on the premise of Harry understanding cognitive biases and logical fallacies. 
 
@@ -174,14 +174,14 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Importance,Tractability, Neglectedness (ITN)</a> OR Scale, Neglectedness, Solvability (SNS) - a framework used within the EA community to decide which cause areas or interventions are likely to be more promising to focus on. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/information-hazards/">Information hazard</a> - Risks that arise when the dissemination or potential dissemination of true information can cause harm. E.g. the genetic sequence of a lethal pathogen or a blueprint for making a thermonuclear weapon.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/information-hazards/">Information hazard</a> - Risks that arise when the dissemination or potential dissemination of true information can cause harm. E.g., the genetic sequence of a lethal pathogen or a blueprint for making a thermonuclear weapon.
 
 # J
 
 <a name="L"></a>
 # L
 
-<a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Leveraging donations</a> - The influence of donations on how others (other donors, governments, or the private sector) allocate their funds. E.g. if a charity has the money to pay for the distribution of deworming tablets, this influences pharmaceutical companies to donate the tablets. 
+<a target="_blank" href="https://blog.givewell.org/2018/02/13/revisiting-leverage/">Leveraging donations</a> - The influence of donations on how others (other donors, governments, or the private sector) allocate their funds. E.g., if a charity has the money to pay for the distribution of deworming tablets, this influences pharmaceutical companies to donate the tablets. 
 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a> - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
@@ -247,7 +247,7 @@ Log of consumption/income - The natural logarithm (log) is a mathematical functi
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80,000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
 
 <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Pond Analogy</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
 
