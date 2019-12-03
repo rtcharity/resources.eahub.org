@@ -186,7 +186,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a> - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
 
-Log of consumption/income - The log is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore the benefits proportional to the log of the increase in income. 
+Log of consumption/income - The natural logarithm (log) is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore, the benefits are proportional to the log of the increase in income. 
 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-long-term-future/">Long term future (LTF)</a> - More than 100 years into the future, often used in relation to the millions or billions of years that humans and their descendents could live. 
@@ -228,7 +228,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 <a name="O"></a>
 # O
 
-<a target="_blank" href="https://causeprioritization.org/Moral_offset/">Offsetting</a> - Compensating for taking an action that may be immoral or harmful by counteracting it in some positive way, for example donating to protect rainforests to offset the carbon emissions of flying, or donating to an animal advocacy organisation to offset consuming meat. 
+<a target="_blank" href="https://causeprioritization.org/Moral_offset">Offsetting</a> - Compensating for taking an action that may be immoral or harmful by counteracting it in some positive way, for example donating to protect rainforests to offset the carbon emissions of flying, or donating to an animal advocacy organisation to offset consuming meat. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/opportunity-cost/">Opportunity cost</a> - The value of the best alternative action that could be or could have been taken instead of the action being considered. 
 
@@ -243,7 +243,7 @@ Log of consumption/income - The log is a mathematical function that is the inver
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Pascal%27s_mugging">Pascal’s mugging</a> - A thought-experiment demonstrating a problem in expected utility maximization. In one version the mugger, who has forgotten their weapon, promises to return tomorrow with much more money, if you’ll just hand over your wallet. While it is very unlikely that deal will be honoured, the mugger argues back that for any low probability of being able to pay back a large amount of money there exists a finite amount that makes it rational to take the bet. Sometimes used as a criticism of arguments that state we ought to take actions that have a tiny chance of preventing human extinction due to the possible upside of enabling trillions of future sentient lives to come into existence.  
 
-<a target="_blank" href="https://rationalwiki.org/wiki/Pascal%27s_wager/">Pascal’s wager</a> - The argument that one should believe in God because the potential gains are infinitely good but the potential losses are insignificant. 
+<a target="_blank" href="https://rationalwiki.org/wiki/Pascal%27s_wager">Pascal’s wager</a> - The argument that one should believe in God because the potential gains are infinitely good but the potential losses are insignificant. 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Person-affecting_view/">Person-affecting views</a> - The idea that an action is only good or bad if it affects someone. This implies that, because non-existence is not harmful, there is no moral obligation to create people. 
 
