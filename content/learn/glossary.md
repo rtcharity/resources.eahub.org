@@ -262,14 +262,14 @@ Log of consumption/income - The natural logarithm (log) is a mathematical functi
 # Q
 
 <a name="qaly"></a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/Quality-adjusted_life_year/">Quality Adjusted Life Year (QALY)</a> - A measure of the equivalent of years of lived in perfect health. Usually in relation to health care interventions that can improve health and/or extend life. See also [HALY](#haly) and [DALY](#daly).
+<a target="_blank" href="https://en.wikipedia.org/wiki/Quality-adjusted_life_year">Quality Adjusted Life Year (QALY)</a> - A measure of the equivalent of years of lived in perfect health. Usually in relation to health care interventions that can improve health and/or extend life. See also [HALY](#haly) and [DALY](#daly).
 
 <a name="R"></a>
 # R
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/randomized-controlled-trials/">Randomised control trial (RCT)</a> - A scientific study to gain evidence about the impact of an intervention, by splitting the study participants into randomly assigned treatment or control groups and comparing the outcomes between these groups. 
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Rationality/">Rationality</a> - Being based on or agreeable to reason, using logical reasoning in your thinking and decision-making process. 
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Rationality">Rationality</a> - Being based on or agreeable to reason, using logical reasoning in your thinking and decision-making process. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/risk-aversion/">Risk aversion</a> - A preference for the safe option over one that carries a higher risk, even if the higher risk option had a higher [expected value](#expectedvalue).
 
@@ -279,7 +279,7 @@ Log of consumption/income - The natural logarithm (log) is a mathematical functi
 <a name="S"></a>
 # S
 
-<a target="_blank" href="https://wiki.lesswrong.com/wiki/Suffering_risk/">S-risk</a> - Risk of the creation of suffering in the far future on an astronomical scale, vastly exceeding all suffering that has existed on Earth so far.
+<a target="_blank" href="https://wiki.lesswrong.com/wiki/Suffering_risk">S-risk</a> - Risk of the creation of suffering in the far future on an astronomical scale, vastly exceeding all suffering that has existed on Earth so far.
 
 <a target="_blank" href="https://www.lesswrong.com/posts/PtAuvfG9dgkPFLHbk/measuring-the-sanity-waterline/">Sanity waterline</a> - A metaphor used to describe the level of rationality in our civilisation.
 
