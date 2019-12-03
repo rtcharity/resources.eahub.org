@@ -315,7 +315,7 @@ Tail Risk - The risk from the possibility of an extreme event. Probability distr
  
 <a target="_blank" href="https://en.wikipedia.org/wiki/Transhumanism">Transhumanism</a> - A movement that advocates for the transformation of the human condition to enhance intellect and physiology. 
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Trolley_problem/">Trolley problems</a> - A series of thought experiments to determine how we value and make decisions about human life, usually by making us consider whether we should take an action that will result in one person’s death in order to save five other people from death. See <a target="_blank" href="https://www.youtube.com/watch?v=bOpf6KcWYyw">this youtube video</a> for a simple outline. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Trolley_problem">Trolley problems</a> - A series of thought experiments to determine how we value and make decisions about human life, usually by making us consider whether we should take an action that will result in one person’s death in order to save five other people from death. See <a target="_blank" href="https://www.youtube.com/watch?v=bOpf6KcWYyw">this youtube video</a> for a simple outline. 
 
 
 <a name="U"></a>
