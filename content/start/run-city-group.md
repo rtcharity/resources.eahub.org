@@ -31,9 +31,11 @@ Your goals will determine the types of events and activities you should run. Onc
 
 Different groups have very different goals, but the most common goals of EA groups are assisting EAs to take effective career paths, recruiting new people to effective altruism and making the group welcoming. This is shown below (from the Local Group Survey 2019).
 
+<a href="/img/localgroupfocus.png">
 <p class="xl_image_wrapper">
 <img src="/img/localgroupfocus.png" />
 </p>
+</a>
 
 
 # Who Should Start a City Group?
