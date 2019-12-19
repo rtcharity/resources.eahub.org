@@ -21,7 +21,7 @@ You can also check out the <a target="_blank" href="/tips/support/">Groups Suppo
 # Register Your Group
 Register your group on the Effective Altruism Hub <a target="_blank" href="https://eahub.org/groups/">website</a>. The EA Hub hosts the official list of EA groups. 
 # Get an Email Address and Cloud Storage for Your Group
-To ensure your current or future co-organisers can access emails and files for your group, it is very useful to have a group email address and a place to store files. Some uni groups can be given an official university email, but most groups choose to create a group gmail account which includes a Google drive. It is also possible to get a more <a href="#website">official-looking email address</a>.
+To ensure your current or future co-organisers can access emails and files for your group, it is very useful to have a group email address and a place to store files. Some uni groups can be given an official university email, but most groups choose to create a group gmail account which includes a Google drive. It is also possible to get a more <a href="#website">official-looking email address.</a>
 
 Make sure this email gets checked regularly—if it is more convenient for you, it is usually possible to funnel mail sent to multiple email addresses through to a single inbox. For instance, <a target="_blank" href=" https://support.google.com/mail/answer/21289/">use these instructions</a> to get your emails to go to a single gmail account. 
 # Set up Social Media and an Email List
