@@ -168,7 +168,7 @@ About 40% of groups believe that their group is more likely than not to stop run
 
 Some groups take several years before they are firmly established. You should consider whether you’ll be around for long enough to guide your group to maturity and whether you have a competent successor who can take things over when you leave. It’s very common for groups to go defunct when skilled organisers graduate, so if you will be graduating soon, focus on recruiting younger students and pick out and train future organisers as early as you can. This could even be your most important task as a group organiser. 
 
-More information on preparing to handover leadership can be found <a target="_blank" href="/tips/handover">here</a>. 
+More information on preparing to hand over leadership can be found <a target="_blank" href="/tips/handover">here</a>. 
 
 <hr>
 
