@@ -5,8 +5,8 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-<p class="large_image_wrapper">
- <img src="/img/easydneystartwhy.png" float="left">
+<p class="small_image_wrapper">
+ <img src="/img/easydneystartwhy.png" />
 </p>
 
 *Image: EA Sydney*
