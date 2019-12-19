@@ -5,13 +5,13 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
+### *Published 14th September 2019*
 <p class="small_image_wrapper">
  <img src="/img/easydneystartwhy.png" />
 </p>
 
 *Image: EA Sydney*
 
-### *Published 14th September 2019*
 
 # Why work on building the EA movement?
 
