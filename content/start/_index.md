@@ -35,7 +35,7 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 
 ## Uni Groups
 
-* ### [Why Start an EA Group?](/start/why/) START HERE
+* ### [Why Start an EA Group?](/start/why/) START HERE ###
 * ### [What is Involved in Running a Group?](/start/run-uni-group)
 * ### [Useful Knowledge](/start/knowledge/)
 * ### [Get Support and Start Your Group](/start/support/)
