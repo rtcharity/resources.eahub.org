@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### Published 21st September 2019
+### *Published 21st September 2019*
 
 <p class="large_image_wrapper">
 <img src="/img/startuq.jpg" />
@@ -14,13 +14,13 @@ _Image: EA University of Queensland_
 
 Some groups attribute their success to having a strong start. EA NTNU aimed to look like an established professional group from the very start by having t-shirts, posters, flyers, and banners, along with planning out their activities in advance. The idea is that people are more likely to jump on board with a club that seems like it is already lively. 
 
-So, if you have the capacity and desire for a lot of planning, this might be worth doing. But if you don’t have the ability to be very organised at the start, don’t worry, starting small has worked for many groups, too. 
+So, if you have the capacity and desire for a lot of planning, this might be worth doing. But if you don’t have the ability to be very organised at the start, don’t worry, starting small has worked for many groups too. 
 # Clubs Fair
 Your university’s clubs fair (also called Freshers’ Fair, Activities Fair and Orientation) is probably the best opportunity you’ll have all year to attract members. Some universities have them at the start of each academic year, and some hold them at the start of each intake, often two times a year. 
 
-<a target="_blank_" href="/events/clubs-fair/">Here is a guide to making the most of clubs fairs and other tabling opportunities</a>. This guide is mostly designed for clubs who have several people to help with the time to organise. You may wish to scale back some or all of these suggestions if you have less capacity. 
+<a target="_blank_" href="/events/clubs-fair/">Here is a guide to make the most of clubs fairs and other tabling opportunities</a>. This guide is mostly designed for clubs who have several people to help with the time to organise. You may wish to scale back some or all of these suggestions if you have less capacity. 
 # Advertising
-Your clubs fair is your best advertisement at the start of the year, but there are also other opportunities, including posters and flyers, connecting with other clubs, and getting shout-outs in lectures. 
+Your clubs fair is your best advertisement at the start of the year, but there are also other opportunities including posters and flyers, connecting with other clubs, and getting shout-outs in lectures. 
 
 More information about advertising your group is coming soon. 
 # First Event
@@ -34,7 +34,7 @@ Here are some ideas for what to do during the first event:
 
 * Give a general <a target="_blank" href="/events/intro/">intro to effective altruism presentation or workshop</a>. This might be a good idea if you have confident speakers and are expecting more than 10 or 15 people to turn up. We recommend making this interactive so that people get to think and discuss ideas. One popular activity is a _giving game_, where participants choose which charity to donate a pot of money to. Another is a _cause-prioritization activity_ where participants assess a few cause areas and try to work out which one is the most pressing.
 
-* Read or view and discuss an introduction to EA. Some candidates are the articles <a target="_blank" href="https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/">Introduction to EA</a> and <a target="_blank" href="https://www.effectivealtruism.org/articles/efficient-charity-do-unto-others/">Do Unto Others</a>, and the videos <a target="_blank" href="https://www.ted.com/talks/will_macaskill_how_can_we_do_the_most_good_for_the_world/up-next?language=en">What are the Most Important Moral Problems of Our Time</a> (by Will MacAskill), or <a target="_blank" href="https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism/up-next?language=en">The Why and How of Effective Altruism</a> (by Peter Singer). Resources and tips for holding discussion groups <a target="_blank" href="/events/discussion/">are here</a>.
+* Read, or view and discuss, an introduction to EA. Some candidates are the articles <a target="_blank" href="https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/">Introduction to EA</a> and <a target="_blank" href="https://www.effectivealtruism.org/articles/efficient-charity-do-unto-others/">Do Unto Others</a>, and the videos <a target="_blank" href="https://www.ted.com/talks/will_macaskill_how_can_we_do_the_most_good_for_the_world/up-next?language=en">What are the Most Important Moral Problems of Our Time</a> (by Will MacAskill), and <a target="_blank" href="https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism/up-next?language=en">The Why and How of Effective Altruism</a> (by Peter Singer). Resources and tips for holding discussion groups <a target="_blank" href="/events/discussions/">are here</a>.
 
 * Consider, if your group is ambitious and has the time available, a prestigious speaker if you have one in your area. Big speaking events take a lot of time to organise and, although the turnout is good, usually few of the attendees convert to regular club members, so you might find there are better first activities for your group. Since this will be the first introduction to effective altruism for many attendees, it would be ideal if your speaker could talk about effective altruism. More information on hosting speakers can be found <a target="_blank" href="/events/speaker/">here</a>. 
 
