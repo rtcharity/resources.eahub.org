@@ -46,7 +46,7 @@ Effective Altruism [Name of Uni] aims to promote effective altruism in all its f
 2. Any other officer positions may be created and removed at the discretion of the President. 
 3. The President may represent the organisation, conduct Executive Board and general meetings, assign duties to and supervise officers, schedule and plan elections, and chart a vision for the organisation. 
 4. The Treasurer may maintain the account of the organisation, work with the Board and membership to determine budgets, apply for available funding, pay bills of the organisation when receipts for expenditures are turned in, submit quarterly reports to the membership, coordinate fundraising, and disburse monies as the organisation may direct. 
-5. The Secretary may maintain a yearly calendar of activities and goals, keep minutes of meetings, give written notice to all members of meetings and the agenda to be covered, issue press releases when deemed appropriate by the Board, maintain the Effective Altruism Name of Uni email list, and tally votes during any voting procedure. 
+5. The Secretary may maintain a yearly calendar of activities and goals, keep minutes of meetings, give written notice to all members of meetings and the agenda to be covered, issue press releases when deemed appropriate by the Board, maintain the Effective Altruism [Name of Uni] email list, and tally votes during any voting procedure. 
 
 ### Article 5: Election and Removal of Officers 
 
@@ -78,11 +78,11 @@ Some universities require clubs to have a faculty member act as an advisor for g
 
 * Get a copy of any booklet that the Student Union produces for clubs. 
 * Find out what resources are available to you, for instance: 
-* Rooms to meet in 
-* Tables and chairs for publicity events 
-* AV equipment 
-* Printing and copying 
-* Permanent email address for your group 
+   * Rooms to meet in
+   * Tables and chairs for publicity events 
+   * AV equipment 
+   * Printing and copying 
+   * Permanent email address for your group 
 * See if there are any events and/or awareness-raising weeks organised by Student Affairs, which you might be able to partner with (e.g. One World Week, RAG week). You may be able to get free publicity and resources through these. 
 * Find out if there is a contact list for other groups. Get in touch with like-minded groups and check their meeting and event times. You may want to attend events to meet people and casually recruit members, or you may want to team up with them for certain activities and events. 
 * Check what sources of funding/grants are available for student groups. 
