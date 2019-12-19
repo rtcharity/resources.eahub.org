@@ -32,7 +32,8 @@ If there are quite a few people at your university who are already interested in
 Different groups have very different goals, but the most common goals of EA groups are assisting EAs to adopt effective career paths, recruiting new people to EA, and fostering a  welcoming community (from the not-yet-published Local Group Survey 2019), as shown below.
 
 <p class="xl_image_wrapper" <a href=https://resources.eahub.org/img/localgroupfocus.png>
- <img src="/img/localgroupfocus.png" /> </a>
+ <img src="/img/localgroupfocus.png" /> 
+</a>
 </p>
 
 If you happen to gather members whose priorities substantially differ from yours, you may need to re-evaluate.
