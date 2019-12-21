@@ -1,6 +1,5 @@
 ---
 title: Tips for Running Discussion Groups
-date: 2019-10-17T02:22:37.883Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -139,7 +138,7 @@ The page on <a target="_blank" href="/tips/articles/sensitive-topics/">community
 
 
 
-
+<a name="tips"></a>
 # Tips for the facilitator 
 
 This role shouldn’t dominate the discussion, but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
