@@ -93,7 +93,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
     * Whether anyone is going to act differently in the future as a result of what was discussed today (this could be learn more about a topic, talk to someone, consider donating to a different charity etc)
 
 
-# Icebreaker ideas
+## Icebreaker ideas
 
 When there are new people, or people don't know each other well, ask people to introduce themselves, and answer one question, with a time limit (e.g. in 30 seconds or less) can get people talking. The time limit is useful to state in advance to make people think about being concise, but there is usually no need to look at your watch and police time. Start by telling the whole group the question, give people 30 seconds to think, and then select someone to start. Here are some suggestions:
 
