@@ -51,7 +51,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * This is useful if you want to get through several questions or if you wish to have more structure.
 * Handouts could include a summary of the topic (or of the assigned material) and a list of questions to help frame the conversation. There are <a target="_blank" href="/events/articles/content/">handouts on several topics</a> already created that you can modify to suit your group.
 
-## Marketing:
+## Marketing
 
 * If your group is small, make an effort to reach out to and include people beyond your existing circle of friends or acquaintances - people familiar with EA or anyone you think might be interested. Diversity of background in your group’s members increases the likelihood you’ll be introduced to ideas and resources you’re not already familiar with.
 * If you are assigning pre-reading, make it clear whether or not people should come if they don’t get a chance to read in advance. If the event will be useful for attendees who haven’t done the reading, then it is best to encourage people to come whether or not they have done the reading, and have the first question asking for a summary of the reading to get people up to speed. This also makes the event more welcoming to newcomers.
@@ -68,7 +68,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * Ideally the facilitator is well-prepared with notes, possible discussion questions and comments.
 * This role doesn’t have to be the group organiser.
 
-## Decide on a start and finish time for the discussion:
+## Decide on a start and finish time for the discussion
 
 * Think about a reasonable length for a discussion, and decide when the finish time is. After that time people may wish to hang around for drinks or more casual chats. 
 
@@ -89,8 +89,8 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * If you take notes during a discussion group, it is often better to use pen and paper, then transfer to a computer later. Using a laptop, while seemingly more convenient, can reduce eye contact and engagement. 
 * Review and wrap up the discussion. One suggestion to do this: A few minutes before the planned finish time, the facilitator can mention that the group has been talking about topic X for a while, and then pose a final question for everyone to answer if they wish, before thanking everyone for their participation and letting them know they can stay and chat for longer (and have more drinks and snacks if available). Suitable final questions could be:
     * Any remaining questions from the list of prepared questions
-    * What is the most important thing you’ve learnt during the reading and discussion
-    * Whether anyone is going to act differently in the future as a result of what was discussed today (this could be learn more about a topic, talk to someone, consider donating to a different charity etc)
+    * What is the most important thing you’ve learnt during the reading and discussion?
+    * Whether anyone is going to act differently in the future as a result of what was discussed today (this could be learn more about a topic, talk to someone, consider donating to a different charity etc.)
 
 
 ## Icebreaker ideas
@@ -110,7 +110,7 @@ When there are new people, or people don't know each other well, ask people to i
 
 ## General guidelines
 
-Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of don’ts. Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously. 
+Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of 'don’ts'. Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously. 
 
 Here are the suggestions from one group:
 
@@ -134,7 +134,7 @@ Julia Wise from CEA has the following suggestion for facilitators and organisers
 * Ideas for giving people chances to decide what they're up for:
     * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room."     * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
-The page on <a target="_blank" href="/tips/articles/sensitive-topics/">community health</a> provides more information. 
+The page on <a target="_blank" href="/tips/community-health">community health</a> provides more information. 
 
 
 
@@ -151,16 +151,11 @@ This role shouldn’t dominate the discussion, but exists to keep conversation f
 * You may wish to break the discussion in two if two or three people seem really keen to head the discussion in a particular direction.
 * Keep things light hearted - humour is good. 
 * Sometimes discussions can be dominated by one or two people - moderate this by asking quieter members directly for their opinions or thoughts, and give them a moment to respond (a little bit of silence is okay). Alternatively suggest discussion in pairs, then after a few minutes of discussion each group shares what they came up with. This allows people to have more thinking time, and also puts less pressure on any individual to have something to say. 
-* After one person speaks, ask others for their responses rather than responding to each point yourself - this as it means that you’ll be doing too much of the talking. This could be asking if anyone has objections, if anyone else agrees, or just for any other thoughts.
+* After one person speaks, ask others for their responses rather than responding to each point yourself - you'll end up doing too much of the talking otherwise. This could be asking if anyone has objections, if anyone else agrees, or just for any other thoughts.
 * If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times you could also suggest the people break off and have a separate discussion.  
 * Steer conversation to safe ground if it may be becoming controversial, or explicitly change the topic if needed.  Remember if someone is uncomfortable in a discussion they are unlikely to voice their discomfort, so it can be helpful for a facilitator to move the conversation on even if they are unsure whether anyone is getting upset.
-* If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they dominated the discussion too much or caused offence.  
+* If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they dominated the discussion too much or caused offence.  
 * Wrap up the discussion to make a clear finishing point.
-
-* <a href="#further-info">Further information about productive reading and discussion</a>
-* <a href="#follow-up">Follow up</a>
-* <a href="#more-reading">More reading</a>
-
 
 <a name="further-info"></a>
 # Further information about productive reading and discussion
@@ -175,7 +170,7 @@ Summarise and evaluate.
 
 ## More points on having constructive discussions
 
-This list is a bit long, and have too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
+This list is a bit long, and has too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
 
 * Give the person you're interacting with your complete, genuine, interested attention. A great suggestion of how to do that is described by Spencer Greenberg <a target=_"blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">here</a>. 
 * Most people want to be perceived as intelligent, so interact with people in ways that allow others to perceive the person as intelligent (or at least not unintelligent).
@@ -184,13 +179,13 @@ This list is a bit long, and have too many "don'ts" to share out loud as part of
 * Acknowledge other people’s insights and points that have been made previously that you may be building on. 
 * Don't start side conversations parallel to the main discussion.
 * Don't present objections as flat dismissals - Objections are fine, but can often be cast in a more constructive way. Also, object to ideas, don't object to people.
-* You should attempt to re-express the other person’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way."
+* You should attempt to re-express the other person’s position so clearly, vividly, and fairly that your target thinks, “Thanks, I wish I’d thought of putting it that way."
 * List any points of agreement (especially if they are not matters of general or widespread agreement).
 * You should mention anything you have learned from the other person. 
 * Even when an objection is destructive with respect to a position, it often helps to find a positive insight suggested by the objection. 
 * It's OK to question the presuppositions of a project or an area, but discussions in which these questions dominate can be unhelpful.
 * Don't keep pressing the same objection (individually or collectively).
-* Avoid dominating the discussion - let others have their say and try not to let your questions or answers run on forever.
+* Avoid dominating the discussion - let others have their say and try not to let your questions or answers run on.
 * It's OK to ask a question that you think may be unsophisticated or uninformed.
 
 
