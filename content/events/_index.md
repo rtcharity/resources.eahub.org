@@ -27,7 +27,7 @@ Ideas and considerations when choosing a venue for your event.
 Tips on event catering.
 
 ### [Discussion Groups](/events/discussions/)
-Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! This page includes plenty of suggested content with questions to get the discussion going, and tips on facilitating a interesting and positive discussion.
+Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - then discussing! This page includes plenty of suggested content with questions to get the discussion going, and tips on facilitating an interesting and positive discussion.
 
 ### [Introductory Presentations](/events/intro/)
 These workshops and presentations are designed for audiences that are unfamiliar with effective altruism. They could be used for newcomers events, or for presenting to non-EA groups.
@@ -50,3 +50,6 @@ A variety of ideas and resources for running structured and unstructured social 
 ### Retreats and Conferences - Coming Soon
 
 ### [Graphics for Advertising Your Events](/graphics/)
+
+
+
