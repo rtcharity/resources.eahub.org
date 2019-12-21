@@ -26,10 +26,10 @@ _Contributions were made by the LEAN team,_ <a target="_blank" href="https://for
 # Goals
 Different groups and individuals will have different goals for discussion groups, and it may be worth clarifying your group's goals to help ensure you meet these goals. 
 
-* Exchange ideas, deepen learning and inspire action towards doing the most good. 
+* To exchange ideas, deepen learning and inspire action towards doing the most good 
 * To support the development and participation of those familiar with and committed to the effective altruism community
-* Promoting the importance of critical thinking and knowing how to change your mind
-* Enjoyment and community.
+* To promote the importance of critical thinking and knowing how to change your mind
+* Enjoyment and community
 
 <a name="planning"></a>
 # Planning
