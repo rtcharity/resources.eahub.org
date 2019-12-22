@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 10th November 2019_
 
-This page contains information about organising social events to get people together and enjoy each other’s company, including 
+This page contains information about organising social events to get people together and enjoy each other’s company, including:
 
 * Structured events where there is an EA related activity
 * Structured events where there is a non-EA activity 
@@ -35,12 +35,12 @@ This page contains information about organising social events to get people toge
 <a name="structure"></a>
 
 # Structured or Unstructured?
-Having some structure to your social event helps to get conversations flowing and help people to get to know each other.  Some structure is ideal in situations where
+Having some structure to your social event helps to get conversations flowing and helps people to get to know each other.  Some structure is ideal in situations where:
 
 * You are expecting people who are new to EA
 * Many attendees don’t know each other
 * Your group has some people who dominate conversations
-* Your think your group’s unstructured conversations could be more productive
+* You think your group’s unstructured conversations could be more productive
 
 Unstructured socials require less organisation, allow people to guide their own conversations to talk about what is most fun or important to them. 
 
@@ -62,7 +62,7 @@ Social events are supposed to be social (obviously!), but are sometimes a lot mo
 If you are expecting people who are new to EA to come along to your social event, it is helpful to give a short introduction to EA - either to the whole group, or invite new people to chat with some experienced members of the group to give them an overview. 
 
 
-Check out the “<a target="_blank" href="/learn/communicate-ea/">Communicating about EA</a>” section for ideas to what to say in an introduction. 
+Check out the “<a target="_blank" href="/learn/communicate-ea/">Communicating about EA</a>” section for ideas on what to say in an introduction. 
 
 EA London <a target="_blank" href="https://forum.effectivealtruism.org/posts/znuJ2Z48YnEjrGLvA/why-do-ea-events-attract-more-men-than-women-focus-group">analysed the gender split</a> of their events and found that their social events were male-dominated while other events (talks, reading groups) were gender-balanced, so it is worth considering whether your social events are appealing to a diverse group of people interested in EA. 
 
@@ -82,39 +82,39 @@ Some EA groups have arranged activities that are not EA related, but can be a gr
 * **Walk or Hike:** Going for a walk or hike can be ideal for naturally generating smaller two-person conversations, it is cheap, and is good exercise too! While many people like walking, some people may be hesitant to come if they don’t know how long, difficult or fast the walk will be, as it is never nice to feel left behind, or feel like you are struggling to keep up. Recommendations to reduce this problem:
     * Give a description and, if available, a map of the proposed walk, including the exact meeting location, distance, expected time, and approximate elevation gain if the area is hilly. Indicate if you think this is likely to be challenging for people with a low to moderate level of fitness. 
     * Have a plan B route in mind for if it looks like the group is travelling much slower than expected.
-    * State on your event details that the walk will go at the pace of the slowest person, and enforce this on the walk by having a quiet word with people who are likely to be fast walkers, and suggesting slowing down and stopping. Sometimes people can get carried away walking faster while chatting, but if they’ve been told to stop at regular intervals (and at all intersections) and wait until everyone has caught up and has had a break before leaving again then this can be managed 
-    * You may wish to bring a first aid kit, and give people a suggested list of items to bring in a backpack (water, raincoat, snacks). 
+    * State on your event details that the walk will go at the pace of the slowest person, and enforce this on the walk by having a quiet word with people who are likely to be fast walkers, and suggesting slowing down and stopping. Sometimes people can get carried away walking faster while chatting, but if they’ve been told to stop at regular intervals (and at all intersections) and wait until everyone has caught up and has had a break before leaving again then this can be managed. 
+    * As a facilitator, it is suggested that you bring a first aid kit, and give people a suggested list of items to bring in a backpack (water, raincoat, snacks). 
 * **Meditation Events**
 * **Obstacle courses**
 * **Easy rock climbing**
 * **Easy kayaking**
 * **Soccer, frisbee, or some other team game**
 * **Geocaching or Orienteering** (some areas have permanent courses set up and can be used for free)
-* **Board Game, Card Games or Role Playing Game nights** - these can be made EA related by choosing an EA related game such as <a target="_blank" href="https://en.wikipedia.org/wiki/Pandemic_(board_game)">Pandemic</a>. Pandemic is a cooperative board game involves 2-4 players (up to 6 with expansion packs) fighting a global pandemic - making it EA related, although we can’t comment on its scientific accuracy. 
+* **Board Games, Card Games or Role Playing Game nights** - while a game doesn’t need to be EA related, these can be made EA related by choosing a game such as <a target="_blank" href="https://en.wikipedia.org/wiki/Pandemic_(board_game)https://en.wikipedia.org/wiki/Pandemic_(board_game)">Pandemic</a>. Pandemic is a cooperative board game involves 2-4 players (up to 6 with expansion packs) fighting a global pandemic - thus making it EA related, although we can’t comment on its scientific accuracy. Other games that are cooperative or resource-oriented may also present interesting discussion topics.
 * **Movie nights** - these can be made EA related by choosing an <a href="#movie">EA related movie</a>.
-* **Vegan cooking classes** - this can be as simple as having some group members teaching other group members how to create their favourite dishes.
+* **Vegan cooking classes** - this can be as simple as having some group members teaching other group members how to create their favourite dishes.
 * **Many more ideas are on** <a target="_blank" href="http://www.spencergreenberg.com/2017/03/better-formats-for-group-interaction-going-beyond-lectures-group-discussions-panels-and-mixers/">**Spencer Greenberg’s list of group activity formats.**</a>
 
 <a name="ea-themed"></a>
 # EA Themed Activities 
 ## Speed Updating
-_"When thoughtful people with access to the same information reach very different conclusions from each other, we should be curious about *why*" - Julia Galef”_
+_"When thoughtful people with access to the same information reach very different conclusions from each other, we should be curious about *why*" - Julia Galef_
 
-“Speed Updating” (a play on the term “speed dating”) involves participants getting matched with a person that disagrees with them about a topic for 5 to 10 minutes. The goal is to find out the cause of the disagreement, and potentially “update” your position. This activity has been used with excellent reviews in EA UQ, EA ANU, and EA Christchurch. Then people move onto a different question, and a different conversation partner. 
+'Speed Updating' (a play on the term 'speed dating') involves participants getting matched with a person that disagrees with them about a topic for 5 to 10 minutes. The goal is to find out the cause of the disagreement, and potentially “update” your position. This activity has been used with excellent reviews in EA UQ, EA ANU, and EA Christchurch. Then people move onto a different question, and a different conversation partner. 
 
-This activity can be run many times with the same group, choosing different sets of questions each time. You may wish to theme each Speed Updating sessions to tackle different topics. Groups have run sessions on Cause prioritisation, mental health, and ethics, but there could be an infinite number of themes.  
+This activity can be run many times with the same group, choosing different sets of questions each time. You may wish to theme each Speed Updating session to tackle different topics. Groups have run sessions on cause prioritisation, mental health, and ethics, but there could be an infinite number of themes.  
 
 ### Choosing questions
 
 * Choose questions that you think will be accessible and not likely to be sensitive to all your attendees OR make questions optional, so people can choose to not discuss the question, for example, if they don’t know enough to answer or find the topic uncomfortable to talk about. 
-* In cause prioritisation themed events, EA UQ set all questions as “Do you think <insert cause> is a priority?”. EA ANU used “What percentage of EA resources should be spent on <insert cause>”.
+* In cause prioritisation themed events, EA UQ set all questions as “Do you think -insert cause- is a priority?”. EA ANU used “What percentage of EA resources should be spent on -insert cause-?”.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/open?id=16S31eX_wkda4jrkvPsBWAvH1p555GuBX">cause area question cards</a>.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/drive/folders/11XY9hrdyfzwiHILOhHHYUtAcCpav-4XC">open questions list</a>.
 * EA Christchurch’s <a target="_blank" href="https://drive.google.com/drive/folders/11XY9hrdyfzwiHILOhHHYUtAcCpav-4XC">questions worksheet</a>. 
 
 ### Ways of finding disagreeing partners
 
-* Choose a particular statement for each 5-10 minute session, and have people indicate whether they agree or disagree with the statement by holding up Green or Red tokens to indicate “agree” or “disagree”, then people found each other. 
+* Choose a particular statement for each 5-10 minute session, and have people indicate whether they agree or disagree with the statement by holding up Green or Red tokens to indicate “agree” or “disagree”, then have people find each other. 
 * Have a page of questions that people answer at the start of the session. They then can find another person, compare answers, and choose a question on the page which they disagree about to discuss.  
 * EA ANU created a program in python to match people. They made a list of questions with numerical answers which people answered in an online survey, then ran a program to match people together and inform each pair which question they disagreed the most on. 
 
@@ -122,11 +122,11 @@ This activity can be run many times with the same group, choosing different sets
 
 * Explain the purpose of the event, and some guidelines if you feel that would be useful for your group. 
 * Here are some sample guidelines: <a target="_blank" href="https://docs.google.com/document/d/1B53j74CbdoPMlGi9-6eetl4EyHkcKqcSgEsp2KZANnA/edit#">EA Christchurch</a> (text to read out), <a target="_blank" href="https://drive.google.com/open?id=1Q1ST9f9JyQ1lwDhZgrVPTZ2tyeTgU_MyTSanwOCoBr8">EA UQ</a> (slides). 
-* Since we are actively looking for disagreements, the guidelines may set the stage for productive disagreement between participants, and avoid conversations that cause some members to be uncomfortable. You may also wish to look over <a target="_blank" href="https://resources.eahub.org/events/articles/discussion-tips#guidelines">guidelines for discussion groups</a> for advice on how to moderate discussions if needed.  
+* Since we are actively looking for disagreements, the guidelines may set the stage for productive disagreement between participants and allow participants to avoid conversations that cause discomfort You may also wish to look over <a target="_blank" href="https://resources.eahub.org/events/articles/discussion-tips#guidelines">guidelines for discussion groups</a> for advice on how to moderate discussions if needed.  
 * Use the method chosen to get people into pairs. Let people know how long each conversation will be. 
 * Let people know when they have 1 minute remaining, and ask them to share what they’ve learnt from the conversation.
 * Repeat.
-* At the end of the event, you may wish to call the whole group together and people to share if they changed their mind on particular questions and why. 
+* At the end of the event, you may wish to call the whole group together, and people to share if they changed their mind on particular questions and why. 
 
 <a name="wyr"></a>
 ## EA “Would You Rather”
@@ -155,10 +155,10 @@ Fermi Estimation Competitions can be prepared by choosing a bunch of numerical q
 
 ### How to run the session
 
-* Bring pens and papers for participants to use. If possible have a whiteboard and markers so people can show their working when explaining how they solved the problem. You may also want a data projector to show questions and answers.
+* Bring pens and papers for participants to use. If possible, have a whiteboard and markers so people can show their working when explaining how they solved the problem. You may also want a projector to show questions and answers.
 * Briefly teach the group what Fermi estimates are. You could use an example like this <a target="_blank" href="https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates">Passenger Car question</a> (alter to suit your own country), and either get people to share how they would calculate the answer, or demonstrate how you answered the question.
 * Get people to gather in groups of two or three.
-* Set the ground rules - using pen, paper, and calculator app on your phone is okay, but no internet!
+* Set the ground rules - using pen, paper, and a calculator app on your phone is okay, but no internet!
 * Present a question, then give people a set amount of time to answer (a few minutes).
 * Get each group to share their answer (and write or type it up).
 * Then reveal the answer, work out who was closest (and give them a point).
@@ -187,15 +187,17 @@ Required: A computer with Excel installed and data projector.
 <a name="quiz"></a>
 ## Quiz Night
 
-Quiz nights can contain some or all for the questions EA-themed. Ensure you choose your questions to suit your audience, as people may not enjoy the quiz if they can’t answer many questions. 
+Questions at quiz nights can be entirely EA-themed, but can also contain non-EA related questions. Ensure you choose your questions to suit your audience, as people may not enjoy the quiz if they can’t answer many questions. 
 
 EA Penn has sample quiz questions, answers, and answers sheets <a target="_blank" href="https://drive.google.com/drive/folders/1KRRfGF7K-OYeISPYe7eSdr0osOdmD-wU">here</a>. 
 
 <a name="one-on-ones"></a>
 ## One-on-ones
-One-on-one conversations between community members are often of the highest-rated parts of EA retreats (as reported by <a target="_blank" href="https://forum.effectivealtruism.org/posts/9ozoJpPoNBL6Z5BX5/a-lesson-from-an-ea-weekend-in-london-pairing-people-up-to">London</a> and New Zealand retreat attendees). These conversations can be arranged in regular social meetups if you don’t have the luxury of a retreat. While retreats often have 20 or 30 minute long conversations, for shorter events you may wish to have shorter times. 
+One-on-one conversations between community members are often the highest-rated parts of EA retreats (as reported by <a target="_blank" href="https://forum.effectivealtruism.org/posts/9ozoJpPoNBL6Z5BX5/a-lesson-from-an-ea-weekend-in-london-pairing-people-up-to">London</a> and New Zealand retreat attendees). These conversations can be arranged in regular social meetups if you don’t have the luxury of a retreat. While retreats often have 20 or 30 minute long conversations, though for shorter events you may wish to have shorter times. 
 
 While many people are happy to chat away without prompts, it can be nice to have a few suggested questions that can get people started. Here is a <a target="_blank" href="https://docs.google.com/document/d/1Z_8SUamsSm1bn_U5Lh9Q_AijWFN48AsMEpWBE8qtJY0/edit">list of 67 questions</a> that you can choose from. 
+
+<a name="movie"></a>
 
 ## Movie Nights
 EA related movies, TV shows and documentaries to watch with your group. 
@@ -203,7 +205,7 @@ EA related movies, TV shows and documentaries to watch with your group.
 ### Fiction movies
 
 * “<a target="_blank" href="https://www.imdb.com/title/tt6667360">Carnage (Swallowing the Past)</a>” - Mockumentary. It's 2067, the UK is vegan, but older generations are suffering the guilt of their carnivorous past.. Warning - it contains some slaughterhouse footage - viewers should be informed before watching. Available in the UK on iPlayer.
-* “<a target="_blank" href="https://www.imdb.com/title/tt0057012">Dr Strangelove</a>” - An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.
+* “<a target="_blank" href="https://www.imdb.com/title/tt0057012">Dr. Strangelove</a>” - An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.
 * “<a target="_blank" href="https://www.imdb.com/title/tt0119177">Gattaca</a>” - A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 * “<a target="_blank" href="https://www.imdb.com/title/tt0108052">Schindler’s List</a>” - In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
 * “<a target="_blank" href="https://www.imdb.com/title/tt1598778">Contagion</a>” - Healthcare professionals, government officials and everyday people find themselves in the midst of a worldwide epidemic as the CDC works to find a cure.
