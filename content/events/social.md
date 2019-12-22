@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 10th November 2019_
 
-This page contains information about organising social events to get people together and enjoy each other’s company, including 
+This page contains information about organising social events to get people together and enjoy each other’s company, including:
 
 * Structured events where there is an EA related activity
 * Structured events where there is a non-EA activity 
@@ -196,6 +196,8 @@ EA Penn has sample quiz questions, answers, and answers sheets <a target="_blank
 One-on-one conversations between community members are often of the highest-rated parts of EA retreats (as reported by <a target="_blank" href="https://forum.effectivealtruism.org/posts/9ozoJpPoNBL6Z5BX5/a-lesson-from-an-ea-weekend-in-london-pairing-people-up-to">London</a> and New Zealand retreat attendees). These conversations can be arranged in regular social meetups if you don’t have the luxury of a retreat. While retreats often have 20 or 30 minute long conversations, for shorter events you may wish to have shorter times. 
 
 While many people are happy to chat away without prompts, it can be nice to have a few suggested questions that can get people started. Here is a <a target="_blank" href="https://docs.google.com/document/d/1Z_8SUamsSm1bn_U5Lh9Q_AijWFN48AsMEpWBE8qtJY0/edit">list of 67 questions</a> that you can choose from. 
+
+<a name="movie"></a>
 
 ## Movie Nights
 EA related movies, TV shows and documentaries to watch with your group. 
