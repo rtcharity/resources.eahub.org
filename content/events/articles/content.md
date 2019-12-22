@@ -1,6 +1,5 @@
 ---
 title: Content for Discussion Groups
-date: 2019-09-24T10:12:00.548Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -102,7 +101,7 @@ This is used as week 5 of Harvard’s Arete Fellowship. There is much more readi
 
 This discussion group was held at a burger joint offering Beyond Burgers.
 
-Prewatching - two videos by plant-based and clean meat advocates. These two presenters are believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
+Prewatching - two videos by plant-based and clean meat advocates. These two presenters believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
 <a target="_blank" href="https://www.youtube.com/watch?v=liZtyP2tKhA">Market Forces and Food Technology will save the world: Bruce Friedrich 2018</a>, 18 minutes
 <a target="_blank" href="https://www.youtube.com/watch?v=PBmbVphZKYc">The End of Animal Farming: Jacy Reese 2018</a>, 13 minutes.
 
