@@ -1,6 +1,5 @@
 ---
 title: Content for Discussion Groups
-date: 2019-09-24T10:12:00.548Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -102,7 +101,7 @@ This is used as week 5 of Harvard’s Arete Fellowship. There is much more readi
 
 This discussion group was held at a burger joint offering Beyond Burgers.
 
-Prewatching - two videos by plant-based and clean meat advocates. These two presenters are believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
+Prewatching - two videos by plant-based and clean meat advocates. These two presenters believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
 <a target="_blank" href="https://www.youtube.com/watch?v=liZtyP2tKhA">Market Forces and Food Technology will save the world: Bruce Friedrich 2018</a>, 18 minutes
 <a target="_blank" href="https://www.youtube.com/watch?v=PBmbVphZKYc">The End of Animal Farming: Jacy Reese 2018</a>, 13 minutes.
 
@@ -142,7 +141,7 @@ This worksheet offers a series of statements pertaining to Catastrophic Risk, an
 
 <a target="_blank" href="https://docs.google.com/document/d/1eeEgSIMBT1qO3DnNk62C732rT1qY2Yq6m_2ohq_Y6oE/">Worksheet</a> [Source: EA South Bay]
 
-**The Importance of the Far Future**
+**The Importance of the Far Future**
 
 This worksheet begins with the question ‘Why do EAs care about the far future?’ which frames the altruistic considerations of the future and existential risk to entire populations. Discussion questions centre around moral responsibility to those not yet born, potential future risks and solutions, and reflecting on the current impact of past actions and ideas.
 
