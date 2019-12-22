@@ -39,7 +39,7 @@ This is used as week 1 of Harvard’s Arete Fellowship. There is much more readi
 
 This is used as week 2 of Harvard’s Arete Fellowship. There is more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
 
-<a target="_blank" href="https://docs.google.com/document/d/1Uk0cssQojKl7KFuA0wFgYwVJl3qeLHDUx9e0oIo3Z28/">Worksheet</a> [Source: Harvard Arete Fellowship]
+<a target="_blank" href="https://docs.google.com/document/d/1ipEmGmMvGHBIvRq6B22hY86uHEwaPQ1q9b94Q_lGjrw/edit?">Worksheet</a> [Source: Harvard Arete Fellowship]
 
 <a name="poverty"></a>
 
