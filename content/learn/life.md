@@ -16,7 +16,7 @@ This page has information and links about caring for yourself, value drift, and 
 # Self-care and Mental Health
 EA can demand a lot from people, and there is a sense of urgency to act, but it is important to do so in a healthy way. Self-care is about making sure that you take care of your mental and physical health, and that you do not do altruistic things at the cost of your own personal health. 
 
-“We don't need people making sacrifices that leave them drained and miserable. We need people who can walk cheerfully over the world” - <a target="_blank" href="http://www.givinggladly.com/2013/06/cheerfully.html">Cheerfully</a>, by Julia Wise. 
+“We don't need people making sacrifices that leave them drained and miserable. We need people who can walk cheerfully over the world” - <a target="_blank" href="http://www.givinggladly.com/2013/06/cheerfully.html">Cheerfully</a> by Julia Wise. 
 ## EAs on self-care
 Many people in the EA community have contributed advice and shared their experiences about being an altruist:
 
@@ -31,7 +31,7 @@ Many people in the EA community have contributed advice and shared their experie
 
 * <a target="_blank" href="https://80000hours.org/career-guide/how-to-be-successful/#1-dont-forget-to-take-care-of-yourself">80,000 hours on why self-care is important</a> to succeed in any job, and some recommendations about tackling mental health issues.
 * Lukas Gloor on <a target="_blank" href="https://forum.effectivealtruism.org/posts/4fPxQjq6GFZgurSsf/room-for-other-things-how-to-adjust-if-ea-seems-overwhelming">how to adjust if EA seems overwhelming</a>.
-* Elizabeth on <a target="_blank" href="https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it">burnout: What it is and how to treat it</a>.
+* Elizabeth on <a target="_blank" href="https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it">Burnout: What it is and how to treat it</a>.
 * Holly Morgan on <a target="_blank" href="http://www.thelifeyoucansave.org/Blog/ID/10/But-Im-not-doing-enough-Dealing-with-guilt-as-an-effective-altruist">dealing with guilt as an effective altruist</a>.
 * The long (but excellent) <a target="_blank" href="http://doingguiltbetter.com">"Replacing Guilt Series"</a> by Nate Soares on dealing with guilt productively. 
 * Holly Morgan on <a target="_blank" href="https://forum.effectivealtruism.org/posts/DeYLsacSsB5mRw3XC/scrupulosity-my-eagxboston-2019-lightning-talk">scrupulosity</a> (feelings of excessive guilt and moral personal responsibility).
@@ -72,7 +72,7 @@ Most people in the EA community are young, and therefore their greatest impact c
 
 If you are highly motivated now, but think you are likely to experience value drift, you may wish to focus on having an impact in the short term. 
 
-Also you may wish to take action now to reduce the chances that your values and motivations will change. For practical things you can do to make it less likely for you to change your values, and more likely for you to remain motivated, see the excellent list in <a target="_blank" href="https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift">"Concrete Ways to Reduce the Risk of Value Drift"</a>. 
+Also you may wish to take action now to reduce the chances that your values and motivations will change. For practical things you can do to make it less likely for you to change your values, and more likely for you to remain motivated, see the excellent list in <a target="_blank" href="https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift-and-lifestyle">"Concrete Ways to Reduce the Risk of Value Drift"</a>. 
  
 Note that while it seems reasonable to take steps to keep your motivation high, it is debatable whether we should take steps to prevent your values from changing as it is possible that your future self will have better values than your current self.
 
@@ -84,7 +84,7 @@ Peter Hurford’s article <a target="_blank" href="https://forum.effectivealtrui
 
 ### Improve Decision Making and Reducing Cognitive Biases
 
-* <a target="_blank" href="https://programs.clearerthinking.org/decisionmaker.html/">Clearer Thinking’s decision making tool</a> 
+* <a target="_blank" href="https://programs.clearerthinking.org/decisionmaker.html">Clearer Thinking’s decision making tool</a> 
 * <a target="_blank" href="https://www.openphilanthropy.org/blog/new-web-app-calibration-training/">Calibrate Your Judgment</a> (improves your ability to think probabilistically)
 * <a target="_blank" href="https://conceptually.org/concepts/">Cognitive Concepts</a> (sent weekly)
 
@@ -118,6 +118,6 @@ Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/
 
 <hr>
 
-### [NEXT: Take Action](/take_action/)
+### [NEXT: Communicating about EA](/learn/communicate-ea/)
 
-### [BACK: Responding to Objections](/learn/articles/objections/) 
+### [BACK: Organisations](/learn/orgs/) 
