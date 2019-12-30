@@ -58,7 +58,7 @@ Sharing your actions and the reasons behind them can be a great way of increasin
 
 To maximise the chances that your communication of EA goes well, read <a target="_blank" href="/learn/communicate-ea">these tips on talking about EA</a>.  
 
-The <a target="_blank" href="https://eaworkplaceactivism.org/">EA Workplace Activism</a> project provides a handbook for anyone wanting to marshal the resources of their organisation and the enthusiasm of your colleagues to hasten the eradication of extreme poverty. 
+The <a target="_blank" href="https://www.effectivealtruism.org/get-involved/do-workplace-activism/">EA Workplace Activism</a> project provides a handbook for anyone wanting to marshal the resources of their organisation and the enthusiasm of your colleagues to hasten the eradication of extreme poverty. 
 
 <hr>
 
