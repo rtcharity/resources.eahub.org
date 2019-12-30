@@ -30,5 +30,5 @@ If you have a variety of career options, then rethinking your career path could 
 
 ### [NEXT: Donate or Pledge](/take_action/donate/)
 
-### [BACK: Sustaining an EA Lifestyle](/learn/life/)
+### [BACK: Communicating about EA](/learn/communicate-ea/)
 
