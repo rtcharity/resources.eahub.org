@@ -1,6 +1,5 @@
 ---
 title: Frequently Asked Questions
-date: 2019-09-26T11:34:14.019Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -17,7 +16,7 @@ license:
 
 ### Isn’t it obvious?
 
-* Many people find the idea of trying to maximise the amount of good they do fairly obvious and uncontroversial. But most people don’t dedicate much effort towards helping others, or are swayed on how to channel their efforts by personal interests or biases , without thoroughly comparing their options first.
+* Many people find the idea of trying to maximise the amount of good they do fairly obvious and uncontroversial. But most people don’t dedicate much effort towards helping others, or are swayed on how to channel their efforts by personal interests or biases, without thoroughly comparing their options first.
 * If it does seem obvious to you though, great! You’d probably enjoy joining the community. 
 * What actually does the most good is far from obvious - our intuitions can be very wrong and indeed some things that sound great actually have no impact or do harm. 
 
