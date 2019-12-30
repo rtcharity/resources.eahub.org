@@ -1,6 +1,5 @@
 ---
 title: What to Say
-date: 2019-09-26T10:47:43.355Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -106,7 +105,6 @@ _Note: Talk about obligation with care, the risk is that it can seem judgemental
 ## We need to consider cost-effectiveness
 
 * **Most people give to nearby causes**. Many people in wealthy nations usually donate to causes that are close to them, or causes that affect wealthy people <a target="_blank" href="https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=42">(over 90% in the case of donations from the US stay in the US)</a> - leaving little money for international issues. But, our money doesn’t go very far in very rich countries, while in low income countries people die of diseases that could be prevented or cured easily and cheaply. 
-* <a target="_blank" href="http://closetomyhead.com/2012/04/15/why-closetomyhead/">Source</a>
 
 * **The charitable sector lacks normal economic forces.** Imagine two pizzerias in your town, each serving high-quality pizzas, but one for $500, and the other for $5. That sounds crazy, but what do you think would happen? No one would buy the expensive pizza and they would go out of business. Charities aren’t bound by the same economic forces, because the people donating aren’t the same people receiving the benefit. Even though some charities are hundreds of time more cost-effective (cheaper to do more good), it is the charities that are better at advertising that get the most money.
 
@@ -123,7 +121,7 @@ _Note: Talk about obligation with care, the risk is that it can seem judgemental
 * We choose to work on causes according to whether the cause is
     * Great in scale (it affects many lives, by a great amount)
     * Highly neglected (few other people are working on the problem), and
-* Highly tractable (additional resources will do a great deal to alleviate it).
+    * Highly tractable (additional resources will do a great deal to alleviate it).
 * From Will MacAskill (<a target="_blank" href="https://www.ted.com/talks/will_macaskill_how_can_we_do_the_most_good_for_the_world">Source</a>)
 
 ### EA encompasses a wide range of interventions
@@ -135,7 +133,7 @@ _Note: Talk about obligation with care, the risk is that it can seem judgemental
 ## Current Key Cause Areas
 
 * Global health impacts billions, it is super solvable, and some interventions/areas are incredibly neglected. We have an amazing track record - rates of death from measles, malaria, diarrheal disease are down by over 70 percent, and in 1980 smallpox was eradicated. On our current best estimates, we can save a life by distributing just a few thousand dollars worth of long-lasting insecticide-treated bed nets.
-Factory farming impacts billions of non-human animals, is something we can easily impact and is super neglected. There are 70 billion land animals used every year for food, and the vast majority of them are factory farmed, living in conditions of horrific suffering. They're probably among the worst-off creatures on this planet, and * in many cases, we could significantly improve their lives for just pennies per animal.
+Factory farming impacts billions of non-human animals, is something we can easily impact and is super neglected. There are 70 billion land animals used every year for food, and the vast majority of them are factory farmed, living in conditions of horrific suffering. They're probably among the worst-off creatures on this planet, and in many cases, we could significantly improve their lives for just pennies per animal.
 * Existential risks are events like a nuclear war or a global pandemic that could permanently derail civilization or even lead to the extinction of the human race. This is highly neglected, mostly due to indifference toward less tangible problems, especially those affecting future generations, as well as scope insensitivity. These problems still seem reasonably tractable though - there are various ways you can contribute with your money, your career or your political engagement.
 * From Will MacAskill (<a target="_blank" href="https://www.ted.com/talks/will_macaskill_how_can_we_do_the_most_good_for_the_world">Source</a>)
 
