@@ -15,8 +15,8 @@ This is about group organisers meeting new and current members of the EA communi
 One-on-ones are often reported as being one of the most valuable activities of an EA community. They are useful for many different purposes, including:
 
 * Sharing information about EA topics, and responding to questions and concerns.
-* Providing motivation
-* Building relationships between organisers and community members, and between community members
+* Providing motivation.
+* Building relationships between organisers and community members, and between community members.
 
 Generally, the purposes for a one-on-one meeting are: meeting a new member (Intro one-on-ones), meeting a current member (Mentor one-on-ones), meeting to discuss careers (Career one-on-ones) or meeting to discuss donation opportunities (Donation one-on-ones). 
 
@@ -32,7 +32,7 @@ Why one-on-ones might be relatively important for your group:
 
 Why one-on-ones might be less important compared to other activities: 
 
-* There isn’t anyone in your group that is comfortable and capable of offering one-on-ones. This might be if you aren’t that knowledgeable about effective altruism, or you may not feel able to answer common questions, or find one on ones socially challenging. It is important that the person running one-on-ones is good at making people feel comfortable and welcomed, because if a prospective member doesn’t click well with the person leading the one-on-one, the experience may deter them from getting more involved.
+* There isn’t anyone in your group that is comfortable and capable of offering one-on-ones. This might be if you aren’t that knowledgeable about effective altruism, or you may not feel able to answer common questions, or find one-on-ones socially challenging. It is important that the person running one-on-ones is good at making people feel comfortable and welcomed, because if a prospective member doesn’t click well with the person leading the one-on-one, the experience may deter them from getting more involved.
 
 * Your group does not have the capacity to run both one-on-ones and other types of events and group members primarily want to experience a community. 
 
