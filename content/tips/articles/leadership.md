@@ -1,14 +1,12 @@
 ---
 title: Leadership Skills
-date: 2019-09-22T23:01:05.550Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 23rd September 2019_
+### *Published 23rd September 2019*
 
-_This guide was compiled from resources from The Life You Can Save, LEAN, and the experience of several group organisers._
-
+*This guide was compiled from resources from The Life You Can Save, LEAN, and the experience of several group organisers.*
 
 Organising a local group requires leadership skills. This section provides helpful tips on people skills in the context of building and maintaining a community, and delegating tasks.
 
@@ -19,22 +17,19 @@ Before launching into specific leadership skills, a reminder: While leading a gr
 A community is strongest when it is made of many connections between members, rather than mostly connections between organisers and members. Some ideas for fostering  these connections are:
 
 * Encourage meetings outside the main organised events, such as:
-    * Casual social events such as potlucks or games nights.
 
-    * Meet people for coffee or a walk. 
-
-    * Encourage people to exchange contact information. Set the precedent by starting yourself.
-
-    * Co-working sessions where people work on projects or study. 
+  * Casual social events such as potlucks or games nights.
+  * Meet people for coffee or a walk. 
+  * Encourage people to exchange contact information. Set the precedent by starting yourself.
+  * Co-working sessions where people work on projects or study. 
 * Ask people to invite their friends occasionally. Avoid doing this over a mass email though as it is better to ask people in person. Do they know anybody who'd be interested in coming? 
-
 * When you bring up future events, make sure that at least you and one other person say you're attending to encourage people to come. Remind the people who come regularly to turn up and tell them once in a while about how important it is.
-
 * Link people individually to organisations and people in the EA community who you think would be up their alley. If you think two people would find it valuable, set them up with an intro email and a topic to talk about.
 
-Most importantly, foster a healthy positive community. The page on Community Health has more advice on building a healthy community (coming soon). 
+Most importantly, foster a healthy positive community. The page on <a target="_blank" href="https://resources.eahub.org/tips/community-health/">Community Health</a> has more advice on building a healthy community. 
 
 <a name="delegation"></a>
+
 # Delegation
 
 Don't worry about asking for help! People are often looking for ways to help and will be happy to do so.
@@ -63,8 +58,8 @@ The best leaders help upskill people to the point where they can take over the l
 
 These books have been recommended by group organisers: 
 
-* <a target="_blank" href="https://www.amazon.com/Becoming-Master-Manager-Competing-Approach/dp/1118582586">Becoming a Master Manager: A Competing Values Approach</a>
-* <a target="_blank" href="https://www.linkedin.com/pulse/manager-tools-mark-horstman-what-makes-effective-eddie-lazzari/">What Makes an Effective Manager</a>
+* <a target="_blank" href="https://www.amazon.com/Becoming-Master-Manager-Competing-Approach/dp/1118582586">Becoming a Master Manager: A Competing Values Approach </a>
+* <a target="_blank" href="https://www.linkedin.com/pulse/manager-tools-mark-horstman-what-makes-effective-eddie-lazzari/">What Makes an Effective Manager </a>
 
 <hr>
 
