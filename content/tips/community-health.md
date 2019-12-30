@@ -7,10 +7,13 @@ license:
 ---
 ### _Published 30th October 2019_
 
-In order to do the most good we can, the EA community will ideally be a happy, healthy community that
+In order to do the most good we can, the EA community will ideally be a happy, healthy community that:
+
 * fosters a stimulating atmosphere to encourage people to be ambitious and inspired
-* creates a supportive community, in which we help each other with personal struggles, 
-* and that people enjoy being a part of. 
+
+* creates a supportive community, in which we help each other with personal struggles,
+
+* people enjoy being a part of. 
 
 _“Collaborative Spirit”_ is one of the <a target="_blank" href="https://www.centreforeffectivealtruism.org/ceas-guiding-principles">guiding principles of effective altruism</a>:
 
