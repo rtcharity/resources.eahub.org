@@ -7,8 +7,10 @@ license:
 ---
 ### _Published 30th October 2019_
 
-In order to do the most good we can, the EA community will ideally be a happy, healthy community that fosters a stimulating atmosphere to encourage people to be ambitious and inspired creates a supportive community, in which we help each other with personal struggles, 
-and that people enjoy being a part of. 
+In order to do the most good we can, the EA community will ideally be a happy, healthy community that
+* fosters a stimulating atmosphere to encourage people to be ambitious and inspired
+* creates a supportive community, in which we help each other with personal struggles, 
+* and that people enjoy being a part of. 
 
 _“Collaborative Spirit”_ is one of the <a target="_blank" href="https://www.centreforeffectivealtruism.org/ceas-guiding-principles">guiding principles of effective altruism</a>:
 
@@ -104,7 +106,7 @@ _Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2
 
 * <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions</a> catered to women and non-binary people
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">EA Forum post</a> discussing the challenges of English as the dominant language of the EA movement
-* What to do about <a target="_blank" href="">differing cause areas</a> by Owen Cotton-Barratt
+* What to do about <a target="_blank" href="https://forum.effectivealtruism.org/posts/ZqiGXrqLQg2ocFGQk/cooperation-in-a-movement-supporting-diverse-causes">differing cause areas</a> by Owen Cotton-Barratt
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA forum post</a> discussing diversity of talent, experience, opinion and appearance.
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/nqgE6cR72kyyfwZNL/making-discussions-in-ea-groups-inclusive">EA forum post</a> on sensitive topics written by people from a range of underrepresented groups, and a <a target="_blank" href="https://forum.effectivealtruism.org/posts/GqXQPy9duht3RL9pw/the-importance-of-truth-oriented-discussions-in-ea">response to this post</a> about the importance of open discussion. 
 
@@ -123,7 +125,7 @@ It can be difficult to predict which topics will affect people negatively, but h
 
 * **Ethical Discussions.** During discussions of population ethics or other ethical questions, the topics of death, the value of life, child mortality, murder, or suicide are sometimes discussed. Depending on a person’s personal history, they may be sensitive to one or several of these topics. In addition to being troubling for some, ethical thought experiments can be uninteresting or alienating to some group members. Animal ethics can also raise sensitive points, especially around in-depth details of the suffering in factory farming etc. 
 
-* **Social Justice.** The intersection of social justice and EA can be a point of contention as there is a wide range of opinions within the community about the efficacy and importance of popular social justice movements. Some articles on this topic: <a target="_blank" href="https://orgs.law.harvard.edu/effectivealtruism/2017/08/03/sj-ea-extreme-poverty-as-a-social-justice-priority/">SJ & EA</a>, <a target="_blank" href="https://www.jefftk.com/p/the-privilege-of-earning-to-give">Privilege of Earning to Give</a>, <a target="_blank" href="http://www.givinggladly.com/2015/11/an-embarrassment-of-riches.html">An Embarrassment of Riches</a>, <a target="_blank" href="http://www.sydsbirthdaychallenge.com/blog/2015/5/16/effective-altruism-and-its-intersection-with-traditional-social-justice">The intersection of EA and SJ</a>
+* **Social Justice.** The intersection of social justice and EA can be a point of contention as there is a wide range of opinions within the community about the efficacy and importance of popular social justice movements. Some articles on this topic: <a target="_blank" href="https://orgs.law.harvard.edu/effectivealtruism/2017/08/03/sj-ea-extreme-poverty-as-a-social-justice-priority/">SJ & EA</a>, <a target="_blank" href="https://www.jefftk.com/p/the-privilege-of-earning-to-give">Privilege of Earning to Give</a>, <a target="_blank" href="http://www.givinggladly.com/2015/11/an-embarrassment-of-riches.html">An Embarrassment of Riches</a>, <a target="_blank" href="https://medium.com/@sydrmartin/effective-altruism-and-it-s-intersection-with-traditional-social-justice-417a4815e43c">The intersection of EA and SJ</a>
 
 * **Inclusion and diversity.** Topics relating to diversity within the EA community, and within society as a whole can often be controversial. Including faith, race, and gender roles in society. 
 
@@ -202,3 +204,9 @@ If the person who behaved inappropriately did so towards another member of your 
 
 You may wish to have a co-organiser or member of the Community Health team present to act as a mediator.
 
+
+<hr>
+
+### [NEXT: Handing over Leadership](/tips/handover/)
+
+### [BACK: One-on-Ones](/tips/one-on-ones/) 
