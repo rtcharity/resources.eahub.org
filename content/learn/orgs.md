@@ -98,7 +98,7 @@ These organisations conduct research in order to recommend outstanding charities
 
 
 ### <a target="_blank" href="https://www.givewell.org/">GiveWell</a>
-GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in the field of global health & development. They publish their analyses and recommend a small number of <a target="_blank" href="https://www.givewell.org/charities/top-charities">high-impact giving opportunities</a>. GiveWell also provides <a target="_blank" href="https://www.givewell.org/research/incubation-grants">incubation grants</a> for highly-promising new charities.
+GiveWell is a nonprofit dedicated to finding outstanding giving opportunities in the field of global health & development. They publish their analysis and recommend a small number of <a target="_blank" href="https://www.givewell.org/charities/top-charities">high-impact giving opportunities</a>. GiveWell also provides <a target="_blank" href="https://www.givewell.org/research/incubation-grants">incubation grants</a> for highly-promising new charities.
 
 
 
@@ -361,7 +361,7 @@ LessWrong is a community blog devoted to rationality. They provide a place to re
 
 <hr>
 
-### [NEXT: Communicating about EA](/learn/communicate/)
+### [NEXT: Sustaining an EA Lifestyle](/learn/life/)
 
 ### [BACK: Connect and Keep Up To Date](/learn/connect/)
 
