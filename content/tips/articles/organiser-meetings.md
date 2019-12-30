@@ -1,6 +1,5 @@
 ---
 title: Organiser Meetings
-date: 2019-09-22T23:17:55.167Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -73,7 +72,7 @@ The notes should include:
 # After the meeting
 The note taker should read over the notes to edit where required, then send the document to the group. Put the action points, due dates and responsibilities in the body of the message to make it really obvious who has to do what!
 
-The meeting leader (or project leader) should follow up with individuals on their tasks. The <a target="_blank" href="/tips/articles/leadership#delegation/">delegation section</a> has a few tips on how to manage this.
+The meeting leader (or project leader) should follow up with individuals on their tasks. The <a target="_blank" href="/tips/articles/leadership#delegation">delegation section</a> has a few tips on how to manage this.
 
 <hr>
 
