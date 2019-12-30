@@ -70,4 +70,4 @@ Each group will have different requirements for their handover documents, but th
 
 ### [NEXT: Group Events](/events/)
 
-### [BACK: One-on-Ones](/tips/one-on-ones)
+### [BACK: Community Health](/tips/community-health/)
