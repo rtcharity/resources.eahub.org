@@ -42,7 +42,7 @@ Looking at a broader range of cause areas, <a target="_blank" href="https://foun
 <br>
 
 <a target="_blank" href="https://www.openphilanthropy.org/"><img class="small_image_block" src="/img/openphillogo.png" /></a>
-<a target="_blank" href="https://www.openphilanthropy.org/">The Open Philanthropy Project</a> conducts research to choose where to allocate funding from Good Ventures. While they generally don’t specifically recommend charities for other donors, their <a target="_blank" href="https://www.openphilanthropy.org/giving/grants">grant database</a> and research is publically available and can be used to inform giving. Each year Open Philanthropy Projects’ staff publish their <a target="_blank" href="https://www.openphilanthropy.org/blog/suggestions-individual-donors-open-philanthropy-project-staff-2018">suggestions for individual donors</a> (suggestions from December 2018). 
+<a target="_blank" href="https://www.openphilanthropy.org/">The Open Philanthropy Project</a> conducts research to choose where to allocate funding from Good Ventures. While they generally don’t specifically recommend charities for other donors, their <a target="_blank" href="https://www.openphilanthropy.org/giving/grants">grant database</a> and research is publically available and can be used to inform giving. Each year Open Philanthropy Projects’ staff publish their <a target="_blank" href="https://www.openphilanthropy.org/blog/suggestions-individual-donors-open-philanthropy-staff-2019">suggestions for individual donors</a> (suggestions from December 2019). 
 <br>
 
 ## Funds
@@ -114,4 +114,4 @@ This has an advantage over simply donating if you believe a donation of $100,000
 
 ### [NEXT: Use Your Time](/take_action/use-your-time/)
 
-### [BACK: Take Action](/take-action/)
+### [BACK: Take Action](/take_action/)
