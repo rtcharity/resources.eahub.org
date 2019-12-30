@@ -1,6 +1,5 @@
 ---
 title: Responding to Objections
-date: 2019-09-26T11:46:41.078Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -26,6 +25,6 @@ Do your best to discuss objections in a positive way.
 
 <hr>
 
-### [NEXT: Sustaining an EA lifestyle](/learn/life/)
+### [NEXT: Take Action](/take_action/)
 
 ### [BACK: Frequently Asked Questions](/learn/articles/faqs/)
