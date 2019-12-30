@@ -12,7 +12,7 @@ This page has links to newsletters, fora, Facebook groups, podcasts and other wa
 # Local Groups
 In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a> and keep up to date with EA related research.  
 
-Check out the <a target="_blank" href="http://eahub.com/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
+Check out the <a target="_blank" href="http://eahub.org/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
 
 # Websites
 Add your details to the <a target="_blank" href="https://eahub.org/profiles/">map of EAs on the EA hub</a>, and check out other profiles from around the world.
@@ -38,7 +38,7 @@ The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podca
 
 <a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> Ariel Conn from FLI in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Find a complete list of episodes above.
 
-<a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> The Future Perfect podcast studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
+The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
 
 Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>. 
 
@@ -62,8 +62,8 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 ### Artificial Intelligence (AI) Safety
 
 * <a target="_blank" href="https://www.alignmentforum.org/">AI Alignment Forum</a>
-* <a target="_blank" href="https://www.facebook.com/groups/467062423469736/">AI Safety Open Discussion</a> (for everyone, especially beginners)
-* <a target="_blank" href="https://www.facebook.com/groups/aisafety/">AI Safety Discussion</a> (people with AI/ML experience or familiarity)
+* <a target="_blank" href="https://www.facebook.com/groups/aisafetyopen/">AI Safety Open Discussion</a> (for everyone, especially beginners)
+* <a target="_blank" href="https://www.facebook.com/groups/aisafety">AI Safety Discussion</a> (people with AI/ML experience or familiarity)
 * <a target="_blank" href="https://www.facebook.com/groups/ArtificialIntelligenceSafety/">AI Safety & Security</a>
 
 ### Ethics
@@ -124,7 +124,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/784498518296164/">Earning to Give</a>
 * <a target="_blank" href="https://www.facebook.com/groups/458111434360997/">Editing and Review</a> (for getting feedback on your work)
 * <a target="_blank" href="https://www.facebook.com/groups/EACoaching/">Life Coaching Exchange</a>
-* <a target="_blank" href="https://www.facebook.com/groups/1666606496928923/">EA Project for Awesome (P4A) </a> (For coordinating voting and the creation of videos to funnel prize money to effective charities during an annual fundraiser)
+* <a target="_blank" href="https://www.facebook.com/groups/1666606496928923/">EA Project for Awesome (P4A) </a> (for coordinating voting and the creation of videos to funnel prize money to effective charities during an annual fundraiser)
 * <a target="_blank" href="https://www.facebook.com/groups/1449282541750667/">Heterodox Effective Altruism</a> - The group aims to unite people who have broadly want to make the world a better place by effective means, but without curtailing thoughts that diverge from EA orthodoxy.
 * <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">Year End Donation Matching</a> (to coordinate donations during Facebook’s donation matching campaign)
 
