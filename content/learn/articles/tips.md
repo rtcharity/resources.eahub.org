@@ -1,6 +1,5 @@
 ---
 title: Tips to Help Your Conversation Go Well
-date: 2019-09-26T11:14:38.420Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -23,7 +22,7 @@ If you can tie in your own personal story of exploration of these ideas into the
 # Use the Person’s Interests
 
 * Relate to the person’s interests, beliefs and goals, if you know enough to do so.
-* Most people agree on basic moral principles. For instance, most people agree that suffering is bad.. So it is easier to start from this point.
+* Most people agree on basic moral principles. For instance, most people agree that suffering is bad, so it is easier to start from this point.
 * Show how EA can help achieve their goals. E.g. EA can help provide a community, a sense of purpose, clarity on career paths, volunteering opportunities. 
 * If you already know what issues the person cares about (or if they freely offer this information during the conversation), it might work well to discuss how EA principles could work within that cause area.
 * However, if you don’t know what the person cares about, and they simply asked you about EA, then it probably isn’t appropriate to ask them 20 questions to find out their position on morality and world issues before you start explaining EA! In that case you’d be better to simply answer the question, and wait until a bit later in the conversation to ask what they are interested in.  
