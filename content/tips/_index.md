@@ -29,7 +29,6 @@ Ideas about prioritising group activities, and some interesting readings about h
 Tips on gaining leadership skills and how to organise your group.
 
 ## Publicity - Coming Soon
-There’s no point in running great events and projects if
 
 ## [Community Health](/tips/community-health)
 
