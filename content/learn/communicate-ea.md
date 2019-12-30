@@ -40,4 +40,4 @@ The following pages provide some suggestions about having a fruitful conversatio
 
 ### [NEXT: What to Say](/learn/articles/what-to-say/)
 
-### [BACK: Organisations](/learn/orgs/)
+### [BACK: Sustaining an EA Lifestyle](/learn/life/)
