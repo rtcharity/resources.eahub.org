@@ -18,23 +18,23 @@ One-on-ones are often reported as being one of the most valuable activities of a
 * Providing motivation
 * Building relationships between organisers and community members, and between community members
 
-The purpose of the meeting will be different if you are meeting a new member (Intro one-on-ones), meeting a current member (Mentor one-on-ones), meeting to discuss careers (Career one-on-ones) or meeting to discuss donation opportunities (Donation one-on-ones). 
+Generally, the purposes for a one-on-one meeting are: meeting a new member (Intro one-on-ones), meeting a current member (Mentor one-on-ones), meeting to discuss careers (Career one-on-ones) or meeting to discuss donation opportunities (Donation one-on-ones). 
 
 # Why and Why Not?
 
 Why one-on-ones might be relatively important for your group: 
 
-* If many group members are quite new to EA, and have lots they want to learn which can be accomplished with one-on-one mentoring.
+* If many group members are quite new to EA, and have lots they want to learn.
 * If the group covers a large geographic area, one-on-ones may be a significant means of engaging people who live some distance away from other group members or from where events are often held.
 * If many group members have busy and less flexible schedules, making it harder for them to attend events.
-* If what many group members want from the group is guidance on specific topics from the group, such as wanting to learn specific skills, be more productive, or learn about different cause areas (rather than wanting to feel part of a community more generally).
-* If many group members would like career guidance or feedback.
+* If what many group members want from the group is guidance on specific topics, such as wanting to learn specific skills, be more productive, or learn about different cause areas (rather than wanting to feel part of a community more generally).
+* If group members would like career guidance or feedback.
 
 Why one-on-ones might be less important compared to other activities: 
 
-* There isn’t anyone in your group that is comfortable and capable of offering one-on-ones. This might be if you aren’t that knowledgeable about effective altruism, or you may not feel able to answer common questions, or find one on ones socially challenging. It is important that the person running one-on-ones is good at making people feel comfortable and welcomed, as if a prospective member doesn’t click well with the person leading the one-on-one, the experience deter them from getting more involved.
+* There isn’t anyone in your group that is comfortable and capable of offering one-on-ones. This might be if you aren’t that knowledgeable about effective altruism, or you may not feel able to answer common questions, or find one on ones socially challenging. It is important that the person running one-on-ones is good at making people feel comfortable and welcomed, because if a prospective member doesn’t click well with the person leading the one-on-one, the experience may deter them from getting more involved.
 
-* Your group does not have the capacity to run both one-on-ones and other types of events and group members want to experience a community. 
+* Your group does not have the capacity to run both one-on-ones and other types of events and group members primarily want to experience a community. 
 
 # Introductory and Mentor One-on-Ones
 
@@ -48,7 +48,7 @@ This guide will discuss the benefits and risks of having one on one meetings abo
 
 # Donation One-on-Ones
 
-Donation one on ones involve chatting to a prospective donor about where they could donate. Two group organisers have collated some <a target="_blank" href="https://docs.google.com/document/d/1hItIAv82v8qE8xy4vc1YBtRe-Q6_807ixB8vH810bzA/edit#">thoughts on running donation one on ones</a>.
+Donation one-on-ones involve chatting to a prospective donor about where they could donate. Two group organisers have collated some <a target="_blank" href="https://docs.google.com/document/d/1hItIAv82v8qE8xy4vc1YBtRe-Q6_807ixB8vH810bzA/edit#">thoughts on running donation one-on-ones</a>.
 
 # Tips
 One-on-ones can seem a bit weird to some people, at least initially. 
@@ -57,28 +57,28 @@ One-on-ones can seem a bit weird to some people, at least initially.
 
 * When you first bring up the option of having a one-on-one, let people know this is a regular activity your group does, which will hopefully make it obvious you aren’t asking them on a date! 
 * Use phrases like “grabbing a coffee and chatting about X”. 
-* Have the meeting in a public space - e.g. a cafe or park.
+* Have the meeting in a public space - e.g. a cafe or park.
 
 ## Timing
 
-* Schedule a meeting as soon as possible after someone expresses interest.
-* 30 minutes seems to be a good time for a session.
+* Schedule a meeting as soon as possible after someone expresses interest.
+* 30 minutes seems to be a good time for a session.
 * If you are planning on doing an introductory seminar, then personal interaction can be a crucial factor in getting people to sign up for it.
-* Check in with people the day before a one-on-one and make sure they are still available
+* Check-in with people the day before a one-on-one and make sure they are still available.
 * Don’t run overtime: Discuss at the start how long each of you have for the meeting, then finish by recapping the resources you intend to send them.
 
-## During the meeting:
+## During the meeting
 
 * Try to make the conversation balanced - spend much of the time listening. This can be harder to do when the meeting is a conversation about EA, and you are the resident expert on EA. Use the questions from <a target="_blank" href="https://forum.effectivealtruism.org/posts/NrLCM4vcf8PRqkLaH/guide-to-successful-community-1-1s">EA Oxford’s guide</a>, or <a target="_blank" href="https://docs.google.com/document/d/1YNDycpfXRqU8i7GrigY0U0t4_N9e8i7exRbvwrHfBrc/edit">EA Cambridge’s question list</a> to encourage the other person to talk more. 
 * You might want to get drinks or food, this will make both people more committed to investing time in the conversation.
-* Keep in mind how much exposure to effective altruism ideas they’ve already had. Avoid or explain jargon and acronyms.
-* Pay attention to their willingness to change their mind when presented with compelling arguments or evidence. (from <a target="_blank" href="https://forum.effectivealtruism.org/ea/1p7/a_concrete_model_for_running_an_ea_group/">Tobias Pulver</a>)
+* Keep in mind how much exposure to effective altruism ideas they’ve already had. If you use acronyms and other jargon, make sure these terms aren’t going over their head.
+* Pay attention to their willingness to change their mind when presented with compelling arguments or evidence (from <a target="_blank" href="https://forum.effectivealtruism.org/ea/1p7/a_concrete_model_for_running_an_ea_group/">Tobias Pulver</a>).
 * Asking people what motivates them to care about particular areas is a good way or gauging their depth of knowledge and how much they've already thought about doing good. 
 * You might like to take notes as you go about resources you want to send them afterwards. 
 
 ## Afterwards
 
-Send a follow up email, with a personalised list of reading recommendations.
+Send a follow-up email, with a personalised list of reading recommendations.
 
 
 # Additional Resources
@@ -88,6 +88,6 @@ Send a follow up email, with a personalised list of reading recommendations.
 
 <hr>
 
-### [NEXT: Handing Over Leadership](/tips/handover/)
+### [NEXT: Community Health](/tips/community-health/)
 
 ### [BACK: Communication Tools](/tips/articles/communication-tools/) 
