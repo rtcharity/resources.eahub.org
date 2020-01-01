@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-Most of the graphics available require some editing, if only to change the name of the group. A few are able to use without editing. For these feel free to just use the png, jpgs or pdfs directly. 
+Most of the graphics available require some editing, if only to change the name of the group, and a few are able to be used without editing. For these feel free to just use the png, jpgs or pdfs directly. 
 
 If you want or need to make changes, this can be done in <a target="_blank" href="https://designer.gravit.io/">Gravit</a>, a free graphics package that can be used in your web browser. The EA Hub Resources team chose to make our files in Gravit as the free version has many excellent features, and it is easier to use than many other similar apps. This means that group organisers can make, share, and modify resources freely. 
 
