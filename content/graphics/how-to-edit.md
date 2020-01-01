@@ -5,17 +5,17 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-Most of the graphics available require some editing, if only to change the name of the group. A few are able to use without editing. For these feel free to just use the png, jpgs or pdfs directly. 
+Most of the graphics available require some editing, if only to change the name of the group, and a few are able to be used without editing. For these feel free to just use the png, jpgs or pdfs directly. 
 
 If you want or need to make changes, this can be done in <a target="_blank" href="https://designer.gravit.io/">Gravit</a>, a free graphics package that can be used in your web browser. The EA Hub Resources team chose to make our files in Gravit as the free version has many excellent features, and it is easier to use than many other similar apps. This means that group organisers can make, share, and modify resources freely. 
 
 # Basic instructions:
 
-1. Download the gvdesign file of the image you want to modify from the <a target="_blank" href="">Available Graphics page</a>, or from the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>. 
+1. Download the gvdesign file of the image you want to modify from the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/https://resources.eahub.org/graphics/editable-graphics/">Available Graphics page</a>, or from the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>. 
 2. Go to <a target="_blank" href="https://designer.gravit.io/">https://designer.gravit.io</a> and sign up - the free version has plenty of features so it is unlikely you'll need to buy the professional version.
 3. Go to “Open from Computer” (or from the file menu “Open Local File”), to open the gvdesign you downloaded. 
 4. Edit
-5. Export your file into jpg, png or pdf. and use!
+5. Export your file into jpg, png or pdf, and use!
 
 # Detailed instructions: 
 
