@@ -107,8 +107,8 @@ Here are some things you might want on your list.
 * If presenting a topic, you may want to have topic fact sheets, if doing an activity, you may want worksheets and pens. 
    * Most people with dyslexia find a sans-serif font easier than a serif font.
    * Ideally have any printed materials in digital text format also, so you can email them to anyone with vision impairment so they can use a screen reader. 
-* If collecting physical feedback forms: Plenty of pens and copies of feedback forms (<a target="_blank" href="https://drive.google.com/open?id=1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU">example here</a>).
-* If you have some available, bring copies of EA books such as Doing Good Better to loan out or give to people who seem truly interested in reading them. CEA has a <a target="_blank" href="https://docs.google.com/document/d/1sD_E4MO-uweGkPM9bFqBFgbYdwACa1xXNSQoKEB0LOI/edit">short guide on this</a>.
+* If collecting physical feedback forms: Plenty of pens and copies of feedback forms (<a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/">example here</a>).
+* If you have some available, bring copies of EA books such as Doing Good Better to loan out or give to people who seem truly interested in reading them. CEA has a <a target="_blank" href="https://docs.google.com/document/d/1sD_E4MO-uweGkPM9bFqBFgbYdwACa1xXNSQoKEB0LOI/">short guide on this</a>.
 * Brochures about EA to hand to new people (sample brochures <a target="_blank" href="">here</a>)
 * 	For an introduction to EA, you may wish to have flyers with links relevant to the event. 
 
@@ -118,7 +118,7 @@ Here are some things you might want on your list.
 
 Think about how you will measure the success of your events - what worked, what didn’t, etc. This could become useful information not just for yourself but for other groups.
 
-For larger events, you may wish to print short surveys in advance and have people fill them out at the end of the event. Survey responses can be very valuable information but can carry a social cost (especially if your attendees are new to EA as most groups don’t get people to fill out surveys, and some people find surveys annoying). Use your intuition to work out what would be appropriate. An example of a feedback form is <a target="_blank" href="">here</a>.
+For larger events, you may wish to print short surveys in advance and have people fill them out at the end of the event. Survey responses can be very valuable information but can carry a social cost (especially if your attendees are new to EA as most groups don’t get people to fill out surveys, and some people find surveys annoying). Use your intuition to work out what would be appropriate. An example of a feedback form is <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/edit">here</a>.
 
 For smaller events you can contact people more personally via email, or ask them in person for feedback at the end of an event. 
 Debrief with co-organisers after an event about what went well or poorly (although try to keep it positive if people are tired or put a lot of effort into an event!)
