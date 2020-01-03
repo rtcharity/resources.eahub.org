@@ -136,7 +136,7 @@ People can casually chat before the event officially starts, which should be abo
 
 If it’s a small event (~10 or less people), you could do a round of ice-breakers. Example ice breakers include asking people to give a short one sentence description of their priority cause areas, or the most interesting thing they’ve read or seen recently. Remember to keep ice breakers brief and remind people they can come back to a topic after the introductions are over.
 
-If there are new people attending you may wish to give a very short talk about what EA is before the main content of the event (see this guide on <a target="_blank" href="">communicating about EA</a> for ideas of what to say, or these <a target="_blank" href="">sample talks</a>).
+If there are new people attending you may wish to give a very short talk about what EA is before the main content of the event (see this guide on <a target="_blank" href="/learn/communicate-ea/">communicating about EA</a> for ideas of what to say, or these <a target="_blank" href="/events/intro/">sample introductory talks</a>).
 
 If you have a guest speaker, have a prepared introduction, but keep it short. 
 
