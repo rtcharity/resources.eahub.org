@@ -48,3 +48,11 @@ A group aiming to have a high impact could set goals to help their members incre
 ### [NEXT: Organisation](/tips/organisation/)
 
 ### [BACK: Priorities](/tips/articles/priorities/)
+
+
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1GRJFS-mVl2b4UXzBpzQiQ-YzmfLmPbPJkDIMUcRw8R4/edit">_this google doc._</a>
+
+<hr>
