@@ -47,6 +47,9 @@ EA fellowships involve a small group of admitted fellows gaining a complete educ
 ### [Social Events](/events/social/)
 A variety of ideas and resources for running structured and unstructured social get-togethers. 
 
+### [Speaker Events](/events/speaker/)
+Speaker events involve a guest speaker giving a presentation, workshop, Q&A, or panel discussion. This guide will help you invite and prepare for speaker events.
+
 ### Retreats and Conferences - Coming Soon
 
 ### [Graphics for Advertising Your Events](/graphics/)
