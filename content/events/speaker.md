@@ -1,5 +1,6 @@
 ---
 title: Speaker Events
+weight: 8
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -13,12 +14,14 @@ Speaker events involve a guest speaker giving a presentation, workshop, Q&A, or 
 It may be useful to consider the following costs and benefits and decide if your group is well suited to a speaker event.
 
 **Benefits of a speaker event**
+
 * Spread awareness of EA
 * Spread knowledge and educate attendees on an EA-relevant topic
 * Build your group’s reputation and network by hosting speakers
 * Provides an opportunity to collaborate and co-host with other groups, and outreach to members of other established communities
 
 **Costs of a speaker event**
+
 * If you are inviting a high-profile speaker and hoping to get a large audience the preparation can take a lot of time.
 * Groups hosting speakers report that the conversion of speaker event attendees to regular members is often low.
 * Needs to be planned well in advance to accommodate speakers’ schedules and venue bookings.
