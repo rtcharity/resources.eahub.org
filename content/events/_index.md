@@ -32,6 +32,12 @@ Tips on event catering.
 ### [Introductory Presentations](/events/intro/)
 These workshops and presentations are designed for audiences that are unfamiliar with effective altruism. They could be used for newcomers events, or for presenting to non-EA groups.
 
+### [Social Events](/events/social/)
+A variety of ideas and resources for running structured and unstructured social get-togethers. 
+
+### [Speaker Events](/events/speaker/)
+Speaker events involve a guest speaker giving a presentation, workshop, Q&A, or panel discussion. This guide will help you invite and prepare for speaker events.
+
 ### Intermediate Workshops - Coming Soon
 These workshops are designed for audiences that are familiar with effective altruism, but haven’t necessarily read a lot about EA concepts and cause areas.
 
@@ -42,13 +48,6 @@ The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orie
 
 ### [Fellowships (Uni Groups)](/events/fellowships)
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
-
-
-### [Social Events](/events/social/)
-A variety of ideas and resources for running structured and unstructured social get-togethers. 
-
-### [Speaker Events](/events/speaker/)
-Speaker events involve a guest speaker giving a presentation, workshop, Q&A, or panel discussion. This guide will help you invite and prepare for speaker events.
 
 ### Retreats and Conferences - Coming Soon
 
