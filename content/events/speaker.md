@@ -42,7 +42,7 @@ The invitation process looks roughly as follows:
 2. Book and Confirm
     * If you receive a positive response, confirm a suitable date and the topic of the talk
 
-**Tips for reaching out:**
+### Tips for reaching out:
 * **Leverage personal relationships**
     * If someone has a personal relationship with the person you wish to speak, have them to reach out on behalf of the group.
 
@@ -62,7 +62,7 @@ The invitation process looks roughly as follows:
     * Simply reply to the email you sent and include ‘Hi X, I was wondering if you had a chance to read over our email about [One sentence explanation of what you said].. If you have any questions I would be happy to answer them. Best Wishes…’.
     * You can schedule reminders to send nudge emails (with Gmail, <a target="_blank" href="http://www.boomeranggmail.com/">Boomerang</a> is a useful tool to set unanswered emails to return to your inbox in a set number of days).
 
-# Booking and Confirming
+### Booking and Confirming
 * Once a speaker has accepted, decide on a date for the talk - keep in mind that you often won’t have much choice, especially with busy speakers.
 * Confirm what topic the speaker is going to talk on, and the length of the talk. If some areas of the speaker’s interests that are more relevant to EA than others try and steer the topic in this direction.
     * It’s good to get as much information as possible about the speakers’ topic to help promote the event.
@@ -89,7 +89,7 @@ If the speaker agrees to dinner, book a restaurant close to the location of the 
 
 Aim to find at least 3-4 people in addition to yourself to attend. If it is a high-profile speaker, ensure that you put a cap on the number of people who can attend the dinner, to maximize speaker-member interactions as much as possible. It’s usually very interesting and great fun. 
 
-# Introductions
+## Introductions
 ### Choosing a host
 Consider the gender and ethnic diversity on the stage when selecting a person to act as the host and introduce the speaker, and how you would see an event/publicity if you were from a different background or had different views. 
 
@@ -98,7 +98,8 @@ Depending on your event and audience, especially if you have several newcomers, 
 
 ### Speaker introduction
 Prepare the introduction in advance, highlighting information attendees are most likely to find relevant, including why this speaker is worth listening to, and why the topic might be relevant to the audience. Use the short bio you have confirmed with the speaker as the basis for your introduction, but avoid listing off awards or positions. Keep the introduction brief, about one minute long, as people are here to listen to the speaker, not the person making the introduction.
-* When you do list affiliations, make sure to get the names and dates correct. * Make sure you can pronounce the name of the speaker correctly.
+* When you do list affiliations, make sure to get the names and dates correct.
+* Make sure you can pronounce the name of the speaker correctly.
 
 Add to your introduction whether the speaker is willing to have questions at any point throughout the talk, or whether they would like people to wait until the end.
 
