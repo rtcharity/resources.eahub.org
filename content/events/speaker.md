@@ -12,7 +12,7 @@ Speaker events involve a guest speaker giving a presentation, workshop, Q&A, or 
 
 It may be useful to consider the following costs and benefits and decide if your group is well suited to a speaker event.
 
-**Benefits of a speaker event** 
+**Benefits of a speaker event**
 * Spread awareness of EA
 * Spread knowledge and educate attendees on an EA-relevant topic
 * Build your group’s reputation and network by hosting speakers
@@ -98,6 +98,7 @@ Depending on your event and audience, especially if you have several newcomers, 
 
 ### Speaker introduction
 Prepare the introduction in advance, highlighting information attendees are most likely to find relevant, including why this speaker is worth listening to, and why the topic might be relevant to the audience. Use the short bio you have confirmed with the speaker as the basis for your introduction, but avoid listing off awards or positions. Keep the introduction brief, about one minute long, as people are here to listen to the speaker, not the person making the introduction.
+
 * When you do list affiliations, make sure to get the names and dates correct.
 * Make sure you can pronounce the name of the speaker correctly.
 
@@ -115,12 +116,13 @@ Before people start arriving, ask the speaker to confirm:
 * Whether they are willing to have questions at any point throughout the talk, or whether they would like people to wait until the end 
 * How they would like the Q&A to proceed - whether they’d like a member of the committee to select questioners and help moderate the discussion, or whether they are happy to moderate the Q&A themselves, and how long they are happy for the Q+A to run for. 
 
-#### After the talk
+### After the talk
 * The host thanks the speaker for their presentation.
 * Open the floor for questions and have the host moderate the discussion if requested. After the Q&A, the host should thank the speaker again and encourage everyone interested to stay around to chat. Make sure you have enough committee members around for people interested in talking, or for those who have questions about EA.)
 * If the speaker is comfortable with it, let audience members know they can ask the speaker questions after the Q&A.
 * If you are asking attendees to give feedback remind everyone about to fill out the feedback forms (for physical forms either leave these on people’s seats, hand them out at the end, or project the link if digital). 
 * It is often a good idea to serve <a target="_blank" href="https://resources.eahub.org/events/food/">refreshments</a>.
+
 ### After the event
 * Ensure that the speaker is settled into their accommodation. 
 * Send a follow up email thanking them and updating them on the success of the event.
@@ -128,11 +130,12 @@ Before people start arriving, ask the speaker to confirm:
 
 # Video presentations
 Additional steps for running a video presentation:
+
 * Check the wifi in the venue is excellent before booking
-* Ask your speaker to situate themselves somewhere with excellent wifi too. 
+* Ask your speaker to situate themselves somewhere with excellent wifi too.
 * Ensure both you and the speaker have two different video call options (e.g. Skype, Hangouts, Zoom) available and prepared so you can change options early.
-* If your speaker wishes to use slides, ensure the speaker is ready and able to share screens with you. Ideally have the start and finish of the talk involves people seeing the speaker rather than the slides. 
-* Ideally have the webcam pointing at the host and the audience so the speaker can see who they are talking to. 
+* If your speaker wishes to use slides, ensure the speaker is ready and able to share screens with you. Ideally have the start and finish of the talk involves people seeing the speaker rather than the slides.
+* Ideally have the webcam pointing at the host and the audience so the speaker can see who they are talking to.
 * Connect to the speaker early, and check that both groups can hear each other clearly, and check that screen sharing works if required.
 * During question and answer time, or when there are questions throughout the presentation, have the host repeat the question so that the speaker can hear the questions.
 
