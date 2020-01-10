@@ -45,7 +45,7 @@ The invitation process looks roughly as follows:
 2. Book and Confirm
     * If you receive a positive response, confirm a suitable date and the topic of the talk
 
-### Tips for reaching out:
+### Tips for reaching out
 * **Leverage personal relationships**
     * If someone has a personal relationship with the person you wish to speak, have them to reach out on behalf of the group.
 
