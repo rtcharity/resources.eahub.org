@@ -1,5 +1,6 @@
 ---
 title: What to Say
+date: 2020-01-16T20:48:28.380Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -157,3 +158,8 @@ If you cannot provide your own story, try telling the story of a friend or someo
 ### [NEXT: Tips to Help Your Conversation Go Well](/learn/articles/tips/)
 
 ### [BACK: Communicate About EA](/learn/communicate-ea/) 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1s9Yo5TnmS7__CxYQZyu1L2RKNbNHGduE7KZ2OVSwuxA/edit?usp=sharing">_this google doc._</a>
+<hr>
