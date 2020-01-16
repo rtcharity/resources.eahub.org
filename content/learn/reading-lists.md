@@ -46,6 +46,7 @@ These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwall
 ### [BACK: Glossary](/learn/glossary/)
 
 <hr>
+
 _If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1hAT_glJ-71QOZ2I8zN8LQO8M9Afw1-60FECnf5rG76o/edit?usp=sharing">_this google doc._</a>
 
 <hr>
