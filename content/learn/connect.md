@@ -161,3 +161,7 @@ These groups are a good place to get feedback on specialized or specific career 
 ### [NEXT: Organisations](/learn/orgs/)
 
 ### [BACK: Reading Lists](/learn/reading-lists/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1ifEJiy7jf3SdH95HEObgFcuhhpWzmkeYZ5G1asxnfGg/edit?usp=sharing">_this google doc._</a>
