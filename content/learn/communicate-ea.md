@@ -45,5 +45,7 @@ The following pages provide some suggestions about having a fruitful conversatio
 ### [BACK: Sustaining an EA Lifestyle](/learn/life/)
 
 <hr>
+
 _If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1qluAjJB6Kz1Bf_H4txh1eHqSfCi0chwwgXy9IZn1Lz0/edit?usp=sharing">_this google doc._</a>
+
 <hr>
