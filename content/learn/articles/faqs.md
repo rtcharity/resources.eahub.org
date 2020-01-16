@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+date: 2020-01-16T20:40:13.883Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -60,3 +61,8 @@ There are a few more general FAQs from CEA in <a target="_blank" href="https://w
 ### [NEXT: Responding to Objections](/learn/articles/objections/)
 
 ### [BACK: Tips to Help Your Conversation Go Well](/learn/articles/tips/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1LEx1TcHMc4VjbfCViKU2YxARlUoO-pfnm1GQiakRtOE/edit?usp=sharing">_this google doc._</a>
+<hr>
