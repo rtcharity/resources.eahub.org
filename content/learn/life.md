@@ -121,3 +121,10 @@ Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/
 ### [NEXT: Communicating about EA](/learn/communicate-ea/)
 
 ### [BACK: Organisations](/learn/orgs/) 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1qqe_JfguYrvzKDcB5HJLRksU5gk0bW4e46AN8nZOVDc/edit?usp=sharing">_this google doc._</a>
+
+<hr>
+
