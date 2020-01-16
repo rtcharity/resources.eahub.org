@@ -5,15 +5,15 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 26th September 2019_
+### *Published 26th September 2019*
 
 <p class="large_image_wrapper">
 <img src="/img/eaperth2.png" />
 </p>
 
-_Image: EA Perth_
+*Image: EA Perth*
 
-_This guide on having conversations about EA was compiled from information from the outdated_ <a target="_blank" href="https://docs.google.com/document/d/15ZKivRmriwMrMJiUsrkMqgNNAClio0HF_RPkcNN4mEs/edit">_LEAN_</a> _and_ <a target="_blank" href="https://drive.google.com/open?id=0B6GSBBEzLsorR0VQMW0zUV9BNFE">_EA Group/Giving What We Can_</a> _chapter guides, the_ <a target="_blank" href="https://docs.google.com/document/d/1Zuq8d0ODf1iurcBpWPfidpAuVGt8BTU27oI4UwoBWAQ/edit">_old Pitch Guide_</a> _(last updated in 2016), EA Cambridge’s_ <a target="_blank" href="https://docs.google.com/document/d/1qSmNo87wmlcwBpKlE941SJTAsVaZ0AvSPbTy0Lf_EwQ/edit#">_guide on talking to newcomers_</a>_,_ <a target="_blank" href="https://shicschools.org/shic-program/">_Students for High-Impact Charity_</a> _resources and experiences,_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/p6YgPpdhMpajBZ2Lf/tips-on-talking-about-effective-altruism">_EA forum posts_</a> _by weatquince,  the experiences of a number of group organisers, the LEAN team, and a variety of other sources linked throughout the pages._
+*This guide on having conversations about EA was compiled from information from the outdated* <a target="_blank" href="https://docs.google.com/document/d/15ZKivRmriwMrMJiUsrkMqgNNAClio0HF_RPkcNN4mEs/edit">*LEAN*</a> *and* <a target="_blank" href="https://drive.google.com/open?id=0B6GSBBEzLsorR0VQMW0zUV9BNFE">*EA Group/Giving What We Can*</a> *chapter guides, the* <a target="_blank" href="https://docs.google.com/document/d/1Zuq8d0ODf1iurcBpWPfidpAuVGt8BTU27oI4UwoBWAQ/edit">*old Pitch Guide*</a> *(last updated in 2016), EA Cambridge’s* <a target="_blank" href="https://docs.google.com/document/d/1qSmNo87wmlcwBpKlE941SJTAsVaZ0AvSPbTy0Lf_EwQ/edit#">*guide on talking to newcomers*</a>*,* <a target="_blank" href="https://shicschools.org/shic-program/">*Students for High-Impact Charity*</a> *resources and experiences,* <a target="_blank" href="https://forum.effectivealtruism.org/posts/p6YgPpdhMpajBZ2Lf/tips-on-talking-about-effective-altruism">*EA forum posts*</a> *by weatquince,  the experiences of a number of group organisers, the LEAN team, and a variety of other sources linked throughout the pages.*
 
 Having a conversation about EA can be tricky:
 
@@ -31,13 +31,21 @@ Note that there are people who have come away from conversations with EAs with a
 The following pages provide some suggestions about having a fruitful conversation with people who haven’t heard of EA before, or are very new to the ideas.
 
 ## [What to Say (Pitch Guide)](/learn/articles/what-to-say/)
-## [Tips to Help Your Conversation Go Well](/learn/articles/tips/)
-## [Frequently Asked Questions](/learn/articles/faqs/)
-## [Responding to Objections](/learn/articles/objections/)
 
+## [Tips to Help Your Conversation Go Well](/learn/articles/tips/)
+
+## [Frequently Asked Questions](/learn/articles/faqs/)
+
+## [Responding to Objections](/learn/articles/objections/)
 
 <hr>
 
 ### [NEXT: What to Say](/learn/articles/what-to-say/)
 
 ### [BACK: Sustaining an EA Lifestyle](/learn/life/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1qluAjJB6Kz1Bf_H4txh1eHqSfCi0chwwgXy9IZn1Lz0/edit?usp=sharing">_this google doc._</a>
+
+<hr>
