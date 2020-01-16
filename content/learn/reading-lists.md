@@ -5,10 +5,9 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 25th September 2019_
+### *Published 25th September 2019*
 
 These lists of articles, books, videos and podcasts will help get you up to speed on many cause areas and topics of interest to the EA community. Most lists start with introductory materials, and are not comprehensive lists.
-
 
 # Cause Areas:
 
@@ -23,6 +22,7 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 * <a target="_blank" href="https://docs.google.com/document/d/16UZ1yuh3IOdfxmJKPOBu5hvTxUxbx_QBo2x2i_P60to/edit#">Further Causes</a>
 
 # Other Topics of Interest:
+
 * <a target="_blank" href="https://docs.google.com/document/d/1AHhQK4z_RNvyhdu3KaYzKqomcGW-zUDZh8Vjh4qVjv0/edit#">Community Building</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1AUQ2174Y_qYJn22Gjd6wpMisX7_VxFOORe7g6c88rvM/edit#">High-Impact Careers</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1XR09jhm483V4kGJ6P4vWO-tLgDephekpgUlhhhMykec/edit#heading=h.lg3wnovma450">Rationality</a>
@@ -33,8 +33,8 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwalla, Saulius Šimčikas and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact/">contact us</a>. 
 
 # Other reading lists:
-* The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more. Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format. 
 
+* The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more. Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format. 
 * Will MacAskill’s <a target="_blank" href="https://fivebooks.com/best-books/effective-altruism-will-macaskill/">Five Books list</a> and interview. 
 * Goodreads' <a target="_blank" href="https://www.goodreads.com/list/show/107382.Effective_Altruism_Books">list of Effective Altruism Books</a>.
 * The Life You Can Save’s <a target="_blank" href="https://docs.google.com/document/d/1O8yiwLg2jWP4RYKaD5MM0xtCr5VbsUt5OPrSdDZEtls/edit">list of books and films</a> mostly on Global Poverty.
@@ -44,4 +44,9 @@ These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwall
 ### [NEXT: Connect and Keep Up to Date](/learn/connect/)
 
 ### [BACK: Glossary](/learn/glossary/)
- 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1hAT_glJ-71QOZ2I8zN8LQO8M9Afw1-60FECnf5rG76o/edit?usp=sharing">_this google doc._</a>
+
+<hr>
