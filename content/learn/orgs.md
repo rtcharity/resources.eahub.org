@@ -365,3 +365,8 @@ LessWrong is a community blog devoted to rationality. They provide a place to re
 
 ### [BACK: Connect and Keep Up To Date](/learn/connect/)
 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1l2JglNCgATKjJEMeUnEC6BaLxxbvVAkZZogecOUgLss/edit?usp=sharing">_this google doc._</a>
+
+<hr>
