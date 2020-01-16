@@ -1,5 +1,6 @@
 ---
 title: Tips to Help Your Conversation Go Well
+date: 2020-01-16T20:51:04.855Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -87,3 +88,9 @@ Also note that global poverty was the <a target="_blank" href="https://forum.eff
 ### [NEXT: Frequently Asked Questions](/learn/articles/faqs/)
 
 ### [BACK: What to Say](/learn/articles/what-to-say/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1fwQoophox7jRsGbDNrigIsOsOCTfm2xD0GctB6QwaVA/edit?usp=sharing">_this google doc._</a>
+
+<hr>
