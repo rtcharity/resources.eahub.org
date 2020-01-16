@@ -44,3 +44,8 @@ Whether you are talking to your family or giving a formal presentation, talking 
 <hr>
 
 ### [NEXT: About EA](/learn/about-ea/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1Utp0mSbjo-RDk7YmSi-a1KBxMZWR4IH7d0EF4I8DajM/edit?usp=sharing">_this google doc._</a>
+<hr>
