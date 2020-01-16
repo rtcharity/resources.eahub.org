@@ -1,5 +1,6 @@
 ---
 title: Responding to Objections
+date: 2020-01-16T20:44:03.595Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -28,3 +29,9 @@ Do your best to discuss objections in a positive way.
 ### [NEXT: Take Action](/take_action/)
 
 ### [BACK: Frequently Asked Questions](/learn/articles/faqs/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1gFDatIzoK3OJ_GI6KNw2OjwyCwI-_87TCr6nwMyilyA/edit?usp=sharing">_this google doc._</a>
+
+<hr>
