@@ -13,6 +13,16 @@ license:
 
 *Image: EA NTNU*
 
+# Contents
+
+* <a href="#goals">Goals for Uni Groups</a>
+* <a href="#types">Types of Uni Groups</a>
+* <a href="#who">Who Should Start a Group?</a>
+* <a href="#tasks">Tasks Involved</a>
+* <a href="#coorganisers">Co-organisers</a>
+* <a href="#finalyear">Your Final Year of University</a>
+
+<a name="goals"></a>
 # Goals for Uni Groups
 
 There are a number of different types of uni groups. To work out what type of group is suitable for your university, consider: 
@@ -39,6 +49,7 @@ Different groups have very different goals, but the most common goals of EA grou
 
 If you happen to gather members whose priorities substantially differ from yours, you may need to re-evaluate.
 
+<a name="types"></a>
 # Types of Uni Groups
 
 ## Formal groups
@@ -97,6 +108,7 @@ In areas with distinct city and university groups, it is often healthy for the g
 
 *EA ANU used to act as a city-uni partnership but later chose to split the non-students off into a separate EA Canberra group.* 
 
+<a name="who"></a>
 # Who Should Start a Group?
 
 Starting a uni group is a good idea if you:
@@ -111,6 +123,7 @@ Starting a uni group is a good idea if you:
 
 This isn’t to say you shouldn’t start a group if the above don’t all apply to you—you just might face more difficulties in getting the group off the ground. Some successful groups have been started by people in their senior year, and many groups start with just one organiser. In most cases, there’s no harm done if you try to start a group and it doesn’t take off, yet there could be a large impact if you succeed.
 
+<a name="tasks"></a>
 # Tasks Involved
 
 The time commitment for running a group depends on what you’re planning to do with it. Some groups just meet casually every now and then socially and for discussions, while others run extensive outreach campaigns, retreats, or large events. Remember that starting a group isn’t all-or-nothing: if you can’t currently run anything fancy, you can still introduce new people to the movement and support other EAs in your community in whatever ways you have time for. Along the way, you may find new members who want to help you plan more things!
@@ -163,6 +176,7 @@ When you do have a group of organisers, it is worth investing time into ensuring
 
 Once you’ve decided to run a group (with or without co-organisers), it is a good idea for your outward-facing communication to be confident—present as though your group already exists, rather than be too tentative. For instance, if you post on social media or send out emails saying “We are trying to start this new group”, people might not be excited to join; so, instead state what the group is about or what events are coming up.
 
+<a name="finalyear"></a>
 # Your Final Year of University
 
 About 40% of groups believe that their group is more likely than not to stop running after the current organisers leave (not-yet-published 2019 Local Group Survey). This indicates that recruiting new organisers is a common problem for groups. 
