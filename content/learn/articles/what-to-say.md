@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 26th September 2019_
 
-#Chapters
+# Content
 * <a href="#useguide">How to Use this Guide</a>
 * <a href="#frameea">Ways to Frame Your Introduction to EA</a>
 * <a href="#whyimportant">Why is EA Important?</a>
