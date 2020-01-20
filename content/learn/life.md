@@ -11,8 +11,14 @@ license:
 <img src="/img/ealondonpicnic.png" />
 </p>
 
-This page has information and links about caring for yourself, value drift, and productivity. 
- 
+# Chapters
+* <a href="#selfcare">Self Care and Mental Health</a>
+* <a href="#valuedrift">Value Drift and Staying Motivated</a>
+* <a href="#productivity">Productivity Resources</a>
+
+
+
+<a name="selfcare"></a>
 # Self-care and Mental Health
 EA can demand a lot from people, and there is a sense of urgency to act, but it is important to do so in a healthy way. Self-care is about making sure that you take care of your mental and physical health, and that you do not do altruistic things at the cost of your own personal health. 
 
@@ -64,6 +70,7 @@ Other resources recommended by people in the community:
 * Harvard Medical School article on <a target="_blank" href="https://www.health.harvard.edu/diseases-and-conditions/how-to-taper-off-your-antidepressant/">how to taper off antidepressants</a>  (not that we're advising this per se, but read this first if you're planning to).
 * Resources on <a target="_blank" href="https://optionb.org/">building resilience</a>
 
+<a name="valuedrift"></a>
 # Value Drift and Staying Motivated
 
 Most people in the EA community are young, and therefore their greatest impact could lie in the medium- to long-term, when they are at the peak of their careers. However, not everyone in the EA community will continue to act according to effective altruism principles throughout their lives. 
@@ -76,6 +83,7 @@ Also you may wish to take action now to reduce the chances that your values and 
  
 Note that while it seems reasonable to take steps to keep your motivation high, it is debatable whether we should take steps to prevent your values from changing as it is possible that your future self will have better values than your current self.
 
+<a name="productivity"></a>
 # Productivity Resources
 Many people in the EA movement get significant value out of learning to be more productive in their work. Here are some tools and readings to help you get more out of your day. 
 
