@@ -7,8 +7,20 @@ license:
 ---
 ### *Published 25th September 2019*
 
+## Contents
+* <a href="#introduction">Introductory Materials</a>
+* <a href="#worldincome">World Income</a>
+* <a href="#philosophy">Philosophy</a>
+* <a href="#causeprior">Cause Prioritisation</a>
+* <a href="#onlinecourse">Online Course</a>
+* <a href="#podcasts">Podcasts</a>
+* <a href="#careers">Careers</a>
+* <a href="#critofea">Criticisms of Effective Altrusim</a>
+* <a href="#morereading">More Reading</a>
+
 These resources will give you a solid understanding of what effective altruism is, and the approaches EAs take towards improving the world.
 
+<a name ="introduction"></a>
 ## Introductory Article
 
 For a concise and fascinating summary of why EA is so important, check out <a target="_blank" href="https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/">this introductory article</a> by the Centre for Effective Altruism (15 minute read).
@@ -35,6 +47,7 @@ src="https://www.youtube.com/embed/LtWINl3C_7s">
 
 </div>
 
+<a name="worldincome"></a>
 ## World Income
 
 If you watched Beth Barnes’ talk above, you’ll know what could happen if the richest 10% donated effectively. Now use <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">this online app</a> to work out where you lie in the world’s income distribution.
@@ -44,6 +57,7 @@ If you watched Beth Barnes’ talk above, you’ll know what could happen if the
 </p>
  </a>
 
+<a name="philosophy"></a>
 ## Philosophy
 
 EA is rooted in moral philosophy. For a philosophical introduction to the movement, read <a target="_blank" href="https://drive.google.com/file/d/1xs22x9UIuvym--MfAUtQsZ-GVqTqXeEs/view">this section of the Norton Introduction to Ethics</a>, by William MacAskill in 2019.  
@@ -55,6 +69,7 @@ EA is rooted in moral philosophy. For a philosophical introduction to the moveme
 
 William MacAskill’s 2015 book <a target="_blank" href="https://www.effectivealtruism.org/doing-good-better/">Doing Good Better</a> is an entertaining and excellent introduction to EA - it mostly focuses on global poverty and effective charity, but also provides a review of other cause areas, and introduces how to use your career to make a large difference.  
 
+<a name="causeprior"></a>
 ## Cause Prioritisation
 
 Cause-impartiality— the concept that we should choose our cause area based on how much impact we could make— is one of the unique aspects of effective altruism.
@@ -68,6 +83,7 @@ src="https://www.youtube.com/embed/1xsR0XBwyo4">
 </iframe>
 </div>
 
+<a name="onlinecourse"></a>
 ## Online Course
 
 If you like doing online courses, try <a target="_blank" href="https://www.coursera.org/learn/altruism">Peter Singer’s Coursera course on effective altruism</a>. This course is mostly focused on ethics and global poverty.
@@ -77,6 +93,7 @@ If you like doing online courses, try <a target="_blank" href="https://www.cours
 </p>
 </a>
 
+<a name="podcasts"></a>
 ## Podcasts
 
 Is listening your preferred way of intaking info?
@@ -95,6 +112,7 @@ The <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/">�
 
 In the <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a>, Rob Wiblin interviews experts from a range of fields about how best to tackle many of the world's most pressing problems. These podcasts range from 1 to 3 hours long, and can get very in-depth, so start by choosing episodes on topics you are most interested in.
 
+<a name="careers"></a>
 ## Careers
 
 <a target="_blank" href="https://80000hours.org/"><p class="large_image_wrapper"> <img src="/img/80Klogo.png" />
@@ -104,10 +122,12 @@ In the <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Po
 
 80,000 Hours explains <a target="_blank" href="https://80000hours.org/key-ideas/">their key ideas</a>  about how to have a large impact in your career. This article contains plenty of links to help you direct more in-depth thinking.
 
+<a name="critofea"></a>
 ## Criticisms of Effective Altruism
 
 While most of the above links advocate for EA, it is also worth learning what effective altruism might have wrong. The Centre for Effective Altruism has compiled a <a target="_blank" href="https://www.effectivealtruism.org/faqs-criticism-objections/#objections-to-effective-altruism">list of a few common objections to effective altruism</a>, and responses to these objections.
 
+<a name="morereading"></a>
 ## More Reading
 
 <a target="_blank" href=""><p class="large_image_wrapper"> <img src="/img/eahandbook.png" />
