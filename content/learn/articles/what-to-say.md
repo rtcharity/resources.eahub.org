@@ -7,6 +7,13 @@ license:
 ---
 ### _Published 26th September 2019_
 
+#Chapters
+* <a href="#useguide">How to Use this Guide</a>
+* <a href="#frameea">Ways to Frame Your Introduction to EA</a>
+* <a href="#whyimportant">Why is EA Important?</a>
+* <a href="#explaininvolved">Explain How You Got Involved In Effective Altruism</a>
+
+<a name="useguide"></a>
 # How to Use This Guide
 
 This article has suggestions about how to concisely talk about EA, commonly called "Pitches". “Pitch” isn’t really the right word though, because it is best not to think about your conversation as a sales pitch, but more about letting a person know about EA ideas, so they can learn more if they are interested. 
@@ -18,6 +25,7 @@ Have a read through these suggestions and pull out a few to try yourself. For ex
 * Explain cause prioritisation and a couple of high-impact cause areas to work on
 * Or describe a couple of your favourite charities.
 
+<a name="frameea"></a>
 # Ways to Frame Your Introduction to EA
 
 ## EA is a question 
@@ -74,6 +82,7 @@ Note: If you use this framing, ensure you make it clear you are not insinuating 
 * OR: When you really care about someone, and that person needs help, you don’t just want any random help - you want the best possible help. EA is about showing that we really care by using research and evidence to give people the best possible help.
 * From Julia Wise (<a target="_blank" href="http://www.givinggladly.com/2011/12/cold-research.html">Source</a>)
 
+<a name="whyimportant"></a>
 # Why is EA Important?
 
 
@@ -141,6 +150,7 @@ Factory farming impacts billions of non-human animals, is something we can easil
 ## Describe a particular effective charity
 * Talking about the general principles of EA can be quite abstract, so it is often useful to talk about some outstanding charities you think are doing excellent work. See the recommended charities from <a target="_blank" href="https://www.givewell.org/charities/top-charities">Givewell</a>, <a target="_blank" href="https://www.thelifeyoucansave.org/best-charities">The Life You Can Save</a>, <a target="_blank" href="https://animalcharityevaluators.org/donate/">Animal Charity Evaluators</a>, and <a target="_blank" href="http://founderspledge.com/research">Founders Pledge</a> for examples. This <a target="_blank" href="https://docs.google.com/document/d/1Pi2M3nt9k55fTM_UJL8JAUPFQzHMJkCicB4c8jRGqfI/edit">Global Poverty FAQ</a> has information and responses for common questions about <a target="_blank" href="https://docs.google.com/document/d/1Pi2M3nt9k55fTM_UJL8JAUPFQzHMJkCicB4c8jRGqfI/edit#heading=h.pbigqn9izwgc">GiveDirectly</a>, the <a target="_blank" href="https://docs.google.com/document/d/1Pi2M3nt9k55fTM_UJL8JAUPFQzHMJkCicB4c8jRGqfI/edit#heading=h.1xda4kn2tlag">Against Malaria Foundation</a> and the <a target="_blank" href="https://docs.google.com/document/d/1Pi2M3nt9k55fTM_UJL8JAUPFQzHMJkCicB4c8jRGqfI/edit#heading=h.yvb9dfrg29wl">Schistosomiasis Control Initiative</a>. 
 
+<a name="explaininvolved"></a>
 # Explain How You Got Involved In Effective Altruism
 
 If you can, tie in your own personal story of exploration of these ideas into the narrative. 
