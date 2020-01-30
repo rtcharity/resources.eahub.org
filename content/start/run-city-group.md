@@ -13,6 +13,15 @@ license:
 
 _Image: EA Sydney_
 
+#Chapters
+* <a href="#goals">Goals</a>
+* <a href="#whostartcitygroup">Who Should Start a City Group</a>
+* <a href="#time">Time</a>
+* <a href="#coorganisers">Number of Organisers</a>
+* <a href="#collaborationunigroups">Collaboration with Uni Groups</a>
+* <a href="#organisingyourorganisers">Organising Your Organisers</a>
+
+<a name ="goals"></a>
 # Goals
 
 The level of commitment required for starting and running a group is dependent on your goals for the group. Groups can be great for growing the EA movement and getting people more deeply involved, but maybe your group is just a great way to hang out with other like-minded people and introduce some better conversation to your day!
@@ -37,7 +46,7 @@ Different groups have very different goals, but the most common goals of EA grou
 </p>
 </a>
 
-
+<a name ="whostartcitygroup"></a>
 # Who Should Start a City Group?
 
 Starting a city group is a good idea for someone who:
@@ -49,6 +58,7 @@ Starting a city group is a good idea for someone who:
 
 If the above don’t all apply to you, this isn’t to say you shouldn’t start a group—you just might face more difficulties in getting the group off the ground.
 
+<a name ="time"></a>
 # Time
 
 If your minimum goal is to simply meet with other local EAs occasionally, the organising time could be as little as a few hours per month. As the group grows or if the goal is to promote effective altruism within your city by hosting events, it will obviously require more time and, probably, people.
@@ -81,6 +91,7 @@ Quality over quantity is a good rule of thumb—if you are lucky enough to find 
 
 If you don’t have other organisers, it is worth asking a friend or two to come to the first couple of meetups with you—moral support goes a long way!
 
+<a name ="collaborationunigroups"></a>
 # Collaboration with Uni Groups
 
 If your city has a university with an EA group or has EAs at the university interested in starting a group, it may suit you to collaborate. Uni groups can often host events for free in university spaces, and making a city-university partnership might make sense for small groups as it requires less work than two separate groups. Note that students and non-students often have different preferences on the style, location, and time of the event, so if you choose to do a city-university partnership make sure you are catering to both groups.
@@ -91,6 +102,7 @@ Some groups used this model to start their group as follows:
 * EA Cambridge is based at the University but tries to make most of their events accessible to non-students and runs many events specifically for non-students
 * EA ANU used to act as a city-university partnership but later chose to split the non-students off into a separate EA Canberra group
 
+<a name ="organisingyourorganisers"></a>
 # Organising your Organisers
 
 Once you have more than a couple of people helping run your group, it is important to have regular meetings, ensure each person is clear on their tasks to avoid repetition or important tasks getting missed. Some larger groups have found creating formal roles useful in the group, and a few groups have chosen to incorporate to be an official organisation – which can help the group remain well organised, get public liability insurance, and ensure clear ownership of assets.
