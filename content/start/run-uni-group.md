@@ -190,3 +190,9 @@ More information on preparing to hand over leadership can be found <a target="_b
 ### [NEXT: Useful Knowledge](/start/knowledge/)
 
 ### [BACK: Why Start a Group](/start/why/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/172DH_jfDhB0G6qxQxgLZTX-uiwWFGB9YdoZCFYOH134/edit?usp=sharing">_this google doc._</a>
+
+<hr>
