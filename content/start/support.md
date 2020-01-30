@@ -87,3 +87,9 @@ Now, fill out the forms, contact the right people, and get started!
 ### [NEXT: Preparing for your First Event (City Groups)](/start/first-event-city/)
 
 ### [BACK: Useful Knowledge](/start/knowledge/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1HOvXJpA_splwXU2iASa_XyK1i4743_wfOCKHFsdOGqo/edit?usp=sharing">_this google doc._</a>
+
+<hr>
