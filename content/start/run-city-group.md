@@ -102,3 +102,9 @@ Information and tips on organising your organisers such as communication tools, 
 ### [NEXT: Useful Knowledge](/start/knowledge/)
 
 ### [BACK: Why Start a Group](/start/why/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1-RT4Ubl6COjQLyTWsHqW-taw-otXwmxWp1lziVjP2sk/edit?usp=sharing">_this google doc._</a>
+
+<hr>
