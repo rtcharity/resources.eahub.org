@@ -32,3 +32,10 @@ According to the 2018 EA Survey, only <a target="_blank" href="https://forum.eff
 ### [NEXT: What is Involved in Running a Group?(City Groups)](/start/run-city-group/)
 
 ### [BACK: Start a Group](/start/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/12tsaiVpEwrm0sWB9EyG91VXB7G-zXfpKg_NoCI18jKY/edit?usp=sharing">_this google doc._</a>
+
+<hr>
+
