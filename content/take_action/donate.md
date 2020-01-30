@@ -7,6 +7,12 @@ license:
 ---
 ### _Published 21st September 2019_
 
+# Chapters
+* <a href="#choosingwheretogive">Choosing Where to Give</a>
+* <a href="#donatingefficiently">Advice on Donating Efficiently</a>
+* <a href="#pledgetodonate">Pledge to Donate in the Future</a>
+* <a href="#storiesfromeas">Stories from EAs who Give</a>
+
 This section provides resources for an introduction to effective giving, stories of current EA donors, advice on donating, and a list of ways you can pledge a certain amount of your income. 
 
 Even if it seems like you have relatively little to give, you may be richer than you think. Try this <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">online calculator</a> from <a target="_blank" href="https://www.givingwhatwecan.org/">Giving What We Can</a>, to see where you fall on the world income scale and to see what you would achieve with your donation. 
@@ -19,6 +25,7 @@ For example, if an average wage earner in the UK was to donate 10% of their inco
 
 To learn more about the importance of effective giving, see REG’s introductory guide <a target="_blank" href="https://reg-charity.org/effective-giving-guide/part-1/">here</a>.
 
+<a name ="choosingwheretogive"></a>
 # Choosing Where to Give
 
 Finding an organisation to donate to can be challenging. Thankfully, there are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
@@ -63,6 +70,7 @@ You could also choose to put your money into a Donor Lottery where one donor is 
 
 This has an advantage over simply donating if you believe a donation of $100,000 to the organisation you wish to support is more than 10 times better than donating $10,000 to them. Also the person that wins the lottery will be more likely to be motivated to do in-depth research to work out where to donate the money, and that might result in a better choice than if all the contributing donors did only a little research to choose where to donate their smaller sums. The Centre for Effective Altruism <a target="_blank" href="https://app.effectivealtruism.org/lotteries">organises a donor lottery once a year</a>.
 
+<a name ="donatingefficiently"></a>
 # Advice on donating efficiently
 
 ## Giving Tuesday
@@ -94,6 +102,7 @@ This has an advantage over simply donating if you believe a donation of $100,000
 
 * Some charities offer to double or triple your donations - called "donation matching. While there are some exceptions, this matching is usually illusory and the matching funds would have gone to the charity whether or not you donated. This <a target="_blank" href="https://blog.givewell.org/2011/12/15/why-you-shouldnt-let-donation-matching-affect-your-giving/">blog post by GiveWell</a> explains more. Exceptions include Facebook's <a target="_blank" href="https://www.eagivingtuesday.org/">Giving Tuesday</a>, as while Facebook would have donated the money without your donation, your donation could cause the money to be allocated to more effective charities.  
 
+<a name ="pledgetodonate"></a>
 # Take a Pledge to Donate in the Future
 
 * <a target="_blank" href="http://givingwhatwecan.org">The Giving What We Can Pledge</a> - A commitment to give 10% or more to effective causes while working, and 1% of spending money while a student or unemployed.
@@ -103,6 +112,7 @@ This has an advantage over simply donating if you believe a donation of $100,000
 * <a target="_blank" href="https://www.1fortheworld.org/">One For the World</a> - A pledge to give 1% or more to One For the World’s portfolio of high impact charities.
 * <a target="_blank" href="https://www.thelifeyoucansave.org/take-the-pledge">The Life You Can Save Pledge</a> - A pledge to donate to high-impact charities, with the percentage based on your income level, and challenge yourself to do a little bit better each year. 
 
+<a name ="storiesfromeas"></a>
 # Stories from EAs who give
 
 * <a target="_blank" href="https://www.jefftk.com/news/giving">Jeff</a> and <a target="_blank" href="http://www.givinggladly.com/2013/06/whats-it-like-to-give-half.html">Julia</a>.
