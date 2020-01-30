@@ -65,3 +65,9 @@ The <a target="_blank" href="https://www.effectivealtruism.org/get-involved/do-w
 ### [NEXT: Rethink Your Career Path](/take_action/career/)
 
 ### [BACK: Donate or Pledge](/take_action/donate/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1b09iG2I624L8qP7q97loO2NuPw76jq2zG1mfosgtbHc/edit?usp=sharing">_this google doc._</a>
+
+<hr>
