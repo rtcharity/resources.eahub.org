@@ -40,4 +40,8 @@ If you feel you lack the skills to start a group, it might help to know that man
 ### Or
 ### [BACK:What is Involved in Running a Group (City Group)](/start/run-city-group/)
 
- 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1mrggRoZ8twH3QZ6yTtM9Ji_iYfF28_Lx_VYnDECR5xM/edit?usp=sharing">_this google doc._</a>
+
+<hr>
