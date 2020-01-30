@@ -26,3 +26,9 @@ The <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">E
 <hr>
 
 ### [BACK: Use Your Time](/take_action/use-your-time/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1nvPSSWi1GfYXSA_cWTkJf-TFTzYFElVlyXLoRAiBLRA/edit?usp=sharing">_this google doc._</a>
+
+<hr>
