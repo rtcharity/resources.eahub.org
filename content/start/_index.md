@@ -49,3 +49,9 @@ We intend for this guide to evolve and improve over time, so if you have any sug
 * [Useful Knowledge](/start/knowledge/)
 * [Get Support and Start Your Group](/start/support/)
 * [Preparing for Your First Event](/start/first-event-city/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1l0MkkB7lZ-B6N7QahxR7trCK9XYqOD0bCRjI4ucWwV0/edit?usp=sharing">_this google doc._</a>
+
+<hr>
