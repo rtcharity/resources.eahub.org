@@ -52,3 +52,9 @@ Information on how to advertise your group and your group’s events is coming s
 ### [NEXT: Tips on Running a Group](/tips/)
 
 ### [BACK: Get Support and Start Your Group](/start/support/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1zEY_ogrhX5TaATcSZaUDJJA50xkQ7rPxRfrJl_5m_dc/edit?usp=sharing">_this google doc._</a>
+
+<hr>
