@@ -54,3 +54,9 @@ Try to make this within a month of the first event (or sooner, especially for bi
 ### [NEXT: Tips on Running a Group](/tips/)
 
 ### [BACK: Register With Your University](/start/register-uni/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1NGQtCfF2pghekDL3jZxLsCiWZjMASvOAzmuMGhGVTbo/edit?usp=sharing">_this google doc._</a>
+
+<hr>
