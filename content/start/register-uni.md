@@ -7,6 +7,15 @@ license:
 ---
 ### _Published 21st September 2019_
 
+#Chapters
+* <a href="#writeaconstitution">Write a Constitution</a>
+* <a href="#sampleconstitution">Sample Constitution</a>
+* <a href="#exampleconstitutions">Example Constitutions</a>
+* <a href="#gettingafacultyadvisor">Getting a Faculty Advisor</a>
+* <a href="#utilisingstudentunion">Utilising the Student Union</a>
+* <a href="#moreinfo">More Information on Starting a Uni Group</a>
+
+<a name ="writeaconstitution"></a>
 # Write a Constitution 
 
 Universities generally require student groups seeking recognition (in order to use the school name, receive funding, etc.) to submit a formal constitution. This is meant to give long-term structure to the group by formally specifying its purpose, leadership, scope, and decision-making process. However, it can be difficult to write a formal constitution if you're just getting started because you don't really know how your group will function yet. We recommend, when starting out, not to worry too much about a constitution that's good—just submit something that fits the school’s requirements. It's perfectly valid to come back and change it later. 
@@ -23,6 +32,7 @@ The requirements list will generally specify some of these three things:
 
 If your school doesn't have any specific requirements for constitutions, that's great news! You can just copy and paste the sample constitution, provided below, and submit it. 
 
+<a name ="sampleconstitution"></a>
 # Sample Constitution 
 We've written a sample constitution as an example of the style and substance many universities desire. This will almost certainly not fulfil your institution's requirements; but it is a good place to start. This is just an example; if you wish to write your own constitution, go for it! 
 
@@ -66,14 +76,17 @@ Effective Altruism [Name of Uni] aims to promote effective altruism in all its f
 2. At least one week prior to any vote, the Secretary must distribute a copy of the proposed amendment to all members. 
 3. A majority vote shall be required to amend this Constitution. 
 
+<a name ="exampleconstitutions"></a>
 # Example Constitutions
 
 Here are some examples of constitutions from EA groups: <a target="_blank" href="https://docs.google.com/document/d/1NesOGsQ5YKElnud4mP2CFnydYkGwDMY4BL_ofTBInOo/edit?usp=sharing">Cambridge</a> (UK), <a target="_blank" href="https://docs.google.com/document/d/1rUJ9zW-EDLlH5qwBpiELpIP1dymufVKKb4eNIvVQ7yQ/edit?usp=sharing">Auckland</a> (New Zealand), <a target="_blank" href="https://docs.google.com/document/d/14KPAi3_oy4PE0Zybnob7PO40J0HZWjRVAaVLEmtk7f8/edit">Yale</a> (USA).
 
+<a name ="gettingafacultyadvisor"></a>
 # Getting a Faculty Advisor 
 
 Some universities require clubs to have a faculty member act as an advisor for groups. If you or your co-organisers have a good relationship with a professor, ask them first. Otherwise, try professors of related topics such as philosophy, global development, and economics. Start by emailing them, stating that you’d like to start an effective altruism club (with a brief description of what effective altruism is), and ask for an in-person meeting. At the meeting, make it clear what you want them to do (it might just be to sign some documents). Have your <a target="_blank" href="/learn/articles/what-to-say/">EA pitch</a> sorted out and be ready to explain what your group will do. If possible, bring a <a target="_blank" href="/graphics/editable-graphics/">brochure about EA</a>. 
 
+<a name ="utilisingstudentunion"></a>
 # Utilising the Student Union 
 
 * Get a copy of any booklet that the Student Union produces for clubs. 
@@ -88,6 +101,7 @@ Some universities require clubs to have a faculty member act as an advisor for g
 * Check what sources of funding/grants are available for student groups. 
 * Check if there are any committees on which it would be useful for your group to have input (e.g. campaigns, student activities, clubs and societies, or any that determine the distribution of funds). If so, consider encouraging members of your group to run for election to them. 
 
+<a name ="moreinfo"></a>
 # More on Starting a Uni Group 
 
 For general tips on starting a uni group check out this <a target="_blank" href="https://drive.google.com/file/d/0B2aM8a_Ho4-UeHRRcWVHeFVGVHM">guide from the Secular Students Alliance</a>, which has good advice particularly for North American uni groups. 
@@ -98,3 +112,8 @@ For general tips on starting a uni group check out this <a target="_blank" href=
 
 ### [BACK: Get Support and Start Your Group](/start/support/)
 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/10wsLh3XvZ4Ny7JLGM4hv-rVxld9yDuhTaUkJEg_Oxd4/edit?usp=sharing">_this google doc._</a>
+
+<hr>
