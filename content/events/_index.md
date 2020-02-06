@@ -4,7 +4,7 @@ weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
 ---
-### _Published 12th October 2019_
+### _Published 12th October 2019. Updated 6th February 2020._
 
 <p class="large_image_wrapper">
 <img src="/img/eventeaf.png" />
@@ -53,5 +53,8 @@ EA fellowships involve a small group of admitted fellows gaining a complete educ
 
 ### [Graphics for Advertising Your Events](/graphics/)
 
+<hr> 
 
+### _Can’t find what you are looking for? Many more resources are available in this_ <a target="_blank" href="https://drive.google.com/open?id=1KccDPdGtsX3tS-bE2xrUchqDdIO0qr7jLp6_s1c2ViM">_spreadsheet,_</a> _and feel free to_ <a target="_blank" href="https://resources.eahub.org/contact/">_contact the Resources Team_</a> _and we will try to find resources to suit your needs._  
 
+<hr>
