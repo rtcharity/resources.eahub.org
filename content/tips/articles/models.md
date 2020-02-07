@@ -1,5 +1,6 @@
 ---
 title: Models of Movement Building
+date: 2020-02-07T04:59:48.328Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -53,6 +54,6 @@ A group aiming to have a high impact could set goals to help their members incre
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1GRJFS-mVl2b4UXzBpzQiQ-YzmfLmPbPJkDIMUcRw8R4/edit">_this google doc._</a>
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1GRJFS-mVl2b4UXzBpzQiQ-YzmfLmPbPJkDIMUcRw8R4/edit?usp=sharing">_this google doc._</a>
 
 <hr>
