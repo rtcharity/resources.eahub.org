@@ -83,6 +83,6 @@ The meeting leader (or project leader) should follow up with individuals on thei
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="LINK_HERE">_this google doc._</a>">_this google doc._</a>
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1zf9FTkDD63JADAgVyUeh6OuJ2ec5mhBPTzsxF-ogdbQ/edit?usp=sharing">_this google doc._</a>
 
 <hr>
