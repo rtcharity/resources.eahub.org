@@ -227,3 +227,9 @@ EA related movies, TV shows and documentaries to watch with your group.
 
 
 More movies and documentaries about global health, poverty and injustice can be found in <a target="_blank" href="https://docs.google.com/document/d/1O8yiwLg2jWP4RYKaD5MM0xtCr5VbsUt5OPrSdDZEtls/edit#heading=h.ak4uutah7xbs">The Life You Can Save’s film list</a>. 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/15HyzzYq-t_RXT4mOVKH_QOVFNaMbeShJUMt_7TrtB74/edit?usp=sharing">_this google doc._</a>
+
+<hr>
