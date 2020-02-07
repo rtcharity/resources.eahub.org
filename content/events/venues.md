@@ -95,3 +95,9 @@ Ask yourself if you need any of the following:
 # Further Reading
 
 * For further reading on how to help make your event welcoming, check out the page on "<a target="_blank" href="/tips/community-health/">Community Health</a>".
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1NGIk2I2JZay0lxD0OTIq8aFGZNzFX8GMYy6E5Zm1v20/edit?usp=sharing">_this google doc._</a>
+
+<hr>
