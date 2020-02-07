@@ -15,7 +15,7 @@ To begin prioritising, you need to determine what stage of development your grou
 
 The following is a suggested method of prioritising tasks, but is by no means fixed. Different groups may benefit from different models of prioritisation. It is useful to create a document which lists your group’s priorities (you can always adapt the one below) and revisit it at fixed intervals (every 6 months, or at the end of every semester) to evaluate which tier your group is in, and whether you need to adjust how many goals you are targeting.
 
-### Small/New
+## Small/New
 
 Characteristics: Approximately 1-2 group organisers and <10 regular group members.
 
@@ -27,7 +27,7 @@ Priorities could be:
 * If the current organisers may leave (e.g. Uni groups), find successors to ensure the group continues. Create a <a target="_blank" href="/tips/handover/">preliminary handover process</a>.
 * Build and maintain a core group.
 
-### Medium Sized
+## Medium Sized
 Medium sized groups have the ability to maintain or grow, but many are at risk of losing this capacity and contracting unless they develop failsafes and infrastructure to prevent this from happening. 
 
 Characteristics: Approximately 3-5 group organisers, and 10-20 regular group members.
@@ -46,7 +46,7 @@ Priorities could be:
     * Moving people from “contributors” to “core” by assisting people with their career plans.
 
 
-### Large
+## Large
 At this stage, your group will be established in the local community for at least a few years, and reach a size at which it is very unlikely to stop existing. 
 
 Characteristics: Usually more than 5 organisers who invest substantial time into the group, possibly including paid part- or full-time organisers. Active membership of 50+ members, large enough to support subcommunities, for example groups based on different interest areas. 
@@ -72,3 +72,8 @@ Priorities could be:
 
 ### [BACK: Strategy](/tips/strategy/)
 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1dNKLHJQ0W6ApzSSMqb9UZzK032wBjMUvfnOuvgVelzk/edit?usp=sharing">_this google doc._</a>
+
+<hr>
