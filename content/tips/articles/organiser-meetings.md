@@ -1,5 +1,6 @@
 ---
 title: Organiser Meetings
+date: 2020-02-07T05:32:17.554Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -79,3 +80,9 @@ The meeting leader (or project leader) should follow up with individuals on thei
 ### [NEXT: Communication Tools](/tips/articles/communication-tools/)
 
 ### [BACK: Leadership Skills](/tips/articles/leadership/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="LINK_HERE">_this google doc._</a>">_this google doc._</a>
+
+<hr>
