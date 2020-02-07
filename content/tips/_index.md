@@ -54,3 +54,8 @@ no one hears about them! These resources will cover tips for reaching people and
 ### _Can’t find what you are looking for? Many more resources are available in this_ <a target="_blank" href="https://drive.google.com/open?id=1KccDPdGtsX3tS-bE2xrUchqDdIO0qr7jLp6_s1c2ViM">_spreadsheet,_</a> _and feel free to_ <a target="_blank" href="https://resources.eahub.org/contact/">_contact the Resources Team_</a> _and we will try to find resources to suit your needs._  
 
 <hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1iY5IjE5VBK42cMRvrceUyav195ScJhtPOA7t9umAFb8/edit?usp=sharing">_this google doc._</a>
+
+<hr>
+
