@@ -7,7 +7,7 @@ license:
 ---
 ### *Published 23rd September 2019*
 
-#Chapters
+# Chapters
 * <a href="#buildcommunity">How to Build and Maintain a Community</a>
 * <a href="#delegation">Delegation</a>
 * <a href="#exampleconstitutions">Example Constitutions</a>
