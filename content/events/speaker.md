@@ -27,6 +27,17 @@ It may be useful to consider the following costs and benefits and decide if your
 * Needs to be planned well in advance to accommodate speakers’ schedules and venue bookings.
 * Speakers may require transportation and accommodation expenses if they are coming from out of town. You can apply for financial support <a target="_blank" href="http://resources.eahub.org/tips/support">here</a>.
 
+# Contents
+
+* <a href="#findingaspeaker">Finding a Speaker</a>
+* <a href="#invitingaspeaker">Inviting a Speaker</a>
+* <a href="#logisticsprep">Logistics Preparation</a>
+* <a href="#ontheday">On the Day</a>
+* <a href="#videopresentations">Video Presentations</a>
+* <a href="#furtherreading">Further Reading</a>
+
+
+<a name="findingaspeaker"></a>
 # Finding a speaker
 To begin, work out the rough areas of interest, then brainstorm speakers who would be good in those areas. For speakers in the EA community, a start is to look at <a target="_blank" href="https://docs.google.com/spreadsheets/d/15nMCewsmYbBH0_e9Kc-XyLqaSkoHsAYi05Jc4tv_H80/edit#gid=882852523">CEA’s speaker list</a>, or the EA Hub <a target="_blank" href="https://eahub.org/speakers/">speaker list</a>.
 
@@ -34,6 +45,7 @@ Consider searching online to find potential speakers, and see if you can find a 
 
 Research speakers thoroughly, as some may have controversial backgrounds that are important to be aware of so that you can weigh the pros and cons of inviting them, or preempt any issues.
 
+<a name="invitingspeakers"></a>
 # Inviting Speakers
 
 The invitation process looks roughly as follows:
@@ -79,6 +91,7 @@ The invitation process looks roughly as follows:
     * If necessary, that they will send you slides at least a day before if possible to give you time to check AV.
     * Give the speaker your phone number in case there are any issues on the day.
 
+<a name="logisticsprep"></a>
 # Logistics Preparation 
 
 ## Event Location
@@ -110,7 +123,8 @@ Add to your introduction whether the speaker is willing to have questions at any
 ### Prepare feedback forms or sign-up sheets (if you wish to use them)
 Sample feedback forms can be found <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/edit?usp=sharing">here</a>. If you are expecting newcomers ensure you have an opportunity for attendees to sign up to your mailing list. 
 
-# On the day
+<a name="ontheday"></a>
+# On the Day
 Aim to have the speaker arrive about 15-20 minutes before the start time.
 
 ### Final preparation
@@ -131,7 +145,8 @@ Before people start arriving, ask the speaker to confirm:
 * Send a follow up email thanking them and updating them on the success of the event.
     * If you have to reimburse the speaker for any costs, remember to ask the speaker for receipts. 
 
-# Video presentations
+<a name="videopresentations"></a>
+# Video Presentations
 Additional steps for running a video presentation:
 
 * Check the wifi in the venue is excellent before booking
@@ -142,7 +157,14 @@ Additional steps for running a video presentation:
 * Connect to the speaker early, and check that both groups can hear each other clearly, and check that screen sharing works if required.
 * During question and answer time, or when there are questions throughout the presentation, have the host repeat the question so that the speaker can hear the questions.
 
-# Further reading
+<a name="furtherreading"></a>
+# Further Reading
 Ben Kuhn on his experience <a target="_blank" href="https://www.benkuhn.net/good-speakers">getting speakers to come to Harvard EA</a>. 
 
 Cambridge EA’s <a target="_blank" href="https://docs.google.com/document/d/1NdU5OfEaYgRLv0Me1X3QJJasawXMM30UM-flIV_LPlU/edit">guide</a> for running speaker events.
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1RxigNFL0utrs-Bm09_T-Ro73vkGngDzy7CWLWofcZ_0/edit?usp=sharing">_this google doc._</a>
+
+<hr>
