@@ -91,3 +91,9 @@ Send a follow-up email, with a personalised list of reading recommendations.
 ### [NEXT: Community Health](/tips/community-health/)
 
 ### [BACK: Communication Tools](/tips/articles/communication-tools/) 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1xckUb-U5gI9tD6opmpawgfbRVK0RP_y6vL0QXYtDB1U/edit?usp=sharing">_this google doc._</a>
+
+<hr>
