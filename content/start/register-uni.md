@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 21st September 2019_
 
-#Chapters
+# Chapters
 * <a href="#writeaconstitution">Write a Constitution</a>
 * <a href="#sampleconstitution">Sample Constitution</a>
 * <a href="#exampleconstitutions">Example Constitutions</a>
