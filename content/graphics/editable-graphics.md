@@ -404,3 +404,9 @@ This is for printing on a single A4 or letter sized page.
 </p>
 
 <a target="_blank" href="https://drive.google.com/open?id=1SLC3oH-1n8DfmoN0HYWCQ9ke_3ISZ2JS">EA Fact Sheet Gravit File</a>
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1kG81t0Ph7M_ffYyai8P0A-71Jz0HT8dZK9Yl3B-4TdE/edit?usp=sharing">_this google doc._</a>
+
+<hr>
