@@ -43,3 +43,9 @@ If you are considering whether or not to incorporate your city group, it is impo
 ### [NEXT: Leadership Skills](/tips/articles/leadership)
 
 ### [BACK: Organisation](/tips/organisation)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/13cBcDP0H7s3ac5rEWmor8oKGe8wBzSBc2qibikgWKSE/edit?usp=sharing">_this google doc._</a>
+
+<hr>
