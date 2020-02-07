@@ -80,3 +80,9 @@ This same size works for a meetup group banner, but meetup doesn’t crop the im
 Different printing companies have different options for banner dimensions. Before you edit an image, work out what banner stand you are using, and find the ratio of the width to the height of the banner that fits the stand. 
 
 Make the file as large as possible (the more pixels the better) to ensure your print is crisp. 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1sQamH9Vnhb4s37NS7mmXV3UIge3hl_m3QVPWZiugGxY/edit?usp=sharing">_this google doc._</a>
+
+<hr>
