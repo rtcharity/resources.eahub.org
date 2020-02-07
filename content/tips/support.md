@@ -154,3 +154,10 @@ Juan Gil - EA MIT:
 ### [NEXT: Strategy](/tips/strategy/)
 
 ### [BACK: Running a Group](/tips/)
+
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1bYDOS3NoDWlX6WTbsd6_sZAbe3NdNWITO-71k1ap6AA/edit?usp=sharing">_this google doc._</a>
+
+<hr>
