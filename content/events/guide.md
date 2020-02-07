@@ -212,5 +212,9 @@ How to deal with ideological and psychological diversity
 * <a target="_blank" href="/events/articles/discussion-tips/">Tips on moderating discussions</a>
 * <a target="_blank" href="/tips/community-health/">Community Health</a>
 
+<hr>
 
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit?usp=sharing">_this google doc._</a>
+
+<hr>
 
