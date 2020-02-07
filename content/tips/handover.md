@@ -71,3 +71,9 @@ Each group will have different requirements for their handover documents, but th
 ### [NEXT: Group Events](/events/)
 
 ### [BACK: Community Health](/tips/community-health/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1pqC4GqCavwEftJ1Cmp_t6NPf4Nsm-maRzgUXDS_4DCE/edit?usp=sharing">_this google doc._</a>
+
+<hr>
