@@ -26,3 +26,9 @@ This page links all the currently available editable graphics. Browse the whole 
 * <a target="_blank" href="/graphics/editable-graphics#facebookprofiles">Facebook Page Profile Pictures</a>
 * <a target="_blank" href="/graphics/editable-graphics#events">Event Advertising</a>
 * <a target="_blank" href="/graphics/editable-graphics#brochures">Brochures and Flyers</a>
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="LINK_HERE">_this google doc._</a>
+
+<hr>
