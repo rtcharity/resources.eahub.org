@@ -32,3 +32,9 @@ This page links to a variety of articles about the role of EA groups, and the bu
 ### [NEXT: Priorities](/tips/articles/priorities)
 
 ### [BACK: Getting Support](/tips/support/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/184DGLB798wx185qIqLV6LIoIr3w_XKJvAiWB-I_Rvf8/edit?usp=sharing">_this google doc._</a>
+
+<hr>
