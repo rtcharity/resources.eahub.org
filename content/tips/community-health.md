@@ -213,3 +213,9 @@ You may wish to have a co-organiser or member of the Community Health team prese
 ### [NEXT: Handing over Leadership](/tips/handover/)
 
 ### [BACK: One-on-Ones](/tips/one-on-ones/) 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1D93a5A1MASyYNfzeuDKr_5tCc8YUGGo278OXBqBxJ_M/edit?usp=sharing">_this google doc._</a>
+
+<hr>
