@@ -11,6 +11,17 @@ The following guide was compiled from information from LEAN, CEA’s <a target="
 
 The types of venues available to you will be specific to your group, location and type of event. No venue is perfect, but the following contains a few tips for what to consider when seeking a suitable location for your event. If you are considering hosting a dinner at your own home check out <a target="_blank" href="https://docs.google.com/document/d/13xOvP6omxVZo9na2n7VmszXecrlIP8Tj8_NuohOqKyw/edit">this page</a> on hosting dinners. 
 
+# Contents
+
+* <a href="#location">Location</a>
+* <a href="#accessibility">Accessibility</a>
+* <a href="#safety">Safety</a>
+* <a href="#price">Price</a>
+* <a href="#venuesocial">Venue Ideas for Social Events</a>
+* <a href="#equipandfacil">Equipment and Facilities</a>
+* <a href="#furtherreading">Further Reading</a>
+
+<a name="location"></a>
 # Location
 
 * Host your event at an easy-to-find location.
@@ -18,6 +29,7 @@ The types of venues available to you will be specific to your group, location an
 * While google maps solves most transportation questions, it may help to put in the event description about how to get there by public transport and where the nearest parking is. If your event is on Sunday, or will go late, check how frequently the public transport will run. 
 * Host events centrally relative to your group members, or in a variety of places to help attract a more diverse group. For example, some people may not have a car, so they may struggle or be less willing to travel to suburban locations. Other people may more frequently drive to events, so may be less likely to come if parking is an issue, such as in central locations. 
 
+<a name="accessibility"></a>
 # Accessibility
 
 *With some ideas from* <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.d2d22owtlu32">*Zoe Savitsky* </a>. It may not be possible to make an event fully accessible, even if you try, so it’s a good idea to provide as much relevant information as possible. 
@@ -32,6 +44,7 @@ The types of venues available to you will be specific to your group, location an
   * Try to vary the time of day and time of week when scheduling events. An evening event may be great for parents of a little baby who can sleep in the stroller, but terrible for parents of older kids who need to be in bed early. Add some lunchtime or afternoon events to the mix. 
 * For more tips on making your events child-friendly, check out <a target="_blank" href="https://forum.effectivealtruism.org/posts/cPihAcJ8z5BZQ8hDB/on-making-spaces-friendlier-to-parents">this forum post</a> by Julia Wise. 
 
+<a name="safety"></a>
 # Safety
 
 * In some cities, women have reported heavy levels of street harassment while travelling to EA events in certain areas. Ask a few attendees if they had any problems getting to and from venues, and try to host events in areas with lower levels of street harassment.
@@ -41,10 +54,12 @@ The types of venues available to you will be specific to your group, location an
   * Encourage people to travel in groups (and make sure people feel comfortable asking others to walk them to their car/train station)
   * Have earlier start and end times for events.
 
+<a name="price"></a>
 # Price
 
 For most events, try to make your events free or cheap. University groups will often have free access to venues as well as some money to provide food and drink. If you have to pay for venues regularly, then you may like to ask for donations to cover room hire, or <a target="_blank" href="/tips/support/">apply for funding</a> to cover venue hire and drinks and snacks for your group. 
 
+<a name="venuesocial"></a>
 # Venue Ideas for Social Events
 
 * Social events in pubs, restaurants, and cafes are popular, but can have some drawbacks. 
@@ -67,6 +82,7 @@ For most events, try to make your events free or cheap. University groups will o
   * EA London and EA New York have had meetings at a member’s office building.
   * When sharing a venue with a non-EA organisation, bear in mind that attendees may think that you are associated with the other organisation.
 
+<a name="equipandfacil"></a>
 # Equipment and facilities
 
 Ask yourself if you need any of the following:
@@ -92,6 +108,7 @@ Ask yourself if you need any of the following:
   * Consider how comfortable your seating will be for a long discussion. For example, tall chairs or bar stools may be uncomfortable for sitting, especially for shorter people.
   * Some people might need special accommodations for seating if they have chronic physical disabilities or an injury. 
 
+<a name="furtherreading"></a>
 # Further Reading
 
 * For further reading on how to help make your event welcoming, check out the page on "<a target="_blank" href="/tips/community-health/">Community Health</a>".
