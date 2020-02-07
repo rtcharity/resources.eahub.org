@@ -10,6 +10,16 @@ license:
 _This page was compiled with resources from EAF, CEA, EA Oxford and the LEAN team._
 
 
+# Contents
+
+* <a href="#whyandwhynot">Importance: Why and Why Not</a>
+* <a href="#introandmentoroneonones">Introductory and Mentor One on Ones</a>
+* <a href="#careeroneonones">Career One on Ones</a>
+* <a href="#donationoneoneones">Donation On on Ones</a>
+* <a href="#tips">Tips</a>
+* <a href="#additionalresources">Additional Resources</a>
+
+
 This is about group organisers meeting new and current members of the EA community to have in-person conversations (one-on-ones). The section below outlines the benefits of one-on-ones, and some reasons why they may be important (or not) for your group. It also contains some important tips collected from the community and additional resources. 
 
 One-on-ones are often reported as being one of the most valuable activities of an EA community. They are useful for many different purposes, including:
@@ -20,6 +30,7 @@ One-on-ones are often reported as being one of the most valuable activities of a
 
 Generally, the purposes for a one-on-one meeting are: meeting a new member (Intro one-on-ones), meeting a current member (Mentor one-on-ones), meeting to discuss careers (Career one-on-ones) or meeting to discuss donation opportunities (Donation one-on-ones). 
 
+<a name="whyandwhynot"></a>
 # Why and Why Not?
 
 Why one-on-ones might be relatively important for your group: 
@@ -36,20 +47,24 @@ Why one-on-ones might be less important compared to other activities:
 
 * Your group does not have the capacity to run both one-on-ones and other types of events and group members primarily want to experience a community. 
 
+<a name="introandmentoroneonones"></a>
 # Introductory and Mentor One-on-Ones
 
 Before you start introductory one-on-ones, read the EA Hub pages on <a target="_blank" href="/learn/communicate-ea/">communicating about effective altruism</a>, so you have a few good ways of explaining EA, and know some common questions and concerns. Also check out the EA Hub resources to <a target="_blank" href="/learn/">learn about effective altruism</a>, so you are familiar with resources and organisations you might be able to refer the group member to. 
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/NrLCM4vcf8PRqkLaH/guide-to-successful-community-1-1s">This guide from EA Oxford</a> leads you through introductory one-on-ones and mentor one on ones, from finding leads, to following up. 
 
-# Careers One-on-Ones (Coming Soon)
+<a name="careeroneonones"></a>
+# Career One-on-Ones (Coming Soon)
 
 This guide will discuss the benefits and risks of having one on one meetings about careers, what preparation is needed, and offers tips on how to run these meetings successfully. 
 
+<a name="donationoneonones"></a>
 # Donation One-on-Ones
 
 Donation one-on-ones involve chatting to a prospective donor about where they could donate. Two group organisers have collated some <a target="_blank" href="https://docs.google.com/document/d/1hItIAv82v8qE8xy4vc1YBtRe-Q6_807ixB8vH810bzA/edit#">thoughts on running donation one-on-ones</a>.
 
+<a name="tips"></a>
 # Tips
 One-on-ones can seem a bit weird to some people, at least initially. 
 
@@ -80,7 +95,7 @@ One-on-ones can seem a bit weird to some people, at least initially.
 
 Send a follow-up email, with a personalised list of reading recommendations.
 
-
+<a name="additionalresources"></a>
 # Additional Resources
 
 * Spencer Greenberg on making a <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">positive impression</a> in a conversation 
