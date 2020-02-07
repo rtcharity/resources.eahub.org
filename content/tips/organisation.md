@@ -26,3 +26,9 @@ Ideas for tracking tasks and coordinating between fellow organisers, and communi
 ### [NEXT: Committee Structures](/tips/articles/committee)
 
 ### [BACK: Models of Movement Building](/tips/articles/models/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1VFancNamITcxtkMVA_JSGanat6Vrkl_Q80QdeDU7FRA/edit?usp=sharing">_this google doc._</a>
+
+<hr>
