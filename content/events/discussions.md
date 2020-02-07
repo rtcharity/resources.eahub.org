@@ -21,3 +21,9 @@ Tips on how to have an enjoyable and stimulating group discussion.
 ## [Content for Discussion Groups](/events/articles/content/)
 
 This page contains suggested readings and questions for many discussion group topics.
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1bn_6hhWrXX2srueBuoBgzClSRhHs4LR1bpYVoormjvE/edit?usp=sharing">_this google doc._</a>
+
+<hr>
