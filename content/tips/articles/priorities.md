@@ -72,3 +72,8 @@ Priorities could be:
 
 ### [BACK: Strategy](/tips/strategy/)
 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1dNKLHJQ0W6ApzSSMqb9UZzK032wBjMUvfnOuvgVelzk/edit?usp=sharing">_this google doc._</a>
+
+<hr>
