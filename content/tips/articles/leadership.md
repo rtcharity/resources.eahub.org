@@ -1,5 +1,6 @@
 ---
 title: Leadership Skills
+date: 2020-02-07T05:06:51.415Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -66,3 +67,9 @@ These books have been recommended by group organisers:
 ### [NEXT: Organiser Meetings](/tips/articles/organiser-meetings/)
 
 ### [BACK: Committee Structures](/tips/articles/committee/)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1zf9FTkDD63JADAgVyUeh6OuJ2ec5mhBPTzsxF-ogdbQ/edit?usp=sharing">_this google doc._</a>
+
+<hr>
