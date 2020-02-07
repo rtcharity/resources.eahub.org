@@ -7,12 +7,21 @@ license:
 ---
 ### *Published 23rd September 2019*
 
+#Chapters
+* <a href="#buildcommunity">How to Build and Maintain a Community</a>
+* <a href="#delegation">Delegation</a>
+* <a href="#exampleconstitutions">Example Constitutions</a>
+* <a href="#handingoverleadership">Handing Over Leadership</a>
+* <a href="#readingrecommendations">Reading Recommendations</a>
+
+
 *This guide was compiled from resources from The Life You Can Save, LEAN, and the experience of several group organisers.*
 
 Organising a local group requires leadership skills. This section provides helpful tips on people skills in the context of building and maintaining a community, and delegating tasks.
 
 Before launching into specific leadership skills, a reminder: While leading a group can be a very highly impactful role, don’t neglect your own mid to long-term career building. You will probably do community-building for only a few years, so make sure you are developing  skills that are valuable in other roles as well. If you don’t already have your career planned out, go through 80,000 Hours’ content yourself. Write your own <a target="_blank" href="https://80000hours.org/career-guide/career-planning/">ABZ career plan</a>, talk it through with other people, and modify it regularly. 
 
+<a name ="buildcommunity"></a>
 # How To Build and Maintain a Community
 
 A community is strongest when it is made of many connections between members, rather than mostly connections between organisers and members. Some ideas for fostering  these connections are:
@@ -30,7 +39,6 @@ A community is strongest when it is made of many connections between members, ra
 Most importantly, foster a healthy positive community. The page on <a target="_blank" href="https://resources.eahub.org/tips/community-health/">Community Health</a> has more advice on building a healthy community. 
 
 <a name="delegation"></a>
-
 # Delegation
 
 Don't worry about asking for help! People are often looking for ways to help and will be happy to do so.
@@ -51,10 +59,12 @@ Here are some tips on being a good delegator:
 * **Rotate tasks**. Sometimes people enjoy having a particular role, but many would like to see the responsibilities shared, so check in regularly with volunteers, and consider having a policy of rotating tasks. Some groups find that the roles are sometimes gendered (e.g. sometimes women take the role of cooking more often than men do), so be aware of who is most often doing the role and encourage new people to step up. 
 * **Encourage people to take initiative and pursue their own ideas.** People are usually far more motivated to action their own ideas rather than someone else’s, so if a group member comes up with a good idea, encourage them to take it on as a project!
 
+<a name ="handingoverleadership"></a>
 # Handing over leadership
 
 The best leaders help upskill people to the point where they can take over the leadership role. Advice on making a smooth leadership transition is in the <a target="_blank" href="/tips/handover/">Handing Over Leadership</a> section. 
 
+<a name ="readingrecommendations"></a>
 # Reading recommendations
 
 These books have been recommended by group organisers: 
