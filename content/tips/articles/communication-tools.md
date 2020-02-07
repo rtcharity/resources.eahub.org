@@ -59,3 +59,9 @@ If you’d like to learn more, feel free to get in touch with <a target="_blank"
 
 ### [BACK: Organiser Meetings](/tips/articles/organiser-meetings/)
 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1fOF5zg-WkSwmZkjWKokNEGB41_gLOtHWzG0EKun_uDE/edit?usp=sharing">_this google doc._</a>
+
+<hr>
+
