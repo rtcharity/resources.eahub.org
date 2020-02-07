@@ -1,5 +1,6 @@
 ---
 title: Tips for Running Discussion Groups
+date: 2020-02-07T20:42:47.318Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -207,4 +208,8 @@ Regularly ask participants for suggestions from the group for future topics.
 
 ### [NEXT: Content for Discussion Groups](/events/articles/content/)
 
+<hr>
 
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1H47a8-arkZNjFSBB58lyeOWSPxl03W2lnASdL0zAJvs/edit?usp=sharing">_this google doc._</a>
+
+<hr>
