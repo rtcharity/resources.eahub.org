@@ -49,3 +49,9 @@ Offer finger foods. You can offer tea, coffee, juice, or fruit squash/cordial. C
 For events like workshops and co-working sessions hot drinks can create a cosy and comfortable vibe - remember to offer caffeine-free drinks as well.
 
 It might be good to have some finger foods if the event is between meals, but for longer events you will probably need to offer a full meal. If you are short on volunteers, try arranging a meal that can be served cold, so you can have the meal delivered or cooked before the event begins. 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1upu4W7HaxjMuz2AmlFJFkVaRiE4FMTHW-0-yO5tOX1A/edit?usp=sharing">_this google doc._</a>
+
+<hr>
