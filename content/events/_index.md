@@ -12,7 +12,7 @@ resourceForGroups: true
 
 _Image: EAF_
 
-# _These pages are a work in progress. We will be adding many more resources for running events in the coming months._
+## _These pages are a work in progress. We will be adding many more resources for running events in the coming months.If your group has materials and ideas to share, please add them to_ <a target="_blank" href="https://drive.google.com/drive/u/0/folders/12qIENHT4pEA36Ruy8kEFGUfW6eL2_Ex7">_this google drive_</a>.
 
 ### Types of Events -  _Coming Soon_
 This page will have an overview of the types of EA events your group could run, and suggestions on which events would suit your group.
