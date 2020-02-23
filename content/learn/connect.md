@@ -125,7 +125,6 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/458111434360997/">Editing and Review</a> (for getting feedback on your work)
 * <a target="_blank" href="https://www.facebook.com/groups/EACoaching/">Life Coaching Exchange</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1666606496928923/">EA Project for Awesome (P4A) </a> (for coordinating voting and the creation of videos to funnel prize money to effective charities during an annual fundraiser)
-* <a target="_blank" href="https://www.facebook.com/groups/1449282541750667/">Heterodox Effective Altruism</a> - The group aims to unite people who have broadly want to make the world a better place by effective means, but without curtailing thoughts that diverge from EA orthodoxy.
 * <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">Year End Donation Matching</a> (to coordinate donations during Facebook’s donation matching campaign)
 
 
