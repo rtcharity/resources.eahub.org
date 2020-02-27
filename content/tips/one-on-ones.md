@@ -15,7 +15,7 @@ _This page was compiled with resources from EAF, CEA, EA Oxford and the LEAN tea
 * <a href="#whyandwhynot">Importance: Why and Why Not</a>
 * <a href="#introandmentoroneonones">Introductory and Mentor One on Ones</a>
 * <a href="#careeroneonones">Career One on Ones</a>
-* <a href="#donationoneoneones">Donation On on Ones</a>
+* <a href="#donationoneoneones">Donation One on Ones</a>
 * <a href="#tips">Tips</a>
 * <a href="#additionalresources">Additional Resources</a>
 
@@ -59,7 +59,7 @@ Before you start introductory one-on-ones, read the EA Hub pages on <a target="_
 
 This guide will discuss the benefits and risks of having one on one meetings about careers, what preparation is needed, and offers tips on how to run these meetings successfully. 
 
-<a name="donationoneonones"></a>
+<a name="donationoneoneones"></a>
 # Donation One-on-Ones
 
 Donation one-on-ones involve chatting to a prospective donor about where they could donate. Two group organisers have collated some <a target="_blank" href="https://docs.google.com/document/d/1hItIAv82v8qE8xy4vc1YBtRe-Q6_807ixB8vH810bzA/edit#">thoughts on running donation one-on-ones</a>.
