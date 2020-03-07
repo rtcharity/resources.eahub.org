@@ -78,7 +78,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 
 <p class="large_image_wrapper">
-<img src="/img/EAlogotextsidebottom.png" />
+<img src="/img/EAlogotextbottom.png" />
 </p>
 <a target="_blank" href="">Editable Gravit file</a>
 <a target="_blank" href="">High Res png</a>
