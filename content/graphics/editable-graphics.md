@@ -66,6 +66,11 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 <a target="_blank" href="https://drive.google.com/open?id=1xB7gk-1UaSSspMlB-aQMcqiVHnLi3lSU">Editable Gravit File</a>
 
+## Effective Altruism Logos without Group
+A variety of Effective Altruism logos are available in both .png and .gravit format in <a target="_blank" href="https://drive.google.com/open?id=1Alez-4m3jKAKL25SnugyUxd2oti4ZDyM">this folder</a>. All are available using the two fonts found above, Raleway and Roboto Slab.
+
+
+
 
 <a name="banners"></a>
 # Physical Banners
