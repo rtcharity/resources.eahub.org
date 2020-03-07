@@ -74,7 +74,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 </p>
 
 <a target="_blank" href="https://drive.google.com/open?id=14npUnjTiTaVE8jDXfkFWzKgATZvva5HQ">Editable Gravit file</a>
-<br/>
+
 <a target="_blank" href="https://drive.google.com/open?id=1zCzgU2KtOi5MJlFKqAoLar3TmavAil3z">High Res png</a>
 
 
@@ -83,21 +83,21 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 </p>
 
 <a target="_blank" href="https://drive.google.com/open?id=1W_P0HJwSc-zXHTmGdZIXDDqhWsVpE2SZ">Editable Gravit file</a>
-<br/>
+
 <a target="_blank" href="https://drive.google.com/open?id=1TLel-BSCqbj6cKfl1yPq5vPsQwD_YNrQ">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/EAlogoonblue.png" />
 </p>
 <a target="_blank" href="https://drive.google.com/open?id=1_GFDEkvDurarsxSuelZtvQ2fmzyHSmwB">Editable Gravit file</a>
-<br/>
+
 <a target="_blank" href="https://drive.google.com/open?id=1tofxBWgLnZBrdlHVlcWtEJL9cKFRqNO9">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/EAlogoongrey.png" />
 </p>
 <a target="_blank" href="https://drive.google.com/open?id=1lXxGO3cAEAa7yUZ10tz0e0YtlTY0JN0V">Editable Gravit file</a>
-<br/>
+
 <a target="_blank" href="https://drive.google.com/open?id=1WZyxTman1Gxc4GQ-UcFaL3NRJ0vfqZdC">High Res png</a>
 
 
