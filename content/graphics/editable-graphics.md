@@ -14,6 +14,7 @@ More editable graphics will be added over time. Please <a target="_blank" href="
 
 # Contents:
 
+* <a href="#fonts">Fonts</a>
 * <a href="#logos">Logos</a>
 * <a href="#banners">Physical Banners</a>
 * <a href="#advertising">General Advertising Posters</a>
@@ -21,6 +22,11 @@ More editable graphics will be added over time. Please <a target="_blank" href="
 * <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
 * <a href="#events">Event Advertising</a>
 * <a href="#brochures">Brochures and Flyers</a>
+
+<a name="fonts"></a>
+# Fonts
+
+The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
 
 <a name="logos"></a>
 # Logos
