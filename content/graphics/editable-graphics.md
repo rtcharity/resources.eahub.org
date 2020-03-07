@@ -30,7 +30,11 @@ The most common fonts used are Raleway and Roboto Slab which is used in the text
 
 <a name="logos"></a>
 # Logos
-A variety of different coloured high resolution EA light bulbs on transparent backgrounds can be found here. Including blue with shading, white with shading, black grey and white. 
+
+## Light bulb only
+A variety of different coloured high resolution EA light bulbs on transparent backgrounds without text can be found <a target="_blank" href="https://drive.google.com/open?id=10c81CPd0lM5cYD31sN0h7buoAGfv533J">here</a>, including blue, white and black in both single-tone versions as well as with shading.
+
+## Group Logos
 
 <p class="large_image_wrapper">
 <img src="/img/logotextbottom.png" />
