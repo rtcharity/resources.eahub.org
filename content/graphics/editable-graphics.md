@@ -14,6 +14,7 @@ More editable graphics will be added over time. Please <a target="_blank" href="
 
 # Contents:
 
+* <a href="#fonts">Fonts</a>
 * <a href="#logos">Logos</a>
 * <a href="#banners">Physical Banners</a>
 * <a href="#advertising">General Advertising Posters</a>
@@ -22,9 +23,18 @@ More editable graphics will be added over time. Please <a target="_blank" href="
 * <a href="#events">Event Advertising</a>
 * <a href="#brochures">Brochures and Flyers</a>
 
+<a name="fonts"></a>
+# Fonts
+
+The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
+
 <a name="logos"></a>
 # Logos
-A variety of different coloured high resolution EA light bulbs on transparent backgrounds can be found here. Including blue with shading, white with shading, black grey and white. 
+
+## Light bulb only
+A variety of different coloured high resolution EA light bulbs on transparent backgrounds without text can be found <a target="_blank" href="https://drive.google.com/open?id=10c81CPd0lM5cYD31sN0h7buoAGfv533J">here</a>, including blue, white and black in both single-tone versions as well as with shading.
+
+## Group Logos
 
 <p class="large_image_wrapper">
 <img src="/img/logotextbottom.png" />
@@ -55,6 +65,37 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 </p>
 
 <a target="_blank" href="https://drive.google.com/open?id=1xB7gk-1UaSSspMlB-aQMcqiVHnLi3lSU">Editable Gravit File</a>
+
+## Effective Altruism Logos without Group
+A variety of Effective Altruism logos are available in both .png and .gravit format in <a target="_blank" href="https://drive.google.com/open?id=1Alez-4m3jKAKL25SnugyUxd2oti4ZDyM">this folder</a>. All are available using the two fonts found above, Raleway and Roboto Slab.
+
+<p class="large_image_wrapper">
+<img src="/img/EAlogotextside.png" />
+</p>
+<a target="_blank" href="https://drive.google.com/open?id=1W_P0HJwSc-zXHTmGdZIXDDqhWsVpE2SZ">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/open?id=1TLel-BSCqbj6cKfl1yPq5vPsQwD_YNrQ">High Res png</a>
+
+<p class="large_image_wrapper">
+<img src="/img/EAlogotextbottom.png" />
+</p>
+<a target="_blank" href="https://drive.google.com/open?id=14npUnjTiTaVE8jDXfkFWzKgATZvva5HQ">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/open?id=1zCzgU2KtOi5MJlFKqAoLar3TmavAil3z">High Res png</a>
+
+<p class="large_image_wrapper">
+<img src="/img/EAlogoonblue.png" />
+</p>
+<a target="_blank" href="https://drive.google.com/open?id=1_GFDEkvDurarsxSuelZtvQ2fmzyHSmwB">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/open?id=1tofxBWgLnZBrdlHVlcWtEJL9cKFRqNO9">High Res png</a>
+
+<p class="large_image_wrapper">
+<img src="/img/EAlogoongrey.png" />
+</p>
+<a target="_blank" href="https://drive.google.com/open?id=1lXxGO3cAEAa7yUZ10tz0e0YtlTY0JN0V">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/open?id=1WZyxTman1Gxc4GQ-UcFaL3NRJ0vfqZdC">High Res png</a>
 
 
 <a name="banners"></a>
