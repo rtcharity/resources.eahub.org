@@ -103,6 +103,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 <a name="banners"></a>
 # Physical Banners
+
 All the banner files, and the component images can be found in the Physical Banners File. 
 The first banner in this list was based on the EA Auckland Banner, and the others were inspired by banners made by CEA. 
 
