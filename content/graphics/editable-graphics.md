@@ -72,16 +72,19 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 <p class="large_image_wrapper">
 <img src="/img/EAlogotextside.png" />
 </p>
-<a target="_blank" href="https://drive.google.com/open?id=1W_P0HJwSc-zXHTmGdZIXDDqhWsVpE2SZ">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/open?id=14npUnjTiTaVE8jDXfkFWzKgATZvva5HQ">Editable Gravit file</a>
 <br/>
-<a target="_blank" href="https://drive.google.com/open?id=1TLel-BSCqbj6cKfl1yPq5vPsQwD_YNrQ">High Res png</a>
+<a target="_blank" href="https://drive.google.com/open?id=1zCzgU2KtOi5MJlFKqAoLar3TmavAil3z">High Res png</a>
+
 
 <p class="large_image_wrapper">
 <img src="/img/EAlogotextbottom.png" />
 </p>
-<a target="_blank" href="https://drive.google.com/open?id=14npUnjTiTaVE8jDXfkFWzKgATZvva5HQ">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/open?id=1W_P0HJwSc-zXHTmGdZIXDDqhWsVpE2SZ">Editable Gravit file</a>
 <br/>
-<a target="_blank" href="https://drive.google.com/open?id=1zCzgU2KtOi5MJlFKqAoLar3TmavAil3z">High Res png</a>
+<a target="_blank" href="https://drive.google.com/open?id=1TLel-BSCqbj6cKfl1yPq5vPsQwD_YNrQ">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/EAlogoonblue.png" />
@@ -100,6 +103,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 <a name="banners"></a>
 # Physical Banners
+
 All the banner files, and the component images can be found in the Physical Banners File. 
 The first banner in this list was based on the EA Auckland Banner, and the others were inspired by banners made by CEA. 
 
