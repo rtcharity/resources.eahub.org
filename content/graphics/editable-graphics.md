@@ -53,7 +53,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 <img src="/img/logotextbottomgrey.png" />
 </p>
 
-<a target="_blank" href="http://www.google.com">Editable Gravit File</a>
+<a target="_blank" href="https://drive.google.com/open?id=1iDrxdm5M8Pn0fJ_yZ2uZEX8Vilhs7ynJ">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/logotextsidegreyblue.png" />
@@ -79,26 +79,6 @@ Editable Gravit file
 
 High Res png
 
-<p class="large_image_wrapper">
-<img src="/img/ealogotextside.png" />
-</p>
-Editable Gravit file
-
-High Res png
-
-<p class="large_image_wrapper">
-<img src="/img/ealogoongrey.png" />
-</p>
-Editable Gravit file
-
-High Res png
-
-<p class="large_image_wrapper">
-<img src="/img/ealogoonblue.png" />
-</p>
-Editable Gravit file
-
-High Res png
 
 <a name="banners"></a>
 # Physical Banners
