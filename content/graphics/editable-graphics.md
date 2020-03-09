@@ -91,7 +91,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 </p>
 <a target="_blank" href="http://www.google.com">Editable Gravit file</a>
 
-<a href="https://drive.google.com/open?id=1WZyxTman1Gxc4GQ-UcFaL3NRJ0vfqZdC">High Res png </a>
+<a href="http://www.google.com">High Res png </a>
 
 <p class="large_image_wrapper">
 <img src="/img/ealogoonblue.png" />
