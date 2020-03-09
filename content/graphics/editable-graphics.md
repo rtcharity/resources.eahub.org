@@ -75,9 +75,9 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 <img src="/img/ealogotextbottom.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1W_P0HJwSc-zXHTmGdZIXDDqhWsVpE2SZ">Editable Gravit file</a>
+Editable Gravit file
 
-<a target="_blank" href="https://drive.google.com/open?id=1TLel-BSCqbj6cKfl1yPq5vPsQwD_YNrQ">High Res png </a>
+High Res png
 
 <p class="large_image_wrapper">
 <img src="/img/ealogotextside.png" />
