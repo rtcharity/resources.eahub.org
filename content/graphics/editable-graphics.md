@@ -79,6 +79,12 @@ Editable Gravit file
 
 High Res png
 
+<p class="large_image_wrapper">
+<img src="/img/ealogotextside.png" />
+</p>
+Editable Gravit file
+
+High Res png
 
 <a name="banners"></a>
 # Physical Banners
