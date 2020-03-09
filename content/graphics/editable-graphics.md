@@ -97,6 +97,7 @@ High Res png
 <img src="/img/ealogoonblue.png" />
 </p>
 Editable Gravit file
+
 High Res png
 
 <a name="banners"></a>
