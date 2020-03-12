@@ -100,7 +100,7 @@ Some EA groups have arranged activities that are not EA related, but can be a gr
 ## Speed Updating
 _"When thoughtful people with access to the same information reach very different conclusions from each other, we should be curious about *why*" - Julia Galef_
 
-'Speed Updating' (a play on the term 'speed dating') involves participants getting matched with a person that disagrees with them about a topic for 5 to 10 minutes. The goal is to find out the cause of the disagreement, and potentially “update” your position. This activity has been used with excellent reviews in EA UQ, EA ANU, and EA Christchurch. Then people move onto a different question, and a different conversation partner. 
+'Speed Updating' (a play on the term 'speed dating') involves participants getting matched with a person that disagrees with them about a topic for around 10 minutes (can be more or less depending on the question or time available). The goal is to find out the cause of the disagreement, and potentially “update” your position. This activity has been used with excellent reviews in EA UQ, EA ANU, and EA Christchurch. Then people move onto a different question, and a different conversation partner. 
 
 This activity can be run many times with the same group, choosing different sets of questions each time. You may wish to theme each Speed Updating session to tackle different topics. Groups have run sessions on cause prioritisation, mental health, and ethics, but there could be an infinite number of themes.  
 
