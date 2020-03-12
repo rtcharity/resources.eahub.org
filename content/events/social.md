@@ -107,10 +107,11 @@ This activity can be run many times with the same group, choosing different sets
 ### Choosing questions
 
 * Choose questions that you think will be accessible and not likely to be sensitive to all your attendees OR make questions optional, so people can choose to not discuss the question, for example, if they don’t know enough to answer or find the topic uncomfortable to talk about. 
+* EA New Zealands <a target="_blank" href="https://docs.google.com/document/d/1B6fGgaR3pJzOonLyQsOZyKevsKjdWB9tv57cMuFgT2M/edit#">long list of questions ranging over many topics</a>. 
 * In cause prioritisation themed events, EA UQ set all questions as “Do you think -insert cause- is a priority?”. EA ANU used “What percentage of EA resources should be spent on -insert cause-?”.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/open?id=16S31eX_wkda4jrkvPsBWAvH1p555GuBX">cause area question cards</a>.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/drive/folders/11XY9hrdyfzwiHILOhHHYUtAcCpav-4XC">open questions list</a>.
-* EA Christchurch’s <a target="_blank" href="https://drive.google.com/drive/folders/11XY9hrdyfzwiHILOhHHYUtAcCpav-4XC">questions worksheet</a>. 
+
 
 ### Ways of finding disagreeing partners
 
