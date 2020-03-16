@@ -11,7 +11,7 @@ license:
 <img src="/img/ealondonpicnic.png" />
 </p>
 
-# Chapters
+# Contents
 * <a href="#selfcare">Self Care and Mental Health</a>
 * <a href="#valuedrift">Value Drift and Staying Motivated</a>
 * <a href="#productivity">Productivity Resources</a>
