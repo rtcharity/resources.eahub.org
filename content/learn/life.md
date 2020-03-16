@@ -57,8 +57,9 @@ There are many apps that are good for helping with your mood and mental state of
 * <a target="_blank" href="https://www.uplift.app/">UpLift</a> - Cognitive Behavioural Therapy App to help combat depression
 
 ## Mental Health Resources
-Some professional health care providers within the EA community have written some mental health resources:
+Some health care professionals within the EA community have created some mental health resources:
 
+* The <a target="_blank" href="https://eamentalhealth.wixsite.com/navigator">EA Mental Health Navigator</a> aims to boost EA community well-being by connecting EA members with mental health resources.
 * Scott Alexander on <a target="_blank" href="https://slatestarcodex.com/2015/07/13/things-that-sometimes-work-if-you-have-anxiety/">Anxiety</a>
 * Scott Alexander on <a target="_blank" href="https://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/">Depression</a>
 * Julia Wise on <a target="_blank" href="https://forum.effectivealtruism.org/posts/CJZGFxzHfdPuu2X76/a-mental-health-resource-for-ea-community">Mania and Psychosis</a> 
@@ -71,10 +72,11 @@ Some professional health care providers within the EA community have written som
 Most people in the EA community are young, and therefore their greatest impact could lie in the medium- to long-term, when they are at the peak of their careers. However, not everyone in the EA community will continue to act according to effective altruism principles throughout their lives. 
 
 “Value drift” is a term used to describe various ways people greatly reduce or cease their altruistic actions. The causes could be a change in values, a loss of motivation, or a change in lifestyle. The percentage of people drifting away from EA has been estimated by Peter Hurford <a target="_blank" href="https://forum.effectivealtruism.org/posts/bGcKJiBt4HSSScF76/ea-survey-2018-series-how-long-do-eas-stay-in-ea">using the EA Survey data</a>, and by Joey in <a target="_blank" href="https://forum.effectivealtruism.org/posts/mZWFEFpyDs3R6hD3r/empirical-data-on-value-drift">"Empirical Data on Value Drift"</a>.
+Marisa Jurczyk conducted a <a target="_blank" href="https://forum.effectivealtruism.org/posts/jG8pptGksBpzyTxYg/a-qualitative-analysis-of-value-drift-in-ea-1">qualitative analysis of value drift in EA</a>.
 
 If you are highly motivated now, but think you are likely to experience value drift, you may wish to focus on having an impact in the short term. 
 
-Also you may wish to take action now to reduce the chances that your values and motivations will change. For practical things you can do to make it less likely for you to change your values, and more likely for you to remain motivated, see the excellent list in <a target="_blank" href="https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift-and-lifestyle">"Concrete Ways to Reduce the Risk of Value Drift"</a>. 
+Also you may wish to take action now to reduce the chances that your values and motivations will change. For practical things you can do to make it less likely for you to change your values, and more likely for you to remain motivated, see the tips in Marisa Jurczyk's <a target="_blank" href="https://forum.effectivealtruism.org/posts/jG8pptGksBpzyTxYg/a-qualitative-analysis-of-value-drift-in-ea-1">qualitative analysis</a>, and this list in Darius Meissner's <a target="_blank" href="https://forum.effectivealtruism.org/posts/eRo5A7scsxdArxMCt/concrete-ways-to-reduce-risks-of-value-drift-and-lifestyle">"Concrete Ways to Reduce the Risk of Value Drift"</a>. 
  
 Note that while it seems reasonable to take steps to keep your motivation high, it is debatable whether we should take steps to prevent your values from changing as it is possible that your future self will have better values than your current self.
 
