@@ -4,7 +4,7 @@ weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
 ---
-### _Published 12th October 2019. Updated 6th February 2020._
+### _Published 12th October 2019. Updated 16th March 2020._
 
 <p class="large_image_wrapper">
 <img src="/img/eventeaf.png" />
@@ -12,7 +12,7 @@ resourceForGroups: true
 
 _Image: EAF_
 
-## _These pages are a work in progress. We will be adding many more resources for running events in the coming months.If your group has materials and ideas to share, please add them to_ <a target="_blank" href="https://drive.google.com/drive/u/0/folders/12qIENHT4pEA36Ruy8kEFGUfW6eL2_Ex7">_this google drive._</a>
+## _These pages are a work in progress. We will be adding many more resources for running events in the coming months. If your group has materials and ideas to share, please add them to_ <a target="_blank" href="https://drive.google.com/drive/u/0/folders/12qIENHT4pEA36Ruy8kEFGUfW6eL2_Ex7">_this google drive._</a>
 
 ### Types of Events -  _Coming Soon_
 This page will have an overview of the types of EA events your group could run, and suggestions on which events would suit your group.
@@ -49,7 +49,7 @@ The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orie
 ### [Fellowships (Uni Groups)](/events/fellowships)
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
 
-### Retreats and Conferences - _Coming Soon_
+### [Retreats](/events/retreats)
 
 ### [Graphics for Advertising Your Events](/graphics/)
 
