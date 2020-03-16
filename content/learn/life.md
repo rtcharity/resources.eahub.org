@@ -41,6 +41,7 @@ Many people in the EA community have contributed advice and shared their experie
 * Holly Morgan on <a target="_blank" href="http://www.thelifeyoucansave.org/Blog/ID/10/But-Im-not-doing-enough-Dealing-with-guilt-as-an-effective-altruist">dealing with guilt as an effective altruist</a>.
 * The long (but excellent) <a target="_blank" href="http://doingguiltbetter.com">"Replacing Guilt Series"</a> by Nate Soares on dealing with guilt productively. 
 * Holly Morgan on <a target="_blank" href="https://forum.effectivealtruism.org/posts/DeYLsacSsB5mRw3XC/scrupulosity-my-eagxboston-2019-lightning-talk">scrupulosity</a> (feelings of excessive guilt and moral personal responsibility).
+* Hayden Wilkinson's talk on <a target="_blank" href="https://www.youtube.com/watch?v=smAkJrDfyjg">"Doing less good, but for good reason"</a> presents a mathematical approach to considering burnout risk. 
 
 Many people find it helpful to be part of a community of like-minded people. To see if there is an EA group in your area check out the <a target="_blank" href="https://eahub.org/groups/">map of local groups</a>. 
 
