@@ -15,7 +15,7 @@ license:
 _Image: EA Australia at Pearl Beach NSW_
 
 
-Retreats involve community members gathering for two or more days to learn, enjoy each other's company, work on projects, and support each other. Retreats are usually held by large EA groups or regional groups. Feel free to get in touch with Catherine on <a target="_blank" href="mailto:catherine@centreforeffectivealtruism.org">catherine@centreforeffectivealtruism.org</a> for more advice on running a retreat.
+Retreats involve community members gathering for two or more days, usually out of the city. The activities vary from social activities, career planning, intensive workshops, and working on projects. Retreats are usually held by large EA groups or regional groups. Feel free to get in touch with Catherine on <a target="_blank" href="mailto:catherine@centreforeffectivealtruism.org">catherine@centreforeffectivealtruism.org</a> for more advice on running a retreat.
 
 
 # Resources 
