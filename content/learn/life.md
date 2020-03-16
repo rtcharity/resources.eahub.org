@@ -110,7 +110,7 @@ Peter Hurford’s article <a target="_blank" href="https://forum.effectivealtrui
 
 ### Productivity Coach
 
-Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/">Productivity Coach</a> for people in the EA community. See her <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-global-2018-planning-productivity/">Planning Productivity EAG Talk</a> for more information, and check out her <a target="_blank" href="https://docs.google.com/document/d/11_V5SKs5kTJZIRIcZcdQWd8N4leDMruh6mqZGJdr3-M/">28 quick productivity tips</a>. 
+Lynette Bye is a <a target="_blank" href="https://effectivealtruismcoaching.com/">Productivity Coach</a> for people in the EA community. She writes about productivity and interviews EAs on their productivity techniques on her <a target="_blank" href="https://effectivealtruismcoaching.com/blog">blog</a>. For a brief overview of her work see her <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-global-2018-planning-productivity/">Planning Productivity EAG Talk</a> and her <a target="_blank" href="https://docs.google.com/document/d/11_V5SKs5kTJZIRIcZcdQWd8N4leDMruh6mqZGJdr3-M/">28 quick productivity tips</a>. 
 
 ## Further reading
 
