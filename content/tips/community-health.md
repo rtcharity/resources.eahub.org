@@ -39,6 +39,14 @@ This section is compiled from resources written by Owen Cotton-Barratt, Julia Wi
 
 This <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> by Julia Wise of CEA outlines some of the main considerations on being welcoming, and is the first resource to read.
 
+It is also well worth watching Julia's EAGxAustralia talk from 2019 on building a diverse, welcoming, and healthy community. 
+
+<div class="textAlignCenter">
+<iframe class="article_video"
+  src="https://www.youtube.com/watch?v=SfXJ7MUjeLg">
+</iframe>
+</div>
+
 Below, some additional considerations are outlined. 
 
 ## Why be welcoming?
