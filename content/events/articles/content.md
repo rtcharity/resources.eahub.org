@@ -17,6 +17,7 @@ This page contains suggested reading and questions for many EA related topics.
 * <a href="#catrisks">Catastrophic Risks and Far Future</a>
 * <a href="#careers">Careers</a>
 * <a href="#meta">Meta</a>
+* <a href="#more">More Discussion Group Resources</a>
 
 
 <a name="intro"></a>
@@ -242,4 +243,22 @@ This is used as week 7 of Harvard’s Arete Fellowship. There is much more readi
 
 <a target="_blank" href="https://docs.google.com/document/d/1qpggudVOUDXoRJgRS3GndQGmu7GBNqWrICu32zmQ9tc/edit">Worksheet</a> [Source: Harvard Arete Fellowship]
 
+<a name="more"></a>
+
+# More Discussion Group Resources
+
+* More <a target="_blank" href="https://drive.google.com/drive/folders/1cOIITSwKPnmKbGMw8rk_KDR4yFerpZvK">South Bay EA Discussion Sheets</a>
+
+The following resources are at least four years old so may need updating before using:
+
+* Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1eluy8kmOP0JoEYtth4sW2jj1_ZMBqKaqt-ILO2jiNq0/edit">Discussion Topic Ideas</a>, some with or without readings. 
+* Daniel Colson's <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B13yLQ7zd5nsQTQxVTFGZ3ZCNHc">Discussion Topic Ideas</a>, which don't have associated readings. 
+* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B6m0ytelmQXGblNlUGN6Mld4T28">EA 101 Reading and Discussion Sheets</a>
+* <a target="_blank" href="http://www.thehighimpactnetwork.org/modules">THINK's workshop modules</a>
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1bbpz3L02pSyW4qwyWR2gDc6a7jRapVeSfMuCJBEGO2s/edit">_this google doc._</a>
+
+<hr>
 
