@@ -11,7 +11,7 @@ license:
 
 _Image: EAF_
 
-Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - either before or during the event. Then there is a discussion often with some questions prepared and/or one person facilitating the discussion.
+Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content - either before or during the event. Then there is a discussion often with some questions prepared and with one person facilitating.
 
 ## [Tips on Running a Discussion Group](/events/articles/discussion-tips)
 
