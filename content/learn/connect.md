@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 25th September 2019_
+### _Updated 16th March 2020_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -85,6 +85,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/1006887426016674/">System Change</a>
 * <a target="_blank" href="https://www.facebook.com/groups/144017955332/">Rationality</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1362064933805619/">LessWrong (Rationality Group) </a>
+* <a target="_blank" href="https://www.facebook.com/groups/4147495108609573/">Coronavirus Discussion</a>
 
 
 ## Careers and Volunteering
