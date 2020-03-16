@@ -1,5 +1,6 @@
 ---
 title: Content for Discussion Groups
+date: 2019-09-24T10:12:00.548Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
@@ -8,7 +9,7 @@ license:
 
 This page contains suggested reading and questions for many EA related topics. 
 
-# Content:
+# Contents
 * <a href="#intro">Introduction to EA</a>
 * <a href="#poverty">Global Health and Poverty</a>
 * <a href="#animals">Animals</a>
@@ -16,6 +17,7 @@ This page contains suggested reading and questions for many EA related topics.
 * <a href="#catrisks">Catastrophic Risks and Far Future</a>
 * <a href="#careers">Careers</a>
 * <a href="#meta">Meta</a>
+* <a href="#more">More Discussion Group Resources</a>
 
 
 <a name="intro"></a>
@@ -39,7 +41,7 @@ This is used as week 1 of Harvard’s Arete Fellowship. There is much more readi
 
 This is used as week 2 of Harvard’s Arete Fellowship. There is more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
 
-<a target="_blank" href="https://docs.google.com/document/d/1ipEmGmMvGHBIvRq6B22hY86uHEwaPQ1q9b94Q_lGjrw/edit?">Worksheet</a> [Source: Harvard Arete Fellowship]
+<a target="_blank" href="https://docs.google.com/document/d/1Uk0cssQojKl7KFuA0wFgYwVJl3qeLHDUx9e0oIo3Z28/">Worksheet</a> [Source: Harvard Arete Fellowship]
 
 <a name="poverty"></a>
 
@@ -101,7 +103,7 @@ This is used as week 5 of Harvard’s Arete Fellowship. There is much more readi
 
 This discussion group was held at a burger joint offering Beyond Burgers.
 
-Prewatching - two videos by plant-based and clean meat advocates. These two presenters believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
+Prewatching - two videos by plant-based and clean meat advocates. These two presenters are believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
 <a target="_blank" href="https://www.youtube.com/watch?v=liZtyP2tKhA">Market Forces and Food Technology will save the world: Bruce Friedrich 2018</a>, 18 minutes
 <a target="_blank" href="https://www.youtube.com/watch?v=PBmbVphZKYc">The End of Animal Farming: Jacy Reese 2018</a>, 13 minutes.
 
@@ -141,7 +143,7 @@ This worksheet offers a series of statements pertaining to Catastrophic Risk, an
 
 <a target="_blank" href="https://docs.google.com/document/d/1eeEgSIMBT1qO3DnNk62C732rT1qY2Yq6m_2ohq_Y6oE/">Worksheet</a> [Source: EA South Bay]
 
-**The Importance of the Far Future**
+**The Importance of the Far Future**
 
 This worksheet begins with the question ‘Why do EAs care about the far future?’ which frames the altruistic considerations of the future and existential risk to entire populations. Discussion questions centre around moral responsibility to those not yet born, potential future risks and solutions, and reflecting on the current impact of past actions and ideas.
 
@@ -241,4 +243,22 @@ This is used as week 7 of Harvard’s Arete Fellowship. There is much more readi
 
 <a target="_blank" href="https://docs.google.com/document/d/1qpggudVOUDXoRJgRS3GndQGmu7GBNqWrICu32zmQ9tc/edit">Worksheet</a> [Source: Harvard Arete Fellowship]
 
+<a name="more"></a>
+
+# More Discussion Group Resources
+
+* More <a target="_blank" href="https://drive.google.com/drive/folders/1cOIITSwKPnmKbGMw8rk_KDR4yFerpZvK">South Bay EA Discussion Sheets</a>
+
+The following resources are at least four years old so may need updating before using:
+
+* Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1eluy8kmOP0JoEYtth4sW2jj1_ZMBqKaqt-ILO2jiNq0/edit">Discussion Topic Ideas</a>, some with or without readings. 
+* Daniel Colson's <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B13yLQ7zd5nsQTQxVTFGZ3ZCNHc">Discussion Topic Ideas</a>, which don't have associated readings. 
+* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B6m0ytelmQXGblNlUGN6Mld4T28">EA 101 Reading and Discussion Sheets</a>
+* <a target="_blank" href="http://www.thehighimpactnetwork.org/modules">THINK's workshop modules</a>
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1bbpz3L02pSyW4qwyWR2gDc6a7jRapVeSfMuCJBEGO2s/edit">_this google doc._</a>
+
+<hr>
 
