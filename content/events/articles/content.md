@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 24th September 2019_
+### _Updated 16th March 2020_
 
 This page contains suggested reading and questions for many EA related topics. 
 
