@@ -50,6 +50,7 @@ The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orie
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
 
 ### [Retreats](/events/retreats)
+Retreats involve community members gathering for two or more days, usually out of the city. The activities vary from social activities, career planning, intensive workshops, and working on projects. 
 
 ### [Graphics for Advertising Your Events](/graphics/)
 
