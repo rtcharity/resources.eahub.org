@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 25th September 2019_
+### _Updated 16th March 2020_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -76,7 +76,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/ExistentialRisk/">Existential Risk</a>
 * <a target="_blank" href="https://www.facebook.com/groups/GlobalCatastrophicRisk/">Global Catastrophic Risk</a>
 
-### Other Topics
+### Other Cause Areas
 * <a target="_blank" href="https://www.facebook.com/groups/CausePrioritization/">Cause Prioritisation</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effectiveenvironmentalism/">Effective Environmentalism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1832948053436066/">Institutional Decision-Making</a>
@@ -85,6 +85,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/1006887426016674/">System Change</a>
 * <a target="_blank" href="https://www.facebook.com/groups/144017955332/">Rationality</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1362064933805619/">LessWrong (Rationality Group) </a>
+* <a target="_blank" href="https://www.facebook.com/groups/4147495108609573/">Coronavirus Discussion</a>
 
 
 ## Careers and Volunteering
@@ -108,24 +109,24 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/1275690949170991/">Psychologists</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1095037267174400/">Education</a>
 * <a target="_blank" href="https://www.facebook.com/groups/191773064533511/">Tech</a>
+* <a target="_blank" href="https://www.facebook.com/groups/872637816229205/">Management Consultants</a>
 
 ## Affiliations and Identities
 
+* <a target="_blank" href="https://www.facebook.com/groups/buddhists.in.ea">Buddhists</a>
 * <a target="_blank" href="https://www.facebook.com/groups/eaforchristians/">Christians</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1520172064903930/">Libertarians</a>
 * <a target="_blank" href="https://www.facebook.com/groups/eaparents/">Parents</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1521136334570384/">Politics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women & Non-binary</a>
+* <a target="_blank" href="https://www.wanbam.com/">WANBAM (Women and Non-Binary Altruism Mentorship)</a> connects and supports a global network of women and non-binary Effective Altruists through mentorship.
 * <a target="_blank" href="https://www.facebook.com/groups/LGBTinEA/">LGBTQIA+ people and allies</a>
 * <a target="_blank" href="https://www.facebook.com/groups/487263712002225/">Non-white ethnicity or race</a>
 
-## Other
+## Donations and Giving
 
 * <a target="_blank" href="https://www.facebook.com/groups/784498518296164/">Earning to Give</a>
-* <a target="_blank" href="https://www.facebook.com/groups/458111434360997/">Editing and Review</a> (for getting feedback on your work)
-* <a target="_blank" href="https://www.facebook.com/groups/EACoaching/">Life Coaching Exchange</a>
-* <a target="_blank" href="https://www.facebook.com/groups/1666606496928923/">EA Project for Awesome (P4A) </a> (for coordinating voting and the creation of videos to funnel prize money to effective charities during an annual fundraiser)
-* <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">Year End Donation Matching</a> (to coordinate donations during Facebook’s donation matching campaign)
+* EA Giving Tuesday (<a target="_blank" href="https://eagivingtuesday.org/">Website</a>, <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">Facebook Page</a>) - to coordinate donations during Facebook and Paypal’s yearly donation matching campaign
 
 
 ## Community & Community-Building
@@ -139,21 +140,26 @@ These groups are a good place to get feedback on specialized or specific career 
 
 * <a target="_blank" href="https://www.facebook.com/groups/ea.peer.support/">Peer Support Group</a> - This is a private Facebook group to offer support for people dealing with personal problems. Contact <a target="_blank" href="https://www.facebook.com/stafforini/">Pablo on Facebook</a> to be added.
 * <a target="_blank" href="https://www.facebook.com/groups/diversityEA/">Diversity and Inclusion in EA</a>
+* <a target="_blank" href="https://www.facebook.com/groups/EACoaching/">Life Coaching Exchange</a>
 
 ### Housing/Places to Stay
 
 * <a target="_blank" href="https://www.facebook.com/groups/EAHotel/">EA Hotel</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1021488637885621/">Couchsurfing</a>
 
-### Other
-
-* <a target="_blank" href="https://www.facebook.com/groups/1113035452044256/">Giving Games Discussion Group</a>
-
 
 ## Casual Groups
 
 * <a target="_blank" href="https://discordapp.com/invite/nFsNfaH">EA Corner Discord Server</a> An informal chat room hosted on Discord, with subthreads on many EA and non-EA related topics.
 * <a target="_blank" href="https://www.reddit.com/r/EffectiveAltruism/">Effective Altruism Subreddit</a>
+
+## Other
+
+* <a target="_blank" href="https://www.facebook.com/groups/1113035452044256/">Giving Games Discussion Group</a>
+* <a target="_blank" href="https://www.facebook.com/groups/458111434360997/">Editing and Review</a> (for getting feedback on your work)
+* <a target="_blank" href="https://www.facebook.com/groups/1666606496928923/">EA Project for Awesome (P4A) </a> - for coordinating voting and the creation of videos to funnel prize money to effective charities during an annual fundraiser
+* <a target="_blank" href="https://www.facebook.com/groups/EAWorkplaceActivism/">Workplace Activism</a>
+
 
 <hr>
 
