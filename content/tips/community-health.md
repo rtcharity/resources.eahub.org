@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 30th October 2019_
+### _Updated 16th March 2020_
 
 In order to do the most good we can, the EA community will ideally be a happy, healthy community that:
 
