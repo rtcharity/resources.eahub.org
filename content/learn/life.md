@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 25th September 2019_
+### _Updated 16th March 2020_
 
 <p class="large_image_wrapper">
 <img src="/img/ealondonpicnic.png" />
@@ -62,13 +62,8 @@ Some professional health care providers within the EA community have written som
 * Scott Alexander on <a target="_blank" href="https://slatestarcodex.com/2015/07/13/things-that-sometimes-work-if-you-have-anxiety/">Anxiety</a>
 * Scott Alexander on <a target="_blank" href="https://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/">Depression</a>
 * Julia Wise on <a target="_blank" href="https://forum.effectivealtruism.org/posts/CJZGFxzHfdPuu2X76/a-mental-health-resource-for-ea-community">Mania and Psychosis</a> 
+* Julia Wise on <a target="_blank" href="https://docs.google.com/document/d/15uyD9fq8HPbu7pjR4ekky2OrUiC4UwvTp1bI9_Tbgls/edit">Dealing with Alcohol Problems</a>
 
-Other resources recommended by people in the community:
-
-* Gruntled and Hinged on <a target="_blank" href="https://gruntledandhinged.com/how-to-get-therapy/">how to get therapy</a>
-* David Burns’ book <a target="_blank" href="https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336/">Feeling Good</a>  is a classic Cognitive Behavioural Therapy book for depression 
-* Harvard Medical School article on <a target="_blank" href="https://www.health.harvard.edu/diseases-and-conditions/how-to-taper-off-your-antidepressant/">how to taper off antidepressants</a>  (not that we're advising this per se, but read this first if you're planning to).
-* Resources on <a target="_blank" href="https://optionb.org/">building resilience</a>
 
 <a name="valuedrift"></a>
 # Value Drift and Staying Motivated
