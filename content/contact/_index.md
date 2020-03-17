@@ -1,3 +1,3 @@
 ---
-title: Contact the Resources Team
+title: Contribute or Contact Us
 ---
