@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Published 10th November 2019_
+### _Updated 17th March 2020_
 
 _This section was compiled from LEAN and tips from local organisers._
 
@@ -14,6 +14,7 @@ This guide primarily relates to logistical considerations before, during and aft
 
 # Contents
 
+* <a href="#types">Types of Events</a>
 * <a href="#purpose">Purpose of an Event</a>
 * <a href="#planning">Planning Steps</a>
 * <a href="#volunteer">Volunteer Roles</a>
@@ -26,6 +27,12 @@ This guide primarily relates to logistical considerations before, during and aft
 * <a href="#after">After the Event</a>
 * <a href="#reading">Further Reading</a>
 
+
+<a name="types"></a>
+# Types of Events
+The most common EA events are <a target="_blank" href="https://resources.eahub.org/events/discussions/">Discussion Groups</a> and <a target="_blank" href="https://resources.eahub.org/events/social/">Socials</a>, but there are a wide variety of events you could run.   
+
+See the <a target="_blank" href="https://docs.google.com/spreadsheets/d/1B96vudaQY1XJ1c2RCKXqnOuL8Sal0PQUpav5NnbOCb4/edit#gid=0">EA Event Types Spreadsheet</a> for a list of event types containing information on event characteristics, preparation, ideal audiences, group types and required skills and resources. The spreadsheet also links to further resources on most event types. This list is a work in progress so please feel free to add comments. 
 
 <a name="purpose"></a>
 # Purpose of an Event
