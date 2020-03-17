@@ -61,7 +61,7 @@ Career one-on-ones are discussion about an individual’s career path, possible 
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/qyG6YrxTAnRGkBhRT/guide-for-conducting-career-consultation">This guide</a> from EA Israel is a tool to help EAs who are considering conducting career consultations with their group members. This <a target="_blank" href="https://docs.google.com/document/d/1fHG0MRNbcBzDCoearV-f66_viFwXCeRgZCrhzpFQFoA/edit">Values and Personal Fit question list</a> from EA London contains questions you may like to ask during your one-on-one.
 
-Advising group members to take high-impact career paths has an enormous potential upside, but can cause harm by encouraging someone to take a path that is unsuitable for them. <a target="_blank" href="https://resources.eahub.org/tips/support/">Seek advice</a> if you’re unsure whether you are ready to conduct career one-on-ones. 
+Advising group members to take high-impact career paths has enormous potential upside, but can cause harm by encouraging someone to take a path that is unsuitable for them. <a target="_blank" href="https://resources.eahub.org/tips/support/">Seek advice</a> if you’re unsure whether you are ready to conduct career one-on-ones. 
 
 <a name="donationoneoneones"></a>
 # Donation One-on-Ones
