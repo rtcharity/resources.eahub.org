@@ -55,9 +55,11 @@ Before you start introductory one-on-ones, read the EA Hub pages on <a target="_
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/NrLCM4vcf8PRqkLaH/guide-to-successful-community-1-1s">This guide from EA Oxford</a> leads you through introductory one-on-ones and mentor one on ones, from finding leads, to following up. 
 
 <a name="careeroneonones"></a>
-# Career One-on-Ones (Coming Soon)
+# Career One-on-Ones
 
-This guide will discuss the benefits and risks of having one on one meetings about careers, what preparation is needed, and offers tips on how to run these meetings successfully. 
+Career one-on-ones are discussion about an individual’s career path, possible options open to them, and information about EA movement career advice. These discussions can also be conducted in a small group. 
+
+<a target="_blank" href="https://forum.effectivealtruism.org/posts/qyG6YrxTAnRGkBhRT/guide-for-conducting-career-consultation">This guide</a> from EA Israel is a tool to help EAs who are considering conducting career consultations with their group members. Advising group members to take high-impact career paths has an enormous potential upside, but can cause harm by encouraging someone to take a path that is unsuitable for them. <a target="_blank" href="https://resources.eahub.org/tips/support/">Seek advice</a> if you’re unsure whether you are ready to conduct career one-on-ones. 
 
 <a name="donationoneoneones"></a>
 # Donation One-on-Ones
