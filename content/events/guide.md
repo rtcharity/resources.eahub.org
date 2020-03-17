@@ -14,6 +14,7 @@ This guide primarily relates to logistical considerations before, during and aft
 
 # Contents
 
+* <a href="#types">Types of Events</a>
 * <a href="#purpose">Purpose of an Event</a>
 * <a href="#planning">Planning Steps</a>
 * <a href="#volunteer">Volunteer Roles</a>
