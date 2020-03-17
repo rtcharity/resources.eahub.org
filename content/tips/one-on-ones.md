@@ -7,7 +7,7 @@ license:
 ---
 ### _Updated 17th March 2020_
 
-_This page was compiled with resources from EAF, CEA, EA Oxford and the LEAN team._
+_This page was compiled with resources from EAF, CEA, EA Oxford, EA Israel, and the LEAN team._
 
 
 # Contents
