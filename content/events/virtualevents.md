@@ -9,4 +9,4 @@ license:
 
 This page will soon contain ideas and tips on running virtual events with your group. 
 
-In the meantime please check out this <a target="_blank" href="https://docs.google.com/document/d/1Lzx-u2YCU375g49fO2ix0SsN_756zVwzMUAcEC2tiX4/edit">google doc</a> containing crowd-sourced tips from EA group organisers, and contribute your own ideas.  
+In the meantime check out this <a target="_blank" href="https://docs.google.com/document/d/1Lzx-u2YCU375g49fO2ix0SsN_756zVwzMUAcEC2tiX4/edit">google doc</a> containing crowd-sourced tips from EA group organisers, and please contribute your own ideas.  
