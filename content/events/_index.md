@@ -14,6 +14,7 @@ _Image: EAF_
 
 ### _These pages are a work in progress. We will be adding many more resources for running events in the coming months. If your group has materials and ideas to share, please add them to_ <a target="_blank" href="https://drive.google.com/drive/u/0/folders/12qIENHT4pEA36Ruy8kEFGUfW6eL2_Ex7">_this google drive._</a>
 
+## [Running Virtual Events](/events/virtualevents/)
 
 ## <a target="_blank" href="ttps://docs.google.com/spreadsheets/d/1B96vudaQY1XJ1c2RCKXqnOuL8Sal0PQUpav5NnbOCb4/edit#gid=0">Types of Events Spreadsheet</a>
 This spreadsheet contains a list of event types containing information on event characteristics, preparation, ideal audiences, group types and required skills and resources.
