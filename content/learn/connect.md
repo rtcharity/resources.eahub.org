@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
 ---
-### _Updated 16th March 2020_
+### _Updated 30th March 2020_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -77,6 +77,8 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/GlobalCatastrophicRisk/">Global Catastrophic Risk</a>
 
 ### Other Cause Areas
+
+* <a target="_blank" href="https://www.facebook.com/groups/Global.Dev.And.EA/">International Development & Effective Altruism</a> 
 * <a target="_blank" href="https://www.facebook.com/groups/CausePrioritization/">Cause Prioritisation</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effectiveenvironmentalism/">Effective Environmentalism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1832948053436066/">Institutional Decision-Making</a>
