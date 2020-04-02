@@ -9,18 +9,35 @@ license:
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
+# Contents
+
+* <a href="#localgroups">Local Groups</a>
+* <a href="#websites">Websites</a>
+* <a href="#eaforum">EA Forum</a>
+* <a href="#conferences">Conferences</a>
+* <a href="#newsletters">Newsletters</a>
+* <a href="#podcasts">Podcasts</a>
+* <a href="#onlinegroups">Online Groups</a>
+
+<a name="localgroups"></a>
+
 # Local Groups
 In-person meetups with like-minded people can be very enjoyable, <a target="_blank" href="https://forum.effectivealtruism.org/posts/uPFx462NAamBo5Eqq/ea-survey-series-2018-how-do-people-get-involved-in-ea/">can help people get more involved in EA</a> and keep up to date with EA related research.  
 
 Check out the <a target="_blank" href="http://eahub.org/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
 
+<a name="websites"></a>
+
 # Websites
 Add your details to the <a target="_blank" href="https://eahub.org/profiles/">map of EAs on the EA hub</a>, and check out other profiles from around the world.
+
+<a name="eaforum"></a>
 # EA Forum
 The <a target="_blank" href="http://forum.effectivealtruism.org">Effective Altruism Forum</a> contains in-depth posts, articles and questions on EA cause areas. You can get a nuanced understanding of specific cause areas, and see the latest research being done in the community by EA organisations and community members. 
 # Conferences
 If you’re able to travel, consider applying to attend an <a target="_blank" href="https://www.eaglobal.org/">EAGx or EA Global</a> conference, which are the main international conferences for the EA community.
 
+<a name="newsletters"></a>
 # Newsletters
 
 The <a target="_blank" href="https://www.effectivealtruism.org/ea-newsletter-archives/">Effective Altruism Newsletter</a> is a joint project between the <a target="_blank" href="https://www.centreforeffectivealtruism.org/">Centre for Effective Altruism</a> and <a target="_blank" href="https://rethinkprojects.org/">Rethink Charity</a> that provides news and updates about the effective altruism community. 
@@ -31,7 +48,8 @@ The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect<
 
 You can also sign up for the newsletters of the different <a target="_blank" href="/learn/orgs/">EA organisations</a> to stay up to date with their progress.
 
-# Podcasts and Videos
+<a name="podcasts"></a>
+# Podcasts
 The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
 <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
@@ -40,8 +58,7 @@ The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podca
 
 The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
 
-Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>. 
-
+<a name="onlinegroups"></a>
 # Online Groups
 These are groups for discussion of Effective Altruism-related topics. All are Facebook Groups unless otherwise indicated as fora or LinkedIn groups. 
 
