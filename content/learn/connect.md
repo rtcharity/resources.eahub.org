@@ -42,7 +42,7 @@ If you’re able to travel, consider applying to attend an <a target="_blank" hr
 
 The <a target="_blank" href="https://www.effectivealtruism.org/ea-newsletter-archives/">Effective Altruism Newsletter</a> is a joint project between the <a target="_blank" href="https://www.centreforeffectivealtruism.org/">Centre for Effective Altruism</a> and <a target="_blank" href="https://rethinkprojects.org/">Rethink Charity</a> that provides news and updates about the effective altruism community. 
 
-The <a target="_blank" href="https://80000hours.org/job-board/">80,000 Hours Job Board</a> Newsletter provides updates on the latest high-impact roles that 80,000 Hours has identified in the EA community and adjacent fields. 
+The <a target="_blank" href="https://80000hours.org/newsletter/">80,000 Hours Newsletter</a> provides updates on the latest high-impact roles that 80,000 Hours has identified in the EA community and adjacent fields and highlights their <a target="_blank" href="https://80000hours.org/job-board/">job board</a>.
 
 The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect</a> project on Vox takes an EA perspective on a large range of issues, including, but not limited to, main EA causes. You can sign up for their newsletter <a target="_blank" href="https://confirmsubscription.com/h/d/A2BA26698741513A">here</a>. 
 
