@@ -49,7 +49,6 @@ The Centre for Effective Altruism’s mission is to create a global community of
 * The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a>, which features in-depth interviews about a variety of topics relevant to effective altruism and career decisions
 * A curated <a target="_blank" href="https://80000hours.org/job-board/">high-impact job board</a>
 
-80,000 Hours is a part of the Centre for Effective Altruism.
 
 
 
