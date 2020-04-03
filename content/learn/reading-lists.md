@@ -9,7 +9,10 @@ license:
 
 These lists of articles, books, videos and podcasts will help get you up to speed on many cause areas and topics of interest to the EA community. Most lists start with introductory materials, and are not comprehensive lists.
 
-# Cause Areas:
+# Introductory Resources
+If you’re new to EA we have a collection of introductory resources on our <a target="_blank" href="https://resources.eahub.org/learn/about-ea/">About Effective Altruism</a> page.
+
+# Cause Areas
 
 * <a target="_blank" href="https://docs.google.com/document/d/1cecBfierFprRdkhbbRjRdD8ujdNpDR2LOQtS8dzMC1M/edit#">Global Health and Development</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1-mfbLjFY3QLJYdS_RYxKlBYBPIv2tYDYBIqYbX9pM_8/edit#">Farmed Animal Advocacy</a>
@@ -21,7 +24,7 @@ These lists of articles, books, videos and podcasts will help get you up to spee
 * <a target="_blank" href="https://docs.google.com/document/d/1VOte0hgR-7h0k9m66j3dr6_FJtI07pwY5EzgiBxkTeM/edit">Mental Health</a>
 * <a target="_blank" href="https://docs.google.com/document/d/16UZ1yuh3IOdfxmJKPOBu5hvTxUxbx_QBo2x2i_P60to/edit#">Further Causes</a>
 
-# Other Topics of Interest:
+# Other Topics of Interest
 
 * <a target="_blank" href="https://docs.google.com/document/d/1AHhQK4z_RNvyhdu3KaYzKqomcGW-zUDZh8Vjh4qVjv0/edit#">Community Building</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1AUQ2174Y_qYJn22Gjd6wpMisX7_VxFOORe7g6c88rvM/edit#">High-Impact Careers</a>
