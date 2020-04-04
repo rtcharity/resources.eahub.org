@@ -94,11 +94,12 @@ If you like doing online courses, try <a target="_blank" href="https://www.cours
 </a>
 
 <a name="podcasts"></a>
-## Podcasts
+## Podcasts or Videos
 
 Is listening your preferred way of intaking info?
 
 <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/"><p class="large_image_wrapper"> <img src="/img/dgbpodcast.png" />
+
 
 </p>
 </a>
@@ -111,6 +112,8 @@ The <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/">â€
 </a>
 
 In the <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a>, Rob Wiblin interviews experts from a range of fields about how best to tackle many of the world's most pressing problems. These podcasts range from 1 to 3 hours long, and can get very in-depth, so start by choosing episodes on topics you are most interested in.
+
+Or, if you are looking for videos, see <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">this collection</a> of videos from various organisations.
 
 <a name="careers"></a>
 ## Careers
