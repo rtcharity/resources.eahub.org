@@ -29,7 +29,11 @@ Contents:
 
 ### <a target="_blank" href="https://www.centreforeffectivealtruism.org/">Centre for Effective Altruism</a> (CEA) 
 
-<a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" style="float:right" width="30" height="30" src="/img/mini-youtube-icon.png" /></a>
+![alt text](https://resources.eahub.org/img/mini-youtube-icon.png "Logo Title Text 1")
+
+<a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" style="float:right" width="30"  height="30" src="/img/mini-youtube-icon.png" /></a> 
+
+
 
 <!---------------->
 
