@@ -24,18 +24,8 @@ Contents:
 
 <a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" src="/img/cealogo.png" /></a> 
 
-<!---------->
-
 
 ### <a target="_blank" href="https://www.centreforeffectivealtruism.org/">Centre for Effective Altruism</a> (CEA) 
-
-![alt text](https://resources.eahub.org/img/mini-youtube-icon.png "Logo Title Text 1")
-
-<a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" style="float:right" width="30"  height="30" src="/img/mini-youtube-icon.png" /></a> 
-
-
-
-<!---------------->
 
 
 The Centre for Effective Altruism’s mission is to create a global community of people who have made helping others a core part of their lives, and who use evidence and scientific reasoning to figure out how to do so as effectively as possible. Their projects include:
