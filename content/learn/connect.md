@@ -49,7 +49,7 @@ The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect<
 You can also sign up for the newsletters of the different <a target="_blank" href="/learn/orgs/">EA organisations</a> to stay up to date with their progress.
 
 <a name="podcasts"></a>
-# Podcasts
+# Podcasts and Videos
 The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
 <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
@@ -57,6 +57,8 @@ The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podca
 <a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> Ariel Conn from FLI in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Find a complete list of episodes above.
 
 The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
+
+Many EA organisations have collected their videos on their YouTube channels. See this <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">EA Forum post</a>, which contains links to many of them.
 
 <a name="onlinegroups"></a>
 # Online Groups
