@@ -77,6 +77,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/EffectiveAnimalAdvocacy/">Effective Animal Advocacy- Discussion</a>
 * <a target="_blank" href="https://www.facebook.com/groups/suffering.in.nature/">Reducing Wild Animal Suffering</a>
 * <a target="_blank" href="https://www.facebook.com/groups/wildanimalwelfareprojectdiscussion/">Wild Animal Suffering Project Discussion</a>
+* <a target="_blank" href="https://docs.google.com/spreadsheets/d/1fxYa2Oae0yOG6mtxW-whLMyFMpbhoYbfgyi_miuTUp0/edit?usp=sharing">Effective Animal Advocacy Community Directory</a> (A list of people who have indicated that they may be able to support those with interest in the area of animal advocacy)
 
 ### Artificial Intelligence (AI) Safety
 
