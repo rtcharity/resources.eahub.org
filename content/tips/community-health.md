@@ -45,7 +45,7 @@ It is also well worth watching Julia's <a target="_blank" href="https://www.yout
 <iframe class="article_video"
 src="https://www.youtube.com/embed/SfXJ7MUjeLg">
 </iframe>
-
+</div>
 
 Below, some additional considerations are outlined. 
 
