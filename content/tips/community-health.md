@@ -146,6 +146,8 @@ Many discussions that have the potential to be sensitive are also not particular
 
 Organisers can do many things to help people avoid, leave or de-escalate a sensitive conversation, including setting conversation norms, keeping topics relevant to EA and creating spaces for people to avoid discussions if they wish to. 
 
+Some EA communities have created codes of conduct to set expectations early. The doc <a target="blank" href="https://docs.google.com/document/d/1qDxzdjKxR3veKioKhsPtMX1N6O68Ym71Hy55JH5nNFs/edit?usp=sharing">Notes on Codes of Conduct</a> can help a group get started.
+
 The page “<a target="_blank" href="/events/articles/discussion-tips/">Tips on Running Discussion Groups</a>” has a guide on setting and modelling good discussion norms, particularly the section on setting <a target="_blank" href="/events/articles/discussion-tips#guidelines">discussion guidelines</a> and on <a target="_blank" href="/events/articles/discussion-tips#choosing">choosing topics</a>. 
 
 
