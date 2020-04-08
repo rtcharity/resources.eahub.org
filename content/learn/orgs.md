@@ -281,6 +281,19 @@ Wild Animal Initiative’s mission is to research, raise awareness of, and reduc
 ---
 <br>
 
+<a target="_blank" href="https://www.animaladvocacycareers.org/"><img class="small_image_block" src="/img/aac-logo.png" /></a>
+
+
+### <a target="_blank" href="https://www.animaladvocacycareers.org/">Animal Advocacy Careers</a>
+​Animal Advocacy Careers (AAC)seeks to address the career and talent bottlenecks in the animal advocacy movement, with an initial focus on the farmed animal movement.
+​
+
+Animal Advocacy Careers focuses on providing resources, mentorship, and training programmes to those who are seeking a career related to effective animal altruism, and to those organizations that are already doing work in the area.
+
+
+---
+<br>
+
 ## Global Health and Poverty
 
 
