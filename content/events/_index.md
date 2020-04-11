@@ -4,7 +4,7 @@ weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
 ---
-### _Published 12th October 2019. Updated 16th March 2020._
+### _Published 12th October 2019. Updated 11th April 2020._
 
 <p class="large_image_wrapper">
 <img src="/img/eventeaf.png" />
