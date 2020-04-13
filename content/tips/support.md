@@ -3,7 +3,7 @@ title: Getting Support
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 14th October 2019_
 
@@ -13,7 +13,7 @@ The <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#gr
 
 # Groups Newsletter
 
-CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>.
 
 # Connect with Other Organisers
 
@@ -41,15 +41,16 @@ CEA also funds <a target="_blank" href="https://www.effectivealtruism.org/commun
 
 ### Starting a Group, General Group Advice:
 
-Alex Barry - Centre for Effective Altruism
+Catherine Low - Centre for Effective Altruism
 <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org
 ">groups@centreforeffectivealtruism.org
 </a>
 
 ### Group Technical Needs - Websites and Email Addresses:
 
-Michael Trzesimiech - Local Effective Altruism Network
-<a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org
+Catherine Low - Centre for Effective Altruism
+<a target="_blank" href="mailto:groups@centreforeffectivealtruism.org
+">groups@centreforeffectivealtruism.org
 </a>
 
 ### Community Health, Issues:
@@ -79,9 +80,10 @@ You might want to also check out <a target="_blank" href="https://drive.google.c
 
 ### Running Introductory EA Presentations to non-EA groups:
 
-Catherine Low - Local Effective Altruism Network:
-<a target="_blank" href="mailto:catherine@eahub.org">catherine@eahub.org
-</a> 
+Catherine Low - Centre for Effective Altruism
+<a target="_blank" href="mailto:groups@centreforeffectivealtruism.org
+">groups@centreforeffectivealtruism.org
+</a>
 
 You might also want to check out the EA Hub resources on <a target="_blank" href="https://resources.eahub.org/events/intro/">running introductory presentations</a>. 
 
