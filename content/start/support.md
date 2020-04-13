@@ -3,7 +3,7 @@ title: Get Support and Start Your Group
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 20th September 2019_
 
@@ -13,7 +13,7 @@ Once you have decided you want to start a group, contact the <a target="_blank" 
 
 
 # Groups Newsletter
-CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://www.effectivealtruism.org/articles/ea-groups-newsletter-archives/">here</a>.
+CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>.
 
 
 You can also check out the <a target="_blank" href="/tips/support/">Groups Support Page</a> for other people to contact if you need support for particular topics such as running introductory presentations, issues within the group, or running fellowships. 
