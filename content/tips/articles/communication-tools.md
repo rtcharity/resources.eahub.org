@@ -3,7 +3,7 @@ title: Communication Tools
 date: 2019-09-23T07:46:27.364Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 23rd September 2019_
 
@@ -15,9 +15,9 @@ Having good systems for tracking tasks and coordinating between fellow organiser
 
 ## Action Trackers and Asana
 
-A lot of EA groups’ activities involve many short, recurring tasks. For example, when planning and running an event, organisers will often go through the same process of booking a venue, writing event descriptions, sending emails, making social media posts, buying refreshments, etc. This means that it’s useful to create an action tracker for running events in order to save time and reduce the risk of tasks being forgotten. 
+A lot of EA groups’ activities involve many short, recurring tasks. For example, when planning and running an event, organisers will often go through the same process of booking a venue, writing event descriptions, sending emails, making social media posts, buying refreshments, etc. This means that it’s useful to create an action tracker for running events in order to save time and reduce the risk of tasks being forgotten. Action trackers can be created on Google Sheets. 
 
-Action trackers can be created on Google Sheets, or you can use an existing software like Asana (which is free for up to 15 people). 
+Alternatively you can use existing task management software like Asana (which is free for up to 15 people). If your team of organisers is larger than 15, or you want to use paid features of Asana you can apply to get paid Asana subscriptions for a very low cost <a target="_blank" href="https://form.asana.com/?hash=af4f8100357d4bbb05baad002a988ccbf3412c2d04c520a26988b56116280a61&id=1139914592491121">here</a>. 
 
 This <a target="_blank" href="https://docs.google.com/document/d/1qiop2WbAVD5fpjiysFfIOBDzE8fVudgaObUJ0Yzhlko/edit?usp=sharing">guide to action trackers</a> from EA Cambridge goes into the details of how to use action trackers and Asana.
 
