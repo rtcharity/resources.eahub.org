@@ -10,7 +10,7 @@ license:
 This section provides resources for an introduction to effective giving, stories of current EA donors, advice on donating, and a list of ways you can pledge a certain amount of your income. 
 
 # Contents
-* <a href="#howrichareyou">Choosing Where to Give</a>
+* <a href="#howrichareyou">How Rich Are You?</a>
 * <a href="#choosingwheretogive">Choosing Where to Give</a>
 * <a href="#donatingefficiently">Advice on Donating Efficiently</a>
 * <a href="#pledgetodonate">Pledge to Donate in the Future</a>
