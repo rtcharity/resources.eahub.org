@@ -3,18 +3,22 @@ title: Donate or Pledge
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### *Published 21st September 2019*
 
-# Chapters
+This section provides resources for an introduction to effective giving, stories of current EA donors, advice on donating, and a list of ways you can pledge a certain amount of your income. 
 
+# Contents
+* <a href="#howrichareyou">How Rich Are You?</a>
 * <a href="#choosingwheretogive">Choosing Where to Give</a>
 * <a href="#donatingefficiently">Advice on Donating Efficiently</a>
 * <a href="#pledgetodonate">Pledge to Donate in the Future</a>
 * <a href="#storiesfromeas">Stories from EAs who Give</a>
 
-This section provides resources for an introduction to effective giving, stories of current EA donors, advice on donating, and a list of ways you can pledge a certain amount of your income. 
+<a name ="howrichareyou"></a>
+
+# How Rich Are You?
 
 Even if it seems like you have relatively little to give, you may be richer than you think. Try this <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">online calculator</a> from <a target="_blank" href="https://www.givingwhatwecan.org/">Giving What We Can</a>, to see where you fall on the world income scale and to see what you would achieve with your donation. 
 
