@@ -3,7 +3,7 @@ title: Social Events
 weight: 7
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 10th November 2019_
 
@@ -110,7 +110,7 @@ This activity can be run many times with the same group, choosing different sets
 * EA New Zealands <a target="_blank" href="https://docs.google.com/document/d/1B6fGgaR3pJzOonLyQsOZyKevsKjdWB9tv57cMuFgT2M/edit#">long list of questions ranging over many topics</a>. 
 * In cause prioritisation themed events, EA UQ set all questions as “Do you think -insert cause- is a priority?”. EA ANU used “What percentage of EA resources should be spent on -insert cause-?”.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/open?id=16S31eX_wkda4jrkvPsBWAvH1p555GuBX">cause area question cards</a>.
-* EA UQ’s <a target="_blank" href="https://drive.google.com/drive/folders/11XY9hrdyfzwiHILOhHHYUtAcCpav-4XC">open questions list</a>.
+* EA UQ’s <a target="_blank" href="https://drive.google.com/open?id=1-YkwLBHQmxW0XSwSU3mK4nEgBzpvo74r">open questions list</a>.
 
 
 ### Ways of finding disagreeing partners
