@@ -58,7 +58,7 @@ Retreats involve community members gathering for two or more days, usually out o
 
 <hr> 
 
-## _Can’t find what you are looking for? Many more resources are available in this_ <a target="_blank" href="https://drive.google.com/open?id=1KccDPdGtsX3tS-bE2xrUchqDdIO0qr7jLp6_s1c2ViM">_spreadsheet,_</a> _and feel free to_ <a target="_blank" href="https://resources.eahub.org/contact/">_contact the Resources Team_</a> _and we will try to find resources to suit your needs._  
+### _Can’t find what you are looking for? Many more resources are available in this_ <a target="_blank" href="https://drive.google.com/open?id=1KccDPdGtsX3tS-bE2xrUchqDdIO0qr7jLp6_s1c2ViM">_spreadsheet,_</a> _and feel free to_ <a target="_blank" href="https://resources.eahub.org/contact/">_contact the Resources Team_</a> _and we will try to find resources to suit your needs._  
 
 <hr>
 
