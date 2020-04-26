@@ -3,10 +3,9 @@ title: Virtual Events
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 19th March 2020_
+### _Published 26th April 2020_
 
-This page will soon contain ideas and tips on running virtual events with your group. 
 
-In the meantime check out this <a target="_blank" href="https://docs.google.com/document/d/1Lzx-u2YCU375g49fO2ix0SsN_756zVwzMUAcEC2tiX4/edit">google doc</a> containing crowd-sourced tips from EA group organisers, and please contribute your own ideas.  
+This <a target="_blank" href="https://docs.google.com/document/d/1d6ttrngMBeVevvJmWhEEIQfp0mNrrOlwT6tr0WUHcsU/edit">google doc</a> contains a community created guide on how to run a variety of virtual events. Please contribute your own ideas.  
