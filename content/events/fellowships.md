@@ -3,7 +3,7 @@ title: Fellowships
 weight: 9
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 25th September 2019_
 
@@ -49,3 +49,11 @@ Yale runs a similar fellowship to Arete, but with a larger giving game component
 # Careers Fellowships
 
 Some uni groups also run fellowships focussing on effective career paths. More information about these fellowships will be added soon. 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_
+<a target="_blank" href="https://docs.google.com/document/d/1qHh7j1JC70v2ey_dCc0PuwaBv0fQ-CmoahGjJZVySU0/edit#">_this google doc._</a> 
+
+<hr>
+
