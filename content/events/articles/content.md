@@ -3,7 +3,7 @@ title: Content for Discussion Groups
 date: 2019-09-24T10:12:00.548Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Updated 16th March 2020_
 
@@ -251,8 +251,8 @@ This is used as week 7 of Harvard’s Arete Fellowship. There is much more readi
 
 The following resources are at least four years old so may need updating before using:
 
-* Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1eluy8kmOP0JoEYtth4sW2jj1_ZMBqKaqt-ILO2jiNq0/edit">Discussion Topic Ideas</a>, some with or without readings. 
-* Daniel Colson's <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B13yLQ7zd5nsQTQxVTFGZ3ZCNHc">Discussion Topic Ideas</a>, which don't have associated readings. 
+* Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1eluy8kmOP0JoEYtth4sW2jj1_ZMBqKaqt-ILO2jiNq0/edit">Discussion Topic Ideas</a>, some with or without readings
+* Daniel Colson's <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B13yLQ7zd5nsQTQxVTFGZ3ZCNHc">Discussion Topic Ideas</a>, which don't have associated readings 
 * <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B6m0ytelmQXGblNlUGN6Mld4T28">EA 101 Reading and Discussion Sheets</a>
 * <a target="_blank" href="http://www.thehighimpactnetwork.org/modules">THINK's workshop modules</a>
 
