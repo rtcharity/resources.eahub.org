@@ -3,7 +3,7 @@ title: Introductory Presentations
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Updated 30th December 2019_
 
@@ -45,7 +45,9 @@ This <a target="_blank" href="https://drive.google.com/drive/u/1/folders/0B63P07
 
 Note: This presentation isn't as well resourced or as referenced as the ones above. Contact Catherine on <a target="_blank" href="mailto:catherine@eahub.org">catherine@eahub.org</a> if you would like more information about this game. 
 
-
-
 # More Introductory Presentations Coming Soon
 
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_   <a target="_blank" href="https://docs.google.com/document/d/1tueIpoSWwqEYgs5aqhxKcBTs3TYq5koMmMO-4xTj14E/edit#"> _this google doc._</a> 
+<hr>
