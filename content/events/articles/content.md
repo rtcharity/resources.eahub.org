@@ -143,7 +143,7 @@ This worksheet offers a series of statements pertaining to Catastrophic Risk, an
 
 <a target="_blank" href="https://docs.google.com/document/d/1eeEgSIMBT1qO3DnNk62C732rT1qY2Yq6m_2ohq_Y6oE/">Worksheet</a> [Source: EA South Bay]
 
-**The Importance of the Far Future**
+**The Importance of the Far Future**
 
 This worksheet begins with the question ‘Why do EAs care about the far future?’ which frames the altruistic considerations of the future and existential risk to entire populations. Discussion questions centre around moral responsibility to those not yet born, potential future risks and solutions, and reflecting on the current impact of past actions and ideas.
 
