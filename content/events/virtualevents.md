@@ -18,7 +18,7 @@ This <a target="_blank" href="https://docs.google.com/document/d/1d6ttrngMBeVevv
 
 # Tools Guides
 
-* <a target="_blank" href="https://docs.google.com/document/d/1JpR1ENuGgpUfiN4cc6ZfTkF_SKwzjaOn_VxpOQumHxE/edit#">Using Zoom</a> has notes on other tools. 
+* <a target="_blank" href="https://docs.google.com/document/d/1JpR1ENuGgpUfiN4cc6ZfTkF_SKwzjaOn_VxpOQumHxE/edit#">Using Zoom</a> has information on how to use Zoom's features and avoid "Zoom-bombing".
 
 * <a target="_blank" href="https://docs.google.com/document/d/1kQ-4pkun5oY9wyzTQ90-HHRCf4wtumZ37HyyWO0zbqo/edit">Icebreaker</a>
 
