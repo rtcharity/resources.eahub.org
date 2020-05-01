@@ -3,15 +3,15 @@ title: Organisations
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 25th September 2019_
+### _Updated 1st May 2020_
 
-There are numerous organisations that are connected to the EA community. This page outlines a few of the organisations that might be useful for you to know about. It is not an exhaustive list.
+There are numerous organisations that are connected to the EA community. This page outlines a few of the organisations that might be useful for you to know about. The list includes community building and research organisations, but does not include charities that do direct work. Some of the most popular charities are linked off the entries in the <a href="#charity">Charity Evaluators section</a>. The aim for this page is not to be an exhaustive list, however, you can comment about missing organisations through <a target="_blank" href="https://docs.google.com/document/d/1l2JglNCgATKjJEMeUnEC6BaLxxbvVAkZZogecOUgLss/edit?usp=sharing">this link.</a>
 
 Contents:
 
-* <a href="#general">Organisations Working in Various Areas</a>
+* <a href="#general">Organisations Working In Several Areas</a>
 * <a href="#charity">Charity Evaluators</a>
 * <a href="#research">Other Research</a>
 * <a href="#membership">Membership Organisations</a>
@@ -19,7 +19,7 @@ Contents:
 
 
 <a name="general"></a>
-# Organisations Working in Various Areas
+# Organisations Working in Several Areas
 
 
 <a target="_blank" href="https://www.centreforeffectivealtruism.org/"><img class="small_image_block" src="/img/cealogo.png" /></a> 
@@ -51,20 +51,6 @@ The Centre for Effective Altruism’s mission is to create a global community of
 * The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a>, which features in-depth interviews about a variety of topics relevant to effective altruism and career decisions
 * A curated <a target="_blank" href="https://80000hours.org/job-board/">high-impact job board</a>
 
----
-<br>
-<a target="_blank" href="https://ea-foundation.org/">
-<img class="small_image_block" src="/img/eaflogo.png" /></a>
-
-
-
-
-### <a target="_blank" href="https://ea-foundation.org/">Effective Altruism Foundation</a> (Stiftung für Effektiven Altruismus) (EAF)
-EAF conducts and coordinates research on how to do the most good in terms of reducing suffering, and supports work that contributes to that goal. Their projects include:
-
-* The <a target="_blank" href="https://foundational-research.org/">Foundational Research Institute</a>, which researches suffering reduction
-* The <a target="_blank" href="https://ea-foundation.org/grantmaking/">EAF Fund</a>, which aims to prevent the worst technological risks facing civilisation
-* A tax-deductible <a target="_blank" href="https://ea-foundation.org/donate-ea/">donation portal</a> to EA organisations and effective charities, for donors in Germany and Switzerland.
 
 
 ---
@@ -76,10 +62,11 @@ EAF conducts and coordinates research on how to do the most good in terms of red
 ### <a target="_blank" href="https://rethinkprojects.org">Rethink Charity</a>
 Rethink Charity runs a variety of projects that aid the effective altruism community. These include:
 
-* The <a target="_blank" href="https://localeffectivealtruism.network/">Local Effective Altruism Network</a> (LEAN), which supports local groups working to bring effective altruism to a wider audience, and runs the <a target="_blank" href="https://eahub.org/">EA Hub</a>
-* The <a target="_blank" href="https://www.rethinkprojects.org/easurvey">EA Survey</a>, which provides an annual snapshot of the effective altruism community
-* <a target="_blank" href="https://www.rethinkpriorities.org/">Rethink Priorities</a>, dedicated to doing foundational research on neglected causes in a highly empirical and transparent manner
 * <a target="_blank" href="https://rcforward.org/">RC Forward</a>, a cause-neutral donation routing fund that makes high-impact charities tax-deductible in Canada
+* <a target="_blank" href="https://www.rethinkpriorities.org/">Rethink Priorities</a>, dedicated to doing foundational research on neglected causes in a highly empirical and transparent manner
+* The <a target="_blank" href="https://www.rethinkprojects.org/easurvey">EA Survey</a>, which provides an annual snapshot of the effective altruism community
+* Co-organising <a target="_blank" href="https://eagivingtuesday.org/">EA Giving Tuesday</a>
+* Hosting the <a target="_blank" href="https://eahub.org/">EA Hub</a>
 
 
 ---
@@ -229,12 +216,11 @@ BERI’s goal is to support the “existential risk ecosystem” by providing a 
 
 ---
 <br>
-<a target="_blank" href="https://foundational-research.org/"><img class="small_image_block" src="/img/frilogo.png " /></a>
+<a target="_blank" href="https://longtermrisk.org"><img class="small_image_block" src="/img/clrlogo.png " /></a>
 
 
-### <a target="_blank" href="https://foundational-research.org/">Foundational Research Institute</a> (FRI)
-FRI conducts research on how to best reduce the suffering of sentient beings in the long-term future. They publish <a target="_blank" href="https://foundational-research.org/research/">essays and academic articles</a>, and advise individuals and policymakers. Their focus is on exploring effective, robust and cooperative strategies to avoid risks of dystopian futures and working toward a future guided by careful, ethical reflection.
-FRI is a project of the <a target="_blank" href="https://ea-foundation.org/">Effective Altruism Foundation</a>.
+### <a target="_blank" href="https://longtermrisk.org/">Center on Long-Term Risk</a> (CLR)
+FRI conducts research on reducing risks of astronomical suffering (s-risks) They publish essays and academic articles, and advise individuals and policymakers. Their focus is on exploring strategies to avoid risks of dystopian futures and working toward a future guided by careful, ethical reflection. 
 
 ---
 <br>
