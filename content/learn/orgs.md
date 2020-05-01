@@ -9,7 +9,7 @@ license:
 
 There are numerous organisations that are connected to the EA community. This page outlines a few of the organisations that might be useful for you to know about. The list includes community building and research organisations, but does not include charities that do direct work. Some of the most popular charities are linked off the entries in the <a href="#charity">Charity Evaluators section</a>. The aim for this page is not to be an exhaustive list, however, you can comment about missing organisations through <a target="_blank" href="https://docs.google.com/document/d/1l2JglNCgATKjJEMeUnEC6BaLxxbvVAkZZogecOUgLss/edit?usp=sharing">this link.</a>
 
-Contents:
+# Contents:
 
 * <a href="#general">Organisations Working In Several Areas</a>
 * <a href="#charity">Charity Evaluators</a>
