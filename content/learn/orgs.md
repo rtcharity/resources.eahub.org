@@ -220,7 +220,7 @@ BERI’s goal is to support the “existential risk ecosystem” by providing a 
 
 
 ### <a target="_blank" href="https://longtermrisk.org/">Center on Long-Term Risk</a> (CLR)
-FRI conducts research on reducing risks of astronomical suffering (s-risks) They publish essays and academic articles, and advise individuals and policymakers. Their focus is on exploring strategies to avoid risks of dystopian futures and working toward a future guided by careful, ethical reflection. 
+CLR conducts research on reducing risks of astronomical suffering (s-risks) They publish essays and academic articles, and advise individuals and policymakers. Their focus is on exploring strategies to avoid risks of dystopian futures and working toward a future guided by careful, ethical reflection. 
 
 ---
 <br>
