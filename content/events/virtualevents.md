@@ -23,4 +23,12 @@ This <a target="_blank" href="https://docs.google.com/document/d/1d6ttrngMBeVevv
 * <a target="_blank" href="https://docs.google.com/document/d/1kQ-4pkun5oY9wyzTQ90-HHRCf4wtumZ37HyyWO0zbqo/edit">Icebreaker</a>
 
 * This <a target="_blank" href="https://docs.google.com/document/d/1d6ttrngMBeVevvJmWhEEIQfp0mNrrOlwT6tr0WUHcsU/edit#heading=h.ox204xs3uer8">tools table</a> has information on other tools. 
- 
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1Eb5pBCKiRvn3WQQeqrwP1ih0gOqWrvY_iC1LjbjSAuQ">_this google doc._</a>
+
+<hr>
+
+
+
