@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 23rd September 2019_
+### _Updated 4th May 2020_
 
 Groups thrive when they’re led by committed, talented, and hardworking organisers. If they’re not handed off to enthusiastic and competent people when organisers leave, the group may become less active or go entirely defunct. Succession problems are a frequent killer of good groups. 
 
@@ -17,11 +17,11 @@ Long before you are in a position to decide on a successor, you can take steps t
 
 # Consider Leadership Transitions in your Committee Structure
 
-Some uni groups have chosen to design their committee structure to help transitions. 
+Some uni groups have chosen to design their committee structure to help transitions: 
  
-Some groups have have two co-organisers from different class years run the group, each for two years, so that there will never need to be a total leadership handover
+* Some groups have have two co-presidents from two consecutive years run the group, each for two years, so that there will never need to be a total leadership handover.
 
-Choose a new organiser two years before they graduate, and have the previous organiser become an advisor their final year (this has the advantage of avoiding lessening the responsibilities of organisers in their senior years, during which they might be writing a thesis or searching for jobs).
+* Others choose a president from the group of members that have two years left before they graduate. That way the previous president becomes an advisor their final year (this has the advantage of avoiding lessening the responsibilities of organisers in their senior years, during which they might be writing a thesis or searching for jobs).
 
 # How to Select your Successor 
 
@@ -33,7 +33,7 @@ Choose next year’s leadership early—ideally at least three months before you
    * Ask them to sign up to the <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">EA Groups Newsletter</a>
    * Invite them to ioin groups for organisers on <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook</a> and/or <a target="_blank" href="https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I">Slack</a>.
    * Introduce them to the CEA Groups Team on <a href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
-   * Connect them to the organisation at your university responsible for supporting groups. 
+   * Connect them to the organisation at your university responsible for supporting groups 
 * Update the group details on the <a target="_blank" href="https://eahub.org/groups/">EA Hub</a>
 * Have a period of time in which you can show new organisers the ropes by discussing decisions with them and letting them sit in on strategy meetings
 * If possible, emphasise to your successor that you’re happy to be contacted by them in future whenever they want more support
