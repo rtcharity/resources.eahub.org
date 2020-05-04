@@ -3,7 +3,7 @@ title: Handing Over Leadership
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 23rd September 2019_
 
@@ -29,17 +29,21 @@ Choose next year’s leadership early—ideally at least three months before you
 
 # The Handover Period
 
-Some groups have organisational structures where leadership will be turned over from one team to an entirely different team. In these cases, make sure you:
-
-* Have a period of time in which you can show new organisers the ropes by discussing decision with them and letting them sit in on strategy meetings
-* Emphasise to your successor that you’re happy to be contacted by them in future whenever they want more support (if this is the case)
-* Ensure anyone else in your group handing over leadership responsibilities to a successor also meets one on one with their replacement to pass on any specific knowledge or advice
+* Ensure the new organisers are connected with the support they need from outside of the group:
+   * Ask them to sign up to the <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">EA Groups Newsletter</a>
+   * Invite them to ioin groups for organisers on <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook</a> and/or <a target="_blank" href="https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I">Slack</a>.
+   * Introduce them to the CEA Groups Team on <a href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
+   * Connect them to the organisation at your university responsible for supporting groups. 
+* Update the group details on the <a target="_blank" href="https://eahub.org/groups/">EA Hub</a>
+* Have a period of time in which you can show new organisers the ropes by discussing decisions with them and letting them sit in on strategy meetings
+* If possible, emphasise to your successor that you’re happy to be contacted by them in future whenever they want more support
+* Ensure anyone else in your group handing over leadership responsibilities to a successor also meets one on one with their replacement to pass on any specific knowledge or advice.
 
 # How to Write Handover Documents 
 
-When possible make handover documents to explain in writing what your successors will need to know to run the group in your absence. This is particularly important if your group’s committee is changing substantially, but may not be as crucial when the new committee has been thoroughly involved. 
+When possible make handover documents to explain in writing what your successors will need to know to run the group in your absence. This is particularly important if your group’s committee is changing substantially, but may not be as crucial when the new committee has been thoroughly involved. Make the document as readable as possible (e.g. by having bullet points instead of long paragraphs), so that your successors will be more likely to use them. 
 
-If multiple organisers are handing over their responsibilities, encourage them to each write their own sections for the document, and include everyone’s contact details so that successors can ask for further information. Make the document as readable as possible (e.g. by having bullet points instead of long paragraphs), so that your successors will actually use it.
+If multiple organisers are handing over their responsibilities, encourage them to each write their own sections for the document, and include everyone’s contact details so that successors can ask for further information. 
 
 ## Potential Inclusions
 
@@ -57,7 +61,7 @@ If multiple organisers are handing over their responsibilities, encourage them t
 * Suggestions for how to prioritise between activities, as well as any other activities you would have run if less constrained
 * Lessons you’ve learned from mistakes
 * A reminder that good leaders shouldn’t be afraid to innovate and make improvements
-Anything else you wish you’d known before you started
+* Anything else you wish you’d known before you started
 
 ## Example Handover Documents 
 Each group will have different requirements for their handover documents, but these documents may act as useful models. 
