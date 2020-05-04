@@ -17,11 +17,11 @@ Long before you are in a position to decide on a successor, you can take steps t
 
 # Consider Leadership Transitions in your Committee Structure
 
-Some uni groups have chosen to design their committee structure to help transitions. 
+Some uni groups have chosen to design their committee structure to help transitions: 
  
-Some groups have have two co-organisers from different class years run the group, each for two years, so that there will never need to be a total leadership handover
+* Some groups have have two co-presidents from two consecutive years run the group, each for two years, so that there will never need to be a total leadership handover.
 
-Choose a new organiser two years before they graduate, and have the previous organiser become an advisor their final year (this has the advantage of avoiding lessening the responsibilities of organisers in their senior years, during which they might be writing a thesis or searching for jobs).
+* Others choose a president from the group of members that have two years left before they graduate. That way the previous president becomes an advisor their final year (this has the advantage of avoiding lessening the responsibilities of organisers in their senior years, during which they might be writing a thesis or searching for jobs).
 
 # How to Select your Successor 
 
