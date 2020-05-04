@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 23rd September 2019_
+### _Updated 4th May 2020_
 
 Groups thrive when they’re led by committed, talented, and hardworking organisers. If they’re not handed off to enthusiastic and competent people when organisers leave, the group may become less active or go entirely defunct. Succession problems are a frequent killer of good groups. 
 
