@@ -11,8 +11,8 @@ This page features different groups and community organisers around the world.
 # Contents
 
 * <a href="#brian"> Brian Tan - EA Philippines</a>
-* <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#sella">Sella Nevo - EA Israel</a>
+* <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney</a>
 
 <a name="brian"></a>
@@ -72,12 +72,43 @@ I'd like to see more community builders share about their successes (to celebrat
 
 It would also be great to have video calls with other community builders and/or EAs, just to socialize more and learn from like-minded people.
 
+
+
+
+
+<a name="sella"></a>
+# Sella Nevo - EA Israel
+### _Published 29th February 2020_
+
+<p class="large_image_wrapper">
+ <img src="/img/sellanevo.jpg" />
+</p>
+
+_Sella giving a talk at EA Israel_ 
+
+## What first drew you to effective altruism?
+“When I was thirteen I volunteered for the first time, and realized this was the first time in thirteen years I did something that made a difference in other people’s lives. Over the next decade I spent a significant portion of my leisure time volunteering, mainly in poverty alleviation, work with youth at risk, and refugees. I wanted to create the largest positive impact I could, but struggled to find reliable information on how to do so. When I found effective altruism online, it was exactly the community and body of research I had been searching for quite a while - making it a pretty easy sell.”
+
+## What has the community come to mean to you?
+“When I originally stumbled upon the EA community, I was delighted to find a community that shares my values. The community continues to be a constant source of inspiration - with so many people doing incredible and impactful work. But perhaps the most significant impact the community had on my life over the years has been exposing me to new causes and considerations such as animal welfare, moral uncertainty, and others. Having a community of intelligent people challenging one’s views in a positive and constructive way is both rare and underrated.”
+
+## What are the biggest challenges as a community organiser?
+“There are very diverse challenges in being a community organizer. One is that communities tend to flourish under consistency, so you want to make sure you organize events, answer questions, and maintain relationships - even at times when other aspects of your life require attention and are keeping you busy. Also, as a person committed to evidence-based change, it can sometimes be hard to focus on advocacy and community-building work, which is often speculative and hard to measure. That being said, being a community organizer is more fun and natural than I had expected, so I recommend more people try it!
+
+## What is the best advice/resource you've found that you still use today?
+“Helen Toner’s classic post Effective Altruism is a Question (not an ideology) is something I think all community organizers should keep in mind. Remembering that what we care about is how to do the most good, rather than a commitment to our currently estimated top priorities (especially given the amount of uncertainty we have around many of our top charities and even cause areas), is important to creating a community geared towards openness, innovation, inclusiveness, and challenging of existing views.
+
+## What could EA communities do better?
+“EA could be (somewhat simplistically) thought of as the intersection between being altruistic and being effective (often associated with being analytical and quantitative, though this is not entirely accurate). I think EA communities are great at engaging people who already have an analytical and quantitative mindset, but don’t invest sufficiently at welcoming people from traditional altruistic backgrounds. By explaining why evidence, research and rational analysis are important in a way that is accessible and respectful to audiences that don’t find this obvious, we can grow the community and benefit from a lot of existing experience and expertise.”
+
 <a name="catherine"></a>
 # Catherine Low - EA Christchurch and EA New Zealand
+### _Published 4th February 2020_
 
 <p class="large_image_wrapper">
  <img src="/img/catherinelow.jpg" />
 </p>
+
 _Catherine (5th from right) at the recent EA New Zealand retreat_
 
 ## What first drew you to effective altruism?
@@ -95,37 +126,12 @@ _Catherine (5th from right) at the recent EA New Zealand retreat_
 ## What could EA communities do better?
 “Currently, many new people report that EA seems elitist, and therefore fear their contributions may not be enough for them to be a part of our movement, or may not want to be a part of the movement. I’ve heard this concern even from people who have an awful lot to contribute. So I worry that we are missing out on a lot of impact as a result of the messages that we consciously or unconsciously put out. As EA is fundamentally a bit judgemental, and the scale of what we are trying to do is so enormous and potentially anxiety-inducing, I think our community needs to be more conscious about making people feel excited and valued than other movements do. For a totally biased example of the impact of a not particularly elite group, my city is rather unremarkable - it has fewer than 400,000 people and two universities of no international importance. Yet we have a small but thriving EA group that donates, provides value through volunteer projects, and has a few people who have EA aligned jobs or are heading for high-impact careers. So I’d love to see more similarly average places having highly productive EA communities.” 
 
-
-
-<a name="sella"></a>
-# Sella Nevo - EA Israel
-
-<p class="large_image_wrapper">
- <img src="/img/sellanevo.jpg" />
-</p>
-_Sella giving a talk at EA Israel_
-
-
-## What first drew you to effective altruism?
-“When I was thirteen I volunteered for the first time, and realized this was the first time in thirteen years I did something that made a difference in other people’s lives. Over the next decade I spent a significant portion of my leisure time volunteering, mainly in poverty alleviation, work with youth at risk, and refugees. I wanted to create the largest positive impact I could, but struggled to find reliable information on how to do so. When I found effective altruism online, it was exactly the community and body of research I had been searching for quite a while - making it a pretty easy sell.”
-
-## What has the community come to mean to you?
-“When I originally stumbled upon the EA community, I was delighted to find a community that shares my values. The community continues to be a constant source of inspiration - with so many people doing incredible and impactful work. But perhaps the most significant impact the community had on my life over the years has been exposing me to new causes and considerations such as animal welfare, moral uncertainty, and others. Having a community of intelligent people challenging one’s views in a positive and constructive way is both rare and underrated.”
-
-## What are the biggest challenges as a community organiser?
-“There are very diverse challenges in being a community organizer. One is that communities tend to flourish under consistency, so you want to make sure you organize events, answer questions, and maintain relationships - even at times when other aspects of your life require attention and are keeping you busy. Also, as a person committed to evidence-based change, it can sometimes be hard to focus on advocacy and community-building work, which is often speculative and hard to measure. That being said, being a community organizer is more fun and natural than I had expected, so I recommend more people try it!
-
-## What is the best advice/resource you've found that you still use today?
-“Helen Toner’s classic post Effective Altruism is a Question (not an ideology) is something I think all community organizers should keep in mind. Remembering that what we care about is how to do the most good, rather than a commitment to our currently estimated top priorities (especially given the amount of uncertainty we have around many of our top charities and even cause areas), is important to creating a community geared towards openness, innovation, inclusiveness, and challenging of existing views.
-
-## What could EA communities do better?
-“EA could be (somewhat simplistically) thought of as the intersection between being altruistic and being effective (often associated with being analytical and quantitative, though this is not entirely accurate). I think EA communities are great at engaging people who already have an analytical and quantitative mindset, but don’t invest sufficiently at welcoming people from traditional altruistic backgrounds. By explaining why evidence, research and rational analysis are important in a way that is accessible and respectful to audiences that don’t find this obvious, we can grow the community and benefit from a lot of existing experience and expertise.”
-
 <a name="neil"></a>
 # Neil Ferro - EA Sydney
 ### _Published 4th Feb 2020_
-
-<img class="small_image" style="float: left" src="/img/neilferro.jpg" />
+<p class="large_image_wrapper">
+ <img src="/img/neilferro.jpg" />
+</p>
 
 
 ## What first drew you to effective altruism?
