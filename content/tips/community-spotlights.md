@@ -73,7 +73,7 @@ I'd like to see more community builders share about their successes (to celebrat
 
 It would also be great to have video calls with other community builders and/or EAs, just to socialize more and learn from like-minded people.
 
-
+<hr>
 <a name="sella"></a>
 # Sella Nevo - EA Israel
 ### _Published 29th February 2020_
@@ -99,6 +99,8 @@ _Sella giving a talk at EA Israel_
 ## What could EA communities do better?
 “EA could be (somewhat simplistically) thought of as the intersection between being altruistic and being effective (often associated with being analytical and quantitative, though this is not entirely accurate). I think EA communities are great at engaging people who already have an analytical and quantitative mindset, but don’t invest sufficiently at welcoming people from traditional altruistic backgrounds. By explaining why evidence, research and rational analysis are important in a way that is accessible and respectful to audiences that don’t find this obvious, we can grow the community and benefit from a lot of existing experience and expertise.”
 
+<hr>
+
 <a name="catherine"></a>
 # Catherine Low - EA Christchurch and EA New Zealand
 ### _Published 4th February 2020_
@@ -107,7 +109,7 @@ _Sella giving a talk at EA Israel_
  <img src="/img/catherinelow.jpeg" />
 </p>
 
-_Catherine (5th from right) at the recent EA New Zealand retreat_
+_Catherine (5th from right) at the recent EA New Zealand retreat_
 
 ## What first drew you to effective altruism?
 “I was drawn to the idea that I could (and should) make a significant difference to others, and that there was a community of inspiring people. I first encountered effective altruism on a Rationally Speaking podcast that featured Peter Singer. Before Peter started talking, one of the interviewers (Massimo Pigliucci) described how he and his wife had read one of Peters's books and it caused them to move to a smaller house and sell their car in order to have a more positive impact.  I found that astonishing. I hadn't previously internalised the possibility that simply reading one book could immediately change someone's life, at least not when that someone was the highly skeptical Massimo, who was unlikely to be duped into anything. While I found Peter's ideas on global poverty and animal rights extremely compelling, it was knowing there were generous, intelligent people out there who allowed these ideas to change their lives gave me some sort of permission to take significant action myself.”
@@ -123,6 +125,8 @@ _Catherine (5th from right) at the recent EA New Zealand retreat_
 
 ## What could EA communities do better?
 “Currently, many new people report that EA seems elitist, and therefore fear their contributions may not be enough for them to be a part of our movement, or may not want to be a part of the movement. I’ve heard this concern even from people who have an awful lot to contribute. So I worry that we are missing out on a lot of impact as a result of the messages that we consciously or unconsciously put out. As EA is fundamentally a bit judgemental, and the scale of what we are trying to do is so enormous and potentially anxiety-inducing, I think our community needs to be more conscious about making people feel excited and valued than other movements do. For a totally biased example of the impact of a not particularly elite group, my city is rather unremarkable - it has fewer than 400,000 people and two universities of no international importance. Yet we have a small but thriving EA group that donates, provides value through volunteer projects, and has a few people who have EA aligned jobs or are heading for high-impact careers. So I’d love to see more similarly average places having highly productive EA communities.” 
+
+<hr>
 
 <a name="neil"></a>
 # Neil Ferro - EA Sydney
