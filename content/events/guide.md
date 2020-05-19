@@ -63,9 +63,9 @@ Some options for a purpose could be:
 1. Decide the purpose/s
 2. Decide who the target audience is, and how best to reach them. You could have a public event and aim to attract your target audience by how you describe the event, or where you advertise the event. Or you could choose to make the event private.  
 3. Choose an idea for the event. If the event has a topic, read up on it in advance. You can get some event ideas in the “<a target="_blank" href="/events/">Events</a>” page.
-4. Choose (and book if necessary) an appropriate venue and time. 
-    a.	Even for casual events, have an “official” end time to mark the expected time people are likely to start leaving. If possible, allow for people to hang around afterwards if they wish to continue discussions.
-   b.	If you decide to host a more formal or structured event, budget time for attendees to talk after an event, and consider encouraging this by offering refreshments. More information on venues <a target="_blank" href="/events/venues/">here</a>.
+4. Choose (and book if necessary) an appropriate venue and time.\ 
+    a.	Even for casual events, have an “official” end time to mark the expected time people are likely to start leaving. If possible, allow for people to hang around afterwards if they wish to continue discussions.\
+    b.	If you decide to host a more formal or structured event, budget time for attendees to talk after an event, and consider encouraging this by offering refreshments. More information on venues <a target="_blank" href="/events/venues/">here</a>.
 5. Plan food and drink for the event, if applicable.  More information on food and drink <a target="_blank" href="/events/food/">here</a>. 
 6. Publicise the event on social media and mailing list about 2 weeks in advance (or longer for large events). It helps to have a professional-looking image for your event: Sample graphics are available <a target="_blank" href="/graphics/editable-graphics/">here</a>.
 7. Send a reminder message out a day or two in advance of the event.
