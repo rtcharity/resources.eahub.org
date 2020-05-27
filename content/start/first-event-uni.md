@@ -10,7 +10,7 @@ license:
 <p class="large_image_wrapper">
 <img src="/img/startuq.jpg" />
 </p>
-\_Image: EA University of Queensland\_
+*Image: EA University of Queensland*
 
 Some groups attribute their success to having a strong start. EA NTNU aimed to look like an established professional group from the very start by having t-shirts, posters, flyers, and banners, along with planning out their activities in advance. The idea is that people are more likely to jump on board with a club that seems like it is already lively. 
 
