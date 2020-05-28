@@ -201,7 +201,7 @@ More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnU
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/TwJb75GtbD4LvGiku/1-what-is-moral-realism">Moral realism</a> - A meta-ethical view that moral facts and values exist, and are objective. That is, that moral judgments describe moral facts which are as certain in their own way as mathematical facts.
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/moral-uncertainty/">Moral uncertainty</a> - Uncertainty about whether a moral positions is true, such as whether it's wrong to steal, or uncertainty about which ethical theory is correct.    
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/moral-uncertainty/">Moral uncertainty</a> - Uncertainty about whether a moral position is true, such as whether it's wrong to steal, or uncertainty about which ethical theory is correct.    
 
 <a target="_blank" href="https://www.lesswrong.com/posts/2jTQTxYNwo6zb3Kyp/preliminary-thoughts-on-moral-weight">Moral weight</a> - How much value is assigned to a moral patient, or how important we consider the welfare of that being to be. 
 
@@ -209,9 +209,9 @@ More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnU
 
 # N
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Negative_utilitarianism">Negative utilitarianism</a> - A philosophical view that puts greater importance on the reduction of suffering, rather than, or in preference to the maximising of welfare. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Negative_utilitarianism">Negative utilitarianism</a> - A philosophical view that puts greater importance on the reduction of suffering, rather than, or in preference to, the maximising of welfare. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Neglectedness (Uncrowdedness)</a> - A factor to consider in cause prioritisation: A cause area or intervention is neglected if it receives minimal attention, or is underfunded. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Neglectedness (Uncrowdedness)</a> - A factor to consider in cause prioritisation: A cause area or intervention is neglected if it receives minimal attention or is underfunded. 
 
 <a target="_blank" href="https://plato.stanford.edu/entries/nonidentity-problem/">Non-identity problem</a> - An issue that arises when deciding how to value future lives, whereby a given future life will not be the same life if we take one action as opposed to another. That is, where the action we take or don’t take will affect which specific future person(s) come to exist. On some philosophical views this makes it difficult to compare the outcomes of taking or not taking the action, as even if the life of the person in question will be less good than another life might have been if we had taken a different action, it is hard to say that they have been harmed, as the other option was for them not to exist at all.
 
