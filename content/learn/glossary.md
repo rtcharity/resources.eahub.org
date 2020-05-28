@@ -3,7 +3,7 @@ title: Glossary
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ## *Published 26th September 2019*
 
@@ -31,7 +31,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 # B
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Bayesian_probability">Bayesian probability</a> - The level of certainty or confidence relating to an idea or outcome. 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Bayesian_probability">Bayesian probability</a> - The level of certainty of, or confidence in, an idea or outcome. 
 
 <a name="C"></a>
 
@@ -41,7 +41,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/understanding-cause-neutrality/">Cause-indifference (or cause neutrality)</a> - Selecting a cause area based on an impartial assessment of the impact of working on that cause area. In contrast to having a "pet cause". 
 
-<a target="_blank" href="https://causeprioritization.org/Cause_prioritization">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how many people are already working on this), and their tractability (how easy they are to improve).
+<a target="_blank" href="https://causeprioritization.org/Cause_prioritization">Cause prioritisation</a> - The process of prioritising causes. In EA this is often done according to their scale (how much good or bad they do), their neglectedness (how few resources people are already putting towards this), and their tractability (how easy they are to improve).
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/moral-progress-and-cause-x/">Cause-X</a> -  A cause that's one of the most important moral problems of our time that we haven’t yet realised the importance of. 
 
@@ -49,9 +49,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://conceptually.org/concepts/cognitive-dissonance-theory">Cognitive Dissonance</a> - The discomfort we feel when holding two or more conflicting beliefs. E.g., a meat eater who believes they are a moral person, yet thinks it is wrong to kill animals, may experience cognitive dissonance and change one of their beliefs. 
 
-<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to achieve certain outcomes. This can be applied to the level of countries (e.g., Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g., the EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
+<a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to perform certain tasks, even if they are worse at that task in absolute terms. This can be applied to the level of countries (e.g., Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g., the EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
 
-<a name="consequentialism"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this action. Utilitarianism is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
+<a name="consequentialism"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this act. Utilitarianism is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
 
 <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">Coordination Problem</a> - A problem that requires several people (or groups of people) to coordinate to reach the best outcome. <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">The prisoner’s dilemma</a> is a famous example of a coordination problem. An EA example: People see that there is a skill that is neglected in the EA community, so they learn that skill. If too many people take this action the skill becomes oversupplied, but if we are able to coordinate we may fill all the skill shortages over time. 
 
@@ -73,7 +73,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 # D
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/decision-theory">Decision theory</a> - The study of how to choose actions or strategies that combine your views about the world with what you value. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/decision-theory">Decision theory</a> - The study of how to rationally choose actions or strategies based on your beliefs about the world and what you value. 
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/crucial-considerations-and-wise-philanthropy-nick-bostrom/#should-i-vote-in-the-national-election">Deliberation ladder</a> - A sequence of [crucial considerations](#crucial) regarding the same high-level subgoal, where the considerations hold in opposing directions. E.g., when asking the question “should I vote?”, your ladder could consist of “yes, I want to put a good politician in office”, “but my vote is unlikely to make a difference”, “but it could be a close election then I should vote”, “but if it is close then perhaps the candidates are of similar quality”, etc. 
 
@@ -87,7 +87,8 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/discounting-the-future/">Discounting (or time discounting)</a> - The idea that goods have less value in the future than they do now. E.g. you might prefer to be given $100 today over being given $150 next year.
 
-<a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Drowning Child</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
+Drowning Child - A thought experiment by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
+More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Video</a>, <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">Text</a>
 
 <a target="_blank" href="https://conceptually.org/concepts/dual-processing-theory">Dual process theory (System 1 and System 2)</a> - Two methods of decision-making: System 1 thinking is intuitive, rapid, automatic, subconscious and emotional. System 2 thinking is deliberate, slow, logical and can involve using data. 
 
@@ -111,11 +112,12 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/ethics">Ethics</a> - The study of what is good, what is right and what is valuable. Includes the abstract study of defining ‘the good’, and what moral value consists in, as well as the application of ethical norms in society - what we ought to do and how ought we behave.
 
-<a name="existentialrisk"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">Existential risk or x-risk</a> - Processes or events that would result in either the extinction of humanity or permanently curtail the potential of humanity.
+<a name="existentialrisk"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">Existential risk or x-risk</a> - Processes or events that would either result in the extinction of humanity or would permanently curtail  humanity’s future potential.
 
-<a name="expectedvalue"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/expected-value-theory/">Expected value</a> - A way of considering options based on the value of a possible outcome multiplied by the probability of that outcome occurring, giving the probability-weighted average of all possible outcomes.
 
-<a target="_blank" href="https://conceptually.org/concepts/explore-or-exploit/">Explore/Exploit tradeoff</a> - The tradeoff between using the information or skills you have now (‘exploiting’), or learning more (‘explore’). E.g., a person seeking a high-impact career may have to weigh up taking a known path they believe to be high-impact, or learning more to find out if there is a higher impact path available. 
+<a name="expectedvalue"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/expected-value-theory/">Expected value</a> - A way of evaluating an option based on the value of each possible outcome multiplied by the probability of that outcome occurring, giving the probability-weighted average value of all possible outcomes of that option.
+
+<a target="_blank" href="https://conceptually.org/concepts/explore-or-exploit/">Explore/Exploit tradeoff</a> - The tradeoff between using the information or skills you have now (‘exploiting’), or learning more (‘exploring’). E.g., a person seeking a high-impact career may have to weigh up taking a known path they believe to be high-impact, or learning more to find out if there is a higher impact path available. 
 
 <a name="F"></a>
 
@@ -147,7 +149,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/">Heavy-tailed distributions</a> (also called fat tailed distributions) - Probability distributions, where one tail decreases towards zero more slowly than if it was a normal bell shaped distribution. E.g., the probability distribution of impact across global health interventions is heavy-tailed because the most effective interventions are many times more effective than the average, so most of the overall impact comes from these extremely effective interventions.
 
-<a target="_blank" href="https://www.merriam-webster.com/dictionary/hedonic">Hedonic</a> - relating to or characterised by pleasure. 
+<a target="_blank" href="https://www.merriam-webster.com/dictionary/hedonic">Hedonic</a> - relating to or characterised by pleasure (in the broad sense of all pleasant feelings). 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Hedonic_treadmill">Hedonic treadmill</a> - The tendency of the human mind to adapt back to a stable set point of happiness in spite of positive or negative experiences/changes in life. 
 
@@ -175,7 +177,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Light_cone">Light cone</a> - The “forward light cone” contains the parts of space-time that we can theoretically influence according to the theory of relativity. We can’t influence the past, nor can we influence far off galaxies in the near future because we are unable to send signals faster than the speed of light. Usually “the forward light cone” can be interpreted as “the future”.
 
-<a target="_blank" href="http://www.compressingreality.com/Utility-Log-Income/">Log of consumption/income</a> - The natural logarithm (log) is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be exponential; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore, the benefits are proportional to the log of the increase in income. 
+<a target="_blank" href="http://www.compressingreality.com/Utility-Log-Income/">Log of consumption/income</a> - The natural logarithm (log) is a mathematical function that is the inverse of an exponential. The relationship between increased income and benefits is often assumed to be logarithmic; increasing a poor person’s income by a set amount has a much greater impact than increasing a rich person’s income by the same amount. Therefore, the benefits are proportional to the log of the increase in income. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/the-long-term-future/">Long term future (LTF)</a> - More than 100 years into the future, often used in relation to the millions or billions of years that humans and their descendents could live. 
 
@@ -193,7 +195,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0022103108001613">Moral circle</a> - The boundary drawn around those entities in the world deemed worthy of moral consideration. 
 
-<a target="_blank" href="http://priority.wiki/Moral-circle-expansion">Moral Circle Expansion (MCE)</a> - A cause area within the movement involving the persuasion that we should expand our empathy to consider all sentient beings. 
+<a target="_blank" href="http://priority.wiki/Moral-circle-expansion">Moral Circle Expansion (MCE)</a> - A cause area within the movement focused on expanding people’s empathy to consider all sentient beings. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/moral-patienthood/">Moral patienthood</a> - A description for beings that we should have moral concern for and include in a theory of the good. 
 
@@ -209,9 +211,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Negative_utilitarianism">Negative utilitarianism</a> - A philosophical view that puts greater importance on the reduction of suffering, rather than, or in preference to the maximising of welfare. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Neglectedness (Uncrowdedness)</a> - A value to consider in prioritisation, where the cause area or intervention is neglected if it receives minimal attention from people, or is underfunded. 
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Neglectedness (Uncrowdedness)</a> - A factor to consider in cause prioritisation: A cause area or intervention is neglected if it receives minimal attention, or is underfunded. 
 
-<a target="_blank" href="https://plato.stanford.edu/entries/nonidentity-problem/">Non-identity problem</a> - An issue that arises when deciding how to value future lives, whereby the actual life we are considering will not be the exact same life from one action we take to another. That is, the exact person would not have existed if we had not taken a specific action, and even if their life is less good than another life might have been if we had taken a different action, can we say that they have been harmed, when the other option was to not exist at all? 
+<a target="_blank" href="https://plato.stanford.edu/entries/nonidentity-problem/">Non-identity problem</a> - An issue that arises when deciding how to value future lives, whereby a given future life will not be the same life if we take one action as opposed to another. That is, where the action we take or don’t take will affect which specific future person(s) come to exist. On some philosophical views this makes it difficult to compare the outcomes of taking or not taking the action, as even if the life of the person in question will be less good than another life might have been if we had taken a different action, it is hard to say that they have been harmed, as the other option was for them not to exist at all.
 
 <a name="O"></a>
 
@@ -237,7 +239,8 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/personal-fit/">Personal fit</a> - Defined by 80,000 Hours as your chance of excelling at a job, if you work at it. The implication is that a high degree of personal fit with your work will allow you to have a much higher impact. 
 
-<a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Pond Analogy</a> - <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">A thought experiment</a> by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
+Pond Analogy - A thought experiment by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
+More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Video</a>, <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">Text</a>.
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Population_ethics">Population ethics</a> - The consideration of how our actions affect who is born and how many people are born in the future.
 
@@ -259,9 +262,9 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://wiki.lesswrong.com/wiki/Rationality">Rationality</a> - Being based on or agreeable to reason, using logical reasoning in your thinking and decision-making process. 
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/risk-aversion/">Risk aversion</a> - A preference for the safe option over one that carries a higher risk, even if the higher risk option had a higher [expected value](#expectedvalue).
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/risk-aversion/">Risk aversion</a> - A preference for the safe option over one that carries a higher risk, even if the higher risk option has a higher [expected value](#expectedvalue).
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/room-for-more-funding/">Room for more funding (RFMF)</a> - A concept used in evaluating charities where the diminishing returns are used to determine whether an increase in funding will be able to have high impact. If a charity has a large RFMF it can use a large amount of money effectively.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/room-for-more-funding/">Room for more funding (RFMF)</a> - A concept used in evaluating charities, where the diminishing returns to funding are used to determine whether an increase in funding will be able to have high impact. If a charity has a large RFMF it can use a large amount of extra money effectively.
 
 <a name="S"></a>
 
@@ -273,7 +276,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/">Scale, Neglectedness, Solvability (SNS)</a>, or Importance,Tractability, Neglectedness (ITN)  - a framework used within the EA community to decide which cause areas or interventions are likely to be more promising to focus on. 
 
-<a target="_blank" href="https://conceptually.org/concepts/scope-insensitivity/">Scope insensitivity</a> - Our inability to intuitively or immediately grasp and act on the difference of scope when dealing with large numbers. Even though a program that saves 200,000 migrating is 100 times as impactful as a program that saves 2,000 birds, when surveyed, people don’t offer to donate at a commensurate 100 times more. In fact, they barely offer to donate more at all. 
+<a target="_blank" href="https://conceptually.org/concepts/scope-insensitivity/">Scope insensitivity</a> - Our inability to intuitively or immediately grasp and act on the difference of scope when dealing with large numbers. Even though a program that saves 200,000 birds is 100 times as impactful as a program that saves 2,000 birds, when surveyed, people don’t offer to donate a commensurate 100 times more. In fact, they barely offer to donate more at all. 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Sentience">Sentience</a> - The capacity to feel, perceive or experience.
 
@@ -341,7 +344,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 # X
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">X-risk or Existential risk</a> - Processes or events that would result in either the extinction of humanity or permanently curtail the potential of humanity.
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/existential-risks/">X-risk or Existential risk</a> - Processes or events that would either result in the extinction of humanity or would permanently curtail humanity's future potential.
 
 # Y
 
