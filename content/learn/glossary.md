@@ -201,7 +201,7 @@ More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnU
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/TwJb75GtbD4LvGiku/1-what-is-moral-realism">Moral realism</a> - A meta-ethical view that moral facts and values exist, and are objective. That is, that moral judgments describe moral facts which are as certain in their own way as mathematical facts.
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/moral-uncertainty/">Moral uncertainty</a> - Uncertainty about whether moral positions are true, such as whether it's wrong to steal, or uncertainty about which ethical theory is correct.    
+<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/moral-uncertainty/">Moral uncertainty</a> - Uncertainty about whether a moral positions is true, such as whether it's wrong to steal, or uncertainty about which ethical theory is correct.    
 
 <a target="_blank" href="https://www.lesswrong.com/posts/2jTQTxYNwo6zb3Kyp/preliminary-thoughts-on-moral-weight">Moral weight</a> - How much value is assigned to a moral patient, or how important we consider the welfare of that being to be. 
 
