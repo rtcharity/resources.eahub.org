@@ -88,7 +88,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/discounting-the-future/">Discounting (or time discounting)</a> - The idea that goods have less value in the future than they do now. E.g. you might prefer to be given $100 today over being given $150 next year.
 
 Drowning Child - A thought experiment by Peter Singer that argues that we ought to value a human life over material possessions irrespective of geographical distance. 
-More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Video</a>, <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">Text</a>
+More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnUsV1J2M">Video</a>, <a target="_blank" href="https://www.utilitarian.net/singer/by/199704--.htm">Text</a>.
 
 <a target="_blank" href="https://conceptually.org/concepts/dual-processing-theory">Dual process theory (System 1 and System 2)</a> - Two methods of decision-making: System 1 thinking is intuitive, rapid, automatic, subconscious and emotional. System 2 thinking is deliberate, slow, logical and can involve using data. 
 
