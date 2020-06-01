@@ -5,16 +5,46 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 7th May 2020_
+### _Published 1st June 2020_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
+* <a href="#parth"> Parth Thaya - EA Microsoft</a>
 * <a href="#brian"> Brian Tan - EA Philippines</a>
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney</a>
+
+
+<a name="parth"></a>
+
+# Parth Thaya - EA Microsoft
+### _Published 1st June_
+
+<img class="small_image" style="float: left" src="/img/parth.jpg" />
+
+## What first drew you to effective altruism? 
+I first came across the concept of effective altruism by reading SlateStarCodex, and it was like seeing a reflection of ideas I’d already thought for many years but had largely kept to myself. Third world poverty and factory farming were two of the biggest issues I’d felt that developed countries, both governments and citizens, were badly neglecting, despite all the low hanging fruit.  So, I was quick to embrace EA when I saw that other people had come to similar conclusions with much more rigor."
+
+## What has the community come to mean to you? 
+I credit effective altruism, almost exclusively, for turning me away from a nihilistic view of the world.  While I’ve never acted particularly nihilistically, I long held an internal view of “Everyone is terrible, including myself, because we see great suffering in the world that we could help alleviate, but we don’t.” The effective altruism community showed me another way.  It made it clear that doing more was better than doing less, and that taking care of yourself and your own life was an important step to being able to help others in the long term.  Organizations like the Life You Can Save and Giving What We Can set manageable standards for how much to donate.
+
+## What are the biggest challenges as a community organiser?
+Finding the time.  Everyone is busy and has their own priorities outside of EA, including myself.  We’ve sometimes tried to make EA more social, and we’ve had some success there, but we’re at our best when we have a goal to work towards together.  That’s when people feel like they’re giving up their time to work on something meaningful, and that they care about.
+
+## What is the best advice/resource you’ve found that you still use today? 
+That EA should be presented to people as a way to answer questions they already care about, rather than something to be proselytized.  Typical mind fallacy biases me towards thinking anyone who hears about effective altruism will instantly see it makes the most sense and is the most compassionate approach to giving.  Since this does not seem to be true universally, the best people to target are people looking for the answers that EA can give them.
+
+## What inspires you?
+That ideas that are considered fringe or weird or unusual at one point in time can become the norm later on.  And that good and correct ideas have a clear advantage over bad and incorrect ones, even if that advantage is not as big as we’d like, and the timespan for realizing the advantage could be longer than we’d like.  It’ll require active effort, but the ideas of effective altruism can, in time, hold a lot more power in shaping the world than they do today.
+
+## What is something that, in your view, is consistently underrated?
+Water chestnuts – they should be a part of way more meals than they are.
+
+
+
 
 <a name="brian"></a>
 
