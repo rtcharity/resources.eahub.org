@@ -3,7 +3,7 @@ title: Community Health
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Updated 16th March 2020_
 
@@ -172,50 +172,48 @@ This section links to guides covering interpersonal conflicts, lack of inclusive
 
 ## Guides
 
-<a target="_blank" href="https://docs.google.com/document/d/15syYkyF8I8f4VHZgbmlytIJNtcQyxBjMZm8ALVhv_Eg/edit#heading=h.6buc2o1oljpe">What to do when you discover an issue in your group</a> (CEA)
+* <a target="_blank" href="https://docs.google.com/document/d/15syYkyF8I8f4VHZgbmlytIJNtcQyxBjMZm8ALVhv_Eg/edit#heading=h.6buc2o1oljpe">What to do when you discover an issue in your group</a> (CEA)
 
-Contents of this guide:
+     Contents of this guide:
 
-* How to have sensitive conversations
-* Examples of issues that may arise
-* Organiser’s order of responsibilities
-* Issues of confidentiality
-* What to do if you witness the problem
-* What to do when you’re not sure how accurate a concern is
-* Practice Scenarios
+   * How to have sensitive conversations
+   * Examples of issues that may arise
+   * Organiser’s order of responsibilities
+   * Issues of confidentiality
+   * What to do if you witness the problem
+   * What to do when you’re not sure how accurate a concern is
+   * Practice Scenarios
 
-<a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
+* <a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
 
-Contents of this guide:
+   Contents of this guide:
 
-* Proactive steps
-* What to do if you notice a problem
-* After a problem
+   * Proactive steps
+   * What to do if you notice a problem
+   * After a problem
 
-<a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
+* <a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
 
-Contents of this guide:
+   Contents of this guide:
 
-* List of potential controversies
-* Steps to take
-* Further reading
+   * List of potential controversies
+   * Steps to take
+   * Further reading
 
-<a target="_blank" href="https://docs.google.com/document/d/1oBgTXsk-uDDQR3h1CVlH6nmNYoBP0xX_MhDgmld34jU/edit">How to deal with the death of a community member</a> (CEA)
+* <a target="_blank" href="https://docs.google.com/document/d/1oBgTXsk-uDDQR3h1CVlH6nmNYoBP0xX_MhDgmld34jU/edit">How to deal with the death of a community member</a> (CEA)
 
-EA Hub’s resource on “<a target="_blank" href="/learn/life/">Sustaining an EA Lifestyle</a>”, which includes sections on 
+* EA Hub’s resource on “<a target="_blank" href="/learn/life/">Sustaining an EA Lifestyle</a>”, which includes sections on 
 
-* Self care 
-* Mental Health
-* Value Drift
-* Productivity
+   * Self care 
+   * Mental Health
+   * Value Drift
+   * Productivity
 
 ## What to do when you are involved in a bad situation
 
 As a group organiser, you may be directly involved in a situation where someone behaves inappropriately towards you or towards another group member. Remember that you are never obligated to confront the person yourself - you can ask another member of the group to talk to the person in question on your behalf. Also, remember that you can not only seek advice from your co-organisers but from the Community Health team: Julia Wise and Sky Mayhew. They are people you can come to with concerns about problems you’ve noticed or experienced in the EA community. The best way to contact them is through email: <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. You can also contact <a target="_blank" href="https://goo.gl/forms/oqiYRuynO37oOtYv1">Julia anonymously</a>.
 
-If the person who behaved inappropriately did so towards another member of your group, you may wish to talk to the person in question yourself, in your role as “group organiser”. You can explain why what the person did was inappropriate in the context of the situation and how it might prevent others from feeling welcome or creating a safe environment. Focus on the general norm that they have broken rather than the specific situation, if possible. 
-
-You may wish to have a co-organiser or member of the Community Health team present to act as a mediator.
+If the person who behaved inappropriately did so towards another member of your group, you may wish to talk to the person in question yourself, in your role as “group organiser”. You can explain why what the person did was inappropriate in the context of the situation and how it might prevent others from feeling welcome or creating a safe environment. Focus on the general norm that they have broken rather than the specific situation, if possible. You may wish to have a co-organiser or member of the Community Health team present to act as a mediator.
 
 
 <hr>
