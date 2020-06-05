@@ -3,7 +3,7 @@ title: Connect and Keep Up to Date
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Updated 30th March 2020_
 
@@ -122,16 +122,22 @@ These groups are a good place to get feedback on specialized or specific career 
 
 * <a target="_blank" href="https://www.facebook.com/groups/AISafetyCareers/">AI Safety</a>
 * <a target="_blank" href="https://www.facebook.com/groups/798404410293244/">Academia</a> (general)
+* <a target="_blank" href="https://www.facebook.com/groups/EALResearchers/">Researchers</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1696670373923332/">Artists and Designers</a>
 * <a target="_blank" href="https://www.facebook.com/groups/biologistsineffectivealtruism/">Biologists</a>
 * <a target="_blank" href="https://www.facebook.com/groups/706709786095975/">Data Scientists</a>
+* <a target="_blank" href="https://www.facebook.com/groups/191773064533511">Software, Data & Technology</a>
+* <a target="_blank" href="https://www.facebook.com/groups/188495418737848/">Engineering</a>
 * <a target="_blank" href="https://www.facebook.com/groups/economicsofdoinggood/">Economics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/ea.entrepreneurship/">Entrepreneurs</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1067597556684941/">Operations</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1275690949170991/">Psychologists</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1095037267174400/">Education</a>
-* <a target="_blank" href="https://www.facebook.com/groups/191773064533511/">Tech</a>
 * <a target="_blank" href="https://www.facebook.com/groups/872637816229205/">Management Consultants</a>
+* <a target="_blank" href="https://www.facebook.com/groups/355817418404233/">Policy and Politics (careers)</a>
+* <a target="_blank" href="https://www.facebook.com/groups/MarketingEAinLondon">Marketing & Communications</a>
+* <a target="_blank" href="https://www.facebook.com/groups/effectivemedia">Media & Journalism</a>
+* <a target="_blank" href="https://www.facebook.com/groups/1696670373923332">Art & Design</a>
 
 ## Affiliations and Identities
 
