@@ -70,13 +70,13 @@ This has an advantage over simply donating if you believe a donation of $100,000
 
 <a name ="donatingefficiently"></a>
 
-# Advice on donating efficiently
+# Advice on Donating Efficiently
 
 ## Giving Tuesday
 
 * Donors wishing to donate to US registered charities may wish to utilise Facebook's donation matching campaign "Giving Tuesday". Each year on a Tuesday in late November or early December Facebook will match donations made through Facebook to registered charities until their matching funds are exhausted. The funds usually run out in seconds, and while some other countries are eligible, few donors from outside of US manages to get their donations matched. More information is on the EA Giving Tuesday <a target="_blank" href="https://www.eagivingtuesday.org/">website</a> and <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">facebook group</a>. 
 
-## Tax information
+## Tax Information
 
 * <a target="_blank" href="https://donationswap.eahub.org/charities/">Table of EA-recommended charities and tax-deductible status by country</a>. This table also includes a tax-efficient way of donating to each charity from each country. Remember that charities vary a huge amount in how cost-effective they are. If you get a 30% tax credit for donating, it is better to donate to a charity you think is best, rather than donating 30% more to a tax deductible charity, if you believe the best charity is more than 30% more cost-effective than the tax-deductible charity.  
 * If your chosen charity isn’t tax deductible in your country you can apply to <a target="_blank" href="http://donationswap.eahub.org">swap your donations with an international donor</a>.  If you are in a country with a large number of tax-deductible EA charities (e.g. UK, US, Canada, Netherlands, Germany, Switzerland), you may wish to use the <a target="_blank" href="http://donationswap.eahub.org">donation swap system</a> to help other donors get tax deductions.
