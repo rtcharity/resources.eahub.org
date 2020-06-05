@@ -83,8 +83,21 @@ This has an advantage over simply donating if you believe a donation of $100,000
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/tNfDWLzBMi9HnoTkE/uk-income-tax-and-donations">Understanding tax for UK donors</a>. 
 * <a target="_blank" href="https://www.benkuhn.net/giving-101#be-aware-of-how-taxes-work">Guide to tax for US donors</a>.  Note: the standard deduction has increased since this article was written. Find the current standard deduction <a target="_blank" href="https://www.irs.gov/help/ita/how-much-is-my-standard-deduction">here</a>.  
 
+
+### Donation Funneling Organisations
+
+There are several EA organisations worldwide that can ‘funnel’ tax-deductible donations through to effective charities and EA organisations in other parts of the world.
+
+* <a target="_blank" href="https://effektiveraltruismus.de/donate/">Effective Altruism Foundation</a> - Germany and Switzerland (cause-neutral). 
+* <a target="_blank" href="https://effectivealtruism.org.au/donate/">Effective Altruism Australia</a> - Australia (restricted to effective global health and poverty charities)
+* <a target="_blank" href="https://effectivealtruism.nz/donate/">Effective Altruism New Zealand</a> - New Zealand (restricted to effective global health and poverty charities)
+* <a target="_blank" href="https://effektivaltruisme.no/ea-giverportal">EA Norway - Norway</a> (restricted to effective global health and poverty charities, plus some EA Funds)
+* <a target="_blank" href="https://rcforward.org/">RC Forward</a> - Canada (cause-neutral)
+* <a target="_blank" href="https://app.effectivealtruism.org/donations/new/organizations">Center for Effective Altruism</a> -  US and UK (cause-neutral)
+
 ## Reasons not to donate now
 
+* 80,000 Hours <a target="_blank" href="https://80000hours.org/articles/should-you-wait/">outlines the arguments for giving now and giving later</a>.
 * If you’re early in your career, you may want to consider <a target="_blank" href="https://forum.effectivealtruism.org/posts/3ijnLaws7mCEogD6H/earning-to-save-give-1-save-10">earning to save</a> rather than donating immediately.
 * Paul Christiano discusses the reasons for and against <a target="_blank" href="https://rationalaltruist.com/2013/03/12/giving-now-vs-later/">giving now and giving later</a>.
 * Economist Eva Vivalt discusses why <a target="_blank" href="https://evavivalt.com/2019/07/give-later">she now favours giving later</a>. 
