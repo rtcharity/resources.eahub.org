@@ -3,7 +3,7 @@ title: About Effective Altruism
 weight: 1
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### *Published 25th September 2019*
 
@@ -96,7 +96,7 @@ If you like doing online courses, try <a target="_blank" href="https://www.cours
 <a name="podcasts"></a>
 ## Podcasts or Videos
 
-Is listening your preferred way of intaking info?
+Is listening your preferred way of taking in info?
 
 <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/"><p class="large_image_wrapper"> <img src="/img/dgbpodcast.png" />
 
@@ -113,7 +113,7 @@ The <a target="_blank" href="https://podcast.effectivealtruism.org/episodes/">â€
 
 In the <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a>, Rob Wiblin interviews experts from a range of fields about how best to tackle many of the world's most pressing problems. These podcasts range from 1 to 3 hours long, and can get very in-depth, so start by choosing episodes on topics you are most interested in.
 
-Or, if you are looking for videos, see <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">this collection</a> of videos from various organisations.
+Or, if you are looking for videos, see <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">this collection of videos</a> from various organisations.
 
 <a name="careers"></a>
 ## Careers
@@ -123,7 +123,7 @@ Or, if you are looking for videos, see <a target="_blank" href="https://forum.ef
 </p>
 </a>
 
-80,000 Hours explains <a target="_blank" href="https://80000hours.org/key-ideas/">their key ideas</a>  about how to have a large impact in your career. This article contains plenty of links to help you direct more in-depth thinking.
+80,000 Hours explains <a target="_blank" href="https://80000hours.org/key-ideas/">their key ideas</a>  about how to have a large impact in your career. This article contains plenty of links to help you think more deeply on this topic.
 
 <a name="critofea"></a>
 ## Criticisms of Effective Altruism
