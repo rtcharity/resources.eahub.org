@@ -54,7 +54,13 @@ Another option is to give your money to a philanthropic fund managed by experts.
 
 <a target="_blank" href="https://app.effectivealtruism.org/funds"><img class="small_image_block" src="/img/eafunds.png" /></a> <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Meta</a>. <br>
 
-<a target="_blank" href="https://ea-foundation.org/"><img class="small_image_block" src="/img/eaflogo.png" /></a> The <a target="_blank" href="https://ea-foundation.org/">EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund</a> dedicated to supporting research and policy efforts to prevent technological risks facing our civilization.  <br>
+<a target="_blank" href="/"><img class="small_image_block" src="/img/center_long_term_risk.png" /></a> 
+
+### <a target="_blank" href="https://longtermrisk.org/grantmaking/">Center on Long-Term Risk Fund</a> (CLR Fund)
+The CLR Fund’s mission is to support research and policy efforts to prevent technological risks facing our civilization. The priority areas are decision theory and bargaining, specific AI alignment approaches, fail-safe architectures, macrostrategy research, AI governance, as well as social science research on conflicts and moral circle expansion.
+
+
+The EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund</a> dedicated to supporting research and policy efforts to prevent technological risks facing our civilization.  <br>
 
 ## Donor Lotteries
 
@@ -64,21 +70,34 @@ This has an advantage over simply donating if you believe a donation of $100,000
 
 <a name ="donatingefficiently"></a>
 
-# Advice on donating efficiently
+# Advice on Donating Efficiently
 
 ## Giving Tuesday
 
 * Donors wishing to donate to US registered charities may wish to utilise Facebook's donation matching campaign "Giving Tuesday". Each year on a Tuesday in late November or early December Facebook will match donations made through Facebook to registered charities until their matching funds are exhausted. The funds usually run out in seconds, and while some other countries are eligible, few donors from outside of US manages to get their donations matched. More information is on the EA Giving Tuesday <a target="_blank" href="https://www.eagivingtuesday.org/">website</a> and <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">facebook group</a>. 
 
-## Tax information
+## Tax Information
 
 * <a target="_blank" href="https://donationswap.eahub.org/charities/">Table of EA-recommended charities and tax-deductible status by country</a>. This table also includes a tax-efficient way of donating to each charity from each country. Remember that charities vary a huge amount in how cost-effective they are. If you get a 30% tax credit for donating, it is better to donate to a charity you think is best, rather than donating 30% more to a tax deductible charity, if you believe the best charity is more than 30% more cost-effective than the tax-deductible charity.  
 * If your chosen charity isn’t tax deductible in your country you can apply to <a target="_blank" href="http://donationswap.eahub.org">swap your donations with an international donor</a>.  If you are in a country with a large number of tax-deductible EA charities (e.g. UK, US, Canada, Netherlands, Germany, Switzerland), you may wish to use the <a target="_blank" href="http://donationswap.eahub.org">donation swap system</a> to help other donors get tax deductions.
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/tNfDWLzBMi9HnoTkE/uk-income-tax-and-donations">Understanding tax for UK donors</a>. 
 * <a target="_blank" href="https://www.benkuhn.net/giving-101#be-aware-of-how-taxes-work">Guide to tax for US donors</a>.  Note: the standard deduction has increased since this article was written. Find the current standard deduction <a target="_blank" href="https://www.irs.gov/help/ita/how-much-is-my-standard-deduction">here</a>.  
 
+
+### Donation Funneling Organisations
+
+There are several EA organisations worldwide that can ‘funnel’ tax-deductible donations through to effective charities and EA organisations in other parts of the world.
+
+* <a target="_blank" href="https://effektiveraltruismus.de/donate/">Effective Altruism Foundation</a> - Germany and Switzerland (cause-neutral). 
+* <a target="_blank" href="https://effectivealtruism.org.au/donate/">Effective Altruism Australia</a> - Australia (restricted to effective global health and poverty charities)
+* <a target="_blank" href="https://effectivealtruism.nz/donate/">Effective Altruism New Zealand</a> - New Zealand (restricted to effective global health and poverty charities)
+* <a target="_blank" href="https://effektivaltruisme.no/ea-giverportal">EA Norway - Norway</a> (restricted to effective global health and poverty charities, plus some EA Funds)
+* <a target="_blank" href="https://rcforward.org/">RC Forward</a> - Canada (cause-neutral)
+* <a target="_blank" href="https://app.effectivealtruism.org/donations/new/organizations">Center for Effective Altruism</a> -  US and UK (cause-neutral)
+
 ## Reasons not to donate now
 
+* 80,000 Hours <a target="_blank" href="https://80000hours.org/articles/should-you-wait/">outlines the arguments for giving now and giving later</a>.
 * If you’re early in your career, you may want to consider <a target="_blank" href="https://forum.effectivealtruism.org/posts/3ijnLaws7mCEogD6H/earning-to-save-give-1-save-10">earning to save</a> rather than donating immediately.
 * Paul Christiano discusses the reasons for and against <a target="_blank" href="https://rationalaltruist.com/2013/03/12/giving-now-vs-later/">giving now and giving later</a>.
 * Economist Eva Vivalt discusses why <a target="_blank" href="https://evavivalt.com/2019/07/give-later">she now favours giving later</a>. 
