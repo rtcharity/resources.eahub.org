@@ -20,7 +20,7 @@ This section provides resources for an introduction to effective giving, stories
 
 # How Rich Are You?
 
-Even if it seems like you have relatively little to give, you may be richer than you think. Try this <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">online calculator</a> from <a target="_blank" href="https://www.givingwhatwecan.org/">Giving What We Can</a>, to see where you fall on the world income scale and to see what you would achieve with your donation. 
+Even if it seems like you have relatively little to give, you may be richer than you think. Try this <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">online calculator</a> from <a target="_blank" href="https://www.givingwhatwecan.org/">Giving What We Can</a>, to see where you fall on the world income scale and to see what you would achieve with your donation if you chose to direct your donation to a few specific charities. 
 
 For example, if an average wage earner in the UK was to donate 10% of their income, their donations could fund:
 
@@ -35,6 +35,9 @@ To learn more about the importance of effective giving, see REG’s introductory
 # Choosing Where to Give
 
 Finding an organisation to donate to can be challenging. Thankfully, there are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
+
+## Strategies for choosing where to give
+80,000 Hours has a <a target="_blank" href="https://80000hours.org/articles/best-charity/">step-by-step guide</a> to choosing where to give, based on your preferences, current knowledge, and the time you have available.
 
 ## Charity Evaluators
 
