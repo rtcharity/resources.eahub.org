@@ -54,7 +54,13 @@ Another option is to give your money to a philanthropic fund managed by experts.
 
 <a target="_blank" href="https://app.effectivealtruism.org/funds"><img class="small_image_block" src="/img/eafunds.png" /></a> <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Meta</a>. <br>
 
-<a target="_blank" href="https://ea-foundation.org/"><img class="small_image_block" src="/img/eaflogo.png" /></a> The <a target="_blank" href="https://ea-foundation.org/">EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund</a> dedicated to supporting research and policy efforts to prevent technological risks facing our civilization.  <br>
+<a target="_blank" href="/"><img class="small_image_block" src="/img/center_long_term_risk.png" /></a> 
+
+### <a target="_blank" href="https://longtermrisk.org/grantmaking/">Center on Long-Term Risk Fund</a> (CLR Fund)
+The CLR Fund’s mission is to support research and policy efforts to prevent technological risks facing our civilization. The priority areas are decision theory and bargaining, specific AI alignment approaches, fail-safe architectures, macrostrategy research, AI governance, as well as social science research on conflicts and moral circle expansion.
+
+
+The EA Foundation</a> has a <a target="_blank" href="https://ea-foundation.org/grantmaking/">fund</a> dedicated to supporting research and policy efforts to prevent technological risks facing our civilization.  <br>
 
 ## Donor Lotteries
 
