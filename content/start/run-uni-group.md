@@ -1,9 +1,9 @@
 ---
-title: 'What is Involved in Running a Group? (Uni Groups) '
+title: "What is Involved in Running a Group? (Uni Groups) "
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### *Published 18th September 2019*
 
@@ -88,7 +88,7 @@ A fellowship might be a good way of starting a group if your group organisers:
 
 Fellowships are usually advertised as prestigious and selective, and often require a high level of commitment from participants. Therefore, it is important that you only commit to running a fellowship if you are confident you can organise it reliably and meet participants’ expectations throughout its duration.
 
-You can review a guide to running an EA fellowship, <a target="_blank" href="/events/fellowships/">here</a>.
+See also our <a target="_blank" href="/events/fellowships/">guide to running an EA fellowship</a>.
 
 *EA University of Houston successfully started their group with a fellowship.* 
 
@@ -179,11 +179,11 @@ Once you’ve decided to run a group (with or without co-organisers), it is a go
 <a name="finalyear"></a>
 # Your Final Year of University
 
-About 40% of groups believe that their group is more likely than not to stop running after the current organisers leave (not-yet-published 2019 Local Group Survey). This indicates that recruiting new organisers is a common problem for groups. 
+About 40% of groups believe that their group is more likely than not to stop running after the current organisers leave (<a target="_blank" href="https://www.rethinkpriorities.org/blog/2019/11/18/local-ea-group-organizers-survey-2019">2019 Local Group Survey</a>). This indicates that recruiting new organisers is a common problem for groups. 
 
 Some groups take several years before they are firmly established. You should consider whether you’ll be around for long enough to guide your group to maturity and whether you have a competent successor who can take things over when you leave. It’s very common for groups to go defunct when skilled organisers graduate, so if you will be graduating soon, focus on recruiting younger students and pick out and train future organisers as early as you can. This could even be your most important task as a group organiser. 
 
-More information on preparing to hand over leadership can be found <a target="_blank" href="/tips/handover">here</a>. 
+Learn more about preparing to <a target="_blank" href="/tips/handover">hand over leadership</a>. 
 
 <hr>
 
