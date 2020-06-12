@@ -39,7 +39,7 @@ Possible goals your group could have include:
 
 If there are quite a few people at your university who are already interested in EA, it might be better to focus on supporting these people. If effective altruism is relatively unknown, it might be more important to focus on outreach to new people.
 
-Different groups have very different goals, but the most common goals of EA groups are assisting EAs to adopt effective career paths, recruiting new people to EA, and fostering a  welcoming community (from the not-yet-published Local Group Survey 2019), as shown below.
+Different groups have very different goals, but the most common goals of EA groups are assisting EAs to adopt effective career paths, recruiting new people to EA, and fostering a  welcoming community (from the <a target="_blank" href="https://www.rethinkpriorities.org/blog/2019/11/18/local-ea-group-organizers-survey-2019">Local Group Survey 2019</a>), as shown below.
 
 <a href="/img/localgroupfocus.png">
 <p class="xl_image_wrapper">
