@@ -63,6 +63,10 @@
     <div class="main">
         {{ block "siteMenu" . }}{{ partial "site-menu.html" .}}{{ end }}
         <main class="content" role="main">
+          {{ if in .Permalink "elated" }}
+            {{ .Permalink }}
+            {{ .Site.Params.publicURL }}
+          {{ else }}
           {{ block "main" . }}{{ end }}
         </main>
       </span>
