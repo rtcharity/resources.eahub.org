@@ -66,7 +66,7 @@
           {{ if in .Permalink "elated" }}
             {{ .Permalink }}
             {{ .Site.Params.publicURL }}
-          {{ else }}
+          {{ end }}
           {{ block "main" . }}{{ end }}
         </main>
       </span>
