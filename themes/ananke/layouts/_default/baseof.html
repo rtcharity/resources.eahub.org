@@ -63,15 +63,11 @@
     <div class="main">
         {{ block "siteMenu" . }}{{ partial "site-menu.html" .}}{{ end }}
         <main class="content" role="main">
-          {{ if in .Permalink "elated" }}
-            {{ .Permalink }}
-            {{ .Site.Params.publicURL }}
-          {{ end }}
-          {{ block "main" . }}{{ end }}
         </main>
       </span>
     </div>
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+    {{ .Permalink }}
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
   </body>
 </html>
