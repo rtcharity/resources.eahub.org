@@ -12,12 +12,6 @@
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     {{ .Hugo.Generator }}
-    {{ if in .Permalink .Site.Params.publicURL }}
-      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-    {{ else }}
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-    {{ end }}
-
 
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
     {{ with $stylesheet.css }}
@@ -63,6 +57,7 @@
     <div class="main">
         {{ block "siteMenu" . }}{{ partial "site-menu.html" .}}{{ end }}
         <main class="content" role="main">
+          {{ block "main" . }}{{ end }}
         </main>
       </span>
     </div>
@@ -72,3 +67,13 @@
 </html>
 
 <script src="/js/site-menu.js"></script>
+<script>
+  var meta = document.createElement("meta");
+  meta.name = "ROBOTS";
+  if (window.location.href.indexOf("resources.eahub.org") > -1) {
+    meta.content = "INDEX, FOLLOW";
+  } else {
+    meta.content = "NOINDEX, NOFOLLOW"
+  }
+  document.getElementsByTagName('head')[0].appendChild(meta);
+</script>
