@@ -13,7 +13,7 @@ license:
 
 _Image: EA Sydney_
 
-# Chapters
+# Contents
 * <a href="#goals">Goals</a>
 * <a href="#whostartcitygroup">Who Should Start a City Group</a>
 * <a href="#time">Time</a>
