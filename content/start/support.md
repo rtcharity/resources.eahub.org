@@ -13,7 +13,7 @@ Once you have decided you want to start a group, contact the <a target="_blank" 
 
 
 # Groups Newsletter
-CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>.
+CEA and EA London send out a monthly EA Groups newsletter. You can <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">sign up for the newsletter</a>, and <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">read some of the previous group newsletters</a>.
 
 
 You can also check out the <a target="_blank" href="/tips/support/">Groups Support Page</a> for other people to contact if you need support for particular topics such as running introductory presentations, issues within the group, or running fellowships. 
