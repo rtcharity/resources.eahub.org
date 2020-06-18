@@ -17,6 +17,7 @@ license:
 * <a href="#regwithuni">Register with Your University and Utilise Available Resources</a>
 * <a href="#findresources">Find Resources</a>
 * <a href="#website">Optional: Get a Website and an EA Email Address</a>
+* <a href="#funding">Optional: Apply for funding</a>
 
 <a name ="guidanceCEA"></a>
 # Guidance from the Centre for Effective Altruism (CEA)
@@ -96,6 +97,7 @@ LEAN can also provide email addresses for your group (e.g. info@eamadison.org), 
 
 Contact the LEAN team at <a target="_blank" href="mailto:lean@eahub.org">lean@eahub.org</a> if you are interested in getting websites or email addresses. 
 
+<a name ="funding"></a>
 # Optional: Apply for Funding
 If your group is a registered uni group, you can apply for funding through your Student Association. For funding city groups, or if your uni group needs additional funding, you can apply to CEA. <a target="_blank" href="https://app.effectivealtruism.org/groups/resources/mentorship-and-funding/">Group funding</a> can be used for printing, running events, supplying food at events, travel expenses for speakers, and group projects. CEA also funds Community Building Grants to allow some people to work part or full time on effective altruism community building.
 
