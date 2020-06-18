@@ -3,7 +3,7 @@ title: What is Involved in Running a Group? (City Groups)
 weight: 3
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 20th September 2019_
 
@@ -33,8 +33,6 @@ Possible goals your group could have include:
 * Creating a warm, tight-knit community to support members in their efforts to do good
 
 If there are a few people in your city who are already interested in EA, it might be better to focus on supporting these people. If not, it might be more important to focus on outreach to new people at first.
-
-Your goals will determine the types of events and activities you should run. Once you have other members of the group, their priorities can be incorporated and could shift your plan.
 
 Your goals will determine the types of events and activities you should run. Once you have other members of the group, their priorities can be incorporated and could shift your plan.
 
