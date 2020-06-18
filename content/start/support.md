@@ -65,7 +65,7 @@ LEAN can host and help create a website for your group.
 LEAN can register a domain for your group (e.g. eamadison.org) and you can use LEAN’s website generator to make a nearly complete website, which you can modify. Check out <a target="_blank" href="http://www.eamadison.org/">EA Madison’s site</a> for an example of how the website could look:
 
 <p class="large_image_wrapper">
-<img src="/img/eamadison.png" />
+<a href="/img/eamadison.png"><img src="/img/eamadison.png" /></a>
 </p>
 
 
