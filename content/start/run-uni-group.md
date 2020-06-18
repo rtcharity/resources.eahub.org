@@ -33,7 +33,7 @@ There are a number of different types of uni groups. To work out what type of gr
 
 Possible goals your group could have include:
 
-* Introducing new people to the ideas of effective altruism
+* Introducing  new people to the ideas of effective altruism
 * Giving existing EAs the advice and resources they need to become more effective
 * Creating a warm, tight-knit community to support members in their efforts to do good
 
