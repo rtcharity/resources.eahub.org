@@ -26,6 +26,16 @@ In-person meetups with like-minded people can be very enjoyable, <a target="_bla
 
 Check out the <a target="_blank" href="http://eahub.org/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
 
+<a name="onlineevents"></a>
+
+# Online Events
+
+* The <a target="_blank" href="https://calendar.google.com/calendar/embed?src=ie5uop71imftf4ut2htbv789v8@group.calendar.google.com">international EA events calendar</a>, curated by several community members, lists high-quality speaker events and large social events suitable for anyone interested in EA. To add an event, fill out this form. If you notice an error in the calendar please email vaidehiagarwalla@gmail.com.
+* For a wider range of online events, check out the EA online events Facebook group.
+* Special interest events are being run by some groups based on interest areas, affiliations, or professions.
+* Join your nearest local EA group to attend events they may be running.
+
+
 <a name="websites"></a>
 
 # Websites
