@@ -12,7 +12,7 @@ This page has links to newsletters, fora, Facebook groups, podcasts and other wa
 # Contents
 
 * <a href="#localgroups">Local Groups</a>
-* <a href="#websites">Websites</a>
+* <a href="#eahub">EA Hub</a>
 * <a href="#eaforum">EA Forum</a>
 * <a href="#conferences">Conferences</a>
 * <a href="#newsletters">Newsletters</a>
@@ -26,9 +26,19 @@ In-person meetups with like-minded people can be very enjoyable, <a target="_bla
 
 Check out the <a target="_blank" href="http://eahub.org/groups/">EA Hub Groups List</a> to see if there is a local EA group near you.
 
-<a name="websites"></a>
+<a name="onlineevents"></a>
 
-# Websites
+# Online Events
+
+* The <a target="_blank" href="https://calendar.google.com/calendar/embed?src=ie5uop71imftf4ut2htbv789v8@group.calendar.google.com">international EA events calendar</a>, curated by several community members, lists high-quality speaker events and large social events suitable for anyone interested in EA. <a target="_blank" href="https://forms.gle/cLHxZ4QY2hjLEYnu8">To add an event, fill out this form</a>. If you notice an error in the calendar please email [vaidehiagarwalla@gmail.com](mailto:vaidehiagarwalla@gmail.com).
+* For a wider range of online events, check out the <a target="_blank" href="https://www.facebook.com/groups/EAOnlineEvents/">EA online events Facebook group</a>.
+* Special interest events are being run by some <a href="#onlinegroups">groups based on interest areas, affiliations, or professions.</a>
+* Join your <a target="_blank" href="http://eahub.org/groups/">nearest local EA group</a> to attend events they may be running.
+
+
+<a name="eahub"></a>
+
+# EA Hub
 Add your details to the <a target="_blank" href="https://eahub.org/profiles/">map of EAs on the EA hub</a>, and check out other profiles from around the world.
 
 <a name="eaforum"></a>
@@ -53,8 +63,6 @@ You can also sign up for the newsletters of the different <a target="_blank" hre
 The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
 <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
-
-<a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> Ariel Conn from FLI in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. Find a complete list of episodes above.
 
 The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
 
