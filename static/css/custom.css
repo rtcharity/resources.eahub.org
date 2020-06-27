@@ -213,7 +213,6 @@ a:hover {
   background-color: #512B52;
   color: #fff;
   padding: 10px;
-  float: right;
 }
 .footer a{
   color: #fff;
@@ -582,7 +581,6 @@ h3 {
 .site-menu {
   max-height: calc(100vh - 9rem);
   overflow-y: auto;
-  position: fixed;
   padding-top: 10px;
   padding-left: 10px;
 }
@@ -854,8 +852,6 @@ h3 {
 
   .content {
     width: 100%;
-    min-height: 100%;
-    position: relative;
   }
 
   .site-menu-desktop {
