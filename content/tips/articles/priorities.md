@@ -38,12 +38,11 @@ Priorities could be:
 * Develop an overarching group strategy and object level goals to achieve in a given time frame.
 * Develop infrastructure to help maintain the group’s current level of activity, this can involve developing more <a target="_blank" href="/tips/articles/committee/">formalised group roles</a>.
 * Have a <a target="_blank" href="/tips/handover">robust handover process</a> if the current organisers may leave.
-* Hold a variety of activities that might work to increase engagement in <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">all parts of the funnel model of engagement</a> in EA. This includes:
-
-    * Moving people from “audience” to “followers” in the funnel model. This involves outreach to people who haven’t heard of EA before.
-    * Moving people from “followers” to “participants”. This could involve holding events that help new people become more knowledgeable about EA.
-    * Moving people from “participants” to “contributors” by providing support for people to conduct projects, volunteer, attend conferences, or make significant commitments.  
-    * Moving people from “contributors” to “core” by assisting people with their career plans.
+* Hold a variety of activities that might work to increase engagement in <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">all parts of the funnel model of engagement</a> in EA. This includes:
+   * Moving people from “audience” to “followers” in the funnel model. This involves outreach to people who haven’t heard of EA before.
+   * Moving people from “followers” to “participants”. This could involve holding events that help new people become more knowledgeable about EA.
+   * Moving people from “participants” to “contributors” by providing support for people to conduct projects, volunteer, attend conferences, or make significant commitments.
+   * Moving people from “contributors” to “core” by assisting people with their career plans.
 
 
 ## Large
