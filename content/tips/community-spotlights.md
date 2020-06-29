@@ -29,7 +29,7 @@ This page features different groups and community organisers around the world.
 
 I first discovered EA in high school. I am not sure exactly how I found it but I ended up watching <a target="_blank" href="https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en">Peter Singer’s TED talk</a> and was hooked. I have a super vivid memory of making my first donation to AMF right after watching. It was only $8 but I felt like I was doing real impactful good for the first time. 
 
-However, it wasn’t until joining Yale EA that I really identified with the movement and community. I found the people in YEA to be some of the most intelligent, inspiring, and caring people I had ever met and I am so lucky to have had them as peers and now as friends. They helped me to challenge my prior beliefs and orient my life towards my values. 
+However, it wasn’t until joining Yale EA that I really identified with the movement and community. I found the people in Yale EA to be some of the most intelligent, inspiring, and caring people I had ever met and I am so lucky to have had them as peers and now as friends. They helped me to challenge my prior beliefs and orient my life towards my values. 
 
 
 ## What is the best advice/resource you've found that you still use today?
