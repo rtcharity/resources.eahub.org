@@ -3,7 +3,7 @@ title: Priorities
 date: 2019-09-22T10:01:28.904Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 22nd September 2019_
 
@@ -17,11 +17,11 @@ The following is a suggested method of prioritising tasks, but is by no means fi
 
 ## Small/New
 
-Characteristics: Approximately 1-2 group organisers and <10 regular group members.
+Characteristics: Approximately 1-2 group organisers and <10 regular group members.
 
 Priorities could be:
 
-* Making a positive, healthy community people want to be a part of
+* Making a positive, healthy community people want to be a part of.
 * Creating and maintaining relationships with the EA community and those offering <a target="_blank" href="/tips/support/">group support</a>. 
 * Find co-organisers (Check out some tips for <a target="_blank" href="/start/run-city-group#coorganiser/">City Groups</a> and <a target="_blank" href="/start/run-uni-group#coorganiser/">Uni Groups</a>)
 * If the current organisers may leave (e.g. Uni groups), find successors to ensure the group continues. Create a <a target="_blank" href="/tips/handover/">preliminary handover process</a>.
@@ -30,19 +30,19 @@ Priorities could be:
 ## Medium Sized
 Medium sized groups have the ability to maintain or grow, but many are at risk of losing this capacity and contracting unless they develop failsafes and infrastructure to prevent this from happening. 
 
-Characteristics: Approximately 3-5 group organisers, and 10-20 regular group members.
+Characteristics: Approximately 3-5 group organisers, and 10-20 regular group members.
 
 Priorities could be:
 
-* Make valuable connections between people in the group and the broader EA community
-* Develop an overarching group strategy and object level goals to achieve in a given time frame
-* Develop infrastructure to help maintain the group’s current level of activity, this can involve developing more <a target="_blank" href="/tips/articles/committee/">formalised group roles</a>
-* Have a <a target="_blank" href="/tips/handover">robust handover process</a> if the current organisers may leave
+* Make valuable connections between people in the group and the broader EA community.
+* Develop an overarching group strategy and object level goals to achieve in a given time frame.
+* Develop infrastructure to help maintain the group’s current level of activity, this can involve developing more <a target="_blank" href="/tips/articles/committee/">formalised group roles</a>.
+* Have a <a target="_blank" href="/tips/handover">robust handover process</a> if the current organisers may leave.
 * Hold a variety of activities that might work to increase engagement in <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">all parts of the funnel model of engagement</a> in EA. This includes:
 
-    * Moving people from “audience” to “followers” in the funnel model. This involves outreach to people who haven’t heard of EA before
-    * Moving people from “followers” to “participants”. This could involve holding events that help new people become more knowledgeable about EA
-    * Moving people from “participants” to “contributors” by providing support for people to conduct projects, volunteer, attend conferences, or make significant commitments  
+    * Moving people from “audience” to “followers” in the funnel model. This involves outreach to people who haven’t heard of EA before.
+    * Moving people from “followers” to “participants”. This could involve holding events that help new people become more knowledgeable about EA.
+    * Moving people from “participants” to “contributors” by providing support for people to conduct projects, volunteer, attend conferences, or make significant commitments.  
     * Moving people from “contributors” to “core” by assisting people with their career plans.
 
 
@@ -53,10 +53,10 @@ Characteristics: Usually more than 5 organisers who invest substantial time int
 
 Priorities could be:
 
-* Maintaining all the priorities listed under a medium sized group
-* Attracting new members who might be particularly valuable to the EA community 
-* Providing resources to support new EA projects
-* Organising showpiece events with high-profile speakers 
+* Maintaining all the priorities listed under a medium sized group.
+* Attracting new members who might be particularly valuable to the EA community. 
+* Providing resources to support new EA projects.
+* Organising showpiece events with high-profile speakers. 
 * Maintaining an excellent brand-presence (e.g. social media, website).
 
 
