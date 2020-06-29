@@ -11,11 +11,43 @@ This page features different groups and community organisers around the world.
 
 # Contents
 
+* <a href="#jessica"> Jessica McCurdy - Yale </a>
 * <a href="#parth"> Parth Thaya - EA Microsoft</a>
 * <a href="#brian"> Brian Tan - EA Philippines</a>
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney</a>
+
+<a name="jessica"></a>
+
+# Jessica McCurdy - Yale EA
+### _Published 29th June_
+
+<img class="small_image" style="float: left" src="/img/jessica.jpg" />
+
+## What first drew you to effective altruism? 
+
+I first discovered EA in high school. I am not sure exactly how I found it but I ended up watching <a target="_blank" href="https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en">Peter Singer’s TED talk</a> and was hooked. I have a super vivid memory of making my first donation to AMF right after watching. It was only $8 but I felt like I was doing real impactful good for the first time. 
+
+However, it wasn’t until joining Yale EA that I really identified with the movement and community. I found the people in YEA to be some of the most intelligent, inspiring, and caring people I had ever met and I am so lucky to have had them as peers and now as friends. They helped me to challenge my prior beliefs and orient my life towards my values. 
+
+
+## What is the best advice/resource you've found that you still use today?
+
+
+I find the <a target="_blank" href="https://resources.eahub.org/">EA Hub</a> to be incredible. I wish it existed when I first started organizing. I spent so much time reinventing the wheel back then coming up with syllabi, discussion questions, and reading recommendations. Nowadays, I regularly use the EA Hub to find all of these things and more. I especially love the reading lists and like to send them to people after having 1-1s.
+
+As for advice, the most poignant to me is Alex Barry convincing me three years ago that Yale EA needed handover documents. He was completely right and they have made the group so much better and more sustainable. 
+
+## What could EA communities do better?
+
+I think EA could still do a lot more to create a welcoming environment that encourages diversity. I have been really happy to see more conversations on this in the past few years but I still think we have a very long way to go. I have met an upsetting number of incredibly talented and passionate people who were turned off from EA because they did not feel welcome. Something I hear is that they felt like people in EA were not interested in hearing their views or were set in certain convictions. This just seems so counter to what EA is about which is constantly questioning and updating. If we truly embrace epistemic and moral uncertainty then we should be open to listening to others and welcoming their ideas. We can learn so much from people of different backgrounds and life experiences and it is important for us to be intentional about encouraging those to be heard.   
+
+
+## What one thing would you want other EA organisers to know about?         
+
+When I first started organizing I would sometimes feel intimidated to reach out to people in the community for help. I thought people would be too busy and annoyed by my reaching out. However, I have discovered that the people in the EA community are just some of the most generous and helpful people I have interacted with. We all want what is best for EA and to see groups succeed. Additionally, I learned that people genuinely like the feeling of getting to teach and mentor others. So please reach out. The worst thing that can happen is that you don’t get a response. However, the much more likely thing that will happen is that the person you reach out to will be excited to share what they have learned and that it will probably make them feel good.
+
 
 
 <a name="parth"></a>
