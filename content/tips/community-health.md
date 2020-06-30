@@ -5,51 +5,31 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 16th March 2020_
+### _Updated 30th June 2020_
 
-In order to do the most good we can, the EA community will ideally be a happy, healthy community that:
+_This page is compiled from resources written by Owen Cotton-Barratt, Julia Wise,_ <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">_CEA Community Health workshop sessions_</a>,  _and suggestions from the CEA groups and community health teams_.
 
-* fosters a stimulating atmosphere to encourage people to be ambitious and inspired
+If your group is experiencing community health issues, reach out to <a target="_blank" href="https://efctv.org/contactperson">Julia Wise and Sky Mayhew</a> from CEA’s community health team.
 
-* creates a supportive community, in which we help each other with personal struggles,
+# Contents
 
-* people enjoy being a part of. 
+* <a href="#importance">The Importance of Being Welcoming</a>
+* <a href="#welcoming">Creating Welcoming, Inclusive Groups</a>
+* <a href="#sensitive-topics">Handling Sensitive Topics</a>
+* <a href="#issues">Dealing With Issues</a>
+
+# The Importance of Being Welcoming
+
+In order to do the most good we can, the EA community needs to be a happy, healthy community that:
+
+* fosters a stimulating atmosphere to encourage people to be ambitious and inspired,
+
+* creates a supportive community, in which we help each other with personal struggles, and people enjoy being a part of. 
 
 _“Collaborative Spirit”_ is one of the <a target="_blank" href="https://www.centreforeffectivealtruism.org/ceas-guiding-principles">guiding principles of effective altruism</a>:
 
 > “We affirm a commitment to building a friendly, open, and welcoming environment in which many different approaches can flourish, and in which a wide range of perspectives can be evaluated on their merits. In order to encourage cooperation and collaboration between people with widely varying circumstances and ways of thinking, we resolve to treat people of different worldviews, values, backgrounds, and identities kindly and respectfully”.
 
-These pages provide tips to help your group fulfil this principle of “Collaborative Spirit”.
-
-You can also reach out to other organisers on <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook</a>, or <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">Julia Wise</a> and <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">Sky Mayhew</a> in the Community Health team at CEA.
-
-For information on self-care as an EA, please see the page on <a target="_blank" href="/learn/life/">sustaining an EA lifestyle</a>.
-
-# Contents
-
-* <a href="#welcoming">Creating Welcoming Groups</a>
-* <a href="#sensitive-topics">Handling Sensitive Topics</a>
-* <a href="#issues">Dealing With Issues</a>
-
-<a name="welcoming"></a>
-
-# Creating Welcoming Groups
-
-This section is compiled from resources written by Owen Cotton-Barratt, Julia Wise, CEA Community Health <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">workshop sessions</a> and suggestions from the EA community.
-
-This <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> by Julia Wise of CEA outlines some of the main considerations on being welcoming, and is the first resource to read.
-
-It is also well worth watching Julia's <a target="_blank" href="https://www.youtube.com/embed/SfXJ7MUjeLg">EAGxAustralia talk</a> from 2019 on building a diverse, welcoming, and healthy community (38 minutes). 
-
-<div class="textAlignCenter">
-<iframe class="article_video"
-src="https://www.youtube.com/embed/SfXJ7MUjeLg">
-</iframe>
-</div>
-
-Below, some additional considerations are outlined. 
-
-## Why be welcoming?
 
 There are good reasons why EA groups should be welcoming and exceptionally considerate, perhaps more considerate than would normally be required by common sense morality:
 
@@ -59,15 +39,30 @@ There are good reasons why EA groups should be welcoming and exceptionally consi
 
 These articles by Owen-Cotton Barratt explain these ideas:
 
-
-* <a target="_blank" href="https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/">Why communities of do-gooders should be exceptionally considerate</a>
+* <a target="_blank" href="https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/">Why communities of do-gooders should be exceptionally considerate</a>
 * <a target="_blank" href="http://globalprioritiesproject.org/wp-content/uploads/2015/05/MovementGrowth.pdf">Awareness/Inclination Model of movements</a>, and outlines possible trajectories that movements could take. This is followed by recommendations that the EA movement put more effort into improving people’s inclination towards EA rather than increasing awareness of EA.
 
+
+<a name="welcoming"></a>
+
+# Creating Welcoming, Inclusive Groups
+
+This <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> by Julia Wise of CEA outlines some of the main considerations on being welcoming, and is the most important resource to read about how to create a welcoming group.
+
+It is also well worth watching Julia's <a target="_blank" href="https://www.youtube.com/embed/SfXJ7MUjeLg">EAGxAustralia talk</a> from 2019 on building a diverse, welcoming, and healthy community (38 minutes). 
+
+<div class="textAlignCenter">
+<iframe class="article_video"
+src="https://www.youtube.com/embed/SfXJ7MUjeLg">
+</iframe>
+</div>
+
+The rest of this section covers additional advice not already listed in Julia's guide and talk above.
+
 ## Boundaries
-For small groups, it’s best to stay open and welcoming to all, but as groups grow, organisers might eventually need to run some events with a more selective guest list in order for the events to be more successful. The best strategy is to consider the purpose of each event and  and the people who would be best-suited to this purpose, before advertising with with care to avoid the impression of excluding people.
+For small groups, it’s best to stay open and welcoming to all, but as groups grow, organisers might eventually need to run some events with a more selective guest list in order for the events to be more successful. The best strategy is to consider the purpose of each event and the people who would be best-suited to this purpose, before advertising with care to avoid the impression of excluding people.
 
-
-You’ll find more information about choosing a purpose <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit#heading=h.8f6mv3vsjg9t">here</a>, and in <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes on “The Art of Gathering”</a>, which also include tips for working out who to invite. 
+You’ll find more information about choosing a purpose <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit#heading=h.8f6mv3vsjg9t">here</a>, and in <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes on “The Art of Gathering”</a>, which also include tips for working out who to invite. 
 
 If you want an event for a subgroup of the community, you can: send personal invites to members; make a public event but with a sign-up to indicate interest and provide a hurdle so that only more engaged people will participate; be explicit about who the event is targeted to. 
 
@@ -76,8 +71,7 @@ Be cautious about having applications for events where you reject people - manag
 Finally, be aware of informal boundaries that might keep newcomers out. If your local community is very tight-knit this can be great, but newcomers can perceive these bonds so make sure to actively include them in discussions and events. 
 
 ### Further Reading
-
-
+
 For a detailed description of boundaries and their importance see <a target="_blank" href="https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58">Principle 1 of The Art of Community</a>.
 
 ## Being Welcoming to People With a Diversity of Ideas
@@ -88,24 +82,30 @@ The EA Hub guide on “<a target="_blank" href="https://resources.eahub.org/lear
 Julia Wise has suggestions about how to deal with ideological and psychological diversity in her guide on “<a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.1fmjqomt474t">Making a Welcoming Group</a>”. 
 Ozymandias’ post “<a target="_blank" href="https://thingofthings.wordpress.com/2018/12/19/how-effective-altruists-can-be-welcoming-to-conservatives/">Being Welcoming to Conservatives</a>”, offers several recommendations on how to include conservatives from a US context, but many of the recommendations can be adapted to people of other political or ideological backgrounds.
 
-Remember that it is easy to get the impression that EAs are less diverse in their philosophical viewpoints on the internet than in person. For example, long-termist views are often prevalent  in the EA forum, but  the 2018 EA Survey indicates a much wider range of priorities among EAs overall, as seen in the graph below.
+Owen Cotton-Barratt argues for a focus on a <a target="_blank" href="https://forum.effectivealtruism.org/posts/ZqiGXrqLQg2ocFGQk/cooperation-in-a-movement-supporting-diverse-causes">cooperation between people who care about differing cause areas</a>. 
+
+Remember that it is easy to get the impression that EAs are less diverse in their philosophical viewpoints on the internet than in person. For example, longtermist views are often prevalent on the EA forum, but the 2019 EA Survey indicates a much wider range of priorities among EAs overall, as seen in the graph below.
 
 <p class="large_image_wrapper">
-<img src="/img/top-cause-2018.jpg" />
+<img src="/img/causepri2019.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/hP6oEXurLrDXyEzcT/ea-survey-2018-series-cause-selections"> _EA Survey 2018_</a>
-
-Additionally, here is the breakdown of cause prioritization according to the 2018 EA survey which shows a preference for global poverty, AI safety and climate change as top priorities, but significant support across almost all cause areas as a near-top priority:
-
-<p class="xl_image_wrapper">
-<img src="/img/causes-2018.jpg" />
+<p class="large_image_wrapper">
+<img src="/img/causepri2019a.jpg" />
 </p>
 
-_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _2018 EA Survey_</a>
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/8hExrLibTEgyzaDxW/ea-survey-2019-series-cause-prioritization"> _EA Survey 2019_</a>
+
+Additionally, the 2019 EA survey suggests there is significant support for all listed cause areas:
+
+<p class="large_image_wrapper">
+<img src="/img/causepri2019b.jpg" />
+</p>
+
+_Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/8hExrLibTEgyzaDxW/ea-survey-2019-series-cause-prioritization"> _EA Survey 2019_</a>
 
 
-Further, the survey found a wide variety of philosophical dispositions as well. From the graph below, we can see that almost 25% of EAs do not lean towards utilitarianism and a further 25% are not sure about their philosophical orientation. 
+Further, the survey found a wide variety of philosophical dispositions as well. From the 2017 EA Survey, we can see that almost 25% of EAs do not lean towards utilitarianism and a further 25% are not sure about their philosophical orientation. 
 
 <p class="large_image_wrapper">
 <img src="/img/philosophy.jpg" />
@@ -113,13 +113,41 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 
 _Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
 
-## Additional Resources
+## Demographic Diversity
+The effective altruism community has a larger proportion of young people, white people, and males than the population as a whole. 
 
-* <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions</a> catered to women and non-binary people
-* <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">EA Forum post</a> discussing the challenges of English as the dominant language of the EA movement
-* What to do about <a target="_blank" href="https://forum.effectivealtruism.org/posts/ZqiGXrqLQg2ocFGQk/cooperation-in-a-movement-supporting-diverse-causes">differing cause areas</a> by Owen Cotton-Barratt
-* <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA forum post</a> discussing diversity of talent, experience, opinion and appearance.
-* <a target="_blank" href="https://forum.effectivealtruism.org/posts/nqgE6cR72kyyfwZNL/making-discussions-in-ea-groups-inclusive">EA forum post</a> on sensitive topics written by people from a range of underrepresented groups, and a <a target="_blank" href="https://forum.effectivealtruism.org/posts/GqXQPy9duht3RL9pw/the-importance-of-truth-oriented-discussions-in-ea">response to this post</a> about the importance of open discussion. 
+According to the <a target="_blank" href="https://forum.effectivealtruism.org/posts/8hExrLibTEgyzaDxW/ea-survey-2019-series-cause-prioritization"> 2019 EA Survey 2019</a> the average age of EAs is 31 years, is approximately 70% male, and approximately 87% white. This means as a community we have a long way to go to make it possible for people with different perspectives and experiences to make contributions which reflect their full potential. 
+
+Here are some resources that will help you learn more about diversity and inclusion issues in the EA community, and may help you work on improving diversity in your own group. 
+
+### Readings
+
+* <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions catered to women and non-binary people</a>
+
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/2T3cGecjHfbEPXeEc/2019-ethnic-diversity-community-survey">2019 Ethnic Diversity Survey</a>
+
+* <a target="_blank" href="https://www.centreforeffectivealtruism.org/diversity-and-inclusion">CEA’s stance on Diversity and Inclusion</a>
+
+* Encompass on <a target="_blank" href="https://encompassmovement.org/movement-cant-effective-without-inclusive/">Why Our Movement Can’t Be Effective Without Being Inclusive</a>. This article is focused on the animal advocacy movement, but many of the conclusions also apply to the EA movement. 
+* Forum posts from community members:
+
+    * Sanjay on <a target="_blank" href="https://forum.effectivealtruism.org/posts/owyjuqxjyt8vdKEYe/ea-and-tackling-racism">EA and Tackling Racism</a>
+
+    * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach</a> 
+
+    * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a>
+    * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA Diversity: Unpacking Pandora’s Box</a>
+    * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a>
+* An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. These were collated by people outside of the EA community. They are mostly aimed at white people in the USA, but many of the recommendations have broader applicability 
+
+### Community
+
+* <a target="_blank" href="">Ethnic Diversity group on Facebook</a> (for people who identify with a non-white ethnicity or race)
+* <a target="_blank" href="">Diversity & Inclusion in EA group on Facebook</a> (open to all)
+* <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women and Non-Binary EA Facebook Group</a>
+* <a target="_blank" href="https://www.wanbam.com/">WANBAM (Women and Non-Binary Altruism Mentorship Program)</a>
+
+
 
 <a name="sensitive-topics"></a>
 # Handling Sensitive Topics
@@ -165,6 +193,11 @@ Just open it up - “Hey, this is getting really intense, do we need a break?”
 * Two group members heatedly debated an identity-related topic they have strong views on. 
 * When a religious person offered to answer questions about their faith, questions from the group got more and more pointed, making the religious person uncomfortable.
 * A suffering-focused EA tried to persuade someone that their life is net negative.
+
+## Additional resources
+
+
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/nqgE6cR72kyyfwZNL/making-discussions-in-ea-groups-inclusive">EA forum post</a> on sensitive topics written by people from a range of underrepresented groups, and a <a target="_blank" href="https://forum.effectivealtruism.org/posts/GqXQPy9duht3RL9pw/the-importance-of-truth-oriented-discussions-in-ea">response to this post</a> about the importance of open discussion. 
 
 <a name="issues"></a>
 # Dealing with Issues
