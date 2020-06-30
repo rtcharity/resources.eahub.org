@@ -15,8 +15,15 @@ If your group is experiencing community health issues, reach out to <a target="_
 
 * <a href="#importance">The Importance of Being Welcoming</a>
 * <a href="#welcoming">Creating Welcoming, Inclusive Groups</a>
+    * <a href="#ideas">Being Welcoming to People With a Diversity of Ideas</a>
+    * <a href="#demo">Demographic Diversity</a>
+    * <a href="#welcoming">Creating Welcoming, Inclusive Groups</a>
+    * <a href="#boundaries">Boundaries</a>
 * <a href="#sensitive-topics">Handling Sensitive Topics</a>
 * <a href="#issues">Dealing With Issues</a>
+
+
+<a name="importance"></a>
 
 # The Importance of Being Welcoming
 
@@ -59,21 +66,8 @@ src="https://www.youtube.com/embed/SfXJ7MUjeLg">
 
 The rest of this section covers additional advice not already listed in Julia's guide and talk above.
 
-## Boundaries
-For small groups, it’s best to stay open and welcoming to all, but as groups grow, organisers might eventually need to run some events with a more selective guest list in order for the events to be more successful. The best strategy is to consider the purpose of each event and the people who would be best-suited to this purpose, before advertising with care to avoid the impression of excluding people.
 
-You’ll find more information about choosing a purpose <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit#heading=h.8f6mv3vsjg9t">here</a>, and in <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes on “The Art of Gathering”</a>, which also include tips for working out who to invite. 
-
-If you want an event for a subgroup of the community, you can: send personal invites to members; make a public event but with a sign-up to indicate interest and provide a hurdle so that only more engaged people will participate; be explicit about who the event is targeted to. 
-
-Be cautious about having applications for events where you reject people - managing these kinds of situations can be difficult. By being too selective, you risk losing people that you don't want to, and you could endanger the reputation of the group by appearing elitist. Always be cognizant of the tradeoffs you are making.
-
-Finally, be aware of informal boundaries that might keep newcomers out. If your local community is very tight-knit this can be great, but newcomers can perceive these bonds so make sure to actively include them in discussions and events. 
-
-### Further Reading
-
-For a detailed description of boundaries and their importance see <a target="_blank" href="https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58">Principle 1 of The Art of Community</a>.
-
+<a name="ideas"></a>
 ## Being Welcoming to People With a Diversity of Ideas
 
 People come with widely differing intuitions about things like population ethics, moral frameworks, etc, so don’t just assume someone feels the same way you do. You want to avoid pointless arguments and alienating people when you could be having productive debates.
@@ -113,6 +107,8 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 
 _Source:_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/nJ2JpZZquqFrSakK5/ea-survey-2017-series-community-demographics-and-beliefs"> _EA Survey 2017_</a>
 
+<a name="demo"></a>
+
 ## Demographic Diversity
 The effective altruism community has a larger proportion of young people, white people, and males than the population as a whole. 
 
@@ -131,14 +127,15 @@ Here are some resources that will help you learn more about diversity and inclus
 * Encompass on <a target="_blank" href="https://encompassmovement.org/movement-cant-effective-without-inclusive/">Why Our Movement Can’t Be Effective Without Being Inclusive</a>. This article is focused on the animal advocacy movement, but many of the conclusions also apply to the EA movement. 
 * Forum posts from community members:
 
-    * Sanjay on <a target="_blank" href="https://forum.effectivealtruism.org/posts/owyjuqxjyt8vdKEYe/ea-and-tackling-racism">EA and Tackling Racism</a>
-
     * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach</a> 
 
-    * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a>
-    * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA Diversity: Unpacking Pandora’s Box</a>
-    * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a>
-* An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. These were collated by people outside of the EA community. They are mostly aimed at white people in the USA, but many of the recommendations have broader applicability 
+    * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a> 
+
+    * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA Diversity: Unpacking Pandora’s Box</a> 
+
+    * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a> 
+
+    * An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. These were collated by people outside of the EA community. They are mostly aimed at white people in the USA, but many of the recommendations have broader applicability. 
 
 ### Community
 
@@ -147,7 +144,21 @@ Here are some resources that will help you learn more about diversity and inclus
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women and Non-Binary EA Facebook Group</a>
 * <a target="_blank" href="https://www.wanbam.com/">WANBAM (Women and Non-Binary Altruism Mentorship Program)</a>
 
+<a name="boundaries"></a>
+## Boundaries
+For small groups, it’s best to stay open and welcoming to all, but as groups grow, organisers might eventually need to run some events with a more selective guest list in order for the events to be more successful. The best strategy is to consider the purpose of each event and the people who would be best-suited to this purpose, before advertising with care to avoid the impression of excluding people.
 
+You’ll find more information about choosing a purpose <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit#heading=h.8f6mv3vsjg9t">here</a>, and in <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes on “The Art of Gathering”</a>, which also include tips for working out who to invite. 
+
+If you want an event for a subgroup of the community, you can: send personal invites to members; make a public event but with a sign-up to indicate interest and provide a hurdle so that only more engaged people will participate; be explicit about who the event is targeted to. 
+
+Be cautious about having applications for events where you reject people - managing these kinds of situations can be difficult. By being too selective, you risk losing people that you don't want to, and you could endanger the reputation of the group by appearing elitist. Always be cognizant of the tradeoffs you are making.
+
+Finally, be aware of informal boundaries that might keep newcomers out. If your local community is very tight-knit this can be great, but newcomers can perceive these bonds so make sure to actively include them in discussions and events. 
+
+### Further Reading
+
+For a detailed description of boundaries and their importance see <a target="_blank" href="https://medium.com/@skueong/the-art-of-community-seven-principles-for-belonging-book-notes-4997cd637a58">Principle 1 of The Art of Community</a>.
 
 <a name="sensitive-topics"></a>
 # Handling Sensitive Topics
