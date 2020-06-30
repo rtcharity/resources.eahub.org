@@ -127,8 +127,6 @@ Here are some resources that will help you learn more about diversity and inclus
 * Encompass on <a target="_blank" href="https://encompassmovement.org/movement-cant-effective-without-inclusive/">Why Our Movement Can’t Be Effective Without Being Inclusive</a>. This article is focused on the animal advocacy movement, but many of the conclusions also apply to the EA movement. 
 * Forum posts from community members:
 
-    * Sanjay on <a target="_blank" href="https://forum.effectivealtruism.org/posts/owyjuqxjyt8vdKEYe/ea-and-tackling-racism">EA and Tackling Racism</a>
-
     * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach</a> 
 
     * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a> 
