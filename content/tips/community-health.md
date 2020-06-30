@@ -135,7 +135,7 @@ Here are some resources that will help you learn more about diversity and inclus
 
     * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a> 
 
-    * An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. These were collated by people outside of the EA community. They are mostly aimed at white people in the USA, but many of the recommendations have broader applicability. 
+* An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. These were collated by people outside of the EA community. They are mostly aimed at white people in the USA, but many of the recommendations have broader applicability. 
 
 ### Community
 
