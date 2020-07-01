@@ -15,9 +15,6 @@ The <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#gr
 
 CEA and EA London send out a monthly EA Groups newsletter. <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">Sign up</a> or read some of the <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">previous groups newsletters</a>.
 
-
-here</a>.
-
 # Connect with Other Organisers
 
 The <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook group</a> is a great place to ask questions. There is also an <a target="_blank" href="https://eagroups.slack.com/">EA Groups Slack workspace</a>, where you can share resources and ask questions. Ask the CEA Groups Team, or a fellow EA group organiser to invite you to the workspace.
