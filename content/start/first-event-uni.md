@@ -30,9 +30,9 @@ More information about advertising your group is coming soon.
 
 # First Event
 
-The first event you have after clubs fair is a great way of converting email list signups into dedicated members. Your attendees will be trying to figure out whether your club is worth investing more of their time in, so do your best to run an attractive, exciting, and inspiring event.
+<img class="image_small" src="/img/clubs_fair_table.jpg"/>
 
-<img src="/img/clubs_fair_table.jpg"/>
+The first event you have after clubs fair is a great way of converting email list signups into dedicated members. Your attendees will be trying to figure out whether your club is worth investing more of their time in, so do your best to run an attractive, exciting, and inspiring event.
 
 Hold your first event very soon after clubs fair. After the first few weeks of classes, people will get busy and lose interest in trying out new activities. 
 
