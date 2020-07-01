@@ -3,7 +3,7 @@ title: Tips for Running Discussion Groups
 date: 2020-02-07T20:42:47.318Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 17th October 2019_
 
@@ -125,8 +125,6 @@ Here are the suggestions from one group:
 * If you agree, or have learnt something from someone, say so. 
 * And of course, be patient and kind with each other. It sometimes takes a while to organise thoughts and responses, and while we may have  different perspectives and beliefs, we all have shared goals. 
 
-If there are more than 6 or so people in the group, it might be worth suggesting the group uses hands-up to signal they wish to talk. Just raising your hand a little until the facilitator catches your eye is enough, so this doesn't need to be intrusive.  
-
 ## Sensitive Topics
 
 If the topic is likely to be sensitive, emphasise the need to be considerate of others, and mention that this discussion could become uncomfortable for some. Sensitive topics could include those that relate to population ethics, death, disability, or relating to an under-represented community. 
@@ -149,8 +147,14 @@ The page on <a target="_blank" href="/tips/community-health">community health</a
 
 This role shouldn’t dominate the discussion, but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
 
-* Model good communication norms, as groups often follow the lead of the moderator. 
-* Keep comments to at most 3 minutes
+* A facilitator can create discussion norms through how they facilitate. It is particularly useful to consider these norms if a couple of people tend to dominate the discussion. It is also worth considers setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation. This one is popular: 
+   * Raise your hand means “I want to discuss a new Point”. In an online event you can instead type * in the chat.
+   * Raise your finger (or ^ in an online chat) means “I want to comment on the existing point”.
+   * Raise your fist (or ? in an online chat) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
+   * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
+
+* Sometimes ask people by name for their input, especially if they are usually quiet. Often quiet people have great contributions but are just less motivated to talk. 
+* Keep comments to at most 2 minutes
 * Try to keep back-and-forths to at most 2 iterations (so person A, person B, person A, person B, then move on to someone new)
 * Keep the conversation on common ground - make sure people are explaining technical terms and acronyms if they come up. 
 * If the conversation has lasted too long in a particularly technical / expert domain, move onto the next question to bring the conversation back down to an accessible level. 
@@ -161,7 +165,8 @@ This role shouldn’t dominate the discussion, but exists to keep conversation f
 * If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times you could also suggest the people break off and have a separate discussion.  
 * Steer conversation to safe ground if it may be becoming controversial, or explicitly change the topic if needed.  Remember if someone is uncomfortable in a discussion they are unlikely to voice their discomfort, so it can be helpful for a facilitator to move the conversation on even if they are unsure whether anyone is getting upset.
 * If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they dominated the discussion too much or caused offence.  
-* Wrap up the discussion to make a clear finishing point.
+* Also if you find one person dominates the discussion it is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
+* Ensure you wrap up the discussion by the event's stated end time to make a clear finishing point (even if people are welcome to hang around and chat further). 
 
 <a name="further-info"></a>
 # Further information about productive reading and discussion
