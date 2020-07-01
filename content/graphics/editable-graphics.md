@@ -3,7 +3,7 @@ title: Available Graphics
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 24th September 2019_
 ### _Updated 8th March 2020_
@@ -153,7 +153,21 @@ The first banner in this list was based on the EA Auckland Banner, and the other
 
 <a name="advertising"></a>
 # General Advertising Posters
-These were made from Harvard EA Posters.
+The following posters were modified from EA Exeter posters.
+
+<p class="large_image_wrapper">
+<img src="/img/enormousopp.jpg" />
+</p>
+
+<a target="_blank" href="https://designer.gravit.io/?token=AesNheV21xqwBMWqyNYZspisz-bn4ukv">Editable Gravit File</a>
+
+<p class="large_image_wrapper">
+<img src="/img/savelives.jpg" />
+</p>
+
+<a target="_blank" href="https://designer.gravit.io/?token=vrEoum3j_taLNCsTb5hpCQOaVdsWtL7f">Editable Gravit File</a>
+
+The following posters were modified from Harvard EA posters.
 
 <p class="large_image_wrapper">
 <img src="/img/ltfeventposter.png" />
