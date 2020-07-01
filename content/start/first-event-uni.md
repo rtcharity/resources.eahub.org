@@ -32,6 +32,8 @@ More information about advertising your group is coming soon.
 
 The first event you have after clubs fair is a great way of converting email list signups into dedicated members. Your attendees will be trying to figure out whether your club is worth investing more of their time in, so do your best to run an attractive, exciting, and inspiring event.
 
+<img src="clubs_fair_table.jpg"/>
+
 Hold your first event very soon after clubs fair. After the first few weeks of classes, people will get busy and lose interest in trying out new activities. 
 
 Don’t be discouraged if not many people show up. Many thriving groups started out small and slowly built up attendance over the years. As an example, Stanford EA reported attendance of only four people at their irregular events during the first year, but this grew to a thriving group of 20-25 people attending events twice a week. 
