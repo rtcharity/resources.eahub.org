@@ -13,7 +13,10 @@ The <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#gr
 
 # Groups Newsletter
 
-CEA and EA London send out a monthly EA Groups newsletter. You can sign up <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>, and can read some of the previous group newsletters <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">here</a>.
+CEA and EA London send out a monthly EA Groups newsletter. <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">Sign up</a> or read some of the <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">previous groups newsletters</a>.
+
+
+here</a>.
 
 # Connect with Other Organisers
 
@@ -59,8 +62,8 @@ Julia Wise - Centre for Effective Altruism:
  <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a>
 
 Julia runs office hours on community health on Thursdays from 9 am - 5 pm Eastern US time. Book a call on <a target="_blank" href="https://calendly.com/julia-d-wise/community-health-office-hours
-">her calendly</a>, or email her if you'd like to schedule at another time. Julia also runs small group meetings on the first Monday (4 pm Eastern US time) and third Thursday (10 am Eastern US time) of each month. You can sign up <a target="_blank" href="https://calendly.com/julia-d-wise/ea-organizer-small-groups
-">here</a>.
+">her calendly</a>, or email her if you'd like to schedule at another time. Julia also runs small group meetings on the first Monday (4 pm Eastern US time) and third Thursday (10 am Eastern US time) of each month. <a target="_blank" href="https://calendly.com/julia-d-wise/ea-organizer-small-groups
+">Sign up here</a>.
 
 ### Talking to Journalists/the Media:
 
