@@ -30,7 +30,7 @@ More information about advertising your group is coming soon.
 
 # First Event
 
-<img src="/img/clubs_fair_table.jpg" class="image_small" />
+<img src="/img/clubs_fair_table.jpg" class="small_image" />
 
 The first event you have after clubs fair is a great way of converting email list signups into dedicated members. Your attendees will be trying to figure out whether your club is worth investing more of their time in, so do your best to run an attractive, exciting, and inspiring event.
 
