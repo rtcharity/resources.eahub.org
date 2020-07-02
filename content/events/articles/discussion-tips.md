@@ -148,7 +148,7 @@ The page on <a target="_blank" href="/tips/community-health">community health</a
 This role shouldn’t dominate the discussion, but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
 
 * A facilitator can create discussion norms through how they facilitate. It is particularly useful to consider these norms if a couple of people tend to dominate the discussion. It is also worth considers setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation. This one is popular: 
-   * Raise your hand (or \* in the chat in an online event) means “I want to discuss a new point”. In an online event you can instead type * in the chat.
+   * Raise your hand (or \* in the chat in an online event) means “I want to discuss a new point”. 
    * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”.
    * Raise your fist (or ? in the chat in an online event) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
    * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
