@@ -16,8 +16,8 @@ _Contributions were made by the LEAN team,_ <a target="_blank" href="https://for
 * <a href="#goals">Goals</a>
 * <a href="#planning">Planning</a>
 * <a href="#at-the-event">What happens at the event</a>
-* <a href="#guidelines">Guidelines for the discussion</a>
 * <a href="#tips">Tips for the facilitator</a>
+* <a href="#guidelines">Guidelines for the discussion</a>
 * <a href="#further-info">Further information about productive reading and discussion</a>
 * <a href="#follow-up">Follow up</a>
 * <a href="#more-reading">More reading</a>
@@ -76,11 +76,13 @@ Guidelines for planning events are coming soon. The following is specific to pla
 
 ## Decide on a start and finish time for the discussion
 
-* Think about a reasonable length for a discussion, and decide when the finish time is. After that time people may wish to hang around for drinks or more casual chats. 
+* Think about a reasonable length for a discussion, and decide when the finish time is. After that time people may wish to hang around for more casual chats. 
 
 
 <a name="at-the-event"></a>
 # What happens at the event
+
+This is a suggested rundown of a typical discussion event.
 
 ## Start
 
@@ -92,7 +94,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
    * How did you get involved in effective altruism?
    * If you could have one superpower, what would it be and why?
 
-* Have the facilitator set a few brief guidelines for the discussion, especially if there are a few new people.
+* At this point, the facilitator can share any <a href="#guidelines">guidelines for the discussion</a> or <a href="#tips">discussion norms</a> you want to make explicit. 
 * Have the facilitator introduce the topic for a few minutes, or if reading was completed in advance, ask some attendees to summarise the reading briefly.
 * Read or view the material if it wasn’t assigned as pre-reading.
 
@@ -115,10 +117,38 @@ Guidelines for planning events are coming soon. The following is specific to pla
 Review and wrap up the discussion. One suggestion to do this: A few minutes before the planned finish time, the facilitator can mention that the group has been talking about topic X for a while, and then pose a final question for everyone to answer if they wish, before thanking everyone for their participation and letting them know they can stay and chat for longer (and have more drinks and snacks if available). 
 Suitable final questions could be:
 
-* Any remaining questions from the list of prepared questions
+* Any remaining questions from the list of prepared questions.
 * What is the most important thing you’ve learnt during the reading and discussion?
 * Whether anyone is going to act differently in the future as a result of what was discussed today (this could be to learn more about a topic, talk to someone, consider donating to a different charity etc.)
 
+
+
+<a name="tips"></a>
+# Tips for the facilitator 
+
+This role shouldn’t dominate the discussion but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
+
+* Consider setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation, or if one or two people tend to dominate. This one is popular: 
+   * Raise your hand (or \* in the chat in an online event) means “I want to discuss a new point”. 
+   * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”.
+   * Raise your fist (or ? in the chat in an online event) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
+   * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
+
+* Sometimes ask people by name for their input, especially if they are usually quiet. Often quiet people have great contributions but are just less motivated to talk. 
+* Keep comments to at most 2 minutes.
+* Try to keep back-and-forths to at most 2 iterations (so person A, person B, person A, person B, then move on to someone new)
+* Keep the conversation on common ground - make sure people are explaining technical terms and acronyms if they come up. 
+* If the conversation has lasted too long in a particularly technical/expert domain, move onto the next question to bring the conversation back down to an accessible level. 
+* You may wish to break the discussion in two if two or three people seem really keen to head the discussion in a particular direction.
+* Keep things light-hearted - humour is good. 
+* Occasionally ask people who haven't spoken for a while for their thoughts, and give them a moment to respond (a little bit of silence is okay). 
+* If your group is larger than 8, sometimes suggest discussion in pairs, then after a few minutes of discussion each group shares what they came up with. This allows people to have more thinking time, and also puts less pressure on any individual to have something to say. 
+* After one person speaks, ask others for their responses rather than responding to each point yourself - you'll end up doing too much of the talking otherwise. This could be asking if anyone has objections, if anyone else agrees, or just for any other thoughts.
+* If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times you could also suggest the people break off and have a separate discussion.  
+* Steer conversation to safe ground if it may be becoming controversial, or explicitly change the topic if needed.  Remember if someone is uncomfortable in a discussion they are unlikely to voice their discomfort, so it can be helpful for a facilitator to move the conversation on even if they are unsure whether anyone is getting upset.
+* If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they caused offence.  
+* If you find one person dominates the discussion it is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
+* Ensure you wrap up the discussion by the event's stated end time to make a clear finishing point (even if people are welcome to hang around and chat further). 
 
 <a name="guidelines"></a>
 
@@ -133,7 +163,7 @@ Here are the suggestions from one group:
 * Go into discussions with the assumption that you will learn something valuable from each person in this room, so give everyone space to share their perspectives, and listen attentively. 
 * If you disagree with an idea, aim to understand the other person’s position clearly by asking clarifying questions, or restating the other person’s position, before explaining your alternative point of view.
 * If you agree, or have learnt something from someone, say so. 
-* And of course, be patient and kind with each other. It sometimes takes a while to organise thoughts and responses, and while we may have  different perspectives and beliefs, we all have shared goals. 
+* And of course, be patient and kind with each other! 
 
 ## Sensitive Topics
 
@@ -146,38 +176,12 @@ Julia Wise from CEA has the following suggestion for facilitators and organisers
     * it can make it feel like a real and not just a hypothetical person you're benefitting
     * it makes it more clear that people might want to avoid a topic not because they're too wimpy to handle it, but because they already think about it a lot. For example, when I was living with a family member with end-stage cancer, I thought about death a lot. Because it was so raw, I didn't necessarily want to discuss it in public as well. (It's fine to give me as an example if none of the organizers have something they'd want to speak about.)
 * Ideas for giving people chances to decide what they're up for:
-    * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room."     * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
+    * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room."     
+    * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
 The page on <a target="_blank" href="/tips/community-health">community health</a> provides more information. 
 
 
-
-<a name="tips"></a>
-# Tips for the facilitator 
-
-This role shouldn’t dominate the discussion, but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
-
-* A facilitator can create discussion norms through how they facilitate. It is particularly useful to consider these norms if a couple of people tend to dominate the discussion. It is also worth considers setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation. This one is popular: 
-   * Raise your hand (or \* in the chat in an online event) means “I want to discuss a new point”. 
-   * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”.
-   * Raise your fist (or ? in the chat in an online event) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
-   * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
-
-* Sometimes ask people by name for their input, especially if they are usually quiet. Often quiet people have great contributions but are just less motivated to talk. 
-* Keep comments to at most 2 minutes
-* Try to keep back-and-forths to at most 2 iterations (so person A, person B, person A, person B, then move on to someone new)
-* Keep the conversation on common ground - make sure people are explaining technical terms and acronyms if they come up. 
-* If the conversation has lasted too long in a particularly technical/expert domain, move onto the next question to bring the conversation back down to an accessible level. 
-* You may wish to break the discussion in two if two or three people seem really keen to head the discussion in a particular direction.
-* Keep things light hearted - humour is good. 
-* Occasionally ask people who haven't spoken for a while for their thoughts, and give them a moment to respond (a little bit of silence is okay). 
-* If your group is larger than 8, sometimes suggest discussion in pairs, then after a few minutes of discussion each group shares what they came up with. This allows people to have more thinking time, and also puts less pressure on any individual to have something to say. 
-* After one person speaks, ask others for their responses rather than responding to each point yourself - you'll end up doing too much of the talking otherwise. This could be asking if anyone has objections, if anyone else agrees, or just for any other thoughts.
-* If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times you could also suggest the people break off and have a separate discussion.  
-* Steer conversation to safe ground if it may be becoming controversial, or explicitly change the topic if needed.  Remember if someone is uncomfortable in a discussion they are unlikely to voice their discomfort, so it can be helpful for a facilitator to move the conversation on even if they are unsure whether anyone is getting upset.
-* If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they caused offence.  
-* If you find one person dominates the discussion it is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
-* Ensure you wrap up the discussion by the event's stated end time to make a clear finishing point (even if people are welcome to hang around and chat further). 
 
 <a name="further-info"></a>
 # Further information about productive reading and discussion
