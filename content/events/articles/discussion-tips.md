@@ -163,7 +163,7 @@ Here are the suggestions from one group:
 * Go into discussions with the assumption that you will learn something valuable from each person in this room, so give everyone space to share their perspectives, and listen attentively. 
 * If you disagree with an idea, aim to understand the other person’s position clearly by asking clarifying questions, or restating the other person’s position, before explaining your alternative point of view.
 * If you agree, or have learnt something from someone, say so. 
-* And of course, be patient and kind with each other. 
+* And of course, be patient and kind with each other! 
 
 ## Sensitive Topics
 
