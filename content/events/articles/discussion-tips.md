@@ -82,9 +82,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 <a name="at-the-event"></a>
 # What happens at the event
 
-## Suggested Format
-
-### Start
+## Start
 
 * Start with providing drinks or snacks if you have them, and welcoming people. 
 * Unless you all know each other well, use name tags to make it easier to refer to each other, and get everyone to introduce themselves. You can also ask people to answer one question with a time limit (e.g. 30 seconds or less). The time limit is useful to state in advance to make people think about being concise, but there is usually no need to look at your watch and police time. Start by telling the whole group the question, give people 30 seconds to think, and then select someone to start. Here are some suggestions:
@@ -98,7 +96,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * Have the facilitator introduce the topic for a few minutes, or if reading was completed in advance, ask some attendees to summarise the reading briefly.
 * Read or view the material if it wasn’t assigned as pre-reading.
 
-### Preparing Questions
+## Preparing questions
 
 * If you have made a sheet of questions, allow people to spend a few minutes thinking about the questions.
 * If you haven't prepared set questions you could let people raise questions and start discussing. However, the discussion may be more productive if there is a process to select very good questions. To do this:
@@ -106,12 +104,13 @@ Guidelines for planning events are coming soon. The following is specific to pla
     * Ask attendees to signal which questions they particularly want to discuss. With online events this is done easily by getting people to write "+1" next to their favourite questions. With in-person events, you could pass around the papers with questions on them and ask people to put a star.
    * Then select the top questions. You may wish to group similar questions together.  
 
-### The Discussion
+## The discussion
 * Then launch into the questions! You can ask the person who suggested the question to clarify if needed. 
 * Facilitators can use their judgement as to whether to stick to the set questions, seek questions from the group, or allow moving off into tangents. 
 * If you take notes during a discussion group, it is often better to use pen and paper, then transfer to a computer later. Using a laptop, while seemingly more convenient, can reduce eye contact and engagement. 
+* More <a href="#tips">tips for the facilitator</a>.
 
-### Wrapping Up 
+## Wrapping up 
 
 Review and wrap up the discussion. One suggestion to do this: A few minutes before the planned finish time, the facilitator can mention that the group has been talking about topic X for a while, and then pose a final question for everyone to answer if they wish, before thanking everyone for their participation and letting them know they can stay and chat for longer (and have more drinks and snacks if available). 
 Suitable final questions could be:
