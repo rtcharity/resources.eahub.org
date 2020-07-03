@@ -9,7 +9,7 @@ license:
 
 _This page is compiled from resources written by Owen Cotton-Barratt, Julia Wise,_ <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">_CEA Community Health workshop sessions_</a>,  _and suggestions from the CEA groups and community health teams_.
 
-If your group is experiencing community health issues, reach out to <a target="_blank" href="https://efctv.org/contactperson">Julia Wise and Sky Mayhew</a> from CEA’s community health team.
+### If your group is experiencing community health issues, reach out to <a target="_blank" href="https://efctv.org/contactperson">Julia Wise and Sky Mayhew</a> from CEA’s community health team, or make a time to talk to Julia during her <a target="_blank" href="https://calendly.com/julia-d-wise">office hours</a>. 
 
 # Contents
 
