@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 17th October 2019_
+### _Published 17th October 2019, updated 3rd July 2020_
 
 
 
@@ -47,7 +47,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 * Go through the content thoroughly and come up with relevant questions to start the group off with. It is often useful to have a factual question at the start (e.g. asking people what the key points are), before spending the bulk of the time on more interesting questions such as asking people why they disagree or agree with a point, or how this information should affect how we act. It is important to treat these questions as a guideline or starting point, but it is worth sometimes allowing the discussion to go on useful tangents, and asking others in the group for questions they’d like to discuss.
 * There are a few strategies for coming up with discussion questions:
     * Prepare questions specifically for this reading. <a target="_blank" href="/events/articles/content/">Examples here</a>.
-    * Ask attendees to come with questions, and go through the questions at the at the start of the meetup to choose the best ones to discuss. 
+    * Ask attendees to come up with questions during the meetup, then prioritise these. If you choose this method it helps to have a few pre-prepared questions just in case you run out of questions. 
     * Before the event set questions for people to answer while reading. This can provide focus while reading, and provide a starting point for the discussion. Some generic questions are listed <a target="_blank" href="https://docs.google.com/document/d/14TKkJOJ2w186g8zJAePdKsC-g9jamqAhKnzVcVssViM/edit#">here</a>. 
 
 * A number of people in the community have reported that they’ve felt alienated by some discussions, and for some people this has reduced their involvement in the community. For example, discussions about groups who are underrepresented (either in EA or in the wider community) can be particularly alienating to members of that group, or to people who have loved ones in that group. Therefore, think carefully before assigning readings and questions that could be overly controversial or personal, considering whether the possible benefits outweigh the possible risks of the discussion. Many discussions that have the potential to be alienating are also not particularly useful for working out how to effectively improve the world, so in these cases it might be better to choose another topic. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
@@ -65,12 +65,12 @@ Guidelines for planning events are coming soon. The following is specific to pla
 
 ## Group size
 
-* An ideal group size is 5 to 8 members - allowing for rich discussion, several different points of view, but also isn’t so large that people struggle to contribute their voice. 
+* An ideal group size is 5 to 8 people - allowing for rich discussion, several different points of view, but also isn’t so large that people struggle to contribute their voice. 
 * If your group is larger, split into a few groups and at the end you could have each group report back with any takeaways from the discussion. 
 
 ## Pick a facilitator
 
-* There should be one person to facilitate the discussion for each meeting. That person should be willing to model friendly, constructive discussions and be willing to redirect the discussion if one or more people dominate, head off on an unhelpful tangent or act in ways that may be off putting to others in the group. 
+* There should be one person to facilitate the discussion for each meeting. That person should be willing to model friendly, constructive discussions and be willing to redirect the discussion if one or more people dominate, head off on an unhelpful tangent or act in ways that may be off-putting to others in the group. 
 * Ideally the facilitator is well-prepared with notes, possible discussion questions and comments.
 * This role doesn’t have to be the group organiser.
 
@@ -82,32 +82,43 @@ Guidelines for planning events are coming soon. The following is specific to pla
 <a name="at-the-event"></a>
 # What happens at the event
 
-## Overview
+## Suggested Format
+
+### Start
 
 * Start with providing drinks or snacks if you have them, and welcoming people. 
-* Unless you all know each other well, use name tags to make it easier to refer to each other, get everyone to introduce themselves and consider a small icebreaker exercise. 
+* Unless you all know each other well, use name tags to make it easier to refer to each other, and get everyone to introduce themselves. You can also ask people to answer one question with a time limit (e.g. 30 seconds or less). The time limit is useful to state in advance to make people think about being concise, but there is usually no need to look at your watch and police time. Start by telling the whole group the question, give people 30 seconds to think, and then select someone to start. Here are some suggestions:
+
+   * What do you study and why? (for uni groups)
+   * What appeals to you most about effective altruism?
+   * How did you get involved in effective altruism?
+   * If you could have one superpower, what would it be and why?
+
 * Have the facilitator set a few brief guidelines for the discussion, especially if there are a few new people.
-* Have the facilitator introduce the topic for ~2 minutes, or if reading was completed in advance, ask some members to summarise the reading briefly.
+* Have the facilitator introduce the topic for a few minutes, or if reading was completed in advance, ask some attendees to summarise the reading briefly.
 * Read or view the material if it wasn’t assigned as pre-reading.
-* Allow people to spend ~5 minutes looking over and thinking about the discussion sheet questions.
-* Then launch into the questions. 
+
+### Preparing Questions
+
+* If you have made a sheet of questions, allow people to spend a few minutes thinking about the questions.
+* If you haven't prepared set questions you could let people raise questions and start discussing. However, the discussion may be more productive if there is a process to select very good questions. To do this:
+    * Ask attendees to individually brainstorm questions or topics of discussion. If your event is online the questions can be typed into a shared document, otherwise, you could get people to write them down on paper. If needed you can prompt with general questions like "What didn't you understand?", "What reaction did you have", "Which arguments were strong, which were weak?", "Did you change your mind?"
+    * Ask attendees to signal which questions they particularly want to discuss. With online events this is done easily by getting people to write "+1" next to their favourite questions. With in-person events, you could pass around the papers with questions on them and ask people to put a star.
+   * Then select the top questions. You may wish to group similar questions together.  
+
+### The Discussion
+* Then launch into the questions! You can ask the person who suggested the question to clarify if needed. 
 * Facilitators can use their judgement as to whether to stick to the set questions, seek questions from the group, or allow moving off into tangents. 
 * If you take notes during a discussion group, it is often better to use pen and paper, then transfer to a computer later. Using a laptop, while seemingly more convenient, can reduce eye contact and engagement. 
-* Review and wrap up the discussion. One suggestion to do this: A few minutes before the planned finish time, the facilitator can mention that the group has been talking about topic X for a while, and then pose a final question for everyone to answer if they wish, before thanking everyone for their participation and letting them know they can stay and chat for longer (and have more drinks and snacks if available). Suitable final questions could be:
-    * Any remaining questions from the list of prepared questions
-    * What is the most important thing you’ve learnt during the reading and discussion?
-    * Whether anyone is going to act differently in the future as a result of what was discussed today (this could be learn more about a topic, talk to someone, consider donating to a different charity etc.)
 
+### Wrapping Up 
 
-## Icebreaker ideas
+Review and wrap up the discussion. One suggestion to do this: A few minutes before the planned finish time, the facilitator can mention that the group has been talking about topic X for a while, and then pose a final question for everyone to answer if they wish, before thanking everyone for their participation and letting them know they can stay and chat for longer (and have more drinks and snacks if available). 
+Suitable final questions could be:
 
-When there are new people, or people don't know each other well, ask people to introduce themselves, and answer one question, with a time limit (e.g. in 30 seconds or less) can get people talking. The time limit is useful to state in advance to make people think about being concise, but there is usually no need to look at your watch and police time. Start by telling the whole group the question, give people 30 seconds to think, and then select someone to start. Here are some suggestions:
-
-* What do you study and why? (for Uni groups)
-* What appeals to you about effective altruism?
-* How did you get involved in effective altruism?
-* If you could have one superpower, what would it be?
-
+* Any remaining questions from the list of prepared questions
+* What is the most important thing you’ve learnt during the reading and discussion?
+* Whether anyone is going to act differently in the future as a result of what was discussed today (this could be to learn more about a topic, talk to someone, consider donating to a different charity etc.)
 
 
 <a name="guidelines"></a>
@@ -182,19 +193,18 @@ Summarise and evaluate.
 
 ## More points on having constructive discussions
 
-This list is a bit long, and has too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
+This list is long and has too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
 
-* Give the person you're interacting with your complete, genuine, interested attention. A great suggestion of how to do that is described by Spencer Greenberg <a target=_"blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">here</a>. 
+* Give the person you're interacting with your complete, genuine, interested attention. A great suggestion of how to do that is described by Spencer Greenberg <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">here</a>. 
 * Most people want to be perceived as intelligent, so interact with people in ways that allow others to perceive the person as intelligent (or at least not unintelligent).
 * Be polite, avoid interrupting others.
 * Maintain an open mind - make the assumption that you will learn something from each other person.
 * Acknowledge other people’s insights and points that have been made previously that you may be building on. 
-* Don't start side conversations parallel to the main discussion.
-* Don't present objections as flat dismissals - Objections are fine, but can often be cast in a more constructive way. Also, object to ideas, don't object to people.
+* Avoid starting side conversations parallel to the main discussion.
+* Avoid presenting objections as flat dismissals - Objections are fine, but can often be cast in a more constructive way. Also, object to ideas, don't object to people.
 * You should attempt to re-express the other person’s position so clearly, vividly, and fairly that your target thinks, “Thanks, I wish I’d thought of putting it that way."
 * List any points of agreement (especially if they are not matters of general or widespread agreement).
 * You should mention anything you have learned from the other person. 
-* Even when an objection is destructive with respect to a position, it often helps to find a positive insight suggested by the objection. 
 * It's OK to question the presuppositions of a project or an area, but discussions in which these questions dominate can be unhelpful.
 * Don't keep pressing the same objection (individually or collectively).
 * Avoid dominating the discussion - let others have their say and try not to let your questions or answers run on.
@@ -204,11 +214,11 @@ This list is a bit long, and has too many "don'ts" to share out loud as part of 
 <a name="follow-up"></a>
 # Follow up
 
-Get feedback from the group regularly, ideally one-on-one or through a short survey so people are more able to share their thoughts. It is particularly worth soliciting feedback from quieter people and those who attended once or twice but stopped attending, as there may be ways you could engage these participants more. 
+Get feedback from the group regularly, ideally one-on-one or through a short survey so people are more able to share their thoughts. It is particularly worth soliciting feedback from quieter people and those who attended once or twice but stopped attending, as there may be ways you could engage these attendees more. 
 
-You could ask how much the members enjoy the events, how much they learned, how much it has influenced their beliefs and life choices, and whether there are ways the events could be improved.
+You could ask how much the attendees enjoy the events, how much they learned, how much it has influenced their beliefs and life choices, and whether there are ways the events could be improved.
 
-Regularly ask participants for suggestions from the group for future topics.
+Regularly ask attendees for suggestions from the group for future topics. 
 
 <a name="more-reading"></a>
 # More reading
