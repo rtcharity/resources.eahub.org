@@ -16,10 +16,10 @@ _Contributions were made by the LEAN team,_ <a target="_blank" href="https://for
 * <a href="#goals">Goals</a>
 * <a href="#planning">Planning</a>
 * <a href="#at-the-event">What happens at the event</a>
+* <a href="#follow-up">Follow up</a>
 * <a href="#tips">Tips for the facilitator</a>
 * <a href="#guidelines">Guidelines for the discussion</a>
 * <a href="#further-info">Further information about productive reading and discussion</a>
-* <a href="#follow-up">Follow up</a>
 * <a href="#more-reading">More reading</a>
 
 
@@ -52,7 +52,7 @@ Guidelines for planning events are coming soon. The following is specific to pla
 
 * A number of people in the community have reported that they’ve felt alienated by some discussions, and for some people this has reduced their involvement in the community. For example, discussions about groups who are underrepresented (either in EA or in the wider community) can be particularly alienating to members of that group, or to people who have loved ones in that group. Therefore, think carefully before assigning readings and questions that could be overly controversial or personal, considering whether the possible benefits outweigh the possible risks of the discussion. Many discussions that have the potential to be alienating are also not particularly useful for working out how to effectively improve the world, so in these cases it might be better to choose another topic. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
 
-## Consider making hand out sheets
+## Consider making handouts
 
 * This is useful if you want to get through several questions or if you wish to have more structure.
 * Handouts could include a summary of the topic (or of the assigned material) and a list of questions to help frame the conversation. There are <a target="_blank" href="/events/articles/content/">handouts on several topics</a> already created that you can modify to suit your group.
@@ -122,6 +122,14 @@ Suitable final questions could be:
 * Whether anyone is going to act differently in the future as a result of what was discussed today (this could be to learn more about a topic, talk to someone, consider donating to a different charity etc.)
 
 
+<a name="follow-up"></a>
+# Follow up
+
+Get feedback from the group regularly, ideally one-on-one or through a short survey so people are more able to share their thoughts. It is particularly worth soliciting feedback from quieter people and those who attended once or twice but stopped attending, as there may be ways you could engage these attendees more. 
+
+You could ask how much the attendees enjoy the events, how much they learned, how much it has influenced their beliefs and life choices, and whether there are ways the events could be improved.
+
+Regularly ask attendees for input to decide future topics. Some groups do this by asking for suggestions or creating a poll on Facebook. 
 
 <a name="tips"></a>
 # Tips for the facilitator 
@@ -213,15 +221,6 @@ This list is long and has too many "don'ts" to share out loud as part of the goa
 * Avoid dominating the discussion - let others have their say and try not to let your questions or answers run on.
 * It's OK to ask a question that you think may be unsophisticated or uninformed.
 
-
-<a name="follow-up"></a>
-# Follow up
-
-Get feedback from the group regularly, ideally one-on-one or through a short survey so people are more able to share their thoughts. It is particularly worth soliciting feedback from quieter people and those who attended once or twice but stopped attending, as there may be ways you could engage these attendees more. 
-
-You could ask how much the attendees enjoy the events, how much they learned, how much it has influenced their beliefs and life choices, and whether there are ways the events could be improved.
-
-Regularly ask attendees for suggestions from the group for future topics. 
 
 <a name="more-reading"></a>
 # More reading
