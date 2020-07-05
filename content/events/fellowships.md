@@ -54,8 +54,8 @@ Yale runs a similar fellowship to Arete, but with a larger global health and pov
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/suGcEobbHZZ4Gspeh/a-guide-to-effective-altruism-fellowships">This post on the EA Forum</a> is a detailed guide describing how Yale ran their 2018 fellowship, including links to all relevant resources. They have since updated <a target="_blank" href="https://docs.google.com/document/d/1ScJiL9crh0rfNgTv0aGcZtiEU3HYKpwSXQ1raRaWPfM/edit#heading=h.emnv7fke4g78">their reading list for 2020</a>. Jessica McCurdy (<a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>) from Yale EA can give you advice if you are interested in running a similar fellowship.
 
-## EA Brown Fellowship
-EA Brown based their <a target="_blank" href="https://docs.google.com/document/d/1O5ql1NNJzxsBeY8YF_tr_QF96CVgBsx7eqvRcXvjpnU/edit">Summer fellowship</a> off EA Oxford's introductory fellowship.
+## EA Oxford Fellowship
+<a target="_blank" href="https://docs.google.com/document/d/18RpfP_jf383dUUGUS_f2R__MI8kgwoKO0IQkiD4bFNs/edit">EA Oxford's online fellowship guide</a> contains reading lists and initial instructions for fellows.
 
 # Other Types of Fellowships
 
