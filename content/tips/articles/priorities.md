@@ -19,7 +19,7 @@ We recommend that group organisers tailor our general approach to fit your speci
 
 Common characteristics:
 
-* Approximately 1-2 group organisers and <10 regular group members
+* 1-2 group organisers and <10 regular group members
 
 Recommended priorities:
 
