@@ -17,7 +17,7 @@ These pages contain ideas about prioritising group activities, measuring impact,
 
 ## [Priorities](/tips/articles/priorities/)
 
-All groups are time and funding constrained. This page suggests priorities for groups at different stages.
+All groups are time and funding constrained. Setting the right goals is crucial for a group's stability and growth. This page suggests priorities for groups at different stages. 
 
 ## Group Measurement and Evaluation (Coming Soon)
 
