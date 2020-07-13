@@ -5,67 +5,78 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 22nd September 2019_
+### *Published 22nd September 2019*
 
-_This section was written by the LEAN team, utilising some ideas gained from EA Oxford and EA MIT._ 
+*The LEAN team wrote this section using ideas from EA Oxford and EA MIT.* 
 
-Given that groups will be time- and/or funding-constrained to some extent, prioritising between activities is very important. This could be affected by several factors, such as the age and stage of development of your group, the demographic, needs and preferences of your members, and your organisers’ particular skill-sets.
+Groups will always be time and funding-constrained, so prioritising between activities is critical. A group’s prioritisation strategy depends on several factors: the group’s stage of development; its members’ demographic, needs and preferences; and its organisers’ skill sets.
 
-To begin prioritising, you need to determine what stage of development your group is at. Below 3 different group states are identified, organized by group size. **All priorities from the earlier states apply to the later states.**
+To begin prioritising, determine your group’s stage of development. We identify three stages below, organised by group size. **All priorities from earlier stages apply to later stages.** 
 
-The following is a suggested method of prioritising tasks, but is by no means fixed. Different groups may benefit from different models of prioritisation. It is useful to create a document which lists your group’s priorities (you can always adapt the one below) and revisit it at fixed intervals (every 6 months, or at the end of every semester) to evaluate which tier your group is in, and whether you need to adjust how many goals you are targeting.
+We recommend that group organisers tailor our general approach to fit your specific circumstances. It is useful to create a document which lists group priorities. You should revisit the list at fixed intervals, such as every six months, or at the end of every semester. These documents can help you to stay on-track, evaluate progress, and adjust your goals. 
 
 ## Small/New
 
-Characteristics: Approximately 1-2 group organisers and <10 regular group members.
+Common characteristics:
 
-Priorities could be:
+* Approximately 1-2 group organisers and <10 regular group members
 
-* Making a positive, healthy community people want to be a part of.
-* Creating and maintaining relationships with the EA community and those offering <a target="_blank" href="/tips/support/">group support</a>. 
+Recommended priorities:
+
+* Create a healthy community atmosphere that people want to be part of
+* Build relationships between group members
+* Connect with organisations offering <a target="_blank" href="/tips/support/">support for EA groups</a>
 * Find co-organisers (Check out some tips for <a target="_blank" href="/start/run-city-group#coorganiser/">City Groups</a> and <a target="_blank" href="/start/run-uni-group#coorganiser/">Uni Groups</a>)
-* If the current organisers may leave (e.g. Uni groups), find successors to ensure the group continues. Create a <a target="_blank" href="/tips/handover/">preliminary handover process</a>.
-* Build and maintain a core group.
+* If the current organisers are considering leaving, find successors and create a <a target="_blank" href="/tips/handover/">preliminary handover process</a>
+* Build an enthusiastic and stable core membership
 
-## Medium Sized
-Medium sized groups have the ability to maintain or grow, but many are at risk of losing this capacity and contracting unless they develop failsafes and infrastructure to prevent this from happening. 
+## Medium-sized
 
-Characteristics: Approximately 3-5 group organisers, and 10-20 regular group members.
+Without fail-safes and proper infrastructure, many medium-sized groups may contract.
 
-Priorities could be:
+Common characteristics:
 
-* Make valuable connections between people in the group and the broader EA community.
-* Develop an overarching group strategy and object level goals to achieve in a given time frame.
-* Develop infrastructure to help maintain the group’s current level of activity, this can involve developing more <a target="_blank" href="/tips/articles/committee/">formalised group roles</a>.
-* Have a <a target="_blank" href="/tips/handover">robust handover process</a> if the current organisers may leave.
-* Hold a variety of activities that might work to increase engagement in <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">all parts of the funnel model of engagement</a> in EA. This includes:
-   * Moving people from “audience” to “followers” in the funnel model. This involves outreach to people who haven’t heard of EA before.
-   * Moving people from “followers” to “participants”. This could involve holding events that help new people become more knowledgeable about EA.
-   * Moving people from “participants” to “contributors” by providing support for people to conduct projects, volunteer, attend conferences, or make significant commitments.
-   * Moving people from “contributors” to “core” by assisting people with their career plans.
+* 3-5 group organisers and 10-20 regular group members
 
+Recommended priorities:
+
+* Complete the small-group tasks listed above
+* Connect group members to the broader EA community
+* Develop an overarching group strategy with object-level goals to achieve within a given time frame
+* Establish infrastructure to maintain the group’s level of activity. Developing <a target="_blank" href="/tips/articles/committee/">formalised group roles
+  </a> may help
+* Have a <a target="_blank" href="/tips/handover">robust handover process</a> in case current organisers may leave
+* Increase engagement in all parts of the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/"> funnel model of engagement</a> in EA
+
+  * Move people from “audience” to “followers” by reaching out to people who haven’t heard of EA before
+  * Move people from “followers” to “participants” by holding events that help new people become more knowledgeable about EA
+  * Move people from “participants” to “contributors” by supporting people to conduct projects, volunteer, attend conferences or make significant commitments
+  * Move people from “contributors” to “core” by helping them with their career plans
 
 ## Large
-At this stage, your group will be established in the local community for at least a few years, and reach a size at which it is very unlikely to stop existing. 
 
-Characteristics: Usually more than 5 organisers who invest substantial time into the group, possibly including paid part- or full-time organisers. Active membership of 50+ members, large enough to support subcommunities, for example groups based on different interest areas. 
+Common characteristics:
 
-Priorities could be:
+* \>5 organisers who invest substantial time into the group, possibly including paid part- or full-time organisers
+* Active membership of 50+ members, large enough to support subcommunities with different interest areas or demographics
+* At least a few years old
+* Dissolution is improbable 
 
-* Maintaining all the priorities listed under a medium sized group.
-* Attracting new members who might be particularly valuable to the EA community. 
-* Providing resources to support new EA projects.
-* Organising showpiece events with high-profile speakers. 
-* Maintaining an excellent brand-presence (e.g. social media, website).
+Recommended priorities:
 
+* Complete the small and medium-group tasks listed above
+* Attract new members who might be particularly valuable to the EA community 
+* Provide resources to support EA projects
+* Organise showpiece events with high-profile speakers 
+* Build excellent brand-presence. It may be helpful to use social media or set up a website
 
-# Further Resources
+# More Resources
 
 * EA Oxford’s brainstorm of the <a target="_blank" href="https://docs.google.com/document/d/1NHIPkNNPt7dDcc6-tt18TpaaPQmJf-bSpJQtEVwall4/edit?usp=sharing">functions of an EA Group</a>
 * EA Denmark’s <a target="_blank" href="https://docs.google.com/document/d/1sf2y6sM3F0huE_XMRLFl98l_TuLuXM872e2ArGnlT1E/edit#heading=h.vs2jjp3on5g5">Overall Goals</a> 
-* EA Denmark’s <a target="_blank" href="https://forum.effectivealtruism.org/posts/7He8vRrbyyeKFZdif/strategy-development-for-ea-groups-lessons-learned-from-ea">process for determining their goals and creating projects</a>.
+* EA Denmark’s <a target="_blank" href="https://forum.effectivealtruism.org/posts/7He8vRrbyyeKFZdif/strategy-development-for-ea-groups-lessons-learned-from-ea">process for determining their goals and creating projects</a>
 
-<hr>
+<hr>
 
 ### [NEXT: Models of Movement Building](/tips/articles/models/)
 
@@ -73,6 +84,6 @@ Priorities could be:
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1dNKLHJQ0W6ApzSSMqb9UZzK032wBjMUvfnOuvgVelzk/edit?usp=sharing">_this google doc._</a>
+*If you have suggestions on how to improve this page, please comment or suggest edits on* <a target="_blank" href="https://docs.google.com/document/d/1dNKLHJQ0W6ApzSSMqb9UZzK032wBjMUvfnOuvgVelzk/edit?usp=sharing">*this google doc.*</a>
 
 <hr>
