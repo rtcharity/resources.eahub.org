@@ -20,9 +20,7 @@ license:
 
 Compared to other activities in the EA community, new and current members of EA groups see immense value in private meetings with group organisers. We call these in-person meetings one-on-ones. 
 
-
 We outline the benefits of one-on-ones and reasons why they may or may not be relevant to your group. We also collect practical tips from the community and other additional resources on this page.
-
 
 In general, one-on-ones are useful for:
 
@@ -40,7 +38,6 @@ In general, one-on-ones are useful for:
 
 A group can only host so many different types of activities. Every group’s member-base varies, as does its leaders’ strengths and weaknesses. Your emphasis on one-on-ones may differ depending on these factors. 
 
-
 Your group may benefit more from one-on-ones if many members are: 
 
 * New to EA and eager to learn more about the community and its cause areas
@@ -50,7 +47,7 @@ Your group may benefit more from one-on-ones if many members are:
 
 One-on-ones may be less important than other activities if leading members:
 
-* Find one-on-ones socially challenging. Making others feel welcome is critical, especially for newer members. An uncomfortable experience may deter them from getting more involved
+* Find one-on-ones socially challenging. Making others feel welcome is <a target="_blank" href="/tips/community-health/#importance">critical</a>, especially when speaking with newer members. An uncomfortable experience may deter them from getting more involved
 * Have insufficient knowledge about effective altruism. Organisers should be able to answer common questions with ease
 * Lack the capacity to run both one-on-ones and different types of events
 
@@ -67,7 +64,6 @@ Finally, EA Oxford produced a <a target="_blank" href="https://forum.effectiveal
 # Career One-on-Ones
 
 EA offers a unique perspective on individuals' career paths. Career one-on-ones provide a platform to discuss career aspirations and consider EA-aligned options. You may also conduct these discussions in small-group settings.
-
 
 EA Israel produced a <a target="_blank" href="https://forum.effectivealtruism.org/posts/qyG6YrxTAnRGkBhRT/guide-for-conducting-career-consultation">guide</a> to conducting career consultations with group members. EA London's <a target="_blank" href="https://docs.google.com/document/d/1fHG0MRNbcBzDCoearV-f66_viFwXCeRgZCrhzpFQFoA/edit">Values and Personal Fit question list</a> provides prompting questions for your one-on-one.
 
@@ -89,7 +85,6 @@ One-on-ones can seem weird to some people at first.
 
 * When you first bring up the option of having a one-on-one, let people know this is a regular activity your group does -- make it obvious that you aren't asking them on a date!
 * Use casual, but specific phrases like "grabbing a coffee and chatting about X".
-
 * Meet in a public space such as a cafe or park.
 
 ## Timing
