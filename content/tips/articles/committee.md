@@ -3,7 +3,7 @@ title: Committee Structures
 date: 2019-09-22T23:10:57.814Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 23rd September 2019_
 
@@ -16,7 +16,7 @@ The following section contains suggestions on how to structure a committee. Exce
 * Many groups have found that organising people by projects, not specific tasks, seems to work well.
 * Once a group gets bigger, there can be two levels of management: the overarching leadership (see the suggested roles below) and specific project managers.
 * Keep your committee structure flexible.
-* Group members can range in motivation. Highly motivated members will do whatever tasks need to be done and take on responsibilities readily. Less motivated members will need encouragement and structure to complete tasks and may mostly wish to do particularly enjoyable tasks. If you have mostly highly motivated members then adding layers of organisational structure could hinder more than help. But if many of your members are less motivated, the structure can help. Have a look at <a target="_blank" href="https://docs.google.com/document/d/1YVA-AFQ7MUzCuU8SY6RqfpxxVGySDpeFHGtgtApZaP0/edit#bookmark=id.o51twwdtmxbv">this document</a> by Rohin Shah for more information. 
+* Group members can range in motivation. Highly motivated members will do whatever tasks need to be done and take on responsibilities readily. Less motivated members will need encouragement and structure to complete tasks and may mostly wish to do particularly enjoyable tasks. If you have mostly highly motivated members then adding layers of organisational structure could hinder more than help. But if many of your members are less motivated, the structure can help. Have a look at <a target="_blank" href="https://docs.google.com/document/d/1YVA-AFQ7MUzCuU8SY6RqfpxxVGySDpeFHGtgtApZaP0/edit#bookmark=id.o51twwdtmxbv">this document by Rohin Shah</a> for more information. 
 
 # Example committee structure for a group
 
@@ -36,7 +36,7 @@ Similar strategies can be used for other committee roles.
  
 # Incorporation
 
-If you are considering whether or not to incorporate your city group, it is important to check the legal regulations that your group will adhere to. If your group is not very large or your members do not have a lot of time, the organisational overhead may not be worth it. EA Melbourne shared the considerations that they made, <a target="_blank" href="https://docs.google.com/document/d/1GCUwDKE5MTWeoM6Fr5be63j1u-PW-lUUASRTOywEtqg/edit">here</a>. 
+If you are considering whether or not to incorporate your city group, it is important to check the legal regulations that your group will adhere to. If your group is not very large or your members do not have a lot of time, the organisational overhead may not be worth it. EA Melbourne shared the <a target="_blank" href="https://docs.google.com/document/d/1GCUwDKE5MTWeoM6Fr5be63j1u-PW-lUUASRTOywEtqg/edit">considerations</a> that they made. 
 
 <hr>
 
