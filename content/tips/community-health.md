@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 30th June 2020_
+### _Updated 23rd July 2020_
 
 _This page is compiled from resources written by Owen Cotton-Barratt, Julia Wise,_ <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">_CEA Community Health workshop sessions_</a>,  _and suggestions from the CEA groups and community health teams_.
 
@@ -179,7 +179,9 @@ It can be difficult to predict which topics will affect people negatively, but h
 
 * **Inclusion and diversity.** Topics relating to diversity within the EA community, and within society as a whole can often be controversial. Including faith, race, and gender roles in society. 
 
-Many discussions that have the potential to be sensitive are also not particularly useful for working out how to effectively improve the world, so in these cases it might be better to move onto another topic.
+When considering whether to start, or continue, a conversation on a potentially sensitive topic, it is worth considering whether the benefits of the conversation will likely outweigh the costs. For example, a discussion on Peter Singer’s views on infanticide of very disabled newborns could be offputting to members of the group, and is unlikely to provide actionable outcomes. However, it may be worth thoughtfully discussing diversity within the EA movement with your group if you think this conversation could lead to improvements, such as making your group more welcoming to a wider variety of people.
+
+One group member expressed their position on sensitive topics as “[I] don't mind if people talk about painful and difficult subjects as long they've tried to minimize the harm and the conversation is genuinely useful. I do mind if people casually bring up hurtful topics which provide no discernable gain to the community.”
 
 ## Establishing a Healthy Environment
 
