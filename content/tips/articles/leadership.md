@@ -3,11 +3,11 @@ title: Leadership Skills
 date: 2020-02-07T05:06:51.415Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### *Published 23rd September 2019*
 
-# Chapters
+# Sections
 * <a href="#buildcommunity">How to Build and Maintain a Community</a>
 * <a href="#delegation">Delegation</a>
 * <a href="#exampleconstitutions">Example Constitutions</a>
