@@ -29,6 +29,6 @@ This page links all the currently available editable graphics. Browse the <a tar
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="LINK_HERE">_this google doc._</a>
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1YOQFxaMGarwX_F3KksZmNdeUkiCbzsDyyMdWR0iivUE/edit?usp=sharing">_this google doc._</a>
 
 <hr>
