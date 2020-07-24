@@ -56,7 +56,7 @@ Meeting leader’s tasks:
 * Help the group come to decisions after the options have been discussed 
     * If it is a small group you can ask each person
     * If you have a large group at your meetings you may wish to take a poll of people’s positions, e.g. thumbs up, thumbs down, thumbs to the side (neutral)
-* Ensures the meeting covers everything it needs to, allocates sufficient time to specific topics and includes Action Points to make the next steps clear
+* Ensure the meeting covers everything it needs to, allocate sufficient time to specific topics and include Action Points to make the next steps clear
 * Summarise the key takeaways and priorities at the end of the meeting
 * Thank everyone for attending and volunteering!
  
