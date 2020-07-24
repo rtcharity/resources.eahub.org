@@ -31,8 +31,8 @@ Choose next year’s leadership early—ideally at least three months before you
 
 * Ensure the new organisers are connected with the support they need from outside of the group:
    * Ask them to sign up to the <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">EA Groups Newsletter</a>
-   * Invite them to ioin groups for organisers on <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook</a> and/or <a target="_blank" href="https://join.slack.com/t/eagroups/shared_invite/enQtMzA2NDQ1NzMxOTA3LThjOGNkZTU3NTc0OTc4NmY5YjFmNjRiZmI2ZGZiNTgyYzc1NjY2N2QwYzFmNmEzNjI3NTRkNDI0ZjcyNGM3Y2I">Slack</a>.
-   * Introduce them to the CEA Groups Team on <a href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
+   * Invite them to join groups for organisers on <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook</a> and/or <a target="_blank" href="https://eagroups.slack.com/">Slack</a>.
+   * Introduce them to the CEA Groups Team on <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a>
    * Connect them to the organisation at your university responsible for supporting groups 
 * Update the group details on the <a target="_blank" href="https://eahub.org/groups/">EA Hub</a>
 * Have a period of time in which you can show new organisers the ropes by discussing decisions with them and letting them sit in on strategy meetings
