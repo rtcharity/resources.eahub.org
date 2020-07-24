@@ -3,7 +3,7 @@ title: Organiser Meetings
 date: 2020-02-07T05:32:17.554Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 23rd September 2019_
 
@@ -56,7 +56,7 @@ Meeting leader’s tasks:
 * Help the group come to decisions after the options have been discussed 
     * If it is a small group you can ask each person
     * If you have a large group at your meetings you may wish to take a poll of people’s positions, e.g. thumbs up, thumbs down, thumbs to the side (neutral)
-* Ensures the meeting covers everything it needs to, allocates sufficient time to specific topics and includes Action Points to make the next steps clear
+* Ensure the meeting covers everything it needs to, allocate sufficient time to specific topics and include Action Points to make the next steps clear
 * Summarise the key takeaways and priorities at the end of the meeting
 * Thank everyone for attending and volunteering!
  
@@ -83,6 +83,6 @@ The meeting leader (or project leader) should follow up with individuals on thei
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1zf9FTkDD63JADAgVyUeh6OuJ2ec5mhBPTzsxF-ogdbQ/edit?usp=sharing">_this google doc._</a>
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1BNtlwQKKBiKbJdaw62jv1m51KLLw279cMARn99ZQEYE/edit?usp=sharing">_this google doc._</a>
 
 <hr>
