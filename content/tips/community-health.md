@@ -116,7 +116,7 @@ Here are some resources that will help you learn more about diversity and inclus
   </a>. This article is focused on the animal advocacy movement, but many of the conclusions also apply to the EA movement. 
 * Forum posts from community members:
 
-  * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach
+  * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach</a>
   * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a> 
   * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box"> EA Diversity: Unpacking Pandora’s Box</a>
   * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a> 
