@@ -18,7 +18,6 @@ license:
 
   * <a href="#ideas">Being Welcoming to People With a Diversity of Ideas</a>
   * <a href="#demo">Demographic Diversity</a>
-  * <a href="#welcoming">Creating Welcoming, Inclusive Groups</a>
   * <a href="#boundaries">Boundaries</a>
 * <a href="#sensitive-topics">Handling Sensitive Topics</a>
 * <a href="#issues">Dealing With Issues</a>
@@ -41,7 +40,7 @@ For more, Owen-Cotton Barratt's <a target="_blank" href="http://globalpriorities
 
 # Creating Welcoming, Inclusive Groups
 
-We highly recommend using Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> to create a welcoming group. This top resource discusses many different types of diversity and suggests concrete steps to promote inclusiveness. 
+We highly recommend using Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> to create a welcoming group. This top resource discusses many different types of diversity, including psychological and ideological differences, and suggests concrete steps to promote inclusiveness. 
 
 It is also well worth watching Julia's <a target="_blank" href="https://www.youtube.com/embed/SfXJ7MUjeLg">EAGxAustralia talk</a> from 2019 on building a diverse, welcoming, and healthy community (38 minutes).
 
@@ -59,11 +58,9 @@ The rest of this section covers additional advice not already listed in Julia’
 
 People come with widely differing intuitions about things like population ethics, moral frameworks, and more. Even within the community, people care about a plethora of different cause areas, and <a target="_blank" href="https://forum.effectivealtruism.org/posts/ZqiGXrqLQg2ocFGQk/cooperation-in-a-movement-supporting-diverse-causes">we benefit from cooperation</a>. Conversely, assuming others share your perspective can lead to pointless arguments and alienation rather than productive debates.
 
-Many other resources about this topic are available:
+Other resources about this topic are available:
 
 * The EA Hub guide on “<a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">Communicating About EA</a>” suggests ways to introduce EA ideas in a fashion that may be more appealing to people with a diversity of thoughts. 
-* Julia Wise describes how to deal with ideological and psychological diversity in her guide on “<a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.1fmjqomt474t">Making a Welcoming Group</a>”. 
-
 * Ozymandias’ post “<a target="_blank" href="https://thingofthings.wordpress.com/2018/12/19/how-effective-altruists-can-be-welcoming-to-conservatives/">Being Welcoming to Conservatives</a>”, offers several recommendations on how to include conservatives from a US context, but many of the recommendations can be adapted to people of other political or ideological backgrounds.
 
 Remember that effective altruists tend to hold less diverse philosophical viewpoints online than in-person. For example, longtermist views are often prevalent on the EA forum. But the 2019 EA Survey indicates a broader range of priorities among EAs overall, as seen in the graph below. Data shown in the charts below can help us keep our differences in mind, as well as our need for inclusiveness. 
@@ -100,9 +97,7 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 
 The effective altruism community has a larger proportion of young people, white people, and males than the general population.
 
-
 According to the <a target="_blank" href="https://forum.effectivealtruism.org/posts/8hExrLibTEgyzaDxW/ea-survey-2019-series-cause-prioritization"> EA Survey 2019</a>, the community is approximately 70% male, 87% white, and its members are on average 31 years old. We have a long way to go to make it possible for people with different perspectives and experiences to make contributions which reflect their full potential.
-
 
 Here are some resources that will help you learn more about diversity and inclusion issues in the EA community. We recommend using them to improve diversity in your group.
 
@@ -121,26 +116,16 @@ Here are some resources that will help you learn more about diversity and inclus
   </a>. This article is focused on the animal advocacy movement, but many of the conclusions also apply to the EA movement. 
 * Forum posts from community members:
 
-  ```
   * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach
-  ```
-
-  ```
   * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a> 
-
-  * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box">EA Diversity: Unpacking Pandora’s Box
-  ```
-
-  ```
+  * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box"> EA Diversity: Unpacking Pandora’s Box</a>
   * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a> 
-  ```
-* An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources
-  </a>. People outside the EA community collated these. They mostly target white people in the USA, but many of the recommendations have broader applicability.
+* An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. People outside the EA community collated these. They mostly target white people in the USA, but many of the recommendations have broader applicability.
 
 ### Community
 
-* <a target="_blank" href="">Ethnic Diversity group on Facebook</a> (for people who identify with a non-white ethnicity or race)
-* <a target="_blank" href="">Diversity & Inclusion in EA group on Facebook</a> (open to all)
+* <a target="_blank" href=" https://www.facebook.com/groups/487263712002225">Ethnic Diversity group on Facebook</a> (for people who identify with a non-white ethnicity or race)
+* <a target="_blank" href=" https://www.facebook.com/groups/diversityEA">Diversity & Inclusion in EA group on Facebook</a> (open to all)
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women and Non-Binary EA Facebook Group</a>
 * <a target="_blank" href="https://www.wanbam.com/">WANBAM (Women and Non-Binary Altruism Mentorship Program)</a>
 
@@ -150,11 +135,9 @@ Here are some resources that will help you learn more about diversity and inclus
 
 Small groups should be open and welcoming to all, but as groups grow, more selective guest lists may improve event outcomes. Consider the purpose of each event and identify the ideal audience. Then advertise carefully to draw in the right people without appearing to exclude others. 
 
-
 Here is more information on <a target="_blank" href="https://docs.google.com/document/d/1HZ2F_S8MVwEAzj22Nlp499zZNZe0IY8QtOw_9ZQarvk/edit#heading=h.8f6mv3vsjg9t">choosing a purpose</a> for events. Also, check out our tips on working out who to invite (among other things) in <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">The Art of Gathering</a>.
 
 When holding more serious events for community subgroups, there are a few different ways to advertise to a target audience. Consider sending personal invites, adding sign-up hurdles to weed out less engaged people, and getting explicit about the event's ideal audience. 
-
 
 Beware of sign-up processes where you might reject event attendees. By being too selective, you risk losing attendees that you'd rather keep. 
 
@@ -172,7 +155,6 @@ For a detailed description of boundaries and their importance, see <a target="_b
 *Compiled from Julia Wise and CEA’s* <a target="_blank" href="https://docs.google.com/document/d/1JH0zG3X6jcYcyGbyTmunmuGUYtKWLfv1YMCxNxeHujM/edit">*Community Health Discussions*</a>.
 
 EAs often engage in serious conversations on a wide range of ethical and philosophical issues. It's excellent, but tensions can form between those who view the discussions as intellectual exercises and those who find the topics intensely personal. Both listeners and active participants in a conversation may be affected.
-
 
 Careful handling of sensitive topics helps to create a healthy environment. Organisers of groups of any size should read on. 
 
@@ -236,14 +218,14 @@ This section links to guides covering interpersonal conflicts, lack of inclusive
   * Practice Scenarios
 * <a target="_blank" href="https://docs.google.com/document/d/1TKRofVZ4Rwa0X4cDjIUx3GEbYHK03AtaO-4zCdx6Jzc/edit">Reducing problems from alcohol at events</a> (CEA)
 
-   Contents of this guide:
+     Contents of this guide:
 
   * Proactive steps
   * What to do if you notice a problem
   * After a problem
 * <a target="_blank" href="https://docs.google.com/document/d/1h4GSwWcuA3scnBUpCUNdu2I70PXUTWZk2jkaB8Jghc8/edit#heading=h.d9dp2ginf9pt">How to handle controversies in EA</a> (CEA)
 
-   Contents of this guide:
+     Contents of this guide:
 
   * List of potential controversies
   * Steps to take
@@ -260,8 +242,9 @@ This section links to guides covering interpersonal conflicts, lack of inclusive
 
 As a group organiser, you may experience someone's inappropriate behaviour towards you. Remember that you are never obligated to confront the person yourself - you can ask another member of the group to talk to the person in question on your behalf. It can also be helpful to raise your concerns with co-organisers or specialists outside your group. Julia Wise and Sky Mayhew from the Community Health team will help you with problems you've noticed or experienced in the EA community. 
 
+The best way to contact them is through email: 
 
-The best way to contact them is through email: <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. 
+<a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. 
 
 You can also <a target="_blank" href="https://goo.gl/forms/oqiYRuynO37oOtYv1">contact Julia anonymously</a>.
 
