@@ -34,7 +34,7 @@ Fellowships tend to appear prestigious and selective. They often expect a high l
 
 Different groups use different formats. Here are three options.
 
-* Invite approximately 15 people from a pool of applicants to attend weekly discussions. Encourage each fellow to have a one-on-one meeting with the facilitator. Yale EA is using this model.
+* Invite approximately 15 people from a pool of applicants to attend weekly discussions. Encourage each fellow to have a one-on-one meeting with the facilitator. Harvard (Arete) and Yale EA are using this model.
 * Accept many applicants from a pool and split them into groups of 5-6 fellows. Assign a facilitator to each group. EA Brown is using this model. 
 * Run the fellowship through a series of regular one-on-one meetings (or one-on-two meetings). The facilitator's time commitment is greater with this model, but groups report that 1-1 dynamics feel more warm and supportive than large group discussions. Additionally, facilitators can tailor the programme to the individuals involved. EA St Andrews and Stanford EA use this model.
 
@@ -62,7 +62,7 @@ Jessica McCurdy (<a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessi
 
 # Other Types of Fellowships
 
-Some uni groups also run fellowships focusing on effective career paths. Other groups run advanced fellowships to further the understanding of people who are already familiar with EA principles.
+Some uni groups run fellowships focusing on effective career paths. Other groups run advanced fellowships to further the understanding of people who are already familiar with EA principles.
 
 <hr>
 
