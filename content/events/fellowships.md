@@ -44,7 +44,7 @@ The most popular EA fellowship is the Arete Fellowship, which was first designed
 
 This <a target="_blank" href="https://drive.google.com/drive/folders/1BSwUdewEI_IIkx2jtHECbN4wkI4P8Afw">Google Drive folder</a> maintained by Harvard EA contains all necessary materials to run an Arete Fellowship. Start with the <a target="_blank" href="https://drive.google.com/open?id=1vovG4UymDb7-ToyzswsNyoPS4Y9ahZoo_6Ci1505lAE">Arete Fellowship Guide</a>, which explains how the fellowship works and advises on how to make it successful. If you like their model, consider copying Harvard's resources and modifying them to suit your group.
 
-A post on the EA Forum describes<a target="_blank" href="https://forum.effectivealtruism.org/posts/4GkAtcMohxK2m2bXH/the-arete-fellowship">Harvard EA's experience</a> with running the fellowship.
+A post on the EA Forum describes <a target="_blank" href="https://forum.effectivealtruism.org/posts/4GkAtcMohxK2m2bXH/the-arete-fellowship">Harvard EA's experience</a> with running the fellowship.
 
 Stephen Casper (<a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a>) from Harvard EA can advise you if you are interested in running a similar fellowship.
 
@@ -52,7 +52,7 @@ Stephen Casper (<a target="_blank" href="mailto:thestephencasper@gmail.com">thes
 
 Yale runs a similar fellowship to Arete, but with more emphasis on global health and poverty.
 
-Yale EA posted a <a target="_blank" href="https://forum.effectivealtruism.org/posts/suGcEobbHZZ4Gspeh/a-guide-to-effective-altruism-fellowships">detailed guide</a>to running fellowships on the EA Forum. It is based on their 2018 fellowship and contains links to all the relevant resources. They have since updated their <a target="_blank" href="https://docs.google.com/document/d/1ScJiL9crh0rfNgTv0aGcZtiEU3HYKpwSXQ1raRaWPfM/edit#heading=h.emnv7fke4g78">reading list for 2020</a>. 
+Yale EA posted a <a target="_blank" href="https://forum.effectivealtruism.org/posts/suGcEobbHZZ4Gspeh/a-guide-to-effective-altruism-fellowships">detailed guide</a> to running fellowships on the EA Forum. It is based on their 2018 fellowship and contains links to all the relevant resources. They have since updated their <a target="_blank" href="https://docs.google.com/document/d/1ScJiL9crh0rfNgTv0aGcZtiEU3HYKpwSXQ1raRaWPfM/edit#heading=h.emnv7fke4g78">reading list for 2020</a>. 
 
 Jessica McCurdy (<a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessica.mccurdy@yale.edu</a>) from Yale EA can advise you if you are interested in running a similar fellowship.
 
