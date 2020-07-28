@@ -11,7 +11,7 @@ license:
  <img src="/img/virtualmeetup.png" />
 </p>
 
-_Image: Yale EA_
+_Image: Yale EA and Stanford EA_
 
 # General Guide 
 This <a target="_blank" href="https://docs.google.com/document/d/1d6ttrngMBeVevvJmWhEEIQfp0mNrrOlwT6tr0WUHcsU/edit">google doc</a> contains a community created guide on how to run a variety of virtual events. Please contribute your own ideas! 
