@@ -96,7 +96,7 @@ Try to make your events free or very cheap. University groups frequently offer f
 
 <a name="equipandfacil"></a>
 
-# Equipment and facilities
+# Equipment and Facilities
 
 Ask yourself if you need any of the following:
 
