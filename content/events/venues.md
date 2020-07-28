@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 12th November 2019*
+### *Published 12th November 2019, Updated 28th July 2020*
 
 The following guide compiles information from LEAN, CEA’s <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.t7zreyv211hy">guide on making a welcoming group</a>, and tips from local group organisers. 
 
