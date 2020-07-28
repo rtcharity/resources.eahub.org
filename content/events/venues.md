@@ -7,7 +7,7 @@ license:
 ---
 ### *Published 12th November 2019, Updated 28th July 2020*
 
-The following guide compiles information from LEAN, CEA’s <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.t7zreyv211hy">guide on making a welcoming group</a>, and tips from local group organisers. 
+The following guide compiles information from LEAN, CEA’s <a target="_blank" href="https://docs.google.com/document/d/1spZ6Ohx_8GPrxoPF4l1lQsXnhJOIUu2KlbqxRQCHi4k">guide on making a welcoming group</a>, and tips from local group organisers. 
 
 The types of venues available to you will be specific to your group, location and type of event. No place is perfect, but the following contains a few tips for what to consider when seeking a suitable location for your event. If you are considering hosting a dinner at your own home, check out <a target="_blank" href="https://docs.google.com/document/d/13xOvP6omxVZo9na2n7VmszXecrlIP8Tj8_NuohOqKyw/edit">this page</a> on hosting dinners. 
 
@@ -46,7 +46,7 @@ The types of venues available to you will be specific to your group, location an
 
   * Hosting meetings at home or in an open space like a park or courtyard can give parents flexibility. 
   * Try to vary the time of day or week when scheduling events, especially if you hold multiple meetings per week. Evenings may be great for parents whose babies can sleep in a stroller, but terrible for parents of older kids who need to be in bed early. Adding lunchtime or afternoon events can help. 
-* For more tips on making your events child-friendly, check out <a target="_blank" href="https://forum.effectivealtruism.org/posts/cPihAcJ8z5BZQ8hDB/on-making-spaces-friendlier-to-parents">this forum post</a> by Julia Wise. 
+* Julia Wise shares <a target="_blank" href="https://forum.effectivealtruism.org/posts/cPihAcJ8z5BZQ8hDB/on-making-spaces-friendlier-to-parents">more tips</a> on making your events child-friendly. 
 
 <a name="safety"></a>
 
@@ -82,7 +82,7 @@ Try to make your events free or very cheap. University groups frequently offer f
   * Have a mix of sun and shade so people can choose to be in or out of the sun
   * Clearly describe the meeting place and pinpoint it precisely with a Google Maps link so visitors can easily find you
 * Some locations have open courtyards near cafes. They tend to be quieter, with much less pressure on attendees to buy food. 
-* Hosting the event at your home is an option if your group is small or your home is large. New attendees may find it intimidating coming to a stranger's house, so personally contacting new people who RSVP to the event and putting up an EA sign outside can help welcome newcomers. See <a target="_blank" href="https://docs.google.com/document/d/13xOvP6omxVZo9na2n7VmszXecrlIP8Tj8_NuohOqKyw/edit?usp=sharing">this document</a> for tips and menus if you take this approach. 
+* Hosting the event at your home is an option if your group is small or your home is large. New attendees may find it intimidating coming to a stranger's house, so personally contacting new people who RSVP to the event and putting up an EA sign outside can help welcome newcomers. See <a target="_blank" href="https://docs.google.com/document/d/1spZ6Ohx_8GPrxoPF4l1lQsXnhJOIUu2KlbqxRQCHi4k">this document</a> for tips and menus if you take this approach. 
 * Going on walks or hikes together is ideal for generating one-on-one conversations, and is good exercise too!
 
 ## Rooms for Discussion Groups and Presentations
