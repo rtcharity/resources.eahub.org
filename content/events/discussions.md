@@ -3,8 +3,10 @@ title: Discussion Groups
 weight: 5
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
+### _Published 12th November 2019_
+
 <p class="large_image_wrapper">
  <img src="/img/eventseaf2.jpg" />
 </p>
