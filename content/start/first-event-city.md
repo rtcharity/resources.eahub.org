@@ -3,8 +3,10 @@ title: Preparing for Your First Event (City Groups)
 weight: 8
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
+### _Published 20th September 2019_
+
 <p class="small_image_wrapper">
 <img src="/img/startperth1.png" />
 </p>
