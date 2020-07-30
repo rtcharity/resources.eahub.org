@@ -150,7 +150,7 @@ Before people start arriving, ask the speaker to confirm:
 # Video Presentations
 Additional steps for running a video presentation:
 
-* Make sure the wifi in the venue is excellent before booking
+* Make sure the wifi in the venue is excellent before booking.
 * Ask your speaker to situate themselves somewhere with excellent wifi too.
 * Ensure both you and the speaker have two different video call options (e.g. Skype, Hangouts, Zoom) available and prepared so you can change options early.
 * If your speaker wishes to use slides, ensure the speaker is ready and able to share screens with you. Ideally have the start and finish of the talk involve people seeing the speaker rather than the slides.
