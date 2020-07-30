@@ -3,7 +3,7 @@ title: Speaker Events
 weight: 8
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 10th January 2020_
 
@@ -22,7 +22,7 @@ It may be useful to consider the following costs and benefits and decide if your
 
 **Costs of a speaker event**
 
-* If you are inviting a high-profile speaker and hoping to get a large audience the preparation can take a lot of time.
+* If you are inviting a high-profile speaker and hoping to get a large audience, the preparation can take a lot of time.
 * Groups hosting speakers report that the conversion of speaker event attendees to regular members is often low.
 * Needs to be planned well in advance to accommodate speakers’ schedules and venue bookings.
 * Speakers may require transportation and accommodation expenses if they are coming from out of town. You can apply for financial support <a target="_blank" href="http://resources.eahub.org/tips/support">here</a>.
@@ -30,7 +30,7 @@ It may be useful to consider the following costs and benefits and decide if your
 # Contents
 
 * <a href="#findingaspeaker">Finding a Speaker</a>
-* <a href="#invitingaspeaker">Inviting a Speaker</a>
+* <a href="#invitingspeakers">Inviting a Speaker</a>
 * <a href="#logisticsprep">Logistics Preparation</a>
 * <a href="#ontheday">On the Day</a>
 * <a href="#videopresentations">Video Presentations</a>
@@ -110,7 +110,7 @@ Aim to find at least 3-4 people in addition to yourself to attend. If it is a hi
 Consider the gender and ethnic diversity on the stage when selecting a person to act as the host and introduce the speaker, and how you would see an event/publicity if you were from a different background or had different views. 
 
 ### Introduction to EA
-Depending on your event and audience, especially if you have several newcomers, it might be useful for the host to include a clear 3-5 minute explanation about what Effective Altruism is, the breadth of cause areas, and the different ways people can effectively contribute (career, donations, and volunteering). Check out these approaches to <a target="_blank" href="https://resources.eahub.org/learn/articles/what-to-say/">explaining effective altruism </a>.
+Depending on your event and audience, especially if you have several newcomers, it might be useful for the host to include a clear 3-5 minute explanation about what Effective Altruism is, the breadth of cause areas, and the different ways people can effectively contribute (career, donations, and volunteering). Check out these approaches to <a target="_blank" href="https://resources.eahub.org/learn/articles/what-to-say/">explaining effective altruism</a>.
 
 ### Speaker introduction
 Prepare the introduction in advance, highlighting information attendees are most likely to find relevant, including why this speaker is worth listening to, and why the topic might be relevant to the audience. Use the short bio you have confirmed with the speaker as the basis for your introduction, but avoid listing off awards or positions. Keep the introduction brief, about one minute long, as people are here to listen to the speaker, not the person making the introduction.
@@ -129,6 +129,7 @@ Aim to have the speaker arrive about 15-20 minutes before the start time.
 
 ### Final preparation
 Before people start arriving, ask the speaker to confirm:
+
 * The length of their talk
 * Whether they are willing to have questions at any point throughout the talk, or whether they would like people to wait until the end 
 * How they would like the Q&A to proceed - whether they’d like a member of the committee to select questioners and help moderate the discussion, or whether they are happy to moderate the Q&A themselves, and how long they are happy for the Q+A to run for. 
