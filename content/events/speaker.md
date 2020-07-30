@@ -30,7 +30,7 @@ It may be useful to consider the following costs and benefits and decide if your
 # Contents
 
 * <a href="#findingaspeaker">Finding a Speaker</a>
-* <a href="#invitingaspeaker">Inviting a Speaker</a>
+* <a href="#invitingspeakers">Inviting a Speaker</a>
 * <a href="#logisticsprep">Logistics Preparation</a>
 * <a href="#ontheday">On the Day</a>
 * <a href="#videopresentations">Video Presentations</a>
