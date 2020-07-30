@@ -131,7 +131,7 @@ Aim to have the speaker arrive about 15-20 minutes before the start time.
 Before people start arriving, ask the speaker to confirm:
 
 * The length of their talk
-* Whether they are willing to have questions at any point throughout the talk, or whether they would like people to wait until the end 
+* Whether they are willing to have questions at any point throughout the talk, or whether they would like people to wait until the end
 * How they would like the Q&A to proceed - whether they’d like a member of the committee to select questioners and help moderate the discussion, or whether they are happy to moderate the Q&A themselves, and how long they are happy for the Q+A to run for. 
 
 ### After the talk
