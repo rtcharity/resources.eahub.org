@@ -3,7 +3,7 @@ title: Speaker Events
 weight: 8
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 10th January 2020_
 
@@ -22,7 +22,7 @@ It may be useful to consider the following costs and benefits and decide if your
 
 **Costs of a speaker event**
 
-* If you are inviting a high-profile speaker and hoping to get a large audience the preparation can take a lot of time.
+* If you are inviting a high-profile speaker and hoping to get a large audience, the preparation can take a lot of time.
 * Groups hosting speakers report that the conversion of speaker event attendees to regular members is often low.
 * Needs to be planned well in advance to accommodate speakers’ schedules and venue bookings.
 * Speakers may require transportation and accommodation expenses if they are coming from out of town. You can apply for financial support <a target="_blank" href="http://resources.eahub.org/tips/support">here</a>.
