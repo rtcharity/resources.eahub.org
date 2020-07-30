@@ -110,7 +110,7 @@ Aim to find at least 3-4 people in addition to yourself to attend. If it is a hi
 Consider the gender and ethnic diversity on the stage when selecting a person to act as the host and introduce the speaker, and how you would see an event/publicity if you were from a different background or had different views. 
 
 ### Introduction to EA
-Depending on your event and audience, especially if you have several newcomers, it might be useful for the host to include a clear 3-5 minute explanation about what Effective Altruism is, the breadth of cause areas, and the different ways people can effectively contribute (career, donations, and volunteering). Check out these approaches to <a target="_blank" href="https://resources.eahub.org/learn/articles/what-to-say/">explaining effective altruism </a>.
+Depending on your event and audience, especially if you have several newcomers, it might be useful for the host to include a clear 3-5 minute explanation about what Effective Altruism is, the breadth of cause areas, and the different ways people can effectively contribute (career, donations, and volunteering). Check out these approaches to <a target="_blank" href="https://resources.eahub.org/learn/articles/what-to-say/">explaining effective altruism</a>.
 
 ### Speaker introduction
 Prepare the introduction in advance, highlighting information attendees are most likely to find relevant, including why this speaker is worth listening to, and why the topic might be relevant to the audience. Use the short bio you have confirmed with the speaker as the basis for your introduction, but avoid listing off awards or positions. Keep the introduction brief, about one minute long, as people are here to listen to the speaker, not the person making the introduction.
