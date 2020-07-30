@@ -25,7 +25,7 @@ It may be useful to consider the following costs and benefits and decide if your
 * If you are inviting a high-profile speaker and hoping to get a large audience, the preparation can take a lot of time.
 * Groups hosting speakers report that the conversion of speaker event attendees to regular members is often low.
 * Needs to be planned well in advance to accommodate speakers’ schedules and venue bookings.
-* Speakers may require transportation and accommodation expenses if they are coming from out of town. You can apply for financial support <a target="_blank" href="http://resources.eahub.org/tips/support">here</a>.
+* Speakers may require transportation and accommodation expenses if they are coming from out of town. You can <a target="_blank" href="http://resources.eahub.org/tips/support">apply for financial support</a>.
 
 # Contents
 
@@ -59,13 +59,13 @@ The invitation process looks roughly as follows:
 
 ### Tips for reaching out
 * **Leverage personal relationships**
-    * If someone has a personal relationship with the person you wish to speak, have them to reach out on behalf of the group.
+    * If someone has a personal relationship with the person you wish to speak, ask them to reach out on behalf of the group.
 
 * **Write a polite and well-informed email**
     * Personalise the email as much as possible. For instance, has one of the societies put on a similar event in the past? Have you been to one of the speaker's talks in the past? Has one of their TED talks changed your life? Try and work out how to offer something that would make the speaker want to come and talk.
         * If they are EA-aligned, they’ll want to know how much impact their talk will have. Share your goals with them.
-        * Other people might be motivated by your excitement about their specific research area that you have hosted prestigious speakers in the past, or they might want to help out a motivated group of young people.
-    * An email template (based on EA Cambridge’s template) can be found <a target="_blank" href="https://docs.google.com/document/d/1oUJEtBPSrhgEiHbR4sMx-n4M35Ell5G8Dqxq8KyyQEQ/edit#">here</a>.
+        * Other people might be motivated by your excitement about their specific research area, that you have hosted prestigious speakers in the past, or they might want to help out a motivated group of young people.
+    * An <a target="_blank" href="https://docs.google.com/document/d/1oUJEtBPSrhgEiHbR4sMx-n4M35Ell5G8Dqxq8KyyQEQ/edit#">email template</a> (based on EA Cambridge’s template) is available.
 
 
 * **Finding the speaker's email address**
@@ -79,10 +79,10 @@ The invitation process looks roughly as follows:
 
 ### Booking and Confirming
 * Once a speaker has accepted, decide on a date for the talk - keep in mind that you often won’t have much choice, especially with busy speakers.
-* Confirm what topic the speaker is going to talk on, and the length of the talk. If some areas of the speaker’s interests that are more relevant to EA than others try and steer the topic in this direction.
+* Confirm what topic the speaker is going to talk on, and the length of the talk. If some areas of the speaker’s interests are more relevant to EA than others, try and steer the topic in this direction.
     * It’s good to get as much information as possible about the speakers’ topic to help promote the event.
     * Let them know what kind of audience they will expect, so they can tailor their speech accordingly.
-* Check the speaker is happy with your talk description and the short bio and photograph you will use for advertising.
+* Check if the speaker is happy with your talk description and the short bio and photograph you will use for advertising.
 * If you need to reimburse the speaker, remind them to save their receipts.
 * If you are considering recording the talk, ask permission from the speaker.
 * At least a week before the talk confirm the following with the speaker:
@@ -95,10 +95,10 @@ The invitation process looks roughly as follows:
 # Logistics Preparation 
 
 ## Event Location
-Make sure the room type and size is appropriate for the event and the speaker. If possible, use attendance numbers from previous years or other groups and the time of the year to estimate attendance. Avoid booking a large room if you are only expecting a small audience.  For more information on finding the right venue, please see <a target="_blank" href="https://resources.eahub.org/events/venues/">here</a>.
+Make sure the room type and size is appropriate for the event and the speaker. If possible, use attendance numbers from previous years or other groups and the time of the year to estimate attendance. Avoid booking a large room if you are only expecting a small audience.  For more information on finding the right venue, please see <a target="_blank" href="https://resources.eahub.org/events/venues/">our page about venues</a>.
 
 ## Accommodation 
-If the speaker is planning to stay overnight, recommend them suitable accommodation near the event venue If you are hosting an EA-aligned speaker, they are often happy to be hosted by other EAs.
+If the speaker is planning to stay overnight, recommend suitable accommodation near the event venue. If you are hosting an EA-aligned speaker, they are often happy to be hosted by other EAs.
 
 ## Speaker Dinner 
 If the speaker agrees to dinner, book a restaurant close to the location of the talk. Make sure the restaurant has at least one decent vegan option. 
@@ -121,7 +121,7 @@ Prepare the introduction in advance, highlighting information attendees are most
 Add to your introduction whether the speaker is willing to have questions at any point throughout the talk, or whether they would like people to wait until the end.
 
 ### Prepare feedback forms or sign-up sheets (if you wish to use them)
-Sample feedback forms can be found <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/edit?usp=sharing">here</a>. If you are expecting newcomers ensure you have an opportunity for attendees to sign up to your mailing list. 
+Here is a  <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/edit?usp=sharing">sample feedback form</a>. If you are expecting newcomers, ensure you have an opportunity for attendees to sign up to your mailing list. 
 
 <a name="ontheday"></a>
 # On the Day
@@ -132,13 +132,13 @@ Before people start arriving, ask the speaker to confirm:
 
 * The length of their talk
 * Whether they are willing to have questions at any point throughout the talk, or whether they would like people to wait until the end
-* How they would like the Q&A to proceed - whether they’d like a member of the committee to select questioners and help moderate the discussion, or whether they are happy to moderate the Q&A themselves, and how long they are happy for the Q+A to run for. 
+* How they would like the Q&A to proceed - whether they’d like a member of the committee to select questioners and help moderate the discussion, or whether they are happy to moderate the Q&A themselves, and how long they are happy for the Q+A to run. 
 
 ### After the talk
 * The host thanks the speaker for their presentation.
 * Open the floor for questions and have the host moderate the discussion if requested. After the Q&A, the host should thank the speaker again and encourage everyone interested to stay around to chat. Make sure you have enough committee members around for people interested in talking, or for those who have questions about EA.)
 * If the speaker is comfortable with it, let audience members know they can ask the speaker questions after the Q&A.
-* If you are asking attendees to give feedback remind everyone about to fill out the feedback forms (for physical forms either leave these on people’s seats, hand them out at the end, or project the link if digital). 
+* If you are asking attendees to give feedback remind everyone to fill out the feedback forms (for physical forms either leave these on people’s seats, hand them out at the end, or project the link if digital). 
 * It is often a good idea to serve <a target="_blank" href="https://resources.eahub.org/events/food/">refreshments</a>.
 
 ### After the event
@@ -150,10 +150,10 @@ Before people start arriving, ask the speaker to confirm:
 # Video Presentations
 Additional steps for running a video presentation:
 
-* Check the wifi in the venue is excellent before booking
+* Make sure the wifi in the venue is excellent before booking
 * Ask your speaker to situate themselves somewhere with excellent wifi too.
 * Ensure both you and the speaker have two different video call options (e.g. Skype, Hangouts, Zoom) available and prepared so you can change options early.
-* If your speaker wishes to use slides, ensure the speaker is ready and able to share screens with you. Ideally have the start and finish of the talk involves people seeing the speaker rather than the slides.
+* If your speaker wishes to use slides, ensure the speaker is ready and able to share screens with you. Ideally have the start and finish of the talk involve people seeing the speaker rather than the slides.
 * Ideally have the webcam pointing at the host and the audience so the speaker can see who they are talking to.
 * Connect to the speaker early, and check that both groups can hear each other clearly, and check that screen sharing works if required.
 * During question and answer time, or when there are questions throughout the presentation, have the host repeat the question so that the speaker can hear the questions.
