@@ -24,7 +24,7 @@ Other pages contain information on <a target="_blank" href="https://resources.ea
 * <a href="#feedback">Feedback and Tracking</a>
 * <a href="#during">During the Event</a>
 * <a href="#dynamics">Managing Group Dynamics</a>
-* <a href="#dynamics">At the End of the Event</a>
+* <a href="#end">At the End of the Event</a>
 * <a href="#after">After the Event</a>
 * <a href="#reading">Further Reading</a>
 
@@ -138,9 +138,9 @@ To avoid forgetting, summarise what happened within a day of the event. Not down
 
 Some organisers also choose to keep track of the number of people, the methods of advertising used, and for smaller groups, the names of people that came. 
 
-<a name="start"></a>
+<a name="during"></a>
 
-# Starting the Event
+# During the Event
 
 Greet people as they arrive, make them feel welcome, and offer them a name tag (remind them it’s optional, and they can be anonymous if they wish). 
 
