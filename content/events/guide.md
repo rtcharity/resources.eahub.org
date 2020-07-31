@@ -167,18 +167,18 @@ Common issues can arise with any group of people having a discussion. For more a
 * Use people's names often so others will be reminded, specifically if you don’t have name tags. This also helps people bond.
 * Some people will come for the laughter and the friendship. It's okay to let the conversation drift off topic for a bit, but keep in mind that people are busy and have come for the effective altruism, so don't let it go on a tangent for too long, especially if your event had a specific topic. You can bring the conversation back on topic by:
 
-  * Saying "Anyway… leading back to our original topic..." or "So… how might that be relevant to <original topic>. "
+  * Saying "Anyway… leading back to our original topic..." or "So… how might that be relevant to the original topic."
   * When there is a pause in the conversation, ask a question about the original topic.
   * Commenting on what people have said, then ask what another person thinks about the original conversation topic.
 * Seek out people who seem sidelined or unsure and ask if they have questions or what they want to talk about. Of course, they may just not feel like talking, so don’t force it.
 
 ## New people
 
-* Ensure new people feel welcomed by assigning a friendly member of the group talk to them, listen to their interests, and introduce them to other people in the group. 
+* Ensure new people feel welcomed by assigning a friendly member of the group to talk to them, listen to their interests, and introduce them to other people in the group. 
 * Make sure that everyone is involved and understands what is going on.
 * You could ask new people over to a part of the room at the start of a social event, to give an introductory explanation of EA, and get people chatting. 
 * Make sure to introduce yourself and anyone in a conversation with new people before you begin. 
-* Try to avoid jargon and acronyms, and when they come up explain it rather than making new people guess or ask. You could designate “jargon catchers” who keep an ear out for jargon.  
+* Try to avoid jargon and acronyms, and when they come up, explain it rather than making new people guess or ask. You could designate “jargon catchers” who keep an ear out for jargon.  
 * Keep an eye out when people who have very different interests or levels of knowledge are talking to each other. E.g. if one person has never heard of EA before, and is looking freaked-out in a conversation with a hard-core AI enthusiast, you might join the conversation and ask the newcomer what they’re interested in, find out if they have questions, or steer them toward another conversation partner.
 
 ## How to interact with a shy person
@@ -196,7 +196,10 @@ Common issues can arise with any group of people having a discussion. For more a
 ## How to deal with someone talking about a topic no one else is interested in
 
 * You may want to designate a person to take them aside and let them talk about the topic so everyone else can have a more varied conversation. 
-* If this is a recurring problem with a single person (and a single topic), it may help to have a quiet word with the person one-on-one to point out the benefits of having a variety of conversation topics, and to gently ask them to allow other conversation topics to flow.  How to deal with ideological and psychological diversity
+* If this is a recurring problem with a single person (and a single topic), it may help to have a quiet word with the person one-on-one to point out the benefits of having a variety of conversation topics, and to gently ask them to allow other conversation topics to flow.  
+
+## How to deal with ideological and psychological diversity
+
 * People with a wide variety of ideologies can be interested in effectively improving the world. However, in the EA community there is a particularly large group of people interested in similar things, such as maths, computer science, philosophy (especially utilitarianism), and that sometimes makes the conversations less interesting or accessible for people without that background.
 * Julia Wise has some excellent <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.1fmjqomt474t">advice</a> on dealing with this. 
 
