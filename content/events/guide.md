@@ -42,11 +42,11 @@ See the <a target="_blank" href="https://docs.google.com/spreadsheets/d/1B96vuda
 
 There are many different possible purposes for an event. When planning events, defining your aim helps to achieve it.
 
-“<a target="_blank" href="https://smile.amazon.com/Art-Gathering-How-Meet-Matters-ebook/dp/B07637KVXL"> The Art of Gathering</a>” contains excellent advice on choosing a purpose, and has tips on how this will affect your planning - check out <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes about “The Art of Gathering”</a> for a summary. 
+“<a target="_blank" href="https://smile.amazon.com/Art-Gathering-How-Meet-Matters-ebook/dp/B07637KVXL">The Art of Gathering</a>” contains excellent advice on choosing a purpose, and has tips on how this will affect your planning - check out <a target="_blank" href="https://docs.google.com/document/d/1C9gFA8Wk4oTXK2jzEJGiwjRPwsB-qTwztVba5YUNTpQ/edit#">these notes about “The Art of Gathering”</a> for a summary. 
 
 Some options for a purpose could be:
 
-* Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">funnel of engagement in EA</a>. Your event could facilitate one or more of these transitions:
+* Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">funnel model of engagement in EA</a>. Your event could facilitate one or more of these transitions:
 
   * Moving people from “audience” to “followers” - outreach to people who haven’t heard of EA before.
   * Moving people from “followers” to “participants” - e.g. holding events that help new people become more knowledgeable about EA.
@@ -93,7 +93,7 @@ Check out this resource about <a target="_blank" href="/tips/community-health/">
 
 For smaller events, arrive about 20-30 minutes early to set up signs, audio-visual equipment, refreshments and troubleshoot any issues. For more formal events or those with more than 25 attendees, try to arrive approximately an hour in advance to set up. 
 
-For all events, remember to be visible by putting up direction signs. Having large banners (samples available <a target="_blank" href="/graphics/editable-graphics/#banners">here</a>) outside of the venue works very well. If you’re in a public space, display EA-related objects and tell the floor-staff where to direct people who ask about the ‘effective altruism group'. Some group organisers wear EA t-shirts, others place EA signs or books on the table. 
+For all events, remember to be visible by putting up direction signs. Having large banners (<a target="_blank" href="/graphics/editable-graphics/#banners">see our samples</a>) outside of the venue works very well. If you’re in a public space, display EA-related objects and tell the floor-staff where to direct people who ask about the ‘effective altruism group'. Some group organisers wear EA t-shirts, others place EA signs or books on the table. 
 
 Create a checklist of things to bring and tasks to do and share it with co-organisers.
 
@@ -119,7 +119,7 @@ Some things you might want on your list:
   * Ideally have printed materials in digital text format so you can email them to vision-impaired people, who may prefer to use screen readers. 
 * Copies of <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/">feedback forms</a> and pens, if collecting physical feedback forms 
 * Copies of EA books such as Doing Good Better, if available. CEA has a <a target="_blank" href="https://docs.google.com/document/d/1sD_E4MO-uweGkPM9bFqBFgbYdwACa1xXNSQoKEB0LOI/">short guide</a> on loaning out or giving these books away
-* <a target="_blank" href="">Brochures</a> about EA to hand to newcomers 
+* <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">Brochures</a> about EA to hand to newcomers 
 * Flyers, if you are running an introductory event
 
 
