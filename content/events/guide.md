@@ -201,7 +201,7 @@ Common issues can arise with any group of people having a discussion. For more a
 ## How to deal with ideological and psychological diversity
 
 * People with a wide variety of ideologies can be interested in effectively improving the world. However, in the EA community there is a particularly large group of people interested in similar things, such as maths, computer science, philosophy (especially utilitarianism), and that sometimes makes the conversations less interesting or accessible for people without that background.
-* Julia Wise has some excellent <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.1fmjqomt474t">advice</a> on dealing with this. 
+* Julia Wise has some excellent <a target="_blank" href="/tips/community-health/#welcoming">advice</a> on dealing with this. 
 
 <a name="end"></a>
 
