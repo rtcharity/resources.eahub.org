@@ -24,7 +24,7 @@ Other pages contain information on <a target="_blank" href="https://resources.ea
 * <a href="#feedback">Feedback and Tracking</a>
 * <a href="#during">During the Event</a>
 * <a href="#dynamics">Managing Group Dynamics</a>
-* <a href="#dynamics">At the End of the Event</a>
+* <a href="#end">At the End of the Event</a>
 * <a href="#after">After the Event</a>
 * <a href="#reading">Further Reading</a>
 
