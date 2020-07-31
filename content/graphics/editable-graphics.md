@@ -115,7 +115,17 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 # Physical Banners
 
 All the banner files, and the component images can be found in the Physical Banners File. 
-The first banner in this list was based on the EA Auckland Banner, and the others were inspired by banners made by CEA. 
+The second banner in this list was based on the EA Auckland Banner, and the others were inspired by banners made by CEA. 
+
+<p class="large_image_wrapper">
+<img src="/img/bannerearthnight.png" />
+</p>
+
+Note: On the Gravit file you move the image to choose a different part of the earth.
+
+<a target="_blank" href="https://designer.gravit.io/?token=EIvQm9xPW16dWAx4Mv4LdUBvguaIvwho">Editable Gravit File</a>
+
+<a target="_blank" href="https://drive.google.com/file/d/1DyozLuWyFcxhFJiofrdjNFBjF1iXHOCx/view?usp=sharing">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/horizontalbannericons.png" />
