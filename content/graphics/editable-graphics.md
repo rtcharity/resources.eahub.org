@@ -5,8 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 24th September 2019_
-### _Updated 8th March 2020_
+### _Published 24th September 2019, _updated 31st July 2020_
 
 
 Choose a file to modify below, or browse the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>.
@@ -41,31 +40,31 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 <img src="/img/logotextbottom.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1xI6-GvoXF8XuU9a0jzum_vog-BrGECkp">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=JI1EnMw8W5DnQU38T8u6lN2X6ZVQEz_e">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/logotextside.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1QExmwrC9uqD0P_Ym78ifN1VF93YDDs_A">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=chjV5eRwOF5d0r_IRFNIh_J7X8RXvG1h">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/logotextbottomgrey.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1iDrxdm5M8Pn0fJ_yZ2uZEX8Vilhs7ynJ">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=NwMR4WSHOGfnCuUde8uzLOlt8mdqvyn9">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/logotextsidegreyblue.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1-88Lz7WXasLsI-9s78MrhdF2OF2uGNhg">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=B8EDPH1dCZy8_0TuqpahjEFRX1MD5xLP">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/logotextsideblue.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1xB7gk-1UaSSspMlB-aQMcqiVHnLi3lSU">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=fROiCU3VXN-RYClDHXLDpYMuCUzZzK7I">Editable Gravit File</a>
 
 ## Effective Altruism Logos without Group
 
