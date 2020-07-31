@@ -134,7 +134,7 @@ For larger events, you may wish to print <a target="_blank" href="https://docs.g
 
 For smaller events, you can contact people more personally via email, or ask them for feedback in person at the end. When the event is over, debrief with co-organisers about what went well or poorly. Try to stay positive, especially if people are tired or put in a lot of effort!
 
-To avoid forgetting, summarise what happened within a day of the event. Not down what went well, what went wrong, any informal feedback you got, and advice for next time. You can brainstorm ways to improve this at your next <a target="_blank" href="/tips/articles/organiser-meetings">organiser meeting</a>.
+To avoid forgetting, summarise what happened within a day of the event. Note down what went well, what went wrong, any informal feedback you got, and advice for next time. You can brainstorm ways to improve this at your next <a target="_blank" href="/tips/articles/organiser-meetings">organiser meeting</a>.
 
 Some organisers also choose to keep track of the number of people, the methods of advertising used, and for smaller groups, the names of people that came. 
 
@@ -156,7 +156,7 @@ If you have a guest speaker, prepare an introduction, but keep it short.
 
 # Managing Group Dynamics
 
-Common issues can arise with any group of people having a discussion. For more advice on running discussions, see the section on running discussion groups. We also have a guide on <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.bqngagemy16z">dealing with serious disruptions</a>.
+Common issues can arise with any group of people having a discussion. For more advice on running discussions, see the section on <a target="_blank" href="/events/discussions/">running discussion groups</a>. We also have a guide on <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.bqngagemy16z">dealing with serious disruptions</a>.
 
 ## In general
 
