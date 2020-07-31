@@ -69,13 +69,13 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 ## Effective Altruism Logos without Group
 
-A variety of Effective Altruism logos are available in both .png and .gravit format in <a target="_blank" href="https://drive.google.com/open?id=1Alez-4m3jKAKL25SnugyUxd2oti4ZDyM">this folder</a>. All are available using the two fonts found above, Raleway and Roboto Slab. 
+A variety of Effective Altruism logos are available in both .png and .gravit format. All are available using the two fonts found above, Raleway and Roboto Slab. 
 
 <p class="large_image_wrapper">
 <img src="/img/ealogotextbottom.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1W_P0HJwSc-zXHTmGdZIXDDqhWsVpE2SZ">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=ZtCU9EXE03DEda7kB6vZyRAqqkTESn2a">Editable Gravit file</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1TLel-BSCqbj6cKfl1yPq5vPsQwD_YNrQ">High Res png</a>
 
@@ -83,7 +83,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 <img src="/img/ealogotextside.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=14npUnjTiTaVE8jDXfkFWzKgATZvva5HQ">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=OeoGxcvVVa5BJGrlZBiP9_APb4O_MIMn">Editable Gravit file</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1zCzgU2KtOi5MJlFKqAoLar3TmavAil3z">High Res png</a>
 
@@ -91,7 +91,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 <img src="/img/ealogoongrey.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1lXxGO3cAEAa7yUZ10tz0e0YtlTY0JN0V">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=ddS-Aoqf6KLbChLXMV2b8c4v5CJixLe4">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1WZyxTman1Gxc4GQ-UcFaL3NRJ0vfqZdC">High Res png</a>
 
@@ -99,9 +99,18 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 <img src="/img/ealogoonblue.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1_GFDEkvDurarsxSuelZtvQ2fmzyHSmwB">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=HHTzvNBoY2mDBrkMIqkIc7_l2ydWML45">Editable Gravit file</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1tofxBWgLnZBrdlHVlcWtEJL9cKFRqNO9">High Res png</a>
+
+<p class="large_image_wrapper">
+<img src="/img/ealogoongreytextonside.png" />
+</p>
+
+<a target="_blank" href="https://designer.gravit.io/?token=yG1DyNNn6gvdkmHwY_L2Y6ybYcG1WPjk">Editable Gravit file</a>
+
+<a target="_blank" href="https://drive.google.com/file/d/1dzNg5zA6_Cxc1flRgM0F8pgRZpYzQimx/view?usp=sharing">High Res png</a>
+
 
 <a name="banners"></a>
 # Physical Banners
