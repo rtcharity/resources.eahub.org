@@ -23,7 +23,7 @@ Other pages contain information on <a target="_blank" href="https://resources.ea
 * <a href="#checklist">Checklist of Items</a>
 * <a href="#feedback">Feedback and Tracking</a>
 * <a href="#during">During the Event</a>
-* <a href="#dynamics">How to Manage Group Dynamics</a>
+* <a href="#dynamics">Managing Group Dynamics</a>
 * <a href="#dynamics">At the End of the Event</a>
 * <a href="#after">After the Event</a>
 * <a href="#reading">Further Reading</a>
@@ -105,58 +105,58 @@ We recommend you make a list of things to bring that is specific to your group a
 
 Some things you might want on your list:
 
-* Signs or banners with your group name, and tape/pins/ blue tack. Sample signs can be found <a target="_blank" href="/graphics/editable-graphics/#banners">here</a>.
-* Clipboard with a pen, or a tablet, for people to add contact information if they are new (<a target="_blank" href="https://drive.google.com/open?id=1dSH8GpeLRDyeGvd9uBeiJVKMz0O37O5ZYU6fGZ829GQ">example contact information sheet</a>) 
-* Sign in sheet if you are taking attendance (some Universities require registered groups to do this)
-* Blank stickers for name tags and permanent markers (name tags are great for facilitating conversations and connections, and particularly good for people who aren’t good with names or faces).
-* Laptop, charger and dongle if needed to attach to the data projector if you are using one. 
-* Presentation on USB (in case something goes wrong with your laptop)
-* Clicker to advance slides (if you have one and are doing a presentation). 
-* Drinks, snacks, and any dishes or cutlery needed to prepare, eat and drink.
-* If presenting a topic, you may want to have topic fact sheets, if doing an activity, you may want worksheets and pens. 
+* <a target="_blank" href="/graphics/editable-graphics/#banners">Signs or banners</a> with your group name and tape, pins, or blue-tack to put them up
+* Tablet or clipboard with a pen for people to add contact information if they are new. <a target="_blank" href="https://drive.google.com/open?id=1dSH8GpeLRDyeGvd9uBeiJVKMz0O37O5ZYU6fGZ829GQ">Example contact information sheet here</a>
+* Sign-in sheets if you are taking attendance. Some Universities require registered groups to do this
+* Blank stickers for name tags and permanent markers. Name tags are great for facilitating conversations, particularly for those who struggle with names and faces
+* Laptop, charger and dongle for a data projector, if needed
+* Presentation on USB in case something goes wrong with your laptop
+* Clicker to advance slides, if needed 
+* Drinks, snacks, dishes and cutlery, if needed
+* Topic fact sheets, if presenting a topic. Worksheets and pens, if doing an activity
 
   * Most people with dyslexia find a sans-serif font easier than a serif font.
-  * Ideally have any printed materials in digital text format also, so you can email them to anyone with vision impairment so they can use a screen reader. 
-* If collecting physical feedback forms: Plenty of pens and copies of feedback forms (<a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/">example here</a>) .
-* If you have some available, bring copies of EA books such as Doing Good Better to loan out or give to people who seem truly interested in reading them. CEA has a <a target="_blank" href="https://docs.google.com/document/d/1sD_E4MO-uweGkPM9bFqBFgbYdwACa1xXNSQoKEB0LOI/">short guide on this</a>.
-* Brochures about EA to hand to new people (sample brochures <a target="_blank" href="">here</a>)
-* ```
-  For an introduction to EA, you may wish to have flyers with links relevant to the event. 
-  ```
+  * Ideally have printed materials in digital text format so you can email them to vision-impaired people, who may prefer to use screen readers. 
+* Copies of <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/">feedback forms</a> and pens, if collecting physical feedback forms 
+* Copies of EA books such as Doing Good Better, if available. CEA has a <a target="_blank" href="https://docs.google.com/document/d/1sD_E4MO-uweGkPM9bFqBFgbYdwACa1xXNSQoKEB0LOI/">short guide</a> on loaning out or giving these books away
+* <a target="_blank" href="">Brochures</a> about EA to hand to newcomers 
+* Flyers, if you are running an introductory event
 
-<a name="feedback"></a>
+
+
+a name="feedback"></a>
 
 # Feedback and Tracking
 
-Think about how you will measure the success of your events - what worked, what didn’t, etc. This could become useful information not just for yourself but for other groups.
+Think about how you will measure the success of your events. What worked and what didn't work could be useful information for your group and other groups.
 
-For larger events, you may wish to print short surveys in advance and have people fill them out at the end of the event. Survey responses can be very valuable information but can carry a social cost (especially if your attendees are new to EA as most groups don’t get people to fill out surveys, and some people find surveys annoying). Use your intuition to work out what would be appropriate. An example of a feedback form is <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/edit">here</a>.
+For larger events, you may wish to print <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/edit">short surveys</a> in advance and have people fill them out at the end of the event. Survey responses can provide excellent information but can leave a poor impression. Be especially wary if your attendees are new to EA, since most groups don’t send out surveys, and some people find them annoying. Use your intuition to work out what would be appropriate.
 
-For smaller events you can contact people more personally via email, or ask them in person for feedback at the end of an event.  Debrief with co-organisers after an event about what went well or poorly (although try to keep it positive if people are tired or put a lot of effort into an event!)
+For smaller events, you can contact people more personally via email, or ask them for feedback in person at the end. When the event is over, debrief with co-organisers about what went well or poorly. Try to stay positive, especially if people are tired or put in a lot of effort!
 
-Write down a brief summary of what happened within a day of the event, while it's fresh in your memory - what went well, what went wrong, any informal feedback you got, and advice for next time. You can brainstorm ways to improve this at your next <a target="_blank" href="/tips/articles/organiser-meetings">organiser meeting</a>.
+To avoid forgetting, summarise what happened within a day of the event. Not down what went well, what went wrong, any informal feedback you got, and advice for next time. You can brainstorm ways to improve this at your next <a target="_blank" href="/tips/articles/organiser-meetings">organiser meeting</a>.
 
-Some organisers also choose to keep a track of the number of people, the methods of advertising used, and for smaller groups, the names of people that came. 
+Some organisers also choose to keep track of the number of people, the methods of advertising used, and for smaller groups, the names of people that came. 
 
 <a name="start"></a>
 
 # Starting the Event
 
-Greet people as they arrive, help them feel welcome, and offer them a name tag (remind them it’s optional, and they can be anonymous if they wish). 
+Greet people as they arrive, make them feel welcome, and offer them a name tag (remind them it’s optional, and they can be anonymous if they wish). 
 
-People can casually chat before the event officially starts, which should be about 5 to 10 minutes after the set start time. If you need to take attendance (e.g. if your University requires it), pass around a sign-up sheet, and make sure everyone fills it out. 
+Let people chat for five or ten minutes after the set start time. Then officially start the event. If you need to take attendance, as some universities require, pass around a sign-up sheet during this time and make sure everyone fills it out. 
 
-If it’s a small event (~10 or less people), you could do a round of ice-breakers. Example ice breakers include asking people to give a short one sentence description of their priority cause areas, or the most interesting thing they’ve read or seen recently. Remember to keep ice breakers brief and remind people they can come back to a topic after the introductions are over.
+If it’s a small event with ten people or fewer, you could do a round of ice-breakers. Ice-breakers could include asking people to give a one-sentence description of their priority cause areas or the most interesting thing they’ve read or seen recently. Keep ice-breakers brief and remind people they can come back to a topic later.
 
-If there are new people attending you may wish to give a very short talk about what EA is before the main content of the event (see this guide on <a target="_blank" href="/learn/communicate-ea/">communicating about EA</a> for ideas of what to say, or these <a target="_blank" href="/events/intro/">sample introductory talks</a>).
+If new people are attending, consider giving a brief run-down of EA before the main content of the event. See our guides on <a target="_blank" href="/learn/communicate-ea/">communicating about EA</a> for ideas of what to say, or these <a target="_blank" href="/events/intro/">sample introductory talks</a>.
 
-If you have a guest speaker, have a prepared introduction, but keep it short. 
+If you have a guest speaker, prepare an introduction, but keep it short. 
 
 <a name="dynamics"></a>
 
-# How To Manage Group Dynamics
+# Managing Group Dynamics
 
-This section deals with normal issues that arise with any group of people having a discussion. For more advice on running discussions see the section on running discussion groups. To learn how to deal with more serious disruptions, please see <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.bqngagemy16z">this guide</a>.
+Common issues can arise with any group of people having a discussion. For more advice on running discussions, see the section on running discussion groups. We also have a guide on <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.bqngagemy16z">dealing with serious disruptions</a>.
 
 ## In general
 
