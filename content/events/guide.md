@@ -138,9 +138,9 @@ To avoid forgetting, summarise what happened within a day of the event. Not down
 
 Some organisers also choose to keep track of the number of people, the methods of advertising used, and for smaller groups, the names of people that came. 
 
-<a name="start"></a>
+<a name="during"></a>
 
-# Starting the Event
+# During the Event
 
 Greet people as they arrive, make them feel welcome, and offer them a name tag (remind them it’s optional, and they can be anonymous if they wish). 
 
