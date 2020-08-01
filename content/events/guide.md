@@ -122,8 +122,6 @@ Some things you might want on your list:
 * <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">Brochures</a> about EA to hand to newcomers 
 * Flyers, if you are running an introductory event
 
-
-
 <a name="feedback"></a>
 
 # Feedback and Tracking
@@ -156,51 +154,51 @@ If you have a guest speaker, prepare an introduction, but keep it short.
 
 # Managing Group Dynamics
 
-Common issues can arise with any group of people having a discussion. For more advice on running discussions, see the section on <a target="_blank" href="/events/discussions/">running discussion groups</a>. We also have a guide on <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.bqngagemy16z">dealing with serious disruptions</a>.
+Common issues can arise with any group of people having a discussion. On separate pages, we offer more advice on <a target="_blank" href="/events/discussions/">running discussion groups</a> and <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#heading=h.bqngagemy16z">dealing with serious disruptions</a>.
 
 ## In general
 
-* Split big groups into smaller groups of 3-5 to enable more participation
-* If you don’t have an explicit discussion agenda, figure out what people are interested in and see if you can split the group into discussing different topics.
+* Split big groups into smaller groups of 3-5 for more participation
+* If you don’t have a detailed discussion plan, figure out what people are interested in and see if you can split the group into discussing different topics.
 
   * For example, “I heard some interest in how effective altruism got started—if people want to come to this side of the room, we’ll be talking about that here. I also heard interest in existential risk—Maya, could you anchor a discussion over there on that topic?”
-* Use people's names often so others will be reminded, specifically if you don’t have name tags. This also helps people bond.
-* Some people will come for the laughter and the friendship. It's okay to let the conversation drift off topic for a bit, but keep in mind that people are busy and have come for the effective altruism, so don't let it go on a tangent for too long, especially if your event had a specific topic. You can bring the conversation back on topic by:
+* Use people's names often to help others remember, especially if you're not using name tags. It helps people bond.
+* Some people will come for the laughter and friendship. It's okay to let the conversation drift off-topic for a bit, but keep in mind that people are busy and have come for effective altruism, so don't let tangents go on too long, especially if your event had a specific topic. You can bring conversations back on topic by:
 
-  * Saying "Anyway… leading back to our original topic..." or "So… how might that be relevant to the original topic."
-  * When there is a pause in the conversation, ask a question about the original topic.
-  * Commenting on what people have said, then ask what another person thinks about the original conversation topic.
-* Seek out people who seem sidelined or unsure and ask if they have questions or what they want to talk about. Of course, they may just not feel like talking, so don’t force it.
+  * Saying "Anyway, leading back to our original topic..." or "So that might be relevant to the original topic because..."
+  * Asking a question about the original topic during pauses in the conversation.
+  * Commenting on what people have said, then asking what another person thinks about the original conversation topic.
+* Seek out people who seem sidelined or unsure. Ask if they have questions or subjects they want to discuss. Of course, they may just not feel like talking, so don’t force it.
 
 ## New people
 
-* Ensure new people feel welcomed by assigning a friendly member of the group to talk to them, listen to their interests, and introduce them to other people in the group. 
+* Ensure new people feel welcome by assigning a friendly member of the group to talk to them, listen to their interests, and introduce them to other people in the group. 
 * Make sure that everyone is involved and understands what is going on.
 * You could ask new people over to a part of the room at the start of a social event, to give an introductory explanation of EA, and get people chatting. 
 * Make sure to introduce yourself and anyone in a conversation with new people before you begin. 
 * Try to avoid jargon and acronyms, and when they come up, explain it rather than making new people guess or ask. You could designate “jargon catchers” who keep an ear out for jargon.  
-* Keep an eye out when people who have very different interests or levels of knowledge are talking to each other. E.g. if one person has never heard of EA before, and is looking freaked-out in a conversation with a hard-core AI enthusiast, you might join the conversation and ask the newcomer what they’re interested in, find out if they have questions, or steer them toward another conversation partner.
+* Keep an eye out when people who have very different interests or levels of knowledge are talking to each other. For example, if one person has never heard of EA before, and looks freaked-out in a conversation with a hard-core AI enthusiast, you may want to intervene. You could join the conversation and ask the newcomer what they’re interested in, find out if they have questions, or steer them toward another conversation partner.
 
 ## How to interact with a shy person
 
-* Don't push them to say anything, they may not want to, or may feel uncomfortable talking to the group.
-* When they first say anything, respond positively, not with criticism.
-* If someone is hanging out at the edge of a conversation and looking occasionally at the people in the conversation, ask them what their thoughts are. They might be trying to get into the conversation but don't know how.
+* Don't push them to say anything. Some people may not want to or may feel uncomfortable talking to groups.
+* When they say something for the first time, respond positively and avoid criticism.
+* If someone is hanging out at the edge of a conversation, looking uncertain, ask them what their thoughts are. They might be trying to get into the conversation but aren't sure how.
 
 ## How to deal with people dominating the conversation
 
 * Jump into the gap when the person takes a breath and say "That's an interesting thought \[person]. What do you think, \[less assertive conversationalist]?"
 * Try to draw others in (“Dev, I wanted to hear more about what you were saying a minute ago”). 
-* If there are two people who are dominating a conversation and the other people don’t seem interested, suggest breaking up the group by suggesting another conversation topic, and move interested people to another part of the room.
+* If two people are dominating a conversation and the other people don’t seem interested, suggest breaking up the group by suggesting another conversation topic, and move interested people to another part of the room.
 
 ## How to deal with someone talking about a topic no one else is interested in
 
 * You may want to designate a person to take them aside and let them talk about the topic so everyone else can have a more varied conversation. 
-* If this is a recurring problem with a single person (and a single topic), it may help to have a quiet word with the person one-on-one to point out the benefits of having a variety of conversation topics, and to gently ask them to allow other conversation topics to flow.  
+* If this is a recurring problem with a single person and a single topic, it may help to have a private word with the person to point out the benefits of having a variety of conversation topics. Gently ask them to help other conversation topics to flow.  
 
 ## How to deal with ideological and psychological diversity
 
-* People with a wide variety of ideologies can be interested in effectively improving the world. However, in the EA community there is a particularly large group of people interested in similar things, such as maths, computer science, philosophy (especially utilitarianism), and that sometimes makes the conversations less interesting or accessible for people without that background.
+* People with a wide variety of ideologies can be interested in effectively improving the world. However, the EA community contains a large proportion of people interested in similar things, such as maths, computer science, philosophy (especially utilitarianism). For people without the same background, conversations can become uninteresting or inaccessible.
 * Julia Wise has some excellent <a target="_blank" href="/tips/community-health/#welcoming">advice</a> on dealing with this. 
 
 <a name="end"></a>
@@ -209,17 +207,17 @@ Common issues can arise with any group of people having a discussion. For more a
 
 * Thank everyone for coming along. If you have a guest speaker, thank them publicly and afterwards. 
 * Ask for feedback if you have chosen to do this. 
-* Create anticipation for the next event. Even if you don’t have a fixed plan for the next event, you can let people know that there will be more events coming up.
-* Make sure everyone has a way to get involved and keep in touch in the near future.
-* Leave the venue tidy, making sure there is no belongings left behind and the venue is left in the way it should be (e.g. lights, data projector, and heating/air conditioning off).
+* Create anticipation for the next event. Even if you don’t have a detailed plan, you can let people know that there will be more events coming up.
+* Make sure everyone has a way to get involved and keep in touch.
+* Leave the venue tidy, making sure there are no belongings left behind. Turn off the lights, data projector, and heating or air conditioning as required.
 
 <a name="after"></a>
 
 # After the event
 
 * You may wish to add the people you met as Facebook friends the next day - it will make it easier to invite to future events and allows them to start conversations or ask you questions.
-* Send an email or message on social media the next day with any relevant useful information for people who attended the event, such as websites or articles that were mentioned.
-* You may wish to send personal emails to people if you mentioned particular articles or other people they might want to talk to.
+* Send an email or message on social media the next day with any relevant, useful information for people who attended the event, such as websites or articles that were mentioned.
+* Consider sending follow-up emails to people if you mentioned particular articles or other people they might want to talk to.
 
 <a name="reading"></a>
 
