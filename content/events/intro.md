@@ -27,23 +27,11 @@ First impressions are very important, so it is worth learning about how to best 
 
 One option for an intro to EA event is to play a video introduction to EA, and then discuss the ideas with your group. This might be a good option if you have little time to prepare, your organisers are not confident public speakers, or your group is small so a casual event would be more appropriate.
 
-Two options:
+Two options are :
 
 * Will MacAskill's TED talk from 2018: <a target="_blank" href="https://www.youtube.com/watch?v=WyprXhvGVYk&feature=youtu.be">"What are the most important moral problems of our time"</a> (12 minutes). 
 
-<div class="textAlignCenter">
-<iframe class="article_video"
-src="https://www.youtube.com/embed/WyprXhvGVYk">
-</iframe>
-
-</div>
-
 * Ajeya Cotra's more in-depth <a target="_blank" href="https://www.youtube.com/watch?v=48VAQtGmfWY">introduction to EA from EAGxBerkeley in 2016</a> (35 minutes).
-
-<div class="textAlignCenter">
-<iframe class="article_video"
-src="https://www.youtube.com/embed/48VAQtGmfWY">
-</iframe>
 
 
 <a name="Introductory Talks"></a>
