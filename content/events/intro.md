@@ -72,7 +72,7 @@ For global poverty focused giving games, the <a target="_blank" href="https://ww
 
 ## Introduction to EA with Cause-Prioritisation Activity
 
-Cause-prioritisation is one of the most important and unique aspects of EA. While it is a difficult job to choose between different cause areas, it is possible to introduce the concepts of cause-prioritisation in a 1 to 1.5 hour introduction to EA.
+Cause-prioritisation is one of the most important and unique aspects of EA. While it is a difficult job to choose between different cause areas, it is possible to introduce the concepts of cause-prioritisation, and get people to start applying them, in a 1.5 hour introduction to EA.
 
 This <a target="_blank" href="https://drive.google.com/drive/folders/1Sqitu3q8b4NJZ95ec_O1n3_zHkrNCE8U?usp=sharing">Google Drive folder</a> has all the materials needed for a workshop that introduces EA, and gives participants an activity to use the Scale, Neglectedness, Solvability framework to assess 3 to 6 cause areas. It includes powerpoint slides, a sample script, information sheets on 6 cause areas and a worksheet.
 
