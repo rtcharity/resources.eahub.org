@@ -38,7 +38,14 @@ src="https://www.youtube.com/embed/WyprXhvGVYk">
 
 </div>
 
-* Or, this TEDx talk: “Effective Altruism” by Beth Barnes in 2015 (6 minutes). Barnes provides an inspirational view of what we could achieve if the richest 10% of people gave 10% of their income.
+* Or, Ajeya Cotra's more in-depth introduction to EA from EAGxBerkeley in 2016 (35 minutes).
+
+<div class="textAlignCenter">
+<iframe class="article_video"
+src="https://www.youtube.com/embed/48VAQtGmfWY">
+</iframe>
+
+* Or this TEDx talk: “Effective Altruism” by Beth Barnes in 2015 (6 minutes). Barnes provides an inspirational view of what we could achieve if the richest 10% of people gave 10% of their income.
 
 <div class="textAlignCenter">
 <iframe class="article_video"
