@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 1st August 2020*
+### *Updated 2nd August 2020*
 
 *This section compiles tips from LEAN and local organisers.*
 
