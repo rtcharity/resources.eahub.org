@@ -27,29 +27,17 @@ First impressions are very important, so it is worth learning about how to best 
 
 One option for an intro to EA event is to play a video introduction to EA, and then discuss the ideas with your group. This might be a good option if you have little time to prepare, your organisers are not confident public speakers, or your group is small so a casual event would be more appropriate.
 
-Two options:
+Two options are :
 
 * Will MacAskill's TED talk from 2018: <a target="_blank" href="https://www.youtube.com/watch?v=WyprXhvGVYk&feature=youtu.be">"What are the most important moral problems of our time"</a> (12 minutes). 
 
-<div class="textAlignCenter">
-<iframe class="article_video"
-src="https://www.youtube.com/embed/WyprXhvGVYk">
-</iframe>
-
-</div>
-
 * Ajeya Cotra's more in-depth <a target="_blank" href="https://www.youtube.com/watch?v=48VAQtGmfWY">introduction to EA from EAGxBerkeley in 2016</a> (35 minutes).
-
-<div class="textAlignCenter">
-<iframe class="article_video"
-src="https://www.youtube.com/embed/48VAQtGmfWY">
-</iframe>
 
 
 <a name="Introductory Talks"></a>
 # Introductory Talks
 
-The links provide slides and a suggested script for an EA talk. It is recommended that you also add in personal information about what drew you to EA, and how these ideas affected you.
+The links provide slides and a suggested script for an EA talk. It is recommended that you modify these scripts to add in personal information about what drew you to EA, and how you are applying these ideas to your own life.
 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1u2SHkoo_Ns-OkzOj897Z6mPMkDmHkGmT?usp=sharing">Eric Gastfiriend's introduction to EA</a> (16 minutes). This was used as a guest lecture in a Rationality class. 
 
