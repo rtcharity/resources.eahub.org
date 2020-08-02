@@ -64,7 +64,7 @@ The links provide slides and a suggested script for an EA talk. It is recommende
 ## Introduction to EA with Giving Game
 A great way of introducing EA concepts is through a giving game, where people choose a charity to give a pot of money to - it is more engaging than lectures, and provides a concrete example of the use of EA principles. A giving game can be used for presentations taking 45 mins or longer.
 
-<a target="_blank" href="https://drive.google.com/drive/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9?usp=sharing">This Google Drive folder</a> contains all the materials needed to run an introduction to EA involving a Global Health and Poverty Giving Game. This presentation takes about 1.5 hours, but can be adapted to shorter and longer times. It includes powerpoint slides, a sample script, handouts about the charities, frequently asked questions, and a video of this presentation in action. This presentation (or variations on this presentation) has been used with over 100 audiences.
+<a target="_blank" href="https://drive.google.com/drive/folders/1mOEplBHPA3ONKrI8YhhhbGJP5-YiNCsf?usp=sharing">This Google Drive folder</a> contains all the materials needed to run an introduction to EA involving a Global Health and Poverty Giving Game. This presentation takes about 1.5 hours, but can be adapted to shorter and longer times. It includes powerpoint slides, a sample script, handouts about the charities, frequently asked questions, and a video of this presentation in action. This presentation (or variations on this presentation) has been used with over 100 audiences.
 
 For introductions to EA it is usually best to restrict charities to a single cause cause area (usually global poverty unless the audience is particularly interested in another cause are), as cross-cause area giving games often involve the participants choosing based on their current favourite cause, rather than applying evidence. The breadth of EA can be explained after the game.
 
@@ -72,7 +72,7 @@ For global poverty focused giving games, the <a target="_blank" href="https://ww
 
 ## Introduction to EA with Cause-Prioritisation Activity
 
-Cause-prioritisation is one of the most important and unique aspects of EA. While it is a difficult job to choose between different cause areas, it is possible to introduce the concepts of cause-prioritisation in a 1 to 1.5 hour introduction to EA.
+Cause-prioritisation is one of the most important and unique aspects of EA. While it is a difficult job to choose between different cause areas, it is possible to introduce the concepts of cause-prioritisation, and get people to start applying them, in a 1.5 hour introduction to EA.
 
 This <a target="_blank" href="https://drive.google.com/drive/folders/1Sqitu3q8b4NJZ95ec_O1n3_zHkrNCE8U?usp=sharing">Google Drive folder</a> has all the materials needed for a workshop that introduces EA, and gives participants an activity to use the Scale, Neglectedness, Solvability framework to assess 3 to 6 cause areas. It includes powerpoint slides, a sample script, information sheets on 6 cause areas and a worksheet.
 
