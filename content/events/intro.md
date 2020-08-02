@@ -37,7 +37,7 @@ Two options are :
 <a name="Introductory Talks"></a>
 # Introductory Talks
 
-The links provide slides and a suggested script for an EA talk. It is recommended that you also add in personal information about what drew you to EA, and how these ideas affected you.
+The links provide slides and a suggested script for an EA talk. It is recommended that you modify these scripts to add in personal information about what drew you to EA, and how you are applying these ideas to your own life.
 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1u2SHkoo_Ns-OkzOj897Z6mPMkDmHkGmT?usp=sharing">Eric Gastfiriend's introduction to EA</a> (16 minutes). This was used as a guest lecture in a Rationality class. 
 
