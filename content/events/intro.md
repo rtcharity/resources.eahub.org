@@ -43,13 +43,13 @@ The links provide slides and a suggested script for an EA talk. It is recommende
 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1vqg2hFzlazg6qi8n2j44jzBOANok-ao1?usp=sharing">EA New Zealand's introduction to EA</a> (20 minutes). This is used to introduce EA to non-EA clubs and workplaces. 
 
-*  <a target="_blank" href="https://drive.google.com/drive/folders/1kUZUC-addsdDJTaR6QhOnZ6jjqZOi1pS?usp=sharing">EA New Zealand's very short introduction to EA</a> (5 minute version). This is a mini version of the above talk. It is used to briefly introduce EA at the start of group events when newcomers are attending. It can be used with or without slides. 
+*  <a target="_blank" href="https://drive.google.com/drive/folders/1kUZUC-addsdDJTaR6QhOnZ6jjqZOi1pS?usp=sharing">EA New Zealand's very short introduction to EA</a> (4 minute version). This is a mini version of the above talk. It is used to briefly introduce EA at the start of group events when newcomers are attending. It can be used with or without slides. 
 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1PMOPsZRJ2u4ENfEbYP7FNDsARiG0iqPl?usp=sharing">EA Stanford's introduction to EA</a> (35 minutes). This is based on Ajeya Cotra's talk linked above. 
 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1TX7xrH54OwFbph3dBvbxa-RqvVw-3dAw?usp=sharing">EA Stanford's short introduction to EA</a> (10 minutes). This is a short version of the above talk. 
 
-* <a target="_blank" href="https://drive.google.com/drive/folders/1PMOPsZRJ2u4ENfEbYP7FNDsARiG0iqPl?usp=sharing">Social Programs Quiz</a> (5 minutes). This is a fun activity that can be slotted into intro talks if you have time. Participants have to guess whether each of four social programs do good, cause harm, or have no measured effect. Very few people get all four correct so it is a good activity to demonstrate that we need evidence and analysis to work out how to improve the world. It is based off <a target="_blank" href="https://80000hours.org/articles/can-you-guess/">80,000 Hours' social programs quiz</a>.  
+* <a target="_blank" href="https://drive.google.com/drive/folders/1FOSPEdl-m42aIj5PLxNi15g6UX9daJO-?usp=sharing">Social Programs Quiz</a> (5 minutes). This is a fun activity that can be slotted into intro talks if you have time. Participants have to guess whether each of four social programs do good, cause harm, or have no measured effect. Very few people get all four correct so it is a good activity to demonstrate that we need evidence and analysis to work out how to improve the world. It is based off <a target="_blank" href="https://80000hours.org/articles/can-you-guess/">80,000 Hours' social programs quiz</a>.  
 
 
 
