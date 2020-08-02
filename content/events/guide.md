@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 1st August 2020*
+### *Updated 2nd August 2020*
 
 *This section compiles tips from LEAN and local organisers.*
 
@@ -91,7 +91,9 @@ Ask co-organisers or volunteers to help out, especially if you are expecting sev
 
 Check out this resource about <a target="_blank" href="/tips/community-health/">making groups welcoming</a> and try to consider as many of the factors listed as possible.
 
-For smaller events, arrive about 20-30 minutes early to set up signs, audio-visual equipment, refreshments and troubleshoot any issues. For more formal events or those with more than 25 attendees, try to arrive approximately an hour in advance to set up. 
+For smaller events, arrive about 20-30 minutes early to set up signs, audio-visual equipment, refreshments and troubleshoot any issues. Make sure that the slides are displaying with correct formatting and that audio from computers and microphones is working. 
+
+For more formal events or those with more than 25 attendees, try to arrive an hour in advance to set up.
 
 For all events, remember to be visible by putting up direction signs. Having large banners (<a target="_blank" href="/graphics/editable-graphics/#banners">see our samples</a>) outside of the venue works very well. If you’re in a public space, display EA-related objects and tell the floor-staff where to direct people who ask about the ‘effective altruism group'. Some group organisers wear EA t-shirts, others place EA signs or books on the table. 
 
@@ -108,19 +110,27 @@ Some things you might want on your list:
 * <a target="_blank" href="/graphics/editable-graphics/#banners">Signs or banners</a> with your group name and tape, pins, or blue-tack to put them up
 * Tablet or clipboard with a pen for people to add contact information if they are new. <a target="_blank" href="https://drive.google.com/open?id=1dSH8GpeLRDyeGvd9uBeiJVKMz0O37O5ZYU6fGZ829GQ">Example contact information sheet here</a>
 * Sign-in sheets if you are taking attendance. Some Universities require registered groups to do this
+* Drinks, snacks, dishes and cutlery if applicable
+
+For larger, structured, and formal meetings, consider bringing:
+
 * Blank stickers for name tags and permanent markers. Name tags are great for facilitating conversations, particularly for those who struggle with names and faces
-* Laptop, charger and dongle for a data projector, if needed
-* Presentation on USB in case something goes wrong with your laptop
-* Clicker to advance slides, if needed 
-* Drinks, snacks, dishes and cutlery, if needed
-* Topic fact sheets, if presenting a topic. Worksheets and pens, if doing an activity
+* Flyers and <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">brochures</a> for introductory events
+* Topic fact sheets if presenting a topic. Worksheets and pens if doing an activity
 
   * Most people with dyslexia find a sans-serif font easier than a serif font.
-  * Ideally have printed materials in digital text format so you can email them to vision-impaired people, who may prefer to use screen readers. 
-* Copies of <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/">feedback forms</a> and pens, if collecting physical feedback forms 
+  * Ideally, keep a copy of printed materials in a digital text format. You can email these to vision-impaired people who may prefer to use screen readers.
 * Copies of EA books such as Doing Good Better, if available. CEA has a <a target="_blank" href="https://docs.google.com/document/d/1sD_E4MO-uweGkPM9bFqBFgbYdwACa1xXNSQoKEB0LOI/">short guide</a> on loaning out or giving these books away
-* <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">Brochures</a> about EA to hand to newcomers 
-* Flyers, if you are running an introductory event
+* Spare EA t-shirts, stickers, and pins, to wear, sell, or give out
+* Fully charged camera or silenced cell phone for taking pictures
+* Copies of <a target="_blank" href="https://docs.google.com/document/d/1PD0pUkYBOtm9UOUG-NgioNYWcYLBo52YqggZYWX8aSU/">feedback forms</a> and pens if collecting physical feedback forms 
+
+If running a presentation, consider bringing:
+
+* Laptop, charger and dongle for a data projector
+* Presentation on USB in case something goes wrong with your laptop
+* Clicker to advance slides
+* Water for the speaker
 
 <a name="feedback"></a>
 
@@ -142,13 +152,15 @@ Some organisers also choose to keep track of the number of people, the methods o
 
 Greet people as they arrive, make them feel welcome, and offer them a name tag (remind them it’s optional, and they can be anonymous if they wish). 
 
-Let people chat for five or ten minutes after the set start time. Then officially start the event. If you need to take attendance, as some universities require, pass around a sign-up sheet during this time and make sure everyone fills it out. 
+Let people chat for five or ten minutes after the set start time. Then officially start the event. If you need to take attendance, as some universities require, pass around a sign-up sheet during this time and make sure everyone fills it out. Consider counting the number of attendees, noting gender ratios, committee to non-committee-member ratios, or other data points for your group’s records.
 
 If it’s a small event with ten people or fewer, you could do a round of ice-breakers. Ice-breakers could include asking people to give a one-sentence description of their priority cause areas or the most interesting thing they’ve read or seen recently. Keep ice-breakers brief and remind people they can come back to a topic later.
 
 If new people are attending, consider giving a brief run-down of EA before the main content of the event. See our guides on <a target="_blank" href="/learn/communicate-ea/">communicating about EA</a> for ideas of what to say, or these <a target="_blank" href="/events/intro/">sample introductory talks</a>.
 
-If you have a guest speaker, prepare an introduction, but keep it short. 
+If you have a guest speaker, prepare a *short* introduction.
+
+Take pictures or record the event if appropriate.
 
 <a name="dynamics"></a>
 
