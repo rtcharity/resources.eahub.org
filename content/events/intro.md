@@ -61,7 +61,7 @@ The links provide slides and a suggested script for an EA talk. It is recommende
 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1TX7xrH54OwFbph3dBvbxa-RqvVw-3dAw?usp=sharing">EA Stanford's short introduction to EA</a> (10 minutes). This is a short version of the above talk. 
 
-* <a target="_blank" href="https://drive.google.com/drive/folders/1PMOPsZRJ2u4ENfEbYP7FNDsARiG0iqPl?usp=sharing">Social Programs Quiz</a> (5 minutes). This is a fun activity that can be slotted into intro talks if you have time. Participants have to guess whether each of four social programs do good, cause harm, or have no measured effect. Very few people get all four correct so it is a good activity to demonstrate that we need evidence and analysis to work out how to improve the world. It is based off <a target="_blank" href="https://80000hours.org/articles/can-you-guess/">80,000 Hours social programs quiz</a>.  
+* <a target="_blank" href="https://drive.google.com/drive/folders/1PMOPsZRJ2u4ENfEbYP7FNDsARiG0iqPl?usp=sharing">Social Programs Quiz</a> (5 minutes). This is a fun activity that can be slotted into intro talks if you have time. Participants have to guess whether each of four social programs do good, cause harm, or have no measured effect. Very few people get all four correct so it is a good activity to demonstrate that we need evidence and analysis to work out how to improve the world. It is based off <a target="_blank" href="https://80000hours.org/articles/can-you-guess/">80,000 Hours' social programs quiz</a>.  
 
 
 
