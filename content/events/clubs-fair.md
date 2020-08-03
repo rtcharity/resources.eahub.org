@@ -67,6 +67,7 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay for) extra tables so your stall is prominent. 
 
    Here’s a suggested checklist of items:
+
    * Table Cloth
    * Posters and Banners (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">modifiable posters and banner images are available here</a>). Posters and/or banners should clearly have the group name and a short description or pitch of effective altruism since most people won’t know what “effective altruism” means. 
 Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items
