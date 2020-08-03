@@ -54,14 +54,14 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 <a name="before"></a>
 # Before the Fair 
 1. **Find out about what your group can do at that Clubs Fair**. Seek for information from your Student Union (or other organisation at your university that administers clubs) whether your group can participate in the clubs fair, what the fair involves, and whether they have funding for you to get materials for your table. 
-2. **Apply for money to cover costs**. If your Student Union will not provide sufficient funding, you can apply to <a target="_blank" href="https://efctv.org/groupfunding">CEA’s Group Support Funding</a>. You can include Clubs Fair costs within an application for General Group Funding. 
+2. **Apply for money to cover costs**. If your Student Union will not provide sufficient funding, you can apply for <a target="_blank" href="https://efctv.org/gpsupf">CEA’s Group Support Funding</a>. You can include Clubs Fair costs within an application for General Group Funding. 
 3. **Prepare your system for collecting sign-ups**. You may choose to use paper sign-up forms which you type up later. If you do this ensure the spaces for the email address is large, and that you check the writing is legible before the person leaves the table. Alternatively, you can use digital sign-up forms on phones or laptops, such as the in-built Mailchimp Sign-up form (<a target="_blank" href="https://facebook.us19.list-manage.com/subscribe?u=7ede1e5d01354f0948ab39411&id=da2372681e">see this example from Haverford EA</a>), a <a target="_blank" href="https://www.google.com/forms/about/">Google Form</a> or a <a target="_blank" href="https://www.typeform.com/">Typeform</a>. Even if you do use digital forms, it is worth having a few paper sign-up forms as a backup. 
 4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the stall at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. This can be achieved by scheduling your volunteers’ shifts in advance.
 5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. It can be good to have a training meeting with volunteers in advance, during which you can:
 
-    a. Motivate your volunteers by explaining why the Clubs Fair is so important
-    b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
-    c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
+   a. Motivate your volunteers by explaining why the Clubs Fair is so important
+   b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
+   c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
    d. Make sure everyone knows how to access the system for collecting sign-ups
    e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
 
@@ -90,7 +90,7 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 4. **Stay motivated**. Make sure your volunteers take adequate breaks according to their needs. You might choose to motivate yourself and your team by keeping track of how many sign-ups or conversations you’re getting every 30 minutes and try to beat your own record.
 
 # Sample Pitches
-The basic components of the pitch are the **opening** (e.g. ‘Hello’, ‘Have you heard of effective altruism?’ etc.), the **spiel** (summarising EA), **the sell** (what your group offers), and the **call to action** (encouraging them to sign up). Over the course of the day, you can experiment with your pitch and see what works, what feels comfortable, and what best achieves your aims (whether that’s getting sign-ups or sparking interesting conversations).
+The basic components of the pitch are the **opening** (e.g. ‘Hello’, ‘Have you heard of effective altruism?’), the **spiel** (summarising EA), **the sell** (what your group offers), and the **call to action** (encouraging them to sign up). Over the course of the day, you can experiment with your pitch and see what works, what feels comfortable, and what best achieves your aims (whether that’s getting sign-ups or sparking interesting conversations).
 
 Below are some example pitches to get you started. In any of these pitches, if someone doesn’t want you to continue speaking to them, just say ‘No problem, have a great day’ and move onto the next person. 
 
@@ -98,11 +98,11 @@ Below are some example pitches to get you started. In any of these pitches, if s
 
 [Opening] Hi there, do you want to do good with your career?
 
-_If they say ‘Yes’_
+*If they say ‘Yes’*
 
 [Spiel] Great! We're Effective Altruism X. We're part of a growing social movement that's interested in using evidence and reason to figure out the best way to help others. [Sell] We're interested in how we can use our careers to have the greatest social impact. [Call to action] We can send you more details on email if you sign up here (push laptop in front of them) and we'll let you know when we're running events.
 
-_Offer them the laptop / form to sign up_
+*Offer them the laptop / form to sign up*
 
 ### More theory-focused
 
@@ -114,7 +114,7 @@ _If they say 'No'_
 
 [Sell] Our groups hosts speakers, workshops, and a weekly discussion group aimed at helping our members build their plans for how they will help improve the world. 	
 
-_If they say ‘Yes’_
+_If they say ‘Yes’_
 
 Combine [Spiel] and [Sell], e.g. Oh cool! Our group runs events all about this question of working out how to do as much as good as possible using evidence and reason. For example, we run speaker events, workshops, and a weekly discussion group aimed at helping our members build their plans for how they will help improve the world.
 
@@ -126,15 +126,15 @@ _If they’re still interested_
 
 [Opening] Do you want to do good with your life?
 
-_If they say ‘Yes’_
+_If they say ‘Yes’_
 
 [Spiel/Sell] We’re X Effective Altruism. We run events about which career to choose, which charities to donate to, and which causes to support if you want to have a big social impact. For instance, we have Y next week [where Y is a really cool sounding event]. Does that sound good? 
 
-_If they say ‘Yes’_
+_If they say ‘Yes'_
 
 [Call to action] Sign up to the newsletter and we’ll send you a single email outlining all our events this term.
 
-   _If they seem unsure_
+_If they seem unsure_
 
 If you’re not interested, you can unsubscribe in one click.
 
@@ -142,13 +142,13 @@ If you’re not interested, you can unsubscribe in one click.
 
 [Opening] Hey, do you want to make a difference with your career?
 
-_If they stop and look at you/say ‘Yes’_
+_If they stop and look at you or say ‘Yes’_
 
 Hi, I’m XXX, good to meet you.
 
 [Spiel]​ We're from Effective Altruism X. Did you know that you have 80,000 Hours in your working career - that's a bit scary, isn't it? We're about using that time to have the most positive impact on the world. Sound good?
 
-_If they say ‘Yes’_
+_If they say ‘Yes’_
 
 [Sell] At the moment, there's almost no advice that really addresses how you can choose a worthwhile career in which you make a real difference - typically careers services don't think about things like ethical impact as a major point. As a student society, we put on talks from lots of people who've gone into careers doing lots of good, as well as more personal events such as workshops and one to one coaching. This term we've got loads of events, ranging from XXX, to XXX.
 
@@ -178,8 +178,10 @@ While you want to paint EA in the best light, remember that EA won’t be for ev
 * <a target="_blank" href="https://docs.google.com/document/d/1HQMqipqELsByr71lTZqCp5D0XcuuGyShxqJJMYqDgFU/edit">80,000 Hours Tips from 2015</a>
 All of the above are directed towards optimising sign-up numbers. 
 * <a target="_blank" href="https://docs.google.com/document/d/1zkMoh3g_iTNtF7FXyDnF6UPnUnEe3MwXwBAa2XDhhDM/edit#">Lightning Giving Game Guide</a>
+
 ## Guides for Volunteers
-* <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Example Handout from 80,000 Hours Cambridge</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Example Handout from 80,000 Hours  Cambridge</a>
+
 ## Pitch Guides
 * <a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">More Resources for Talking about EA</a>
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/7qCyvv8P7MGa39WtH/lessons-from-running-harvard-effective-altruism">Lessons from Running Harvard Effective Altruism</a>, which uses a Giving Game 
