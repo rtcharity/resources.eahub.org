@@ -69,13 +69,13 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
    Here’s a suggested checklist of items:
 
    * Table Cloth
-   * Posters and Banners (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">modifiable posters and banner images are available here</a>). Posters and/or banners should clearly have the group name and a short description or pitch of effective altruism since most people won’t know what “effective altruism” means. If your posters and banners include photographs or pictures, make sure to include images representing a variety of EA cause areas, so people with a variety of relevant interests could be attracted to your table. Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items.
+   * Posters and Banners (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">modifiable posters and banner images are available here</a>). Posters and/or banners should clearly have the group name and a short description or pitch of effective altruism since most people won’t know what “effective altruism” means. If your posters and banners include photographs or pictures, make sure to include images representing a variety of EA cause areas, so people with a variety of relevant interests could be attracted to your table. Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items.
    * Flyers (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">modifiable flyers are available here</a>). Flyers should ideally list the time and location of your first event, and a shortened link (i.e. <a target="_blank" href="https://bitly.com/">bit.ly</a>) to your mailing list.
-   * Stationery (sellotape, clips, large pieces of cardboard etc. in case you need to hoist banners and posters or tape down flyaway materials).
+   * Stationery (sellotape, clips, large pieces of cardboard etc. in case you need to hoist banners and posters or tape down flyaway materials).
    * Several fully charged laptops, tablets or smartphones for sign-ups.
-   * Paper signup sheets and pens in case you run out of power or if that’s you’re preferred method.
-   * Food and water for your volunteers.
-   * EA-branded T-shirts for your volunteers
+   * Paper signup sheets and pens in case you run out of power or if that’s you’re preferred method.
+   * Food and water for your volunteers.
+   * EA-branded T-shirts for your volunteers.
    * <a target="_blank" href="https://docs.google.com/document/d/1zkMoh3g_iTNtF7FXyDnF6UPnUnEe3MwXwBAa2XDhhDM/edit#">Lightning Giving Game Materials</a> if you choose to run one of these games. 
 
 
