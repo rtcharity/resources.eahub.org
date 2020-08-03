@@ -98,7 +98,7 @@ Below are some example pitches to get you started. In any of these pitches, if s
 
 [Opening] Hi there, do you want to do good with your career?
 
-*If they say ‘Yes’*
+_If they say ‘Yes’_
 
 [Spiel] Great! We're Effective Altruism X. We're part of a growing social movement that's interested in using evidence and reason to figure out the best way to help others. [Sell] We're interested in how we can use our careers to have the greatest social impact. [Call to action] We can send you more details on email if you sign up here (push laptop in front of them) and we'll let you know when we're running events.
 
