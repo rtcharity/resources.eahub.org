@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 2nd August 2020*
+### *Updated 3rd August 2020*
 
 <p class="large_image_wrapper">
 <img src="/img/intropresentation.png" />
