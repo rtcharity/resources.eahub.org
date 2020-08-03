@@ -38,7 +38,7 @@ Tabling is when a university group sets up a table to promote their group to pas
 
 <a name="what"></a>
 # What is a Clubs Fair?
-A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orientation) is the annual or bi-annual student extracurricular fair most universities host. Usually held over a few hours or a few days at the beginning of the term, student groups can register for a table and talk to students who might be interested in joining their group. Many students will be using this event to figure out what groups to get involved with, so this is an excellent opportunity to find new people (especially first-year students) to get involved in your EA group.
+A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orientation) is an annual or bi-annual student extracurricular fair that most universities host. Usually held over a few hours or a few days at the beginning of the term, student groups can register for a table and talk to students who might be interested in joining their group. Many students will be using this event to figure out what groups to get involved with, so this is an excellent opportunity to find new people (especially first-year students) to get involved in your EA group.
 
 
 <a name="aims"></a>
