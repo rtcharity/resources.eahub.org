@@ -17,7 +17,7 @@ This guide was compiled with resources from LEAN, CEA, EA Oxford, Harvard EA, Ha
 
 The optimal approach to presenting EA at a Clubs Fair will vary between universities, size and age of group etc. This guide aims to compile the key ingredients for a successful Clubs Fair, according to different groups’ experiences. 
 
-Many groups have produced their own guides for the Clubs Fair, which we reference below and list altogether under <a href="#indepth">‘In-depth Guides’</a>.
+Many groups have produced their own guides for the Clubs Fair, which are listed under <a href="#indepth">‘In-Depth Guides’</a>.
 
 
 # Contents
