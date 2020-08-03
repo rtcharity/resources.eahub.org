@@ -22,7 +22,7 @@ First impressions are crucial, so it's worth learning how to represent EA well a
 * <a href="#talks">Introductory Talks</a>
 * <a href="#workshops">Interactive Workshops</a>
 
-<a name="workshops"></a>
+<a name="videos"></a>
 
 # Recorded Talks
 
@@ -33,7 +33,7 @@ Two options are :
 * Will MacAskill's TED talk from 2018: <a target="_blank" href="https://www.youtube.com/watch?v=WyprXhvGVYk&feature=youtu.be">"What are the most important moral problems of our time?"</a> (12 minutes). 
 * Ajeya Cotra's more in-depth <a target="_blank" href="https://www.youtube.com/watch?v=48VAQtGmfWY">introduction to EA from EAGxBerkeley in 2016</a> (35 minutes).
 
-<a name="Introductory Talks"></a>
+<a name="talks"></a>
 
 # Introductory Talks
 
