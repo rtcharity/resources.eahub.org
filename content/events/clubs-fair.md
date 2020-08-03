@@ -98,27 +98,27 @@ Below are some example pitches to get you started. In any of these pitches, if s
 
 [Opening] Hi there, do you want to do good with your career?
 
-   _If they say ‘Yes’_
+_If they say ‘Yes’_
 
 [Spiel] Great! We're Effective Altruism X. We're part of a growing social movement that's interested in using evidence and reason to figure out the best way to help others. [Sell] We're interested in how we can use our careers to have the greatest social impact. [Call to action] We can send you more details on email if you sign up here (push laptop in front of them) and we'll let you know when we're running events.
 
-  _Offer them the laptop / form to sign up_
+_Offer them the laptop / form to sign up_
 
 ### More theory-focused
 
 [Opening] Hi, have you heard of effective altruism?
 
-   _If they say 'No'_
+_If they say 'No'_
 
 [Spiel] Cool! Effective altruism is a global community of people trying to figure out how to improve the world as much as possible using evidence and reason. It turns out some ways of helping people might be orders of magnitude more effective than other ways, so it seems really important to figure out what those ways are.
 
 [Sell] Our groups hosts speakers, workshops, and a weekly discussion group aimed at helping our members build their plans for how they will help improve the world. 	
 
-  _If they say ‘Yes’_
+_If they say ‘Yes’_
 
 Combine [Spiel] and [Sell], e.g. Oh cool! Our group runs events all about this question of working out how to do as much as good as possible using evidence and reason. For example, we run speaker events, workshops, and a weekly discussion group aimed at helping our members build their plans for how they will help improve the world.
 
-  _If they’re still interested_
+_If they’re still interested_
 
 [Call to action] We’ll let you know about the details through our mailing list - you can sign up here.
 
@@ -126,11 +126,11 @@ Combine [Spiel] and [Sell], e.g. Oh cool! Our group runs events all about this q
 
 [Opening] Do you want to do good with your life?
 
-   _If they say ‘Yes’_
+_If they say ‘Yes’_
 
 [Spiel/Sell] We’re X Effective Altruism. We run events about which career to choose, which charities to donate to, and which causes to support if you want to have a big social impact. For instance, we have Y next week [where Y is a really cool sounding event]. Does that sound good? 
 
-   _If they say ‘Yes’_
+_If they say ‘Yes’_
 
 [Call to action] Sign up to the newsletter and we’ll send you a single email outlining all our events this term.
 
@@ -142,13 +142,13 @@ If you’re not interested, you can unsubscribe in one click.
 
 [Opening] Hey, do you want to make a difference with your career?
 
-   _If they stop and look at you/say ‘Yes’_
+_If they stop and look at you/say ‘Yes’_
 
 Hi, I’m XXX, good to meet you.
 
 [Spiel]​ We're from Effective Altruism X. Did you know that you have 80,000 Hours in your working career - that's a bit scary, isn't it? We're about using that time to have the most positive impact on the world. Sound good?
 
-   _If they say ‘Yes’_
+_If they say ‘Yes’_
 
 [Sell] At the moment, there's almost no advice that really addresses how you can choose a worthwhile career in which you make a real difference - typically careers services don't think about things like ethical impact as a major point. As a student society, we put on talks from lots of people who've gone into careers doing lots of good, as well as more personal events such as workshops and one to one coaching. This term we've got loads of events, ranging from XXX, to XXX.
 
