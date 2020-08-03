@@ -46,7 +46,7 @@ There are many different possible purposes for an event. When planning events, d
 
 Some options for a purpose could be:
 
-* Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">funnel model of engagement in EA</a>. Your event could facilitate one or more of these transitions:
+* Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">Funnel Model of Engagement in EA</a>. Your event could facilitate one or more of these transitions:
 
   * Moving people from “audience” to “followers” - outreach to people who haven’t heard of EA before.
   * Moving people from “followers” to “participants” - e.g. holding events that help new people become more knowledgeable about EA.
