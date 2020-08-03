@@ -46,7 +46,7 @@ There are many different possible purposes for an event. When planning events, d
 
 Some options for a purpose could be:
 
-* Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">funnel model of engagement in EA</a>. Your event could facilitate one or more of these transitions:
+* Moving people down the <a target="_blank" href="https://www.centreforeffectivealtruism.org/the-funnel-model/">Funnel Model of Engagement in EA</a>. Your event could facilitate one or more of these transitions:
 
   * Moving people from “audience” to “followers” - outreach to people who haven’t heard of EA before.
   * Moving people from “followers” to “participants” - e.g. holding events that help new people become more knowledgeable about EA.
@@ -74,7 +74,7 @@ Some options for a purpose could be:
 
 <a name="volunteer"></a>
 
-# Volunteer roles
+# Volunteer Roles
 
 Ask co-organisers or volunteers to help out, especially if you are expecting several new people to come to the event. The same person could do most, if not all, of these roles.
 
@@ -87,7 +87,7 @@ Ask co-organisers or volunteers to help out, especially if you are expecting sev
 
 <a name="before"></a>
 
-# Before the event
+# Before the Event
 
 Check out this resource about <a target="_blank" href="/tips/community-health/">making groups welcoming</a> and try to consider as many of the factors listed as possible.
 
@@ -215,7 +215,7 @@ Common issues can arise with any group of people having a discussion. On separat
 
 <a name="end"></a>
 
-# At the end of the event
+# At the End of the Event
 
 * Thank everyone for coming along. If you have a guest speaker, thank them publicly and afterwards. 
 * Ask for feedback if you have chosen to do this. 
@@ -225,7 +225,7 @@ Common issues can arise with any group of people having a discussion. On separat
 
 <a name="after"></a>
 
-# After the event
+# After the Event
 
 * You may wish to add the people you met as Facebook friends the next day - it will make it easier to invite to future events and allows them to start conversations or ask you questions.
 * Send an email or message on social media the next day with any relevant, useful information for people who attended the event, such as websites or articles that were mentioned.
