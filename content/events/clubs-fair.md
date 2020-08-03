@@ -65,7 +65,7 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
    d. Make sure everyone knows how to access the system for collecting sign-ups
    e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
 
-6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay for) extra tables so your stall is prominent. 
+6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. 
 
    Here’s a suggested checklist of items:
 
