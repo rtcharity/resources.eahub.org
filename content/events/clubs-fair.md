@@ -27,6 +27,7 @@ Many groups have produced their own guides for the Clubs Fair, which we referenc
 * <a href="#aims">Aims of Attending</a>
 * <a href="#before">Before the Fair</a>
 * <a href="#during">During the Fair</a>
+* <a href="#pitch">Sample 'Pitches'</a>
 * <a href="#after">After the Fair</a>
 * <a href="#indepth">In-Depth Guides</a>
 
