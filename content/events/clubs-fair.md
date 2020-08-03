@@ -58,6 +58,7 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 3. **Prepare your system for collecting sign-ups**. You may choose to use paper sign-up forms which you type up later. If you do this ensure the spaces for the email address is large, and that you check the writing is legible before the person leaves the table. Alternatively, you can use digital sign-up forms on phones or laptops, such as the in-built Mailchimp Sign-up form (<a target="_blank" href="https://facebook.us19.list-manage.com/subscribe?u=7ede1e5d01354f0948ab39411&id=da2372681e">see this example from Haverford EA</a>), a <a target="_blank" href="https://www.google.com/forms/about/">Google Form</a> or a <a target="_blank" href="https://www.typeform.com/">Typeform</a>. Even if you do use digital forms, it is worth having a few paper sign-up forms as a backup. 
 4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the stall at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. This can be achieved by scheduling your volunteers’ shifts in advance.
 5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. It can be good to have a training meeting with volunteers in advance, during which you can:
+
       a. Motivate your volunteers by explaining why the Clubs Fair is so important
 
       b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
@@ -68,9 +69,7 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 
       e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
 
-6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. 
-
-   Here’s a suggested checklist of items:
+6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. Here’s a suggested checklist of items:
 
    * Table Cloth
    * Posters and Banners (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">modifiable posters and banner images are available here</a>). Posters and/or banners should clearly have the group name and a short description or pitch of effective altruism since most people won’t know what “effective altruism” means. If your posters and banners include photographs or pictures, make sure to include images representing a variety of EA cause areas, so people with a variety of relevant interests could be attracted to your table. Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items.
