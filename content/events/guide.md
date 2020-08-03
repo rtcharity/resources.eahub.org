@@ -74,7 +74,7 @@ Some options for a purpose could be:
 
 <a name="volunteer"></a>
 
-# Volunteer roles
+# Volunteer Roles
 
 Ask co-organisers or volunteers to help out, especially if you are expecting several new people to come to the event. The same person could do most, if not all, of these roles.
 
