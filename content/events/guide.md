@@ -87,7 +87,7 @@ Ask co-organisers or volunteers to help out, especially if you are expecting sev
 
 <a name="before"></a>
 
-# Before the event
+# Before the Event
 
 Check out this resource about <a target="_blank" href="/tips/community-health/">making groups welcoming</a> and try to consider as many of the factors listed as possible.
 
@@ -215,7 +215,7 @@ Common issues can arise with any group of people having a discussion. On separat
 
 <a name="end"></a>
 
-# At the end of the event
+# At the End of the Event
 
 * Thank everyone for coming along. If you have a guest speaker, thank them publicly and afterwards. 
 * Ask for feedback if you have chosen to do this. 
@@ -225,7 +225,7 @@ Common issues can arise with any group of people having a discussion. On separat
 
 <a name="after"></a>
 
-# After the event
+# After the Event
 
 * You may wish to add the people you met as Facebook friends the next day - it will make it easier to invite to future events and allows them to start conversations or ask you questions.
 * Send an email or message on social media the next day with any relevant, useful information for people who attended the event, such as websites or articles that were mentioned.
