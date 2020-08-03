@@ -24,7 +24,7 @@ Many groups have produced their own guides for the Clubs Fair, which we referenc
 
 * <a href="#tabling">What is Tabling?</a>
 * <a href="#what">What is a Clubs Fair?</a>
-* <a href="#aims">Aims of Attending</a>
+* <a href="#aims">Aims of Attending the Fair</a>
 * <a href="#before">Before the Fair</a>
 * <a href="#during">During the Fair</a>
 * <a href="#pitch">Sample 'Pitches'</a>
@@ -42,7 +42,7 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 
 
 <a name="aims"></a>
-# Aims of attending 
+# Aims of Attending the Fair 
 
 1. **To get people to sign up for your group’s mailing list or equivalent.** Some groups take this opportunity to gain as many sign-ups as possible. This approach prioritises quick interactions with as many people as possible, following the reasoning that it is hard to gauge people’s genuine interest at a Clubs Fair and optimising for sign-ups gives as many people as possible the opportunity to engage with the group further. Read more about this approach in this <a target="_blank" href="https://forum.effectivealtruism.org/posts/TFyJC9XCD3Xp99uh8/optimizing-activities-fairs-1">forum post about Oxford’s Clubs Fair</a>. This approach can work well in fast-paced crowded Clubs Fairs, however, you want to avoid giving a bad impression by being too aggressive or salesy when asking for sign-ups. We want people’s first exposure to reflect the kindness and thoughtfulness that the movement is based on. Each university has a different Clubs Fair atmosphere, so check out how other clubs are soliciting mailing list sign-ups, and check your approach isn’t going to stand out for being too aggressive.  
 2. **To briefly introduce effective altruism and give people a chance to interact with your group**.  If your university’s Clubs Fair is fairly quiet or you are doing tabling at other times of the year you will have enough time to have longer conversations and could do an engaging activity such as a Lightning Giving Game where participants get to choose which charity to donate some money to. <a target="_blank" href="https://docs.google.com/document/d/1zkMoh3g_iTNtF7FXyDnF6UPnUnEe3MwXwBAa2XDhhDM/edit#">This guide has more information on how to run Lightning Giving Games</a>. 
