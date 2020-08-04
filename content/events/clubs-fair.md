@@ -36,13 +36,13 @@ Many groups have produced their own guides for the Clubs Fair, which are listed 
 
 # What is Tabling?
 
-Tabling is when a university group sets up a table to promote their group to passing students. The most common time to set up a table is the Clubs Fair. In many universities groups are allowed to also set up their table in a time and place where there is a lot of foot traffic, e.g. near the cafeteria around lunchtime. The advice on this page is mostly focussed on Clubs Fairs, but most of the advice can be applied to other tabling opportunities. 
+Tabling is when a university group sets up a table to promote their group to passing students. The most common time to set up a table is the Clubs Fair. In many universities, groups are allowed to set up their table where there is a lot of foot traffic, such as near the cafeteria around lunchtime. The advice on this page is mostly focussed on Clubs Fairs, but most of the advice can be applied to other tabling opportunities. 
 
 <a name="what"></a>
 
 # What is a Clubs Fair?
 
-A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orientation) is an annual or bi-annual student extracurricular fair that most universities host. Usually held over a few hours or a few days at the beginning of the term, student groups can register for a table and talk to students who might be interested in joining their group. Many students will be using this event to figure out what groups to get involved with, so this is an excellent opportunity to find new people (especially first-year students) to get involved in your EA group.
+A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation, is an annual or bi-annual student extracurricular fair that most universities host. Usually held over a few hours or days at the beginning of the term, student groups can register to set up a table and talk to students who might be interested in joining their group. Many students, especially first-years, will be trying to figure out which groups to get involved with. This makes Clubs Fairs an excellent opportunity to invite new people to your EA group.
 
 <a name="aims"></a>
 
@@ -64,15 +64,15 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the stall at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. This can be achieved by scheduling your volunteers’ shifts in advance.
 5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. It can be good to have a training meeting with volunteers in advance, during which you can:
 
-     a. Motivate your volunteers by explaining why the Clubs Fair is so important
+    a. Motivate your volunteers by explaining why the Clubs Fair is so important
 
-     b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
+    b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
 
-     c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
+    c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
 
-     d. Make sure everyone knows how to access the system for collecting sign-ups
+    d. Make sure everyone knows how to access the system for collecting sign-ups
 
-     e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
+    e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
 6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. Here’s a suggested checklist of items:
 
    * Table Cloth
