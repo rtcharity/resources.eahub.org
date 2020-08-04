@@ -322,7 +322,7 @@ Can use data to choose between charities
 
 ## Preparing to Run a Lightning Giving Game
 
-1.  **Secure funding to donate to the charities **
+1.  **Secure funding to donate to the charities**
 
     * Your university might have funding available for your group to spend on Clubs Fair activities
     * The Life You Can Save may <a target="_blank" href="https://docs.google.com/document/d/1hLtyGBgmWLxovGVH8f5n9tuiNKCxyJvg4KOb6XnQAQI/edit#heading=h.vzd7r26rxyzk">sponsor your Lightning Giving Game</a> if at least a 1/3 of the featured charities are from <a target="_blank" href="http://www.thelifeyoucansave.org/Top-Charities">The Life You Can Save’s recommended list</a>, all charities are tax-deductible in the US, email addresses are collected for the Life You Can Save, you fill out a post-game report afterwards.
@@ -352,7 +352,7 @@ If you have coins then use jars.
 
 ## Lightning Giving Games Checklist
 
-* Printouts of blurbs about each charity 
+* Posters with blurbs and photos of each charity 
 * Money or tokens
 * 50-200 (depending on the size of your fair)
 Jars or Pin Board (with 50-200 pin tacks), labelled with names with each of the charities
