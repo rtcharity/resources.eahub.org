@@ -180,7 +180,6 @@ While you want to paint EA in the best light, remember that EA won’t be for ev
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/TFyJC9XCD3Xp99uh8/optimizing-activities-fairs-1">Optimizing Activities Fairs from EA Oxford</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1HQMqipqELsByr71lTZqCp5D0XcuuGyShxqJJMYqDgFU/edit">80,000 Hours Tips from 2015</a>
 All of the above are directed towards optimising sign-up numbers. 
-* <a target="_blank" href="https://docs.google.com/document/d/1zkMoh3g_iTNtF7FXyDnF6UPnUnEe3MwXwBAa2XDhhDM/edit#">Lightning Giving Game Guide</a>
 
 ## Guides for Volunteers
 * <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Example Handout from 80,000 Hours  Cambridge</a>
@@ -219,19 +218,19 @@ Offers of money are good for attracting attention, and interactive activities ar
 **Charity ideas:**
 
 * One global health and poverty charity E.g. 
-   * Against Malaria Foundation (recommended by GiveWell)
-   * GiveDirectly  (recommended by GiveWell)
-* One animal charity E.g.
-   * The Humane League (recommended by Animal Charity Evaluators)
+   * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+* One animal charity e.g.
+   * <a target="_blank" href="https://thehumaneleague.org/">The Humane League</a> (recommended by <a target="_blank" href="https://animalcharityevaluators.org/donation-advice/recommended-charities/">Animal Charity Evaluators</a>)
 * One charity that aims to reduce catastrophic risks, e.g. 
-   * Climate charity such as Coalition for Rainforest Nations (recommended by Founders Pledge)
-   * Pandemic Risk charity (e.g. John Hopkins Center for Health Security, recommended by Founders Pledge)
+   * Climate charity such as <a target="_blank" href="https://www.rainforestcoalition.org/">Coalition for Rainforest Nations</a> (recommended by <a target="_blank" href="https://founderspledge.com/stories/climate-change-executive-summary">Founders Pledge</a>)
+   * <a target="_blank" href="http://www.centerforhealthsecurity.org/">Pandemic Risk charity (e.g. <a target="_blank" href="">John Hopkins Center for Health Security</a>, recommended by <a target="_blank" href="https://founderspledge.com/stories/existential-risk-executive-summary">Founders Pledge</a>)
 
 
 **Notes on choosing charities:**
 * We don’t recommend including any meta-EA charities. For meta-EA charities to be appealing, a person has to fully buy into EA being important first, and a Giving Game is just the start of this process. 
 * Avoid charities that would take a while to explain what they do, or what the merit is of this charity. For example, we don’t recommend choosing an AI Safety charity because many people won’t immediately agree that AI is a large threat to humanity. 
-* Harvard EA conducted an experiment that suggested speculative charities such as 80,000 Hours and Machine Intelligence Research Institute are less likely to result in email list sign-ups than global health charities.
+* Harvard EA conducted an experiment that suggested <a target="_blank" href="http://www.harvardea.org/blog/2015/9/12/heas-spring-2014-research?rq=%22giving%20game%22">speculative charities such as 80,000 Hours and Machine Intelligence Research Institute are less likely to result in email list sign-ups than global health charities.
 
 
 **Key points you could discuss in your game:**
@@ -243,7 +242,7 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 **Resources**
 
-* This document has info on Against Malaria Foundation, The Humane League, and John Hopkins Centre for Health Security
+* <a target="_blank" href="https://docs.google.com/presentation/d/17UmYAIneKhYOlmhw7sECo7YgpFOk-ihKIGnjC8lh7Ew/edit#slide=id.p3">This document has posters</a> for running a Lightning Giving Game with the Against Malaria Foundation, the Humane League, and John Hopkins Centre for Health Security
 
 ### Approach 2: Two-step Giving Game, with one excellent charity and one appealing but ineffective or harmful charity 
 
@@ -254,17 +253,17 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 **Cons:**
 
-* Only covers one cause area. To counter this it would help to have a variety of posters representing difference cause areas on your table.  
+* Only covers one cause area. To counter this it would help to have a variety of posters representing different cause areas on your table.  
 * It usually requires people to spend ~2 minutes talking with someone facilitating the game, otherwise, people might just put their money/token into a charity without reading or hearing about the charities. 
 
 **Charity ideas:**
 
 * One appealing but ineffective or harmful charity 
-   * PlayPumps is a popular option
+   * <a target="_blank" href="http://www.playpumps.co.za/">PlayPumps is a popular option (<a target="_blank" href="https://www-tc.pbs.org/frontlineworld/stories/southernafrica904/flash/pdf/unicef_pp_report.pdf">more information on PlayPumps</a>)
 * One effective global health charity e.g. 
-   * Against Malaria Foundation
-   * GiveDirectly 
-   * Evidence Action’s Dispensers for Safe Water (this can be a nice contrast to PlayPumps as they both aim to provide clean water)
+  * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+   * <a target="_blank" href="https://www.evidenceaction.org/dispensers-2017/">Evidence Action’s Dispensers for Safe Water</a> which is a good contrast to PlayPumps as they both aim to provide clean water (a <a target="_blank" href="https://www.givewell.org/charities/other-charities">GiveWell standout charity</a>)
 
 ** Notes on choosing charities:**
 
@@ -278,12 +277,12 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 **How the game could work:**
 
-* This resource has two pages per charity. Show the first “initial information” page, state this is the sort of advertising information a charity might use, and explain what each of the charities do. Make sure you are positive about both charities.
+* <a target="_blank" href="https://docs.google.com/document/d/19YDz3lLcyaBNVAINhVfmhhyORp9xExOI/edit">This resource has two pages per charity</a>. Show the first “initial information” page, state this is the sort of advertising information a charity might use, and explain what each of the charities do. Make sure you are positive about both charities.
 * Get people to pick which charity they’d choose based on this information. 
 * Then flip the pages over to show the “evidence” information, and explain what the evidence shows. 
 * Give people an opportunity to ask questions.
-Then ask people to choose for a final time. 
-More information and FAQs about these two charities are here. 
+* Then ask people to choose for a final time. 
+* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9">More information and FAQs about these two charities are here</a>. 
 
 ### Approach 3: Three Global Health Charities 
 
@@ -294,15 +293,15 @@ Can use data to choose between charities
 
 **Cons:**
 
-* Only covers one cause area. To counter this it would help to have a variety of posters representing difference cause areas on your table.  
+* Only covers one cause area. To counter this it would help to have a variety of posters representing different cause areas on your table.  
 
 **Charity ideas:**
 
 * Three effective global health charities e.g.
-   * GiveDirectly 
-   * Against Malaria Foundation
-   * Schistosomiasis Control Initiative
-   * Helen Keller International
+     * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+   * <a target="_blank" href="https://schistosomiasiscontrolinitiative.org/">Schistosomiasis Control Initiative</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+   * <a target="_blank" href="https://www.hki.org/">Helen Keller International (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
   
 **Notes on choosing charities:**
 
@@ -317,34 +316,38 @@ Can use data to choose between charities
 
 **Resources**
 
-* Giving Game material - this is for a long giving game, but the Giving Game charity information provided can be trimmed to make a Lightning Giving Game. 
+* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9">Giving Game material</a> - this is for a long giving game involving the Against Malaria Foundation, GiveDirectly and Schistosomiasis Control Initiative, but the charity information provided can be trimmed to make a Lightning Giving Game. 
 
 
 ## Preparing to Run a Lightning Giving Game
 
 1.  Secure funding to donate to the charities 
-   * Your university might have funding available for your group to spend on Clubs Fair activities
-   * The Life You Can Save (TLYCS) may sponsor your Lightning Giving Game if at least a 1/3 of the featured charities are from The Life You Can Save’s recommended list, all charities are tax-deductible in the US, email addresses are collected for the Life You Can Save, you fill out a post-game report afterwards.
-   * Apply to CEA’s Group Support Funding. You can include Giving Game costs within an application for General Group Funding. 
+
+    * Your university might have funding available for your group to spend on Clubs Fair activities
+    * The Life You Can Save may <a target="_blank" href="https://docs.google.com/document/d/1hLtyGBgmWLxovGVH8f5n9tuiNKCxyJvg4KOb6XnQAQI/edit#heading=h.vzd7r26rxyzk">sponsor your Lightning Giving Game</a> if at least a 1/3 of the featured charities are from <a target="_blank" href="http://www.thelifeyoucansave.org/Top-Charities">The Life You Can Save’s recommended list</a>, all charities are tax-deductible in the US, email addresses are collected for the Life You Can Save, you fill out a post-game report afterwards.
+    * <a target="_blank" href="https://efctv.org/groupfunding">Apply to CEA’s Group Support Funding</a>. You can include Giving Game costs within an application for General Group Funding. 
 
 2. Select 2 or 3 charities
 3. Choose how people should submit their vote. Some groups recommend not letting people see how many votes each charity has because they may try to help the less-popular charity. Other groups recommend showing the votes because it is visually attractive and will draw people to your table, if only to figure out what’s going on. Options:
 
-   a) Get a pile of $1 notes or $1 coins to physically hand to people for them to donate. Your pitch can be to hold out the money and say “Do you want to donate this dollar to charity?”. If you have paper money you could create a board to pin your bills to:
+    a) Get a pile of $1 notes or $1 coins to physically hand to people for them to donate. Your pitch can be to hold out the money and say “Do you want to donate this dollar to charity?”. If you have paper money you could create a board to pin your bills to:
+<p class="large_image_wrapper">
+ <img src="/img/lightninggg.jpg" />
+</p>
 If you have coins then use jars.
 
-   b) If you prefer not to use real money, use ping-pong balls or marbles.
+    b) If you prefer not to use real money, use ping-pong balls or marbles.
 
-   c) Set up your board or containers and charity information on your table, along with other information about effective altruism. 
+    c) Set up your board or containers and charity information on your table, along with other information about effective altruism. 
 4. Prepare what you are going to say
 
-   a) Getting participants: An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
+    a) Getting participants: An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
 
-   b) Describing the charities VERY briefly
+    b) Describing the charities VERY briefly
 
-   c) Giving an explanation of what EA is 
+    c) Giving an explanation of what EA is 
 
-   d) Asking people to sign up for your group.
+    d) Asking people to sign up for your group.
 
 ## Lightning Giving Games Checklist
 
