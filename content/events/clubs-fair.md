@@ -368,7 +368,7 @@ Jars or Pin Board (with 50-200 pin tacks), labelled with names with each of the 
 
 ## After the Game
 
-At your first event after tabling you might like to present the results of your Giving Game
+You might like to present the results of your Giving Game during the first event after tabling. 
 
 
 
