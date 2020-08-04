@@ -127,7 +127,7 @@ Here are some resources that will help you learn more about diversity and inclus
 * <a target="_blank" href=" https://www.facebook.com/groups/487263712002225">Ethnic Diversity group on Facebook</a> (for people who identify with a non-white ethnicity or race)
 * <a target="_blank" href=" https://www.facebook.com/groups/diversityEA">Diversity & Inclusion in EA group on Facebook</a> (open to all)
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women and Non-Binary EA Facebook Group</a>
-* <a target="_blank" href="https://www.wanbam.com/">WANBAM (Women and Non-Binary Altruism Mentorship Program)</a>
+* <a target="_blank" href="https://www.wanbam.com/">WANBAM connects and supports a global network of women, transgender, and non-binary people interested in Effective Altruism through mentorship</a>
 
 <a name="boundaries"></a>
 
