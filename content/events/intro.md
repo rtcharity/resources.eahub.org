@@ -39,7 +39,7 @@ Two options are :
 
 The links provide slides and a suggested script for an EA talk. We recommend you to modify these scripts to include what drew you to EA and how it EA affects your life.
 
-* <a target="_blank" href="https://drive.google.com/drive/folders/1u2SHkoo_Ns-OkzOj897Z6mPMkDmHkGmT?usp=sharing">Eric Gastfiriend's introduction to EA</a> (16 minutes) was used as a guest lecture in a Rationality class. 
+* <a target="_blank" href="https://drive.google.com/drive/folders/1u2SHkoo_Ns-OkzOj897Z6mPMkDmHkGmT?usp=sharing">Eric Gastfriend's introduction to EA</a> (16 minutes) was used as a guest lecture in a Rationality class. 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1vqg2hFzlazg6qi8n2j44jzBOANok-ao1?usp=sharing">EA New Zealand's introduction to EA</a> (20 minutes) is used to introduce EA to non-EA clubs and workplaces. 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1kUZUC-addsdDJTaR6QhOnZ6jjqZOi1pS?usp=sharing">EA New Zealand's very short introduction to EA</a> (4-minute version) is a mini version of the above talk. It can be used with or without slides at the start of introductory events. Suitable for newcomers. 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1PMOPsZRJ2u4ENfEbYP7FNDsARiG0iqPl?usp=sharing">EA Stanford's introduction to EA</a> (35 minutes) is based on Ajeya Cotra's talk linked above. 
