@@ -5,19 +5,55 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 1st June 2020_
+### _Updated 4th August 2020_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
-* <a href="#jessica"> Jessica McCurdy - Yale </a>
+* <a href="#stanford"> Stanford EA</a>
+* <a href="#jessica"> Jessica McCurdy - Yale EA</a>
 * <a href="#parth"> Parth Thaya - EA Microsoft</a>
 * <a href="#brian"> Brian Tan - EA Philippines</a>
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney</a>
 
+<hr>
+
+<a name="stanford"></a>
+# Stanford EA
+### _Published 4th August 2020_
+
+<p class="large_image_wrapper">
+ <img src="/img/stanfordEAwill.jpg" />
+</p>
+
+## Describe your group
+Stanford EA (SEA) was one of the earliest university EA groups to get started (and started out as Stanford THINK - The High Impact Network in 2012). Over the past few years, SEA has grown from a small group with three active members to a group of over 20 organizers and dozens of other members. In this time, SEA has spun off distinct AI Safety and One For the World sub-groups, and are also working with two professors (Stephen Luby and Paul Edwards) to run Stanford’s new Existential Risks Initiative. Other programming includes a quarterly fellowship mentorship program, speaker events, socials, career workshops, and retreats. 
+
+## What is the best advice/resource you've found?
+* 1:1s have been key to getting our group to where it is today. Older and more experienced group members mentoring and having in-depth conversations with younger, less experienced members about everything from population ethics and cause prioritization to theories of change and best practices for running groups have helped give interested students a high-fidelity understanding of EA in a way that gets them excited to join the group, learn more, and apply these ideas to their own lives.  We’ve incorporated regular 1:1s into our fellowship structure for this reason. 
+* Becoming (best) friends with your co-organizers and hanging out with EAs for fun/outside of EA contexts (e.g. over meals, doing coursework together, etc) has made a huge difference for Stanford EA, and makes group members want to do and learn even more together. 
+* Ask for help and get connected with the community! CEA, the EA Hub, the EA Groups slack, and fellow organizers are great resources who can point you to all the amazing work other group organizers have done. You don’t have to reinvent the wheel (though sometimes it can be valuable to!) and can. In particular, I have Harvard, Yale, MIT, Cambridge and Oxford EA to thank for many of the resources we now use for our programming. 
+## What has been your most successful event, and why?
+
+* Our kickoff event for 2019 with Will MacAskill had close to 200 attendees and great reception. We also received 250 applications for our Existential Risks Initiative Summer Research Program, or ~3.5% of the Stanford student body! 
+* Dinners with professors have also been quite successful, and have led to the close connection we have with the professors running the Existential Risks Initiative. 
+
+## What is the strength of your group?
+Having a strong core of highly committed members who dedicate a lot of time and energy towards the group has helped a lot. 
+
+## What challenges have you faced as a group, and how did you manage them?
+
+We are currently working on figuring out how to improve our programming for more experienced group members (e.g. once they’ve finished the fellowship) - through improving our career programming, more in depth discussions, and projects.
+
+## Do you have a key goal for your group? How are you working to achieve this?
+Our two primary goals are developing students with well thought out cause-prioritization and high-impact career plans reflecting this, and improving the standing of and research on EA-related topics at Stanford (through connections with professors and initiatives like SERI) and within academia more broadly (helping facilitate connections/partnerships, leveraging Stanford’s brand for good use, etc). 
+
+
+
+<hr>
 <a name="jessica"></a>
 
 # Jessica McCurdy - Yale EA
@@ -48,7 +84,7 @@ I think EA could still do a lot more to create a welcoming environment that enco
 
 When I first started organizing I would sometimes feel intimidated to reach out to people in the community for help. I thought people would be too busy and annoyed by my reaching out. However, I have discovered that the people in the EA community are just some of the most generous and helpful people I have interacted with. We all want what is best for EA and to see groups succeed. Additionally, I learned that people genuinely like the feeling of getting to teach and mentor others. So please reach out. The worst thing that can happen is that you don’t get a response. However, the much more likely thing that will happen is that the person you reach out to will be excited to share what they have learned and that it will probably make them feel good.
 
-
+<hr>
 
 <a name="parth"></a>
 
@@ -76,7 +112,7 @@ That ideas that are considered fringe or weird or unusual at one point in time c
 Water chestnuts – they should be a part of way more meals than they are.
 
 
-
+<hr>
 
 <a name="brian"></a>
 
@@ -136,6 +172,7 @@ I'd like to see more community builders share about their successes (to celebrat
 It would also be great to have video calls with other community builders and/or EAs, just to socialize more and learn from like-minded people.
 
 <hr>
+
 <a name="sella"></a>
 # Sella Nevo - EA Israel
 ### _Published 29th February 2020_
