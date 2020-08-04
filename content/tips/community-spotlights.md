@@ -36,6 +36,8 @@ Stanford EA (SEA) was one of the earliest university EA groups to get started (a
 * 1:1s have been key to getting our group to where it is today. Older and more experienced group members mentoring and having in-depth conversations with younger, less experienced members about everything from population ethics and cause prioritization to theories of change and best practices for running groups have helped give interested students a high-fidelity understanding of EA in a way that gets them excited to join the group, learn more, and apply these ideas to their own lives.  We’ve incorporated regular 1:1s into our fellowship structure for this reason. 
 * Becoming (best) friends with your co-organizers and hanging out with EAs for fun/outside of EA contexts (e.g. over meals, doing coursework together, etc) has made a huge difference for Stanford EA, and makes group members want to do and learn even more together. 
 * Ask for help and get connected with the community! CEA, the EA Hub, the EA Groups slack, and fellow organizers are great resources who can point you to all the amazing work other group organizers have done. You don’t have to reinvent the wheel (though sometimes it can be valuable to!) and can. In particular, I have Harvard, Yale, MIT, Cambridge and Oxford EA to thank for many of the resources we now use for our programming. 
+
+
 ## What has been your most successful event, and why?
 
 * Our kickoff event for 2019 with Will MacAskill had close to 200 attendees and great reception. We also received 250 applications for our Existential Risks Initiative Summer Research Program, or ~3.5% of the Stanford student body! 
