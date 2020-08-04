@@ -39,7 +39,7 @@ Tabling is when a university group sets up a table to promote their group to pas
 
 <a name="what"></a>
 # What is a Clubs Fair?
-A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orientation) is an annual or bi-annual student extracurricular fair that most universities host. Usually held over a few hours or a few days at the beginning of the term, student groups can register for a table and talk to students who might be interested in joining their group. Many students will be using this event to figure out what groups to get involved with, so this is an excellent opportunity to find new people (especially first-year students) to get involved in your EA group.
+A Clubs Fair (otherwise known as Freshers Fair, Activities Fair, or Orientation) is an annual or bi-annual student extracurricular fair that most universities host. Usually held over a few hours or a few days at the beginning of the term, student groups can register for a table and talk to students who might be interested in joining their group. Many students will be using this event to figure out what groups to get involved with, so this is an excellent opportunity to find new people (especially first-year students) to get involved in your EA group.
 
 
 <a name="aims"></a>
@@ -54,9 +54,9 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 
 <a name="before"></a>
 # Before the Fair 
-1. **Find out about what your group can do at that Clubs Fair**. Seek for information from your Student Union (or other organisation at your university that administers clubs) whether your group can participate in the clubs fair, what the fair involves, and whether they have funding for you to get materials for your table. 
+1. **Find out about what your group can do at that Clubs Fair**. Seek for information from your Student Union (or other organisation at your university that administers clubs) whether your group can participate in the Clubs Fair, what the fair involves, and whether they have funding for you to get materials for your table. 
 2. **Apply for money to cover costs**. If your Student Union will not provide sufficient funding, you can apply for <a target="_blank" href="https://efctv.org/gpsupf">CEA’s Group Support Funding</a>. You can include Clubs Fair costs within an application for General Group Funding. 
-3. **Prepare your system for collecting sign-ups**. You may choose to use paper sign-up forms which you type up later. If you do this ensure the spaces for the email address is large, and that you check the writing is legible before the person leaves the table. Alternatively, you can use digital sign-up forms on phones or laptops, such as the in-built Mailchimp Sign-up form (<a target="_blank" href="https://facebook.us19.list-manage.com/subscribe?u=7ede1e5d01354f0948ab39411&id=da2372681e">see this example from Haverford EA</a>), a <a target="_blank" href="https://www.google.com/forms/about/">Google Form</a> or a <a target="_blank" href="https://www.typeform.com/">Typeform</a>. Even if you do use digital forms, it is worth having a few paper sign-up forms as a backup. 
+3. **Prepare your system for collecting sign-ups**. You may choose to use paper sign-up forms which you type up later. If you do this, ensure the spaces for the name and email address are large, and that you check the writing is legible before the person leaves the table. Alternatively, you can use digital sign-up forms on phones or laptops, such as the in-built Mailchimp Sign-up form (<a target="_blank" href="https://facebook.us19.list-manage.com/subscribe?u=7ede1e5d01354f0948ab39411&id=da2372681e">see this example from Haverford EA</a>), a <a target="_blank" href="https://www.google.com/forms/about/">Google Form</a> or a <a target="_blank" href="https://www.typeform.com/">Typeform</a>. Even if you do use digital forms, it is worth having a few paper sign-up forms as a backup. 
 4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the stall at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. This can be achieved by scheduling your volunteers’ shifts in advance.
 5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. It can be good to have a training meeting with volunteers in advance, during which you can:
 
@@ -72,12 +72,12 @@ A Clubs Fair (otherwise known as Freshers’ Fair, Activities’ Fair, or Orient
 
 6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. Here’s a suggested checklist of items:
 
-   * Table Cloth
+   * Tablecloth
    * Posters and Banners (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">modifiable posters and banner images are available here</a>). Posters and/or banners should clearly have the group name and a short description or pitch of effective altruism since most people won’t know what “effective altruism” means. If your posters and banners include photographs or pictures, make sure to include images representing a variety of EA cause areas, so people with a variety of relevant interests could be attracted to your table. Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items.
    * Flyers (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">modifiable flyers are available here</a>). Flyers should ideally list the time and location of your first event, and a shortened link (i.e. <a target="_blank" href="https://bitly.com/">bit.ly</a>) to your mailing list.
    * Stationery (sellotape, clips, large pieces of cardboard etc. in case you need to hoist banners and posters or tape down flyaway materials).
    * Several fully charged laptops, tablets or smartphones for sign-ups.
-   * Paper signup sheets and pens in case you run out of power or if that’s you’re preferred method.
+   * Paper signup sheets and pens in case you run out of power or if that’s your preferred method.
    * Food and water for your volunteers.
    * EA-branded T-shirts for your volunteers.
    * <a href="#lightning">Lightning Giving Game Materials</a> if you choose to run one of these games. 
