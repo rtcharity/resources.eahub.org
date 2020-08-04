@@ -17,7 +17,7 @@ This guide compiles resources from LEAN, CEA, EA Oxford, Harvard EA, Haverford E
 
 The optimal approach to presenting EA at a Clubs Fair will vary between universities, size, and age of your group. This guide aims to compile the key ingredients for a successful Clubs Fair according to different groups’ experiences. 
 
-Many groups have produced their own guides for the Clubs Fair, which are listed under <a href="#indepth">‘In-Depth Guides’</a>.
+Many groups have produced their own guides for the Clubs Fair, which we list under <a href="#indepth">‘In-Depth Guides’</a>.
 
 # Contents
 
@@ -36,7 +36,7 @@ Many groups have produced their own guides for the Clubs Fair, which are listed 
 
 # What is Tabling?
 
-Tabling is when a university group sets up a table to promote their group to passing students. The most common time to set up a table is the Clubs Fair. In many universities, groups are allowed to set up their table where there is a lot of foot traffic, such as near the cafeteria around lunchtime. The advice on this page is mostly focussed on Clubs Fairs, but most of the advice can be applied to other tabling opportunities. 
+Tabling is when a university group sets up a table to promote their group to passing students. The most common time to set up a table is the Clubs Fair. Many universities allow groups to set up tables where there is a lot of foot traffic, such as near the cafeteria around lunchtime. The advice on this page focuses on Clubs Fairs, but most of the advice can be applied to other tabling opportunities. 
 
 <a name="what"></a>
 
@@ -48,7 +48,7 @@ A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation
 
 # Aims of Attending the Fair
 
-1. **To get people to sign up for your group’s mailing list or equivalent.** Some groups take this opportunity to gain as many sign-ups as possible. This approach prioritises quick interactions with as many people as possible, following the reasoning that it is hard to gauge people’s genuine interest at a Clubs Fair and optimising for sign-ups gives as many people as possible the opportunity to engage with the group further. Read more about this approach in this <a target="_blank" href="https://forum.effectivealtruism.org/posts/TFyJC9XCD3Xp99uh8/optimizing-activities-fairs-1">forum post about Oxford’s Clubs Fair</a>. This approach can work well in fast-paced crowded Clubs Fairs, however, you want to avoid giving a bad impression by being too aggressive or salesy when asking for sign-ups. We want people’s first exposure to reflect the kindness and thoughtfulness that the movement is based on. Each university has a different Clubs Fair atmosphere, so check out how other clubs are soliciting mailing list sign-ups, and check your approach isn’t going to stand out for being too aggressive.  
+1. **To get people to sign up for your group’s mailing list or equivalent.** Some groups take this opportunity to gain as many sign-ups as possible. This approach prioritises quick interactions with as many people as possible, following the reasoning that it is hard to gauge people’s genuine interest at a Clubs Fair and optimising for sign-ups gives as many people as possible the opportunity to engage with the group further. Read more about this approach in this <a target="_blank" href="https://forum.effectivealtruism.org/posts/TFyJC9XCD3Xp99uh8/optimizing-activities-fairs-1">forum post about Oxford’s Clubs Fair</a>. This approach can work well in fast-paced, crowded Clubs Fairs, however, you want to avoid giving a bad impression by being too aggressive or salesy when asking for sign-ups. We want people’s first exposure to reflect the kindness and thoughtfulness that the movement is based on. Each university has a different Clubs Fair atmosphere, so check out how other clubs are soliciting mailing list sign-ups, and check your approach isn’t going to stand out for being too aggressive.  
 2. **To briefly introduce effective altruism and give people a chance to interact with your group**.  If your university’s Clubs Fair is fairly quiet or you are doing tabling at other times of the year you will have enough time to have longer conversations and could do an engaging activity such as a Lightning Giving Game where participants get to choose which charity to donate some money to. <a href="#lightning">This section has more information on how to run Lightning Giving Games</a>. 
 3. **To invite people to meet for a** <a target="_blank" href="https://resources.eahub.org/tips/one-on-ones/">**one-on-one**</a>. Make a note of people who seem especially interested in EA when you speak to them, and either ask them if they want to have a one-on-on during your conversation or follow up with them afterwards via email to invite them for a one-on-one meeting. You could also include an option for people to sign-up for a one-on-one while signing up for your mailing list. 
 4. **To encourage people to attend your first event**. Aim to run your first event within a week of the Clubs Fair, and to send out an email advertising the event to your new sign-ups very soon after the fair. You can also mention the event in conversations during the Clubs Fair, and perhaps have a poster or handout advertising the event.
@@ -64,15 +64,15 @@ A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation
 4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the stall at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. This can be achieved by scheduling your volunteers’ shifts in advance.
 5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. It can be good to have a training meeting with volunteers in advance, during which you can:
 
-    a. Motivate your volunteers by explaining why the Clubs Fair is so important
+   a. Motivate your volunteers by explaining why the Clubs Fair is so important
 
-    b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
+   b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
 
-    c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
+   c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
 
-    d. Make sure everyone knows how to access the system for collecting sign-ups
+   d. Make sure everyone knows how to access the system for collecting sign-ups
 
-    e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
+   e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
 6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. Here’s a suggested checklist of items:
 
    * Table Cloth
