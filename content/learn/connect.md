@@ -155,7 +155,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/eaparents/">Parents</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1521136334570384/">Politics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women & Non-binary</a>
-* <a target="_blank" href="https://www.wanbam.com/">WANBAM (Women and Non-Binary Altruism Mentorship)</a> connects and supports a global network of women and non-binary Effective Altruists through mentorship.
+* <a target="_blank" href="https://www.wanbam.com/">WANBAM </a> connects and supports a global network of women, transgender, and non-binary people interested in Effective Altruism through mentorship.
 * <a target="_blank" href="https://www.facebook.com/groups/LGBTinEA/">LGBTQIA+ people and allies</a>
 * <a target="_blank" href="https://www.facebook.com/groups/487263712002225/">Non-white ethnicity or race</a>
 
