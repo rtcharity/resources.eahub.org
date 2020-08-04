@@ -265,7 +265,7 @@ Offers of money are good for attracting attention, and interactive activities ar
    * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
    * <a target="_blank" href="https://www.evidenceaction.org/dispensers-2017/">Evidence Action’s Dispensers for Safe Water</a> which is a good contrast to PlayPumps as they both aim to provide clean water (a <a target="_blank" href="https://www.givewell.org/charities/other-charities">GiveWell standout charity</a>)
 
-** Notes on choosing charities:**
+**Notes on choosing charities:**
 
 * Other charities people have chosen in the past have been Make-a-Wish Foundation (which has an average wish cost of several thousand dollars), and the local Guide Dog charity. We don’t recommend you use a Guide Dog charity, or other very popular local charities because this could be offputting for people who have benefitted from the charity (either directly, or through family and friends).  
 
@@ -368,7 +368,7 @@ Jars or Pin Board (with 50-200 pin tacks), labelled with names with each of the 
 
 ## After the Game
 
-At your first event after tabling you might like to present the results of your Giving Game
+You might like to present the results of your Giving Game during the first event after tabling. 
 
 
 
