@@ -200,7 +200,7 @@ Welfare newsletter</a> from Open Philanthropy.
 
 * <a target="_blank" href="https://www.openphilanthropy.org/criminal-justice-reform-newsletter-archive">Criminal Justice Reform newsletter</a> from Open Philanthropy is a monthly update highlighting the work and achievements of criminal justice reform grantees.
 
-<a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
+* <a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
 
 
 * The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect</a> project on Vox takes an EA perspective on a large range of issues, including, but not limited to, main EA causes. You can sign up for their newsletter <a target="_blank" href="https://confirmsubscription.com/h/d/A2BA26698741513A">here</a>. 
@@ -209,23 +209,24 @@ Welfare newsletter</a> from Open Philanthropy.
 
 <a name="podcasts"></a>
 # Podcasts and Videos
-The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
-Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>.
+* The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
-<a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
+* Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>.
 
-The <a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> features Ariel Conn from the Future of Life Institute in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. 
+* <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
 
-Future of Life Institute's <a target="_blank" href="https://futureoflife.org/ai-alignment-podcast/">AI Alignment Podcast covers and explores the AI alignment problem across a large variety of domains, reflecting the fundamentally interdisciplinary nature of AI alignment. 
+* The <a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> features Ariel Conn from the Future of Life Institute in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. 
 
-The <a target="_blank" href="https://www.sentienceinstitute.org/podcast/">Sentience Institute Podcast</a> features interviews with advocates, scientists, and entrepreneurs about the most effective strategies to expand humanity’s moral circle, with an emphasis on expanding the circle to farmed animals.
+* The Future of Life Institute's <a target="_blank" href="https://futureoflife.org/ai-alignment-podcast/">AI Alignment Podcast covers and explores the AI alignment problem across a large variety of domains, reflecting the fundamentally interdisciplinary nature of AI alignment. 
 
-The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
+* The <a target="_blank" href="https://www.sentienceinstitute.org/podcast/">Sentience Institute Podcast</a> features interviews with advocates, scientists, and entrepreneurs about the most effective strategies to expand humanity’s moral circle, with an emphasis on expanding the circle to farmed animals.
 
-A <a target="_blank" href="https://forum.effectivealtruism.org/posts/B68gjjhZccGtWDuDh/a-list-of-ea-related-podcasts">longer list of relevant podcasts is available here.</a>
+* The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
 
-Many EA organisations have collected their videos on their YouTube channels. See this <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">EA Forum post</a>, which contains links to many of them.
+* A <a target="_blank" href="https://forum.effectivealtruism.org/posts/B68gjjhZccGtWDuDh/a-list-of-ea-related-podcasts">longer list of relevant podcasts is available here.</a>
+
+* Many EA organisations have collected their videos on their YouTube channels. See this <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">EA Forum post</a>, which contains links to many of them.
 
 <a name="blogs"></a>
 # Blogs
