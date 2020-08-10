@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 30th March 2020_
+### _Updated 11th August 2020_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -17,6 +17,7 @@ This page has links to newsletters, fora, Facebook groups, podcasts and other wa
 * <a href="#conferences">Conferences</a>
 * <a href="#newsletters">Newsletters</a>
 * <a href="#podcasts">Podcasts</a>
+* <a href="#blogs">Blogs</a>
 * <a href="#onlinegroups">Online Groups</a>
 
 <a name="localgroups"></a>
@@ -30,8 +31,8 @@ Check out the <a target="_blank" href="http://eahub.org/groups/">EA Hub Groups L
 
 # Online Events
 
+* For a wide range of online events, check out the <a target="_blank" href="https://www.facebook.com/groups/EAOnlineEvents/">EA online events Facebook group</a>.
 * The <a target="_blank" href="https://calendar.google.com/calendar/embed?src=ie5uop71imftf4ut2htbv789v8@group.calendar.google.com">international EA events calendar</a>, curated by several community members, lists high-quality speaker events and large social events suitable for anyone interested in EA. <a target="_blank" href="https://forms.gle/cLHxZ4QY2hjLEYnu8">To add an event, fill out this form</a>. If you notice an error in the calendar please email [vaidehiagarwalla@gmail.com](mailto:vaidehiagarwalla@gmail.com).
-* For a wider range of online events, check out the <a target="_blank" href="https://www.facebook.com/groups/EAOnlineEvents/">EA online events Facebook group</a>.
 * Special interest events are being run by some <a href="#onlinegroups">groups based on interest areas, affiliations, or professions.</a>
 * Join your <a target="_blank" href="http://eahub.org/groups/">nearest local EA group</a> to attend events they may be running.
 
@@ -54,6 +55,18 @@ The <a target="_blank" href="https://www.effectivealtruism.org/ea-newsletter-arc
 
 The <a target="_blank" href="https://80000hours.org/newsletter/">80,000 Hours Newsletter</a> provides updates on the latest high-impact roles that 80,000 Hours has identified in the EA community and adjacent fields and highlights their <a target="_blank" href="https://80000hours.org/job-board/">job board</a>.
 
+The <a target="_blank" href="https://rohinshah.com/alignment-newsletter/">AI alignment newsletter</a> is a weekly publication with content relevant to AI aslighment. 
+
+<a target="_blank" href="https://us14.campaign-archive.com/home/?u=66df320da8400b581cbc1b539&id=de632a3c62">Farmed Animal 
+Welfare newsletter</a> from Open Philanthropy.
+
+<a target="_blank" href="https://wordpress.us18.list-manage.com/subscribe?u=6e4a3c238c0cbe9c754c8b554&id=9abab652ea">But Can They Suffer newsletter</a> summarises news, research, discussion, job opportunities, and events related to effective animal advocacy.
+
+<a target="_blank" href="https://www.openphilanthropy.org/criminal-justice-reform-newsletter-archive">Criminal Justice Reform newsletter</a> from Open Philanthropy is a monthly update highlighting the work and achievements of criminal justice reform grantees.
+
+<a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
+
+
 The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect</a> project on Vox takes an EA perspective on a large range of issues, including, but not limited to, main EA causes. You can sign up for their newsletter <a target="_blank" href="https://confirmsubscription.com/h/d/A2BA26698741513A">here</a>. 
 
 You can also sign up for the newsletters of the different <a target="_blank" href="/learn/orgs/">EA organisations</a> to stay up to date with their progress.
@@ -62,11 +75,25 @@ You can also sign up for the newsletters of the different <a target="_blank" hre
 # Podcasts and Videos
 The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
+Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>.
+
 <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
+
+The <a target="_blank" href="https://futureoflife.org/the-future-of-life-podcast/">Future of Life Podcast</a> features Ariel Conn from the Future of Life Institute in conversation with prominent researchers, policy experts, philosophers, and other influential thinkers of all kinds. 
+
+Future of Life Institute's <a target="_blank" href="https://futureoflife.org/ai-alignment-podcast/">AI Alignment Podcast covers and explores the AI alignment problem across a large variety of domains, reflecting the fundamentally interdisciplinary nature of AI alignment. 
+
+The <a target="_blank" href="https://www.sentienceinstitute.org/podcast/">Sentience Institute Podcast</a> features interviews with advocates, scientists, and entrepreneurs about the most effective strategies to expand humanity’s moral circle, with an emphasis on expanding the circle to farmed animals.
 
 The <a target="_blank" href="https://podcasts.apple.com/us/podcast/future-perfect/id1438157174/">Future Perfect Podcast</a> studies some of today’s issues with an effective altruist lens. The first season investigates a range of problems and interventions, and the second the pros and cons of big philanthropy. 
 
+A <a target="_blank" href="https://forum.effectivealtruism.org/posts/B68gjjhZccGtWDuDh/a-list-of-ea-related-podcasts">longer list of relevant podcasts is available here.</a>
+
 Many EA organisations have collected their videos on their YouTube channels. See this <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">EA Forum post</a>, which contains links to many of them.
+
+<a name="blogs"></a>
+# Blogs
+A long list of EA Blogs, and a feed of the most recent blog entries can be found on the <a target="_blank" href="http://eablogs.net/">EA Blog Page.</a>
 
 <a name="onlinegroups"></a>
 # Online Groups
@@ -77,6 +104,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="http://forum.effectivealtruism.org/">Effective Altruism Forum</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effective.altruists/">Main Effective Altruism Group</a>
 * <a target="_blank" href="https://www.facebook.com/groups/eahangout/">EA Hangouts</a> (informal facebook group to casually discuss EA and non-EA topics)
+* <a target="_blank" href="https://www.facebook.com/EA.Virtual.Group/">The EA Virtual Group</a> is a place for people who can't attend <a target="_blank" href="http://eahub.org/groups/">local EA groups</a> to have regular online meetings to discuss EA ideas and support each other with their goals to have a positive impact.
 
 ## Cause Areas
 
@@ -99,10 +127,12 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/utilitarianism/">Utilitarianism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/negative.utilitarianism.discussion/">Negative Utilitarianism and Suffering-Focused Ethics</a>
 
-### Far Future
+### Long-Term Future
 
 * <a target="_blank" href="https://www.facebook.com/groups/ExistentialRisk/">Existential Risk</a>
 * <a target="_blank" href="https://www.facebook.com/groups/GlobalCatastrophicRisk/">Global Catastrophic Risk</a>
+* <a target="_blank" href="https://www.facebook.com/groups/355078324931737/">Improving the Long-term Future and Effective Altruism</a>
+* <a target="_blank" href="https://www.facebook.com/groups/reducing.srisks/">Risks of Astronomical Suffering (s-risks)</a>
 
 ### Other Cause Areas
 
@@ -131,6 +161,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/AISafetyCareers/">AI Safety</a>
 * <a target="_blank" href="https://www.facebook.com/groups/798404410293244/">Academia</a> (general)
 * <a target="_blank" href="https://www.facebook.com/groups/EALResearchers/">Researchers</a>
+* <a target="_blank" href="https://www.facebook.com/groups/1534978383462487/">Effective Altruism Fundamental Research</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1696670373923332/">Artists and Designers</a>
 * <a target="_blank" href="https://www.facebook.com/groups/biologistsineffectivealtruism/">Biologists</a>
 * <a target="_blank" href="https://www.facebook.com/groups/706709786095975/">Data Scientists</a>
@@ -163,14 +194,16 @@ These groups are a good place to get feedback on specialized or specific career 
 
 * <a target="_blank" href="https://www.facebook.com/groups/784498518296164/">Earning to Give</a>
 * EA Giving Tuesday (<a target="_blank" href="https://eagivingtuesday.org/">Website</a>, <a target="_blank" href="https://www.facebook.com/groups/eagivingtuesday/">Facebook Page</a>) - to coordinate donations during Facebook and Paypal’s yearly donation matching campaign
+* <a target="_blank" href="https://www.facebook.com/groups/givingwhatwecancommunity/">Giving What We Can Community</a>
 
 
 ## Community & Community-Building
 
 ### Group Organizers
 
-* <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">Facebook Group Organizers</a>
-* <a target="_blank" href="https://eagroups.slack.com">EA groups Slack workspace</a>, where you can share resources and ask questions. To join the Slack workspace ask a fellow group organiser for an invite, or <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org">email the CEA groups team</a>. 
+* <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook Group</a>
+* <a target="_blank" href="https://eagroups.slack.com">EA groups Slack workspace</a>, where you can share resources and ask questions. Sign up <a target="_blank" href="https://efctv.org/groupslack">Sign up here</a>. 
+* <a target="_blank" href="https://www.effectivealtruism.org/ea-groups-newsletter-archives/">EA Group Organisers Newsletter</a>
 
 ### Community Health
 
