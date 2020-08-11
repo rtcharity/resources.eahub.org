@@ -58,48 +58,46 @@ A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation
 
 # Before the Fair
 
-1. **Find out about what your group can do at that Clubs Fair**. Seek for information from your Student Union (or other organisation at your university that administers clubs) whether your group can participate in the clubs fair, what the fair involves, and whether they have funding for you to get materials for your table. 
-2. **Apply for money to cover costs**. If your Student Union will not provide sufficient funding, you can apply for <a target="_blank" href="https://efctv.org/gpsupf">CEA’s Group Support Funding</a>. You can include Clubs Fair costs within an application for General Group Funding. 
-3. **Prepare your system for collecting sign-ups**. You may choose to use paper sign-up forms which you type up later. If you do this ensure the spaces for the email address is large, and that you check the writing is legible before the person leaves the table. Alternatively, you can use digital sign-up forms on phones or laptops, such as the in-built Mailchimp Sign-up form (<a target="_blank" href="https://facebook.us19.list-manage.com/subscribe?u=7ede1e5d01354f0948ab39411&id=da2372681e">see this example from Haverford EA</a>), a <a target="_blank" href="https://www.google.com/forms/about/">Google Form</a> or a <a target="_blank" href="https://www.typeform.com/">Typeform</a>. Even if you do use digital forms, it is worth having a few paper sign-up forms as a backup. 
-4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the stall at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. This can be achieved by scheduling your volunteers’ shifts in advance.
-5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. It can be good to have a training meeting with volunteers in advance, during which you can:
+1. **Find out what your group can do at the Clubs Fair**. Seek information from your Student Union or other organisation that does administration for clubs. Find out whether your group can participate in the fair, what the fair involves, and whether they have funding for you to get materials for your table. 
+2. **Apply for money to cover costs**. If your Student Union does not provide sufficient funding, apply for <a target="_blank" href="https://efctv.org/gpsupf">CEA’s Group Support Funding</a>. You can include Clubs Fair costs within an application for General Group Funding. 
+3. **Prepare a system for collecting sign-ups**. You may choose to use paper sign-up forms which you type up later. If you do this, ensure you leave plenty of space for an email address, and that you check the writing is legible before the person leaves the table. Alternatively, you can use digital sign-up forms on phones or laptops, such as the in-built Mailchimp Sign-up form (<a target="_blank" href="https://facebook.us19.list-manage.com/subscribe?u=7ede1e5d01354f0948ab39411&id=da2372681e">see this example from Haverford EA</a>), a <a target="_blank" href="https://www.google.com/forms/about/">Google Form</a> or a <a target="_blank" href="https://www.typeform.com/">Typeform</a>. If you're using digital forms, keep a few paper forms for backup. 
+4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the table at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. Scheduling your volunteers’ shifts in advance helps.
+5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. Consider holding a volunteer-training meeting in advance to:
 
    a. Motivate your volunteers by explaining why the Clubs Fair is so important
 
-   b. Explain exactly what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
+   b. Explain what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
 
    c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
 
    d. Make sure everyone knows how to access the system for collecting sign-ups
 
-   e. Give volunteers some written guidance for them to take away and digest. <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">Here’s an example handout</a>.
-6. **Prepare your stall**. Book your stall with the Student Union. If you have a large group you might be able to ask (or pay) for extra tables so your stall is prominent. Here’s a suggested checklist of items:
+   e. Give volunteers some <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">written guidance</a> for them to take away and digest.
+6. **Prepare your stall**. Book a table with the Student Union. If you have a large group, consider getting extra tables to make your stall more prominent. We suggest this checklist of items:
 
    * Table Cloth
-   * Posters and Banners (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">modifiable posters and banner images are available here</a>). Posters and/or banners should clearly have the group name and a short description or pitch of effective altruism since most people won’t know what “effective altruism” means. If your posters and banners include photographs or pictures, make sure to include images representing a variety of EA cause areas, so people with a variety of relevant interests could be attracted to your table. Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items
-     .
-   * Flyers (<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">modifiable flyers are available here</a>)
-     . Flyers should ideally list the time and location of your first event, and a shortened link (i.e. <a target="_blank" href="https://bitly.com/">bit.ly</a>) to your mailing list.
-   * Stationery (sellotape, clips, large pieces of cardboard etc. in case you need to hoist banners and posters or tape down flyaway materials).
-   * Several fully charged laptops, tablets or smartphones for sign-ups.
-   * Paper signup sheets and pens in case you run out of power or if that’s you’re preferred method.
-   * Food and water for your volunteers.
-   * EA-branded T-shirts for your volunteers.
-   * <a href="#lightning">Lightning Giving Game Materials</a> if you choose to run one of these games. 
+   * <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#banners">Posters and Banners</a> with the group name and a description of EA, since most people don't know what “effective altruism” means. If your posters and banners include photographs or pictures, make sure to include images representing a variety of EA cause areas, so people with a variety of relevant interests could be attracted to your table. Make sure you figure out how they will be displayed beforehand in case you need to bring any extra items
+   * <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#brochures">Flyers</a>
+     with the time and location of your first event. Also include a shortened link to your mailing list, which <a target="_blank" href="https://bitly.com/">bit.ly</a> can help create
+   * Stationery to put up posters and tape down flyaway materials. Sellotape, clips, and large pieces of cardboard can be helpful
+   * Several fully charged laptops, tablets or smartphones for sign-ups
+   * Paper signup sheets and pens if you're not using devices or if you run out of power
+   * Food and water for your volunteers
+   * EA-branded T-shirts for your volunteers
+   * <a href="#lightning">Lightning Giving Game Materials</a> if you choose to run one of these games
 
 <a name="during"></a>
 
 # During the Fair
 
-1. **Approach people**. If you’re aiming to maximise your number of sign-ups, you will need to attract people’s attention as they walk past your stall, rather than only speaking to people who approach you first. This can feel awkward at first, but usually becomes much easier after a small amount of practice. Read more about how to approach people in the pitch guides linked below. 
+1. **Approach people**. If you’re aiming to maximise your number of sign-ups, you will need to attract people’s attention as they walk past your stall, rather than only speaking to people who approach you first. Calling out can feel awkward, but becomes much easier after a bit of practice. Read more about how to approach people in the pitch guides linked below. 
 2. **Lightning Giving Games**. Some groups have run quick giving games during the Clubs Fair - this approach will likely result in fewer sign-ups, but allows individuals more time to interact with your group members. See here for guidance on running Lightning Giving Games. 
-3. **Give your 'pitch'**.  <a href="#pitch">
-   Ideas for pitches are below</a>.
-4. **Stay motivated**. Make sure your volunteers take adequate breaks according to their needs. You might choose to motivate yourself and your team by keeping track of how many sign-ups or conversations you’re getting every 30 minutes and try to beat your own record.
+3. **Give your** <a href="#pitch">**pitch**</a>.
+4. **Stay motivated**. Make sure your volunteers take adequate breaks according to their needs. One way to motivate yourself and your team is keeping track of how many sign-ups or conversations you’re getting every 30 minutes and trying to beat your record.
 
 # Sample Pitches
 
-The basic components of the pitch are the **opening** (e.g. ‘Hello’, ‘Have you heard of effective altruism?’), the **spiel** (summarising EA), **the sell** (what your group offers), and the **call to action** (encouraging them to sign up). Over the course of the day, you can experiment with your pitch and see what works, what feels comfortable, and what best achieves your aims (whether that’s getting sign-ups or sparking interesting conversations).
+A pitch has four components. The **opening** catches attention, the **spiel** summarises EA, the **sell** shows listeners what your group offers, and the **call to action** might encourage them to sign up. Throughout the day, you can experiment with your pitch and see what works, what feels comfortable, and what best achieves your aims, whether that’s getting sign-ups or sparking conversations.
 
 Below are some example pitches to get you started. In any of these pitches, if someone doesn’t want you to continue speaking to them, just say ‘No problem, have a great day’ and move onto the next person. 
 
@@ -111,7 +109,7 @@ Below are some example pitches to get you started. In any of these pitches, if s
 
 \[Spiel] Great! We're Effective Altruism X. We're part of a growing social movement that's interested in using evidence and reason to figure out the best way to help others. \[Sell] We're interested in how we can use our careers to have the greatest social impact. \[Call to action] We can send you more details on email if you sign up here (push laptop in front of them) and we'll let you know when we're running events.
 
-*Offer them the laptop / form to sign up*
+*Offer them the laptop or form to sign up*
 
 ### More theory-focused
 
@@ -119,17 +117,19 @@ Below are some example pitches to get you started. In any of these pitches, if s
 
 *If they say 'No'*
 
-\[Spiel] Cool! Effective altruism is a global community of people trying to figure out how to improve the world as much as possible using evidence and reason. It turns out some ways of helping people might be orders of magnitude more effective than other ways, so it seems really important to figure out what those ways are.
+\[Spiel] Cool! Effective altruism is a global community of people trying to figure out how to improve the world as much as possible using evidence and reason. It turns out some ways of helping people are orders of magnitude more effective than others, so it's really important to figure out what they are.
 
 \[Sell] Our groups hosts speakers, workshops, and a weekly discussion group aimed at helping our members build their plans for how they will help improve the world. 	
 
 *If they say ‘Yes’*
 
-Combine \[Spiel] and \[Sell], e.g. Oh cool! Our group runs events all about this question of working out how to do as much as good as possible using evidence and reason. For example, we run speaker events, workshops, and a weekly discussion group aimed at helping our members build their plans for how they will help improve the world.
+Combine \[Spiel] and \[Sell], e.g. Oh cool! Our group runs events all about this question of working out how to do as much as good as possible using evidence and reason. We run speaker events, workshops, and a weekly discussion group to help our members build plans for improving the world.
 
 *If they’re still interested*
 
-\[Call to action] We’ll let you know about the details through our mailing list - you can sign up here.
+\[Call to action] We’ll let you know about the details through our mailing list! You can sign up here.
+
+*Offer them the laptop or form to sign up*
 
 ### More group-focused
 
@@ -137,7 +137,7 @@ Combine \[Spiel] and \[Sell], e.g. Oh cool! Our group runs events all about this
 
 *If they say ‘Yes’*
 
-\[Spiel/Sell] We’re X Effective Altruism. We run events about which career to choose, which charities to donate to, and which causes to support if you want to have a big social impact. For instance, we have Y next week \[where Y is a really cool sounding event]. Does that sound good? 
+\[Spiel/Sell] We’re Effective Altruism X. We run events about which careers, charities, and causes to get involved with if you want to maximise your social impact. This coming week, we have \[a cool-sounding event]. Does that sound good?
 
 *If they say ‘Yes'*
 
@@ -155,21 +155,19 @@ If you’re not interested, you can unsubscribe in one click.
 
 Hi, I’m XXX, good to meet you.
 
-\[Spiel]​ We're from Effective Altruism X. Did you know that you have 80,000 Hours in your working career - that's a bit scary, isn't it? We're about using that time to have the most positive impact on the world. Sound good?
+\[Spiel]​ We're from Effective Altruism X. Did you know that you have 80,000 Hours in your working career - that's huge, isn't it? We're about using that time to have the most positive impact on the world. Sound good?
 
 *If they say ‘Yes’*
 
-\[Sell] At the moment, there's almost no advice that really addresses how you can choose a worthwhile career in which you make a real difference - typically careers services don't think about things like ethical impact as a major point.
- As a student society, we put on talks from lots of people who've gone into careers doing lots of good, as well as more personal events such as workshops and one to one coaching. 
-This term we've got loads of events, ranging from XXX, to XXX.
+\[Sell] At the moment, almost no advice addresses how to choose a career that makes a real difference. Careers services don't think deeply about impact. So our club puts on talks from people who've gone into jobs doing lots of good. And we hold more personal events like workshops and one to one coaching. This term we've got loads of events, from XXX, to XXX.
 
 \[Call to action] Sound good? Let's get you signed up!
 
 ### More tips
 
-More ideas for ‘pitches’ and other tips can be found in the <a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">Communicating about EA guide</a>.  
+Find more ideas for ‘pitches’ and other tips in the <a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">Communicating about EA guide</a>.  
 
-Keep in mind that framing these conversations as ‘pitches’ could cause you to come across as overly salesy.  Your aim is to provide enough information so that the person you are talking to can decide whether they are interested in learning more.   
+Keep in mind that framing these conversations as ‘pitches’ could cause you to come across as overly salesy. Your aim is to provide enough information so that the person you are talking to can decide whether they are interested in learning more.   
 
 While you want to paint EA in the best light, remember that EA won’t be for everyone and that’s okay.
 
@@ -193,7 +191,8 @@ While you want to paint EA in the best light, remember that EA won’t be for ev
   </a>
 * <a target="_blank" href="https://docs.google.com/document/d/1HQMqipqELsByr71lTZqCp5D0XcuuGyShxqJJMYqDgFU/edit">80,000 Hours Tips from 2015
   </a>
-  All of the above are directed towards optimising sign-up numbers. 
+
+All of the above are directed towards optimising sign-up numbers. 
 
 ## Guides for Volunteers
 
@@ -204,8 +203,7 @@ While you want to paint EA in the best light, remember that EA won’t be for ev
 
 * <a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">More Resources for Talking about EA
   </a>
-* <a target="_blank" href="https://forum.effectivealtruism.org/posts/7qCyvv8P7MGa39WtH/lessons-from-running-harvard-effective-altruism">Lessons from Running Harvard Effective Altruism</a>
-  , which uses a Giving Game 
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/7qCyvv8P7MGa39WtH/lessons-from-running-harvard-effective-altruism">Lessons from Running Harvard Effective Altruism</a>, which uses a Giving Game 
 * <a target="_blank" href="https://docs.google.com/presentation/d/11WOmrVAVP1-R_3VUyzCzOfow1weE1CseiW9YaZvCVns/edit#slide=id.p">High-Frequency Pitching Guide from 80,000 Hours Cambridge, LEAN and .impact</a>
 
 <a name="lightning"></a>
@@ -214,7 +212,7 @@ While you want to paint EA in the best light, remember that EA won’t be for ev
 
 ## What is a Lightning Giving Game?
 
-Offers of money are good for attracting attention, and interactive activities are good at getting people to engage. Lightning Giving Games can do both of these things. They are usually run at universities, during Clubs Fairs or other tabling opportunities. They involve giving $1 (or a similar amount in local currency) to each participant to donate it to one of 2-4 charities. 
+Offers of money are good for attracting attention, and interactive activities are good at getting people to engage. Lightning Giving Games can do both of these things. They are usually run at universities, Clubs Fairs or other tabling opportunities. They involve giving $1 (or a similar amount in local currency) to each participant to donate it to one of 2-4 charities. 
 
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/7qCyvv8P7MGa39WtH/lessons-from-running-harvard-effective-altruism">Ben Kuhn from Harvard EA describes how he used a Giving Game</a> to attract people to his club. 
 
@@ -222,64 +220,63 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 * Attract people to your table
 * Get people thinking about different approaches to doing good
-* Give you more of an opportunity to talk * about effective altruism and your group
-* Additional aims are listed under each approach to choosing charities
+* Give you more of an opportunity to talk about effective altruism and your group
+* We list additional aims under each approach to choosing charities
 
 ## Types of Lightning Giving Games
 
-### Approach 1: 3 excellent charities with a range of cause areas
+### Approach 1: three excellent charities with a range of cause areas
 
 **Aims:**  
 
 * Show the breadth of EA
-* Demonstrate the challenges of choosing between different cause areas. 
+* Demonstrate the challenges of choosing between different cause areas
 
 **Cons:**
 
-* Some participants immediately write off cause areas they don’t think are important, or choose the cause area they already like the best, without engaging with the details about the charity.  
-* Some participants might feel they are being asked to compare things that are two different. 
+* Some participants immediately dismiss cause areas they don’t think are important or choose the cause area they already like the best without engaging with the details about the charity
+* Some participants might find the charities too different and dislike having to compare
 
 **Charity ideas:**
 
-* One global health and poverty charity E.g. 
+* One global health and poverty charity such as
 
   * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
-* One animal charity e.g.
+* One animal charity such as
 
   * <a target="_blank" href="https://thehumaneleague.org/">The Humane League</a> (recommended by <a target="_blank" href="https://animalcharityevaluators.org/donation-advice/recommended-charities/">Animal Charity Evaluators</a>)
-* One charity that aims to reduce catastrophic risks, e.g. 
+* One charity that aims to reduce catastrophic risks
 
   * Climate charity such as <a target="_blank" href="https://www.rainforestcoalition.org/">Coalition for Rainforest Nations</a> (recommended by <a target="_blank" href="https://founderspledge.com/stories/climate-change-executive-summary">Founders Pledge</a>)
-  * <a target="_blank" href="http://www.centerforhealthsecurity.org/">Pandemic Risk charity (e.g. <a target="_blank" href="">John Hopkins Center for Health Security</a>, recommended by <a target="_blank" href="https://founderspledge.com/stories/existential-risk-executive-summary">Founders Pledge</a>)
+  * Pandemic Risk charity such as <a target="_blank" href="http://www.centerforhealthsecurity.org/">John Hopkins Center for Health Security</a> (recommended by <a target="_blank" href="https://founderspledge.com/stories/existential-risk-executive-summary">Founders Pledge</a>)
 
 **Notes on choosing charities:**
 
-* We don’t recommend including any meta-EA charities. For meta-EA charities to be appealing, a person has to fully buy into EA being important first, and a Giving Game is just the start of this process. 
-* Avoid charities that would take a while to explain what they do, or what the merit is of this charity. For example, we don’t recommend choosing an AI Safety charity because many people won’t immediately agree that AI is a large threat to humanity. 
-* Harvard EA conducted an experiment that suggested <a target="_blank" href="http://www.harvardea.org/blog/2015/9/12/heas-spring-2014-research?rq=%22giving%20game%22">speculative charities such as 80,000 Hours and Machine Intelligence Research Institute are less likely to result in email list sign-ups than global health charities</a>.
+* We don’t recommend including any meta-EA charities. For meta-EA charities to be appealing, a person has to buy into EA's importance, and a Giving Game is just the start of this process.
+* Avoid charities whose function and merit would take a while to explain. For example, we don’t recommend choosing an AI Safety charity because many people won’t immediately agree that AI is a large threat to humanity. 
+* Harvard EA conducted an <a target="_blank" href="http://www.harvardea.org/blog/2015/9/12/heas-spring-2014-research?rq=%22giving%20game%22">experiment</a> looking at the effect of using more speculative charities such as 80,000 Hours and Machine Intelligence Research Institute. They found that those charities are less likely to produce email list sign-ups than global health charities.
 
 **Key points you could discuss in your game:**
 
-* We have limited resources, so if you want to make a large positive impact it pays to consider what the best cause is for you to work on.
-* Introduce EA, including information that shows EA isn’t just about donating:
+* We have limited resources, so if you want to make a large positive impact, it pays to consider which cause is best to work on.
 * Scale, Tractability and Neglectedness
-* EA looks at how we can do the most good we can with our available resources, including money, career and volunteering
+* Opportunities asides from donating, such as volunteering and using one's career 
 
 **Resources:**
 
-* <a target="_blank" href="https://docs.google.com/presentation/d/17UmYAIneKhYOlmhw7sECo7YgpFOk-ihKIGnjC8lh7Ew/edit#slide=id.p3">This document has posters</a> for running a Lightning Giving Game with the Against Malaria Foundation, the Humane League, and John Hopkins Centre for Health Security
+* <a target="_blank" href="https://docs.google.com/presentation/d/17UmYAIneKhYOlmhw7sECo7YgpFOk-ihKIGnjC8lh7Ew/edit#slide=id.p3">This document</a> has posters for running a Lightning Giving Game with the Against Malaria Foundation, the Humane League, and the John Hopkins Centre for Health Security
 
 ### Approach 2: Two-step Giving Game, with one excellent charity and one appealing but ineffective or harmful charity
 
 **Aims:**  
 
 * Demonstrates that intuitions are not a good indication of whether a charity is harmful or helpful
-* There is a wide difference in effectiveness between charities
+* There can be a vast wide difference in effectiveness between charities
 
 **Cons:**
 
-* Only covers one cause area. To counter this it would help to have a variety of posters representing different cause areas on your table.  
+* Only covers one cause area. To counter this， it would help to have a variety of posters representing different cause areas on your table.  
 * It usually requires people to spend ~2 minutes talking with someone facilitating the game, otherwise, people might just put their money/token into a charity without reading or hearing about the charities. 
 
 **Charity ideas:**
