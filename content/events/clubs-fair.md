@@ -227,10 +227,7 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 ### Approach 1: three excellent charities with a range of cause areas
 
-**Aims:**  
-
-* Show the breadth of EA
-* Demonstrate the challenges of choosing between different cause areas
+EA has a tremendous breadth of cause areas. This version highlights the fact and shows how difficult it can be to choose between different cause areas.
 
 **Cons:**
 
@@ -239,11 +236,11 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 **Charity ideas:**
 
-* One global health and poverty charity such as
+* One global health and poverty charity 
 
   * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
-* One animal charity such as
+* One animal charity 
 
   * <a target="_blank" href="https://thehumaneleague.org/">The Humane League</a> (recommended by <a target="_blank" href="https://animalcharityevaluators.org/donation-advice/recommended-charities/">Animal Charity Evaluators</a>)
 * One charity that aims to reduce catastrophic risks
@@ -253,15 +250,9 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 **Notes on choosing charities:**
 
-* We don’t recommend including any meta-EA charities. For meta-EA charities to be appealing, a person has to buy into EA's importance, and a Giving Game is just the start of this process.
+* We recommend avoiding meta-EA charities. For meta-EA charities to be appealing, a person has to buy into EA's importance. A Giving Game is just the start of this process.
 * Avoid charities whose function and merit would take a while to explain. For example, we don’t recommend choosing an AI Safety charity because many people won’t immediately agree that AI is a large threat to humanity. 
 * Harvard EA conducted an <a target="_blank" href="http://www.harvardea.org/blog/2015/9/12/heas-spring-2014-research?rq=%22giving%20game%22">experiment</a> looking at the effect of using more speculative charities such as 80,000 Hours and Machine Intelligence Research Institute. They found that those charities are less likely to produce email list sign-ups than global health charities.
-
-**Key points you could discuss in your game:**
-
-* We have limited resources, so if you want to make a large positive impact, it pays to consider which cause is best to work on.
-* Scale, Tractability and Neglectedness
-* Opportunities asides from donating, such as volunteering and using one's career 
 
 **Resources:**
 
@@ -269,93 +260,69 @@ Offers of money are good for attracting attention, and interactive activities ar
 
 ### Approach 2: Two-step Giving Game, with one excellent charity and one appealing but ineffective or harmful charity
 
-**Aims:**  
-
-* Demonstrates that intuitions are not a good indication of whether a charity is harmful or helpful
-* There can be a vast wide difference in effectiveness between charities
+There can be a vast wide difference in effectiveness between charities. This version shows that we can't trust our gut-feelings to give us an accurate indication of whether a charity is harmful or helpful.
 
 **Cons:**
 
-* Only covers one cause area. To counter this， it would help to have a variety of posters representing different cause areas on your table.  
-* It usually requires people to spend ~2 minutes talking with someone facilitating the game, otherwise, people might just put their money/token into a charity without reading or hearing about the charities. 
+* Only covers one cause area. To counter this, it would help to have a variety of posters representing different cause areas on your table.  
+* Takes time. For this approach to work properly, facilitators will have to take a few minutes to explain the game and help people make an informed decision. It could be off-putting for someone to find that their charity of choice doesn't do much good at all.
 
 **Charity ideas:**
 
 * One appealing but ineffective or harmful charity 
 
-  * <a target="_blank" href="http://www.playpumps.co.za/">PlayPumps is a popular option
+  * <a target="_blank" href="http://www.playpumps.co.za/">PlayPumps</a> is a popular option
     (<a target="_blank" href="https://www-tc.pbs.org/frontlineworld/stories/southernafrica904/flash/pdf/unicef_pp_report.pdf">more information on PlayPumps</a>)
-* One effective global health charity
-  e.g. 
+* One effective global health charity 
 
   * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
-  * <a target="_blank" href="https://www.evidenceaction.org/dispensers-2017/">Evidence Action’s Dispensers for Safe Water</a> which is a good contrast to PlayPumps
-    as they both aim to provide clean water (a <a target="_blank" href="https://www.givewell.org/charities/other-charities">GiveWell standout charity</a>)
+  * <a target="_blank" href="https://www.evidenceaction.org/dispensers-2017/">Evidence Action’s Dispensers for Safe Water</a> which is a good contrast to PlayPumps since they both aim to provide clean water (a <a target="_blank" href="https://www.givewell.org/charities/other-charities">GiveWell standout charity</a>)
 
-**Notes on choosing charities:**
+**A note on choosing charities**
 
-* Other charities people have chosen in the past have been Make-a-Wish Foundation (which has an average wish cost of several thousand dollars), and the local Guide Dog charity. We don’t recommend you use a Guide Dog charity, or other very popular local charities because this could be offputting for people who have benefitted from the charity (either directly, or through family and friends).  
-
-**Key points you could discuss during or after your game:**
-
-* We have limited resources, so if you want to make a large positive impact it pays to consider what the best cause is for you to work on.
-* Introduce EA, including some information that demonstrates EA isn’t just about donating to global health charities
-* EA looks at how we can do the most good we can with our available resources, including money, career and volunteering
-* EA community works on a variety of cause areas
+We recommend avoiding using Guide Dog charities or other well-loved local charities like Make-a-Wish Foundation in Giving Games. These charities' interventions indeed tend to cost several thousand dollars for comparatively less benefit. However, pointing out their flaws can be offputting for people who have benefitted from the charity, either directly, or through family and friends.
 
 **How the game could work:**
 
-* <a target="_blank" href="https://docs.google.com/document/d/19YDz3lLcyaBNVAINhVfmhhyORp9xExOI/edit">This resource has two pages per charity</a>. Show the first “initial information” page, state this is the sort of advertising information a charity might use, and explain what each of the charities do. Make sure you are positive about both charities.
+* <a target="_blank" href="https://docs.google.com/document/d/19YDz3lLcyaBNVAINhVfmhhyORp9xExOI/edit">This resource has two pages per charity</a>. Show the first “initial information” page, state that this is the sort of advertising information a charity might use, and explain what each of the charities does. Make sure you are positive about both charities.
 * Get people to pick which charity they’d choose based on this information. 
 * Then flip the pages over to show the “evidence” information, and explain what the evidence shows. 
-* Give people an opportunity to ask questions.
-* Then ask people to choose for a final time. 
-* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9">More information and FAQs about these two charities are here</a>. 
+* Allow people to ask questions.
+* Ask people to make their final choice.
+* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9">More information and FAQs for these two charities are here</a>. 
 
 ### Approach 3: Three Global Health Charities
 
-**Aims:**  
-
-* Demonstrates the challenges of choosing * between different charities
-  Can use data to choose between charities 
+Choosing between charities is difficult. This version allows people to use data to inform their choices. 
 
 **Cons:**
 
-* Only covers one cause area. To counter this it would help to have a variety of posters representing different cause areas on your table.  
+* Only covers one cause area. To counter this, it would help to have a variety of posters representing different cause areas on your table.  
 
 **Charity ideas:**
 
 * Three effective global health charities
-  e.g.
-      * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
 
+  * <a target="_blank" href="https://www.againstmalaria.com/">Against Malaria Foundation</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
   * <a target="_blank" href="https://www.givedirectly.org/">GiveDirectly</a>  (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
   * <a target="_blank" href="https://schistosomiasiscontrolinitiative.org/">Schistosomiasis Control Initiative</a>
     (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
-  * <a target="_blank" href="https://www.hki.org/">Helen Keller International
-    (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
+  * <a target="_blank" href="https://www.hki.org/">Helen Keller International</a> (recommended by <a target="_blank" href="https://www.givewell.org/charities/top-charities">GiveWell</a>)
 
 **Notes on choosing charities:**
 
 * GiveDirectly is a good charity to include because their approach contrasts with disease prevention charities and often sparks good discussions.
 
-**Key points you could discuss in your game:**
-
-* Most people choose charities or causes to support based on very little information.
-* If we want to truly make a difference with our donation we should look at the evidence, and how much impact a charity can have with our donation. 
-* EA looks at how we can do the most good we can with our available resources, including money, career and volunteering
-* EA community works on a variety of cause areas
-
 **Resources:**
 
-* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9">Giving Game material</a> - this is for a long giving game involving the Against Malaria Foundation, GiveDirectly and Schistosomiasis Control Initiative, but the charity information provided can be trimmed to make a Lightning Giving Game. 
+* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1k73rGGdiI90vFl8Z1iOyLfTbJefgATM9">Giving Game materials</a> - this is for a long giving game involving the Against Malaria Foundation, GiveDirectly and Schistosomiasis Control Initiative. You can trim the charity information to make it a Lightning Giving Game.
 
 ## Preparing to Run a Lightning Giving Game
 
 1. **Secure funding to donate to the charities**
 
-   * Your university might have funding available for your group to spend on Clubs Fair activities
+   * Your university might have funding available for your group to spend on Clubs Fair activities.
    * The Life You Can Save may <a target="_blank" href="https://docs.google.com/document/d/1hLtyGBgmWLxovGVH8f5n9tuiNKCxyJvg4KOb6XnQAQI/edit#heading=h.vzd7r26rxyzk">sponsor your Lightning Giving Game</a> if
      at least a 1/3 of the featured charities are from <a target="_blank" href="http://www.thelifeyoucansave.org/Top-Charities">The Life You Can Save’s recommended list</a>, all charities are tax-deductible in the US, email addresses are collected for the Life You Can Save, you fill out a post-game report afterwards.
    * <a target="_blank" href="https://efctv.org/groupfunding">Apply to CEA’s Group Support Funding</a>. You can include Giving Game costs within an application for General Group Funding. 
@@ -395,6 +362,14 @@ Offers of money are good for attracting attention, and interactive activities ar
 * Each Game takes a few minutes, so try to get two or three people interested at once.
 * Make sure you ask if they have any questions.
 * Once they make their choice they can put the money in the container/on the board. 
+
+**Key points you could bring up during or after your game:**
+
+* Most people choose charities or causes to support based on very little information
+* We have limited resources, so if we want to make a large positive impact, it pays to look at the evidence for which cause is best to work on
+* We decide between cause areas and interventions using the Scale, Tractability and Neglectedness framework
+* We care about other cause areas not shown in this Giving Game (give examples)
+* There are opportunities to help asides from donating, such as volunteering and using our careers
 
 ## After the Game
 
