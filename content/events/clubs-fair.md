@@ -323,45 +323,48 @@ Choosing between charities is difficult. This version allows people to use data 
 1. **Secure funding to donate to the charities**
 
    * Your university might have funding available for your group to spend on Clubs Fair activities.
-   * The Life You Can Save may <a target="_blank" href="https://docs.google.com/document/d/1hLtyGBgmWLxovGVH8f5n9tuiNKCxyJvg4KOb6XnQAQI/edit#heading=h.vzd7r26rxyzk">sponsor your Lightning Giving Game</a> if
-     at least a 1/3 of the featured charities are from <a target="_blank" href="http://www.thelifeyoucansave.org/Top-Charities">The Life You Can Save’s recommended list</a>, all charities are tax-deductible in the US, email addresses are collected for the Life You Can Save, you fill out a post-game report afterwards.
+   * The Life You Can Save may <a target="_blank" href="https://docs.google.com/document/d/1hLtyGBgmWLxovGVH8f5n9tuiNKCxyJvg4KOb6XnQAQI/edit#heading=h.vzd7r26rxyzk">sponsor your Lightning Giving Game</a> under four conditions
+
+     * At least one-third of the featured charities are from <a target="_blank" href="http://www.thelifeyoucansave.org/Top-Charities">The Life You Can Save’s recommended list</a>. 
+     * The charities are tax-deductible in the US. 
+     * You collect email addresses for The Life You Can Save. 
+     * You fill out a post-game report. 
    * <a target="_blank" href="https://efctv.org/groupfunding">Apply to CEA’s Group Support Funding</a>. You can include Giving Game costs within an application for General Group Funding. 
 2. **Select 2 or 3 charities**
-3. **Choose how people should submit their vote**. Some groups recommend not letting people see how many votes each charity has because they may try to help the less-popular charity. Other groups recommend showing the votes because it is visually attractive and will draw people to your table, if only to figure out what’s going on. Options:
+3. **Choose how people should submit their vote**. Some groups recommend not letting people see how many votes each charity has because they may try to help the less-popular charity. Other groups recommend showing the votes because it is visually attractive and will draw people to your table if only to figure out what’s going on. Options:
 
    ```
-   a) Get a pile of $1 notes or $1 coins to physically hand to people for them to donate. Your pitch can be to hold out the money and say “Do you want to donate this dollar to charity?”. If you have paper money you could create a board to pin your bills to:
+   a) Get a pile of $1 notes or $1 coins. Physically hand them to people for them to donate. Your pitch can be to hold out the money and say “Do you want to donate this dollar to charity?”. If you have paper money you could create a board to pin your bills to:
    ```
 
    ```
    b) If you prefer not to use real money, use ping-pong balls or marbles.
 
-   c) Set up your board or containers and charity information on your table, along with other information about effective altruism. 
+   c) Set up your board or containers and charity information on your table, along with details on effective altruism. 
    ```
 4. **Prepare what you are going to say**
 
-   a) Getting participants: An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
+   a) Get participants. An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
 
-   b) Describing the charities VERY briefly
+   b) Describe the charities VERY briefly
 
-   c) Giving an explanation of what EA is 
+   c) Explain EA
 
-   d) Asking people to sign up for your group.
+   d) Ask people to sign up for your group
 
 ## Lightning Giving Games Checklist
 
 * Posters with blurbs and photos of each charity 
 * Money or tokens
-* 50-200 (depending on the size of your fair)
-  Jars or Pin Board (with 50-200 pin tacks), labelled with names with each of the charities
-* Sign up forms for your club
-* Other posters or flyers about EA
+* Money jars for each charity or a pin board with 50-200 pin tacks depending on the size of your fair
+* Sign-up forms for your club
+* Posters or flyers about EA
 
 ## During the Game
 
-* Each Game takes a few minutes, so try to get two or three people interested at once.
+* Each game takes a few minutes, so try to get two or three people interested at once.
 * Make sure you ask if they have any questions.
-* Once they make their choice they can put the money in the container/on the board. 
+* Once they make their choice, they can put the money in the container or on the board. 
 
 **Key points you could bring up during or after your game:**
 
