@@ -331,32 +331,27 @@ Choosing between charities is difficult. This version allows people to use data 
      * You fill out a post-game report. 
    * <a target="_blank" href="https://efctv.org/groupfunding">Apply to CEA’s Group Support Funding</a>. You can include Giving Game costs within an application for General Group Funding. 
 2. **Select 2 or 3 charities**
-3. **Choose how people should submit their vote**. Some groups recommend not letting people see how many votes each charity has because they may try to help the less-popular charity. Other groups recommend showing the votes because it is visually attractive and will draw people to your table if only to figure out what’s going on. Options:
+3. **Choose how people should submit their vote**. Some groups recommend not letting people see how many votes each charity has because they may try to help the less-popular charity. Other groups recommend showing the votes because it is visually attractive and will draw people to your table if only to figure out what’s going on. 
 
-   ```
-   a) Get a pile of $1 notes or $1 coins. Physically hand them to people for them to donate. Your pitch can be to hold out the money and say “Do you want to donate this dollar to charity?”. If you have paper money you could create a board to pin your bills to:
-   ```
+   Options:
 
-   ```
-   b) If you prefer not to use real money, use ping-pong balls or marbles.
-
-   c) Set up your board or containers and charity information on your table, along with details on effective altruism. 
-   ```
+   * Get a pile of $1 notes or $1 coins. 
+   * Physically hand them to people for them to donate. 
+   * If you have paper money, you can pin the bills to a board.
+   * If you prefer not to use real money, use ping-pong balls or marbles.
+   *  Set up your board or containers and charity information on your table, along with details on effective altruism. 
 4. **Prepare what you are going to say**
 
-   a) Get participants. An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
-
-   b) Describe the charities VERY briefly
-
-   c) Explain EA
-
-   d) Ask people to sign up for your group
+   * Get participants. An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
+   * Describe the charities VERY briefly
+   * Explain EA
+   * Ask people to sign up for your group
 
 ## Lightning Giving Games Checklist
 
 * Posters with blurbs and photos of each charity 
 * Money or tokens
-* Money jars for each charity or a pin board with 50-200 pin tacks depending on the size of your fair
+* Money jars for each charity or a pinboard with 50-200 pin tacks depending on the size of your fair
 * Sign-up forms for your club
 * Posters or flyers about EA
 
