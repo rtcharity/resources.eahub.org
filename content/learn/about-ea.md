@@ -13,6 +13,7 @@ license:
 * <a href="#philosophy">Philosophy</a>
 * <a href="#motivation">Motivation</a>
 * <a href="#causeprior">Cause Prioritisation</a>
+* <a href="#xrisk">Existential Risk</a>
 * <a href="#podcasts">Podcasts</a>
 * <a href="#careers">Careers</a>
 * <a href="#critofea">Criticisms of Effective Altrusim</a>
