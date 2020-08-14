@@ -337,9 +337,11 @@ Choosing between charities is difficult. This version allows people to use data 
 
    * Get a pile of $1 notes or $1 coins. 
    * Physically hand them to people for them to donate. 
-   * If you have paper money, you can pin the bills to a board, like so
+   * If you have paper money, you can pin the bills to a board, like so:
 
-     ![](img/lightninggg.jpg)
+     <p class="large_image_wrapper">
+     <img src="/img/lightninggg.jpg" />
+     </p>
    * If you prefer not to use real money, use ping-pong balls or marbles.
    * Set up your board or containers and charity information on your table, along with details on effective altruism. 
 4. **Prepare what you are going to say**
