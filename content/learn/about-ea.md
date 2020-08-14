@@ -101,7 +101,7 @@ src="https://www.youtube.com/embed/1xsR0XBwyo4">
 ## Existential Risk
 <a target="_blank" href="https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/0316484911">The Precipice: Existential Risk and the Future of Humanity</a>, a book by Toby Ord of the Future of Humanity Institute in Oxford, eloquently argues that safeguarding humanity's future is the most important moral issue of our time.
 
-Ord summarises the book in this <a target="_blank" href="https://www.youtube.com/watch?v=CrMIEz_mSJM">EA Global 2020 Talk</a>: 
+Ord summarises the book in this 20 minute <a target="_blank" href="https://www.youtube.com/watch?v=CrMIEz_mSJM">EA Global 2020 Talk</a>: 
 
 <div class="textAlignCenter">
 <iframe class="article_video"
