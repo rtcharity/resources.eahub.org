@@ -343,6 +343,9 @@ Choosing between charities is difficult. This version allows people to use data 
    <img src="/img/lightninggg.jpg" />
    </p>
 
+   <a target="_blank"><img class="small_image_block" src="/img/lightninggg.jpg" />
+   </a> 
+
    * If you prefer not to use real money, use ping-pong balls or marbles.
    * Set up your board or containers and charity information on your table, along with details on effective altruism. 
 4. **Prepare what you are going to say**
