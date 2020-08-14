@@ -24,7 +24,7 @@ Many groups have produced their own guides for the Clubs Fair, which we list und
 * <a href="#tabling">What is Tabling
   ?</a>
 * <a href="#what">What is a Clubs Fair?</a>
-* <a href="#aims">Aims of Attending the Fair</a>
+* <a href="#aim">Aims of Attending the Fair</a>
 * <a href="#before">Before the Fair</a>
 * <a href="#during">During the Fair</a>
 * <a href="#pitch">Sample 'Pitches'</a>
@@ -44,7 +44,7 @@ Tabling is when a university group sets up a table to promote their group to pas
 
 A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation, is an annual or bi-annual student extracurricular fair that most universities host. Usually held over a few hours or days at the beginning of the term, student groups can register to set up a table and talk to students who might be interested in joining their group. Many students, especially first-years, will be trying to figure out which groups to get involved with. This makes Clubs Fairs an excellent opportunity to invite new people to your EA group.
 
-<a name="aims"></a>
+<a name="aim"></a>
 
 # Aims of Attending the Fair
 
@@ -339,7 +339,7 @@ Choosing between charities is difficult. This version allows people to use data 
    * Physically hand them to people for them to donate. 
    * If you have paper money, you can pin the bills to a board.
    * If you prefer not to use real money, use ping-pong balls or marbles.
-   *  Set up your board or containers and charity information on your table, along with details on effective altruism. 
+   * Set up your board or containers and charity information on your table, along with details on effective altruism. 
 4. **Prepare what you are going to say**
 
    * Get participants. An effective opening line for Lightning Giving Games is “Do you want to donate someone else’s money to charity?”
