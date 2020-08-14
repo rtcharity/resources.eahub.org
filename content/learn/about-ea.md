@@ -5,17 +5,18 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 25th September 2019*
+### *Updated 14th August 2020*
 
 ## Contents
 * <a href="#introduction">Introductory Materials</a>
 * <a href="#worldincome">World Income</a>
 * <a href="#philosophy">Philosophy</a>
+* <a href="#motivation">Motivation</a>
 * <a href="#causeprior">Cause Prioritisation</a>
-* <a href="#onlinecourse">Online Course</a>
 * <a href="#podcasts">Podcasts</a>
 * <a href="#careers">Careers</a>
 * <a href="#critofea">Criticisms of Effective Altrusim</a>
+* <a href="#onlinecourse">Online Course</a>
 * <a href="#morereading">More Reading</a>
 
 These resources will give you a solid understanding of what effective altruism is, and the approaches EAs take towards improving the world.
@@ -38,7 +39,14 @@ src="https://www.youtube.com/embed/WyprXhvGVYk">
 
 </div>
 
-* Or, this TEDx talk: “Effective Altruism” by Beth Barnes in 2015 (6 minutes). Barnes provides an inspirational view of what we could achieve if the richest 10% of people gave 10% of their income.
+* Or, Ajeya Cotra's more in-depth introduction to EA from EAGxBerkeley in 2016 (35 minutes).
+
+<div class="textAlignCenter">
+<iframe class="article_video"
+src="https://www.youtube.com/embed/48VAQtGmfWY">
+</iframe>
+
+* Or this TEDx talk: “Effective Altruism” by Beth Barnes in 2015 (6 minutes). Barnes provides an inspirational view of what we could achieve if the richest 10% of people gave 10% of their income.
 
 <div class="textAlignCenter">
 <iframe class="article_video"
@@ -69,6 +77,11 @@ EA is rooted in moral philosophy. For a philosophical introduction to the moveme
 
 William MacAskill’s 2015 book <a target="_blank" href="https://www.effectivealtruism.org/doing-good-better/">Doing Good Better</a> is an entertaining and excellent introduction to EA - it mostly focuses on global poverty and effective charity, but also provides a review of other cause areas, and introduces how to use your career to make a large difference.  
 
+<a name="motivation"></a>
+## Motivation
+
+The Centre for Effective Altruism has compiled an inspiring list of readings in their <a target="_blank" href="https://forum.effectivealtruism.org/s/wog9xb8cdqDySbBvM">EA Handbook: Motivation Series</a>. 
+
 <a name="causeprior"></a>
 ## Cause Prioritisation
 
@@ -83,15 +96,15 @@ src="https://www.youtube.com/embed/1xsR0XBwyo4">
 </iframe>
 </div>
 
-<a name="onlinecourse"></a>
-## Online Course
+<a name="xrisk"></a>
+## Existential Risk
+<a target="_blank" href="https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/0316484911">The Precipice: Existential Risk and the Future of Humanity</a>, a book by Toby Ord of the Future of Humanity Institute in Oxford, eloquently argues that safeguarding humanity's future is the most important moral issue of our time.
 
-If you like doing online courses, try <a target="_blank" href="https://www.coursera.org/learn/altruism">Peter Singer’s Coursera course on effective altruism</a>. This course is mostly focused on ethics and global poverty.
+Ord summarises the book in this <a target="_blank" href="https://www.youtube.com/watch?v=CrMIEz_mSJM">EA Global 2020 Talk</a>: 
+<div class="textAlignCenter">
+<iframe class="article_video"
+src="https://www.youtube.com/embed/CrMIEz_mSJM">
 
-<a target="_blank" href="https://www.coursera.org/learn/altruism"><p class="large_image_wrapper"> <img src="/img/singer.png" />
-
-</p>
-</a>
 
 <a name="podcasts"></a>
 ## Podcasts or Videos
@@ -130,6 +143,16 @@ Or, if you are looking for videos, see <a target="_blank" href="https://forum.ef
 
 While most of the above links advocate for EA, it is also worth learning what effective altruism might have wrong. The Centre for Effective Altruism has compiled a <a target="_blank" href="https://www.effectivealtruism.org/faqs-criticism-objections/#objections-to-effective-altruism">list of a few common objections to effective altruism</a>, and responses to these objections.
 
+<a name="onlinecourse"></a>
+## Online Course
+
+If you like doing online courses, try <a target="_blank" href="https://www.coursera.org/learn/altruism">Peter Singer’s Coursera course on effective altruism</a>. This course is mostly focused on ethics and global poverty.
+
+<a target="_blank" href="https://www.coursera.org/learn/altruism"><p class="large_image_wrapper"> <img src="/img/singer.png" />
+
+</p>
+</a>
+
 <a name="morereading"></a>
 ## More Reading
 
@@ -138,7 +161,7 @@ While most of the above links advocate for EA, it is also worth learning what ef
 </p>
 </a>
 
-The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more.  Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">EA Handbook</a>, which you can download in pdf, epub or mobi format.
+The Centre for Effective Altruism has compiled an <a target="_blank" href="https://www.effectivealtruism.org/resources/">excellent reading list</a> of articles covering EA principles and promising cause areas if you want to learn more.  Many of these articles are available in the <a target="_blank" href="https://www.effectivealtruism.org/handbook/">Second edition of the EA Handbook</a>, which you can download in pdf, epub or mobi format.
 
 Or, if you want to dive more deeply into a topic within EA, check out <a target="_blank" href="/learn/reading-lists/">these reading lists</a>.
 
