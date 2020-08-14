@@ -342,7 +342,7 @@ Choosing between charities is difficult. This version allows people to use data 
      <p class="large_image_wrapper">
      <img src="/img/lightninggg.jpg" />
      </p>
-   * If you prefer not to use real money, use ping-pong balls or marbles.
+   * Iff you prefer not to use real money, use ping-pong balls or marbles.
    * Set up your board or containers and charity information on your table, along with details on effective altruism. 
 4. **Prepare what you are going to say**
 
