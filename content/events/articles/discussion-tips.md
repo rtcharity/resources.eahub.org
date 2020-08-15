@@ -5,16 +5,14 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 17th October 2019, updated 3rd July 2020_
+### *Published 17th October 2019, updated 3rd July 2020*
 
-
-
-_Contributions were made by the LEAN team,_ <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">_EA Estonia_</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">_Yale EA_</a>, _and_ <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">_CEA_</a>.
+*Contributions were made by the LEAN team,* <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">*EA Estonia*</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">*Yale EA*</a>, *and* <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">*CEA*</a>.
 
 # Contents
 
 * <a href="#goals">Goals</a>
-* <a href="#planning">Planning</a>
+* <a href="#planning">Planning</a>
 * <a href="#at-the-event">What happens at the event</a>
 * <a href="#follow-up">Follow up</a>
 * <a href="#tips">Tips for the facilitator</a>
@@ -22,128 +20,136 @@ _Contributions were made by the LEAN team,_ <a target="_blank" href="https://for
 * <a href="#further-info">Further information about productive reading and discussion</a>
 * <a href="#more-reading">More reading</a>
 
+<a name="goals"></a>
 
-<a name="goals"></a>
 # Goals
-Different groups and individuals will have different goals for discussion groups, and it may be worth clarifying your group's goals to help ensure you meet these goals. 
 
-* To exchange ideas, deepen learning and inspire action towards doing the most good 
-* To support the development and participation of those familiar with and committed to the effective altruism community
+Different groups and individuals will have different goals in discussion groups. It may be worth clarifying your group’s goals to ensure you meet them. Some goals might be 
+
+* To exchange ideas, deepen learning and inspire action towards doing the most good
+* To support the development of people committed to the effective altruism community
 * To promote the importance of critical thinking and knowing how to change your mind
-* Enjoyment and community
+* To create a sense of enjoyment and community
 
-<a name="planning"></a>
+<a name="planning"></a>
+
 # Planning
 
 Guidelines for planning events are coming soon. The following is specific to planning discussion groups. 
 
-<a name="choosing"></a>
-## Choosing readings and questions 
+<a name="choosing"></a>
+
+## Choosing readings and questions
 
 * There are many <a target="_blank" href="/events/articles/content/">examples of readings and discussion questions</a> to help you out with this. 
-* Some people are happy to read/watch the material in advance, but if your text is short consider doing the reading/viewing/listening at the event, rather than as preparation.
-* Check your readings don’t have too much assumed knowledge. This is particularly important if you are expecting people who are new to EA to attend the event.
-* Unless you know you’ve got a particularly dedicated time-rich group of people, then 30 mins is a good maximum amount of preparation time. Reading speed varies a lot, but about 200 words a minute is reasonable if the text isn’t too difficult. 
-
+* Some people are happy to read, watch or listen to material in advance. But if your text is short, consider looking over the content at the event, rather than as preparation.
+* Check that your readings are suitable for the audience. Too much jargon and assumed-knowledge can throw off newcomers. 
+* Unless you know you’ve got a dedicated group of time-rich people, 30 minutes is a good maximum amount of preparation time. Reading speed varies a lot, but about 200 words a minute is reasonable if the text isn’t too difficult.
 * There are a few strategies for coming up with discussion questions:
-    * Prepare questions specifically for this reading. <a target="_blank" href="/events/articles/content/">Examples here</a>. It is often useful to have a factual question at the start, before spending the bulk of the time on more interesting questions such as asking people why they disagree or agree with a point, or how this information should affect how we act. 
-    * Ask attendees to come up with questions during the meetup, then prioritise these. If you choose this method it helps to have a few pre-prepared questions just in case you run out of questions. 
-    * Before the event set questions for people to answer while reading, and ask people to bring in their answers. This can provide focus while reading, and provide a starting point for the discussion. Some generic questions are listed <a target="_blank" href="https://docs.google.com/document/d/14TKkJOJ2w186g8zJAePdKsC-g9jamqAhKnzVcVssViM/edit#">here</a>. 
 
-* A number of people in the community have reported that they’ve felt alienated by some discussions, and for some people this has reduced their involvement in the community. For example, discussions about groups who are underrepresented (either in EA or in the wider community) can be particularly alienating to members of that group, or to people who have loved ones in that group. Therefore, think carefully before assigning readings and questions that could be overly controversial or personal, considering whether the possible benefits outweigh the possible risks of the discussion. Many discussions that have the potential to be alienating are also not particularly useful for working out how to effectively improve the world, so in these cases it might be better to choose another topic. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
+  * Prepare questions specifically for this reading (<a target="_blank" href="/events/articles/content/">examples here</a>). Factual questions can ease everyone into the discussion. Afterwards, allow more interesting questions to take over, such as why people agree or disagree with a point, or how the information might influence the actions we take in our lives.
+  * Ask attendees to come up with questions during the meetup, then prioritise these. If you choose this method, it helps to have a few pre-prepared questions in case attendees run out.
+  * Before the event, consider providing questions alongside the reading and ask people to bring in their answers. Supplementary questions can focus the reading and act as a starting point for the discussion. Some generic questions are listed <a target="_blank" href="https://docs.google.com/document/d/14TKkJOJ2w186g8zJAePdKsC-g9jamqAhKnzVcVssViM/edit#">here</a>. 
+* Some people have felt alienated by certain discussions and reduced their involvement in the community. Discussions about underrepresented groups, either in EA or the wider community, can be alienating to members of that group, or people who have loved ones in that group. Think carefully before assigning readings and questions that could be overly controversial or personal, weighing up the benefits and risks. Many potentially alienating discussions are not particularly useful for effectively improving the world, so it can be better to choose other topics. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
 
-## Consider making handouts
+## Making handouts
 
-* This is useful if you want to get through several questions or if you wish to have more structure.
-* Handouts could include a summary of the topic (or of the assigned material) and a list of questions to help frame the conversation. There are <a target="_blank" href="/events/articles/content/">handouts on several topics</a> already created that you can modify to suit your group.
+Handouts can be useful if you want to get through several questions, or if you like more structured conversations. They can include a summary of the topic or assigned material and a list of questions to help frame the conversation. Here are <a target="_blank" href="/events/articles/content/">handouts on several topics</a> that you can modify to suit your group.
 
 ## Marketing
 
-* If your group is small, make an effort to reach out to and include people beyond your existing circle of friends or acquaintances - people familiar with EA or anyone you think might be interested. Diversity of background in your group’s members increases the likelihood you’ll be introduced to ideas and resources you’re not already familiar with.
-* If you are assigning pre-reading, make it clear whether or not people should come if they don’t get a chance to read in advance. If the event will be useful for attendees who haven’t done the reading, then it is best to encourage people to come whether or not they have done the reading, and have the first question asking for a summary of the reading to get people up to speed. This also makes the event more welcoming to newcomers.
-* Some groups may wish to organise smaller, more intense reading groups, where you do expect the reading to be completed in advance. This could be particularly useful if you have a small group of people wanting to work through a particular book or subject area together. If you choose to organise discussion groups like this it might be best to publicise that you are planning to start a regular discussion group on a certain topic/series of topics to see who is interested, but make each individual event private. 
+* If your group is small, make an effort to reach out to people beyond your existing circle of acquaintances. Strangers familiar with EA, or anyone else you think might be interested, can introduce fresh ideas and resources to your group.
+* If you are assigning pre-reading, make it clear whether or not people should come if they don’t get a chance to read in advance. We recommend encouraging people to attend regardless, especially for more general discussions. Get people up to speed and help newcomers feel welcome by summing up the material at the beginning.
+* Some groups may wish to organise smaller, more intense events, where almost everyone does the reading in advance. This approach works for people wanting to go through a particular book or subject area more thoroughly. To start, publicise your group as a regular discussion group on your chosen topic to see who's interested, and then make each meeting private.
 
 ## Group size
 
-* An ideal group size is 5 to 8 people - allowing for rich discussion, several different points of view, but also isn’t so large that people struggle to contribute their voice. 
-* If your group is larger, split into a few groups and at the end you could have each group report back with any takeaways from the discussion. 
+* The ideal group size is 5 to 8 people. You allow for rich discussion, several points of view, and enough space for everyone to contribute.
+* Larger groups can split up for most of the event. In the end, the smaller groups can reconvene and report the takeaways from each discussion.
 
 ## Pick a facilitator
 
-* There should be one person to facilitate the discussion for each meeting. That person should be willing to model friendly, constructive discussions and be willing to redirect the discussion if one or more people dominate, head off on an unhelpful tangent or act in ways that may be off-putting to others in the group. 
-* Ideally the facilitator is well-prepared with notes, possible discussion questions and comments.
-* This role doesn’t have to be the group organiser.
+* There should be one person to facilitate the discussion for each meeting. Facilitators should model friendly, constructive behaviour, redirect monopolized discussions, end unhelpful tangents, and reign in off-putting behaviour.
+* The facilitator would ideally be well-prepared with notes, possible discussion questions, and comments.
+* The group organiser doesn't have to fill this role.
 
-## Decide on a start and finish time for the discussion
+## Decide on a start and finish time
 
-* Think about a reasonable length for a discussion, and decide when the finish time is. After that time people may wish to hang around for more casual chats. 
+* Think about a reasonable length for a discussion and decide when the finish time is. After that, allow people to hang around for more casual chatter.
 
+<a name="at-the-event"></a>
 
-<a name="at-the-event"></a>
-# What happens at the event
+# During the event
 
-This is a suggested rundown of a typical discussion event.
+We suggest this outline for a typical discussion event.
 
 ## Start
 
-* Start with providing drinks or snacks if you have them, and welcoming people. 
-* Unless you all know each other well, use name tags to make it easier to refer to each other, and get everyone to introduce themselves. You can also ask people to answer one question with a time limit (e.g. 30 seconds or less). The time limit is useful to state in advance to make people think about being concise, but there is usually no need to look at your watch and police time. Start by telling the whole group the question, give people 30 seconds to think, and then select someone to start. Here are some suggestions:
+* Start with welcoming people and providing drinks and snacks if you have them.
+* Unless you all know each other well, use name tags to make it easier to refer to each other.
+* Let everyone introduce themselves to start. You can pose a simple question for people to answer during their introduction. It can be useful to set a time limit in advance to remind people to be concise, but there's no need to look at your watch and police time. Here are some suggestions:
 
-   * What do you study and why? (for uni groups)
-   * What appeals to you most about effective altruism?
-   * How did you get involved in effective altruism?
-   * If you could have one superpower, what would it be and why?
-
-* At this point, the facilitator can share any <a href="#guidelines">guidelines for the discussion</a> or <a href="#tips">discussion norms</a> you want to make explicit. 
-* Have the facilitator introduce the topic for a few minutes, or if reading was completed in advance, ask some attendees to summarise the reading briefly.
+  * What do you study and why? (for uni groups)
+  * What appeals to you most about effective altruism?
+  * How did you get involved in effective altruism?
+  * If you could have one superpower, what would it be and why?
+* At this point, the facilitator can share any <a href="#guidelines">guidelines for the discussion</a> or <a href="#tips">discussion norms</a> you want to make explicit. 
+* Have the facilitator introduce the topic. If there was pre-reading, let the facilitator or attendees summarise it.
 * Read or view the material if it wasn’t assigned as pre-reading.
 
 ## Preparing questions
 
-* If you have made a sheet of questions, allow people to spend a few minutes thinking about the questions.
-* If you haven't prepared set questions you could let people raise questions and start discussing. However, the discussion may be more productive if there is a process to select very good questions. To do this:
-    * Ask attendees to individually brainstorm questions or topics of discussion. If your event is online the questions can be typed into a shared document, otherwise, you could get people to write them down on paper. If needed you can prompt with general questions like "What didn't you understand?", "What reaction did you have", "Which arguments were strong, which were weak?", "Did you change your mind?"
-    * Ask attendees to signal which questions they particularly want to discuss. With online events this is done easily by getting people to write "+1" next to their favourite questions. With in-person events, you could pass around the papers with questions on them and ask people to put a star.
-   * Then select the top questions. You may wish to group similar questions together.  
+* If you have made a sheet of questions, allow people a few minutes to think on them. 
+* If you haven’t prepared a set of questions, you can let people raise questions and start discussing. Discussions will be more productive if there's a process for selecting the best questions. To do this,
+
+  * Ask attendees to brainstorm questions or topics of discussion individually. If your event is online, everyone can type the questions into a shared document. Otherwise, you can get people to write them down on paper. If needed, you can prompt with general questions like “What didn’t you understand?” “How did this part make you feel?” “Which arguments were strong or weak?” and “Do you now think differently about an idea?”
+  * Ask attendees to signal which questions they want to discuss. With online events, do this by asking people to write “+1” next to their favourite questions. With in-person events, you can pass around the papers with questions on them and ask people to draw a star.
+  * Select the top questions. You may wish to group similar questions.
 
 ## The discussion
-* Then launch into the questions! You can ask the person who suggested the question to clarify if needed. 
-* Facilitators can use their judgement as to whether to stick to the set questions, seek questions from the group, or allow moving off into tangents. 
-* If you take notes during a discussion group, it is often better to use pen and paper, then transfer to a computer later. Using a laptop, while seemingly more convenient, can reduce eye contact and engagement. 
+
+* Launch into the questions! You can ask the person who suggested the question to clarify if needed.
+* Facilitators can use their judgement as to whether to stick to the set questions, seek questions from the group, or allow moving off into tangents.
+* Taking notes can be handy. It's often better to use a pen and paper and transfer the notes to a computer later. Using a laptop, while seemingly more convenient, can reduce eye contact and engagement.
 * More <a href="#tips">tips for the facilitator</a>.
 
-## Wrapping up 
+## Wrapping up
 
 Review and wrap up the discussion. One suggestion to do this: A few minutes before the planned finish time, the facilitator can mention that the group has been talking about topic X for a while, and then pose a final question for everyone to answer if they wish, before thanking everyone for their participation and letting them know they can stay and chat for longer (and have more drinks and snacks if available). 
 Suitable final questions could be:
 
-* Any remaining questions from the list of prepared questions.
+* Any remaining questions from the list you'd like to cover?
 * What is the most important thing you’ve learnt during the reading and discussion?
-* Whether anyone is going to act differently in the future as a result of what was discussed today (this could be to learn more about a topic, talk to someone, consider donating to a different charity etc.)
+* What actions are you planning to take in the future as a result of what we discussed today? 
 
+<a name="follow-up"></a>
 
-<a name="follow-up"></a>
 # Follow up
 
-Get feedback from the group regularly, ideally one-on-one or through a short survey so people are more able to share their thoughts. It is particularly worth soliciting feedback from quieter people and those who attended once or twice but stopped attending, as there may be ways you could engage these attendees more. 
+Get feedback from the group regularly. One-on-one and short surveys are ideal. It is particularly worth soliciting feedback from quieter people and those who attended once or twice and then stopped. These people often inspire better ways to engage attendees.
 
-You could ask how much the attendees enjoy the events, how much they learned, how much it has influenced their beliefs and life choices, and whether there are ways the events could be improved.
+You can ask how much the attendees enjoy the events, how much they learned, how much it has influenced their beliefs and life choices, and whether there are ways to improve.
 
-Regularly ask attendees for input to decide future topics. Some groups do this by asking for suggestions or creating a poll on Facebook. 
+Regularly ask attendees for input to decide future topics. Some groups do this by asking for suggestions or creating a poll on Facebook.
 
 <a name="tips"></a>
-# Tips for the facilitator 
-
-This role shouldn’t dominate the discussion but exists to keep conversation friendly, inclusive and on track (not too broad or unproductive, but using judgement to allow for interesting conversation to flow).
+
+# Tips for the facilitator
+
+This role exists to keep conversation friendly, inclusive and on-track, not too broad or narrow. Facilitators should use their judgement to keep conversations in a productive, focused range without dominating the discussion.
 
 * Consider setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation, or if one or two people tend to dominate. This one is popular: 
-   * Raise your hand (or \* in the chat in an online event) means “I want to discuss a new point”. 
-   * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”.
-   * Raise your fist (or ? in the chat in an online event) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
-   * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
 
-* Sometimes ask people by name for their input, especially if they are usually quiet. Often quiet people have great contributions but are just less motivated to talk. 
-* Keep comments to at most 2 minutes.
+  * Raise your hand (or * in the chat in an online event) means “I want to discuss a new point”
+    . 
+  * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”
+    .
+  * Raise your fist (or ? in the chat in an online event) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
+  * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
+* Sometimes ask people by name for their input,
+  especially if they are usually quiet. Often quiet people have great contributions but are just less motivated to talk. 
+* Keep comments to at most 2 minutes
+  .
 * Try to keep back-and-forths to at most 2 iterations (so person A, person B, person A, person B, then move on to someone new)
 * Keep the conversation on common ground - make sure people are explaining technical terms and acronyms if they come up. 
 * If the conversation has lasted too long in a particularly technical/expert domain, move onto the next question to bring the conversation back down to an accessible level. 
@@ -155,7 +161,7 @@ This role shouldn’t dominate the discussion but exists to keep conversation fr
 * If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times you could also suggest the people break off and have a separate discussion.  
 * Steer conversation to safe ground if it may be becoming controversial, or explicitly change the topic if needed.  Remember if someone is uncomfortable in a discussion they are unlikely to voice their discomfort, so it can be helpful for a facilitator to move the conversation on even if they are unsure whether anyone is getting upset.
 * If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they caused offence.  
-* If you find one person dominates the discussion it is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
+* If you find one person dominates the discussion it is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
 * Ensure you wrap up the discussion by the event's stated end time to make a clear finishing point (even if people are welcome to hang around and chat further). 
 
 <a name="guidelines"></a>
@@ -164,7 +170,8 @@ This role shouldn’t dominate the discussion but exists to keep conversation fr
 
 ## General guidelines
 
-Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of 'don’ts'. Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously. 
+Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of 'don’ts'.
+ Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously. 
 
 Here are the suggestions from one group:
 
@@ -179,19 +186,21 @@ If the topic is likely to be sensitive, emphasise the need to be considerate of 
 
 Julia Wise from CEA has the following suggestion for facilitators and organisers: 
 
-*  Facilitators could say: "In EA discussions, we tend to get into difficult topics around life, death, and disability. I want to flag that it's very normal for people to vary in how well that kind of discussion works for them. Right now, no one close to me is facing major health struggles, so right now I'm in a state of finding it easier to have abstract discussions about difficult topics like illness and death. I could imagine if I were going through more personal struggle right now, this might cut a lot closer to the quick, and I might just not be up for having those kinds of discussions in a group. If there are days when you find it's not a good idea for you to be doing group discussions around some of the heavy topics, that's totally fine and we want you to do what's right for you. EA is not a sprint, it's about nurturing yourself to be able to do more good over the long term, and that means taking care of yourself. So we'll try to give points during discussions where it's easy to take a break if you need to do that."
+* Facilitators could say: "In EA discussions, we tend to get into difficult topics around life, death, and disability. I want to flag that it's very normal for people to vary in how well that kind of discussion works for them. Right now, no one close to me is facing major health struggles, so right now I'm in a state of finding it easier to have abstract discussions about difficult topics like illness and death. I could imagine if I were going through more personal struggle right now, this might cut a lot closer to the quick, and I might just not be up for having those kinds of discussions in a group. If there are days when you find it's not a good idea for you to be doing group discussions around some of the heavy topics, that's totally fine and we want you to do what's right for you. EA is not a sprint, it's about nurturing yourself to be able to do more good over the long term, and that means taking care of yourself. So we'll try to give points during discussions where it's easy to take a break if you need to do that."
 * If there's a personal example that one of the organizers can give, that might be good because
-    * it can make it feel like a real and not just a hypothetical person you're benefitting
-    * it makes it more clear that people might want to avoid a topic not because they're too wimpy to handle it, but because they already think about it a lot. For example, when I was living with a family member with end-stage cancer, I thought about death a lot. Because it was so raw, I didn't necessarily want to discuss it in public as well. (It's fine to give me as an example if none of the organizers have something they'd want to speak about.)
+
+  * it can make it feel like a real and not just a hypothetical person you're benefitting
+  * it makes it more clear that people might want to avoid a topic not because they're too wimpy to handle it, but because they already think about it a lot.
+    For example, when I was living with a family member with end-stage cancer, I thought about death a lot. Because it was so raw, I didn't necessarily want to discuss it in public as well. (It's fine to give me as an example if none of the organizers have something they'd want to speak about.)
 * Ideas for giving people chances to decide what they're up for:
-    * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room."     
-    * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
+
+  * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room." 
+  * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
 
 The page on <a target="_blank" href="/tips/community-health">community health</a> provides more information. 
 
+<a name="further-info"></a>
 
-
-<a name="further-info"></a>
 # Further information about productive reading and discussion
 
 ## Things to remember when reading
@@ -199,10 +208,10 @@ The page on <a target="_blank" href="/tips/community-health">community health</a
 * Approach the text with an open mind, maintaining a neutral attitude while you give arguments full and fair consideration.
 * Go slowly and deliberately. Read carefully, track the argument closely, and stop to ask for clarification if you no longer follow. 
 * Test your understanding and acceptance every step of the way.
-Summarise and evaluate. 
+  Summarise and evaluate. 
 * Your reading ought to be able to produce a faithful summary, if you’ve understood the argument. At that point you can formulate a tentative judgment - whether you think the conclusion follows from the premises and whether the premises are true.
 
-## More points on having constructive discussions
+## More points on having constructive discussions
 
 This list is long and has too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
 
@@ -221,8 +230,8 @@ This list is long and has too many "don'ts" to share out loud as part of the goa
 * Avoid dominating the discussion - let others have their say and try not to let your questions or answers run on.
 * It's OK to ask a question that you think may be unsophisticated or uninformed.
 
+<a name="more-reading"></a>
 
-<a name="more-reading"></a>
 # More reading
 
 * Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> which were used to make this page. 
@@ -233,6 +242,6 @@ This list is long and has too many "don'ts" to share out loud as part of the goa
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1H47a8-arkZNjFSBB58lyeOWSPxl03W2lnASdL0zAJvs/edit?usp=sharing">_this google doc._</a>
+*If you have suggestions on how to improve this page, please comment or suggest edits on* <a target="_blank" href="https://docs.google.com/document/d/1H47a8-arkZNjFSBB58lyeOWSPxl03W2lnASdL0zAJvs/edit?usp=sharing">*this google doc.*</a>
 
 <hr>
