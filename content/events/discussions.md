@@ -15,7 +15,7 @@ license:
 
 Discussion groups are the most common event that EA groups run. They involve people reading, viewing or listening to content before or during the event. There is often a discussion facilitator and some pre-prepared questions.
 
-[Tips on Running a Discussion Group](/events/articles/discussion-tips) 
+## [Tips on Running a Discussion Group](/events/articles/discussion-tips) 
 
 This page offers tips for enjoyable and stimulating group discussions.
 
