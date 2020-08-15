@@ -64,15 +64,11 @@ A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation
 4. **Recruit volunteers to help out at your stall**. Where possible, try to have multiple people at the table at once so that they can support each other, allow each other to take breaks, and talk to as many people as possible. Also, try to have some diversity among volunteers to make the group appear welcoming to a range of people. Scheduling your volunteers’ shifts in advance helps.
 5. **Prepare yourself and your volunteers**. Volunteers should be able to succinctly and accurately describe EA and your group’s activities. Consider holding a volunteer-training meeting in advance to:
 
-   a. Motivate your volunteers by explaining why the Clubs Fair is so important
-
-   b. Explain what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
-
-   c. Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
-
-   d. Make sure everyone knows how to access the system for collecting sign-ups
-
-   e. Give volunteers some <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">written guidance</a> for them to take away and digest.
+   * Motivate your volunteers by explaining why the Clubs Fair is so important
+   * Explain what your goals are for the fair (e.g. collecting as many mailing list sign-ups as possible) and why
+   * Offer an example pitch and give volunteers time to practise pitching to each other so they can receive feedback
+   * Make sure everyone knows how to access the system for collecting sign-ups
+   * Give volunteers some <a target="_blank" href="https://docs.google.com/document/d/1wWdwsa60JtTrUSoP7kCvLDA0dC5Mpx7LGjzcMsSJ98g/edit?usp=sharing">written guidance</a> for them to take away and digest.
 6. **Prepare your stall**. Book a table with the Student Union. If you have a large group, consider getting extra tables to make your stall more prominent. We suggest this checklist of items:
 
    * Table Cloth
@@ -84,7 +80,7 @@ A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation
    * Paper signup sheets and pens if you're not using devices or if you run out of power
    * Food and water for your volunteers
    * EA-branded T-shirts for your volunteers
-   * <a href="#lightning">Lightning Giving Game Materials</a> if you choose to run one of these games
+   * <a href="#lightning">Lightning Giving Game</a> materials if you choose to run one of these games
 
 <a name="during"></a>
 
@@ -94,6 +90,8 @@ A Clubs Fair, also known as Freshers’ Fair, Activities’ Fair, or Orientation
 2. **Lightning Giving Games**. Some groups have run quick giving games during the Clubs Fair - this approach will likely result in fewer sign-ups, but allows individuals more time to interact with your group members. See here for guidance on running Lightning Giving Games. 
 3. **Give your** <a href="#pitch">**pitch**</a>.
 4. **Stay motivated**. Make sure your volunteers take adequate breaks according to their needs. One way to motivate yourself and your team is keeping track of how many sign-ups or conversations you’re getting every 30 minutes and trying to beat your record.
+
+<a name="pitch"></a>
 
 # Sample Pitches
 
