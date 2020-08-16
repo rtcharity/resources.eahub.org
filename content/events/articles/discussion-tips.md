@@ -138,31 +138,28 @@ Regularly ask attendees for input to decide future topics. Some groups do this b
 
 This role exists to keep conversation friendly, inclusive and on-track, not too broad or narrow. Facilitators should use their judgement to keep conversations in a productive, focused range without dominating the discussion.
 
-* Consider setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation, or if one or two people tend to dominate. This one is popular: 
+* Consider setting up discussion explicit norms, particularly if your group has more than 6 people in a single conversation, or if one or two people tend to dominate. These norms are popular: 
 
-  * Raise your hand (or * in the chat in an online event) means “I want to discuss a new point”
-    . 
-  * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”
-    .
+  * Raise your hand (or * in the chat in an online event) means “I want to discuss a new point”. 
+  * Raise your finger (or ^ in the chat in an online event) means “I want to comment on the existing point”.
   * Raise your fist (or ? in the chat in an online event) means “I am confused, you've used jargon I don't understand” (otherwise known as the fist of confusion).
   * Facilitators then can ask those raising their fists first, then those raising their fingers until it feels time to move on from that specific topic.
 * Sometimes ask people by name for their input,
   especially if they are usually quiet. Often quiet people have great contributions but are just less motivated to talk. 
-* Keep comments to at most 2 minutes
-  .
-* Try to keep back-and-forths to at most 2 iterations (so person A, person B, person A, person B, then move on to someone new)
+* Keep comments to 2 minutes at most.
+* Try to keep back-and-forths to at most two iterations (so person A, person B, person A, person B, then move on to someone new)
 * Keep the conversation on common ground - make sure people are explaining technical terms and acronyms if they come up. 
 * If the conversation has lasted too long in a particularly technical/expert domain, move onto the next question to bring the conversation back down to an accessible level. 
-* You may wish to break the discussion in two if two or three people seem really keen to head the discussion in a particular direction.
+* You may wish to break the discussion in two if two or three people seem keen to head the discussion in a different direction.
 * Keep things light-hearted - humour is good. 
 * Occasionally ask people who haven't spoken for a while for their thoughts, and give them a moment to respond (a little bit of silence is okay). 
-* If your group is larger than 8, sometimes suggest discussion in pairs, then after a few minutes of discussion each group shares what they came up with. This allows people to have more thinking time, and also puts less pressure on any individual to have something to say. 
-* After one person speaks, ask others for their responses rather than responding to each point yourself - you'll end up doing too much of the talking otherwise. This could be asking if anyone has objections, if anyone else agrees, or just for any other thoughts.
-* If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times you could also suggest the people break off and have a separate discussion.  
-* Steer conversation to safe ground if it may be becoming controversial, or explicitly change the topic if needed.  Remember if someone is uncomfortable in a discussion they are unlikely to voice their discomfort, so it can be helpful for a facilitator to move the conversation on even if they are unsure whether anyone is getting upset.
-* If anyone clearly acts inconsiderately it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to them privately after the session to let them know. Some people may genuinely not realise they caused offence.  
-* If you find one person dominates the discussion it is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
-* Ensure you wrap up the discussion by the event's stated end time to make a clear finishing point (even if people are welcome to hang around and chat further). 
+* If your group has more than eight people, consider suggesting breaking off into pairs. After a few minutes of discussion, each group shares what they came up with. This arrangement gives people more thinking time and puts less pressure on any individual to have something to say. 
+* After one person speaks, ask others for their responses rather than responding to each point yourself - you'll end up doing too much of the talking otherwise. You can open the floor to objections, agreements, or any other thoughts.
+* If side conversations crop up within the group, politely ask people to rejoin the main conversation, perhaps by asking one of the people to share their thoughts with the whole group. If this happens a couple of times, you can suggest that people break off and have separate discussions.  
+* Steer conversation to safe ground if it may be becoming controversial. Explicitly change the topic if needed. Remember that uncomfortable people are unlikely to voice their discomfort. It can be helpful for a facilitator to shift the discussion even if they are unsure whether anyone is getting upset.
+* If anyone acts inconsiderately, it is worth saying that their comment isn’t welcome. If it is only mildly inconsiderate, or if you think bringing it up might make the discussion worse, talk to the speaker privately after the session to let them know. Some people may genuinely not realise they acted offensively.
+* Sometimes, individuals will dominate discussions. It is worth having a quiet conversation after the event to let them know how they came across and ask them to reduce their contributions in the future.
+* Ensure you wrap up the discussion by the event’s stated end time, even if people are welcome to hang around and chat further.
 
 <a name="guidelines"></a>
 
@@ -170,15 +167,14 @@ This role exists to keep conversation friendly, inclusive and on-track, not too 
 
 ## General guidelines
 
-Explaining guidelines before you get started can improve discussions by putting good conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. It is best to keep these short and positive, and frame them as suggestions for having a productive conversation, rather than having a list of 'don’ts'.
- Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously. 
+Explaining guidelines before you get started can improve discussions by putting conversational norms in the forefront of people’s minds, and encourage quieter people to speak up. Guidelines should be short, positive, and framed as suggestions for having a productive conversation, rather than a list of ‘don’t's. Use your judgement as to whether you want to do this. It is particularly useful if you have a large group, have a few new people, or know there are a couple of people who need reminders. But it may be unnecessary to give guidelines if you have a regular group of people who participate harmoniously.
 
 Here are the suggestions from one group:
 
-* Go into discussions with the assumption that you will learn something valuable from each person in this room, so give everyone space to share their perspectives, and listen attentively. 
-* If you disagree with an idea, aim to understand the other person’s position clearly by asking clarifying questions, or restating the other person’s position, before explaining your alternative point of view.
-* If you agree, or have learnt something from someone, say so. 
-* And of course, be patient and kind with each other! 
+* Go into discussions with the assumption that you will learn something valuable from each person in this room. Give everyone space to share their perspectives, and listen attentively.
+* If you disagree with an idea, aim to understand the other person’s position clearly by asking clarifying questions, or restating the other person’s opinion. Explain your alternative point of view after this clarification.
+* If you agree or have learnt something from someone, say so.
+  And of course, be patient and kind to each other!
 
 ## Sensitive Topics
 
