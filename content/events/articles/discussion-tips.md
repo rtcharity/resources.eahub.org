@@ -182,16 +182,13 @@ If the topic is likely to be sensitive, emphasise the need to be considerate of 
 
 Julia Wise from CEA has the following suggestion for facilitators and organisers: 
 
-* Facilitators could say: "In EA discussions, we tend to get into difficult topics around life, death, and disability. I want to flag that it's very normal for people to vary in how well that kind of discussion works for them. Right now, no one close to me is facing major health struggles, so right now I'm in a state of finding it easier to have abstract discussions about difficult topics like illness and death. I could imagine if I were going through more personal struggle right now, this might cut a lot closer to the quick, and I might just not be up for having those kinds of discussions in a group. If there are days when you find it's not a good idea for you to be doing group discussions around some of the heavy topics, that's totally fine and we want you to do what's right for you. EA is not a sprint, it's about nurturing yourself to be able to do more good over the long term, and that means taking care of yourself. So we'll try to give points during discussions where it's easy to take a break if you need to do that."
-* If there's a personal example that one of the organizers can give, that might be good because
-
-  * it can make it feel like a real and not just a hypothetical person you're benefitting
-  * it makes it more clear that people might want to avoid a topic not because they're too wimpy to handle it, but because they already think about it a lot.
-    For example, when I was living with a family member with end-stage cancer, I thought about death a lot. Because it was so raw, I didn't necessarily want to discuss it in public as well. (It's fine to give me as an example if none of the organizers have something they'd want to speak about.)
+* Facilitators could say: “In EA discussions, we tend to get into difficult topics around life, death, and disability. I want to flag that it’s very normal for people to take these discussions differently. Right now, no one close to me is facing major health struggles, so  I’m finding it okay to have abstract discussions about difficult topics. I imagine that if I were going through personal struggles right now, they might cut closer to the quick, and I might not be up for having those discussions in a group. If there are days when you find it’s not a good idea for you to be doing group discussions around some of the heavy topics, that’s absolutely fine. We want you to do what’s right for you. EA is not a sprint. It’s about nurturing yourself to do more good over the long term, which means taking care of yourself. So we’ll try to have points during discussions where it’s easy to take a break if anyone needs to.”
+* More personal examples from organisers can make it feel like a real and not just a hypothetical person you’re benefitting. They also make it clear that people might want to avoid a topic not because they’re too wimpy to handle it, but because they already think about it a lot. 
+* A more personal example might be, "When I was living with a family member with end-stage cancer, I thought about death a lot. Because it was so raw, I didn’t want to discuss it in public as well." (It’s fine to give me as an example if none of the organizers has something to share.)
 * Ideas for giving people chances to decide what they're up for:
 
-  * "We're going to be talking about population ethics over here in this part of the room, and talking about the ethics of gene drives over here in this other part of the room." 
-  * "I notice the topic is getting pretty intense, and I want to give people a chance to think about whether this is a conversation they want to be in right now. Let's break for snacks and resume in a couple of minutes."
+  * “We’ll be talking about population ethics in this part of the room and ethics of gene drives in that part of the room.”
+  * “I notice the topic is getting pretty intense, and I want to give people a chance to think whether this is a conversation they want to have right now. Let’s break for snacks and resume in a couple of minutes.”
 
 The page on <a target="_blank" href="/tips/community-health">community health</a> provides more information. 
 
@@ -205,32 +202,32 @@ The page on <a target="_blank" href="/tips/community-health">community health</a
 * Go slowly and deliberately. Read carefully, track the argument closely, and stop to ask for clarification if you no longer follow. 
 * Test your understanding and acceptance every step of the way.
   Summarise and evaluate. 
-* Your reading ought to be able to produce a faithful summary, if you’ve understood the argument. At that point you can formulate a tentative judgment - whether you think the conclusion follows from the premises and whether the premises are true.
+* Your reading ought to be able to produce a faithful summary if you’ve understood the argument. At that point, you can formulate a tentative judgment - whether you think the conclusion follows from the premises and whether the premises are true.
 
 ## More points on having constructive discussions
 
-This list is long and has too many "don'ts" to share out loud as part of the goals and guidelines, but may be useful for the facilitator to keep in mind, or to share with people who are interested in learning about constructive discussions.    
+This list is long and has too many “don’ts” to share out loud as part of the goals and guidelines. Still, it may be useful for the facilitator to keep in mind or to share with people who are interested in learning about constructive discussions.
 
-* Give the person you're interacting with your complete, genuine, interested attention. A great suggestion of how to do that is described by Spencer Greenberg <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">here</a>. 
-* Most people want to be perceived as intelligent, so interact with people in ways that allow others to perceive the person as intelligent (or at least not unintelligent).
-* Be polite, avoid interrupting others.
-* Maintain an open mind - make the assumption that you will learn something from each other person.
-* Acknowledge other people’s insights and points that have been made previously that you may be building on. 
+* Give the person you're interacting with your complete, genuine, interested attention. Spencer Greenberg has some <a target="_blank" href="https://www.facebook.com/spencer.greenberg/posts/10103709919293792">great suggestions</a>. 
+* Most people want to appear intelligent, so interact with people in ways that allow others to see them that way. Avoid making people appear unintelligent.
+* Be polite and avoid interrupting others.
+* Maintain an open mind - assume that you will learn something from each other person.
+* Acknowledge other people’s points, especially if you're building on them. 
 * Avoid starting side conversations parallel to the main discussion.
-* Avoid presenting objections as flat dismissals - Objections are fine, but can often be cast in a more constructive way. Also, object to ideas, don't object to people.
-* You should attempt to re-express the other person’s position so clearly, vividly, and fairly that your target thinks, “Thanks, I wish I’d thought of putting it that way."
-* List any points of agreement (especially if they are not matters of general or widespread agreement).
-* You should mention anything you have learned from the other person. 
-* It's OK to question the presuppositions of a project or an area, but discussions in which these questions dominate can be unhelpful.
-* Don't keep pressing the same objection (individually or collectively).
-* Avoid dominating the discussion - let others have their say and try not to let your questions or answers run on.
-* It's OK to ask a question that you think may be unsophisticated or uninformed.
+* Avoid presenting objections as flat dismissals. There are more constructive ways to object. Also, object to ideas, not people.
+* Attempt to re-express other's views so clearly, vividly, and fairly that they think, “Thanks, I wish I’d thought of putting it that way.”
+* List any points of agreement, especially if they are not matters of general or widespread agreement.
+* When you've learned something from someone else, mention it.
+* It’s OK to question the presuppositions of a project or an area, but dominating a discussion with those questions can be unhelpful.
+* Don’t keep pressing the same objection, either individually or collectively.
+* Let others have their say and try not to let your questions or answers run on.
+* It’s OK to ask awkwardly phrased and uninformed questions.
 
 <a name="more-reading"></a>
 
 # More reading
 
-* Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> which were used to make this page. 
+* Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> were used to make this page. 
 
 <hr>
 
