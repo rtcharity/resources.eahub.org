@@ -13,7 +13,7 @@ license:
 
 * <a href="#goals">Goals</a>
 * <a href="#planning">Planning</a>
-* <a href="#at-the-event">What happens at the event</a>
+* <a href="#at-the-event">During the event</a>
 * <a href="#follow-up">Follow up</a>
 * <a href="#tips">Tips for the facilitator</a>
 * <a href="#guidelines">Guidelines for the discussion</a>
