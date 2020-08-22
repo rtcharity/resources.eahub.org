@@ -43,19 +43,17 @@ Social events, where people get together to enjoy each other's company, can be g
 
 # Structured or Unstructured?
 
-Having some structure to your social event helps to get conversations flowing and helps people to get to know each other.  Some structure is ideal in situations where
-:
+Having a structure to your social event gets conversations flowing and helps people to get to know each other. Some structure is ideal in situations where:
 
 * You are expecting people who are new to EA
 * Many attendees don’t know each other
-* Your group has some people who dominate conversations
-* You think your group’s unstructured conversations could be more productive
+* Your group has people who dominate conversations
+* You think a structured meeting would be more productive than an unstructured one
 
-Unstructured socials require less organisation, allow people to guide their own conversations to talk about what is most fun or important to them. 
+Unstructured socials require less organisation and allow people to talk about whatever they like. Running these is fine, but it's best to run some structured social events as well. If you're concerned about meetings getting formal, kick off with a casual activity to get everyone relaxed and familiar with each other.
 
-It is probably best to run some structured social events and some unstructured socials. Or have an activity at the start of a social event to get everyone relaxed and meeting each other. 
 
-*Anecdote from one organiser: “I ran a casual picnic with no structured conversation, and half the people that turned up were unfamiliar with EA. Several of them talked to each other about quite ineffective altruistic topics, probably thinking all along they were learning about EA. I attempted to guide their conversations a bit, but it came off a bit forced. In this situation it would have been better to have some structure to the social event so these new people got a more accurate picture of EA during their first event.”*
+An anecdote from one organiser: *“I ran a casual picnic with no structured conversation, and half the people that turned up were unfamiliar with EA. Several of them talked to each other about quite ineffective altruistic topics, probably thinking all along they were learning about EA. I attempted to guide their conversations a bit, but it came off a bit forced. In this situation, it would have been better to have some structure to the social event. Those new people would have gotten a more accurate picture of EA during their first event.”*
 
 <a name="general"></a>
 
