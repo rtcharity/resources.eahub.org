@@ -28,7 +28,11 @@ A fellowship might be a good fit for your group if your organisers:
 
 Fellowships tend to appear prestigious and selective. They often expect a high level of commitment from participants, who in turn expect facilitators to put in significant effort. We recommend running a fellowship only if you are confident that you can organise it reliably throughout its duration.
 
-# Introductory EA Fellowship
+# Introductory EA Fellowships
+
+## Overview
+
+This overview from the fellowship coordinators from Yale, Harvard and Stanford, outline the goals, possible structures, and common pitfalls of introductory fellowships: <a target="_blank" href="https://docs.google.com/presentation/d/11jThtvCdCxV_PnXJ9Q05rX_zeMdV8bODp7TSYpTbmts/edit?usp=sharing">Slides with notes, <a target="_blank" href="https://drive.google.com/file/d/1-NnK5qeNPZ92HuO0fXceHP0yWWl1tb9o/view?usp=sharing">video (17 minutes)</a>.
 
 ## Fellowship Formats
 
