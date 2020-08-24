@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 25th September 2019, updated 27th July 2020*
+### *Published 25th September 2019, updated 25th August 2020*
 
 <p class="large_image_wrapper">
 <img src="/img/arete.png" />
@@ -15,7 +15,7 @@ license:
 
 EA fellowships are small groups of admitted fellows which meet multiple times to learn about some aspect of effective altruism.
 
-Introductory Fellowships usually involve groups of undergraduate students attending a series of structured group discussions and other activities every week. They allow newcomers to get a high-fidelity introduction to EA and have proven to be excellent recruitment tools for university groups. Some uni groups choose to launch their group with an Introductory Fellowship before later introducing other club activities.
+Introductory fellowships usually involve groups of undergraduate students attending a series of structured group discussions and other activities every week. They allow newcomers to get a high-fidelity introduction to EA and have proven to be excellent recruitment tools for university groups. Some uni groups choose to launch their group with an introductory fellowship before later introducing other club activities.
 
 Fellowships tend to exhibit more consistent attendance than regular club meetings, but they require substantial initial advertising to reach a suitably large applicant pool.
 
@@ -42,11 +42,11 @@ Different groups use different formats. Here are three options.
 
 The most popular EA fellowship is the Arete Fellowship, which was first designed by Harvard EA and later replicated in several other universities. This fellowship aims to provide a complete education in EA concepts for newcomers.
 
-This <a target="_blank" href="https://drive.google.com/drive/folders/1BSwUdewEI_IIkx2jtHECbN4wkI4P8Afw">Google Drive folder</a> maintained by Harvard EA contains all necessary materials to run an Arete Fellowship. Start with the <a target="_blank" href="https://drive.google.com/open?id=1vovG4UymDb7-ToyzswsNyoPS4Y9ahZoo_6Ci1505lAE">Arete Fellowship Guide</a>, which explains how the fellowship works and advises on how to make it successful. If you like their model, consider copying Harvard's resources and modifying them to suit your group.
+This <a target="_blank" href="https://drive.google.com/drive/folders/1BSwUdewEI_IIkx2jtHECbN4wkI4P8Afw">Google Drive folder</a> maintained by Harvard EA contains all necessary materials to run an Arete Fellowship. Start with the <a target="_blank" href="https://docs.google.com/document/d/1pW3eE_h5X7ec3_faP_Fw0e8rwk7Q1LVg6Wrq2JaY9ok/edit">Arete Fellowship Guide</a>, which explains how the fellowship works and advises on how to make it successful. If you like their model, consider copying Harvard's resources and modifying them to suit your group.
 
 A post on the EA Forum describes <a target="_blank" href="https://forum.effectivealtruism.org/posts/4GkAtcMohxK2m2bXH/the-arete-fellowship">Harvard EA's experience</a> with running the fellowship.
 
-Stephen Casper (<a target="_blank" href="mailto:thestephencasper@gmail.com">thestephencasper@gmail.com</a>) from Harvard EA can advise you if you are interested in running a similar fellowship.
+Marka Ellertson (<a target="_blank" href="mailto:harvardarete@gmail.com ">harvardarete@gmail.com</a>) from Harvard EA can advise you if you are interested in running a similar fellowship.
 
 ## Yale EA Fellowship
 
@@ -58,7 +58,7 @@ Jessica McCurdy (<a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessi
 
 ## EA Oxford Fellowship
 
-<a target="_blank" href="https://docs.google.com/document/d/18RpfP_jf383dUUGUS_f2R__MI8kgwoKO0IQkiD4bFNs/edit">EA Oxford's online fellowship guide</a> contains reading lists and initial instructions for fellows.
+<a target="_blank" href="https://docs.google.com/document/d/18RpfP_jf383dUUGUS_f2R__MI8kgwoKO0IQkiD4bFNs/edit">EA Oxford's online fellowship guide</a> contains reading lists and initial instructions for fellows. 
 
 # Other Types of Fellowships
 
