@@ -61,7 +61,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/355078324931737/">Improving the Long-term Future and Effective Altruism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/reducing.srisks/">Risks of Astronomical Suffering (s-risks)</a>
 
-### Other Cause Areas
+### Other Topics
 
 * <a target="_blank" href="https://www.facebook.com/groups/Global.Dev.And.EA/">International Development & Effective Altruism</a> 
 * <a target="_blank" href="https://www.facebook.com/groups/CausePrioritization/">Cause Prioritisation</a>
@@ -73,7 +73,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/144017955332/">Rationality</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1362064933805619/">LessWrong (Rationality Group) </a>
 * <a target="_blank" href="https://www.facebook.com/groups/4147495108609573/">Coronavirus Discussion</a>
-
+* <a target="_blank" href="https://www.facebook.com/groups/926908151148921/">History and Effective Altruism</a>
 
 ## Careers and Volunteering
 
