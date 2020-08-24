@@ -201,7 +201,7 @@ Welfare newsletter</a> from Open Philanthropy.
 
 * <a target="_blank" href="https://www.openphilanthropy.org/criminal-justice-reform-newsletter-archive">Criminal Justice Reform newsletter</a> from Open Philanthropy is a monthly update highlighting the work and achievements of criminal justice reform grantees.
 
-* <a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
+* <a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
 
 
 * The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect</a> project on Vox takes an EA perspective on a large range of issues, including, but not limited to, main EA causes. You can sign up for their newsletter <a target="_blank" href="https://confirmsubscription.com/h/d/A2BA26698741513A">here</a>. 
