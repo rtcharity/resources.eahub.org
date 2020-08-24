@@ -22,6 +22,7 @@ Fellowships tend to exhibit more consistent attendance than regular club meeting
 A fellowship might be a good fit for your group if your organisers:
 
 * Are confident at public speaking and facilitating discussions
+   * <a target="_blank" href="https://resources.eahub.org/events/articles/discussion-tips/">A guide to facilitating discussions can be found here</a>  
 * Have plenty of time to plan and execute the fellowship
 * Have good organisational skills
 * Are very familiar with EA
