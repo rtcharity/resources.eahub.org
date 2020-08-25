@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 11th August 2020_
+### _Updated 25th August 2020_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -61,8 +61,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/355078324931737/">Improving the Long-term Future and Effective Altruism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/reducing.srisks/">Risks of Astronomical Suffering (s-risks)</a>
 
-### Other Topics
-
+### Other Cause Areas
 * <a target="_blank" href="https://www.facebook.com/groups/Global.Dev.And.EA/">International Development & Effective Altruism</a> 
 * <a target="_blank" href="https://www.facebook.com/groups/CausePrioritization/">Cause Prioritisation</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effectiveenvironmentalism/">Effective Environmentalism</a>
@@ -73,7 +72,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/144017955332/">Rationality</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1362064933805619/">LessWrong (Rationality Group) </a>
 * <a target="_blank" href="https://www.facebook.com/groups/4147495108609573/">Coronavirus Discussion</a>
-* <a target="_blank" href="https://www.facebook.com/groups/926908151148921/">History and Effective Altruism</a>
+
 
 ## Careers and Volunteering
 
@@ -104,6 +103,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/MarketingEAinLondon">Marketing & Communications</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effectivemedia">Media & Journalism</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1696670373923332">Art & Design</a>
+* <a target="_blank" href="https://www.facebook.com/groups/926908151148921/">History</a>
 
 ## Affiliations and Attributes
 
@@ -201,7 +201,7 @@ Welfare newsletter</a> from Open Philanthropy.
 
 * <a target="_blank" href="https://www.openphilanthropy.org/criminal-justice-reform-newsletter-archive">Criminal Justice Reform newsletter</a> from Open Philanthropy is a monthly update highlighting the work and achievements of criminal justice reform grantees.
 
-* <a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
+* <a target="_blank" href="http://eepurl.com/g9mEtn">Effective Environmentalism newsletter</a> is a monthly update on the newest research on effective ways to protect our environment and combat climate change.
 
 
 * The <a target="_blank" href="https://www.vox.com/future-perfect">Future Perfect</a> project on Vox takes an EA perspective on a large range of issues, including, but not limited to, main EA causes. You can sign up for their newsletter <a target="_blank" href="https://confirmsubscription.com/h/d/A2BA26698741513A">here</a>. 
