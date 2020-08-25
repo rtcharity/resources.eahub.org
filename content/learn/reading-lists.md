@@ -3,9 +3,9 @@ title: Reading Lists
 weight: 3
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 25th September 2019*
+### *Updated 26th August 2020*
 
 These lists of articles, books, videos and podcasts will help get you up to speed on many cause areas and topics of interest to the EA community. Most lists start with introductory materials, and are not comprehensive lists.
 
@@ -33,7 +33,7 @@ If you’re new to EA we have a collection of introductory resources on our <a t
 * <a target="_blank" href="https://drive.google.com/open?id=1orfPyWps4bgPmEbZpPxChwy4_7tGTmVNpjHB51c4NPc">Longtermism</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1S8wtezuQTC0YIYdefWSiA-yJefVL8nP1mH1D2IPYTBE/edit#heading=h.avbpqexvhea">Criticisms of EA</a>
 
-These lists were formed from content compiled by Eve McCormick, Vaidehi Agarwalla, Saulius Šimčikas and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact/">contact us</a>. 
+These lists were formed from content compiled by EA Cambridge, EA Norway, EA Geneva, Michael Aird, Eve McCormick, Vaidehi Agarwalla, Saulius Šimčikas and Catherine Low. Please suggest additions or changes directly in the google docs, or <a target="_blank" href="/contact/">contact us</a>. 
 
 # Other reading lists:
 
