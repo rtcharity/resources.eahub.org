@@ -7,7 +7,7 @@ license:
 ---
 ### *Updated 26th August 2020*
 
-These lists of articles, books, videos and podcasts will help get you up to speed on many cause areas and topics of interest to the EA community. Most lists start with introductory materials, and are not comprehensive lists.
+These lists of articles, books, videos and podcasts will help get you up to speed on many cause areas and topics of interest to the EA community. Most lists start with introductory materials and are not comprehensive lists.
 
 # Introductory Resources
 If you’re new to EA we have a collection of introductory resources on our <a target="_blank" href="https://resources.eahub.org/learn/about-ea/">About Effective Altruism</a> page.
