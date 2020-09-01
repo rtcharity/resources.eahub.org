@@ -130,7 +130,7 @@ These groups are a good place to get feedback on specialized or specific career 
 ### Group Organizers
 
 * <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook Group</a>
-* <a target="_blank" href="https://eagroups.slack.com">EA groups Slack workspace</a>, where you can share resources and ask questions. Sign up <a target="_blank" href="https://efctv.org/groupslack">Sign up here</a>. 
+* <a target="_blank" href="https://eagroups.slack.com">EA groups Slack workspace</a>, where you can share resources and ask questions. <a target="_blank" href="https://efctv.org/groupslack">Sign up here</a>. 
 * <a target="_blank" href="https://www.effectivealtruism.org/ea-groups-newsletter-archives/">EA Group Organisers Newsletter</a>
 
 ### Community Health
