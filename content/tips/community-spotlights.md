@@ -5,12 +5,13 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 4th August 2020_
+### _Updated 1st September 2020_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
+* <a href="#eve"> Eve McCormick - EA Cambridge</a>
 * <a href="#stanford"> Stanford EA</a>
 * <a href="#jessica"> Jessica McCurdy - Yale EA</a>
 * <a href="#parth"> Parth Thaya - EA Microsoft</a>
@@ -20,6 +21,30 @@ This page features different groups and community organisers around the world.
 * <a href="#neil">Neil Ferro - EA Sydney</a>
 
 <hr>
+
+<a name="eve"></a>
+# Eve McCormick - EA Cambridge
+### _Published 1st September 2020_
+
+<p class="large_image_wrapper">
+ <img src="/img/eve.jpg" />
+</p>
+
+## What first drew you to effective altruism?
+
+I was quite sceptical of international development aid when I was a teenager, but also hoped to be able to dedicate some of my future resources to improving people’s lives. In my very vague plan, I imagined having to figure out ways on my own to ensure that my donations were actually doing good. When I came across <a target="_blank" href="https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en">Peter Singer’s TED talk</a> about EA whilst procrastinating from studying my A-Levels, I was very relieved to find that I wouldn’t have to do this by myself after all! 
+
+## What is the best advice/resource you've found that you still use today?
+
+One of the best practices I learnt from previous EA Cambridge organisers is using checklists to track all of the tasks which need to be undertaken in order to run our activities. Given that running events involves many repeated tasks, using a checklist to make sure that none are missed seems to make things run a lot more smoothly! Related to this, an amazing resource, which we have been using for about one year, is our EA Cambridge team in the <a target="_blank" href="https://form.asana.com/?hash=af4f8100357d4bbb05baad002a988ccbf3412c2d04c520a26988b56116280a61&id=1139914592491121">EA Hub Asana workspace</a>. We’re still figuring out the best way to use Asana for coordinating tasks between volunteers, but it’s great to have access to the premium Asana features by sharing the cost with other groups.
+ 
+## What are the biggest challenges as a community organiser? 
+In my experience, one of the biggest challenges is managing volunteer organisers, including maintaining motivation, delegating, ensuring tasks are completed by the necessary deadlines etc. So I was very excited to see this <a target="_blank" href="https://forum.effectivealtruism.org/posts/GkPRvW5x9XFwitYRj/tips-for-volunteer-management">EA Forum post from Naomi</a> advising on this topic! In particular, as a paid organiser, I sometimes think I am less willing to delegate tasks to volunteers than I ideally would be, as I don’t want to ask things of volunteers that I am paid to do. I try to regularly remind myself that our volunteers _volunteered_ to help out, are usually very keen to take things on, and can do a better job at many tasks than I could.
+
+Another challenge is coordination – there are so many EA groups now, and it’s impossible to know about all of the resources and experiences from every group which you could learn from (which makes me sad). However, the <a target="_blank" href="https://resources.eahub.org/">EA Resource Hub</a>, <a target="_blank" href="https://www.effectivealtruism.org/ea-groups-newsletter-archives/">Groups newsletter</a> and other endeavours seem to help a lot.
+ 
+## What one thing would you want other EA organisers to know about?
+One thing we’ve noticed when looking at how our most engaged members first got involved with our group is that they entered through a variety of different activities, with no single activity winning out as the most effective outreach mechanism. Because of this, we try to run a range of introductory EA events with different time commitments (such as both one-off, longer discussions and discussion series), different topics (e.g. speaker events representing a range of prominent EA cause areas alongside more career-focused events), and in different locations (e.g. we tried running events targeted at non-students outside of the university). We are very fortunate to have had the capacity to do this, which many smaller groups won’t have. However, varying even a small number of events could be good for attracting more people (whilst also maintaining some consistency in order to retain people after their first event!)
 
 <a name="stanford"></a>
 # Stanford EA
