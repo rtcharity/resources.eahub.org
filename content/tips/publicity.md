@@ -1,5 +1,5 @@
 ---
-title: Publicity
+title: Publicising Your Group
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
