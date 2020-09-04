@@ -64,7 +64,7 @@ Send reminders a few days before the event.
    * Accessibility information (for example, is the location accessible via wheelchair, and does it have wheelchair-accessible bathrooms)
    * Where people can park 
    * Bus or train routes
-   * If the event is not at an address (for example, the event is a picnic in a park), use Google maps to pinpoint the precise location. To do this, click on the exact spot on Google maps, then click on the latitude and longitude on the popup. This will give you a <a target="_blank" href="">URL that you can put in the event information</a>.   
+   * If the event is not at an address (for example, the event is a picnic in a park), use Google maps to pinpoint the precise location. To do this, click on the exact spot on Google maps, then click on the latitude and longitude on the popup. This will give you a <a target="_blank" href="https://www.google.com/maps/place/41%C2%B054'53.7%22N+12%C2%B028'58.2%22E/@41.914926,12.4822788,210m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d41.9149252!4d12.4828257">URL that you can put in the event information</a>.   
 * An event image (check out the editable examples on the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/">graphics page of the EA Resource Hub.</a>)
 
 
