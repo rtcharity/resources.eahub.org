@@ -1,6 +1,6 @@
 ---
 title: Organisation
-weight: 3
+weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
@@ -29,7 +29,7 @@ Ideas for tracking tasks, coordinating organisers, and communicating between org
 
 ### [NEXT: Committee Structures](/tips/articles/committee)
 
-### [BACK: Models of Movement Building](/tips/articles/models/)
+### [BACK: Publicising Your Group](/tips/articles/models/)
 
 <hr>
 
