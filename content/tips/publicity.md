@@ -65,7 +65,7 @@ This resource mostly caters to large groups with time to do promotion. If you ar
 ### Avoid jargon
 
 * Consider your audience's level of familiarity with EA terminology. If you do use technical terms, do so correctly and explain what the words mean. 
-* Check out <a target="_blank" href="https://forum.effectivealtruism.org/posts/uGt5HfRTYi9xwF6i8/3-suggestions-about-jargon-in-ea">these suggestions and the <a target="_blank" href="https://resources.eahub.org/learn/glossary/">glossary of terms</a>.  
+* Check out <a target="_blank" href="https://forum.effectivealtruism.org/posts/uGt5HfRTYi9xwF6i8/3-suggestions-about-jargon-in-ea">these suggestions</a> and the <a target="_blank" href="https://resources.eahub.org/learn/glossary/">glossary of terms</a>.  
 
 ### Avoid controversy
 
@@ -219,7 +219,7 @@ Important messages can be pinned to the top of the page.
 <a target="_blank" href="https://www.meetup.com/">Meetup</a> is a platform for creating groups and hosting events, aiming to create communities and bring people with common interests together. Meetup groups are easy for people to discover by browsing the groups in their city. 
 
 * Meetup is useful for getting newcomers and people who may not use Facebook
-* Meetup does have a <a target="_blank" href="https://help.meetup.com/hc/en-us/articles/360001620472-Organizer-subscription-pricing">cost for group organisers which can be covered by CEA through General <a target="_blank" href="https://efctv.org/gpsupf">Group Support Funding</a>.
+* Meetup does have a <a target="_blank" href="https://help.meetup.com/hc/en-us/articles/360001620472-Organizer-subscription-pricing">cost for group organisers</a> which can be covered by CEA through General <a target="_blank" href="https://efctv.org/gpsupf">Group Support Funding</a>.
 * Some groups find Meetup useful, and others do not. This probably depends on how popular Meetup is in your city, and the size of your group. 
 
    * New groups find Meetup a good way to get new people to discover EA. 
@@ -310,7 +310,7 @@ Websites are particularly good for large groups and national groups, to create a
 
 * Check out <a target="_blank" href="https://docs.google.com/document/d/18gK_dP_9ah2j7VEdHrISbeag7Xw5i1vBVXJFgsUCcZ8/edit">Rob Wiblin's guide to promoting ideas on social media</a> for some pointers. 
 * Use your own twitter to publicise stuff about EA to your followers. 
-* If you want to use a Twitter account for your group: regularly post short statuses / quotes / one-liners / links and so on (similar to updating a facebook page). Shorten links using the <a target="_blank" href="http://bit.ly">http://bit.ly</a> website or similar. 
+* If you want to use a Twitter account for your group: regularly post short statuses / quotes / one-liners / links and so on (similar to updating a facebook page). Shorten links using the <a target="_blank" href="http://bit.ly">bit.ly</a> website or similar. 
 * Follow people who have a large following in similar fields, and engage them in conversation or retweet them. This allows their followers to discover your Twitter account.
 
 
@@ -329,7 +329,7 @@ Websites are particularly good for large groups and national groups, to create a
 You can find articles to post from these places:
 
 * Other <a target="_blank" href="https://eahub.org/groups/">local EA groups' Facebook pages and newsletters</a>
-* The <a target="_blank" href="https://www.effectivealtruism.org/resources/">effectivealtruism.org website
+* The <a target="_blank" href="https://www.effectivealtruism.org/resources/">effectivealtruism.org</a> website
 * <a target="_blank" href="https://resources.eahub.org/learn/connect/">EA fora and Facebook pages</a>
 * A list of relevant <a target="_blank" href="https://forum.effectivealtruism.org/posts/B68gjjhZccGtWDuDh/a-list-of-ea-related-podcasts">podcasts or episodes featuring prominent EAs</a>  
 
@@ -429,9 +429,9 @@ If you are planning a careers workshop, university careers departments may be in
 
 <hr>
 
-### <a href="">NEXT: Organisation</a>
-### <a href="">BACK: Models of Movement Building</a>
+### <a href="https://resources.eahub.org/tips/organisation/">NEXT: Organisation</a>
+### <a href="https://resources.eahub.org/tips/articles/models/">BACK: Models of Movement Building</a>
 
 <hr> 
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="">_this google doc_</a>.
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1X2nuz1VeNWarQ1g27SJnzd_HI6MvXXcOyC7rOgkrALM/edit?pli=1">_this google doc_</a>.
