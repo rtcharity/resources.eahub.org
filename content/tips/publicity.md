@@ -7,7 +7,7 @@ license:
 ---
 ### _Published 4th September 2020_
 
-_IMPORTANT NOTE: This page is not a guide to spreading EA ideas beyond growing your own group. It doesn't advise on talking to journalists or producing articles and other media meant for wide distribution. If you are planning to conduct broader outreach, read this_ <a target="_blank" href="https://docs.google.com/document/d/1jU4snbnAIq-q4Dl_mIF0JyTT_bQrvS1wdBhQC1H-Bv8/edit#">_guide about talking to journalists_</a> _and we recommend getting in touch with Sky Mayhew, the current media liaison at CEA at_ <a target="_blank" href="mailto:media@centreforeffectivealtruism.org">_media@centreforeffectivealtruism.org_</a> _for advice._
+_IMPORTANT NOTE: This page is not a guide to spreading EA ideas beyond growing your own group. It doesn't advise on talking to journalists or producing articles and other media meant for wide distribution. If you are planning to conduct broader outreach, read this_ <a target="_blank" href="https://docs.google.com/document/d/1jU4snbnAIq-q4Dl_mIF0JyTT_bQrvS1wdBhQC1H-Bv8/edit#">_guide about talking to journalists_</a> _and we recommend getting in touch with Sky Mayhew, the current media liaison at CEA at_ <a target="_blank" href="mailto:media@centreforeffectivealtruism.org">_media@centreforeffectivealtruism.org_</a> _for advice._
 
 This page covers publicising your group. Specific <a target="_blank" href="http://resources.eahub.org/events/advertising">advice on advertising events can be found here</a>.  
 
@@ -144,7 +144,7 @@ Facebook groups are designed for discussion between members. They allow anyone i
    * You can control who becomes a member without having to reject people who want to join.  
    * Hidden groups might work for subgroups, such as an advanced reading group.
 
-*Regulating private groups:**
+**Regulating private groups:**
 
 * Strike a balance where newcomers feel welcome, but existing members can comfortably have advanced conversations. 
 * You can set up the group so that people requesting to join must answer up to three questions. The questions can help you gauge their understanding of EA, interest in a one-on-one, and inclinations towards specific cause areas. With this information, you can: 
@@ -376,12 +376,12 @@ Co-hosting events with other groups with overlapping interests will expose other
 * Ensure the speaker has credibility with the other group, as their status will reflect on EA.  
 
 
-**Pros**
+**Pros**
 
 * Exposes new people to EA through a targeted group who may be more inclined to EA than the general public.
 * May significantly increase the number of people attending the event. For example, EA Cambridge has found in many co-hosted events that the majority of event attendees come via the co-hosting group.
 
-**Cons**
+**Cons**
 
 * It can be time-consuming to coordinate with other groups. Also, if it is your idea to run a co-hosted event, your group may have to do most of the organising so it is likely to take more time than a regular event.  
 * The wrong kind of event for the wrong group may put people off of EA. This might be the case if the speaker or members of the EA group are negative about some of the other group’s activities. It is worth talking to the main organisers of the co-hosting group about what EA is and what you intend the event to be about, before confirming the event. That way you can test their reaction to EA and your plan before inviting the whole group.
