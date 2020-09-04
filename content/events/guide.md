@@ -66,7 +66,7 @@ Some options for a purpose could be:
    a.	Even for casual events, define an end time to signal when people will start leaving. If possible, allow people to hang around afterwards if they wish to continue discussions.\
    b.	If you decide to host a more formal or structured event, set aside time for attendees to talk afterwards. Consider encouraging this by offering refreshments. 
 5. Plan <a target="_blank" href="/events/food/">food and drink</a> for the event, if applicable. 
-6. Publicise the event on social media and mailing lists. Start about two weeks in advance or earlier for large events.  We offer professional-looking <a target="_blank" href="/graphics/editable-graphics/">sample graphics</a> to help with marketing.
+6. Publicise the event on social media and mailing lists. Check out the <a target="_blank" href="/events/advertising/">EA Resource Hub's guide to advertising events</a>. 
 7. Send a reminder message out a day or two in advance of the event.
 8. Assign <a href="#volunteer">volunteer roles</a> if needed.
 9. Decide if and how you will get feedback.
