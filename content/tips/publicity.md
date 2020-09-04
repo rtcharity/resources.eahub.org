@@ -248,7 +248,7 @@ You may wish to include the following phrases: _effective altruism · Charity· 
 * You can email members of your Meetup group through "Group Tools"
 * Check out <a target="_blank" href="https://www.meetup.com/find/?allMeetups=false&keywords=effective+altruism&radius=Infinity">other EA Groups Meetup pages</a> to see how they advertise their group and events. 
 
-<a target="_blank" href="">Information about advertising events on Meetup. 
+<a target="_blank" href="http://resources.eahub.org/events/advertising#meetup">Information about advertising events on Meetup. 
 
 <a name="mailing"></a>
 ## Mailing Lists
