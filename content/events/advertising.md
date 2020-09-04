@@ -7,7 +7,9 @@ license:
 ---
 ### _Published 4th September 2020_
 
-This page covers advertising events. Read these two pages before you read this page:
+This page covers advertising events, and was compiled by EA Cambridge, EA Melbourne, Brown EA, EA Philippines and the EA Resource Hub Team. 
+
+Read these two pages before you read this page:
 
 * <a target="_blank" href="https://resources.eahub.org/events/guide/">Guide to Running an Event</a>
 * <a target="_blank" href="http://resources.eahub.org/tips/publicity">Publicising Your Group</a>
