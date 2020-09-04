@@ -1,6 +1,6 @@
 ---
 title: Community Health
-weight: 5
+weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
