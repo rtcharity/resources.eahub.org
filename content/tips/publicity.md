@@ -9,7 +9,7 @@ license:
 
 _IMPORTANT NOTE: This page is not a guide to spreading EA ideas beyond growing your own group. It doesn't advise on talking to journalists or producing articles and other media meant for wide distribution. If you are planning to conduct broader outreach, read this_ <a target="_blank" href="https://docs.google.com/document/d/1jU4snbnAIq-q4Dl_mIF0JyTT_bQrvS1wdBhQC1H-Bv8/edit#">_guide about talking to journalists_</a> _and we recommend getting in touch with Sky Mayhew, the current media liaison at CEA at_ <a target="_blank" href="mailto:media@centreforeffectivealtruism.org">_media@centreforeffectivealtruism.org_</a> _for advice._
 
-This page covers publicising your group, and was compiled by EA Cambridge, Brown EA, EA Philippines, and the EA Resource Hub team. Specific <a target="_blank" href="http://resources.eahub.org/events/advertising">advice on advertising events can be found here</a>.  
+This page covers publicising your group, and was compiled by EA Cambridge, the EA Resource Hub team and several organisers. Specific <a target="_blank" href="http://resources.eahub.org/events/advertising">advice on advertising events can be found here</a>.  
 
 There’s no point in running events if no one hears about them! Make sure people know about your group and what it's doing. Because people often judge a community based on first impressions, it's important to get publicity done right. Whether it's in person or online, favour quality over quantity. 
 
