@@ -46,7 +46,7 @@ Additional reading related to EA community building can be found on the <a targe
 
 <hr>
 
-### [NEXT: Publicising Your Group](/tips/organisation/)
+### [NEXT: Publicising Your Group](/tips/publicity/)
 
 ### [BACK: Priorities](/tips/articles/priorities/)
 
