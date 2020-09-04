@@ -8,6 +8,7 @@ license:
 ### _Published 4th September 2020_
 
 This page covers advertising events. Read these two pages before you read this page:
+
 * <a target="_blank" href="https://resources.eahub.org/events/guide/">Guide to Running an Event</a>
 * <a target="_blank" href="http://resources.eahub.org/tips/publicity">Publicising Your Group</a>
 
@@ -25,7 +26,6 @@ This page covers advertising events. Read these two pages before you read this p
    *  <a href="#mailing">Mailing Lists</a>
    *  <a href="#several">Advertising to several platforms simultaneously</a>
 
-   *  <a href="#journalists">Journalists and Broader Outreach</a>
    *  <a href="#flyers">Flyers and Posters (Uni Groups)</a>
 *  <a href="#personal">Personal Invites</a>
 *  <a href="#stats">Collecting Statistics</a>
@@ -64,8 +64,8 @@ Send reminders a few days before the event.
    * Accessibility information (for example, is the location accessible via wheelchair, and does it have wheelchair-accessible bathrooms)
    * Where people can park 
    * Bus or train routes
-   * If the event is not at an address (for example, the event is a picnic in a park), use Google maps to pinpoint the precise location. To do this, click on the exact spot on Google maps, then click on the latitude and longitude on the popup. This will give you a <a target="_blank" href="">URL that you can put in the event information</a>.   
-* An event image (check out the editable examples on the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/">graphics page of the EA Resource Hub.</a>)
+   * If the event is not at an address (for example, the event is a picnic in a park), use Google maps to pinpoint the precise location. To do this, click on the exact spot on Google maps, then click on the latitude and longitude on the popup. This will give you a <a target="_blank" href="https://www.google.com/maps/place/41%C2%B054'53.7%22N+12%C2%B028'58.2%22E/@41.914926,12.4822788,210m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d41.9149252!4d12.4828257">URL that you can put in the event information</a>.   
+* An event image (check out the editable examples on the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/">graphics page of the EA Resource Hub.</a>)
 
 
 ## Workflow for advertising events
@@ -104,7 +104,7 @@ Facebook event images are ideally 1920 pixels wide by 1080 pixels tall, and do n
 **In a page**
 
 * Pages can be useful for advertising outreach events, as they notify anyone who has followed the page. However, unlike in groups, you can’t invite a large number of members with one click.
-* To invite members, you and your team can invite Facebook friends that are in the EA group. To make this easier you can <a target="_blank" href="https://www.facebook.com/bookmarks/lists">set up a friends list</a> with the group members. <a target="_blank" href="https://docs.google.com/document/d/1QCTLPNA38T5Ey0EXYBHxlMvXUnf3z_aOd_rh9wqAetw/edit">Full instructions here</a>. 
+* To invite members, you and your team can invite Facebook friends that are in the EA group. To make this easier you can <a target="_blank" href="https://www.facebook.com/bookmarks/lists">set up a friends list</a> with the group members. <a target="_blank" href="https://docs.google.com/document/d/1QCTLPNA38T5Ey0EXYBHxlMvXUnf3z_aOd_rh9wqAetw/edit">Full instructions here</a>. 
 * You can also invite people that are not on Facebook by entering email addresses.
 * If your Facebook group is public you might prefer to create the event using a Facebook group instead, invite all the group members, then share the event to the page. 
 
@@ -121,7 +121,7 @@ This is best used for events where extra attendees have a large value, such as e
 
 * Set a custom audience to make the ads as targeted as possible. Take some time to fiddle with the system to get the audience as well defined as possible. For example, not everyone lists their location or university. Keep the location of your target audience relatively small * Facebook has a minimum of a 10 mile radius for who will receive the ad, and that should be enough. Also, you can input the interests, fields of study, schools, employers, and job titles that you think your target audience will have. For example, if you are organising an event on AI safety, you can target people with interests in “Artificial Intelligence”, with the field of study of “Computer Science”, or those who have a job title of “Senior Engineer”.
 * Set a low budget first, and set the number of days that the ad will run to be a few only. (i.e. 3-7 days.) You might be able to find enough attendees just from a low budget within 2-3 days. Track your ad daily to see if it’s resulting in more signups or not. If it’s not resulting in more signups, you can increase your budget or lower the number of days it will run for. Lowering the number of days it will run for means your budget will be spent at a faster rate, which could lead to more signups.
-* You can apply for <a target="_blank" href="https://www.effectivealtruism.org/group-support-funding/">funding through CEA</a>. 
+* You can apply for <a target="_blank" href="https://www.effectivealtruism.org/group-support-funding/">funding through CEA</a>. 
 
 EA Philippines has <a target="_blank" href="https://forum.effectivealtruism.org/posts/bmNcw96yGE9EiRkuP/ea-philippines-strong-progress-and-learnings-in-2019-1#High_Conversion_Rate_of_Facebook_Ads">found success in getting attendees to come using Facebook ads at a very cheap cost</a>. Their cost per attendee was around $1-5 per person depending on the event. This success might be specific to the Philippines though given the country’s high social media usage, and other groups may not find their ads to be as cost-effective. You can experiment with it and see if it’s cost-effective for you.
 
@@ -161,7 +161,7 @@ EA Melbourne has put together a system which allows you to add events to:
 * Eventbrite
 * Google Calendar
 * A Wix website
-just by posting a single event to Eventbrite. This <a target="_blank" href="https://docs.google.com/document/d/11_a6gM_sEaRe0OPVGv92_xhsCS-QVYZzjZsPq3KKA6s/edit">document will guide you through setting up the system</a>, and <a target="_blank" href="https://docs.google.com/document/d/1JKaXAKTpQLBgiuNTRtioZtRMafq0Csk5JaoVI8XkjjA/edit">this document describes how to post an event</a>.
+just by posting a single event to Eventbrite. This <a target="_blank" href="https://docs.google.com/document/d/11_a6gM_sEaRe0OPVGv92_xhsCS-QVYZzjZsPq3KKA6s/edit">document will guide you through setting up the system</a>, and <a target="_blank" href="https://docs.google.com/document/d/1JKaXAKTpQLBgiuNTRtioZtRMafq0Csk5JaoVI8XkjjA/edit">this document describes how to post an event</a>.
 
 
 <a name="flyers"></a>
@@ -169,7 +169,7 @@ just by posting a single event to Eventbrite. This <a target="_blank" href="http
 
 Anecdotal data from Harvard EA suggests that a large percentage of new attendees come to meetups after seeing posters. Other groups have had less success with flyers and posters as a form of publicity, so this may depend on the context of your group (for example, whether there are places in your city/university where people tend to look at posters or pick up flyers). 
 
-<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#events">Poster and flyer templates are here</a>. 
+<a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/#events">Poster and flyer templates are here</a>. 
 
 
 <a name="personal"></a>
@@ -190,7 +190,7 @@ For extended events like fellowships, you can ask people how they found out abou
 For example, Brown EA included this question in their fellowship application and found the following breakdown of how students heard about their fellowship:
 
 * ~ 30% from the clubs fair
-* ~ 30% from facebook posts on Brown student pages
+* ~ 30% from Facebook posts on Brown student pages
 * ~ 20% from a post on Brown's daily mailing list
 * ~ 10% from word of mouth
 * ~ 10% from asking other students groups to email their listservs such as the animal rights group, computer science group, etc.
