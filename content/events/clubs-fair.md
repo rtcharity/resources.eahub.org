@@ -279,11 +279,11 @@ There can be a vast wide difference in effectiveness between charities. This ver
 
 **A note on choosing charities**
 
-We recommend avoiding using Guide Dog charities or other well-loved local charities like Make-a-Wish Foundation in Giving Games. These charities' interventions indeed tend to cost several thousand dollars for comparatively less benefit. However, pointing out their flaws can be offputting for people who have benefitted from the charity, either directly, or through family and friends.
+We recommend avoiding using Guide Dog charities or other particularly well-loved local charities in Giving Games. These charities' interventions indeed tend to cost a lot of money for comparatively less benefit. However, pointing out their flaws can be offputting for people who have benefitted from the charity, either directly, or through family and friends.
 
 **How the game could work:**
 
-* <a target="_blank" href="https://docs.google.com/document/d/19YDz3lLcyaBNVAINhVfmhhyORp9xExOI/edit">This resource has two pages per charity</a>. Show the first “initial information” page, state that this is the sort of advertising information a charity might use, and explain what each of the charities does. Make sure you are positive about both charities.
+* <a target="_blank" href="https://docs.google.com/document/d/1RPhcZnUfhpGTL4RPH3m_iTZH0E797ohXizqNsEiGzss/edit">This resource has two pages per charity</a>. Show the first “initial information” page, state that this is the sort of advertising information a charity might use, and explain what each of the charities does. Make sure you are positive about both charities.
 * Get people to pick which charity they’d choose based on this information. 
 * Then flip the pages over to show the “evidence” information, and explain what the evidence shows. 
 * Allow people to ask questions.
