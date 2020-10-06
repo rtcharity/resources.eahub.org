@@ -25,6 +25,7 @@ The <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">E
 
 
 <hr>
+
 ### [NEXT: Getting the Most Out of an EA Conference](/take_action/ea-conference/)
 
 ### [BACK: Use Your Time](/take_action/use-your-time/)
