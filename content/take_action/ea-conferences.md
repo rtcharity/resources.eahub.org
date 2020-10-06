@@ -1,5 +1,6 @@
 ---
 title: Getting the most out of an EA conference
+weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
@@ -27,3 +28,6 @@ It is possible that most of the impact of EA conferences comes from their effect
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/3kFWJLy7uBYgeQ4xs/advice-for-getting-the-most-out-of-one-on-ones#comments">Advice for getting the most out of one-on-ones</a> - by Marisa Jurczyk, with contributions from several community members.
 
 * Janique Behman from EA Zurich has created a <a target="_blank" href="https://docs.google.com/document/d/14lxKIome7JO3QlOAbROKsvPZ46Z-6InaVQ9M3pHdDco/edit?pli=1">Personal Goal-Setting Template to guide your planning for the conference as a whole, and a <a target="_blank" href="https://docs.google.com/document/d/10pHFNk19hMxwXaIDQDT2q8XUrrCX4xfGMW1sHNmCX0M/edit">One-on-One Template</a> to assist in the planning of important meetings. We also encourage you to schedule informal one-on-ones, which won’t need planning. 
+
+
+### [BACK: Rethink Your Career Path](/take_action/career)
