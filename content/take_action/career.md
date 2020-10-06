@@ -2,7 +2,7 @@
 title: Rethink Your Career Path
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 21st September 2019_
 
@@ -24,6 +24,7 @@ The <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">E
 
 
 <hr>
+### [NEXT: Getting the Most Out of an EA Conference](/take_action/ea-conference/)
 
 ### [BACK: Use Your Time](/take_action/use-your-time/)
 
