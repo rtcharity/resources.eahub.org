@@ -1,5 +1,5 @@
 ---
-title: Getting the most out of an EA conference
+title: Getting the Most Out of an EA Conference
 weight: 4
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
