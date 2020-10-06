@@ -12,7 +12,7 @@ Each year <a target="_blank" href="https://www.eaglobal.org/">several EA confere
 
 EA conferences have been transformative experiences for some members of the community; they’ve led to changes in cause prioritisation and career paths, as well as significant increases in their ambition to improve the world. 
 
-It is possible that most of the impact of EA conferences comes from their effects on the small percentage of attendees who have these life-changing experiences. So it’s worth thinking about how to increase the chances that you or your group members could be among those attendees!
+It is possible that most of the impact of EA conferences comes from their effects on the small percentage of attendees who have these life-changing experiences. So it’s worth thinking about how to increase the chances that you could be among those attendees!
 
 ## Suggestions for preparing for the conference:
 
