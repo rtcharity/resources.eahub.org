@@ -24,6 +24,10 @@ Suggestions on how to use your time to volunteer, fundraise, spread EA ideas or 
 
 If you have a variety of career options, then rethinking your career path could be the highest impact action you can take. This page links to some resources on how to have a satisfying high-impact career.
 
+## [Getting the Most out of an EA Conference](/take_action/ea-conferences)
+
+EA conferences have been transformative experiences for some members of the community; they’ve led to changes in cause prioritisation and career paths, as well as significant increases in their ambition to improve the world. This page has tips on how to get the most out of a conference. 
+
 <hr>
 
 ### [NEXT: Donate or Pledge](/take_action/donate/)
