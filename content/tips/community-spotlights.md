@@ -5,20 +5,63 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 1st September 2020_
+### _Updated 6th October 2020_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
-* <a href="#eve"> Eve McCormick - EA Cambridge</a>
-* <a href="#stanford"> Stanford EA</a>
-* <a href="#jessica"> Jessica McCurdy - Yale EA</a>
-* <a href="#parth"> Parth Thaya - EA Microsoft</a>
+* <a href="#eauq"> EA University of Queensland, Australia</a>
+* <a href="#eve"> Eve McCormick - EA Cambridge, UK </a>
+* <a href="#stanford"> Stanford EA, USA</a>
+* <a href="#jessica"> Jessica McCurdy - Yale EA, USA</a>
+* <a href="#parth"> Parth Thaya - EA Microsoft, USA</a>
 * <a href="#brian"> Brian Tan - EA Philippines</a>
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
-* <a href="#neil">Neil Ferro - EA Sydney</a>
+* <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="eauq"></a>
+# EA University of Queensland, Australia
+### _Published 6th October 2020_
+
+<p class="large_image_wrapper">
+ <img src="/img/eauq.jpg" />
+</p>
+
+## Describe your group
+
+Effective Altruism UQ is a University of Queensland student society with membership and events open to all. We hold events at the UQ St Lucia Campus and online. Our members are largely UQ students, who study a diverse array of subjects. We view our primary purpose as a university EA group to be career development and EA movement building. During the academic year, we host distinguished speakers, discussions, reading groups, presentations by our members, charity Giving Games and social events.
+
+## What is the best advice/resource you've found?
+
+Much of our membership growth is due from one-on-one interactions within the UQ and broader Brisbane communities. Elevator pitches at parties, the UQ gym and other student society events have been surprisingly effective at generating interest and attendance for our events. The 80,000 Hours Key Ideas webpage has proven useful as an introductory resource to EA. Our reading group for Toby Ord’s The Precipice was a huge success at attracting and engaging people new to EA.
+
+
+## What challenges have you faced as a group, and how did you manage them?
+Since the advent of COVID-19, we had to move most of our events online. While initially disruptive, this motivated us to host distinguished speakers from overseas and made our events accessible to geographically removed people. Our online reading club for The Precipice was a significant draw for new members, as was our online lightning talks event, which featured several people entirely new to EA who were excited to be given a platform to present (incidentally EA-related) talks.
+
+## What has been your most successful event, and why?
+
+Our collaboration with the UQ AI and Machine Learning student society, an online talk by DeepMind AI safety researcher Richard Ngo, drew large attendance from both societies and the wider EA community. The audience was very engaged with the talk and subsequent Q&A. Giving audience members the ability to vote questions up or down allowed us to crowdsource question prioritisation. One-on-one conversations with possible attendees generated more interest in the event than simply mass-inviting or advertising.
+
+## What is the strength of your group?
+
+Our group has thrived when we have had regular short social discussion events to facilitate a sense of community without excessively impacting study time. These events have allowed EAUQ members with diverse academic backgrounds to share their knowledge, such as in our recent reading club for The Precipice. Our members have demonstrated that they feel comfortable to share dissenting views and engage in good-faith discussion on controversial topics. I strongly appreciate the atmosphere of academic inquiry at our group’s events.
+
+## What’s the biggest lesson/best advice you’ve learned from organising so far?
+I believe that community groups thrive when as many people as possible are granted opportunities to take on leadership or speaking roles, as opposed to centralising event planning and approval. Effective Altruism is a communal endeavour and I believe that EAUQ, as a university society, should focus on developing the event management and presentation skills of emerging community members.
+
+## What is a funny, interesting, or inspiring story from your group?
+
+Before our 2019 Annual General Meeting, it was discussed that EAUQ would have to dissolve due to almost all of our executive members leaving at the end of 2019 and poor attendance at several recent events. However, several members of our community worked to make our 2019 AGM a memorable event in its own right, with several Lightning Talks as the main feature. Due to the high attendance and interest generated in the Lightning Talks + AGM event, several people volunteered to fill the key executive roles and the society was saved. In 2020, our membership, event attendance and leadership team has been strong and it looks like this will continue into 2021, despite losing more executive members to graduation.
+
+## Do you have a key goal for your group? How are you working to achieve this?
+
+As a university student society, EAUQ has a focus on career development and movement building. We believe that these aims are best achieved by featuring distinguished speakers that draw new members to our events and expose existing members to EA-aligned research opportunities and by engaging in collaborative learning activities, like reading groups and Lightning Talks. Additionally, we hold an 80,000 Hours-inspired career development workshop at the end of each academic year.
+
 
 <hr>
 
