@@ -133,6 +133,6 @@ The EA Resource Hub will publish more advice on running EA projects in the futur
 
 <hr>
 
-_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1qtvllSL7jTIbkeadnicLvIhcT53-XJyxx3uvnz1JesE/edit#">_this google doc._</a>
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1qtvllSL7jTIbkeadnicLvIhcT53-XJyxx3uvnz1JesE/edit#">_this Google doc._</a>
 
 <hr>
