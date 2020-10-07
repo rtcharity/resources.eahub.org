@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 22nd September 2019*
+### *Updated 7th October 2020*
 
 <p class="large_image_wrapper">
 <img src="/img/takeactioneasydney.png" />
@@ -26,6 +26,10 @@ This page will illustrate ways to measure a group’s impact and use the informa
 ## [Models of Movement Building](/tips/articles/models/)
 
 This page links to articles about EA movement-building and the role of EA groups.
+
+## [Engaging Group Members Long-Term](/tips/articles/engaging/)
+
+Tips to help keep group members engaged in EA over a longer time. 
 
 <hr>
 
