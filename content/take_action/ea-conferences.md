@@ -5,6 +5,8 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
+### _Published 7th October 2020_
+
 Each year <a target="_blank" href="https://www.eaglobal.org/">several EA conferences are held worldwide:</a>
 
 * EA Global conferences are run by the Centre for Effective Altruism
