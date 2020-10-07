@@ -70,7 +70,7 @@ Recommended priorities:
 * Organise showpiece events with high-profile speakers 
 * Build excellent brand-presence. It may be helpful to use social media or set up a website
 
-# Strategy Documents from Different Groups
+# Strategy Documents from Groups
 
 * EA Oxford’s brainstorm of the <a target="_blank" href="https://docs.google.com/document/d/1NHIPkNNPt7dDcc6-tt18TpaaPQmJf-bSpJQtEVwall4/edit?usp=sharing">functions of an EA Group</a>
 * EA Denmark’s <a target="_blank" href="https://docs.google.com/document/d/1sf2y6sM3F0huE_XMRLFl98l_TuLuXM872e2ArGnlT1E/edit#heading=h.vs2jjp3on5g5">Overall Goals</a>, and their <a target="_blank" href="https://forum.effectivealtruism.org/posts/7He8vRrbyyeKFZdif/strategy-development-for-ea-groups-lessons-learned-from-ea">process for determining their goals and creating projects</a>
