@@ -30,6 +30,12 @@ It is possible that most of the impact of EA conferences comes from their effect
 * Janique Behman from EA Zurich has created a <a target="_blank" href="https://docs.google.com/document/d/14lxKIome7JO3QlOAbROKsvPZ46Z-6InaVQ9M3pHdDco/edit?pli=1">Personal Goal-Setting Template to guide your planning for the conference as a whole, and a <a target="_blank" href="https://docs.google.com/document/d/10pHFNk19hMxwXaIDQDT2q8XUrrCX4xfGMW1sHNmCX0M/edit">One-on-One Template</a> to assist in the planning of important meetings. We also encourage you to schedule informal one-on-ones, which won’t need planning. 
 
 
-
+<hr>
 
 ### [BACK: Rethink Your Career Path](/take_action/career)
+
+<hr>
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1jcCkAayfm0vSKULCLAtICocg3iWYJq7EqwBbfcjWSW4/edit#">_this google doc._</a>
+
+<hr>
