@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 22nd September 2019*
+### *Updated 7th October 2020*
 
 *The LEAN team wrote this section using ideas from EA Oxford and EA MIT.* 
 
