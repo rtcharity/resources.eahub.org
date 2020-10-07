@@ -1,11 +1,13 @@
 ---
-title: Priorities
+title: Priorities and Group Strategies
 date: 2019-09-22T10:01:28.904Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### *Updated 7th October 2020*
+
+# Priorities for Different Sized Groups
 
 *The LEAN team wrote this section using ideas from EA Oxford and EA MIT.* 
 
