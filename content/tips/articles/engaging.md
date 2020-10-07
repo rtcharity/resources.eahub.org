@@ -132,6 +132,7 @@ The EA Resource Hub will publish more advice on running EA projects in the futur
 ### [BACK: Priorities](/tips/articles/priorities/)
 
 <hr>
-*If you have suggestions on how to improve this page, please comment or suggest edits on* <a target="_blank" href="https://docs.google.com/document/d/1qtvllSL7jTIbkeadnicLvIhcT53-XJyxx3uvnz1JesE/edit#"> *this Google doc*</a>.
+
+_If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1qtvllSL7jTIbkeadnicLvIhcT53-XJyxx3uvnz1JesE/edit#">_this google doc._</a>
 
 <hr>
