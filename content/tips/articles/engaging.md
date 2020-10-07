@@ -9,11 +9,11 @@ license:
 
 _Compiled from tips from Stanford EA, EA Cambridge, EA University of Queensland and EA Oxford._
 
-Some people discover EA, read a lot of content on their own, and make important life decisions based on EA considerations without support from an EA group. Others need to spend a long time learning and discussing EA ideas with like-minded people before they're ready to take significant action. 
+Some people discover EA, read a lot of content on their own, and make important life decisions based on EA considerations, all without support from an EA group. Others need to spend a long time learning and discussing EA ideas with like-minded people before they're ready to take significant action, and that is where groups can make a large impact. 
  
 Many EA groups have a strong entry program but aren't sure how to guide their members after they've got the basics. Most people that are introduced to EA won't keep coming to events, and that's okay! EA is not for everyone. However, groups can take steps to keep interested people engaged.
 
-Most of the impact of an EA group will probably come from a small percentage of their most engaged group members (for more explanation of this idea, read <a target="_blank" href="">CEA’s article on the three-factor model of community building)</a>. So it is particularly important for organisers to provide value to the people that are the most interested in EA ideas. For many groups this might be more useful on the margin than adding new members through outreach activities.  
+Most of the impact of an EA group will probably come from a small percentage of their most engaged group members (for more explanation of this idea, read <a target="_blank" href="https://www.centreforeffectivealtruism.org/a-three-factor-model-of-community-building">CEA’s article on the three-factor model of community building)</a>. So it is particularly important for organisers to provide value to the people that are the most interested in EA ideas. For many groups this might be more useful on the margin than adding new members through outreach activities.  
 
 This page has some tips from group organisers to help newer members stay engaged for longer. Note that these tips come from large groups with significant organising capacity, so some ideas may not be useful for organisers with limited time. 
 
@@ -29,8 +29,7 @@ Please add your tips by commenting or suggesting on this <a target="_blank" href
 
 People interested in EA often face challenges that keep them from getting more involved in the community, and from taking actions based on EA principles. We list some common bottlenecks here. 
 
-People may choose not to get more involved in the community if they:
-
+People may:
 * Hold different beliefs to others in their community, especially a different cause prioritisation
 * Have other things they’d prefer to do than attend an EA event or consume EA content 
 * Do not have enough time to attend an EA event or consume EA content  
@@ -53,19 +52,19 @@ Group organisers may be able to tactfully talk to their members about what bottl
 Some groups such as EA Oxford and Brown EA also run In-Depth Fellowships for members who have completed an Intro Fellowship or have done an equivalent amount of reading on their own. If you're interested in running an In-Depth Fellowship with your group, we recommend participating in an online In-Depth Fellowship run by another group first. These are sometimes advertised to group organisers.  
 
 ## Book clubs and other reading groups
-Several groups have found that book clubs encourage members to read high-quality EA content and have regular meetups. Members usually sign up to join the book club for a particular EA book or a series of articles on a specific topic. Organisers assign weekly readings (usually 1 article or 1-2 chapters of a book) and everyone meet to discuss the content. 
+Several groups have found that book clubs encourage members to read high-quality EA content and have regular meetups. Members usually sign up to join the book club for a particular EA book or a series of articles on a specific topic. Organisers assign weekly readings (usually one or two articles or chapters of a book) and the group meets regularly to discuss the content. 
 
 * “The Precipice” by Toby Ord has been the most popular book club choice recently.
-* “Doing Good Better” by Will MacAskill is also commonly used for a book club targeted at newer members.
+* “Doing Good Better” by Will MacAskill is also commonly used for book clubs targeted at newer members.
 * Several groups run reading groups based on an interest area, such as AI Safety reading group. You can find some <a target="_blank" href="https://docs.google.com/document/d/1hAT_glJ-71QOZ2I8zN8LQO8M9Afw1-60FECnf5rG76o/edit">reading lists on the EA Resource Hub</a>. 
 
 ## Engagement through action
 Asking people to help out can increase engagement. Things you can ask newer members to do:
 
 * Give a talk on a topic that interests them. A low-pressure way to do this is to run a “lightning talk” event where several members give short talks and answer questions. 
-* Join the committee if your group has one or attend planning meetings.
-* Take roles organising specific events or projects. Tasks which encourage learning about EA topics further could be particularly helpful for new members, such as writing event descriptions on different discussion topics. 
-* Reach out other groups for collaborative events (if the member has appropriate skills and knowledge)
+* Ask them to help plan by inviting them to attend planning meetings or join the committee.
+* Take roles organising specific events or projects. Tasks which encourage learning about EA topics further may be particularly helpful for new members, such as writing event descriptions on different discussion topics. 
+* Reach out other groups to offer collaborative events (if the member has appropriate skills and knowledge)
 * Act as a mentor or organiser of an introductory fellowship (if the member has appropriate knowledge and communication skills)
 * Produce content for social media. One task could be finding, reading, and summarising relevant articles.
 * Produce blog posts for the groups’ website. 
@@ -90,7 +89,7 @@ A strong community of people with shared values can make it a lot easier for peo
 
 Holding <a target="_blank" href="https://resources.eahub.org/events/social/">social events</a> is one method. It can be inspiring for newly engaged group members to meet with people who have taken actions based on EA principles. 
 
-You can foster connections on a smaller scale through one-on-one or small-group conversations between people with similar interests or backgrounds. You could suggest topics such as cause prioritisation, ethics, career paths, or cause-areas to help the conversation along. 
+You can foster connections on a smaller scale through creating opportunities for one-on-one or small-group conversations between people with similar interests or backgrounds. You could suggest topics such as cause prioritisation, ethics, career paths, or cause-areas to help the conversation along. 
 
 ## Retreats
 <a target="_blank" href="https://resources.eahub.org/events/retreats/">Retreats</a> involve community members gathering for two or more days, usually out of the city. The activities vary from social activities, career planning, intensive workshops, and working on projects. Retreats are time-consuming to organise but usually have excellent feedback from attendees and have been the turning point in many people’s EA journeys.
@@ -100,7 +99,7 @@ You can foster connections on a smaller scale through one-on-one or small-group 
 Each year, <a target="_blank" href="https://www.eaglobal.org/">several EA conferences</a> are held worldwide. These are transformative experiences for some members of the community. They’ve led to changes in cause prioritisation and career paths, as well as significant increases in their ambition to improve the world. Many EA conferences have mentoring programs available. 
 
 ## Connecting people to EAs outside their group
-Connecting people to the broader community helps people see EA beyond what happens in their group, and can provide valuable professional and personal connections. Methods include 
+Connecting people to the broader community helps people see what is happening in the community beyond their group, and can provide valuable professional and personal connections. Ways to make these connections: 
 
 * Promoting EA conferences and unconferences
 * Co-hosting online events with other groups. 
@@ -118,12 +117,12 @@ These tips are more appropriate for uni groups.
 ## Share volunteering and career opportunities
 
 * <a target="_blank" href="https://resources.eahub.org/take_action/use-your-time/">This page has tips on finding EA volunteering opportunities</a>. 
-Some career opportunities can be found on the <a target="_blank" href="https://80000hours.org/job-board/">80,000 Hours job board</a> and the <a target="_blank" href="https://www.facebook.com/groups/1062957250383195/">Effective Altruism job postings Facebook group</a>. 
+* Some career opportunities can be found on the <a target="_blank" href="https://80000hours.org/job-board/">80,000 Hours job board</a> and the <a target="_blank" href="https://www.facebook.com/groups/1062957250383195/">Effective Altruism job postings Facebook group</a>. 
 
 ## Projects
 Projects can help build the EA community or do good directly. They help with skill-building, create a sense of purpose, and allow people to test their fit with different types of work. Typical projects include writing a post for the EA Forum or planning a group activity. However, some projects come with risks that warrant a cautious approach. 
 
-The EA Resource Hub will publish more advice on running EA projects in the future.  
+The EA Resource Hub will publish advice on running EA projects in the future.  
 
 <hr>
 
