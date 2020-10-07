@@ -126,6 +126,12 @@ Projects can help build the EA community or do good directly. They help with ski
 The EA Resource Hub will publish more advice on running EA projects in the future.  
 
 <hr>
+
+### [NEXT: Models of Movement Building](/tips/articles/models)
+
+### [BACK: Priorities](/tips/articles/priorities/)
+
+<hr>
 _If you have suggestions on how to improve this page, please comment or suggest edits on <a target="_blank" href="https://docs.google.com/document/d/1qtvllSL7jTIbkeadnicLvIhcT53-XJyxx3uvnz1JesE/edit#">this Google doc</a>._
 
 <hr>
