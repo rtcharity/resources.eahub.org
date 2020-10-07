@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 22nd September 2019*
+### *Updated 7th October 2020*
 
 *The LEAN team wrote this section using ideas from EA Oxford and EA MIT.* 
 
@@ -70,11 +70,19 @@ Recommended priorities:
 * Organise showpiece events with high-profile speakers 
 * Build excellent brand-presence. It may be helpful to use social media or set up a website
 
-# More Resources
+# Strategy Documents from Groups
 
 * EA Oxford’s brainstorm of the <a target="_blank" href="https://docs.google.com/document/d/1NHIPkNNPt7dDcc6-tt18TpaaPQmJf-bSpJQtEVwall4/edit?usp=sharing">functions of an EA Group</a>
-* EA Denmark’s <a target="_blank" href="https://docs.google.com/document/d/1sf2y6sM3F0huE_XMRLFl98l_TuLuXM872e2ArGnlT1E/edit#heading=h.vs2jjp3on5g5">Overall Goals</a> 
-* EA Denmark’s <a target="_blank" href="https://forum.effectivealtruism.org/posts/7He8vRrbyyeKFZdif/strategy-development-for-ea-groups-lessons-learned-from-ea">process for determining their goals and creating projects</a>
+* EA Denmark’s <a target="_blank" href="https://docs.google.com/document/d/1sf2y6sM3F0huE_XMRLFl98l_TuLuXM872e2ArGnlT1E/edit#heading=h.vs2jjp3on5g5">Overall Goals</a>, and their <a target="_blank" href="https://forum.effectivealtruism.org/posts/7He8vRrbyyeKFZdif/strategy-development-for-ea-groups-lessons-learned-from-ea">process for determining their goals and creating projects</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1EDCBuvNKLJEF7htGglb8ckP_R7m-ItZ3Yt5OPybmYXA/edit">EA London Theory of Change</a>
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/2fsPFEJ74tzaqqwCB/ea-israel-strategy-2020-21">EA Israel Strategy 2020-2021</a>
+* <a target="_blank" href="https://drive.google.com/file/d/1WQVCOuYMCSKPWrH3Mbz6l1o7bmxhmen-/view">2019 Annual Report EA Geneva</a>
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/RM77XJj3xGLXZk2es/effective-altruism-sweden-plans-for-2018">EA Sweden plans for 2018</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1m5E_vBowWXTUQ_JaFOwNQiuoZcOVk2HjCIYhXAI6JRg/edit?usp=sharing">EA Philippines Strategy, Activities and Progress 2020</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1eTDX-zjsw6LF2fK0iuN-1q3Z5-a6OBXDLUGwa4KdyIE/edit">2020 EA Berlin Strategy Draft</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1jsG4EHfyPLGfS3LcAjSQ9c19_ovdxn_rgwUaJWCQayY/edit">EA France General Report 2019</a>
+
+
 
 <hr>
 
