@@ -4,6 +4,12 @@ body {
   padding-top: 50px;
 }
 
+.mark {
+  background-color: #bce0db;
+  padding: 0;
+  margin: 0;
+}
+
 a:hover {
   opacity: 0.5
 }
