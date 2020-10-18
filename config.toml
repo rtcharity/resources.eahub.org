@@ -17,3 +17,6 @@ custom_css = ["css/custom.css"]
 showDates = false
 eahubURL = "https://eahub.org"
 publicURL = "resources.eahub.org"
+
+[outputs]
+home = ["HTML", "JSON"]

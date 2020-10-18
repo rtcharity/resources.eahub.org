@@ -1,40 +1,58 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-header">
-      <div class="container">
-        <button type="button" id="burger-btn" class="navbar-toggle">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <ul class="navbar-signup-md">
-          <li><a href="{{ .Site.Params.eahubURL }}/profile"><i class="fa fa-user"></i> My Profile</a></li>
-        </ul>
-        {{ if eq .Page.Title "Resources" }}
-        <a href="{{ .Site.Params.eahubURL }}" id="logo_home_desktop"><img class="logo_full" id="logo" src="/img/logo_full_transparent.png" /></a>
-        <a href="{{ .Site.Params.eahubURL }}" id="logo_home_mobile"><img id="logo" src="/img/logo_transparent.png" /></a>
-        <a href="/"><h4 class="home">/ Resources</h4></a>
-
-        {{ else }}
-        <a href="{{ .Site.Params.eahubURL }}"><img id="logo" src="/img/logo_transparent.png" /></a>
-        <a href="/"><h4 class="home">/ Resources</h4></a>
-        {{ end }}
-
-      </div>
-    </div>
+  <div class="navbar-header">
     <div class="container">
-      <div id="navbar" class="navbar-menu">
-        <ul class="nav navbar-nav navbar-right">
-          <li class="navbar-signup-xs"><a href="{{ .Site.Params.eahubURL }}/profile"><i class="fa fa-user"></i> My Profile</a></li>
-          <li class="navbar-signup-xs"><a href="{{ .Site.Params.eahubURL }}/profile/signup"><i class="fa fa-user-plus"></i> Sign Up</a></li>
-          <li><a href="{{ .Site.Params.eahubURL }}/profiles"><i class="fa fa-users"></i> Profiles</a></li>
-          <li><a href="{{ .Site.Params.eahubURL }}/groups"><i class="fa fa-globe"></i> Groups</a></li>
-          <hr>
-          <li><a href="/"><b>Resources Home</b></a></li>
-          {{ block "siteMenuMobile" . }}{{ partial "site-menu-mobile.html" .}}{{ end }}
-        </ul>
-      </div>
-    </div>
-  </nav>
+      <button type="button" id="burger-btn" class="navbar-toggle">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <ul class="navbar-signup-md">
+        <li>
+          <div style="margin:0px 20px 0px 50px">
+            <form action="/search/">
+              <label style='color:white'>Search: </label>
+              <input id="search-query" name="s" />
+              <input type="submit" value='GO' />
+            </form>
+          </div>
+        </li>
+        <li><a href="{{ .Site.Params.eahubURL }}/profile"><i class="fa fa-user"></i> My Profile</a></li>
+      </ul>
+      {{ if eq .Page.Title "Resources" }}
+      <a href="{{ .Site.Params.eahubURL }}" id="logo_home_desktop"><img class="logo_full" id="logo"
+          src="/img/logo_full_transparent.png" /></a>
+      <a href="{{ .Site.Params.eahubURL }}" id="logo_home_mobile"><img id="logo" src="/img/logo_transparent.png" /></a>
+      <a href="/">
+        <h4 class="home">/ Resources</h4>
+      </a>
 
+      {{ else }}
+      <a href="{{ .Site.Params.eahubURL }}"><img id="logo" src="/img/logo_transparent.png" /></a>
+      <a href="/">
+        <h4 class="home">/ Resources</h4>
+      </a>
+      </section>
+      {{ end }}
+
+    </div>
+  </div>
+  <div class="container">
+    <div id="navbar" class="navbar-menu">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="navbar-signup-xs"><a href="{{ .Site.Params.eahubURL }}/profile"><i class="fa fa-user"></i> My
+            Profile</a></li>
+        <li class="navbar-signup-xs"><a href="{{ .Site.Params.eahubURL }}/profile/signup"><i
+              class="fa fa-user-plus"></i> Sign Up</a></li>
+        <li><a href="{{ .Site.Params.eahubURL }}/profiles"><i class="fa fa-users"></i> Profiles</a></li>
+        <li><a href="{{ .Site.Params.eahubURL }}/groups"><i class="fa fa-globe"></i> Groups</a></li>
+        <hr>
+        <li><a href="/"><b>Resources Home </b></a></li>
+        {{ block "siteMenuMobile" . }}{{ partial "site-menu-mobile.html" .}}{{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<script src="/js/search.js"></script>
 <script src="/js/navbar.js"></script>
-    {{ template "_internal/google_analytics.html" . }}
+{{ template "_internal/google_analytics.html" . }}
