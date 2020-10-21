@@ -4,6 +4,7 @@ function param(name) {
 
 var searchQuery = param("s");
 if (searchQuery) {
+    document.getElementById('search-query').value = searchQuery;
     executeSearch(searchQuery);
 }
 
@@ -15,14 +16,21 @@ function capitalize(s) {
     return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
+function highlight(text, pattern) {
+    return text.replace(pattern, '<span class="mark">$&</span>')
+}
+
 function makeSnippet(item, index, pattern) {
-    const min = Math.max(index - snipLength, 0)
-    const max = Math.min(index + snipLength, item.contents.length)
-    let substr = item.contents.substring(min, max)
-    substr = substr.replace(pattern, '<span class="mark">$&</span>')
+    let min = Math.max(index - snipLength, 0)
+    let max = Math.min(index + snipLength, item.contents.length)
+    if (min == 0) max = 2 * snipLength
+
+    let substr = highlight(item.contents.substring(min, max), pattern)
     const firstSpace = substr.indexOf(" ")
     const lastSpace = substr.lastIndexOf(" ")
-    return "..." + substr.substring(firstSpace, lastSpace) + " ..."
+    result = substr.substring(firstSpace, lastSpace) + " ..."
+    if (min === 0) return result
+    return " ... " + result
 }
 
 function executeSearch(searchQuery) {
@@ -35,25 +43,28 @@ function executeSearch(searchQuery) {
             const index = data.slice(1, length + 1)
 
             const pattern = new RegExp(searchQuery, 'gi');
-            const result = index.filter(item => {
+            let result = [];
+            for (let item of index) {
                 let match = null;
-                let index = 0;
-                for (var i = 0; i < keys.length; i++) {
-                    const key = keys[i];
-                    if (!item[key]) {
-                        continue;
-                    }
-                    match = pattern.exec(item[key])
-                    if (key === 'contents' && match) {
-                        index = match.index
-                    }
+                let i = 0;
+
+                match_title = pattern.exec(item.title)
+                match_contents = pattern.exec(item.contents)
+
+                if (match_title) {
+                    result.unshift(item)
+                    item.title = highlight(item.title, pattern)
+                } else if (match_contents) {
+                    result.push(item)
+                    i = match_contents.index
                 }
-                if (match) {
-                    item.snippet = makeSnippet(item, index, pattern);
-                    return true;
+
+                if (match_title != null || match_contents != null) {
+                    item.snippet = makeSnippet(item, i, pattern);
                 }
-                return false;
-            });
+
+            }
+            console.log(result)
             populateResults(result);
         };
     }
