@@ -30,6 +30,7 @@ Please add your tips by commenting or suggesting on this <a target="_blank" href
 People interested in EA often face challenges that keep them from getting more involved in the community, and from taking actions based on EA principles. We list some common bottlenecks here. 
 
 People may:
+
 * Hold different beliefs to others in their community, especially a different cause prioritisation
 * Have other things they’d prefer to do than attend an EA event or consume EA content 
 * Do not have enough time to attend an EA event or consume EA content  
