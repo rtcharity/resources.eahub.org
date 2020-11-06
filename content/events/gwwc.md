@@ -1,5 +1,5 @@
 ---
-title: gwwc
+title: Giving What We Can and EA Groups
 weight: 10
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
