@@ -5,12 +5,13 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 6th October 2020_
+### _Updated 7th November 2020_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
+* <a href="#eaanywhere"> EA Anywhere</a>
 * <a href="#eauq"> EA University of Queensland, Australia</a>
 * <a href="#eve"> Eve McCormick - EA Cambridge, UK </a>
 * <a href="#stanford"> Stanford EA, USA</a>
@@ -20,6 +21,22 @@ This page features different groups and community organisers around the world.
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="eaanywhere"></a>
+# EA Anywhere
+### _Published 7th November 2020_
+
+<p class="large_image_wrapper">
+ <img src="/img/samimarisa.jpg" />
+</p>
+
+_Marisa and Sami, co-organisers of EA Anywhere, and their pets._
+
+## Describe your group
+
+
 
 <hr>
 
