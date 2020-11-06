@@ -34,7 +34,7 @@ This page covers ways Effective Altruism Groups can promote the ideas of effecti
    * <a href="#media">Local/University Media</a>
    * <a href="#stories">Member Stories</a>
    * <a href="#fundraisers">Fundraisers</a>
-   * <a href="#speaker">Talks</a>
+   * <a href="#speaker">Guest Speaker Events</a>
 
 
 <a name="about"></a> 
@@ -175,7 +175,7 @@ It is important to remember that people come from many different financial backg
 
 Being aware of how this is a sensitive topic can allow you to promote GWWC in a more respectful and considerate way.
 
-### Depicting poverty**
+### Depicting poverty*
 
 Giving What We Can is cause-neutral, however many groups focus on the impact of effective global health and poverty charities when discussing GWWC. If you are focusing on this cause area, be very careful about how you depict poverty in general. <a target="_blank" href="https://forum.effectivealtruism.org/posts/EdCcG8M5dbYH4XSqQ/guidelines-on-depicting-poverty">You can find helpful guidelines on depicting poverty in this Forum post</a>.
 
@@ -270,7 +270,7 @@ Members who’ve taken the pledge will often talk about how they came to sign a 
 
 <a name="photo"></a> 
 
-# Photo Drive
+## Photo Drive
 
 Some groups run photo drives on social media to promote GWWC. Members who have taken a pledge submit pictures and quotes on why they took their pledge. These are then posted incrementally on social media. 
 
@@ -367,7 +367,7 @@ One-on-one chats can be an effective way to get someone to seriously consider ta
 
 <a name="media"></a> 
 
-# Local / University Media
+## Local / University Media
 
 Write an editorial, a letter to the editor, or submit press release – especially around key dates such as a milestone (e.g. 5,000 members) or during a pledge drive. Please get in touch with <a target="_blank" href="mailto:community@givingwhatwecan.org">community@givingwhatwecan.org</a> if you’re going to speak with the media.
 
