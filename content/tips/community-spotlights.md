@@ -36,6 +36,23 @@ _Marisa and Sami, co-organisers of EA Anywhere, and their pets._
 
 ## Describe your group
 
+EA Anywhere is a community for people who can't attend local EA groups to have regular online meetings to discuss EA ideas and support each other with their goals to have a positive impact. Essentially, we’re a “local group” for people who don’t live near local groups, and we’re doing our best to make sure that every aspiring EA has the opportunity to engage with the community, regardless of geographic location.
+
+## How did you start your group?
+
+During the pandemic, one of our organizers (Sami) was “adopted” by two EA groups, where he joined their online meetings and book clubs. However, as local restrictions in many countries loosened, local groups began returning to hosting in-person meetings, and these virtual meetings became less frequent. Sami wanted to continue to foster a place for EAs without local communities to connect, and <a target="_blank" href="https://forum.effectivealtruism.org/posts/fcdt2NRABS9Zfrzfu/announcing-the-ea-virtual-group">came up with what’s now EA Anywhere</a>.
+
+## What has been your most successful event, and why?
+
+In October, we had Ought host a workshop called “Forecasting Questions You Care About,” which helped participants understand how to forecast and apply forecasting skills to donation, career, cause prioritization, and personal decisions. It was our most popular event, and likely for a good reason -- a lot of people in EA hear a lot of hype about forecasting, but many of them either don’t think it’s a good practical use of their time or don’t know how to get started. The workshop offered an accessible introduction to forecasting in a way that was also immediately usable for their day-to-day decision-making.
+
+## What is the strength of your group?
+
+Being a totally virtual group, we’re able to offer connections to the EA community that are accessible to almost anyone. Even if someone lives near an EA local group, many people can’t attend because of work or family commitments, transportation issues, venue accessibility, and more. We hope that having a virtual group that anyone can join means that no one gets left behind in EA due to these factors.
+
+## What challenges have you faced as a group?
+
+As a relatively new group, we’re trying to learn how to scale thoughtfully and gracefully. We have 80 members on our Slack, and have had meetings with anywhere from 6-30 people, but we know there are way more people in the EA community that could benefit from a group like EA Anywhere. We also want to be mindful of not growing too fast and losing the sense of community that makes local groups so valuable. 
 
 
 <hr>
