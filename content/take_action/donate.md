@@ -5,9 +5,9 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 21st September 2019*
+### *Published 21st September 2019. Updated 6th November 2020*
 
-This section provides resources for an introduction to effective giving, stories of current EA donors, advice on donating, and a list of ways you can pledge a certain amount of your income. 
+This section links resources about effective giving, a list of EA funds and charity evaluators, advice on donating efficiently, and a list of giving pledges. 
 
 # Contents
 * <a href="#howrichareyou">How Rich Are You?</a>
@@ -22,7 +22,7 @@ This section provides resources for an introduction to effective giving, stories
 
 Even if it seems like you have relatively little to give, you may be richer than you think. Try this <a target="_blank" href="https://www.givingwhatwecan.org/get-involved/how-rich-am-i/">online calculator</a> from <a target="_blank" href="https://www.givingwhatwecan.org/">Giving What We Can</a>, to see where you fall on the world income scale and to see what you would achieve with your donation if you chose to direct your donation to a few specific charities. 
 
-For example, if an average wage earner in the UK was to donate 10% of their income, their donations could fund:
+For example, if an average wage earner in the UK was to donate 10% of their income to one of the GiveWell recommended Global Health charities, their donations could fund:
 
 <p class="xl_image_wrapper">
 <img src="/img/gwwcimpact.png" />
@@ -34,10 +34,11 @@ To learn more about the importance of effective giving, see REG’s introductory
 
 # Choosing Where to Give
 
-Finding an organisation to donate to can be challenging. Thankfully, there are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
+There are some organisations that evaluate charities and recommend outstanding giving opportunities, and expert fund managers that can direct your donations. Their recommended charities are characterised by evidence of impact, cost-effectiveness, transparency and room for more funding.
 
 ## Strategies for choosing where to give
-80,000 Hours has a <a target="_blank" href="https://80000hours.org/articles/best-charity/">step-by-step guide</a> to choosing where to give, based on your preferences, current knowledge, and the time you have available.
+80,000 Hours has a <a target="_blank" href="https://80000hours.org/articles/best-charity/">step-by-step guide</a> to choosing where to give, based on your preferences, current knowledge, and the time you have available. This is highly recommended reading.
+
 
 ## Charity Evaluators
 
@@ -84,7 +85,7 @@ This has an advantage over simply donating if you believe a donation of $100,000
 * <a target="_blank" href="https://donationswap.eahub.org/charities/">Table of EA-recommended charities and tax-deductible status by country</a>. This table also includes a tax-efficient way of donating to each charity from each country. Remember that charities vary a huge amount in how cost-effective they are. If you get a 30% tax credit for donating, it is better to donate to a charity you think is best, rather than donating 30% more to a tax deductible charity, if you believe the best charity is more than 30% more cost-effective than the tax-deductible charity.  
 * If your chosen charity isn’t tax deductible in your country you can apply to <a target="_blank" href="http://donationswap.eahub.org">swap your donations with an international donor</a>.  If you are in a country with a large number of tax-deductible EA charities (e.g. UK, US, Canada, Netherlands, Germany, Switzerland), you may wish to use the <a target="_blank" href="http://donationswap.eahub.org">donation swap system</a> to help other donors get tax deductions.
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/tNfDWLzBMi9HnoTkE/uk-income-tax-and-donations">Understanding tax for UK donors</a>. 
-* <a target="_blank" href="https://www.benkuhn.net/giving-101#be-aware-of-how-taxes-work">Guide to tax for US donors</a>.  Note: the standard deduction has increased since this article was written. Find the current standard deduction <a target="_blank" href="https://www.irs.gov/help/ita/how-much-is-my-standard-deduction">here</a>.  
+* <a target="_blank" href="https://medium.com/@aaronhamlin/your-guide-to-charitable-giving-and-taxes-a7c0f44c922">Guide to tax for US donors</a> by Aaron Hamlin. Note: the standard deduction amount changes over time. Find the current standard deduction <a target="_blank" href="https://www.irs.gov/help/ita/how-much-is-my-standard-deduction">here</a>.  
 
 
 ### Donation Funneling Organisations
@@ -103,6 +104,7 @@ There are several EA organisations worldwide that can ‘funnel’ tax-deductibl
 * 80,000 Hours <a target="_blank" href="https://80000hours.org/articles/should-you-wait/">outlines the arguments for giving now and giving later</a>.
 * If you’re early in your career, you may want to consider <a target="_blank" href="https://forum.effectivealtruism.org/posts/3ijnLaws7mCEogD6H/earning-to-save-give-1-save-10">earning to save</a> rather than donating immediately.
 * Paul Christiano discusses the reasons for and against <a target="_blank" href="https://rationalaltruist.com/2013/03/12/giving-now-vs-later/">giving now and giving later</a>.
+* Philip Trammell makes a strong argument for investing your money in order to give it later, perhaps centuries later, in this <a target="_blank" href="https://80000hours.org/podcast/episodes/phil-trammell-patient-philanthropy/"> 80,000 Hours podcast about ‘patient philanthropy’.</a>
 * Economist Eva Vivalt discusses why <a target="_blank" href="https://evavivalt.com/2019/07/give-later">she now favours giving later</a>. 
 * If you want to allocate your donations later, but still want the money to come out of your bank account now, you can <a target="_blank" href="https://80000hours.org/2013/06/how-to-create-a-donor-advised-fund/">create a Donor Advised Fund</a>. This will allow you to get psychological and tax benefits that go along with donating now, and you can choose later where the money goes. Donor Advised Funds can only grant to registered charities in your country, so the use of your money is restricted.
 
@@ -118,7 +120,7 @@ There are several EA organisations worldwide that can ‘funnel’ tax-deductibl
 
 # Take a Pledge to Donate in the Future
 
-* <a target="_blank" href="http://givingwhatwecan.org">The Giving What We Can Pledge</a> - A commitment to give 10% or more to effective causes while working, and 1% of spending money while a student or unemployed.
+* <a target="_blank" href="http://givingwhatwecan.org"> Giving What We Can</a> -A range of giving pledges  for anybody to commit to donate a significant portion of their income (the most common is the 10% lifetime pledge, but you can start at 1% with Try Giving) to whichever organisations can most effectively use it to improve the lives of others.
 * <a target="_blank" href="https://founderspledge.com/">Founder’s Pledge</a> - A giving pledge for entrepreneurs and startup founders to give 2% or more of their personal proceeds.
 * <a target="_blank" href="https://reg-charity.org/">Raising for Effective Giving</a> - A giving pledge for professional poker players.
 * <a target="_blank" href="https://www.givingalpha.org/">GivingAlpha</a> - A pledge for people in the finance industry.
