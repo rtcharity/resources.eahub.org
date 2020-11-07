@@ -369,7 +369,7 @@ One-on-one chats can be an effective way to get someone to seriously consider ta
 
 ## Local / University Media
 
-Write an editorial, a letter to the editor, or submit press release – especially around key dates such as a milestone (e.g. 5,000 members) or during a pledge drive. Please get in touch with <a target="_blank" href="mailto:community@givingwhatwecan.org">community@givingwhatwecan.org</a> if you’re going to speak with the media.
+Write an editorial, a letter to the editor, or submit a press release – especially around key dates such as a milestone (e.g. 5,000 members) or during a pledge drive. Please get in touch with <a target="_blank" href="mailto:community@givingwhatwecan.org">community@givingwhatwecan.org</a> if you’re going to speak with the media.
 
 Examples:
 
