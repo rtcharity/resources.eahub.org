@@ -175,7 +175,7 @@ It is important to remember that people come from many different financial backg
 
 Being aware of how this is a sensitive topic can allow you to promote GWWC in a more respectful and considerate way.
 
-### Depicting poverty*
+### Depicting poverty
 
 Giving What We Can is cause-neutral, however many groups focus on the impact of effective global health and poverty charities when discussing GWWC. If you are focusing on this cause area, be very careful about how you depict poverty in general. <a target="_blank" href="https://forum.effectivealtruism.org/posts/EdCcG8M5dbYH4XSqQ/guidelines-on-depicting-poverty">You can find helpful guidelines on depicting poverty in this Forum post</a>.
 
