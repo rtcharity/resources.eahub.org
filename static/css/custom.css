@@ -700,6 +700,10 @@ h3 {
 /* mobile responsive */
 @media(max-width: 768px) {
 
+  body {
+    padding-top: 90px;
+  }
+
   .article {
     padding-left: 20px;
     padding-right: 20px;
