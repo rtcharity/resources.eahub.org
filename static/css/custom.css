@@ -430,10 +430,6 @@ h3 {
 .navbar li {
   float: none;
 }
-.navbar li:hover{
-  transform: scale(1.1);
-  font-weight: 500;
-}
 .navbar li a {
   padding: 5px 15px 5px 0px;
   color: white;
@@ -524,18 +520,11 @@ h3 {
   padding-inline-start: 20px;
 }
 
-.navbar-signup-md {
+.search-bar {
   display: inline-block;
   float: right;
-  margin-right: 0px;
-  margin-top: 17px;
-}
-.navbar-signup-md li {
-  display: inline-block;
-}
-
-.navbar-signup-xs {
-  display: none !important;
+  margin-right: 30px;
+  margin-top: 14px;
 }
 
 #logo_home_desktop {
