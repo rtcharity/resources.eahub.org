@@ -1,6 +1,6 @@
 # EA Hub Resource Trail Reboot
 
-Rebooting the resource trail of the EA Hub
+Rebooting the resource trail of the EA Hub!!
 
 Current URL: https://elated-khorana-9gb345.netlify.com
 

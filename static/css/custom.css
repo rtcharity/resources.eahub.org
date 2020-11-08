@@ -4,6 +4,12 @@ body {
   padding-top: 50px;
 }
 
+.mark {
+  background-color: #bce0db;
+  padding: 0;
+  margin: 0;
+}
+
 a:hover {
   opacity: 0.5
 }
@@ -424,10 +430,6 @@ h3 {
 .navbar li {
   float: none;
 }
-.navbar li:hover{
-  transform: scale(1.1);
-  font-weight: 500;
-}
 .navbar li a {
   padding: 5px 15px 5px 0px;
   color: white;
@@ -518,18 +520,11 @@ h3 {
   padding-inline-start: 20px;
 }
 
-.navbar-signup-md {
+.search-bar {
   display: inline-block;
   float: right;
-  margin-right: 0px;
-  margin-top: 17px;
-}
-.navbar-signup-md li {
-  display: inline-block;
-}
-
-.navbar-signup-xs {
-  display: none !important;
+  margin-right: 30px;
+  margin-top: 14px;
 }
 
 #logo_home_desktop {
@@ -705,6 +700,10 @@ h3 {
 /* mobile responsive */
 @media(max-width: 768px) {
 
+  body {
+    padding-top: 90px;
+  }
+
   .article {
     padding-left: 20px;
     padding-right: 20px;
@@ -852,6 +851,10 @@ h3 {
 
   .content {
     width: 100%;
+  }
+
+  .search-bar {
+    margin-right: 10px;
   }
 
   .site-menu-desktop {
