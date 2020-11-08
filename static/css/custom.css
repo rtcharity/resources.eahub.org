@@ -853,6 +853,10 @@ h3 {
     width: 100%;
   }
 
+  .search-bar {
+    margin-right: 10px;
+  }
+
   .site-menu-desktop {
     display: none;
   }
