@@ -4,7 +4,7 @@ weight: 5
 pictogram: /img/events.png
 resourceForGroups: true
 ---
-### _Published 12th October 2019. Updated 11th April 2020._
+### _Updated 16th November 2020._
 
 <p class="large_image_wrapper">
 <img src="/img/eventeaf.png" />
@@ -44,17 +44,22 @@ Speaker events involve a guest speaker giving a presentation, workshop, Q&A, or 
 ## Intermediate Workshops - _Coming Soon_
 These workshops are designed for audiences that are familiar with effective altruism, but haven’t necessarily read a lot about EA concepts and cause areas.
 
-## Clubs Fairs and Tabling (Uni Groups) - _Coming Soon_
+## [Clubs Fairs and Tabling - Uni Groups](/events/clubs-fair)
 The clubs fair (otherwise known as Freshers’ Fair,  Activities’ Fair or Orientation) is the annual or bi-annual student extracurricular fair most Universities host at the beginning of the term. This is an excellent opportunity to find new people (especially first-years) to get involved in your EA group.
 
 
 ## [Fellowships (Uni Groups)](/events/fellowships)
 EA fellowships involve a small group of admitted fellows gaining a complete education in introductory EA concepts over the course of several weeks. This page is a guide for uni groups running fellowships.
 
+## [Promoting Giving What We Can and Effective Giving](/events/gwwc)
+This page covers ways Effective Altruism Groups can promote the ideas of effective giving and Giving What We Can pledges.
+
+
 ## [Retreats](/events/retreats)
 Retreats involve community members gathering for two or more days, usually out of the city. The activities vary from social activities, career planning, intensive workshops, and working on projects. 
 
 ## [Graphics for Advertising Your Events](/graphics/)
+
 
 <hr> 
 
