@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 25th August 2020_
+### _Updated 24th November 2020_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
