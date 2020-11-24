@@ -31,7 +31,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="http://forum.effectivealtruism.org/">Effective Altruism Forum</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effective.altruists/">Main Effective Altruism Group</a>
 * <a target="_blank" href="https://www.facebook.com/groups/eahangout/">EA Hangouts</a> (informal facebook group to casually discuss EA and non-EA topics)
-* <a target="_blank" href="https://www.facebook.com/EA.Virtual.Group/">The EA Virtual Group</a> is a place for people who can't attend <a target="_blank" href="http://eahub.org/groups/">local EA groups</a> to have regular online meetings to discuss EA ideas and support each other with their goals to have a positive impact.
+* <a target="_blank" href="https://www.facebook.com/EA.Anywhere.Group">The EA Anywhere Group</a> is a group for people who can't attend <a target="_blank" href="http://eahub.org/groups/">local EA groups</a> to have regular online meetings to discuss EA ideas and support each other with their goals to have a positive impact.
 
 ## Cause Areas
 
@@ -115,7 +115,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women & Non-binary</a>
 * <a target="_blank" href="https://www.wanbam.com/">WANBAM </a> connects and supports a global network of women, trans people of any gender and non-binary people interested in Effective Altruism through mentorship.
 * <a target="_blank" href="https://www.facebook.com/groups/LGBTinEA/">LGBTQIA+ people and allies</a>
-* <a target="_blank" href="https://www.facebook.com/groups/487263712002225/">Non-white ethnicity or race</a>
+* <a target="_blank" href="https://www.facebook.com/groups/487263712002225/">Underrepresented Racial & Ethnic Groups in EA</a>
 * <a target="_blank" href="https://www.facebook.com/groups/3032907556832660">Disabled and Chronically Ill People</a>
 
 ## Donations and Giving
