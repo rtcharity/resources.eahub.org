@@ -22,6 +22,7 @@ a:hover {
 .article a {
   color: #49776f !important; /* EAHub Resources Link color */
   text-decoration: underline;
+  scroll-margin-top: 65px;
 }
 
 .article_author {
