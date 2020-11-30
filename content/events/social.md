@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 10th November 2019*
+### *Published 10th November 2019, updated 29th November 2020.*
 
 Social events, where people get together to enjoy each other's company, can be great for building a sense of community. Events can be structured or unstructured, EA-themed or otherwise!
 
@@ -33,6 +33,8 @@ Social events, where people get together to enjoy each other's company, can be g
   * <a href="#wits">Wits and Wagers
     </a>
   * <a href="#quiz">Quiz Night
+    </a>
+  * <a href="#eaagainsthumanity">EA Against Humanity
     </a>
   * <a href="#one-on-ones">One-on-Ones
     </a>
@@ -115,17 +117,18 @@ Some EA groups have arranged activities that are not EA related, but can be a gr
 
 *"When thoughtful people with access to the same information reach very different conclusions from each other, we should be curious about why" - Julia Galef*
 
-'Speed Updating' (a play on the term 'speed dating') involves participants getting matched with a person that disagrees with them about a topic for around 10 minutes (can be more or less depending on the question or time available). The goal is to find out the cause of the disagreement, and potentially “update” your position. This activity has been used with excellent reviews in EA UQ, EA ANU, and EA Christchurch. Then people move onto a different question, and a different conversation partner. 
+'Speed Updating' (a play on the term 'speed dating'), also known as 'Productive Disagreements', involves participants getting matched with a person that disagrees with them about a topic for around 10 minutes (can be more or less depending on the question or time available). The goal is to find out the cause of the disagreement, and potentially “update” your position. This activity has been used with excellent reviews in EA UQ, EA ANU, and EA Christchurch. Then people move onto a different question, and a different conversation partner. 
 
 This activity can be run many times with the same group, choosing different sets of questions each time. You may wish to theme each Speed Updating session to tackle different topics. Groups have run sessions on cause prioritisation, mental health, and ethics, but there could be an infinite number of themes.  
 
 ### Choosing questions
 
 * Choose questions that you think will be accessible and not likely to be sensitive to all your attendees OR make questions optional, so people can choose to not discuss the question, for example, if they don’t know enough to answer or find the topic uncomfortable to talk about. 
-* EA New Zealands <a target="_blank" href="https://docs.google.com/document/d/1B6fGgaR3pJzOonLyQsOZyKevsKjdWB9tv57cMuFgT2M/edit#">long list of questions ranging over many topics</a>. 
+* EA New Zealands <a target="_blank" href="https://docs.google.com/document/d/1B6fGgaR3pJzOonLyQsOZyKevsKjdWB9tv57cMuFgT2M/edit#">long list of questions ranging over many topics</a> - only select a few of these questions. 
 * In cause prioritisation themed events, EA UQ set all questions as “Do you think -insert cause- is a priority?”. EA ANU used “What percentage of EA resources should be spent on -insert cause-?”.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/open?id=16S31eX_wkda4jrkvPsBWAvH1p555GuBX">cause area question cards</a>.
 * EA UQ’s <a target="_blank" href="https://drive.google.com/open?id=1-YkwLBHQmxW0XSwSU3mK4nEgBzpvo74r">open questions list</a>.
+* Spencer Greenburg's <a target="_blank" href="https://docs.google.com/spreadsheets/d/1b4W8sXLvcMe1Zana-oqkPHAwBsY1XwP4xrESw-MDPjk/edit#gid=0">spreadsheet of 59 controversial topics</a>.
 
 ### Ways of finding disagreeing partners
 
@@ -136,8 +139,8 @@ This activity can be run many times with the same group, choosing different sets
 ### Running the event
 
 * Explain the purpose of the event, and some guidelines if you feel that would be useful for your group. 
-* Here are some sample guidelines: <a target="_blank" href="https://docs.google.com/document/d/1B53j74CbdoPMlGi9-6eetl4EyHkcKqcSgEsp2KZANnA/edit#">EA Christchurch</a> (text to read out), <a target="_blank" href="https://drive.google.com/open?id=1Q1ST9f9JyQ1lwDhZgrVPTZ2tyeTgU_MyTSanwOCoBr8">EA UQ</a> (slides). 
-* Since we are actively looking for disagreements, the guidelines may set the stage for productive disagreement between participants and allow participants to avoid conversations that cause discomfort You may also wish to look over <a target="_blank" href="https://resources.eahub.org/events/articles/discussion-tips#guidelines">guidelines for discussion groups</a> for advice on how to moderate discussions if needed.  
+* Here are some sample guidelines: <a target="_blank" href="https://docs.google.com/document/d/1B53j74CbdoPMlGi9-6eetl4EyHkcKqcSgEsp2KZANnA/edit#">EA Christchurch</a> (text to read out), <a target="_blank" href="https://drive.google.com/open?id=1Q1ST9f9JyQ1lwDhZgrVPTZ2tyeTgU_MyTSanwOCoBr8">EA UQ</a> (slides), or the <a target="_blank" href="https://www.spencergreenberg.com/2017/06/productive-disagreements-an-interactive-event-format/">Productive Disagreements guide</a> from Spencer Greenburg. 
+* Since we are actively looking for disagreements, the guidelines may set the stage for productive disagreement between participants and allow participants to avoid conversations that cause discomfort. You may also wish to look over <a target="_blank" href="https://resources.eahub.org/events/articles/discussion-tips#guidelines">guidelines for discussion groups</a> for advice on how to moderate discussions if needed.  
 * Use the method chosen to get people into pairs. Let people know how long each conversation will be. 
 * Let people know when they have 1 minute remaining, and ask them to share what they’ve learnt from the conversation.
 * Repeat.
@@ -172,16 +175,19 @@ Fermi Estimation Competitions can be prepared by choosing a bunch of numerical q
 ### Question sources
 
 * <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1yZIjlQQ8xUDkwnNWjkHl9RQYevncaMXD">Harvard’s Fermi Estimation google slides</a>. Some of these questions are out of date and some are American-centric so you might want to change the questions and check the answers. This folder also contains a google spreadsheet that you can use to score the game if you wish - make a copy to put on your own google drive. 
+* <a target="_blank" href="https://drive.google.com/drive/folders/12dg-6wpeOwFxYLxxx5wUphOPwwLD9qRc?usp=sharing">EA Cambridge’s Fermi Estimate questions</a>, divided into near term- and longterm-focused.  
 * <a target="_blank" href="https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates">Examples</a> linked at the end of the LessWrong guide. 
-* Make up your own. It would be good to have some EA related questions. 
+* Make up your own. It would be good to have some EA related questions. Don’t worry too much about the quality of the questions; it’s probably better to spend time on optimising the structure of the event, ensuring that attendees know what is expected of them throughout the event. 
+
 
 ### How to run the session
 
 * Bring pens and papers for participants to use. If possible, have a whiteboard and markers so people can show their working when explaining how they solved the problem. You may also want a projector to show questions and answers.
+* If running the event virtually, having a break out rooms function is very important if you have more than 4 attendees. Zoom allows you to move participants into break out rooms to work on the problems in small groups, and then you can bring people back into the main virtual room to discuss questions and answers. <a target="_blank" href="https://docs.google.com/document/d/1JpR1ENuGgpUfiN4cc6ZfTkF_SKwzjaOn_VxpOQumHxE/edit?usp=sharing">More advice on using Zoom</a>.
 * Briefly teach the group what Fermi estimates are. You could use an example like this <a target="_blank" href="https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates">Passenger Car question</a> (alter to suit your own country), and either get people to share how they would calculate the answer, or demonstrate how you answered the question.
-* Get people to gather in groups of two or three.
+* Get people to gather in groups of two to four. The collaboration aspect seems very important for making this a fun event.
 * Set the ground rules - using pen, paper, and a calculator app on your phone is okay, but no internet!
-* Present a question, then give people a set amount of time to answer (a few minutes).
+* Present a question, then give people a set amount of time to answer (~ 5 minutes). Encourage people to chat in their groups as they go. 
 * Get each group to share their answer (and write or type it up).
 * Then reveal the answer, work out who was closest (and give them a point).
 * Ask the winning team how they worked out their answer.
@@ -217,6 +223,14 @@ Required: A computer with Excel installed and data projector.
 Questions at quiz nights can be entirely EA-themed, but can also contain non-EA related questions. Ensure you choose your questions to suit your audience, as people may not enjoy the quiz if they can’t answer many questions. 
 
 EA Penn has sample quiz questions, answers, and answers sheets <a target="_blank" href="https://drive.google.com/drive/folders/1KRRfGF7K-OYeISPYe7eSdr0osOdmD-wU">here</a>. 
+
+<a name="eaagainsthumanity"></a>
+
+## EA Against Humanity
+
+<a target="_blank" href="https://docs.google.com/document/d/1I_0HCFlOXbaLaSxAkuZ9HTWDYuTDzbxHPtKaGtmSmzg/edit">EA Against Humanity</a> is a PG-13 and EA-themed adaptation of the party game "<a target="_blank" href="https://www.cardsagainsthumanity.com/?ref=bf2020">Cards Against Humanity</a>,” in which any number of players tries to respond to a prompt with the funniest answer they can. Here are some <a target="_blank" href="https://www.youtube.com/playlist?list=PL2h7qSnUDJyZQNaBwrOFnOU4nfSiivC4c">original tutorials explaining how to set up and then play the game</a>. To create your own deck, consider using <a target="_blank" href="https://decks.rereadgames.com/">Many Decks</a> for preparation and <a target="_blank" href="https://md.rereadgames.com/#new">Massive Decks</a> for gameplay.
+EA Harvard, Stanford, and NYU Abu Dhabi have collaborated on a <a target="_blank" href="https://docs.google.com/document/d/1I_0HCFlOXbaLaSxAkuZ9HTWDYuTDzbxHPtKaGtmSmzg/edit">usable deck that is available here</a>.
+
 
 <a name="one-on-ones"></a>
 
