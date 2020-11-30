@@ -69,7 +69,7 @@ Social events are supposed to be social (obviously!), but are sometimes a lot mo
 
 If you are expecting people who are new to EA to come along to your social event, it is helpful to give a short introduction to EA - either to the whole group, or invite new people to chat with some experienced members of the group to give them an overview. 
 
-Check out the “<a target="_blank" href="/learn/communicate-ea/">Communicating about EA</a>” section for ideas on what to say in an introduction. 
+Check out the “<a target="_blank" href="/learn/communicate-ea/">Communicating about EA</a>” section for ideas on what to say in an introduction, or choose one of the <a target="_blank" href="https://resources.eahub.org/events/intro/#talks">short introductions to EA</a>. 
 
 EA London <a target="_blank" href="https://forum.effectivealtruism.org/posts/znuJ2Z48YnEjrGLvA/why-do-ea-events-attract-more-men-than-women-focus-group">analysed the gender split</a> of their events and found that their social events were male-dominated while other events (talks, reading groups) were gender-balanced, so it is worth considering whether your social events are appealing to a diverse group of people interested in EA. 
 
@@ -228,7 +228,7 @@ EA Penn has sample quiz questions, answers, and answers sheets <a target="_blank
 
 ## EA Against Humanity
 
-<a target="_blank" href="https://docs.google.com/document/d/1I_0HCFlOXbaLaSxAkuZ9HTWDYuTDzbxHPtKaGtmSmzg/edit">EA Against Humanity</a> is a PG-13 and EA-themed adaptation of the party game "<a target="_blank" href="https://www.cardsagainsthumanity.com/?ref=bf2020">Cards Against Humanity</a>,” in which any number of players tries to respond to a prompt with the funniest answer they can. Here are some <a target="_blank" href="https://www.youtube.com/playlist?list=PL2h7qSnUDJyZQNaBwrOFnOU4nfSiivC4c">original tutorials explaining how to set up and then play the game</a>. To create your own deck, consider using <a target="_blank" href="https://decks.rereadgames.com/">Many Decks</a> for preparation and <a target="_blank" href="https://md.rereadgames.com/#new">Massive Decks</a> for gameplay.
+<a target="_blank" href="https://docs.google.com/document/d/1I_0HCFlOXbaLaSxAkuZ9HTWDYuTDzbxHPtKaGtmSmzg/edit">EA Against Humanity</a> is a hilarious PG-13 and EA-themed adaptation of the party game "<a target="_blank" href="https://www.cardsagainsthumanity.com/?ref=bf2020">Cards Against Humanity</a>,” in which any number of players tries to respond to a prompt with the funniest answer they can. The game is suitable for involved group members as newcomers won't get many of the references, although you could choose to remove the more obscure references. This <a target="_blank" href="https://www.youtube.com/playlist?list=PL2h7qSnUDJyZQNaBwrOFnOU4nfSiivC4c">original tutorials explaining how to set up and then play the game</a>. To create your own deck, consider using <a target="_blank" href="https://decks.rereadgames.com/">Many Decks</a> for preparation and <a target="_blank" href="https://md.rereadgames.com/#new">Massive Decks</a> for gameplay.
 EA Harvard, Stanford, and NYU Abu Dhabi have collaborated on a <a target="_blank" href="https://docs.google.com/document/d/1I_0HCFlOXbaLaSxAkuZ9HTWDYuTDzbxHPtKaGtmSmzg/edit">usable deck that is available here</a>.
 
 
