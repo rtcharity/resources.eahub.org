@@ -5,12 +5,12 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 7th November 2020_
+### _Updated 1st December 2020_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
-
+* <a href="#jeroen"> Jeroen Willems - EA Brussels and EA Flanders, Belgium</a>
 * <a href="#eaanywhere"> EA Anywhere</a>
 * <a href="#eauq"> EA University of Queensland, Australia</a>
 * <a href="#eve"> Eve McCormick - EA Cambridge, UK </a>
@@ -23,6 +23,35 @@ This page features different groups and community organisers around the world.
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
 
 <hr>
+
+<a name="jeroen"></a>
+# Jeroen Willems - EA Brussels and EA Flanders, Belgium
+### _Published 1st December 2020_
+
+
+<img class="small_image" style="float: left" src="/img/jeroen.png" />
+
+## What first drew you to effective altruism?
+
+Back in 2016 I was reading about moral philosophy and I came across utilitarianism. It immediately made a lot of sense to me, the idea that all sentient beings matter morally and that we ought to use our time and resources to alleviate their suffering. I then came across Effective Altruism and thought all this practical advice on improving the world that people shared in the movement was really important and needed to be spread (I still think this, of course). So I looked if there were any EA events happening in my country and saw there was an EAGxFlanders so I went to it. Since then I’ve been trying to help out the amazing people from EA Flanders with various tasks, like editing videos for them.
+
+I was studying in Brussels where every couple of months someone organised a meetup. I felt there was a lot of potential there so in the summer of 2018 I brought some of the more frequent attendees together and then we started to really kick off EA Brussels. I’ve mostly been involved by creating events, such as social meetups and coworking sessions.
+
+## What is the best advice/resource you've found that you still use today?
+
+Take care of yourself first before trying to maximise your impact. Your own well-being is super important if you want to be effective at improving the world. This may mean taking time to meditate, exercise, yoga, going for walks, eating well, sleeping well... The time you spend on these activities is not time wasted. You don’t want to burn out.
+
+## What has the community come to mean to you? 
+There are so many kind people in this movement. I tend to be a bit nervous in general when meeting new people, but this isn’t the case when I meet other aspiring effective altruists. Because I know they have similar values and intentions as me. Seeing and meeting these wonderful people is a big motivator for me to keep organising events for EA Brussels.
+
+## How do you spend your leisure time? 
+I recently finished my masters in television directing and I made a <a target="_blank" href="https://www.youtube.com/watch?v=7PxkDkl_ylw&">video on preventing engineered pandemics</a> for it, inspired by Toby Ord’s The Precipice chapter on pandemics. I know that technically isn’t leisure time, but I really enjoyed making the video. Other than that I like watching sitcoms, listening to the 80,000 Hours podcast, scrolling on Twitter…
+
+## What do you think the biggest mistake EA has made so far?
+
+Probably promoting ‘earning to give’ as much as they did in the past. When I first discovered EA it took me about two months to get fully behind the movement, I think one of the main things that initially put me off was the idea of earning to give. While I agreed with it rationally, emotionally I didn’t feel like doing my best to earn as much money as possible at all. I think it’s great that 80,000 Hours recognized this and promotes other career paths more now.
+
+
 
 <a name="eaanywhere"></a>
 # EA Anywhere
