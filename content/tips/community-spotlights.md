@@ -51,7 +51,7 @@ I recently finished my masters in television directing and I made a <a target="_
 
 Probably promoting ‘earning to give’ as much as they did in the past. When I first discovered EA it took me about two months to get fully behind the movement, I think one of the main things that initially put me off was the idea of earning to give. While I agreed with it rationally, emotionally I didn’t feel like doing my best to earn as much money as possible at all. I think it’s great that 80,000 Hours recognized this and promotes other career paths more now.
 
-
+<hr>
 
 <a name="eaanywhere"></a>
 # EA Anywhere
