@@ -99,7 +99,6 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/economicsofdoinggood/">Economics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/ea.entrepreneurship/">Entrepreneurs</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1067597556684941/">Operations</a>
-* <a target="_blank" href="https://www.facebook.com/groups/872637816229205/">Management Consultants</a>
 * <a target="_blank" href="https://www.facebook.com/groups/355817418404233/">Policy and Politics (careers)</a>
 * <a target="_blank" href="https://www.facebook.com/groups/MarketingEAinLondon">Marketing & Communications</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effectivemedia">Media & Journalism</a>
