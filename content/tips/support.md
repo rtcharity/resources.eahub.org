@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 4th January 2020_
+### _Updated 4th January 2021_
 
 # Guidance from the Centre for Effective Altruism (CEA)
 
