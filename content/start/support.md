@@ -80,15 +80,11 @@ If your group is a registered uni group, you can apply for funding through your 
 <a name="website"></a>
 # Optional: Get a Website and an EA Email Address
 
-Most groups get by using only Facebook, Meetup.com, and a Gmail address for their group, so new groups should carefully consider whether they need a website or an official looking email address. If your group is part of a national group, you could also see whether it’s possible to have a page on your national group’s website, and to have email addresses using the national group’s domain.
+Most groups get by using only Facebook, Meetup.com, and a Gmail address for their group, so new groups should carefully consider whether they need a website or an official-looking email address. If your group is part of a national group, you could also see whether it’s possible to have a page on your national group’s website, and to have email addresses using the national group’s domain.
 
-By creating a website and email addresses you are committing to keeping your website up to date and checking your email regularly and responding to any messages. 
+Remember, by creating a website and email addresses you are committing to keeping your website up to date and checking your email regularly and responding to any messages. 
 
-CEA can provide groups with <a target="_blank" href="https://docs.google.com/document/d/1wuGqPa8IAbJpM7WcDBbaSqt-E63fwZnCfiKKFeHnEAo/edit#heading=h.2rca39c46kkt"> website and email addresses</a>. Contact the Groups Team on 
-<a target="_blank" href="mailto:groups@centreforeffectivealtruism.org
-">groups@centreforeffectivealtruism.org
-</a> for more information. 
-
+CEA can help groups with websites and email addresses. Check out these <a target="_blank" href="https://docs.google.com/document/d/1wuGqPa8IAbJpM7WcDBbaSqt-E63fwZnCfiKKFeHnEAo/edit#heading=h.2rca39c46kkt"> instructions</a> to see the different options.
 
 
 <hr>
