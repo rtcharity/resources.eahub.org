@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 14th October 2019_
+### _Updated 4th January 2020_
 
 # Guidance from the Centre for Effective Altruism (CEA)
 
@@ -13,11 +13,11 @@ The <a target="_blank" href="https://www.centreforeffectivealtruism.org/team/#gr
 
 # Groups Newsletter
 
-CEA and EA London send out a monthly EA Groups newsletter. <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">Sign up</a> or read some of the <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">previous groups newsletters</a>.
+CEA sends out a monthly EA Groups newsletter. <a target="_blank" href="https://effectivealtruism.us8.list-manage.com/subscribe?u=52b028e7f799cca137ef74763&id=7d52b2f96c">Sign up</a> or read some of the <a target="_blank" href="https://us8.campaign-archive.com/home/?u=52b028e7f799cca137ef74763&id=7d52b2f96c">previous groups newsletters</a>.
 
 # Connect with Other Organisers
 
-The <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook group</a> is a great place to ask questions. There is also an <a target="_blank" href="https://eagroups.slack.com/">EA Groups Slack workspace</a>, where you can share resources and ask questions. Ask the CEA Groups Team, or a fellow EA group organiser to invite you to the workspace.
+The <a target="_blank" href="https://www.facebook.com/groups/956362287803174/">EA Group Organizers Facebook group</a> is a great place to ask questions. There is also an <a target="_blank" href="https://eagroups.slack.com/">EA Groups Slack workspace</a>. Email <a target=”_blank” href="mailto:groups@centreforeffectivealtruism.org">groups@centreforeffectivealtruism.org</a> to get added to the Slack.
 
 Here are some ways to find other groups to ask if they’d be willing to give you a hand:
 
@@ -48,10 +48,10 @@ Catherine Low - Centre for Effective Altruism
 
 ### Group Technical Needs - Websites and Email Addresses:
 
-Catherine Low - Centre for Effective Altruism
+CEA can provide groups with <a target="_blank" href="https://docs.google.com/document/d/1wuGqPa8IAbJpM7WcDBbaSqt-E63fwZnCfiKKFeHnEAo/edit#heading=h.2rca39c46kkt"> website and email addresses</a>. Contact the Groups Team on 
 <a target="_blank" href="mailto:groups@centreforeffectivealtruism.org
 ">groups@centreforeffectivealtruism.org
-</a>
+</a> for more information. 
 
 ### Community Health, Issues:
 
