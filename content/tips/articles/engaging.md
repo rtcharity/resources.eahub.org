@@ -127,9 +127,9 @@ The EA Resource Hub will publish advice on running EA projects in the future.
 
 <hr>
 
-### [NEXT: Models of Movement Building](/tips/articles/models)
+### [BACK: Models of Movement Building](/tips/articles/models)
 
-### [BACK: Priorities](/tips/articles/priorities/)
+### [NEXT: Publicity](/tips/publicity/)
 
 <hr>
 
