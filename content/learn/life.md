@@ -3,9 +3,9 @@ title: Sustaining an EA Lifestyle
 weight: 6
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 16th March 2020_
+### _Updated 6th January 2021_
 
 <p class="large_image_wrapper">
 <img src="/img/ealondonpicnic.png" />
@@ -40,8 +40,11 @@ Many people in the EA community have contributed advice and shared their experie
 * Elizabeth on <a target="_blank" href="https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it">Burnout: What it is and how to treat it</a>.
 * Holly Morgan on <a target="_blank" href="http://www.thelifeyoucansave.org/Blog/ID/10/But-Im-not-doing-enough-Dealing-with-guilt-as-an-effective-altruist">dealing with guilt as an effective altruist</a>.
 * The long (but excellent) <a target="_blank" href="http://doingguiltbetter.com">"Replacing Guilt Series"</a> by Nate Soares on dealing with guilt productively. 
-* Holly Morgan on <a target="_blank" href="https://forum.effectivealtruism.org/posts/DeYLsacSsB5mRw3XC/scrupulosity-my-eagxboston-2019-lightning-talk">scrupulosity</a> (feelings of excessive guilt and moral personal responsibility).
+* Holly Morgan on <a target="_blank" href="https://forum.effectivealtruism.org/posts/DeYLsacSsB5mRw3XC/scrupulosity-my-eagxboston-2019-lightning-talk">scrupulosity</a> (feelings of excessive guilt and moral personal responsibility) and <a target="_blank" href="https://www.thelifeyoucansave.org/blog/But-Im-not-doing-enough-Dealing-with-guilt-as-an-effective-altruist/">dealing with guilt as an effective altruist</a>.
 * Hayden Wilkinson's talk on <a target="_blank" href="https://www.youtube.com/watch?v=smAkJrDfyjg">"Doing less good, but for good reason"</a> presents a mathematical approach to considering burnout risk. 
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/YwB4mXRczcQxubMP2/fun-does-not-preclude-burnout-by-andrew-critch">"Fun does not preclude burnout"</a> by Andrew Critch
+* Leah Libresco on <a target="_blank" href="https://www.patheos.com/blogs/unequallyyoked/2014/08/purity-anxiety-and-effective-altruism.html">"Purity, Anxiety and Effective Altruism"</a>.
+* The Unit of Caring with <a target="_blank" href="https://theunitofcaring.tumblr.com/post/136584239546/i-just-finished-with-college-i-want-to-make-the">a Q&A on scrupulosity</a>.
 
 Many people find it helpful to be part of a community of like-minded people. To see if there is an EA group in your area check out the <a target="_blank" href="https://eahub.org/groups/">map of local groups</a>. 
 
