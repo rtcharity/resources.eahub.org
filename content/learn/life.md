@@ -49,7 +49,10 @@ Many people in the EA community have contributed advice and shared their experie
 Many people find it helpful to be part of a community of like-minded people. To see if there is an EA group in your area check out the <a target="_blank" href="https://eahub.org/groups/">map of local groups</a>. 
 
 ## EA Community point people
-Julia Wise and Sky Mayhew are <a target="_blank" href="https://forum.effectivealtruism.org/posts/hYh6jKBsKXH8mWwtc/a-contact-person-for-the-ea-community">point people</a> for the EA community. They are people you can come to with concerns about problems you’ve noticed or experienced in the EA community. The best way to contact them is <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. You can also contact Julia <a target="_blank" href="https://goo.gl/forms/oqiYRuynO37oOtYv1">anonymously</a>.
+Julia Wise and Sky Mayhew are <a target="_blank" href="https://forum.effectivealtruism.org/posts/hYh6jKBsKXH8mWwtc/a-contact-person-for-the-ea-community">point people</a> for the EA community. They are people you can come to with concerns about problems you’ve noticed or experienced in the EA community. The best way to contact them is <a target="_blank" href="mailto:julia.wise@centreforeffectivealtruism.org">julia.wise@centreforeffectivealtruism.org</a> or <a target="_blank" href="mailto:sky@centreforeffectivealtruism.org">sky@centreforeffectivealtruism.org</a>. Julia has office hours to talk about any community problems you've noticed or questions you have. 
+
+You can book a time to talk to Julia
+<a target="_blank" href="https://calendly.com/julia-d-wise">on her calendly</a>. 
 
 ## Facebook Support Group
 <a target="_blank" href="https://www.facebook.com/groups/ea.peer.support/">Peer Support Group</a> This is a private Facebook group to allow EAs going through personal struggles to support each other. Contact <a target="_blank" href="https://www.facebook.com/stafforini">Pablo</a> on Facebook to be added to the group.
