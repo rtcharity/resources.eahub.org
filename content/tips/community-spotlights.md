@@ -5,11 +5,12 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 1st December 2020_
+### _Updated 11th January 2021_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
+* <a href="#huw"> Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford </a>
 * <a href="#jeroen"> Jeroen Willems - EA Brussels and EA Flanders, Belgium</a>
 * <a href="#eaanywhere"> EA Anywhere</a>
 * <a href="#eauq"> EA University of Queensland, Australia</a>
@@ -21,6 +22,36 @@ This page features different groups and community organisers around the world.
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="huw"></a>
+# Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford
+### _Published 11th January 2021_
+
+
+<img class="small_image" style="float: left" src="/img/huw.jpg" />
+
+## What first drew you to effective altruism?
+
+In my last year of school, I'd frequently argue with a close friend about vegetarianism. They hadn't changed their diet yet, but they'd been reading up and were convinced that animal farming was a deeply unethical practice, and as a meat eater I was determined to prove them wrong. After a lot of arguments during the start of the school day, and some solo reading, I came to the conclusion that he was right, and took the plunge into vegetarianism as I arrived at university (amusingly and somewhat exasperatingly given the circumstances, my friend remains a meat eater to this day!)
+
+This was my first big foray into thinking seriously about ethical questions, and it really lit a fuse. I had a lot of fun inside and outside of my courses at university trying to make progress on what seemed to me like the only questions truly worth thinking through, and gradually (I don't remember the specific moment) learnt about Effective Altruism. Learning about the ideas was huge, equal parts relief that there were people thinking these questions through in a way that actually made sense to me, and excitement as I picked up on all these new ideas and perspectives. But I think attending my first EA Global was at least as big a moment. It was a crazily motivating experience to be surrounded by all of these amazing people who were actually out there, just wholeheartedly putting these ideas into practice. I had a really great experience, and everyone I met was incredibly lovely, and I came away determined that I was going to do the same.
+
+## What is something that in your view is consistently underrated? 
+
+Star Wars, Revenge of the Sith - I will die on this hill
+
+## What is the best advice/resource you've found that you still use today
+I think a pretty huge chunk of the progress I've made in terms of my personal wellbeing and mental health - not to mention my productivity - for the last four years have come from things in the space of setting boundaries around work, taking more time for myself and dealing with feelings of guilt about 'not doing enough'. If I had to pick a single resource that's been most helpful for me here, it'd have to be Nate Soares' <a target="_blank" href="http://mindingourway.com/guilt/">Replacing Guilt series</a> (a target="_blank" href="https://anchor.fm/guilt">podcast also available</a>).
+
+## What are your hopes for the future?
+To keel over in happiness once I can meet people in person again
+
+## How do you spend your leisure time?
+Over lockdown, I've gotten a fair bit more into board games, chess, and recently took part in an epic EA and Christmas themed D&D session with a few others from the EA Oxford committee which I predict is going to suck me into the world of D&D. I've also been picking up my guitar more often, which has been fun. 
+
+In the before-times, I loved skiing and dancing, and was beginning to get into Salsa. If I'm low on energy, my go-to is to crash on the sofa and watch a sitcom with some Ben and Jerrys.
 
 <hr>
 
