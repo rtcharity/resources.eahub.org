@@ -16,7 +16,7 @@ license:
 EA fellowships are small groups of admitted fellows which meet multiple times to learn about some aspect of effective altruism. Fellowships are an excellent way of providing people with a solid understanding of effective altruism principles and motivation to take action.
 
 
-Many groups run fellowships for their own community, and there are also online fellowships advertised on the <a target="_blank" href="https://www.effectivealtruism.org/virtual-programs/">EA Virtual Programs platform</a>, that are open to people from anywhere in the world.
+Many groups run fellowships for their own community and online fellowships open to people from anywhere in the world are advertised on the <a target="_blank" href="https://www.effectivealtruism.org/virtual-programs/">EA Virtual Programs platform</a>.
 
 Introductory fellowships usually involve groups of undergraduate students attending a series of structured group discussions and other activities every week. They allow newcomers to get a high-fidelity introduction to EA and have proven to be excellent recruitment tools for university groups. Some uni groups choose to launch their group with an introductory fellowship before later introducing other club activities.
 
