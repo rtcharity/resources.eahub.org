@@ -16,7 +16,7 @@ license:
 EA fellowships are small groups of admitted fellows which meet multiple times to learn about some aspect of effective altruism. Fellowships are an excellent way of providing people with a solid understanding of effective altruism principles and motivation to take action.
 
 
-Many groups run fellowships for their own community, and there are also online fellowships advertised on the <a target="_blank" href="https://www.effectivealtruism.org/virtual-programs/">EA Virtual Programs platform</a>, that are open to people from anywhere in the world.
+Many groups run fellowships for their own community and online fellowships open to people from anywhere in the world are advertised on the <a target="_blank" href="https://www.effectivealtruism.org/virtual-programs/">EA Virtual Programs platform</a>.
 
 Introductory fellowships usually involve groups of undergraduate students attending a series of structured group discussions and other activities every week. They allow newcomers to get a high-fidelity introduction to EA and have proven to be excellent recruitment tools for university groups. Some uni groups choose to launch their group with an introductory fellowship before later introducing other club activities.
 
@@ -84,6 +84,11 @@ Jessica McCurdy (<a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessi
 <a target="_blank" href="https://forum.effectivealtruism.org/posts/wv5GN9GuyXKjN7veq/ea-geneva-s-fellowship-a-fellowship-model-for-non-university">EA Geneva runs a fellowship for non-student community members</a>. 
 
 Some uni groups run fellowships focusing on effective career paths. Other groups run advanced fellowships to further the understanding of people who are already familiar with EA principles.
+
+# Funding
+
+CEA can provide <a target="_blank" href="https://www.effectivealtruism.org/group-support-funding/">funding for fellowship costs</a> such as books in the required reading list, Zoom subscriptions for online fellowships, room hire and snacks for in-person fellowships, advertising and more. <a target="_blank" href="https://docs.google.com/document/d/10EZpgnI1y1N6wEkS4X0FhnCY65vQB0GHTIdhaLZXUyM/edit#">Options for sourcing books</a>. 
+
 
 <hr>
 
