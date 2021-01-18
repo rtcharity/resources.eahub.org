@@ -85,6 +85,11 @@ Jessica McCurdy (<a target="_blank" href="mailto:jessica.mccurdy@yale.edu">jessi
 
 Some uni groups run fellowships focusing on effective career paths. Other groups run advanced fellowships to further the understanding of people who are already familiar with EA principles.
 
+# Funding
+
+CEA can provide <a target="_blank" href="https://www.effectivealtruism.org/group-support-funding/">funding for fellowship costs</a> such as books in the required reading list, Zoom subscriptions for online fellowships, room hire and snacks for in-person fellowships, advertising and more. <a target="_blank" href="https://docs.google.com/document/d/10EZpgnI1y1N6wEkS4X0FhnCY65vQB0GHTIdhaLZXUyM/edit#">Options for sourcing books</a>. 
+
+
 <hr>
 
 *If you have suggestions on how to improve this page, please comment or suggest edits on*
