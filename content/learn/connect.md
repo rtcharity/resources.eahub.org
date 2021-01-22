@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 10th December 2020_
+### _Updated 21st January 2021_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -40,7 +40,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/EffectiveAnimalAdvocacy/">Effective Animal Advocacy- Discussion</a>
 * <a target="_blank" href="https://www.facebook.com/groups/suffering.in.nature/">Reducing Wild Animal Suffering</a>
 * <a target="_blank" href="https://www.facebook.com/groups/wildanimalwelfareprojectdiscussion/">Wild Animal Suffering Project Discussion</a>
-* <a target="_blank" href="https://docs.google.com/spreadsheets/d/1fxYa2Oae0yOG6mtxW-whLMyFMpbhoYbfgyi_miuTUp0/edit?usp=sharing">Effective Animal Advocacy Community Directory</a> (A list of people who have indicated that they may be able to support those with interest in the area of animal advocacy)
+* <a target="_blank" href="https://bit.ly/eaadirectory_public">Effective Animal Advocacy Community Directory</a> (A list of people who have indicated that they may be able to support those with interest in the area of animal advocacy)
 
 ### Artificial Intelligence (AI) Safety
 
@@ -99,7 +99,6 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/economicsofdoinggood/">Economics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/ea.entrepreneurship/">Entrepreneurs</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1067597556684941/">Operations</a>
-* <a target="_blank" href="https://www.facebook.com/groups/872637816229205/">Management Consultants</a>
 * <a target="_blank" href="https://www.facebook.com/groups/355817418404233/">Policy and Politics (careers)</a>
 * <a target="_blank" href="https://www.facebook.com/groups/MarketingEAinLondon">Marketing & Communications</a>
 * <a target="_blank" href="https://www.facebook.com/groups/effectivemedia">Media & Journalism</a>
