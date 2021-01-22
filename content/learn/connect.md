@@ -215,7 +215,8 @@ Welfare newsletter</a> from Open Philanthropy.
 
 * The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours Podcast</a> features unusually in-depth conversations on the world’s most pressing problems and how you can use your career to solve them. 
 
-* Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>.
+* Watch talks from Effective Altruism conferences on the <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/">Centre for Effective Altruism’s youtube channel</a>, or listen to these talks on <a target="_blank" href="https://earad.io/">EA Radio</a>. 
+
 
 * <a target="_blank" href="http://rationallyspeakingpodcast.org/">Rationally Speaking Podcast</a> Julia Galef speaks to guests as they critically explore a wide range of topics in philosophy, psychology, effective altruism, economics, technology, and more. 
 
