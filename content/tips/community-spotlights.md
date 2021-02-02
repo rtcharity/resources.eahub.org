@@ -5,11 +5,12 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 11th January 2021_
+### _Updated 2nd February 2021_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
+* <a href="#pise"> Positive Impact Society Erasmus </a>
 * <a href="#huw"> Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford </a>
 * <a href="#jeroen"> Jeroen Willems - EA Brussels and EA Flanders, Belgium</a>
 * <a href="#eaanywhere"> EA Anywhere</a>
@@ -24,6 +25,62 @@ This page features different groups and community organisers around the world.
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
 
 <hr>
+
+<a name="pise"></a>
+# Positive Impact Society Erasmus, Erasmus University, Netherlands
+### _Published 2nd February 2021_
+
+
+<p class="large_image_wrapper">
+ <img src="/img/PISE_board.jpg" />
+</p>
+
+## Describe your group
+
+PISE (Positive Impact Society Erasmus) is a student EA group at Erasmus University in the
+Netherlands. Our members are students from Erasmus and nearby universities. Our active
+members currently consist of a board, fellows and five committees: community, book club,
+career, growth hacking and in-depth. We started out last summer, so most of our events so
+far have been online, but when possible we try to have offline events in small groups. Our
+events include expert talks, reading groups, fellowship collaborations, hosting career events
+and giving games for other student organizations, our own weekly focusmate sessions and
+many awesome community events.
+
+## How did you start your group?
+We started our group by looking for potential co-organizers online and in our personal
+networks. This way, we started out with six really enthusiastic organizers last summer. Our
+first events were a series of introductory online presentations about 80,000 hours, global
+priorities research and effective altruism. Through these events and a lot of online and word
+of mouth promotion, we found our first fellows and committee members around October.
+What challenges have you faced as a group, and how did you manage them?
+One of the key challenges was that we started out during COVID-19, so most of our events
+have been online. We try to still make people feel welcome and connected by doing one-on-
+ones with interested students, hosting offline events in small groups when possible and
+organizing events like Focus Friday, where members can work together via Zoom. We also
+try to use the digital era to our advantage by doing international collaborations that may not
+have been possible otherwise. For example, we collaborated with EA Stanford last semester
+and had 14 fellows take part in their introductory fellowship.
+
+## Do you have a key goal for your group? How are you working to achieve this?
+One of our key goals was to attract a diverse and large group of students. This is one of the
+reasons we experimented with our group name. It is hard to assess the counterfactual, but
+we have been told by some members that they might not have found out about us otherwise.
+We also try to collaborate with other student organizations at Erasmus on most events to
+increase our reach and the diversity of new members we attract (and overcome the founder
+effect). Our growth hacking team is currently also working on ways to reach groups that are
+underrepresented in our group. Combined, our approach has led to quite different
+demographics than in the global community (e.g. more women, more social science
+students).
+
+## What’s the biggest lesson/best advice you’ve learned from organising so far?
+
+Some of our best advice would probably be to give people a way to contribute early on.
+Figuring out how to do good can be quite daunting, but being able to contribute to
+community building right away or learn more with a mentor might help overcome this feeling.
+Most of the PISE members participated in a fellowship or reading group or joined a
+committee within weeks after first hearing about us, which we think helps people stay
+engaged, whilst also making us grow rapidly! Many hands make light work :)
+
 
 <a name="huw"></a>
 # Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford
