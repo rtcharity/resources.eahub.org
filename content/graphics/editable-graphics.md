@@ -60,11 +60,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 <a target="_blank" href="https://designer.gravit.io/?token=B8EDPH1dCZy8_0TuqpahjEFRX1MD5xLP">Editable Gravit File</a>
 
-<p class="large_image_wrapper">
-<img src="/img/logotextsideblue.png" />
-</p>
 
-<a target="_blank" href="https://designer.gravit.io/?token=fROiCU3VXN-RYClDHXLDpYMuCUzZzK7I">Editable Gravit File</a>
 
 ## Effective Altruism Logos without Group
 
@@ -94,13 +90,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 
 <a target="_blank" href="https://drive.google.com/open?id=1WZyxTman1Gxc4GQ-UcFaL3NRJ0vfqZdC">High Res png</a>
 
-<p class="large_image_wrapper">
-<img src="/img/ealogoonblue.png" />
-</p>
 
-<a target="_blank" href="https://designer.gravit.io/?token=HHTzvNBoY2mDBrkMIqkIc7_l2ydWML45">Editable Gravit file</a>
-
-<a target="_blank" href="https://drive.google.com/open?id=1tofxBWgLnZBrdlHVlcWtEJL9cKFRqNO9">High Res png</a>
 
 <p class="large_image_wrapper">
 <img src="/img/ealogoongreytextonside.jpg" />
@@ -254,13 +244,6 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 <a target="_blank" href="https://drive.google.com/open?id=1K13pIuAj0uV5Xu09IW95k34wavrc0tQb">Image png</a>
 
 
-<p class="large_image_wrapper">
-<img src="/img/whitelightbulbonblue.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1xPbZi8UCHTd_IBe4Ba-p3vgJueqEt2J5">Editable Gravit File</a>
-
-<a target="_blank" href="https://drive.google.com/open?id=1KBXrnmY38bsT09zAGtuO_b_iKDh4uenr">Image png</a>
 
 <a name="events"></a>
 # Event Advertising
@@ -329,14 +312,7 @@ Poster:
 
 <a target="_blank" href="https://drive.google.com/open?id=1FYV7e_CvzcSwWWxeQkM5wTBi6SIdN1wz">Editable Gravit File</a>
 
-Facebook:
 
-
-<p class="large_image_wrapper">
-<img src="/img/ltfevent2.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1xjUYo07y9KTpHAyT8a0PxsZfRehxuHA8">Editable Gravit File</a>
 
 ## Global Poverty
 Facebook:
@@ -348,11 +324,7 @@ Facebook:
 <a target="_blank" href="https://drive.google.com/open?id=1WNYjhozScpwhLw_MIM2AzSqftjf6a1mJ">Editable Gravit File</a>
 
 
-<p class="large_image_wrapper">
-<img src="/img/giving-game-facebook-meetup-banner.jpg" />
-</p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1ikbmaipHzgkTCuajx-Sb1Ug7MweqbnHY">Editable Gravit File</a>
 
 
 
@@ -376,14 +348,7 @@ Poster:
 
 <a target="_blank" href="https://drive.google.com/open?id=1lhnWBKarXIJm1tNcmVzPaaC8l0HRgSK4">Editable Gravit File</a>
 
-Facebook:
 
-
-<p class="large_image_wrapper">
-<img src="/img/globalhealthevent2.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1MTEXZ9uv2lDhR4HcykKaIpQbDwf-Hys_">Editable Gravit File</a>
 
 ## Animals
 
@@ -405,13 +370,7 @@ Poster:
 
 <a target="_blank" href="https://drive.google.com/open?id=1wU-caV8qfMgDQHMlQEz3ygXoRRt1vw1f">Editable Gravit File</a>
 
-Facebook:
 
-<p class="large_image_wrapper">
-<img src="/img/factoryfarmingevent2.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1XQS5iVwLxZkuywRsdcAyJ4IUTl0s2Un4">Editable Gravit File</a>
 
 <a name="brochures"></a>
 # Brochures and Flyers
