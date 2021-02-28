@@ -10,7 +10,7 @@ license:
 This page features different groups and community organisers around the world. 
 
 # Contents
-* <a href="#stijn"> EA Brussels, Belgium </a>
+* <a href="#stijn"> Stijn Bruers, EA Belgium </a>
 * <a href="#pise"> Positive Impact Society Erasmus, Erasmus University, Netherlands </a>
 * <a href="#huw"> Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford </a>
 * <a href="#jeroen"> Jeroen Willems - EA Brussels and EA Flanders, Belgium</a>
@@ -28,7 +28,7 @@ This page features different groups and community organisers around the world.
 <hr>
 
 <a name="stijn"></a>
-# EA Belgium
+# Stijn Bruers, EA Belgium
 ### _Published 1st March 2021_
 
 
