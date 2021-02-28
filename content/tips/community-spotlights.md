@@ -5,11 +5,12 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 2nd February 2021_
+### _Updated 1st March 2021_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
+* <a href="#stijn"> EA Brussels, Belgium </a>
 * <a href="#pise"> Positive Impact Society Erasmus, Erasmus University, Netherlands </a>
 * <a href="#huw"> Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford </a>
 * <a href="#jeroen"> Jeroen Willems - EA Brussels and EA Flanders, Belgium</a>
@@ -25,6 +26,32 @@ This page features different groups and community organisers around the world.
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
 
 <hr>
+
+<a name="stijn"></a>
+# EA Belgium
+### _Published 1st March 2021_
+
+
+<img class="small_image" style="float: left" src="/img/stijnsmall.jpg" />
+
+
+## What first drew you to effective altruism? 
+In my early student years, I became involved in many animal rights, social justice and environmentalist organizations. After many years of activism, I decided to look back and reflect on the effectiveness of the many ideas I encountered to improve the world. During my PhD in moral philosophy, I learned about rationality and critical thinking. Applying these rationality skills made me realize that a lot of actions were ineffective and potentially counterproductive. Changing my mind about many issues was a struggle. In that same period, around 2015, names of Peter Singer, Toby Ord and William MacAskill were popping up. These moral philosophers happened to be involved in effective altruism, doing the same exercise of effectiveness analysis that I was doing. The pieces of the puzzle fell together: the skeptical movement with its focus on science and rationality, joined forces with the social activism movement with its focus on ethics and altruism. I changed the name of my blog to The Rational Ethicist, went to EAGlobal Oxford, met other effective altruists in Belgium and co-founded EABelgium.
+
+## What is the best advice/resource you've found that you still use today?
+Definitely the 80,000 Hours website. That caused a career switch: after working at an environmental organization for many years, I decided to study economics. My PhD-research in moral philosophy made me think about the ends, what is the highest good, but we need economics to figure out the optimal means, how to most effectively do good. Now I work at the KULeuven on a research project in health and welfare economics, hoping in the future to combine my ethics and economics knowledge for cause prioritization research. A career switch and going back to study at an age of 38 seemed risky, but I’m confident that it increased my impact. 
+
+## What has the community come to mean to you?
+Its high degree of openness. Effective altruists are open to the world, by looking for scientific evidence and new opportunities to do good, they are open to others, by welcoming criticism, updating beliefs and allowing people in the movement, and they are open towards others, by being transparent about their personal beliefs and confidence levels. The way how disagreements are discussed and dealt with in the EA community is markedly different (less heated or emotional) from what I saw in other social movements. I am deeply touched by the levels of openness, mutual respect and self-criticism in the EA movement.
+
+## What do you think the biggest mistake EA has made so far?
+You see? It is beautiful to see a movement of people, sincerely asking such self-critical questions. They even drag any criticism out of you in order to improve the movement. After learning about EA, I changed my mind about a few dozens of important beliefs (see this list of my mistakes and failures). But honestly, I can’t immediately think of a biggest mistake in EA. They are ahead of me and already thought about all my potential concerns. Sorry!
+ 
+## What are your hopes for the future? 
+Cell-based meat and the expansion of our moral circle to include wild animals in the far future.
+
+
+
 
 <a name="pise"></a>
 # Positive Impact Society Erasmus, Erasmus University, Netherlands
