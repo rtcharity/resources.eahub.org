@@ -6,11 +6,10 @@ function submitForm() {
 
   $.ajax({
     //URL of netlify page resources.eahub.org is redirected to
-    url: "https://elated-khorana-9gb345.netlify.com/contact/",
+    url: "https://elated-khorana-9gb345.netlify.app/contact/",
     method: "POST",
     headers: {
-        "content-type": "application/x-www-form-urlencoded",
-        "Access-Control-Allow-Origin":"*"
+        "content-type": "application/x-www-form-urlencoded"
     },
     data: updatedForm,
     success: function(result) {
