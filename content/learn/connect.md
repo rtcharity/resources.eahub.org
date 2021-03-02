@@ -81,17 +81,17 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 * <a target="_blank" href="https://www.facebook.com/groups/1062957250383195/">Job Postings</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1392613437498240/">Effective Altruism Volunteering</a>
 
+
 ## Groups by Profession
 These groups are a good place to get feedback on specialized or specific career paths and relevant job/internship/fellowship opportunities are often posted there. There is some discussion of the profession in relation to EA.
 
 * <a target="_blank" href="https://www.facebook.com/groups/AISafetyCareers/">AI Safety</a>
 * <a target="_blank" href="https://www.facebook.com/groups/798404410293244/">Academia</a> (general)
-* <a target="_blank" href="https://www.facebook.com/groups/1696670373923332">Art & Design</a>
-* <a target="_blank" href="https://www.facebook.com/groups/1534978383462487/">Effective Altruism Fundamental Research</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1696670373923332/">Artists and Designers</a>
 * <a target="_blank" href="https://www.facebook.com/groups/biologistsineffectivealtruism/">Biologists</a>
 * Consultants: <a target="_blank" href="https://www.eac-network.com/">Website</a>, <a target="_blank" href="https://www.facebook.com/groups/872637816229205/about/">Facebook Group</a>
 * <a target="_blank" href="https://www.facebook.com/groups/706709786095975/">Data Scientists</a>
+* <a target="_blank" href="https://www.facebook.com/groups/1534978383462487/">Effective Altruism Fundamental Research</a>
 * Healthcare: <a target="_blank" href="https://www.facebook.com/groups/HealthEA">Facebook Group</a>, <a target="_blank" href="https://www.ea-med.com/">Website</a>
 * <a target="_blank" href="https://www.facebook.com/groups/926908151148921/">History</a>
 * <a target="_blank" href="https://www.facebook.com/groups/1095037267174400/">Education</a>
