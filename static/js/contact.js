@@ -9,7 +9,8 @@ function submitForm() {
     url: "https://elated-khorana-9gb345.netlify.com/contact/",
     method: "POST",
     headers: {
-        "content-type": "application/x-www-form-urlencoded"
+        "content-type": "application/x-www-form-urlencoded",
+        "Access-Control-Allow-Origin":"*"
     },
     data: updatedForm,
     success: function(result) {
