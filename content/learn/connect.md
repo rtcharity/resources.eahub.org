@@ -10,10 +10,9 @@ license:
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
 # Contents
-
+* <a href="#eaforum">EA Forum</a>
 * <a href="#onlinegroups">Online Groups</a>
 * <a href="#localgroups">Local Groups</a>
-* <a href="#eaforum">EA Forum</a>
 * <a href="#conferences">Conferences</a>
 * <a href="#eahub">EA Hub</a>
 * <a href="#newsletters">Newsletters</a>
@@ -21,8 +20,11 @@ This page has links to newsletters, fora, Facebook groups, podcasts and other wa
 * <a href="#blogs">Blogs</a>
 
 
-
+<a name="eaforum"></a>
+# EA Forum
+The <a target="_blank" href="http://forum.effectivealtruism.org">Effective Altruism Forum</a> contains in-depth posts, articles and questions on EA cause areas. You can get a nuanced understanding of specific cause areas, and see the latest research being done in the community by EA organisations and community members. 
 <a name="onlinegroups"></a>
+
 # Online Groups
 These are groups for discussion of Effective Altruism-related topics. All are Facebook Groups unless otherwise indicated as fora or LinkedIn groups. 
 
@@ -177,11 +179,11 @@ Check out the <a target="_blank" href="http://eahub.org/groups/">EA Hub Groups L
 * Special interest events are being run by some <a href="#onlinegroups">groups based on interest areas, affiliations, or professions.</a>
 * Join your <a target="_blank" href="http://eahub.org/groups/">nearest local EA group</a> to attend events they may be running.
 
-<a name="eaforum"></a>
-# EA Forum
-The <a target="_blank" href="http://forum.effectivealtruism.org">Effective Altruism Forum</a> contains in-depth posts, articles and questions on EA cause areas. You can get a nuanced understanding of specific cause areas, and see the latest research being done in the community by EA organisations and community members. 
+
 # Conferences
-If you’re able to travel, consider applying to attend an <a target="_blank" href="https://www.eaglobal.org/">EAGx or EA Global</a> conference, which are the main international conferences for the EA community.
+<a target="_blank" href="https://www.eaglobal.org/">EA Global and EAGx</a> conferences are the main international conferences for the EA community.
+
+
 
 <a name="eahub"></a>
 
