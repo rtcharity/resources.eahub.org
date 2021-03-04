@@ -98,6 +98,7 @@ These groups are a good place to get feedback on specialized or specific career 
 * <a target="_blank" href="https://www.facebook.com/groups/188495418737848/">Engineering</a>
 * <a target="_blank" href="https://www.facebook.com/groups/economicsofdoinggood/">Economics</a>
 * <a target="_blank" href="https://www.facebook.com/groups/ea.entrepreneurship/">Entrepreneurs</a>
+* Finance: Email Meg (<a target="_blank" href="mailto:">marguerite.tong@gmail.com</a>) to join the group
 * <a target="_blank" href="https://www.facebook.com/groups/1067597556684941/">Operations</a>
 * <a target="_blank" href="https://www.facebook.com/groups/355817418404233/">Policy and Politics (careers)</a>
 * <a target="_blank" href="https://www.facebook.com/groups/MarketingEAinLondon">Marketing & Communications</a>
