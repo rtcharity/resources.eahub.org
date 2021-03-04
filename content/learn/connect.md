@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 21st January 2021_
+### _Updated 4th March 2021_
 
 This page has links to newsletters, fora, Facebook groups, podcasts and other ways of keeping connected.
 
@@ -83,7 +83,7 @@ These are groups for discussion of Effective Altruism-related topics. All are Fa
 
 
 ## Groups by Profession
-These groups are a good place to get feedback on specialized or specific career paths and relevant job/internship/fellowship opportunities are often posted there. There is some discussion of the profession in relation to EA.
+These groups are a good place to get feedback on specialized or specific career paths. Relevant job/internship/fellowship opportunities are often posted in these groups.
 
 * <a target="_blank" href="https://www.facebook.com/groups/AISafetyCareers/">AI Safety</a>
 * <a target="_blank" href="https://www.facebook.com/groups/798404410293244/">Academia</a> (general)
