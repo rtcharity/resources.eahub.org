@@ -395,7 +395,7 @@ Run specific fundraisers for charities or funds, for example, around giving seas
 <a name="speaker"></a> 
 
 ## Guest Speaker Events
-Groups can run talks by charities, regranting organisations, philanthropic advisors etc. The EA Resource Hub has a <a target="_blank" href="">guide on running speaker events</a>, which includes a spreadsheet with possible speakers. You can also contact Luke at <a target="_blank" href="mailto:luke.freeman@givingwhatwecan.org">luke.freeman@givingwhatwecan.org</a> to be connected to potential speakers.  
+Groups can run talks by charities, regranting organisations, philanthropic advisors etc. The EA Resource Hub has a <a target="_blank" href="https://resources.eahub.org/events/speaker/">guide on running speaker events</a>, which includes a spreadsheet with possible speakers. You can also contact Luke at <a target="_blank" href="mailto:luke.freeman@givingwhatwecan.org">luke.freeman@givingwhatwecan.org</a> to be connected to potential speakers.  
 
 
 
