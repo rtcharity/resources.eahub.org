@@ -3,7 +3,7 @@ title: Communication
 date: 2019-09-22T23:29:55.472Z
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 ### _Published 23rd September 2019_
 
