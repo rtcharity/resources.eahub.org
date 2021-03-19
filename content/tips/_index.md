@@ -4,7 +4,7 @@ weight: 4
 pictogram: /img/tips.png
 resourceForGroups: true
 ---
-### _Published 22nd September 2019_
+### _Published 4th September 2020_
 
 <p class="large_image_wrapper">
 <img src="/img/tipseaestonia.jpg" />
@@ -24,11 +24,14 @@ How to find people who can give you guidance on running your group, and money to
 
 Ideas about prioritising group activities, and some interesting readings about how to build a thriving EA movement.
 
+
+## [Publicising Your Group](/tips/publicity)
+There’s no point in running events if no one hears about them! Make sure people know about your group and what it’s doing.
+
 ## [Organisation](/tips/organisation/)
 
 Tips on gaining leadership skills and how to organise your group.
 
-## Publicity - Coming Soon
 
 ## [Community Health](/tips/community-health)
 
