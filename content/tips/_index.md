@@ -1,5 +1,5 @@
 ---
-title: Running a Group
+title: Tips for Running a Group
 weight: 4
 pictogram: /img/tips.png
 resourceForGroups: true
@@ -43,8 +43,6 @@ Suggestions for recruiting new organisers for your group, and handing over respo
 
 ## [Communicating About Effective Altruism](/learn/communicate-ea)
 Approaches to discussing EA that various community members have found useful when talking one on one with people who are new to EA, or when delivering introductory presentations about EA.
-no one hears about them! These resources will cover tips for reaching people and ensuring good first impressions of effective altruism.
-
 <hr>
 
 ### [NEXT: Getting Support](/tips/support/)
