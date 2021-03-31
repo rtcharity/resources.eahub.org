@@ -22,7 +22,9 @@ If you’re new to EA we have a collection of introductory resources on our <a t
 * <a target="_blank" href="https://docs.google.com/document/d/1xSuVG9vMiR6okYiSvc-jW1hsdlp5HxiLO7RIKyEr_LU/edit">Nuclear Security</a>
 * <a target="_blank" href="https://drive.google.com/open?id=1uJ7MCDk0L-4znTe1Oiii5Ggc0Jh0xKf-E4Y2E9A3WFs">Biorisk</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1VOte0hgR-7h0k9m66j3dr6_FJtI07pwY5EzgiBxkTeM/edit">Mental Health</a>
+* <a target="_blank" href="https://docs.google.com/document/d/1XTWU4H4URIAO5aT-3_6fr8XgX2y-pdgKEXEjksO4aps/edit#">Improving Institutional Decision Making</a>
 * <a target="_blank" href="https://docs.google.com/document/d/16UZ1yuh3IOdfxmJKPOBu5hvTxUxbx_QBo2x2i_P60to/edit#">Further Causes</a>
+
 
 # Other Topics of Interest
 
