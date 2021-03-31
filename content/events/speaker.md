@@ -39,7 +39,9 @@ It may be useful to consider the following costs and benefits and decide if your
 
 <a name="findingaspeaker"></a>
 # Finding a speaker
-To begin, work out the rough areas of interest, then brainstorm speakers who would be good in those areas. For speakers in the EA community, a start is to look at <a target="_blank" href="https://docs.google.com/spreadsheets/d/15nMCewsmYbBH0_e9Kc-XyLqaSkoHsAYi05Jc4tv_H80/edit#gid=882852523">CEA’s speaker list</a>, or the EA Hub <a target="_blank" href="https://eahub.org/speakers/">speaker list</a>.
+To begin, work out the rough areas of interest, then brainstorm speakers who would be good in those areas. For speakers connected to the EA community, we recommend you try <a target="_blank" href="https://docs.google.com/spreadsheets/d/15nMCewsmYbBH0_e9Kc-XyLqaSkoHsAYi05Jc4tv_H80/edit#gid=882852523">CEA’s speaker list</a>. This list has people that have spoken at EA Global or EAGx conferences in the past, and you can often find the videos of their past talks on <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w">CEA's YouTube Channel</a>. Check whether they've checked "Yes" in the column "Speak for Local Group?". 
+
+The EA Hub also allows you to <a target="_blank" href="https://eahub.org/profiles/?toggle%5Bavailable_as_speaker%5D=true">filter profiles to list EAs who have offered to give talks</a>.
 
 Consider searching online to find potential speakers, and see if you can find a video of them speaking to help decide if they would be good for your event. Ask your group members for recommendations, contact nearby people in the EA community, and check the websites of nearby Universities to see if there are people working on projects that may be of interest.  If the names your group are coming up with are dominated by a particular gender or ethnic group, make an effort to search for more diverse speakers.
 
