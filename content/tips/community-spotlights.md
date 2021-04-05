@@ -5,11 +5,12 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 1st March 2021_
+### _Updated 5th April 2021_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
+* <a href="#uct"> EA University of Cape Town, South Africa </a>
 * <a href="#stijn"> Stijn Bruers, EA Belgium </a>
 * <a href="#pise"> Positive Impact Society Erasmus, Erasmus University, Netherlands </a>
 * <a href="#huw"> Huw Thomas - Groups Associate with CEA and a past organiser of EA Oxford </a>
@@ -24,6 +25,32 @@ This page features different groups and community organisers around the world.
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="uct"></a>
+# EA University of Cape Town, South Africa
+### _Published 5th April 2021_
+
+<p class="large_image_wrapper">
+ <img src="/img/uct.jpg" />
+</p>
+
+The Effective Altruism chapter at the University of Cape Town is a diverse group of students, with varying levels of knowledge of EA principles and ideas. Some members have been in the society for years and are well versed in EA topics; others are new and may have an interest in politics, philosophy, or economics, but have not directly engaged with EA ideas head on.
+
+
+The society hosts two main kinds of events: talks from guest speakers and discussion groups. Guest speakers have included Tommie Meyer, the director of the South African Centre for Artificial Intelligence Research speaking on AI safety and Matthew Henshall, founder of SkillUp tutors, on the university-to-career transition. Towards the end of 2020, we virtually hosted Ramon Grosfoguel, a professor of Chicano/Latino Studies at University of California, Berkeley who gave a seminar on the importance and methods of decolonising universities, especially in the developing world.
+
+
+Discussion groups are usually hosted by a member of the society, who gives a presentation on a topic they are interested in, followed by questions and conversation from other members of the group. Topics discussed include those common to EA, like existential risk, animal rights and effective charitable giving. Discussion groups however sometimes focus on uniquely South African issues – like the impact of COVID-19 on government-run education and housing or effective healthcare system choice for developing countries.
+
+
+The pandemic has been a challenge for everyone and has changed the way we do things. Adapting our meetings from fun, social, in-person events with coffee, tea and biscuits to fuzzy online meetings with bad connections and awkward silences was quite difficult. Everyone was figuring it out on the fly and the group did its best to keep things going throughout lockdown. For the coming year, we are much better prepared and have planned with the realities of COVID in mind. The online nature of meetings has forced us to think outside the box but also opened new possibilities. Members are encouraged to take part in fellowships and reading groups hosted by EA groups at other universities and we are partnering with an EA organisation in Rotterdam to host joint events, letting our members connect with other EAs around the globe.
+
+
+Going forward, we have made an active decision to DO more good this year, in addition to talking about doing good. We are hoping to expand the suite of activities we offer to include volunteer opportunities for members of the society. An exciting development in this area is a partnership with the Food Fortification Initiative (a GiveWell standout charity) who have asked our group to help spread awareness about the necessity of food fortification, lobby the local government and map the status of grain mills in the country.
+
+
 
 <hr>
 
