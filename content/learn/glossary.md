@@ -51,7 +51,7 @@ If you’d like to suggest more words or acronyms, or suggest improved definitio
 
 <a target="_blank" href="https://www.effectivealtruism.org/articles/prospecting-for-gold-owen-cotton-barratt/#comparative-advantage">Comparative advantage</a> - The idea that some people or groups are better placed than others to perform certain tasks, even if they are worse at that task in absolute terms. This can be applied to the level of countries (e.g., Kazakhstan has a comparative advantage in the production of Potassium) down to individuals in the EA community, e.g., the EA community has a lot of mathematicians, so Kate’s comparative advantage within the EA community might be managing staff, even though she is better at maths than management. 
 
-<a name="consequentialism"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this act. Utilitarianism is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
+<a name="consequentialism"></a> <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Consequentialism</a> - The view that the moral status of an act (how good or bad it is) is determined solely by the consequences of this act. <a target="_blank" href="https://www.utilitarianism.net/">Utilitarianism</a> is one type of consequentialism.  See ‘Deontology’ and ‘Virtue Ethics’ for some opposing views. 
 
 <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">Coordination Problem</a> - A problem that requires several people (or groups of people) to coordinate to reach the best outcome. <a target="_blank" href="https://conceptually.org/concepts/coordination-problems">The prisoner’s dilemma</a> is a famous example of a coordination problem. An EA example: People see that there is a skill that is neglected in the EA community, so they learn that skill. If too many people take this action the skill becomes oversupplied, but if we are able to coordinate we may fill all the skill shortages over time. 
 
@@ -195,7 +195,7 @@ More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnU
 
 <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0022103108001613">Moral circle</a> - The boundary drawn around those entities in the world deemed worthy of moral consideration. 
 
-<a target="_blank" href="http://priority.wiki/Moral-circle-expansion">Moral Circle Expansion (MCE)</a> - A cause area within the movement focused on expanding people’s empathy to consider all sentient beings. 
+<a target="_blank" href="https://forum.effectivealtruism.org/tag/moral-circle-expansion-1">Moral Circle Expansion (MCE)</a> - A cause area within the movement focused on expanding people’s empathy to consider all sentient beings. 
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/moral-patienthood/">Moral patienthood</a> - A description for beings that we should have moral concern for and include in a theory of the good. 
 
@@ -316,7 +316,7 @@ More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnU
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/bayes-rule/">Updating (Bayesian revision)</a> - Changing of credences in propositions as a result of receiving new evidence.
 
-<a target="_blank" href="https://concepts.effectivealtruism.org/concepts/consequentialism/">Utilitarianism</a> - A consequentialist moral theory that holds well-being as the primary good. Actions that produce more well-being are good, whereas actions that lead to a diminishment of well-being are bad. 
+<a target="_blank" href="https://www.utilitarianism.net/">Utilitarianism</a> - A consequentialist moral theory that holds well-being as the primary good. Actions that produce more well-being are good, whereas actions that lead to a diminishment of well-being are bad. 
 
 <a target="_blank" href="https://wiki.lesswrong.com/wiki/Utility">Utility</a> - Utility is how much a certain outcome satisfies the preferences of a particular being.
 
@@ -337,6 +337,8 @@ More information: <a target="_blank" href="https://www.youtube.com/watch?v=9EHnU
 # W
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/measuring-healthy-life-years/">Wellbeing Adjusted Life Year (WALY or WELBY)</a> - An extension of standard quality-adjusted life years ([QALY](#qaly))), or disability adjusted life years ([DALY](#daly)) concept to encompass a broader range of wellbeing measures, not just health. 
+
+<a target="_blank" href="https://www.utilitarianism.net/types-of-utilitarianism#welfarism">Welfarism</a> is the view that only the welfare (also called wellbeing) of individuals determines how good a particular state of the world is. Welfarism is accepted by <a target="_blank" href="https://www.utilitarianism.net/">utilitarianism</a> and many other consequentialist theories.
 
 <a target="_blank" href="https://concepts.effectivealtruism.org/concepts/wild-animal-suffering/">Wild Animal Suffering (WAS)</a> - The suffering experienced by non-human animals under natural conditions.
 
