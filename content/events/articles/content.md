@@ -48,6 +48,26 @@ This page contains ideas for readings and some example questions for discussion 
 
 ## Videos
 
+<a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w">CEA's YouTube Channel</a> has plenty of videos from EA Global and EAGx events that can provide discussion topics. The <a target="_blank" href="https://www.youtube.com/watch?v=uAp9nv2lUSg&list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">Student Summit 2020 playlist</a> has more introductory talks that might be accessible to newcomers. 
+
+Many of these videos are short (<30 minutes when the Q+A part is not played) and so could be played at the start of your event. This is a great option if many of your group members don't have the time or the inclination to read much between events.
+
+Videos that group organisers have recommended:
+* <a target="_blank" href="https://www.youtube.com/watch?v=bXJ6U13SSmA&list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7&index=18">Learn how to make better decisions</a> - Spencer Greenberg
+* <a target="_blank" href="https://www.youtube.com/watch?v=QyvzbW0XKmY">Why aren’t people donating more effectively?</a> - Stefan Schubert
+* <a target="_blank" href="https://www.youtube.com/watch?v=F8dw_Raprg8">How to replace our broken voting system</a> - Aaron Hamlin
+* <a target="_blank" href="https://www.youtube.com/watch?v=7O9Iuk6DbhE">The future of effective altruism</a> - panel
+* <a target="_blank" href="https://www.youtube.com/watch?v=AddUn9BFFkA">Philanthropy timing and the Hinge of History</a> - Phil Trammell
+* <a target="_blank" href="https://www.youtube.com/watch?v=qeUOHOCFteM">What are the best ways to improve world happiness?</a> - Michael Plant
+* <a target="_blank" href="https://www.youtube.com/watch?v=fySZIYi2goY">Evidence, cluelessness and the long term</a> - Hilary Greaves
+* <a target="_blank" href="https://www.youtube.com/watch?v=TZlk55GUYkY">What we know and don't know about Universal Basic Income</a> - Alison Fahey
+* <a target="_blank" href="https://www.youtube.com/watch?v=095kFEA-jpE">Representing Future Generations</a> - Tyler John
+* <a target="_blank" href="https://www.youtube.com/watch?v=CrMIEz_mSJM&t=407s&ab_channel=CentreforEffectiveAltruism">The Precipice</a> - Toby Ord
+* <a target="_blank" href="https://www.youtube.com/watch?v=OGasSHoFhO8">Risks from Great-Power Competition</a> - Dani Nedal
+
+## Readings with Pre-prepared Questions
+
+
 
 
 **Packing the Toolbox**
