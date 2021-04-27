@@ -5,14 +5,15 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 16th March 2020_
+### _Updated 26th April 2021_
 
-This page contains suggested reading and questions for many EA related topics. 
+This page contains ideas for readings and some example questions for discussion groups. 
 
 # Contents
-* <a href="#intro">Introduction to EA</a>
-* <a href="#poverty">Global Health and Poverty</a>
-* <a href="#animals">Animals</a>
+* <a href="#books">Books</a>
+* <a href="#videos">Videos</a>
+* <a href="#readings">Readings with worksheets</a>
+---------
 * <a href="#aisafety">AI Safety</a>
 * <a href="#catrisks">Catastrophic Risks and Far Future</a>
 * <a href="#careers">Careers</a>
@@ -22,13 +23,31 @@ This page contains suggested reading and questions for many EA related topics.
 
 <a name="intro"></a>
 
-# Introduction to EA
+## Books
 
-**Reading Group Guide - Doing Good Better**
+**Some Books that have been used in book clubs**
+* <a target="_blank" href="https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/0316484911">The Precipice</a> - Toby Ord. This is one of the most popular books for book clubs. 
+   * <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1tHbkLUCqCeYe78e2Uof3MQ2z7t6zRK1D">Precipice Reading Group Guide</a> [Source: Stanford EA]
+* <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">"Doing Good Better"</a> - William MacAskill. This is the most commonly read book that introduces EA. 
+    * <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">Doing Good Better Reading Group Guide</a> [Source: EA Estonia]
+* <a target="_blank" href="https://en.wikipedia.org/wiki/Human_Compatible">Human Compatible</a> - Stuart Russell (a target="_blank" href="https://slatestarcodex.com/2020/01/30/book-review-human-compatible/i"> Summary</a>)
+* <a target="_blank" href="https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821">The Alignment Problem</a> - Brian Christian (<a target="_blank" href="https://mailchi.mp/42ec72ef7e11/an-120tracing-the-intellectual-roots-of-ai-and-ai-alignment"> Summary</a>)
+* <a target="_blank" href="https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742">Superintelligence</a> - Nick Bostrom 
+* <a target="_blank" href="https://www.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556">The Scout Mindset</a> - Julia Galef
+* <a target="_blank" href="https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938">Poor Economics</a> - Abhijit Banerjee and Esther Duflo
+* <a target="_blank" href="https://www.amazon.com/Moral-Uncertainty-William-MacAskill/dp/0198722273">Moral Uncertainty</a> - William MacAskill, Krister Bykvist, Toby Ord. Download the  <a target="_blank" href="https://www.moraluncertainty.com/">free book here</a>. 
 
-This post includes a sample discussion guide for reading William McAskill's book <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">"Doing Good Better"</a>. 
+ 
+**Book Club Guides and Tips for Any Book**
+* <a target="_blank" href="https://resources.eahub.org/events/articles/discussion-tips/#planning">General tips on choosing questions</a> for any reading group.
+* <a target="_blank" href="https://docs.google.com/document/d/1gPi_qfO6RYr03aWIxhWrKfv7hnn6FGaOSWlTBao00hE/edit#">Instructions for the first session in a book club</a> from EA Frankfurt. 
 
-<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">Doing Good Better Reading Group Guide</a> [Source: EA Estonia]
+
+
+<a target="_blank" href="https://www.centreforeffectivealtruism.org/group-support-funding/">CEA can provide funding</a> to buy books for your book club. 
+
+## Videos
+
 
 
 **Packing the Toolbox**
