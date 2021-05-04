@@ -5,256 +5,100 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 16th March 2020_
+### _Updated 4th May 2021_
 
-This page contains suggested reading and questions for many EA related topics. 
+This page contains content ideas for EA discussion groups. Also check out these <a href="https://resources.eahub.org/events/articles/discussion-tips/">tips on how to run discussion groups</a>.
+
 
 # Contents
-* <a href="#intro">Introduction to EA</a>
-* <a href="#poverty">Global Health and Poverty</a>
-* <a href="#animals">Animals</a>
-* <a href="#aisafety">AI Safety</a>
-* <a href="#catrisks">Catastrophic Risks and Far Future</a>
-* <a href="#careers">Careers</a>
-* <a href="#meta">Meta</a>
-* <a href="#more">More Discussion Group Resources</a>
 
+* <a href="#articles">Articles</a>
+* <a href="#videos">Videos</a>
+* <a href="#books">Books</a>
+* <a href="#podcasts">Podcasts</a>
+*  <a href="#lists">Lists of possible content</a>
 
-<a name="intro"></a>
 
-# Introduction to EA
 
-**Reading Group Guide - Doing Good Better**
 
-This post includes a sample discussion guide for reading William McAskill's book <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">"Doing Good Better"</a>. 
+<a name="articles"></a>
 
-<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">Doing Good Better Reading Group Guide</a> [Source: EA Estonia]
+# Articles
 
+## Articles with pre-prepared questions or worksheets
+* <a target="_blank" href="https://resources.eahub.org/events/fellowships/">EA Fellowship</a> curricula have a carefully curated list of readings with sample questions. If your group is not running a fellowship you can adapt this content to suit standalone discussion events. Most fellowships require a couple of hours of reading per week so you might want to choose a subset of that week’s reading unless your group has plenty of time to read between meetups. 
+   * <a target="_blank" href="https://drive.google.com/drive/u/0/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y">CEA/EA Oxford Introductory fellowship</a>. They have a full curriculum and an abridged reading list (1 hour of reading per session). Each week has sample questions to discuss and exercises that could be completed in small groups during the meetup. 
+   * EA Oxford’s  <a target="_blank" href="https://eaoxford.com/indepthresources">In-Depth Fellowship curriculum</a>
+   * Harvard EA’s <a target="_blank" href="https://docs.google.com/document/d/115EmISC1o4saiY9Cc-W1kRF4mtm1KOusA4B7dhzZujs/edit">Arete Fellowship curriculum</a>
+* South Bay EA has an <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1qhY_hcD06LLtuc_aaW4SqWml6EnReUnp">extensive set of worksheets</a> that cover many EA related topics. Each topic has reading suggestions and a worksheet with discussion questions.
 
-**Packing the Toolbox**
 
-This is used as week 1 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
+## Other good sources for articles
+* <a target="_blank" href="https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb">EA Introductory Program on the EA Forum</a> (this is a similar list of content to the CEA/EA Oxford Intro Fellowship)
+* Many of the <a target="_blank" href="https://forum.effectivealtruism.org/allPosts?timeframe=allTime&sortedBy=top&karmaThreshold=-1000">top rated posts on the EA Forum</a> provide interesting discussion material.
+* The average “karma” of EA Forum posts has risen over time, so the top-rated posts don’t capture the best classic posts. Instead check out this excellent  <a target="_blank" href="https://forum.effectivealtruism.org/posts/XXAjiLpHsL8PXwovf/collection-of-good-2012-2017-ea-forum-posts-1">list of classic posts from 2012-2017</a>. 
+*  <a target="_blank" href="https://80000hours.org/problem-profiles/"> 80,000 Hours’ Problem Profiles</a> cover many key cause areas of interest to the EA community 
+* Lists of reading lists for different EA related topics:
+   *  <a target="_blank" href="https://forum.effectivealtruism.org/tag/collections-and-resources">Collections and Resources tag</a> on the EA Forum
+   * EA Resource Hub lists (<a target="_blank" href="https://resources.eahub.org/learn/about-ea/">Introductory</a>, <a target="_blank" href="https://resources.eahub.org/learn/reading-lists/">Topic specific</a>)
+ 
 
-<a target="_blank" href="https://docs.google.com/document/d/1MGJwKL_L6HNcckQdac9voOJbfqZwnEEeGS2MFltNeeQ/edit">Worksheet</a> [Source: Harvard Arete Fellowship]
+# Videos
 
-**An Immense Opportunity to Do Good**
+<a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w”>CEA’s YouTube channel</a> has recordings of EA Global and EAGx talks. Many of these talks are less than 30 minutes long if you don’t include the Q+A sections, so they can be played at the start of a meetup. This is a great option if your group members often don’t have the time to read much between meetups. 
 
-This is used as week 2 of Harvard’s Arete Fellowship. There is more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
+Some of the <a target="_blank" href="https://www.youtube.com/watch?v=uAp9nv2lUSg&list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">2020 EA Student Summit talks</a> are particularly well suited to people newer to EA.
 
-<a target="_blank" href="https://docs.google.com/document/d/1Uk0cssQojKl7KFuA0wFgYwVJl3qeLHDUx9e0oIo3Z28/">Worksheet</a> [Source: Harvard Arete Fellowship]
+Some videos that groups have tried and found worked well:
+* <a target="_blank" href="https://www.youtube.com/watch?v=QyvzbW0XKmY">Why aren’t people donating more effectively?</a> - Stefan Schubert
+* <a target="_blank" href="https://www.youtube.com/watch?v=F8dw_Raprg8">How to replace our broken voting system</a> - Aaron Hamlin
+* <a target="_blank" href="https://www.youtube.com/watch?v=7O9Iuk6DbhE">The future of effective altruism</a> - Panel discussion
+* <a target="_blank" href="https://www.youtube.com/watch?v=AddUn9BFFkA">Philanthropy timing and the hinge of history</a> - Phil Trammell
+* <a target="_blank" href="https://www.youtube.com/watch?v=qeUOHOCFteM">Best ways to improve world happiness</a> - Michael Plant
+* <a target="_blank" href="https://www.youtube.com/watch?v=fySZIYi2goY">Evidence, cluelessness, and the longterm</a> - Hilary Greaves
+* <a target="_blank" href="https://www.youtube.com/watch?v=TZlk55GUYkY">What we know and don’t know about Universal Basic Income</a> - Alison Fahey
+* <a target="_blank" href="https://www.youtube.com/watch?v=OGasSHoFhO8">Risks from great-power competition</a> - Dani Nedal
+* <a target="_blank" href="https://www.youtube.com/watch?v=CrMIEz_mSJM">The Precipice</a> - Toby Ord
+* <a target="_blank" href="https://www.youtube.com/watch?v=bXJ6U13SSmA">Decision-making workshop: learn how to make better decisions</a> -  Spencer Greenberg 
+* <a target="_blank" href="https://www.youtube.com/watch?v=095kFEA-jpE">Representing Future Generations</a> - Tyler John
 
-<a name="poverty"></a>
+You can also find a long list of  <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">EA video sources on this Forum post</a>. 
 
-# Global Health and Poverty
 
-**Global Poverty: Global Reach**
+# Books
+<a name="books"></a>
 
-This worksheet introduces a group to the issues in global poverty by asking a series of discussion questions designed to get people thinking about global versus local responsibilities and our sensitivity to what we see versus what’s happening far away. A good warm-up discussion prior to tackling specific interventions.
+Book clubs usually last for several weeks, with participants reading a chapter or two each week. CEA is able to provide funding to purchase books.
 
-<a target="_blank" href="https://docs.google.com/document/d/1Uk0cssQojKl7KFuA0wFgYwVJl3qeLHDUx9e0oIo3Z28/edit">Worksheet</a> [Source: Centre for Effective Altruism]
+Some books that groups have used in reading groups:
+* <a target="_blank" href="https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/031648492X">The Precipice</a> by Toby Ord (<a target="_blank" href="https://drive.google.com/drive/u/0/folders/1tHbkLUCqCeYe78e2Uof3MQ2z7t6zRK1D">Stanford EA’s guide</a> has sample questions)
+* <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">Doing Good Better</a> by William MacAskill (<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia’s book group guide</a> has sample questions)
+* <a target="_blank" href="https://www.amazon.com/Alignment-Problem-Machines-Learn-Values-ebook/dp/B08FPXV114">The Alignment Problem: How Can Machines Learn Human Values?</a> by Brian Christian
+* <a target="_blank" href="https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem">Human Compatible: Artificial Intelligence and the Problem of Control</a> by Stuart Russell
+* <a target="_blank" href="https://www.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556">The Scout Mindset: Why Some People See Things Clearly and Others Don't</a> by Julia Galef
+* <a target="_blank" href="https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a> by Abhijit Banerjee and Esther Duflo
+* <a target="_blank" href="https://www.amazon.com/Good-Economics-Times-Abhijit-Banerjee/dp/1610399501">Good Economics for Hard Times</a> by Abhijit Banerjee and Esther Duflo
 
-**Global Extreme Poverty Reduction**
+These final two are more technical than the rest of the list: 
+* <a target="_blank" href="https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence: Paths, Dangers, Strategies</a> by Nick Bostrom
+* <a target="_blank" href="https://www.amazon.com/Moral-Uncertainty-William-MacAskill/dp/0198722273">Moral Uncertainty</a> by William MacAskill, Krister Bykvist, Toby Ord
 
-This worksheet introduces Effective Altruism and the realities of extreme poverty. It introduces four charities designed to address extreme poverty, and focuses in on one to demonstrate the massive difference in effectiveness that can be overlooked without rigorous analysis of the intervention and its results. 
+Before choosing a book, check out a review or two and scan through the book to gauge the level, then advertise your book club accordingly.
 
-<a target="_blank" href="https://docs.google.com/document/d/168Mwein9ybhlfCkHvOf43vFB_m34054AlPJDRDoywiw/">Worksheet and links</a> [Source: LEAN]
 
-**Universal Basic Income**
+# Podcasts
+<a name="podcasts"></a>
 
-This worksheet introduces the concept of UBI and asks participants to consider pros, cons, potential efficacy at reducing poverty (in a rich nation), and in general what an EA take on UBI should be.
+* The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours podcast is a great source of interesting EA related discussions. Note that many are very long, so you might want to let your group know the sections that you think are the most important, so time-poor members can listen to the essential parts. 
+* <a target="_blank" href="https://80000hours.org/podcast/effective-altruism-an-introduction/"> Learn Effective Altruism</a> is a selection of ten 80,000 Hours podcast episodes selected to help listeners quickly get up to speed on effective altruism from a longtermist perspective.
+* Also check out this  <a target="_blank" href="https://forum.effectivealtruism.org/posts/B68gjjhZccGtWDuDh/a-list-of-ea-related-podcasts">long list of EA-related podcasts</a>
 
-<a target="_blank" href="https://docs.google.com/document/d/15TucXMOlXvF3jUkc2Ou-pf_35AkTuV2Zm55EkCyJ46s/">Worksheet</a> [Source: EA South Bay]
 
-**Global Development (Comprehensive)**
 
-This is used as week 4 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
+<a name="lists"></a>
+# Lists of possible content
 
-<a target="_blank" href="https://docs.google.com/document/d/18rKfB6InZrA-V3BGukaG8-G3WSpfYTcPZlKWY6n84MM/">Worksheet</a> [Source: Harvard Arete Fellowship]
-
-<a name="animals"></a>
-
-# Animals
-**Animal Welfare - Who Matters?**
-
-This rich and challenging worksheet contains questions and exercises designed to get a group thinking about how we value animals versus non-human animals, and what moral weight we assign to different animals and why.
-
-<a target="_blank" href="https://docs.google.com/document/d/1MoOa7VYi2xCT4e6-DZt1i4h3pKRjAT2zfyAOfetru44/">Worksheet and materials</a> [Source: EA South Bay]
-
-**Wild Animal Suffering**
-
-This worksheet asks participants to consider the inclusion of wild animal suffering in one’s circle of moral responsibility and action. Discussion centres around scope, neglectedness, priority and tractability.
-
-<a target="_blank" href="https://docs.google.com/document/d/1yzAxg5i8RU-IfUOq-MdiI7CvntUVr-q-Tmq4gAEtVGo/">Worksheet and materials</a> [Source: EAF]
-
-**Ethical Eating**
-
-This worksheet has participants jump in with some big questions around the ethical implications of eating meat. A series of questions asks the group to consider moral and empirical uncertainties, along with practical considerations and strategies.
-
-<a target="_blank" href="https://docs.google.com/document/d/1aSBWfVpdpFOVT6hjwFvc1do_ts-6Z31JOeFVf1BNfZA/">Worksheet</a> [Source: EA South Bay]
-
-**Animal vs. Human Suffering, Experiments in Advocacy (Comprehensive)**
-
-This is used as week 5 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
-
-<a target="_blank" href="https://docs.google.com/document/d/1JnfuqVzcCrpuQRPLLmGt3oCB_ZTcpVazk78QtJdtsW4/">Worksheet</a> [Source: Harvard Arete Fellowship]
-
-
-**The Future of Meat? - Introductory**
-
-This discussion group was held at a burger joint offering Beyond Burgers.
-
-Prewatching - two videos by plant-based and clean meat advocates. These two presenters are believe that we can soon move away from animal agriculture, so if you have critiques of these talks be prepared to share your thoughts at the meetup. 
-<a target="_blank" href="https://www.youtube.com/watch?v=liZtyP2tKhA">Market Forces and Food Technology will save the world: Bruce Friedrich 2018</a>, 18 minutes
-<a target="_blank" href="https://www.youtube.com/watch?v=PBmbVphZKYc">The End of Animal Farming: Jacy Reese 2018</a>, 13 minutes.
-
-<a target="_blank" href="https://drive.google.com/open?id=1lWjfKyrCaAQy_xKIxdJS0AuQMTNWKYqC">Worksheet, with some background statistics and links</a>.
-
-Things to note: If some of your group eat meat, and some think it is morally obligatory to be a vegan or vegetarian there might be some tension! It is best to move the conversation away from the morality of individual consumption habits, towards how we might be able to shift society away from animal agriculture. [Source: EA Christchurch]
-
-<a name="aisafety"></a>
-
-# AI Safety
-
-**AI Safety - Introductory**
-
-Suited for groups familiar with AI safety on a surface level only. Includes a ten-minute video followed by group discussion questions. Focus is on current use of AI versus possibilities in the future, appreciation of scope, potential impacts and risks.
-
-<a target="_blank" href="https://docs.google.com/document/d/1lRCKdrZfM4N_iGKaaCzJmxKcwBuhdG2V-G4z8pNGsOA/">Worksheet and materials</a> [Source: EA South Bay]
-
-**AI Safety - Intermediate**
-
-Suited for groups already familiar with AI safety issues. Discussion questions to focus on tractability of risk reduction solutions in the case of misaligned AI, as well as personal suitability and competitive advantage in having a positive impact.
-
-<a target="_blank" href="https://docs.google.com/document/d/16Tp2YA4S2jB8DZDjiHc3QKiBHzfORkZ79r3vrR4Dd-w/">Worksheet</a> [Source: EA South Bay]
-
-**AI Timelines**
-
-This worksheet asks participants to brainstorm and discuss possible risks, preparations and actions we could take in the face of HLMI (high-level machine intelligence), presuming three different timeline scenarios - whether the technology could be available as soon as this generation, next, or by the end of the century.
-
-<a target="_blank" href="https://docs.google.com/document/d/1K4aRcpdx6DYnS09So7Gn03jtQiBM47GQoHIjNBBJxDs/">Worksheet</a> [Source: EA South Bay]
-
-<a name="catrisks"></a>
-
-# Catastrophic Risks in General
-
-**Global Catastrophic Risk Primer**
-
-This worksheet offers a series of statements pertaining to Catastrophic Risk, and asks participants to answer the likelihood of each statement being true. Additional discussion questions address x-risk priority, charity options and efficacy. It can familiarize a group with the scope, questions and uncertainties pertaining to the topic. 
-
-<a target="_blank" href="https://docs.google.com/document/d/1eeEgSIMBT1qO3DnNk62C732rT1qY2Yq6m_2ohq_Y6oE/">Worksheet</a> [Source: EA South Bay]
-
-**The Importance of the Far Future**
-
-This worksheet begins with the question ‘Why do EAs care about the far future?’ which frames the altruistic considerations of the future and existential risk to entire populations. Discussion questions centre around moral responsibility to those not yet born, potential future risks and solutions, and reflecting on the current impact of past actions and ideas.
-
-<a target="_blank" href="https://docs.google.com/document/d/1v3eeLpTKWSCzStirtAJq2WEzToUrra7o31virBFwa2g/">Worksheet</a> [Source: EAF]
-
-**X-Risk/Far Future: Deep Dive**
-
-This is used as week 6 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
-
-<a target="_blank" href="https://docs.google.com/document/d/1bvJWOGBhZEEy5h4HFudLVxbhJmpixMYjXPGu4CogzfY/">Worksheet</a> [Source: Harvard Arete Fellowship]
-
-<a name="careers"></a>
-
-# Careers
-**Careers: Dream Job (Intro Level)**
-
-This worksheet gets a group involved in brainstorming the answer to the question ‘What’s a dream job?’. Perceived criteria are contrasted with research on job satisfaction, which frames the discussion going forward, and what a dream job might actually be. 
-
-<a target="_blank" href="https://docs.google.com/document/d/1WunhW2ShgpXbPEvIiDQGWyFgBRTe2y4os_ytC7P0i4s/">Worksheet</a> [Source: LEAN]
-
-**Careers: Explore and Share**
-
-This worksheet leads a group through steps to explore, build and stay flexible in the course of finding a career that makes a positive impact. Participants have the chance to individually complete a questionnaire designed to get them thinking in that framework, then share and discuss with the wider group. 
-
-<a target="_blank" href="https://docs.google.com/document/d/104Ymjz6lwoUE78F4yKB0ijtWyMihfr-ZeFHL21HWOVM/">Worksheet</a> [Source: EA South Bay]
-
-**Careers: 80K Deep Dive**
-
-This is used as week 3 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
-
-<a target="_blank" href="https://docs.google.com/document/d/1xfTsRhy6e1Qn2DLHS4Q2BJAc-UfPkgJa1oOEyFM9kWU/">Worksheet</a> [Source: Harvard Arete Fellowship]
-
-<a name="meta"></a>
-
-# Meta
-
-**Metaethics**
-
-This worksheet guides a group through a set of philosophical definitions and discussion questions pertaining to where our ideas about right or wrong come from, what we really mean when we make a claim of right or wrong, and encourages participants to share their reactions to moral realism versus anti-realism.
-
-<a target="_blank" href="https://docs.google.com/document/d/15HnmWtWm3xsczM5pCxO3I0r0vG_VJqBGZWNBT_yOQ1I/">Worksheet</a> [Source: EA South Bay]
-
-**Moral Uncertainty**
-
-This worksheet asks participants to confront their level of certainty on positions of morality. Can we definitively know what is right or wrong? Is uncertainty, where it exists, solvable? If it isn’t, how should we act? Participants will get a chance to engage with these questions on a variety of moral issues.
-
-<a target="_blank" href="https://docs.google.com/document/d/1S2lyoddOYUpB1YdAXh68HSJDr9r4alObc_vCZ4fUgeM/">Worksheet</a> [Source: EA South Bay]
-
-**Morality and its Limits**
-
-This worksheet asks participants to grapple with the question “How do we determine what we’re obliged to do, morally?” by reviewing Peter Singer’s argument and the objections to it. Discussion questions address our personal moral responsibilities, balance of resources, and the line between what’s reasonable and what’s too demanding.
-
-<a target="_blank" href="https://docs.google.com/document/d/1vlOyiQ9aGq5IvAtpXIJVLVoV8yJyYCL2qL4I8_p0Rhc/">Worksheet</a> [Source: EA South Bay]
-
-**Moral Catastrophes**
-
-This worksheet asks the group the review an article about the possibility of an ongoing moral catastrophe. Participants will then grapple with the implicit assumptions made in the paper and possible pathways for solution and prevention.
-
-<a target="_blank" href="https://docs.google.com/document/d/19senvriBz1up8ltDwW574wOXG5hh28TbGpUHBrVb62I/">Worksheet</a> [Source: EA South Bay]
-
-
-**Cognitive Biases**
-
-This discussion group activity includes cognitive biases cue cards, where small groups will choose from a stack and share the definition of many of our unconscious errors in thinking, and have the chance to discuss real-world examples of that bias in themselves and others, along with potential solutions for correction.
-
-<a target="_blank" href="https://docs.google.com/document/d/1csI4QQuSr7OJDZkrBHxkGxbh2kZcxuWCAiEXhP2aFpM/">Worksheet and materials</a> [Source: EA South Bay]
-
-**Cause Prioritisation**
-
-This worksheet introduces the concept of cause prioritisation by asking participants to think about whether one cause could be more worthy than another, brainstorming ways prioritisation might happen, and the value of the project of prioritization itself.
-
-<a target="_blank" href="https://docs.google.com/document/d/1-uObZ9b4FFSxJQrbgxoHZIGDgN__DScdecmRI70bE2I/">Worksheet</a> [Source: Centre for Effective Altruism]
-
-
-**Optimal Decision Making**
-
-This worksheet presents a scenario of problematic decision-making, and leads participants step by step through a framework to aid when the possible solutions are confined in an overly-narrow frame of view. Small groups of participants will experiment with problem reframing and open brainstorming of solutions to a given challenge.
-
-<a target="_blank" href="https://docs.google.com/document/d/19363UQyju0vuTOwN0huLCbU3NT6LmLq0qMsoG8x2oX8">Worksheet</a> [Source: EA South Bay]
-
-
-**Value Drift**
-
-This worksheet explains the concept of value drift, where our ability to stay on track with ethical or other commitments wanes over time, and asks participants to discuss the likelihood, causes, and potential solutions to address value drift in themselves.
-
-<a target="_blank" href="https://docs.google.com/document/d/1UqAVfTlX3s4F00TvyD56EfDp_wY1ROXcdhboaIcYT2s/edit#">Worksheet</a> [Source: EA South Bay]
-
-**Lifestyle, Money, Time**
-
-This worksheet prompts a group to consider their current and future choices concerning spending, use of time, living arrangements, earning potential and predicted happiness. All considered together, a picture of money and time spent well versus wasted can emerge.
-
-<a target="_blank" href="https://docs.google.com/document/d/1owLBmRCYCnPLDhsItsHxPdXTNOiRUs_kHSiy3NedEdI/edit">Worksheet</a> [Source: EA South Bay]
-
-**EA in Action: Organizations Deep Dive**
-
-This is used as week 7 of Harvard’s Arete Fellowship. There is much more reading required than for a usual discussion group so you may wish to choose only one to three of these, or spread out the content over several discussion group sessions.
-
-<a target="_blank" href="https://docs.google.com/document/d/1qpggudVOUDXoRJgRS3GndQGmu7GBNqWrICu32zmQ9tc/edit">Worksheet</a> [Source: Harvard Arete Fellowship]
-
-<a name="more"></a>
-
-# More Discussion Group Resources
-
-* More <a target="_blank" href="https://drive.google.com/drive/folders/1cOIITSwKPnmKbGMw8rk_KDR4yFerpZvK">South Bay EA Discussion Sheets</a>
-
-The following resources are at least four years old so may need updating before using:
-
-* Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1eluy8kmOP0JoEYtth4sW2jj1_ZMBqKaqt-ILO2jiNq0/edit">Discussion Topic Ideas</a>, some with or without readings
-* Daniel Colson's <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B13yLQ7zd5nsQTQxVTFGZ3ZCNHc">Discussion Topic Ideas</a>, which don't have associated readings 
-* <a target="_blank" href="https://drive.google.com/drive/u/0/folders/0B6m0ytelmQXGblNlUGN6Mld4T28">EA 101 Reading and Discussion Sheets</a>
-* <a target="_blank" href="http://www.thehighimpactnetwork.org/modules">THINK's workshop modules</a>
+Want more content? The <a target="_blank" href="https://forum.effectivealtruism.org/tag/collections-and-resources">Collections and Resources tag</a> on the EA Forum has numerous posts sharing lists of recommended articles, videos and books that cover a variety of EA related topics. 
 
 <hr>
 
