@@ -47,9 +47,11 @@ This page contains content ideas for EA discussion groups. Also check out these 
 
 <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w”>CEA’s YouTube channel</a> has recordings of EA Global and EAGx talks. Many of these talks are less than 30 minutes long if you don’t include the Q+A sections, so they can be played at the start of a meetup. This is a great option if your group members often don’t have the time to read much between meetups. 
 
+
 Some of the <a target="_blank" href="https://www.youtube.com/watch?v=uAp9nv2lUSg&list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">2020 EA Student Summit talks</a> are particularly well suited to people newer to EA.
 
 Some videos that groups have tried and found worked well:
+
 * <a target="_blank" href="https://www.youtube.com/watch?v=QyvzbW0XKmY">Why aren’t people donating more effectively?</a> - Stefan Schubert
 * <a target="_blank" href="https://www.youtube.com/watch?v=F8dw_Raprg8">How to replace our broken voting system</a> - Aaron Hamlin
 * <a target="_blank" href="https://www.youtube.com/watch?v=7O9Iuk6DbhE">The future of effective altruism</a> - Panel discussion
@@ -62,7 +64,9 @@ Some videos that groups have tried and found worked well:
 * <a target="_blank" href="https://www.youtube.com/watch?v=bXJ6U13SSmA">Decision-making workshop: learn how to make better decisions</a> -  Spencer Greenberg 
 * <a target="_blank" href="https://www.youtube.com/watch?v=095kFEA-jpE">Representing Future Generations</a> - Tyler John
 
+
 You can also find a long list of  <a target="_blank" href="https://forum.effectivealtruism.org/posts/jNye4h2wmsxfmWcKE/where-to-find-ea-related-videos">EA video sources on this Forum post</a>. 
+
 
 
 # Books
@@ -71,6 +75,7 @@ You can also find a long list of  <a target="_blank" href="https://forum.effecti
 Book clubs usually last for several weeks, with participants reading a chapter or two each week. CEA is able to provide funding to purchase books.
 
 Some books that groups have used in reading groups:
+
 * <a target="_blank" href="https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/031648492X">The Precipice</a> by Toby Ord (<a target="_blank" href="https://drive.google.com/drive/u/0/folders/1tHbkLUCqCeYe78e2Uof3MQ2z7t6zRK1D">Stanford EA’s guide</a> has sample questions)
 * <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">Doing Good Better</a> by William MacAskill (<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia’s book group guide</a> has sample questions)
 * <a target="_blank" href="https://www.amazon.com/Alignment-Problem-Machines-Learn-Values-ebook/dp/B08FPXV114">The Alignment Problem: How Can Machines Learn Human Values?</a> by Brian Christian
@@ -79,7 +84,9 @@ Some books that groups have used in reading groups:
 * <a target="_blank" href="https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a> by Abhijit Banerjee and Esther Duflo
 * <a target="_blank" href="https://www.amazon.com/Good-Economics-Times-Abhijit-Banerjee/dp/1610399501">Good Economics for Hard Times</a> by Abhijit Banerjee and Esther Duflo
 
+
 These final two are more technical than the rest of the list: 
+
 * <a target="_blank" href="https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834">Superintelligence: Paths, Dangers, Strategies</a> by Nick Bostrom
 * <a target="_blank" href="https://www.amazon.com/Moral-Uncertainty-William-MacAskill/dp/0198722273">Moral Uncertainty</a> by William MacAskill, Krister Bykvist, Toby Ord
 
@@ -89,7 +96,7 @@ Before choosing a book, check out a review or two and scan through the book to g
 # Podcasts
 <a name="podcasts"></a>
 
-* The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours podcast is a great source of interesting EA related discussions. Note that many are very long, so you might want to let your group know the sections that you think are the most important, so time-poor members can listen to the essential parts. 
+* The <a target="_blank" href="https://80000hours.org/podcast/">80,000 Hours podcast</a> is a great source of interesting EA related discussions. Note that many are very long, so you might want to let your group know the sections that you think are the most important, so time-poor members can listen to the essential parts. 
 * <a target="_blank" href="https://80000hours.org/podcast/effective-altruism-an-introduction/"> Learn Effective Altruism</a> is a selection of ten 80,000 Hours podcast episodes selected to help listeners quickly get up to speed on effective altruism from a longtermist perspective.
 * Also check out this  <a target="_blank" href="https://forum.effectivealtruism.org/posts/B68gjjhZccGtWDuDh/a-list-of-ea-related-podcasts">long list of EA-related podcasts</a>
 
