@@ -26,9 +26,9 @@ license:
 
 # Goals
 
-Different groups and individuals will have different goals in discussion groups. It may be worth clarifying your group’s goals to ensure you meet them. Some goals might be 
+It may be worth clarifying your group’s goals to ensure you meet them. Some goals might be 
 
-* To exchange ideas, deepen learning and inspire action towards doing the most good
+* To inspire action towards doing the most good
 * To support the development of people committed to the effective altruism community
 * To promote the importance of critical thinking and knowing how to change your mind
 * To create a sense of enjoyment and community
@@ -47,9 +47,9 @@ Different groups and individuals will have different goals in discussion groups.
 
 There are a few strategies for coming up with discussion questions:
 
-* Ask attendees to come up with questions and topics of discussion during the meetup, then prioritise these before starting the discussion. This helps to ensure the discussion is centred on the topics the majority finds the most interesting and can avoid getting stuck on a single topic. Always have a few pre-prepared questions in case the attendees can't think of many. Ways to do this:
+* Ask attendees to come up with questions and topics of discussion during the meetup, then prioritise these before starting the discussion. This helps to ensure the discussion is centred on the topics the majority finds the most interesting and can avoid getting stuck on a single topic. Always have a few pre-prepared questions in case the attendees can't think of many. Two ways you could do this:
    * **For virtual events:** Create a shared Google doc for the event, and give everyone ~5 minutes to write down their questions or topics they'd like to discuss. Tip: Pre-populating the doc with bullet points helps to avoid people writing on the same line. After people have finished writing questions, ask people to read through and put a "\*" in front of each question they particularly want to talk about. Then start the discussion with the highest rated questions. 
-   * **For in-person events:** Questions can be chosen in a similar way by providing pen and paper (or use a large whiteboard with several pens) for people to write down their questions or topics. Then pass around the paper to get people to put "\*" on their favourite questions. Tip: It is fine to ask people to quickly clarify their questions if needed, but this can lead to discussions starting prematurely, so you might need to actively moderate.  
+   * **For in-person events:** Questions can be chosen in a similar way by providing pen and paper (or use a large whiteboard with several pens) for people to write down their questions or topics. Then pass around the paper to get people to put "\*" on their favourite questions. Tip: Ask people to quickly clarify their questions if needed, but note that you might need to actively moderate to avoid clarifications don't lead to discussions starting prematurely.
 
 
 * Use <a target="_blank" href="/events/articles/content/#articles">questions already prepared by other EA groups</a>
