@@ -29,12 +29,12 @@ This page features different groups and community organisers around the world.
 
 <hr>
 
-<a name="uct"></a>
+<a name="nyuad"></a>
 # EA New York University - Abu Dhabi
 ### _Published 5th May 2021_
 
 <p class="large_image_wrapper">
- <img src="/img/eanyuad.jpg" />
+ <img src="/img/nyuad.jpg" />
 </p>
 
 NYU Abu Dhabi was founded in 2010 to nurture intercultural empathy, listening, and understanding, and has students from 135 nations under the palm trees.  
@@ -53,6 +53,7 @@ Chuol, who hails from South Sudan and Ethiopia, has volunteered in his  hometown
 
 We wish to explore whether the world will thrive if everyone adopted an EA mindset, whether intercultural empathy and understanding will make us better altruists, and whether there are unknown unknowns in EA that we’ve yet to notice.
 
+<hr>
 
 <a name="uct"></a>
 # EA University of Cape Town, South Africa
