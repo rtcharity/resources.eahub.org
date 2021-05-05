@@ -30,7 +30,7 @@ This page features different groups and community organisers around the world.
 <hr>
 
 <a name="uct"></a>
-# EEA New York University - Abu Dhabi
+# EA New York University - Abu Dhabi
 ### _Published 5th May 2021_
 
 <p class="large_image_wrapper">
