@@ -5,11 +5,12 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 5th April 2021_
+### _Updated 5th May 2021_
 
 This page features different groups and community organisers around the world. 
 
 # Contents
+* <a href="#nyuad"> EA New York University - Abu Dhabi </a>
 * <a href="#uct"> EA University of Cape Town, South Africa </a>
 * <a href="#stijn"> Stijn Bruers, EA Belgium </a>
 * <a href="#pise"> Positive Impact Society Erasmus, Erasmus University, Netherlands </a>
@@ -27,6 +28,31 @@ This page features different groups and community organisers around the world.
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
 
 <hr>
+
+<a name="uct"></a>
+# EEA New York University - Abu Dhabi
+### _Published 5th May 2021_
+
+<p class="large_image_wrapper">
+ <img src="/img/eanyuad.jpg" />
+</p>
+
+NYU Abu Dhabi was founded in 2010 to nurture intercultural empathy, listening, and understanding, and has students from 135 nations under the palm trees.  
+ 
+We’re blessed to have such an unparalleled level of diversity. There is probably no other campus in the world where EA students can casually bump into fellows and listen to real-life stories about malaria net distribution, experience growing up around refugee camps, and worrying about getting food for the next meal. In February 2021, we ran the first iteration of the Arete intro fellowship. We had 23 fellows and facilitators representing 17 different countries, ranging from Bangladesh and Bulgaria to South Korea and South Sudan, and had splendid discussions across 3 cohorts and several time zones. We also had fellows from the American University of Sharjah and we look forward to working together closely to build a tight-knit community in the UAE. In March, EA NYUAD hosted in-person (physically distanced) outings for its Arete Fellows, funded by a Group Support Grant from CEA. Vegan meals were provided as part of the outings to places like trampoline parks and archery workshops. The CEA-funded outings were immensely helpful in building a sense of community among fellows who had previously only known each other virtually. 
+ 
+As a new group, we felt welcomed into the EA community as other university groups such as EA Harvard and EA Stanford invited us to events last semester. Some of our members found external opportunities such as Oxford’s In-depth Fellowship and SHIPS - a student-led program to inspire high-impact career plans - valuable for their personal and professional development. We’re immensely grateful to these initiatives and their organizers for helping us feel more rooted in the EA community.
+ 
+We find value in having diversity on campus. Our chapter’s Japanese-Chinese founder Koki sees understanding the experiences of people as invaluable. “Trying to see the world from the shoes of those whom we intend to help is likely to make us effective altruists grounded in reality.” Interacting with students from vastly different backgrounds has also challenged preconceived notions of doing good, especially for Zack, our Singaporean treasurer. “Our discussions on global health & poverty really pushed me to reconsider the ways in which my cultural background and privilege has shaped the ways I thought of doing good, and to re-examine where that might not be so helpful.” A former chicken rice addict, he added that the vegan challenge also helped him to kickstart his shift towards consuming as little meat as he can.
+ 
+Aditya, our Arete facilitator, hailing from India, reflects that “I’ve never felt more integrated with the world than with this diverse community (in ethnicity, gender, age, academic path, socioeconomic background, etc.) on this campus…. Coming from India, where I see the first hand effects of poverty coupled with large scale industrialization, I understand what development can do. Sharing my perspective and background with the rest of the world was way easier with EA.”
+ 
+Diversity might also be useful to help us identify blind spots in our epistemics. “If we could have an alien comment on how EA works, we will receive a lot of valuable feedback. Although none of us is an alien to the problems of our world, some of us are aliens to the community that EA initially appeals to - economically, geographically, and culturally” reflects Jaime, a Colombian Junior who now facilitates Stanford’s Arete fellowship. 
+
+Chuol, who hails from South Sudan and Ethiopia, has volunteered in his  hometown to help child refugees, and finds this experience motivates him to make a larger impact  - “I see the spirit of humanity forcing me … to do what I can for those kids.….this has equipped me with power, hope and desire to stand up more for my brethren who need me to stand up for them.”
+
+We wish to explore whether the world will thrive if everyone adopted an EA mindset, whether intercultural empathy and understanding will make us better altruists, and whether there are unknown unknowns in EA that we’ve yet to notice.
+
 
 <a name="uct"></a>
 # EA University of Cape Town, South Africa
