@@ -5,13 +5,15 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 17th October 2019, updated 3rd July 2020*
+### *Updated 6th May 2021*
 
 *Contributions were made by the LEAN team,* <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">*EA Estonia*</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">*Yale EA*</a>, *and* <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">*CEA*</a>.
 
 # Contents
 
 * <a href="#goals">Goals</a>
+* <a href="#choosing">Choosing content</a>
+* <a href="#questions">Choosing questions</a>
 * <a href="#planning">Planning</a>
 * <a href="#at-the-event">During the event</a>
 * <a href="#follow-up">Follow up</a>
@@ -24,41 +26,44 @@ license:
 
 # Goals
 
-Different groups and individuals will have different goals in discussion groups. It may be worth clarifying your group’s goals to ensure you meet them. Some goals might be 
+It may be worth clarifying your group’s goals to ensure you meet them. Some goals might be 
 
-* To exchange ideas, deepen learning and inspire action towards doing the most good
+* To inspire action towards doing the most good
 * To support the development of people committed to the effective altruism community
 * To promote the importance of critical thinking and knowing how to change your mind
 * To create a sense of enjoyment and community
 
-<a name="planning"></a>
+<a name="choosing"></a>
+
+# Choosing content
+
+* There are many <a target="_blank" href="/events/articles/content/">articles, books, videos, and podcasts to select from</a>. 
+* Some people are happy to read, watch or listen to material in advance. But if your text is short, consider looking over the content at the event, rather than as preparation.
+* Check that your content is suitable for the audience. Too much jargon and assumed knowledge can throw off newcomers. 
+* Unless you know you’ve got a dedicated group of time-rich people, 30 minutes is usually a good amount of preparation time. Reading speed varies a lot, but about 200 words a minute is reasonable if the text isn’t too difficult.
+* Some people have felt alienated by certain discussions and reduced their involvement in the community. Discussions about underrepresented groups, either in EA or the wider community, can be alienating to members of that group, or people who have loved ones in that group. Think carefully before assigning readings and questions that could be overly controversial or personal, weighing up the benefits and risks. Many potentially alienating discussions are not particularly useful for effectively improving the world, so it can be better to choose other topics. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
+
+# Choosing questions
+
+There are a few strategies for coming up with discussion questions:
+
+* Ask attendees to come up with questions and topics of discussion during the meetup, then prioritise these before starting the discussion. This helps to ensure the discussion is centred on the topics the majority finds the most interesting and can avoid getting stuck on a single topic. Always have a few pre-prepared questions in case the attendees can't think of many. Two ways you could do this:
+   * **For virtual events:** Create a shared Google doc for the event, and give everyone ~5 minutes to write down their questions or topics they'd like to discuss. Tip: Pre-populating the doc with bullet points helps to avoid people writing on the same line. After people have finished writing questions, ask people to read through and put a "\*" in front of each question they particularly want to talk about. Then start the discussion with the highest rated questions. 
+   * **For in-person events:** Questions can be chosen in a similar way by providing pen and paper (or use a large whiteboard with several pens) for people to write down their questions or topics. Then pass around the paper to get people to put "\*" on their favourite questions. Tip: Ask people to quickly clarify their questions if needed, but note that you might need to actively moderate to avoid the clarifications don't turn into a discussion prematurely.
+
+
+* Use <a target="_blank" href="/events/articles/content/#articles">questions already prepared by other EA groups</a>
+* Prepare questions specifically for this reading. Factual questions can ease everyone into the discussion. Afterwards, allow more interesting questions to take over, such as why people agree or disagree with a point, or how the information might influence the actions we take in our lives.
+
+* Consider using this model for a <a target="_blank" href="https://forum.effectivealtruism.org/posts/RZ4cWxEkTsCqGgfut/how-to-run-a-high-energy-reading-group#High_Reading_Commitment__High_Discussion_Structure__Everyone_Has_A_Role"> high discussion structure reading group</a>, which provdes everyone with a role. 
+
+* Before the event, consider providing questions alongside the reading and ask people to bring in their answers. These questions can focus the reading and act as a starting point for the discussion. Some generic questions are listed <a target="_blank" href="https://docs.google.com/document/d/14TKkJOJ2w186g8zJAePdKsC-g9jamqAhKnzVcVssViM/edit#">here</a>. 
+
 
 # Planning
 
-Guidelines for planning events are coming soon. The following is specific to planning discussion groups. 
-
-<a name="choosing"></a>
-
-## Choosing readings and questions
-
-* There are many <a target="_blank" href="/events/articles/content/">examples of readings and discussion questions</a> to help you out with this. 
-* Some people are happy to read, watch or listen to material in advance. But if your text is short, consider looking over the content at the event, rather than as preparation.
-* Check that your readings are suitable for the audience. Too much jargon and assumed-knowledge can throw off newcomers. 
-* Unless you know you’ve got a dedicated group of time-rich people, 30 minutes is a good maximum amount of preparation time. Reading speed varies a lot, but about 200 words a minute is reasonable if the text isn’t too difficult.
-* There are a few strategies for coming up with discussion questions:
-
-  * Prepare questions specifically for this reading (<a target="_blank" href="/events/articles/content/">examples here</a>). Factual questions can ease everyone into the discussion. Afterwards, allow more interesting questions to take over, such as why people agree or disagree with a point, or how the information might influence the actions we take in our lives.
-  * Ask attendees to come up with questions during the meetup, then prioritise these. If you choose this method, it helps to have a few pre-prepared questions in case attendees run out.
-  * Before the event, consider providing questions alongside the reading and ask people to bring in their answers. Supplementary questions can focus the reading and act as a starting point for the discussion. Some generic questions are listed <a target="_blank" href="https://docs.google.com/document/d/14TKkJOJ2w186g8zJAePdKsC-g9jamqAhKnzVcVssViM/edit#">here</a>. 
-* Some people have felt alienated by certain discussions and reduced their involvement in the community. Discussions about underrepresented groups, either in EA or the wider community, can be alienating to members of that group, or people who have loved ones in that group. Think carefully before assigning readings and questions that could be overly controversial or personal, weighing up the benefits and risks. Many potentially alienating discussions are not particularly useful for effectively improving the world, so it can be better to choose other topics. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
-
-## Making handouts
-
-Handouts can be useful if you want to get through several questions, or if you like more structured conversations. They can include a summary of the topic or assigned material and a list of questions to help frame the conversation. Here are <a target="_blank" href="/events/articles/content/">handouts on several topics</a> that you can modify to suit your group.
-
 ## Marketing
 
-* If your group is small, make an effort to reach out to people beyond your existing circle of acquaintances. Strangers familiar with EA, or anyone else you think might be interested, can introduce fresh ideas and resources to your group.
 * If you are assigning pre-reading, make it clear whether or not people should come if they don’t get a chance to read in advance. We recommend encouraging people to attend regardless, especially for more general discussions. Get people up to speed and help newcomers feel welcome by summing up the material at the beginning.
 * Some groups may wish to organise smaller, more intense events, where almost everyone does the reading in advance. This approach works for people wanting to go through a particular book or subject area more thoroughly. To start, publicise your group as a regular discussion group on your chosen topic to see who's interested, and then make each meeting private.
 
