@@ -232,7 +232,7 @@ This list is long and has too many “don’ts” to share out loud as part of t
 
 # More reading
 
-* Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> were used to make this page. 
+* Guides from <a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia</a>, <a target="_blank" href="https://docs.google.com/document/d/1pvTz8L_mpNG_ae34v3-_bWebLemRcLpqxLTD-s2Sh-8/edit#heading=h.o55kl1wrwbz5">Yale EA</a>, <a target="_blank" href="https://forum.effectivealtruism.org/posts/RZ4cWxEkTsCqGgfut/how-to-run-a-high-energy-reading-group">East Bay Biosecurity</a>, <a target="_blank" href="https://docs.google.com/document/d/10CQ1j2MineVfu_3VYOF_AfauM3ifc2elxi0tTyMvNqQ/edit#heading=h.7pwdms7xjwpv">EA Oxford</a>, <a target="_blank" href="https://forum.effectivealtruism.org/posts/MZFWRh7vzEDZ8mnYT/group-discussion-facilitator-training-guide">Jessica McCurdy</a>, and <a target="_blank" href="https://docs.google.com/document/d/1orV_QmvpbXdxwdvvaUsLMfDIaPxsJ7TBdKst_WNcUbI/edit">CEA</a> were used to make this page. 
 
 <hr>
 
