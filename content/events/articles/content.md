@@ -73,7 +73,7 @@ You can also find a long list of  <a target="_blank" href="https://forum.effecti
 # Books
 <a name="books"></a>
 
-Book clubs usually last for several weeks, with participants reading a chapter or two each week. CEA is able to provide funding to purchase books.
+Book clubs usually last for several weeks, with participants reading a chapter or two each week. <a target="_blank" href="https://www.centreforeffectivealtruism.org/group-support-funding/">CEA is able to provide funding to purchase books</a>.
 
 Some books that groups have used in reading groups:
 
