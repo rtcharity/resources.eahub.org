@@ -84,6 +84,8 @@ Some books that groups have used in reading groups:
 * <a target="_blank" href="https://www.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556">The Scout Mindset: Why Some People See Things Clearly and Others Don't</a> by Julia Galef
 * <a target="_blank" href="https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a> by Abhijit Banerjee and Esther Duflo
 * <a target="_blank" href="https://www.amazon.com/Good-Economics-Times-Abhijit-Banerjee/dp/1610399501">Good Economics for Hard Times</a> by Abhijit Banerjee and Esther Duflo
+* <a target="_blank" href="https://www.amazon.com/How-Create-Vegan-World-Pragmatic/dp/1590565703">How to Create a Vegan World: A Pragmatic Approach</a> by Tobias Leenaert
+
 
 
 These final two are more technical than the rest of the list: 
