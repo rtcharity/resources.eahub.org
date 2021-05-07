@@ -13,7 +13,7 @@ This section links resources about effective giving, a list of EA funds and char
 * <a href="#howrichareyou">How Rich Are You?</a>
 * <a href="#choosingwheretogive">Choosing Where to Give</a>
 * <a href="#donatingefficiently">Advice on Donating Efficiently</a>
-* <a href="#pledgetodonate">Pledge to Donate in the Future</a>
+* <a href="#pledgetodonate">Pledge to Donate</a>
 * <a href="#storiesfromeas">Stories from EAs who Give</a>
 
 <a name ="howrichareyou"></a>
@@ -130,8 +130,9 @@ Ge effektivt</a> - Sweden (global health and poverty, animal welfare, and climat
 
 <a name ="pledgetodonate"></a>
 
-# Take a Pledge to Donate in the Future
+# Pledge to Donate in the Future
 
+## Take a pledge 
 * <a target="_blank" href="http://givingwhatwecan.org"> Giving What We Can</a> -A range of giving pledges  for anybody to commit to donate a significant portion of their income (the most common is the 10% lifetime pledge, but you can start at 1% with Try Giving) to whichever organisations can most effectively use it to improve the lives of others.
 * <a target="_blank" href="https://founderspledge.com/">Founders Pledge</a> - A giving pledge for entrepreneurs and startup founders to give a portion of their personal proceeds of their company.
 * <a target="_blank" href="https://www.thelifeyoucansave.org/take-the-pledge">The Life You Can Save Pledge</a> - A pledge to donate to high-impact charities, with the percentage based on your income level, and challenge yourself to do a little bit better each year. 
@@ -143,7 +144,7 @@ Ge effektivt</a> - Sweden (global health and poverty, animal welfare, and climat
 
 
 <a name ="plannedgiving"></a>
-# Planned Giving / Legacy giving
+## Planned Giving / Legacy giving
 
 While perhaps not fun to think about, it is important to prepare for the worst. Setting up your planned giving is quick and easy to do and ensures that you have the most impact with the assets of your legacy.
 
