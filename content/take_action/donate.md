@@ -95,6 +95,7 @@ There are several EA organisations worldwide that can ‘funnel’ tax-deductibl
 Giving What We Can <a target="_blank" href="https://www.givingwhatwecan.org/best-charities-to-donate-to-2021/#donate-using-local-grantmaking-organisations">maintains an up-to-date list of these regranting organizations</a>.
 
 As of May 2021:
+
 * <a target="_blank" href="https://effektiveraltruismus.de/donate/">Effective Altruism Foundation</a> - Germany and Switzerland (various causes). 
 * <a target="_blank" href="https://www.effektiv-spenden.org/">Effektiv Spenden</a> - Germany (global health and poverty, animal welfare, and climate change charities)
 * <a target="_blank" href="https://effectivealtruism.org.au/donate/">Effective Altruism Australia</a> - Australia (restricted to effective global health and poverty charities)
@@ -133,7 +134,7 @@ Ge effektivt</a> - Sweden (global health and poverty, animal welfare, and climat
 # Pledge to Donate in the Future
 
 ## Take a pledge 
-* <a target="_blank" href="http://givingwhatwecan.org"> Giving What We Can</a> -A range of giving pledges  for anybody to commit to donate a significant portion of their income (the most common is the 10% lifetime pledge, but you can start at 1% with Try Giving) to whichever organisations can most effectively use it to improve the lives of others.
+* <a target="_blank" href="http://givingwhatwecan.org"> Giving What We Can</a> - A range of giving pledges to commit to donate a significant portion of one's income (the most common is the 10% lifetime pledge, but you can start at 1% with Try Giving) to whichever organisations can most effectively use it to improve the lives of others.
 * <a target="_blank" href="https://founderspledge.com/">Founders Pledge</a> - A giving pledge for entrepreneurs and startup founders to give a portion of their personal proceeds of their company.
 * <a target="_blank" href="https://www.thelifeyoucansave.org/take-the-pledge">The Life You Can Save Pledge</a> - A pledge to donate to high-impact charities, with the percentage based on your income level, and challenge yourself to do a little bit better each year. 
 * <a target="_blank" href="https://reg-charity.org/">Raising for Effective Giving</a> - A giving pledge for professional poker players.
