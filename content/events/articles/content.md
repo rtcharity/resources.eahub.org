@@ -16,7 +16,7 @@ This page contains content ideas for EA discussion groups. Also check out these 
 * <a href="#videos">Videos</a>
 * <a href="#books">Books</a>
 * <a href="#podcasts">Podcasts</a>
-*  <a href="#lists">Lists of possible content</a>
+* <a href="#lists">Lists of possible content</a>
 
 
 
