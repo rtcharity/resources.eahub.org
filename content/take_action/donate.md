@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 21st September 2019. Updated 6th November 2020*
+### *Published 21st September 2019. Updated 7th May 2020*
 
 This section links resources about effective giving, a list of EA funds and charity evaluators, advice on donating efficiently, and a list of giving pledges. 
 
@@ -56,7 +56,7 @@ There are some organisations that evaluate charities and recommend outstanding g
 
 Another option is to give your money to a philanthropic fund managed by experts. 
 
-<a target="_blank" href="https://app.effectivealtruism.org/funds"><img class="small_image_block" src="/img/eafunds.png" /></a> <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Meta</a>. <br>
+<a target="_blank" href="https://app.effectivealtruism.org/funds"><img class="small_image_block" src="/img/eafunds.png" /></a> <a target="_blank" href="https://app.effectivealtruism.org/funds">EA Funds</a> has funds for <a target="_blank" href="https://app.effectivealtruism.org/funds/global-development">Global Health and Development</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/animal-welfare">Animal Welfare</a>, <a target="_blank" href="https://app.effectivealtruism.org/funds/far-future">Long-Term Future</a>, and <a target="_blank" href="https://app.effectivealtruism.org/funds/ea-community">Effective Altruism Infrastructure Fund</a>. <br>
 
 <a target="_blank" href="/"><img class="small_image_block" src="/img/center_long_term_risk.png" /></a> 
 
@@ -88,16 +88,25 @@ This has an advantage over simply donating if you believe a donation of $100,000
 * <a target="_blank" href="https://medium.com/@aaronhamlin/your-guide-to-charitable-giving-and-taxes-a7c0f44c922">Guide to tax for US donors</a> by Aaron Hamlin. Note: the standard deduction amount changes over time. Find the current standard deduction <a target="_blank" href="https://www.irs.gov/help/ita/how-much-is-my-standard-deduction">here</a>.  
 
 
-### Donation Funneling Organisations
+### Donation Regranting Organisations
 
-There are several EA organisations worldwide that can ‘funnel’ tax-deductible donations through to effective charities and EA organisations in other parts of the world.
+There are several EA organisations worldwide that can ‘funnel’ tax-deductible donations through to effective charities and EA organisations in other parts of the world. This effectively allows you to donate money to different countries and receive a tax deduction, which otherwise would not be possible.
 
-* <a target="_blank" href="https://effektiveraltruismus.de/donate/">Effective Altruism Foundation</a> - Germany and Switzerland (cause-neutral). 
+Giving What We Can <a target="_blank" href="https://www.givingwhatwecan.org/best-charities-to-donate-to-2021/#donate-using-local-grantmaking-organisations">maintains an up-to-date list of these regranting organizations</a>.
+
+As of May 2021:
+* <a target="_blank" href="https://effektiveraltruismus.de/donate/">Effective Altruism Foundation</a> - Germany and Switzerland (various causes). 
+* <a target="_blank" href="https://www.effektiv-spenden.org/">Effektiv Spenden</a> - Germany (global health and poverty, animal welfare, and climate change charities)
 * <a target="_blank" href="https://effectivealtruism.org.au/donate/">Effective Altruism Australia</a> - Australia (restricted to effective global health and poverty charities)
 * <a target="_blank" href="https://effectivealtruism.nz/donate/">Effective Altruism New Zealand</a> - New Zealand (restricted to effective global health and poverty charities)
-* <a target="_blank" href="https://effektivaltruisme.no/ea-giverportal">EA Norway - Norway</a> (restricted to effective global health and poverty charities, plus some EA Funds)
-* <a target="_blank" href="https://rcforward.org/">RC Forward</a> - Canada (cause-neutral)
-* <a target="_blank" href="https://app.effectivealtruism.org/donations/new/organizations">Center for Effective Altruism</a> -  US and UK (cause-neutral)
+* <a target="_blank" href="https://gieffektivt.no/">Gi effektivt</a> - Norway (restricted to effective global health and poverty charities)
+* <a target="_blank" href="https://effektivaltruisme.no/ea-giverportal">EA Norges Giverportal</a> - Norway (restricted to some EA Funds)
+* <a target="_blank" href="https://geeffektivt.se/">
+Ge effektivt</a> - Sweden (global health and poverty, animal welfare, and climate change charities)
+* <a target="_blank" href="https://ayudaefectiva.org/">Ayuda Efectiva</a> - Spain (global health and poverty)
+* <a target="_blank" href="https://rcforward.org/">RC Forward</a> - Canada (various causes)
+* <a target="_blank" href="https://doneereffectief.nl/">Doneer Effectief</a> - Netherlands (various causes)
+* <a target="_blank" href="https://app.effectivealtruism.org/donations/new/organizations">EA Funds</a> -  US and UK (various causes)
 
 ## Reasons not to donate now
 
@@ -116,16 +125,34 @@ There are several EA organisations worldwide that can ‘funnel’ tax-deductibl
 
 * Some charities offer to double or triple your donations - called "donation matching. While there are some exceptions, this matching is usually illusory and the matching funds would have gone to the charity whether or not you donated. This <a target="_blank" href="https://blog.givewell.org/2011/12/15/why-you-shouldnt-let-donation-matching-affect-your-giving/">blog post by GiveWell</a> explains more. Exceptions include Facebook's <a target="_blank" href="https://www.eagivingtuesday.org/">Giving Tuesday</a>, as while Facebook would have donated the money without your donation, your donation could cause the money to be allocated to more effective charities.  
 
+
+
+
 <a name ="pledgetodonate"></a>
 
 # Take a Pledge to Donate in the Future
 
 * <a target="_blank" href="http://givingwhatwecan.org"> Giving What We Can</a> -A range of giving pledges  for anybody to commit to donate a significant portion of their income (the most common is the 10% lifetime pledge, but you can start at 1% with Try Giving) to whichever organisations can most effectively use it to improve the lives of others.
-* <a target="_blank" href="https://founderspledge.com/">Founder’s Pledge</a> - A giving pledge for entrepreneurs and startup founders to give 2% or more of their personal proceeds.
+* <a target="_blank" href="https://founderspledge.com/">Founders Pledge</a> - A giving pledge for entrepreneurs and startup founders to give a portion of their personal proceeds of their company.
+* <a target="_blank" href="https://www.thelifeyoucansave.org/take-the-pledge">The Life You Can Save Pledge</a> - A pledge to donate to high-impact charities, with the percentage based on your income level, and challenge yourself to do a little bit better each year. 
 * <a target="_blank" href="https://reg-charity.org/">Raising for Effective Giving</a> - A giving pledge for professional poker players.
 * <a target="_blank" href="https://www.givingalpha.org/">GivingAlpha</a> - A pledge for people in the finance industry.
 * <a target="_blank" href="https://www.1fortheworld.org/">One For the World</a> - A pledge to give 1% or more to One For the World’s portfolio of high impact charities.
-* <a target="_blank" href="https://www.thelifeyoucansave.org/take-the-pledge">The Life You Can Save Pledge</a> - A pledge to donate to high-impact charities, with the percentage based on your income level, and challenge yourself to do a little bit better each year. 
+
+* <a target="_blank" href="https://highimpactathletes.org/">High Impact Athlete Pledge</a> - A pledge for high impact athletes to donate to high-impact charities. 
+
+
+<a name ="plannedgiving"></a>
+# Planned Giving / Legacy giving
+
+While perhaps not fun to think about, it is important to prepare for the worst. Setting up your planned giving is quick and easy to do and ensures that you have the most impact with the assets of your legacy.
+
+
+
+Here is a <a target="_blank" href="https://aaronhamlin.medium.com/planned-giving-for-everyone-15b9baf88632">writeup of different things to consider when thinking about planned giving</a>. It was written with an American audience in mind, but much of the advice is applicable to all countries. 
+
+
+
 
 <a name ="storiesfromeas"></a>
 
