@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 21st September 2019. Updated 6th November 2020*
+### *Published 21st September 2019. Updated 7th May 2020*
 
 This section links resources about effective giving, a list of EA funds and charity evaluators, advice on donating efficiently, and a list of giving pledges. 
 
