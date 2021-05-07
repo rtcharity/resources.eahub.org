@@ -49,7 +49,7 @@ This page contains content ideas for EA discussion groups. Also check out these 
 <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w">CEA’s YouTube channel</a> has recordings of EA Global and EAGx talks. Many of these talks are less than 30 minutes long if you don’t include the Q+A sections, so they can be played at the start of a meetup. This is a great option if your group members often don’t have the time to read much between meetups. 
 
 
-Some of the <a target="_blank" href="https://www.youtube.com/watch?v=uAp9nv2lUSg&list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">2020 EA Student Summit talks</a> are particularly well suited to people newer to EA.
+Some of the <a target="_blank" href="https://www.youtube.com/playlist?list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">2020 EA Student Summit talks</a> are particularly well suited to people newer to EA.
 
 Some videos that groups have tried and found worked well:
 
