@@ -43,6 +43,7 @@ It may be worth clarifying your group’s goals to ensure you meet them. Some go
 * Unless you know you’ve got a dedicated group of time-rich people, 30 minutes is usually a good amount of preparation time. Reading speed varies a lot, but about 200 words a minute is reasonable if the text isn’t too difficult.
 * Some people have felt alienated by certain discussions and reduced their involvement in the community. Discussions about underrepresented groups, either in EA or the wider community, can be alienating to members of that group, or people who have loved ones in that group. Think carefully before assigning readings and questions that could be overly controversial or personal, weighing up the benefits and risks. Many potentially alienating discussions are not particularly useful for effectively improving the world, so it can be better to choose other topics. The page on <a target="_blank" href="/tips/community-health/">community health</a> provides more information. 
 
+<a name="questions"></a>
 # Choosing questions
 
 There are a few strategies for coming up with discussion questions:
