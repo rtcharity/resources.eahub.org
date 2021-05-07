@@ -3,7 +3,7 @@ title: Use Your Time
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
-    url: 'https://creativecommons.org/licenses/by-sa/3.0/legalcode'
+    url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
 <p class="large_image_wrapper">
 <img src="/img/takeactioneanz.png" />
@@ -11,7 +11,7 @@ license:
 
 _Image: EA New Zealand_
 
-### _Published 21st September 2019_
+### _Published 21st September 2019, updated 7th May 2021_
 
 # Volunteer
 
