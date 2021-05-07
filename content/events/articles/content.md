@@ -49,7 +49,7 @@ This page contains content ideas for EA discussion groups. Also check out these 
 <a target="_blank" href="https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w">CEA’s YouTube channel</a> has recordings of EA Global and EAGx talks. Many of these talks are less than 30 minutes long if you don’t include the Q+A sections, so they can be played at the start of a meetup. This is a great option if your group members often don’t have the time to read much between meetups. 
 
 
-Some of the <a target="_blank" href="https://www.youtube.com/watch?v=uAp9nv2lUSg&list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">2020 EA Student Summit talks</a> are particularly well suited to people newer to EA.
+Some of the <a target="_blank" href="https://www.youtube.com/playlist?list=PLwp9xeoX5p8OoBBqv8t7JhVcgbjtXq3f7">2020 EA Student Summit talks</a> are particularly well suited to people newer to EA.
 
 Some videos that groups have tried and found worked well:
 
@@ -80,7 +80,7 @@ Some books that groups have used in reading groups:
 * <a target="_blank" href="https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/031648492X">The Precipice</a> by Toby Ord (<a target="_blank" href="https://drive.google.com/drive/u/0/folders/1tHbkLUCqCeYe78e2Uof3MQ2z7t6zRK1D">Stanford EA’s guide</a> has sample questions)
 * <a target="_blank" href="https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660">Doing Good Better</a> by William MacAskill (<a target="_blank" href="https://forum.effectivealtruism.org/posts/rqmuTjmknnQE2oaPS/reading-group-guide-for-ea-groups">EA Estonia’s book group guide</a> has sample questions)
 * <a target="_blank" href="https://www.amazon.com/Alignment-Problem-Machines-Learn-Values-ebook/dp/B08FPXV114">The Alignment Problem: How Can Machines Learn Human Values?</a> by Brian Christian
-* <a target="_blank" href="https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem">Human Compatible: Artificial Intelligence and the Problem of Control</a> by Stuart Russell
+* <a target="_blank" href="https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558632/">Human Compatible: Artificial Intelligence and the Problem of Control</a> by Stuart Russell
 * <a target="_blank" href="https://www.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556">The Scout Mindset: Why Some People See Things Clearly and Others Don't</a> by Julia Galef
 * <a target="_blank" href="https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a> by Abhijit Banerjee and Esther Duflo
 * <a target="_blank" href="https://www.amazon.com/Good-Economics-Times-Abhijit-Banerjee/dp/1610399501">Good Economics for Hard Times</a> by Abhijit Banerjee and Esther Duflo
