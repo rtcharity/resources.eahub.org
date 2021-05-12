@@ -106,12 +106,9 @@ The <a target="_blank" href="https://forum.effectivealtruism.org/posts/ThdR8Fzcf
 Here are some resources that may help you learn more about diversity and inclusion in the EA community. 
 
 
-* <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions catered to women and non-binary people</a>
-* <a target="_blank" href="https://forum.effectivealtruism.org/posts/2T3cGecjHfbEPXeEc/2019-ethnic-diversity-community-survey">2019 Ethnic Diversity Survey
-
-</a>
-
 * <a target="_blank" href="https://www.centreforeffectivealtruism.org/diversity-and-inclusion">CEA’s stance on Diversity and Inclusion</a>
+* <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions catered to women and non-binary people</a>
+* <a target="_blank" href="https://forum.effectivealtruism.org/posts/2T3cGecjHfbEPXeEc/2019-ethnic-diversity-community-survey">2019 Ethnic Diversity Survey</a>
 
 * Forum posts from community members:
 
