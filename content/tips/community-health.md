@@ -9,10 +9,17 @@ license:
 
 *This page compiles resources by Owen Cotton-Barratt, Julia Wise,* <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">*CEA Community Health workshop sessions*</a>,  *and suggestions from the CEA groups and community health teams*.
 
-### If your group is experiencing community health issues, reach out to <a target="_blank" href="https://efctv.org/contactperson">Julia Wise and Sky Mayhew</a> from CEA’s community health team, or visit Julia during her <a target="_blank" href="https://calendly.com/julia-d-wise">office hours</a>.
+Community Health refers to our community's ability to grow and produce value in the future.
+Bringing people into the community is important, but EA's discussion norms, culture, and reputation are also big determinants of our long-term success. How we discuss ideas is vitally important because it shapes our ability to learn more, uncover mistakes we're making, and resolve uncertainties and disagreements. Additionally, EA's internal culture, reputation, and demographics affect who feels comfortable engaging with our community.
+We think it's important that we build a healthy intellectual culture, a positive reputation, and an inclusive community. If we fail to do so, a lot of the movement's potential could be squandered. 
+
+
+
+### If your group is experiencing  issues, reach out to <a target="_blank" href="https://efctv.org/contactperson">Julia Wise and Sky Mayhew</a> from CEA’s community health team, or visit Julia during her <a target="_blank" href="https://calendly.com/julia-d-wise">office hours</a>.
 
 # Contents
 
+* <a href="#what">What is Community Health</a>
 * <a href="#importance">The Importance of Being Welcoming</a>
 * <a href="#welcoming">Creating Welcoming, Inclusive Groups</a>
 
@@ -21,6 +28,17 @@ license:
   * <a href="#boundaries">Boundaries</a>
 * <a href="#sensitive-topics">Handling Sensitive Topics</a>
 * <a href="#issues">Dealing With Issues</a>
+
+<a name="what"></a>
+
+# What is Community Health?
+Community Health refers to our community's ability to grow and produce value in the future.
+
+From <a target="_blank" href="https://www.centreforeffectivealtruism.org/strategy/">CEA's strategy</a>
+
+> *Bringing people into the community is important, but EA's discussion norms, culture, and reputation are also big determinants of our long-term success. How we discuss ideas is vitally important because it shapes our ability to learn more, uncover mistakes we're making, and resolve uncertainties and disagreements. Additionally, EA's internal culture, reputation, and demographics affect who feels comfortable engaging with our community.
+We think it's important that we build a healthy intellectual culture, a positive reputation, and an inclusive community. If we fail to do so, a lot of the movement's potential could be squandered.*
+
 
 <a name="importance"></a>
 
@@ -32,7 +50,7 @@ To do the most good we can, the EA community needs to be happy and healthy. It s
 
 > “We affirm a commitment to building a friendly, open, and welcoming environment in which many different approaches can flourish, and in which a wide range of perspectives can be evaluated on their merits. To encourage cooperation and collaboration between people with widely varying circumstances and ways of thinking, we resolve to treat people of different worldviews, values, backgrounds, and identities kindly and respectfully”.
 
-EA groups should be welcoming and <a target="_blank" href="https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/">exceptionally considerate</a>,  perhaps more so than would typically be required by common-sense morality. On many fronts, EA aligns with utilitarian thought, which new members may find callous and calculating. Warm vibes counter this impression, encouraging people to join, remain involved and collaborate effectively. By reducing our chance of building a bad reputation, we sustain our ability to have positive impacts over the long-term. 
+EA groups should be welcoming and <a target="_blank" href="https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be/">exceptionally considerate</a>,  perhaps more so than would typically be required by common-sense morality. On many fronts, EA aligns with utilitarian thought, which some new members may find cold. Warm and caring vibes counter this impression, encouraging people to join, remain involved and collaborate effectively. By reducing our chance of building a bad reputation, we sustain our ability to have positive impacts over the long-term. 
 
 For more, Owen-Cotton Barratt's <a target="_blank" href="http://globalprioritiesproject.org/wp-content/uploads/2015/05/MovementGrowth.pdf">Awareness/Inclination Model of movements</a>, explains why we should focus more on improving people's attitude towards EA than increasing their awareness.
 
