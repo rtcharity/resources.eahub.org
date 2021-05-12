@@ -40,7 +40,7 @@ For more, Owen-Cotton Barratt's <a target="_blank" href="http://globalpriorities
 
 # Creating Welcoming, Inclusive Groups
 
-We highly recommend using Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">excellent guide</a> to create a welcoming group. This top resource discusses many different types of diversity, including psychological and ideological differences, and suggests concrete steps to promote inclusiveness. 
+We highly recommend using Julia Wise's <a target="_blank" href="https://docs.google.com/document/d/1St9CcUKWaFMRkeGAEmi1nIqrzXia5VFG8hp0YZUvvlU/edit#">guide to create a welcoming group</a>. This top resource discusses many different types of diversity, including psychological and ideological differences, and suggests concrete steps to promote inclusiveness. 
 
 It is also well worth watching Julia's <a target="_blank" href="https://www.youtube.com/embed/SfXJ7MUjeLg">EAGxAustralia talk</a> from 2019 on building a diverse, welcoming, and healthy community (38 minutes).
 
