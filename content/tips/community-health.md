@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 25th July 2020*
+### *Updated 13th May 2021*
 
 *This page compiles resources by Owen Cotton-Barratt, Julia Wise,* <a target="_blank" href="https://docs.google.com/document/d/1c6k8-_6YJx9es5cq84ufqux5j145_l1sAUl4hB0hT1w/edit">*CEA Community Health workshop sessions*</a>,  *and suggestions from the CEA groups and community health teams*.
 
