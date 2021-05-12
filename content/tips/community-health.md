@@ -62,6 +62,7 @@ Other resources about this topic are available:
 
 * The EA Hub guide on “<a target="_blank" href="https://resources.eahub.org/learn/communicate-ea/">Communicating About EA</a>” suggests ways to introduce EA ideas in a fashion that may be more appealing to people with a diversity of thoughts. 
 * Ozymandias’ post “<a target="_blank" href="https://thingofthings.wordpress.com/2018/12/19/how-effective-altruists-can-be-welcoming-to-conservatives/">Being Welcoming to Conservatives</a>”, offers several recommendations on how to include conservatives from a US context, but many of the recommendations can be adapted to people of other political or ideological backgrounds.
+* Cullen O'Keefe’s post “<a target="_blank" href="https://forum.effectivealtruism.org/posts/dqFjPFHmgFEZpg8ua/what-makes-outreach-to-progressives-hard">What Makes Outreach to Progressives Hard</a>” includes some suggested tips for people talking to a progressive audience.
 
 Remember that effective altruists tend to hold less diverse philosophical viewpoints online than in-person. For example, longtermist views are often prevalent on the EA forum. But the 2019 EA Survey indicates a broader range of priorities among EAs overall, as seen in the graph below. Data shown in the charts below can help us keep our differences in mind, as well as our need for inclusiveness. 
 
@@ -97,37 +98,36 @@ Further, the survey found a wide variety of philosophical dispositions as well. 
 
 The effective altruism community has a larger proportion of young people, white people, and males than the general population.
 
-According to the <a target="_blank" href="https://forum.effectivealtruism.org/posts/8hExrLibTEgyzaDxW/ea-survey-2019-series-cause-prioritization"> EA Survey 2019</a>, the community is approximately 70% male, 87% white, and its members are on average 31 years old. We have a long way to go to make it possible for people with different perspectives and experiences to make contributions which reflect their full potential.
+The <a target="_blank" href="https://forum.effectivealtruism.org/posts/ThdR8FzcfA8wckTJi/ea-survey-2020-demographics">EA Survey 2020</a> respondents were  70.5% male, 76% white only, and its members are on average 29 years old (median 27 years). We have a long way to go to make it possible for people with different perspectives and experiences to make contributions that reflect their full potential.
 
-Here are some resources that will help you learn more about diversity and inclusion issues in the EA community. We recommend using them to improve diversity in your group.
 
 ### Readings
+
+Here are some resources that may help you learn more about diversity and inclusion in the EA community. 
+
 
 * <a target="_blank" href="https://docs.google.com/document/d/10Ox5If17SwhRQX1r3YjyfBCDx6F0nlk2Hk0k3ccjj6M/edit">Event suggestions catered to women and non-binary people</a>
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/2T3cGecjHfbEPXeEc/2019-ethnic-diversity-community-survey">2019 Ethnic Diversity Survey
 
 </a>
 
-* <a target="_blank" href="https://www.centreforeffectivealtruism.org/diversity-and-inclusion">CEA’s stance on Diversity and Inclusion
+* <a target="_blank" href="https://www.centreforeffectivealtruism.org/diversity-and-inclusion">CEA’s stance on Diversity and Inclusion</a>
 
-</a>
-
-* Encompass on <a target="_blank" href="https://encompassmovement.org/movement-cant-effective-without-inclusive/">Why Our Movement Can’t Be Effective Without Being Inclusive
-  </a>. This article is focused on the animal advocacy movement, but many of the conclusions also apply to the EA movement. 
 * Forum posts from community members:
 
   * Kelsey Piper on <a target="_blank" href="https://forum.effectivealtruism.org/posts/KPGFhgwR2HnA2nmcL/pitfalls-in-diversity-outreach">Pitfalls in Diversity Outreach</a>
-  * Kelly Witwicki on <a target="_blank" href="https://forum.effectivealtruism.org/posts/gWj6ikhTZp372uobf/research-on-effective-strategies-for-equity-and-inclusion-in">Research on Effective Strategies for Equity and Inclusion in Movement-Building</a> 
   * AGB on <a target="_blank" href="https://forum.effectivealtruism.org/posts/rb5YDEk3zej3HF5bg/ea-diversity-unpacking-pandora-s-box"> EA Diversity: Unpacking Pandora’s Box</a>
   * Dobroslawa Gogloza on <a target="_blank" href="https://forum.effectivealtruism.org/posts/qf6pGhm9a7vTMFLtc/english-as-a-dominant-language-in-the-movement-challenges">the challenges of English as the dominant language of the EA movement</a> 
-* An extensive list of <a target="_blank" href="https://docs.google.com/document/d/1PrAq4iBNb4nVIcTsLcNlW8zjaQXBLkWayL8EaPlh0bc/preview?pru=AAABcqPCIB0*W23GOEJWnQNLk9BujYcNyw">Anti-racism Resources</a>. People outside the EA community collated these. They mostly target white people in the USA, but many of the recommendations have broader applicability.
+
 
 ### Community
 
-* <a target="_blank" href=" https://www.facebook.com/groups/487263712002225">Ethnic Diversity group on Facebook</a> (for people who identify with a non-white ethnicity or race)
+* <a target="_blank" href=" https://www.facebook.com/groups/487263712002225">Underrepresented Racial & Ethnic Groups in EA Facebook group</a> (for people who identify with a non-white ethnicity or race)
 * <a target="_blank" href=" https://www.facebook.com/groups/diversityEA">Diversity & Inclusion in EA group on Facebook</a> (open to all)
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women and Non-Binary EA Facebook Group</a>
 * <a target="_blank" href="https://www.wanbam.com/">WANBAM connects and supports a global network of women, transgender, and non-binary people interested in Effective Altruism through mentorship</a>
+* <a target="_blank" href="https://join.slack.com/t/altruismo-eficaz/shared_invite/zt-9dcv7eki-jrN6GerS0NAI~97RH4dB2A">Altruismo Eficaz Slack Workspace</a> for Spanish speaking community members
+* <a target="_blank" href="https://www.facebook.com/groups/3032907556832660">Disabled and Chronically Ill People in Effective Altruism Facebook group</a>
 
 <a name="boundaries"></a>
 
