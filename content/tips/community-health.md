@@ -122,7 +122,7 @@ Here are some resources that may help you learn more about diversity and inclusi
 * <a target="_blank" href=" https://www.facebook.com/groups/487263712002225">Underrepresented Racial & Ethnic Groups in EA Facebook group</a> (for people who identify with a non-white ethnicity or race)
 * <a target="_blank" href=" https://www.facebook.com/groups/diversityEA">Diversity & Inclusion in EA group on Facebook</a> (open to all)
 * <a target="_blank" href="https://www.facebook.com/groups/471321469552208/">Women and Non-Binary EA Facebook Group</a>
-* <a target="_blank" href="https://www.wanbam.com/">WANBAM connects and supports a global network of women, transgender, and non-binary people interested in Effective Altruism through mentorship</a>
+* <a target="_blank" href="https://www.wanbam.com/">WANBAM connects and supports a global network of women, trans people of any gender, and non-binary people interested in Effective Altruism through mentorship</a>
 * <a target="_blank" href="https://join.slack.com/t/altruismo-eficaz/shared_invite/zt-9dcv7eki-jrN6GerS0NAI~97RH4dB2A">Altruismo Eficaz Slack Workspace</a> for Spanish speaking community members
 * <a target="_blank" href="https://www.facebook.com/groups/3032907556832660">Disabled and Chronically Ill People in Effective Altruism Facebook group</a>
 
@@ -249,7 +249,7 @@ If the person who misbehaved did so towards another member of your group, you mi
 
 <hr>
 
-### [NEXT: Handing over Leadership](/tips/handover/)
+### [NEXT: Community Spotlights](/tips/community-spotlights)
 
 ### [BACK: One-on-Ones](/tips/one-on-ones/)
 
