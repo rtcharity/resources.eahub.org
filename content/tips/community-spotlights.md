@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 5th May 2021_
+### _Updated 28th May 2021_
 
 This page features different groups and community organisers around the world. 
 
@@ -26,6 +26,35 @@ This page features different groups and community organisers around the world.
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="nyuad"></a>
+# EA University of Melbourne, Australia
+### _Published 28th May 2021_
+
+<p class="large_image_wrapper">
+ <img src="/img/unimelb.jpg" />
+</p>
+
+
+## Describe your group.
+
+We’re a group of around 30 people, based at the University of Melbourne, Australia that’s been around for 4-5 years. We try and act as a way for University of Melbourne students to hear about effective altruism, or to engage further in it if it’s something they’re interested in. Our events include careers workshops, discussions events and community socials. We also just started our fellowship program this year, called EA Scholars, based off other groups’ fellowship programs, which has been really exciting. We’re very grateful to other university groups for always being open to lending their resources.
+
+## What is the best advice/resource you’ve found?
+Talking to past group organisers, and other older EAs. We’ve been building stronger
+connections with EA Melbourne, for example, through a mentoring program with our
+students. That’s been really helpful for our members, who not only get insights into new 
+developments in the EA community, but to give more nuanced views of EA and how it can
+be practised in reality.
+
+
+## What is the strength of your group?
+We actually grew a lot during Australia’s COVID-19 lockdowns last year. I think a strength of our group has always been its community, and because we were able to transfer those
+friendships onto Zoom fairly easily, it made a really welcoming space for any new members.
+We had a lot of Zoom socials during this time, so that everyone still felt connected during
+COVID-19. It made for a really stimulating and relaxing environment.
 
 <hr>
 
