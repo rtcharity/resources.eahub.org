@@ -10,8 +10,8 @@ license:
 This page features different groups and community organisers around the world. 
 
 # Contents
-* <a href="#unimelb"> EA University of Melbourne - Australia </a>
-* <a href="#nyuad"> EA New York University - Abu Dhabi </a>
+* <a href="#unimelb"> EA University of Melbourne, Australia </a>
+* <a href="#nyuad"> EA New York University - Abu Dhabi, United Arab Emirates </a>
 * <a href="#uct"> EA University of Cape Town, South Africa </a>
 * <a href="#stijn"> Stijn Bruers, EA Belgium </a>
 * <a href="#pise"> Positive Impact Society Erasmus, Erasmus University, Netherlands </a>
@@ -60,7 +60,7 @@ COVID-19. It made for a really stimulating and relaxing environment.
 <hr>
 
 <a name="nyuad"></a>
-# EA New York University - Abu Dhabi
+# EA New York University - Abu Dhabi, United Arab Emirates
 ### _Published 5th May 2021_
 
 <p class="large_image_wrapper">
