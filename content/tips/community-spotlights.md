@@ -10,6 +10,7 @@ license:
 This page features different groups and community organisers around the world. 
 
 # Contents
+* <a href="#unimelb"> EA University of Melbourne - Australia </a>
 * <a href="#nyuad"> EA New York University - Abu Dhabi </a>
 * <a href="#uct"> EA University of Cape Town, South Africa </a>
 * <a href="#stijn"> Stijn Bruers, EA Belgium </a>
@@ -29,7 +30,7 @@ This page features different groups and community organisers around the world.
 
 <hr>
 
-<a name="nyuad"></a>
+<a name="unimelb"></a>
 # EA University of Melbourne, Australia
 ### _Published 28th May 2021_
 
