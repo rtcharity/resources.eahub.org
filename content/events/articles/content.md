@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Updated 4th May 2021_
+### _Updated 28th May 2021_
 
 This page contains content ideas for EA discussion groups. Also check out these <a href="https://resources.eahub.org/events/articles/discussion-tips/">tips on how to run discussion groups</a>.
 
@@ -41,7 +41,8 @@ This page contains content ideas for EA discussion groups. Also check out these 
 * Lists of reading lists for different EA related topics:
    *  <a target="_blank" href="https://forum.effectivealtruism.org/tag/collections-and-resources">Collections and Resources tag</a> on the EA Forum
    * EA Resource Hub lists (<a target="_blank" href="https://resources.eahub.org/learn/about-ea/">Introductory</a>, <a target="_blank" href="https://resources.eahub.org/learn/reading-lists/">Topic specific</a>)
- 
+
+   * Answers on the EA Forum question (<a target="_blank" href="https://forum.effectivealtruism.org/posts/i7DzFxBGkcGsQz3WG/what-are-things-everyone-here-should-maybe-read-1">What are things everyone here should (maybe) read?</a>
 
 # Videos
 
