@@ -51,7 +51,7 @@ Different groups use different formats. Here are three options.
 
 ## CEA/EA Oxford Curriculum
 
-The <a target="_blank" href="https://airtable.com/shrI91QveKdtE82E1">CEA/EA Oxford Introductory Fellowship curriculum</a> is an 8-week course developed in 2020 with assistance from a variety of experts; trialed with multiple groups; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. 
+The <a target="_blank" href="https://drive.google.com/drive/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y">CEA/EA Oxford Introductory Fellowship curriculum</a> is an 8-week course developed in 2020 with assistance from a variety of experts; trialed with multiple groups; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. 
 
 
 ## Arete Fellowship
