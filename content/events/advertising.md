@@ -9,6 +9,7 @@ license:
 
 This page covers advertising events, and was compiled by EA Cambridge, EA Melbourne, Brown EA, EA Philippines and the EA Resource Hub Team. 
 
+
 Read these two pages before you read this page:
 
 * <a target="_blank" href="https://resources.eahub.org/events/guide/">Guide to Running an Event</a>
