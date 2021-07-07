@@ -66,7 +66,7 @@ We also focus some of our discussions directly on career planning, which is appr
 
 ## What is the strength of your group?
 
-Well, firstly I think Estonia is a great place to live, in general. If anyone in the world wants to register a non-profit in Estonia, they can set it up in just a couple of days on a computer on e-estonia.com. 
+Well, firstly I think Estonia is a great place to live, in general. If anyone in the world wants to register a non-profit in Estonia, they can set it up in just a couple of days on a computer on <a target="_blank" href="https://e-estonia.com/">e-estonia.com</a>. 
 
 Advertising aside, I think we have a strong board and many great mentors and connections — from the former group lead Risto Uuk, who is currently focusing on AI policy in Europe, to Kristina Mering, the lead of Nähtamatud Loomad (the Estonian branch of Anima International). And, of course, Jaan Tallinn.
 
@@ -84,11 +84,7 @@ Advertising aside, I think we have a strong board and many great mentors and con
 
 ## Describe your group.
 
-We’re a group of around 30 people, based at the University of Melbourne, Australia that’s been around for 4-5 years. We try and act as a way for University of Melbourne students to
- hear about effective altruism, or to engage further in it if it’s something they’re interested
- in. Our events include careers workshops, discussions events and community socials. We
- also just started our fellowship program this year, called EA Scholars, based off other
- groups’ fellowship programs, which has been really exciting. We’re very grateful to other university groups for always being open to lending their resources.
+We’re a group of around 30 people, based at the University of Melbourne, Australia that’s been around for 4-5 years. We try and act as a way for University of Melbourne students to hear about effective altruism, or to engage further in it if it’s something they’re interested in. Our events include careers workshops, discussions events and community socials. We also just started our fellowship program this year, called EA Scholars, based off other groups’ fellowship programs, which has been really exciting. We’re very grateful to other university groups for always being open to lending their resources.
 
 ## What is the best advice/resource you’ve found?
 
@@ -328,7 +324,7 @@ EA Anywhere is a community for people who can't attend local EA groups to have r
 
 ## How did you start your group?
 
-During the pandemic, one of our organizers (Sami) was “adopted” by two EA groups, where he joined their online meetings and book clubs. However, as local restrictions in many countries loosened, local groups began returning to hosting in-person meetings, and these virtual meetings became less frequent. Sami wanted to continue to foster a place for EAs without local communities to connect, and <a target="_blank" href="https://forum.effectivealtruism.org/posts/fcdt2NRABS9Zfrzfu/announcing-the-ea-virtual-group">came up with what’s now EA Anywhere</a>.
+During the pandemic, one of our organizers (Sami) was “adopted” by two EA groups, where he joined their online meetings and book clubs. However, as local restrictions in many countries loosened, local groups began returning to hosting in-person meetings, and these virtual meetings became less frequent. Sami wanted to continue to foster a place for EAs without local communities to connect, and https://forum.effectivealtruism.org/posts/fcdt2NRABS9Zfrzfu/announcing-the-ea-virtual-group">came up with what’s now EA Anywhere</a>.
 
 ## What has been your most successful event, and why?
 
