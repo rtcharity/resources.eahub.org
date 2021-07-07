@@ -38,7 +38,7 @@ This page features different groups and community organisers around the world.
 
 ***Published 6th July 2021***
 
- <img src="/img/estonia-feature.jpg"/>
+ <img src="/img/estonia-feature.png"/>
 
 ## Describe your group.
 
