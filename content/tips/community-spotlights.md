@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 28th May 2021*
+### *Updated 6th July 2021*
 
 This page features different groups and community organisers around the world. 
 
