@@ -36,7 +36,7 @@ This page features different groups and community organisers around the world.
 
 # EA Estonia
 
-***Published 6th July 2021***
+### *Published 6th July 2021*
 <p class="large_image_wrapper">
  <img src="/img/estonia1.jpg"/>
 </p>
