@@ -37,9 +37,11 @@ This page features different groups and community organisers around the world.
 # EA Estonia
 
 ### *Published 6th July 2021*
+
 <p class="large_image_wrapper">
  <img src="/img/estonia1.jpg"/>
 </p>
+
 ## Describe your group.
 
 Effective Altruism Estonia is a group of students and professionals with varying degrees of knowledge of EA principles. Our group consists of a board and more than 50 other members in two cities: Tallinn (the capital of Estonia) and Tartu (home of our highest-ranking university). All of our members are volunteers.
