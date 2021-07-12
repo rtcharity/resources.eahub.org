@@ -65,6 +65,7 @@ Some videos that groups have tried and found worked well:
 * <a target="_blank" href="https://www.youtube.com/watch?v=CrMIEz_mSJM">The Precipice</a> - Toby Ord
 * <a target="_blank" href="https://www.youtube.com/watch?v=bXJ6U13SSmA">Decision-making workshop: learn how to make better decisions</a> -  Spencer Greenberg 
 * <a target="_blank" href="https://www.youtube.com/watch?v=095kFEA-jpE">Representing Future Generations</a> - Tyler John
+* <a target="_blank" href="https://www.youtube.com/watch?v=qeUOHOCFteM">What are the best ways to improve world happiness?</a> - Michael Plant
 * A pair of contrasting talks that could be shown at the same event, showing contrasting points of view about randomised controlled trials to reduce poverty:
    * <a target="_blank" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty?language=en">Social Experiments to Fight Poverty</a> - Esther Duflo
    * <a target="_blank" href="https://www.youtube.com/watch?v=d7xcrQ_xHrA">Growth and the case against randomista development</a> - Hauke Hillebrandt
