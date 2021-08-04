@@ -5,12 +5,13 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 6th July 2021*
+### *Updated 4th August 2021*
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
+* <a href="#arushi">Arushi Gupta, EA New York City
 * <a href="#estonia"> EA Estonia </a>
 * <a href="#unimelb"> EA University of Melbourne, Australia </a>
 * <a href="#nyuad"> EA New York University - Abu Dhabi, United Arab Emirates </a>
@@ -32,6 +33,36 @@ This page features different groups and community organisers around the world.
 
 <hr>
 
+<a name="arushi"></a>
+
+# Arushi Gupta, EA New York City
+
+### *Published 4th August 2021*
+
+<p class="large_image_wrapper">
+ <img src="/img/arushi.jpg" />
+</p>
+
+## What first drew you to effective altruism? 
+
+I’ve wanted to make an impact on the world ever since I was little. I used to visit India with my family every year, and I’d see kids in dire poverty on the streets. It seemed obviously unfair to me that they were in this situation and that I lived a life of such privilege, purely due to an accident of birth. I felt like it was imperative for me to solve these problems. I cycled through a couple of different career ideas throughout high school and college, but couldn’t figure out what was a good fit for me and would actually have an impact on the world. During my sophomore year of college, four years ago, I was googling advice on that topic and found 80,000 Hours. I felt as though someone had taken my jumbled thoughts about having an impact out of my head and written them down with much more clarity than I ever could have. After that I immediately started meeting every single EA I could, and eventually I ended up here :) 
+
+## What inspires you about effective altruism?
+
+It’s incredible to get to meet people every day who are so thoughtful and passionate about doing the most good for the world, and it’s probably the most inspiring job I will ever have. 
+
+Feeling like I’m on a team has been a really positive development for me. When I was younger I used to despair about the number of massive problems in the world and felt like I was alone in trying to solve them all. I still get overwhelmed by the number of problems in the world sometimes, but I feel so much better knowing I’m part of a huge group of people trying to work on them thoughtfully.
+
+## What is the best advice/resource you've found that you still use today?
+
+I love the Pocket app for saving articles to read later. The [EA Forum Digest](https://forum.effectivealtruism.org/posts/zRoXctENAsLchwryn/sign-up-for-the-forum-s-email-digest) newsletter has made it much easier for me to keep up with the Forum.
+
+## What has the community come to mean to you? 
+
+It’s one of the largest influences in my life; since joining the EA community four years ago, I’ve continued to meet wonderful people all the time, and now count a number of EAs among my closest friends. 
+
+<hr>
+
 <a name="estonia"></a>
 
 # EA Estonia
@@ -41,7 +72,6 @@ This page features different groups and community organisers around the world.
 <p class="large_image_wrapper">
  <img src="/img/estonia1.jpg" />
 </p>
-
 
 ## Describe your group
 
