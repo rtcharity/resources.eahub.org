@@ -1,27 +1,22 @@
 ---
-title: Guide to Running an Event
+title: Guide to Running an In-Person Event
 weight: 2
 license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 2nd August 2020*
+### *Updated 4th August 2021*
 
 *This section compiles tips from local organisers.*
 
 This guide primarily covers logistical considerations before, during and after in-person events. **Many of these points will only apply to bigger events**, so if you're hosting a small event, feel free to skip over sections that don't seem as relevant. 
-
 
 Other pages contain information on [types of events](https://docs.google.com/spreadsheets/d/1B96vudaQY1XJ1c2RCKXqnOuL8Sal0PQUpav5NnbOCb4/edit#gid=0), [running retreats](/events/retreats), as well as [general tips on building happy, healthy communities](tips/community-health). 
 
 # Contents
 
 * <a href="#preparing">Preparing for Your Event</a>
-* <a href="#before">Before the Event</a>
-* <a href="#during">During the Event</a>
-* <a href="#dynamics">Managing Group Dynamics</a>
-* <a href="#end">At the End of the Event</a>
-* <a href="#after">After the Event</a>
+* <a href="#day">On the Day of Your Event</a>
 * <a href="#reading">Further Reading</a>
 
 <a name="preparing"></a>
@@ -61,7 +56,6 @@ When considering how best to reach your audience, consider both the platforms yo
 
 Consider your event purpose, what your audience will be interested in, and your capacity as an organizer. For example, if the purpose of your event is to help group members bond, a social or a retreat might be useful; if the purpose is to help members learn about EA, a speaker event or discussion group might be more appropriate.
 
-
 Ideas for event formats are available on the [Types of Events](https://drive.google.com/a/centreforeffectivealtruism.org/open?id=1B96vudaQY1XJ1c2RCKXqnOuL8Sal0PQUpav5NnbOCb4) page. 
 
 ## 4. Schedule a date and time for the event.
@@ -79,26 +73,26 @@ Note: If you're considering using a venue that you'll need to book, you may want
 
 Finding a suitable venue can be a challenge. Here are some things you may want to consider as you look for a location:
 
-* **Try to host your event at an easy-to-find, easy-to-reach, and central location.** Remember that some people may not have a car, so they may struggle or be less willing to travel to suburban locations. Other people may prefer to drive to events, so the parking difficulties of central areas may deter them. So it may be difficult to find an ideal location for everyone. 
-* **Cost to book the location.** We recommend having most or all EA events free for people to attend. You can [apply for funding](https://elated-khorana-9gb345.netlify.app/tips/support/) to cover room hire and other event costs.
-* **Avoid using restaurants as your dominant meeting location** because buying food can be inaccessible for people with young children, unusual food requirements, little money, or who want to prioritise donations with their spare cash. Reduce some of these concerns by finding cheap, vegan-friendly, family-friendly restaurants. Some groups make events in cafes or pubs more accessible for people with little money by buying some food to share using their [group funding](https://elated-khorana-9gb345.netlify.app/tips/support/), and making it clear people don't need to buy additional food and drink if they don't want to. Ben Kuhn shares [more considerations](https://www.benkuhn.net/eatout) about eating out.  
-* **When possible, host your public events in places that are wheelchair accessible and ask about the accessibility of toilets and disabled parking places.** These considerations are helpful for people with mobility issues unrelated to using wheelchairs as well.
-* **Make sure to check age restrictions at places that serve alcohol** if you are expecting underage people (whether potential members of your group or as children of your attendees).
-* **Try to host events in areas with lower levels of street harassment.** In some cities, women have reported substantial street harassment while travelling to EA events in certain areas. Ask a few attendees if they have had any problems getting to and from venues. 
-* **When choosing a pub, cafe, or restaurant, look or ask for quieter rooms and avoid big sports match days if the venue screens sports.** (This is particularly relevant in western countries like the US, UK and Australia). Some people struggle to communicate in noisy environments, so try to offer socials in quieter settings. Quieter rooms are especially considerate for those whose first language is not English, those with hearing loss, or people opposed to loud environments due to sensitivity to noise, touch or other conditions.
-* **Make sure your venue has the equipment and facilities you need to hold your event and make your attendees comfortable.** Depending on your event, this might include audio-visual equipment, tables, sofas and cushions, and comfortable seating (tall chairs can be uncomfortable for some people). You may also want space to move around and talk to others and/or a configurable environment. 
-* **Bear in mind that, when sharing a venue with a non-EA organisation, attendees may think that you are associated with the other organisation.** You may want to consider the risks of sharing buildings with organisations that conflict with EA principles or otherwise have a poor public reputation.
+* Try to host your event at an easy-to-find, easy-to-reach, and central location. Remember that some people may not have a car, so they may struggle or be less willing to travel to suburban locations. Other people may prefer to drive to events, so the parking difficulties of central areas may deter them. So it may be difficult to find an ideal location for everyone. 
+* Cost to book the location. We recommend having most or all EA events free for people to attend. You can [apply for funding](https://elated-khorana-9gb345.netlify.app/tips/support/) to cover room hire and other event costs.
+* Avoid using restaurants as your dominant meeting location because buying food can be inaccessible for people with young children, unusual food requirements, little money, or who want to prioritise donations with their spare cash. Reduce some of these concerns by finding cheap, vegan-friendly, family-friendly restaurants. Some groups make events in cafes or pubs more accessible for people with little money by buying some food to share using their [group funding](https://elated-khorana-9gb345.netlify.app/tips/support/), and making it clear people don't need to buy additional food and drink if they don't want to. Ben Kuhn shares [more considerations](https://www.benkuhn.net/eatout) about eating out.  
+* When possible, host your public events in places that are wheelchair accessible and ask about the accessibility of toilets and disabled parking places. These considerations are helpful for people with mobility issues unrelated to using wheelchairs as well.
+* Make sure to check age restrictions at places that serve alcohol if you are expecting underage people (whether potential members of your group or as children of your attendees).
+* Try to host events in areas with lower levels of street harassment. In some cities, women have reported substantial street harassment while travelling to EA events in certain areas. Ask a few attendees if they have had any problems getting to and from venues. 
+* When choosing a pub, cafe, or restaurant, look or ask for quieter rooms and avoid big sports match days if the venue screens sports. (This is particularly relevant in western countries like the US, UK and Australia). Some people struggle to communicate in noisy environments, so try to offer socials in quieter settings. Quieter rooms are especially considerate for those whose first language is not English, those with hearing loss, or people opposed to loud environments due to sensitivity to noise, touch or other conditions.
+* Make sure your venue has the equipment and facilities you need to hold your event and make your attendees comfortable. Depending on your event, this might include audio-visual equipment, tables, sofas and cushions, and comfortable seating (tall chairs can be uncomfortable for some people). You may also want space to move around and talk to others and/or a configurable environment. 
+* Bear in mind that, when sharing a venue with a non-EA organisation, attendees may think that you are associated with the other organisation. You may want to consider the risks of sharing buildings with organisations that conflict with EA principles or otherwise have a poor public reputation.
 
 ### Suggested Venues
 
-* **Your home (or another organizer's home).** This may be an option if your group is small or your home is large. New attendees may find it intimidating coming to a stranger’s house, so personally contacting new people who RSVP to the event and putting up an EA sign outside can help welcome newcomers. See [this document](https://sites.google.com/d/1VlKHaZuLwPojNH2jbNtyYCyQLdJ5QdoD/p/1WkbrDgVgwl12nIu8pmKtoj964XqHJZ_4/edit) for tips and menus if you take this approach.
-* **Open spaces like parks, courtyards, or gardens.** This can work especially well for parents who can't afford babysitters. Make sure to have an alternative location if the weather is bad. Pick a spot that's close to toilets, has some seats(or bring folding chairs) and has a mix of sun and shade so people can choose to be in or out of the sun. 
-* **Hiking or walking paths.** Going on walks or hikes together is ideal for generating one-on-one conversations, and is good exercise too!
-* **Public libraries or community centres.** These tend to be accessible, neutral locations and often have affordable rooms for meetings, speaker events, discussion groups or workshops. Sometimes community groups can access these at a discount or for free.
-* **Cafes, bookshops, or hotel lobbies** can work for smaller groups. 
-* **Office buildings.** If one or more of your group members works at an office with rooms available to rent out, you may be able to book a room through them.
+* Your home (or another organizer's home). This may be an option if your group is small or your home is large. New attendees may find it intimidating coming to a stranger’s house, so personally contacting new people who RSVP to the event and putting up an EA sign outside can help welcome newcomers. See [this document](https://sites.google.com/d/1VlKHaZuLwPojNH2jbNtyYCyQLdJ5QdoD/p/1WkbrDgVgwl12nIu8pmKtoj964XqHJZ_4/edit) for tips and menus if you take this approach.
+* Open spaces like parks, courtyards, or gardens. This can work especially well for parents who can't afford babysitters. Make sure to have an alternative location if the weather is bad. Pick a spot that's close to toilets, has some seats(or bring folding chairs) and has a mix of sun and shade so people can choose to be in or out of the sun. 
+* Hiking or walking paths. Going on walks or hikes together is ideal for generating one-on-one conversations, and is good exercise too!
+* Public libraries or community centres. These tend to be accessible, neutral locations and often have affordable rooms for meetings, speaker events, discussion groups or workshops. Sometimes community groups can access these at a discount or for free.
+* Cafes, bookshops, or hotel lobbies can work for smaller groups. 
+* Office buildings. If one or more of your group members works at an office with rooms available to rent out, you may be able to book a room through them.
 
-## 6. Plan <a target="_blank" href="/events/food/">food and drink</a> for the event, if applicable. 
+## 6. Plan <a target="_blank" href="/events/food/">food and drink</a> for the event, if applicable.
 
 Food and drink during an event can motivate attendance, help people to relax, and can encourage people to stay longer and socialise and discuss. In general, try to have a range of healthy and less healthy snacks and always provide plenty of accessible water.  [Funding](https://elated-khorana-9gb345.netlify.app/tips/support/) is available to pay for inexpensive food and snacks for EA events.
 
@@ -137,7 +131,7 @@ Some things to consider:
 * For longer events like workshops and co-working sessions it might be good to have some finger foods if the event is between meals, but for longer events you will probably need to offer a full meal. Consider arranging a meal that can be served cold, so you can have the meal delivered or prepared before the event begins.
 * If you need to serve food and drink in a separate room, make sure it’s not too far away, as moving locations tends to lose people.
 
-## 7. Publicise the event on social media and mailing lists. 
+## 7. Publicise the event on social media and mailing lists.
 
 We offer a guide to [promoting events](/tips/advertising) and [sample graphics](https://resources.eahub.org/graphics/editable-graphics/) to help with marketing. 
 
@@ -183,7 +177,7 @@ Some options you might want to consider:
 * Print short surveys in advance, or create a short link to an online survey people can fill in on their phones. This might be most useful for or longer events such as multiweek reading groups/fellowships, full day workshops and retreats, have people fill them out at the end of the event. Survey responses can provide excellent information but can leave a poor impression. Be especially wary if your attendees are new to EA, since most groups don’t send out surveys, and some people find them annoying. Use your intuition to work out what would be appropriate. Some groups 
 * Many organisers also choose to keep track of the number of people, and (for small events) the names of people that came.
 
-## 11. Gather the equipment and resources you will need. 
+## 11. Gather the equipment and resources you will need.
 
 We recommend you make a list of things to bring that is specific to your group and the venues you use. If you're holding a small, casual social, you may not need **any** of these things, but for bigger events you may need to prepare more. Go through it before you leave home for each event. 
 
