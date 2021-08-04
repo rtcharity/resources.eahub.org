@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 6th July 2021*
+### *Updated 4th August 2021*
 
 This page features different groups and community organisers around the world. 
 
@@ -38,6 +38,8 @@ This page features different groups and community organisers around the world.
 # Arushi Gupta, EA New York City
 
 ### *Published 4th August 2021*
+
+
 
 ## What first drew you to effective altruism? 
 
