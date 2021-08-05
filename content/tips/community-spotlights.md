@@ -40,7 +40,7 @@ This page features different groups and community organisers around the world.
 ### *Published 4th August 2021*
 
 <p class="large_image_wrapper">
- <img src="/img/arushi.jpg" />
+ <img src="/img/Arushi1.jpg" />
 </p>
 
 ## What first drew you to effective altruism? 
