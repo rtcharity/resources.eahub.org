@@ -4,9 +4,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-Advertising your EA intro programs
-
-This doc collates some experiences from different EA groups about how to most effectively market or advertise your intro programs and get more applications. Feel free to comment with suggestions or experiences from your group!
+This article collates some experiences from different EA groups about how to most effectively market or advertise your intro programs and get more applications. 
 
 Note: Many groups call their intro programs “fellowships” and call participants “fellows” – these terms are used interchangeably in this article!
 
@@ -128,8 +126,6 @@ This section contains sample marketing materials that EA groups have used to adv
 
 This section contains samples of advertising graphics from a few EA Groups. Most of the links below will take you to the graphic design website Canva, which is free and easy to use. Once you’ve made an account, open a design, press “Use template”, and Canva will make a copy for you that you can freely edit.
 
-
-
 ### Facebook banners
 
 [Design from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtmQCxI/W_fOPMvhgIhz2rVCWLa5xA/view?utm_content=DAElWtmQCxI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
@@ -176,8 +172,6 @@ This section contains samples of advertising graphics from a few EA Groups. Most
 
 [Email templates from Effective Altruism Harvard.](https://docs.google.com/document/d/1LrQt5xUAAptNcyq4h6LyXK84KMu32wGM8eJKmaSEQCo/edit?usp=sharing)
 
-
-
 # More resources
 
 [General advice on publicising your group activities](https://resources.eahub.org/tips/publicity/#general)
@@ -191,8 +185,6 @@ This section contains samples of advertising graphics from a few EA Groups. Most
 [Communicating about EA guide](https://resources.eahub.org/learn/communicate-ea/)
 
 [Tips on talking about EA](https://forum.effectivealtruism.org/posts/p6YgPpdhMpajBZ2Lf/tips-on-talking-about-effective-altruism)
-
-
 
 # Hall of Fame
 
