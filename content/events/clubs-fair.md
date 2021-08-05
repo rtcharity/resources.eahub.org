@@ -5,7 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Published 3rd August 2020*
+### *Published 4th August 2021*
 
 <p class="large_image_wrapper">
 <img src="/img/clubs_fair_table.jpg" />
@@ -29,8 +29,7 @@ Many groups have produced their own guides for the Clubs Fair, which we list und
 * <a href="#during">During the Fair</a>
 * <a href="#pitch">Sample 'Pitches'</a>
 * <a href="#after">After the Fair</a>
-* <a href="#indepth">In-Depth Guides</a>
-* <a href="#lightning">Lightning Giving Games </a>
+* <a href="#indepth">Further Reading</a>
 
 <a name="tabling"></a>
 
