@@ -48,7 +48,7 @@ Many groups have produced their own guides for the Clubs Fair, which we list und
 # Aims of Attending the Fair
 
 1. **To get people to sign up for your group’s mailing list or equivalent.** Some groups take this opportunity to gain as many sign-ups as possible. This approach prioritises quick interactions with as many people as possible, following the reasoning that it is hard to gauge people’s genuine interest at a Clubs Fair and optimising for sign-ups gives as many people as possible the opportunity to engage with the group further. Read more about this approach in this [forum post about Oxford’s Clubs Fair](https://forum.effectivealtruism.org/posts/TFyJC9XCD3Xp99uh8/optimizing-activities-fairs-1). This approach can work well in fast-paced, crowded Clubs Fairs. However, you want to avoid pushy pitches which can leave a bad impression. We want people’s first exposure to reflect the kindness and thoughtfulness that defines the movement. Each university has a different Clubs Fair atmosphere, so check out how other clubs are soliciting mailing-list sign-ups and make sure your approach doesn’t stand out for being too aggressive.
-2. **To briefly introduce effective altruism and give people a chance to interact with your group.** If your university’s Clubs Fair is quiet or you are doing tabling at other times of the year, you will have enough time to have longer conversations. You could also try an engaging activity such as a [Lightning Giving Game](https://sites.google.com/d/1VlKHaZuLwPojNH2jbNtyYCyQLdJ5QdoD/p/1I0hwumXMTu012lKK9CMZcu-j-kceEXGh/edit) where participants receive money and must choose between different donation opportunities.
+2. **To briefly introduce effective altruism and give people a chance to interact with your group.** If your university’s Clubs Fair is quiet or you are doing tabling at other times of the year, you will have enough time to have longer conversations. You could also try an engaging activity such as a [Lightning Giving Game](/events/lightning-giving-game) where participants receive money and must choose between different donation opportunities.
 3. **To invite people to meet for a [one-on-one](https://resources.eahub.org/tips/one-on-ones/).** Make a note of people who seem especially interested in EA when you speak to them, and either ask them if they want to have a one-on-on during your conversation or follow up with them afterwards via email to invite them for a one-on-one meeting. You could also include an option for people to sign-up for a one-on-one while signing up for your mailing list.
 4. **To encourage people to attend your first event.** Aim to run your first event within a week of the Clubs Fair. Advertise it using posters, handouts, and in conversation during the Fair. Soon afterwards, send an email to your new sign-ups with the event details.
 5. **To identify other people who are already familiar with, and interested in, EA.** These could be the most useful connections, especially if your club is new, as they might be interested in taking leadership roles. Follow up with these people with a one-on-one soon after the Fair.
@@ -81,14 +81,14 @@ Many groups have produced their own guides for the Clubs Fair, which we list und
    * Paper signup sheets and pens if you’re not using devices or if you run out of power
    * Food and water for your volunteers
    * EA-branded T-shirts for your volunteers
-   * Optional: [Lightning Giving Game](https://sites.google.com/d/1VlKHaZuLwPojNH2jbNtyYCyQLdJ5QdoD/p/1I0hwumXMTu012lKK9CMZcu-j-kceEXGh/edit) materials if you choose to run one of these games.  These are quick activities that involve giving $1 (or a similar amount in local currency) to each participant to donate to one of 2-4 charities. This takes longer than a standard clubs fair interaction, so this approach could result in fewer sign-ups, but it is novel, and allows individuals more time to interact with your group members. Lightning Giving Games might be a good choice for universities with slower-paced Clubs Fairs. See our guidance on running [Lightning Giving Games](https://sites.google.com/d/1VlKHaZuLwPojNH2jbNtyYCyQLdJ5QdoD/p/1I0hwumXMTu012lKK9CMZcu-j-kceEXGh/edit).
+   * Optional: [Lightning Giving Game](events/lightning-giving-game) materials if you choose to run one of these games.  These are quick activities that involve giving $1 (or a similar amount in local currency) to each participant to donate to one of 2-4 charities. This takes longer than a standard clubs fair interaction, so this approach could result in fewer sign-ups, but it is novel, and allows individuals more time to interact with your group members. Lightning Giving Games might be a good choice for universities with slower-paced Clubs Fairs. 
 
 <a name="during"></a>
 
 # During the Fair
 
 1. **Approach people**. If you’re aiming to maximise your number of sign-ups, you will need to attract people’s attention as they walk past your stall, rather than only speaking to people who approach you first. Calling out can feel awkward, but becomes much easier after a bit of practice. Read more about how to approach people in the pitch guides linked below.
-2. **Run the [Lightning Giving Game](https://sites.google.com/d/1VlKHaZuLwPojNH2jbNtyYCyQLdJ5QdoD/p/1I0hwumXMTu012lKK9CMZcu-j-kceEXGh/edit) with interested people if applicable.** 
+2. **Run the [Lightning Giving Game](/events/lightning-giving-game) with interested people if applicable.** 
 3. **Give your** <a href="#pitch">**pitch**</a>.
 4. **Stay motivated**. Make sure your volunteers take adequate breaks according to their needs. Some groups motivate themselves by keeping track of how many sign-ups or conversations you’re getting every 30 minutes.
 
@@ -151,7 +151,7 @@ Below are some example pitches to get you started. In any of these pitches, if s
 
 # Further Reading
 
-* [Running a Lightning Giving Game](https://sites.google.com/centreforeffectivealtruism.org/eagroupsresources/)
+* [Running a Lightning Giving Game](events/lightning-giving-game)
 * [EA Wellington's "How to Run an Effective Stall (we think)"](https://forum.effectivealtruism.org/posts/E58nEJtaEwkKtWdSi/how-to-run-an-effective-stall-we-think)
 * [EA Groups Guide 2016](https://docs.google.com/document/d/1fh2orJ_bpdTrloRA4lnyUqMQ-8iMkY6aXfLvW8DHF0w/edit)
 * [Optimizing Activities Fairs from EA Oxford](https://forum.effectivealtruism.org/posts/TFyJC9XCD3Xp99uh8/optimizing-activities-fairs-1)
