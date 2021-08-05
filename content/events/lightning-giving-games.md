@@ -56,12 +56,14 @@ Cons:
 
 Charity ideas:
 
-* One appealing but ineffective or harmful charity
-* * [PlayPumps](http://www.playpumps.co.za/) is a popular option ([more information on PlayPumps](https://www-tc.pbs.org/frontlineworld/stories/southernafrica904/flash/pdf/unicef_pp_report.pdf))
-* One effective global health charity
-* * [Against Malaria Foundation](https://www.againstmalaria.com/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))
-  * [GiveDirectly](https://www.givedirectly.org/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))
-  * [Evidence Action’s Dispensers for Safe Water](https://www.evidenceaction.org/dispensers-2017/) which is a good contrast to PlayPumps since they both aim to provide clean water (a [GiveWell standout charity](https://www.givewell.org/charities/other-charities))
+* One appealing but ineffective or harmful charity[](http://www.playpumps.co.za/)
+
+  * [PlayPumps](http://www.playpumps.co.za/) is a popular option ([more information on PlayPumps](https://www-tc.pbs.org/frontlineworld/stories/southernafrica904/flash/pdf/unicef_pp_report.pdf))
+* One effective global health charity[](https://www.givedirectly.org/)[](https://www.evidenceaction.org/dispensers-2017/)
+
+  * [Against Malaria Foundation](https://www.againstmalaria.com/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))[](https://www.givedirectly.org/)
+  * [GiveDirectly](https://www.givedirectly.org/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))[](https://www.evidenceaction.org/dispensers-2017/)
+  * [](https://www.givedirectly.org/)[Evidence Action’s Dispensers for Safe Water](https://www.evidenceaction.org/dispensers-2017/) which is a good contrast to PlayPumps since they both aim to provide clean water (a [GiveWell standout charity](https://www.givewell.org/charities/other-charities))
 
 A note on choosing charities
 
@@ -88,8 +90,9 @@ Cons:
 Charity ideas:
 
 * Three effective global health charities
-* * [Against Malaria Foundation](https://www.againstmalaria.com/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))
-  * [GiveDirectly](https://www.givedirectly.org/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))
+
+  * [Against Malaria Foundation](https://www.againstmalaria.com/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))[](https://www.givedirectly.org/)
+  * [GiveDirectly](https://www.givedirectly.org/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))[](https://schistosomiasiscontrolinitiative.org/)
   * [Schistosomiasis Control Initiative](https://schistosomiasiscontrolinitiative.org/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))
   * [Helen Keller International](https://www.hki.org/) (recommended by [GiveWell](https://www.givewell.org/charities/top-charities))
 
