@@ -45,13 +45,21 @@ This overview from the fellowship coordinators from Yale, Harvard and Stanford, 
 
 Different groups use different formats. Here are three options.
 
+* Accept many applicants from a pool and split them into groups of 3-5 fellows. Assign a facilitator to each group. The groups can meet at different times of the week for weekly discussions. Groups using this model usually have social events for all their fellows.  
 * Invite approximately 15 people from a pool of applicants to attend weekly discussions. Encourage each fellow to have a one-on-one meeting with the facilitator. Harvard (Arete) and Yale EA are using this model.
-* Accept many applicants from a pool and split them into groups of 5-6 fellows. Assign a facilitator to each group. EA Brown is using this model. 
-* Run the fellowship through a series of regular one-on-one meetings (or one-on-two meetings). The facilitator's time commitment is greater with this model, but groups report that 1-1 dynamics feel more warm and supportive than large group discussions. Additionally, facilitators can tailor the programme to the individuals involved. EA St Andrews and Stanford EA use this model.
+* Run the fellowship through a series of regular one-on-one meetings (or one-on-two meetings). The facilitator's time commitment is greater with this model, but groups report that 1-1 dynamics feel more warm and supportive than large group discussions. Additionally, facilitators can tailor the programme to the individuals involved. EA St Andrews and Stanford EA have tried this model. EA St Andrews now uses a combination of 1:1 meetings and group meetings. 
 
-## CEA/EA Oxford Curriculum
+## EA Virtual Programs Curriculum
+This is the most tested and frequently updated curriculum. This is an 8-week course developed in 2020 with assistance from a variety of experts; trialed over 2020 and 2021; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. 
 
-The <a target="_blank" href="https://drive.google.com/drive/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y">CEA/EA Oxford Introductory Fellowship curriculum</a> is an 8-week course developed in 2020 with assistance from a variety of experts; trialed with multiple groups; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. 
+* <a target="_blank" href="https://docs.google.com/document/d/1__1SQRhsFjB-eoDVbaZaA4l8-BMu9wcBTOAD0kDewZY/edit?usp=sharing"> EA Virtual Programs Intro syllabus</a> 
+
+
+* <a target="_blank" href="https://docs.google.com/document/d/1dkK95pNYxtEuMCRGQJh7fLrmkBmrcN9tN-iDaYGYApY/edit?usp=sharing"> EA Virtual Programs Intro facilitator guide </a>
+
+## EA Oxford Curriculum
+
+The <a target="_blank" href="https://drive.google.com/drive/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y">EA Oxford Introductory Fellowship curriculum</a> is an 8-week course, which the EA Virtual Programs course was based on. The main difference is that this curriculum has a week on forecasting, and the EA Virtual Programs instead has a week on criticisms of EA. 
 
 
 ## Arete Fellowship
