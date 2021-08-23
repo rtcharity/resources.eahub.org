@@ -10,7 +10,7 @@ license:
 The editing software most commonly used by groups is
 1. <a target="_blank" href="https://www.canva.com/">Canva</a>
 2. <a target="_blank" href="https://designer.gravit.io/">Gravit</a>
-Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. Gravit also has a desktop version.
+Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
 
 # Canva instructions
 1. Join the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Team Canva Team</a>
