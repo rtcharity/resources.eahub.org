@@ -245,7 +245,9 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 
 
+
 <a name="events"></a>
+
 # Event Advertising
 
 ## General Templates
@@ -373,6 +375,7 @@ Poster:
 
 
 <a name="brochures"></a>
+
 # Brochures and Flyers
 ## Three Fold Brochure (A4 and Letter Sized)
 Outer page design based on the CEA brochure, text based on <a target="_blank" href="https://www.effectivealtruism.org/">effectivealtruism.org</a>. 
@@ -414,7 +417,9 @@ These are designed to be printed directly onto A4 or letter sized paper and then
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
-## Detailed Flyer
+
+
+## Detailed Flyer
 This flyer has a little more information, and is intended for giving out to people after they attend an introductory presentation on EA. The idea is that the flyer contains the main links recommended in the content of the presentation so that people can follow up on the topics that interest them, so we recommend you alter the content to suit. 
 
 
