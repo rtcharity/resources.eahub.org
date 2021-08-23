@@ -5,25 +5,30 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### _Published 24th September 2019, updated 31st July 2020_
+### _Updated 24th August 2021_
+
+### <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Join the Effective Altruism Groups Canva Team</a>. 
+This has a bunch of editable designs you can use. Or check out the graphics below (which mostly use Gravit). 
 
 
-Choose a file to modify below, or browse the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>.
 
-More editable graphics will be added over time. Please <a target="_blank" href="/contact-lean/">contact us</a> if you have existing graphics to share, or suggestions for graphics that your group would find useful.
 
 # Contents:
 
 * <a href="#fonts">Fonts</a>
 * <a href="#logos">Logos</a>
-* <a href="#banners">Physical Banners</a>
-* <a href="#advertising">General Advertising Posters</a>
-* <a href="#facebookbanners">Facebook and Meetup Banners</a>
-* <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
-* <a href="#events">Event Advertising</a>
-* <a href="#brochures">Brochures and Flyers</a>
+* <a href="#default">Default EA Group Graphics</a>
+
+* <a href="#other">Graphics shared by EA Groups</a>
+   * <a href="#banners">Physical Banners</a>
+   * <a href="#advertising">General Advertising Posters</a>
+   * <a href="#facebookbanners">Facebook and Meetup Banners</a>
+   * <a href="#facebookprofiles">Facebook Page Profile Pictures</a>
+   * <a href="#events">Event Advertising</a>
+   * <a href="#brochures">Brochures and Flyers</a>
 
 <a name="fonts"></a>
+
 # Fonts
 
 The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
@@ -100,11 +105,60 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 
 <a target="_blank" href="https://drive.google.com/file/d/1dzNg5zA6_Cxc1flRgM0F8pgRZpYzQimx/view?usp=sharing">High Res png</a>
 
+<a name="default"></a>
+# Default EA Groups Graphics
+**All the Default EA Groups Graphics are also on the EA Groups Canva Team. These are the Gravit versions.**
+
+Style Guide:
+<p class="large_image_wrapper">
+<img src="/img/styleguide.png" />
+</p>
+
+<a target="_blank" href="https://designer.gravit.io/?token=tdUsWwxZxcMlhZsq46p1GrPcdSkh_CqK">Editable Gravit file</a>
+ 
+
+**We recommend groups change the background image to suit their group and their event.** 
+
+Outreach Flyer:
+<p class="large_image_wrapper">
+<img src="/img/outreach.png" />
+</p>
+
+<a target="_blank" href="https://designer.gravit.io/?token=erEaSzZSMNCTmtz0XhRzuFgIhFvNPVTU">Editable Gravit file</a>
+
+
+Event Poster:
+<p class="large_image_wrapper">
+<img src="/img/introtoea.png" />
+</p>
+
+<a target="_blank" https://designer.gravit.io/?token=xm5r78Ax59Bd9A3HpZ9rmrUnKBHZjF33U">Editable Gravit file</a>
+
+
+Fellowship:
+<p class="large_image_wrapper">
+<img src="/img/Fellowship.jpg" />
+</p>
+
+<a target="_blank" https://designer.gravit.io/?token=zg7u1YY2Gx-GzKTEJlcyHAu1ZYjP6QqZ">Editable Gravit file</a>
+
+
+Vertical Banner
+<p class="large_image_wrapper">
+<img src="/img/banner.png" />
+</p>
+
+<a target="_blank" https://designer.gravit.io/?token=bKfjWgPmtUlK2aw-TGW2_YWDswCD6Wcq">Editable Gravit file</a>
+
+
+
+<a name="other"></a>
+# Graphics shared by EA Groups
 
 <a name="banners"></a>
-# Physical Banners
+## Physical Banners
 
-All the banner files, and the component images can be found in the Physical Banners File. 
+All the banner files, and the component images can be found in the <a target="_blank"https://drive.google.com/drive/u/0/folders/1Vm8yv48cmHybuxdpsbjcK5ktz1ap6Ak4">Physical Banners Folder</a>. 
 The second banner in this list was based on the EA Auckland Banner, and the others were inspired by banners made by CEA. 
 
 <p class="large_image_wrapper">
@@ -225,7 +279,7 @@ From EA Auckland
 For other ideas for facebook banner images, check out this <a target="_blank" href="https://drive.google.com/open?id=1b0iFuwjydeczcuas36wH6cPdnRFQQvC5">selection of banner images</a> from various EA groups around the world. Many groups choose to use a photo of their area or city, and place the EA logo and text over this image. 
 
 <a name="facebookprofiles"></a>
-# Facebook Page Profile Pictures
+## Facebook Page Profile Pictures
 
 <p class="large_image_wrapper">
 <img src="/img/bluelightbulbonwhite.png" />
@@ -248,55 +302,11 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 <a name="events"></a>
 
-# Event Advertising
-
-## General Templates
-Facebook Event Image Template:
-
-<p class="large_image_wrapper">
-<img src="/img/bluegreyeventtemplate.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1HgDPvmtbJOeWhZ72Pp-_SZ6UmbWt4wdZ">Editable Gravit File</a>
-
-Poster Image Template:
-
-<p class="large_image_wrapper">
-<img src="/img/bluegreyeventtemplateposter.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=18gebtUOZq7pGfxtzXw8kpmYsjCcNF90R">Editable Gravit File</a>
+## Event Advertising
 
 
-## Meta Events
-Facebook:
 
-<p class="large_image_wrapper">
-<img src="/img/careerevent1.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1eOhfjPDhjDVtMX9_sDHIOZQkF8pnCuan">Editable Gravit File</a>
-
-
-Poster:
-
-<p class="large_image_wrapper">
-<img src="/img/careerevent1poster.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1STgbdoAl1xp1wTSmNGan0liNZ9DKLs-g">Editable Gravit File</a>
-
-
-Facebook:
-
-<p class="large_image_wrapper">
-<img src="/img/causepri.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1Pyyq7j3x5S3_fWdvE_8SONInoGSPorPI">Editable Gravit File</a>
-
-
-## Long-Term Future
+### Long-Term Future
 
 Facebook:
 
@@ -316,7 +326,7 @@ Poster:
 
 
 
-## Global Poverty
+### Global Poverty
 Facebook:
 
 <p class="large_image_wrapper">
@@ -376,8 +386,8 @@ Poster:
 
 <a name="brochures"></a>
 
-# Brochures and Flyers
-## Three Fold Brochure (A4 and Letter Sized)
+## Brochures and Flyers
+### Three Fold Brochure (A4 and Letter Sized)
 Outer page design based on the CEA brochure, text based on <a target="_blank" href="https://www.effectivealtruism.org/">effectivealtruism.org</a>. 
 
 
@@ -393,13 +403,13 @@ Outer page design based on the CEA brochure, text based on <a target="_blank" hr
 
 <a target="_blank" href="https://drive.google.com/open?id=1hVx4ARoBKVPWhFUjLit3PufmOrEU97GE">Brochure Gravit File (Letter Sized)</a>
 
-Download the gravit file to make alterations. At least change the group name and details.
+Download the Gravit file to make alterations. At least change the group name and details.
  
 These are designed to be printed directly onto A4 or letter sized paper and then folded without the edges being trimmed. Therefore there will be a white surround to each panel of the brochure. If you prefer to have the colours extend to the edges (and will get the edges of the paper trimmed), you’ll need to edit the files.
 
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they fold correctly before you do a big print run!
 
-## Simple Flyer
+### Simple Flyer
 This flyer is intended for giving out to people who express interest in EA, e.g. during a clubs fair. 
 
 
@@ -419,7 +429,7 @@ Export your file as a pdf, and when you print from Adobe reader choose "custom s
 
 
 
-## Detailed Flyer
+### Detailed Flyer
 This flyer has a little more information, and is intended for giving out to people after they attend an introductory presentation on EA. The idea is that the flyer contains the main links recommended in the content of the presentation so that people can follow up on the topics that interest them, so we recommend you alter the content to suit. 
 
 
@@ -438,7 +448,7 @@ These are designed to be printed directly onto A4 or letter sized paper and then
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
 
-## Fact Sheet
+### Fact Sheet
 
 This is for printing on a single A4 or letter sized page. 
 
