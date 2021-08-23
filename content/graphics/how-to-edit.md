@@ -5,6 +5,7 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
+### _Updated 24th August 2021_
 
 The editing software most commonly used by groups is
 1. <a target="_blank" href="https://www.canva.com/">Canva</a>
