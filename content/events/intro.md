@@ -45,11 +45,19 @@ The links provide slides and a suggested script for an EA talk. We recommend you
 * <a target="_blank" href="https://drive.google.com/drive/folders/1PMOPsZRJ2u4ENfEbYP7FNDsARiG0iqPl?usp=sharing">EA Stanford's introduction to EA</a> (35 minutes) is based on Ajeya Cotra's talk linked above. 
 * <a target="_blank" href="https://drive.google.com/drive/folders/1TX7xrH54OwFbph3dBvbxa-RqvVw-3dAw?usp=sharing">EA Stanford's short introduction to EA</a> (10 minutes) is a short version of the above talk. 
 *  <a target="_blank" href="https://docs.google.com/document/d/1VfFNN16mN4B0Ixc2JejaKAoFuvMv1uoQJ7y6MgKFOdU/edit">EA Oxford’s Introduction to EA</a> (45 minutes) is intended to optimise for outreach among audiences with no prior familiarity with EA concepts. Slides and recorded performances linked in the document.
+*  <a target="_blank" href="https://docs.google.com/presentation/d/1CMG5lGL9l36Or7U3f57LYKRXLbaWTW2Lf73sr-I0f9I/edit">Harvard's Introduction to EA/Fellowship Info session</a> has some great quiz questions that ask what interventions do the most good, with questions for climate impacts, medicine, education. Attendees often get these incorrect and are surprised by the large differences in impact.   
 * <a target="_blank" href="https://drive.google.com/drive/folders/1FOSPEdl-m42aIj5PLxNi15g6UX9daJO-?usp=sharing">Social Programs Quiz</a> (5 minutes) is a fun activity to slot within an intro talk if you have time. Participants have to guess whether each of the four social programs do good, cause harm, or have no measured effect. Very few people get all four correct, which shows that we need evidence and analysis to find the best ways to improve the world. It is based off <a target="_blank" href="https://80000hours.org/articles/can-you-guess/">80,000 Hours' social programs quiz</a>.  
 
 <a name="workshops"></a>
 
 # Interactive Workshops
+
+
+## Introduction to EA with Cause-Prioritisation Activity
+
+Cause-prioritisation is one of the most important and unique aspects of EA. While it is a difficult job to choose between different cause areas, it is possible to introduce the concepts of cause-prioritisation and teach people to apply them in a 1.5-hour introduction to EA.
+
+This <a target="_blank" href="https://drive.google.com/drive/folders/1Sqitu3q8b4NJZ95ec_O1n3_zHkrNCE8U?usp=sharing">Google Drive folder</a> has all the materials needed for a workshop that introduces EA and cause-prioritisation. It gives participants an activity to use the Scale, Neglectedness, Solvability framework to assess three to six cause areas. It includes PowerPoint slides, a sample script, information sheets on six cause areas, and a worksheet.
 
 ## Introduction to EA with the Giving Game
 
@@ -59,13 +67,7 @@ The giving game is a great way to introduce EA concepts for presentations taking
 
 For introductions to EA, it is usually best to restrict charities to a single cause area. In cross-cause-area giving games, participants often become distracted by their favourite cause and pay less attention to evidence. Remember to explain the breadth of EA after the game.
 
-For global poverty-focused giving games, the <a target="_blank" href="https://www.thelifeyoucansave.org/">Life You Can Save</a> can sponsor money going to charity. They will sponsor $5 (or 5 Euro or 5 pounds) for each high school student, $10 for each university student, or $20 for each professional. For details on sponsorship, go to <a target="_blank" href="https://www.thelifeyoucansave.org/giving-games">this guide</a> from The Life You Can Save.
-
-## Introduction to EA with Cause-Prioritisation Activity
-
-Cause-prioritisation is one of the most important and unique aspects of EA. While it is a difficult job to choose between different cause areas, it is possible to introduce the concepts of cause-prioritisation and teach people to apply them in a 1.5-hour introduction to EA.
-
-This <a target="_blank" href="https://drive.google.com/drive/folders/1Sqitu3q8b4NJZ95ec_O1n3_zHkrNCE8U?usp=sharing">Google Drive folder</a> has all the materials needed for a workshop that introduces EA and cause-prioritisation. It gives participants an activity to use the Scale, Neglectedness, Solvability framework to assess three to six cause areas. It includes PowerPoint slides, a sample script, information sheets on six cause areas, and a worksheet.
+CEA can <a target="_blank" href="https://www.centreforeffectivealtruism.org/group-support-funding/"provide funding</a> for your giving game. 
 
 ## Introduction to EA with Animal Charity Giving Game
 
