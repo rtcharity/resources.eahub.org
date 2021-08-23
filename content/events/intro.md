@@ -11,7 +11,7 @@ license:
 <img src="/img/intropresentation.png" />
 </p>
 
-Introductory workshops and talks suit audiences that are unfamiliar with effective altruism. Use them for newcomers' events or for presenting to non-EA groups. This page describes interactive workshops and talks of varying lengths. If you have only a short amount of time with the group, delivering a talk may be most suitable. Otherwise, we recommend workshops. The interactive activities help participants engage with the ideas and give them more opportunities to ask questions and clear up misconceptions.
+Introductory workshops and talks suit audiences that are unfamiliar with effective altruism. Use them for newcomers' events or for presenting to non-EA groups. This page describes interactive workshops and talks of varying lengths. If you have only a short amount of time with the group, delivering a talk may be most suitable. With a longer session, the interactive activities help participants engage with the ideas and give them more opportunities to ask questions and clear up misconceptions.
 
 First impressions are crucial, so it's worth learning how to represent EA well and avoid common pitfalls. The <a target="_blank" href="/learn/communicate-ea/">guide on communicating about EA</a> covers various ways of expressing EA concepts and common questions and objections. Catherine Low has also produced <a target="_blank" href="https://docs.google.com/document/d/1FURw0YwQkb4ZPiGE0MQwbSKBbbWuI7gDsIjMbBcA_VA/">this guide on running introductory workshops and presentations</a>.
 
