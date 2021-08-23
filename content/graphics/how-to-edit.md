@@ -14,7 +14,7 @@ Canva is easier to use but much less flexible than Gravit. Both software can be 
 
 # Canva instructions
 1. Join the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Team Canva Team</a>
-2. Navigate to the <a target="_blank" href="https://www.canva.com/teams/folders"> team folders</a>. If your team has little graphic design experience, or little time, we recommend groups use the "EA Groups Default Designs" folder, which contain very easy to use (and hard to mess up) designs. 
+2. Navigate to the <a target="_blank" href="https://www.canva.com/teams/folders"> team folders</a>. If your team has little graphic design experience, or little time, we recommend groups use the "EA Groups Default Designs" folder, which contain easy to use (and hard to mess up) designs. 
 3. Choose a design you like, hover to get the three dots, and click "Make a copy". 
 4. Then edit. 
 5. Download as a jpg and png, and make sure to choose an appropriate file size. A small size will look okay on screens, but you'll need a larger file size for printing posters. Once you've downloaded the file open it up on your computer and zoom in to check the resolution is okay for your purpose. 
@@ -60,22 +60,17 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 
 
-Note: Facebook seems to regularly change the ideal dimensions (and there is a range of contradictory advice out there). These dimensions worked as of September 2019, but they may not in the future.
+Note: Facebook seems to regularly change the ideal dimensions (and there is a range of contradictory advice out there). 
 
-### Facebook GROUP and Meetup Banner:
-820 pixels wide by 462 pixels tall, however the top 48 pixels and bottom 48 pixels will be cropped off when facebook is viewed on a desktop. The entire image will be seen on mobile phones. This same size works for a meetup group banner, but meetup doesn’t crop the image, so you may wish to have a slightly different meetup image to utilise the space better. 
+* **Facebook GROUP and Meetup Banner:** 820 pixels wide by 462 pixels tall, however the top 48 pixels and bottom 48 pixels will be cropped off when facebook is viewed on a desktop. The entire image will be seen on mobile phones. This same size works for a meetup group banner, but meetup doesn’t crop the image, so you may wish to have a slightly different meetup image to utilise the space better. 
 
-### Facebook PAGE Banner:
-820 pixels wide by 462 pixels tall (same as for groups), however the top 75 pixels and bottom 75 pixels will be cropped off when viewed on a desktop. The entire image will be seen on mobile phones. 
+* **Facebook PAGE Banner:** 820 pixels wide by 462 pixels tall (same as for groups), however the top 75 pixels and bottom 75 pixels will be cropped off when viewed on a desktop. The entire image will be seen on mobile phones. 
 
-### Facebook profile picture (for a page):
-360 pixels by 360 pixels
+* **Facebook profile picture (for a page):** 360 pixels by 360 pixels
 
-### Facebook and Meetup Event Image
-1920 pixels wide by 1080 pixels tall
+* **Facebook and Meetup Event Image:** 1920 pixels wide by 1080 pixels tall
 
-### Physical banners
-Different printing companies have different options for banner dimensions. Before you edit an image, work out what banner stand you are using, and find the ratio of the width to the height of the banner that fits the stand. 
+* **Physical banners:** Different printing companies have different options for banner dimensions. Before you edit an image, work out what banner stand you are using, and find the ratio of the width to the height of the banner that fits the stand. 
 
 Make the file as large as possible (the more pixels the better) to ensure your print is crisp. 
 
