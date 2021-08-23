@@ -7,13 +7,20 @@ license:
 ---
 ### _Updated 24th August 2021_
 
+# Fonts
+
+
+The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
+
+# Using software to edit
+
 The editing software most commonly used by groups is
 1. <a target="_blank" href="https://www.canva.com/">Canva</a>
 2. <a target="_blank" href="https://designer.gravit.io/">Gravit</a>
 
 Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
 
-# Canva instructions
+## Canva instructions
 1. Join the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Team Canva Team</a>
 2. Navigate to the <a target="_blank" href="https://www.canva.com/teams/folders"> team folders</a>. If your team has little graphic design experience, or little time, we recommend groups use the "EA Groups Default Designs" folder, which contain easy to use (and hard to mess up) designs. 
 3. Choose a design you like, hover to get the three dots, and click "Make a copy". 
@@ -21,7 +28,7 @@ Canva is easier to use but much less flexible than Gravit. Both software can be 
 5. Download as a jpg and png, and make sure to choose an appropriate file size. A small size will look okay on screens, but you'll need a larger file size for printing posters. Once you've downloaded the file open it up on your computer and zoom in to check the resolution is okay for your purpose. 
 
 
-# Gravit instructions
+## Gravit instructions
 
 1. Download the gvdesign file of the image you want to modify from the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/https://resources.eahub.org/graphics/editable-graphics/">Available Graphics page</a>, or from the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>. 
 2. Go to <a target="_blank" href="https://designer.gravit.io/">https://designer.gravit.io</a> and sign up - the free version has plenty of features so it is unlikely you'll need to buy the professional version.
