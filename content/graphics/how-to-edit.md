@@ -31,9 +31,8 @@ Canva is easier to use but much less flexible than Gravit. Both software can be 
 
 ## Gravit instructions
 
-1. Download the gvdesign file of the image you want to modify from the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/https://resources.eahub.org/graphics/editable-graphics/">Available Graphics page</a>, or from the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1d61DHbhNQIL4CgzdeY6aBvTt6g8zfd-C">graphics google drive folder</a>. 
-2. Go to <a target="_blank" href="https://designer.gravit.io/">https://designer.gravit.io</a> and sign up - the free version has plenty of features so it is unlikely you'll need to buy the professional version.
-3. Go to “Open from Computer” (or from the file menu “Open Local File”), to open the gvdesign you downloaded. 
+1. Go to <a target="_blank" href="https://designer.gravit.io/">https://designer.gravit.io</a> and sign up - the free version has plenty of features so it is unlikely you'll need to buy the professional version.
+2. Click on the gvdesign file of the image you want to modify from the <a target="_blank" href="https://resources.eahub.org/graphics/editable-graphics/https://resources.eahub.org/graphics/editable-graphics/">Available Graphics page</a>.
 4. Edit
 5. Export your file into jpg, png or pdf, and use!
 
