@@ -258,7 +258,8 @@ The following posters were modified from Harvard EA posters.
 
 From EA Auckland
 
-<a target="_blank" href="https://designer.gravit.io/?token=3HYHOKkSuM6Bop5kb6wfk15D_9SRPjpP>Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=3HYHOKkSuM6Bop5kb6wfk15D_9SRPjpP">Editable Gravit File</a>
+
 
 <p class="large_image_wrapper">
 <img src="/img/facebookbanner6images.png" />
@@ -270,6 +271,7 @@ From EA Auckland
 <p class="large_image_wrapper">
 <img src="/img/facebookbanner3images.png" />
 </p>
+
 
 <a target="_blank" href="https://designer.gravit.io/?token=UVyxkGIhSVo7AwATV7pk2CapBghnfHcl">Editable Gravit File</a>
 
@@ -299,26 +301,12 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 
 
-<a name="events"></a>
-
-
-## Event Advertising
-
-
-
-
-
-## Animals
-
-Facebook:
-
-
-
-
 <a name="brochures"></a>
 
 ## Brochures and Flyers
+
 ### Three Fold Brochure (A4 and Letter Sized)
+
 Text based on <a target="_blank" href="https://www.effectivealtruism.org/">effectivealtruism.org</a>. 
 
 
