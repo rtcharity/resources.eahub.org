@@ -15,6 +15,7 @@ The most common fonts used are Raleway and Roboto Slab which is used in the text
 # Using software to edit
 
 The editing software most commonly used by groups is
+
 1. <a target="_blank" href="https://www.canva.com/">Canva</a>
 2. <a target="_blank" href="https://designer.gravit.io/">Gravit</a>
 
