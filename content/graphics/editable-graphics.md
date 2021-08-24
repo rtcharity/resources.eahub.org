@@ -213,7 +213,7 @@ Note: On the Gravit file you move the image to choose a different part of the ea
 <a target="_blank" href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
 
 <a name="advertising"></a>
-# General Advertising Posters
+## General Advertising Posters
 The following posters were modified from EA Exeter posters.
 
 <p class="large_image_wrapper">
@@ -256,9 +256,7 @@ The following posters were modified from Harvard EA posters.
 <img src="/img/facebookbannericons.png" />
 </p>
 
-From EA Auckland
-
-<a target="_blank" href="https://designer.gravit.io/?token=3HYHOKkSuM6Bop5kb6wfk15D_9SRPjpP">Editable Gravit File</a>
+From EA Auckland <a target="_blank" href="https://designer.gravit.io/?token=3HYHOKkSuM6Bop5kb6wfk15D_9SRPjpP">Editable Gravit File</a>
 
 
 <p class="large_image_wrapper">
