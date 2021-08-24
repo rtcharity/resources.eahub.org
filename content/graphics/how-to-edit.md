@@ -70,6 +70,7 @@ A variety of different coloured high resolution EA light bulbs on transparent ba
 
 Note: Facebook seems to regularly change the ideal dimensions (and there is a range of contradictory advice out there). 
 
+
 * **Facebook GROUP and Meetup Banner:** 820 pixels wide by 462 pixels tall, however the top 48 pixels and bottom 48 pixels will be cropped off when facebook is viewed on a desktop. The entire image will be seen on mobile phones. This same size works for a meetup group banner, but meetup doesn’t crop the image, so you may wish to have a slightly different meetup image to utilise the space better. 
 
 * **Facebook PAGE Banner:** 820 pixels wide by 462 pixels tall (same as for groups), however the top 75 pixels and bottom 75 pixels will be cropped off when viewed on a desktop. The entire image will be seen on mobile phones. 
