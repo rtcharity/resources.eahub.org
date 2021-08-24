@@ -8,14 +8,15 @@ license:
 ### _Updated 24th August 2021_
 
 ### <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Join the Effective Altruism Groups Canva Team</a>. 
-This has a bunch of editable designs you can use. Or check out the graphics below (which mostly use Gravit). 
+This has a bunch of editable designs you can use. Or check out the graphics below (which mostly use <a target="_blank" href="https://designer.gravit.io/">Gravit</a>).
+
+Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
 
 
 
 
-# Contents:
+# Contents
 
-* <a href="#fonts">Fonts</a>
 * <a href="#logos">Logos</a>
 * <a href="#default">Default EA Group Graphics</a>
 
@@ -29,9 +30,7 @@ This has a bunch of editable designs you can use. Or check out the graphics belo
 
 <a name="fonts"></a>
 
-# Fonts
 
-The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
 
 <a name="logos"></a>
 # Logos
@@ -167,7 +166,7 @@ The second banner in this list was based on the EA Auckland Banner, and the othe
 
 Note: On the Gravit file you move the image to choose a different part of the earth.
 
-<a target="_blank" href="https://designer.gravit.io/?token=EIvQm9xPW16dWAx4Mv4LdUBvguaIvwho">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=ua82P27Qr5_7I07TPi3aOly-vlp9rtqk">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/file/d/1DyozLuWyFcxhFJiofrdjNFBjF1iXHOCx/view?usp=sharing">High Res png</a>
 
@@ -175,7 +174,7 @@ Note: On the Gravit file you move the image to choose a different part of the ea
 <img src="/img/horizontalbannericons.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1niVHow4bqxIemGxKjNySXuj_b_vh8rfM">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=M4CQZK49_DldWuqEnWgZdDsa749GEIRr">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1ESLAGkEpNg-QKxiQ9R3ARbve4SOkTxuG">High Res png</a>
 
@@ -183,7 +182,7 @@ Note: On the Gravit file you move the image to choose a different part of the ea
 <img src="/img/horizontalbanner6images.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1MK9QCBQsY-EvxuK-XluyTYwlEXZUEfK1">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=UFIAo73CExCiEIDAuRWnT9F3SHRnET9A">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=15CTRwmglm6V8tinypYYvoOBqL1F8iwPR">High Res png</a>
 
@@ -192,7 +191,7 @@ Note: On the Gravit file you move the image to choose a different part of the ea
 <img src="/img/verticalbannerplain.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1pmcnc8KRK2-LJ5Y3XFSiaRZtfLAGsllY">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=uUKMSA4EaK7Rxe4dz36l28jpadi99U9i">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1VWwUrlmfKDHxukMAoZ6Nfk4YetmqUKpI">High Res png</a>
 
@@ -200,7 +199,7 @@ Note: On the Gravit file you move the image to choose a different part of the ea
 <img src="/img/verticalbanner3images1.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1Tj4xuZWvbI06XcK9yq1i4p1SHPgmHogY">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=cGJhP5Vl1_VTNUzIZvZvQGNDt1URnSWK">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1-KwNPkxWsgQm5hf9xh3OA5tgTPp3OERj">High Res png</a>
 
@@ -208,7 +207,7 @@ Note: On the Gravit file you move the image to choose a different part of the ea
 <img src="/img/verticalbanner3images2.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=16eXa55SAK6iPfcwLvMYA5eqq0DxC_TzX">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=03OJWRLmL9GXxUJidQwR-sx84m6P2n4Z">Editable Gravit File</a>
 
 
 <a target="_blank" href="https://drive.google.com/open?id=1Y4icmOdkPl22FYj66MwTOO870eCFKo-0">High Res png</a>
@@ -235,19 +234,19 @@ The following posters were modified from Harvard EA posters.
 <img src="/img/ltfeventposter.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=16xGMPgE48QNqfXcXOfO9ad9fwnt42VXS">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=6_D_JxkCUhgaY_ultN6v9VQlAsocZjSi">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/factoryfarmingeventposter.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1X85eNGEmAWAY5MpJ_yg54kZgBUNZzTMr">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=pEQkE3ItP3AJ9c1SjcKGrT9dvaesVS-e">Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/globalhealthevent1poster.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=13Di4BEGuk9C-2apg-Mx4Lfq7S8YaiHQ_">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=C86vWpvO7wnEy6TeifyKHeMiRWU_UxGI">Editable Gravit File</a>
 
 
 <a name="facebookbanners"></a>
@@ -259,20 +258,20 @@ The following posters were modified from Harvard EA posters.
 
 From EA Auckland
 
-<a target="_blank" href="https://drive.google.com/open?id=1v6vQxl7PYyORX9N5hnI9Pd99aSTwtLgI">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=3HYHOKkSuM6Bop5kb6wfk15D_9SRPjpP>Editable Gravit File</a>
 
 <p class="large_image_wrapper">
 <img src="/img/facebookbanner6images.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1hJwD6gtUWo9FzngHbEPRJGk-R2H93o-w">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=0i1uRcAj94Q4sThyPX1fyv1XXTT6yQjO">Editable Gravit File</a>
 
 
 <p class="large_image_wrapper">
 <img src="/img/facebookbanner3images.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=16pws4DtZUnY4UhUPxla-bUe5qSimIRqS">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=UVyxkGIhSVo7AwATV7pk2CapBghnfHcl">Editable Gravit File</a>
 
 ## Other ideas
 
@@ -285,7 +284,7 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 <img src="/img/bluelightbulbonwhite.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1cjq7cds5MN3I73PwO91IiunAYkLB8F4Z">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=QYIR2N2bEeI_He8ji6QRSOhQn4YwUc7m">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1IHaZdRV-hGXHLsgoFopNzCS0ZClnSt7K">Image png</a>
 
@@ -293,7 +292,7 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 <img src="/img/bluelightbulbongrey.png" />
 
 </p>
-<a target="_blank" href="https://drive.google.com/open?id=1pJhqZ-2IiYPpjbBzGijT14129HyYTpHv">Editable Gravit File</a>
+<a target="_blank" href="https://designer.gravit.io/?token=Vz6_boElydFEUYLg4Jv-k6_xUCRB5_cb">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1K13pIuAj0uV5Xu09IW95k34wavrc0tQb">Image png</a>
 
@@ -302,63 +301,10 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 <a name="events"></a>
 
+
 ## Event Advertising
 
 
-
-### Long-Term Future
-
-Facebook:
-
-<p class="large_image_wrapper">
-<img src="/img/ltfeventfb.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1gr7cKlv-YXtRGn2zNfVmHBtrverESRW7">Editable Gravit File</a>
-
-Poster:
-
-<p class="large_image_wrapper">
-<img src="/img/ltfeventposter.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1FYV7e_CvzcSwWWxeQkM5wTBi6SIdN1wz">Editable Gravit File</a>
-
-
-
-### Global Poverty
-Facebook:
-
-<p class="large_image_wrapper">
-<img src="/img/ggevent.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1WNYjhozScpwhLw_MIM2AzSqftjf6a1mJ">Editable Gravit File</a>
-
-
-
-
-
-
-
-
-Facebook:
-
-
-<p class="large_image_wrapper">
-<img src="/img/globalhealthevent1.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1m7ApiU_2rS_meFYNSzWTsHK9V3hNbQXR">Editable Gravit File</a>
-
-Poster:
-
-
-<p class="large_image_wrapper">
-<img src="/img/globalhealthevent1poster.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1lhnWBKarXIJm1tNcmVzPaaC8l0HRgSK4">Editable Gravit File</a>
 
 
 
@@ -367,28 +313,13 @@ Poster:
 Facebook:
 
 
-<p class="large_image_wrapper">
-<img src="/img/factoryfarmingevent.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1EAnTzmtWePM4PUcIrC2Uv4vzVV6CtTnf">Editable Gravit File</a>
-
-Poster:
-
-
-<p class="large_image_wrapper">
-<img src="/img/factoryfarmingeventposter.png" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1wU-caV8qfMgDQHMlQEz3ygXoRRt1vw1f">Editable Gravit File</a>
-
 
 
 <a name="brochures"></a>
 
 ## Brochures and Flyers
 ### Three Fold Brochure (A4 and Letter Sized)
-Outer page design based on the CEA brochure, text based on <a target="_blank" href="https://www.effectivealtruism.org/">effectivealtruism.org</a>. 
+Text based on <a target="_blank" href="https://www.effectivealtruism.org/">effectivealtruism.org</a>. 
 
 
 <p class="large_image_wrapper">
@@ -399,9 +330,9 @@ Outer page design based on the CEA brochure, text based on <a target="_blank" hr
 <img src="/img/brochure2.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Brochure Gravit File (A4)</a>
+<a target="_blank" href="https://designer.gravit.io/?token=uLjqUBpp1YGPkQEjrGOZpYMnx3-L_xqc">Brochure Gravit File (A4)</a>
 
-<a target="_blank" href="https://drive.google.com/open?id=1hVx4ARoBKVPWhFUjLit3PufmOrEU97GE">Brochure Gravit File (Letter Sized)</a>
+<a target="_blank" href="https://designer.gravit.io/?token=OWJ2cFwK-l9VxGtEXwNAOSlxEMtlIFKE">Brochure Gravit File (Letter Sized)</a>
 
 Download the Gravit file to make alterations. At least change the group name and details.
  
@@ -417,9 +348,9 @@ This flyer is intended for giving out to people who express interest in EA, e.g.
 <img src="/img/Simple_flyer_8.5x11.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1Ed4nsHggGcgunE_0NTfWNqCQkZeGra6h">Flyer Gravit File (Three on One A4 Page)</a>
+<a target="_blank" href="https://designer.gravit.io/?token=LnET1e-hDFpUw6ttPWU2Z_HXBQ7cswmo">Flyer Gravit File (Three on One A4 Page)</a>
 
-<a target="_blank" href="https://drive.google.com/open?id=1K0V0upe0A2I5U0XrxJxGSExQPmTZ4AUh">Flyer Gravit File (Three on One Letter Sized Page)</a>
+<a target="_blank" href="https://designer.gravit.io/?token=XX6heaLDDF0w6zj4CNoMSJnyzI-d29oY">Flyer Gravit File (Three on One Letter Sized Page)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
  
@@ -437,9 +368,9 @@ This flyer has a little more information, and is intended for giving out to peop
 <img src="/img/EA_detailed_flyer_A4.png" />
 </p>
 
-<a target="_blank" href="https://drive.google.com/open?id=1urCEdjmSQV-A6NiksypUChSqPjumgihn">Detailed Flyer Gravit File (Three on One A4 Page)</a>
+<a target="_blank" href="https://designer.gravit.io/?token=gLO25zV2ogeqECxrXhC2dV-9912xTdXs">Detailed Flyer Gravit File (Three on One A4 Page)</a>
 
-<a target="_blank" href="https://drive.google.com/open?id=10o857UDTS9Q8QWYdhqGP3Hk-Oy2zv-wb">Detailed Flyer Gravit File (Three on One Letter Sized Page)</a>
+<a target="_blank" href="https://designer.gravit.io/?token=-bfR2ScMQ_b0nkQ-RLRSn8ccFwMBipjF">Detailed Flyer Gravit File (Three on One Letter Sized Page)</a>
 
 Download the gravit file to make alterations. At least change the group name and details.
  
@@ -448,17 +379,6 @@ These are designed to be printed directly onto A4 or letter sized paper and then
 Export your file as a pdf, and when you print from Adobe reader choose "custom scale 100%". Test that they cut correctly before you do a big print run!
 
 
-### Fact Sheet
-
-This is for printing on a single A4 or letter sized page. 
-
-<p class="large_image_wrapper">
-<img src="/img/EA_Fact_Sheet.jpg" />
-</p>
-
-<a target="_blank" href="https://drive.google.com/open?id=1SLC3oH-1n8DfmoN0HYWCQ9ke_3ISZ2JS">EA Fact Sheet Gravit File</a>
-
-<hr>
 
 _If you have suggestions on how to improve this page, please comment or suggest edits on_ <a target="_blank" href="https://docs.google.com/document/d/1kG81t0Ph7M_ffYyai8P0A-71Jz0HT8dZK9Yl3B-4TdE/edit?usp=sharing">_this google doc._</a>
 
