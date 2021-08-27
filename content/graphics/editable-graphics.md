@@ -12,6 +12,8 @@ This has a bunch of editable designs you can use. Or check out the graphics belo
 
 Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
 
+Check out <a href="https://resources.eahub.org/graphics/how-to-edit/">our page on how to edit graphic templates</a> for tips.
+
 
 
 
@@ -106,7 +108,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 
 <a name="default"></a>
 # Default EA Groups Graphics
-**All the Default EA Groups Graphics are also on the EA Groups Canva Team. These are the Gravit versions.**
+**All the Default EA Groups Graphics are also on the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Canva Team</a>. The Gravit versions are linked below.**
 
 Style Guide:
 <p class="large_image_wrapper">
