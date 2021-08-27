@@ -21,9 +21,8 @@ Canva is easier to use but much less flexible than Gravit. Both software can be 
 1. Join the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Team Canva Team</a>
 2. Navigate to the <a target="_blank" href="https://www.canva.com/teams/folders"> team folders</a>. If your team has little graphic design experience, or little time, we recommend groups use the "EA Groups Default Designs" folder, which contain easy to use (and hard to mess up) designs. 
 3. Choose a design you like, hover to get the three dots, and click "Make a copy". 
-4. Then edit. 
-5. <a target="_blank" href="https://drive.google.com/file/d/1CkVgrB1NShsSuO80U_tFEFOfluwGgfpE/view?usp=sharing">This video</a> has tips on how to modify the EA Groups Default Designs. 
-6. Download as a jpg and png, and make sure to choose an appropriate file size. A small size will look okay on screens, but you'll need a larger file size for printing posters. Once you've downloaded the file open it up on your computer and zoom in to check the resolution is okay for your purpose. 
+4. Then edit. <a target="_blank" href="https://drive.google.com/file/d/1CkVgrB1NShsSuO80U_tFEFOfluwGgfpE/view?usp=sharing">This video</a> has tips on how to modify the EA Groups Default Designs. 
+5. Download as a jpg and png, and make sure to choose an appropriate file size. A small size will look okay on screens, but you'll need a larger file size for printing posters. Once you've downloaded the file open it up on your computer and zoom in to check the resolution is okay for your purpose. 
 
 
 ## Gravit instructions
