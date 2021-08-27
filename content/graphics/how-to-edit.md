@@ -7,10 +7,6 @@ license:
 ---
 ### _Updated 24th August 2021_
 
-# Fonts
-
-
-The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
 
 # Using software to edit
 
@@ -43,6 +39,11 @@ Canva is easier to use but much less flexible than Gravit. Both software can be 
 
 <a target="_blank" href="https://youtu.be/zO6TKGy72dA?t=103">This video</a> explains how to use gravit to cut out a shape (e.g. if you want to cut around a photo of a speaker to put them on a different background). 
 
+
+
+# Fonts
+
+The most common fonts used are Raleway and Roboto Slab which is used in the text of some Effective Altruism logos. If you are editing or creating in Gravit, these fonts are already installed. If you are creating files using apps on your computer (e.g. Publisher, Word) you need to download and install the fonts (<a target="_blank" href="https://www.fontsquirrel.com/fonts/raleway">download Raleway</a>, <a target="_blank" href="https://www.fontsquirrel.com/fonts/roboto-slab">download Roboto Slab</a>) - instructions <a target="_blank" href="https://www.fontsquirrel.com/help">here</a>. If you are creating files using Google Docs, you can use these fonts and more by installing the Google Docs add-on "<a target="_blank" href="https://gsuite.google.com/marketplace/app/extensis_fonts/568288816452">Extensis Fonts</a>)".
 
 
 
