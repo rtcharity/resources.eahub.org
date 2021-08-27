@@ -12,6 +12,8 @@ This has a bunch of editable designs you can use. Or check out the graphics belo
 
 Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
 
+Check out <a href="https://resources.eahub.org/graphics/how-to-edit/">our page on how to edit graphic templates</a> for tips.
+
 
 
 
