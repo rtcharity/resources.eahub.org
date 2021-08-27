@@ -106,7 +106,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 
 <a name="default"></a>
 # Default EA Groups Graphics
-**All the Default EA Groups Graphics are also on the EA Groups Canva Team. These are the Gravit versions.**
+**All the Default EA Groups Graphics are also on the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Canva Team</a>. The Gravit versions are linked below.**
 
 Style Guide:
 <p class="large_image_wrapper">
