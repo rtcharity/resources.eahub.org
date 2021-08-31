@@ -41,7 +41,7 @@ This page features different groups and community organisers around the world.
 ### *Published 30th August 2021*
 
 <p class="large_image_wrapper">
- <img src="/img/Arushi.jpg" />
+ <img src="/img/ea-blue.png"/>
 </p>
 
 ## Describe your group
