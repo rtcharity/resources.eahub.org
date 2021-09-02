@@ -8,7 +8,7 @@ license:
 ### _Updated 24th August 2021_
 
 ### <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Join the Effective Altruism Groups Canva Team</a>. 
-This has a bunch of editable designs you can use. Or check out the graphics below (which mostly use <a target="_blank" href="https://designer.gravit.io/">Gravit</a>).
+This has a bunch of editable designs you are welcome to use and modify. Or check out the graphics below (which mostly use <a target="_blank" href="https://designer.gravit.io/">Gravit</a>).
 
 Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
 
