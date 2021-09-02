@@ -159,7 +159,7 @@ Vertical Banner
 <a name="banners"></a>
 ## Physical Banners
 
-All the banner files, and the component images can be found in the <a target="_blank"https://drive.google.com/drive/u/0/folders/1Vm8yv48cmHybuxdpsbjcK5ktz1ap6Ak4">Physical Banners Folder</a>. 
+All the banner files, and the component images can be found in the <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1Vm8yv48cmHybuxdpsbjcK5ktz1ap6Ak4">Physical Banners Folder</a>. 
 The second banner in this list was based on the EA Auckland Banner, and the others were inspired by banners made by CEA. 
 
 <p class="large_image_wrapper">
