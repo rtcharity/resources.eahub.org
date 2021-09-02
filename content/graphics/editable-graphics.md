@@ -308,7 +308,9 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 ## Brochures and Flyers
 
+
 ### Three Fold Brochure (A4 and Letter Sized)
+
 
 Text based on <a target="_blank" href="https://www.effectivealtruism.org/">effectivealtruism.org</a>. 
 
