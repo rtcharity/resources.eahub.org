@@ -134,7 +134,7 @@ Event Poster:
 <img src="/img/introtoea.png" />
 </p>
 
-<a target="_blank" href="https://designer.gravit.io/?token=xm5r78Ax59Bd9A3HpZ9rmrUnKBHZjF33U">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=xm5r78Ax59Bd9A3HpZ9rmrUnKBHZjF33">Editable Gravit file</a>
 
 
 Fellowship:
