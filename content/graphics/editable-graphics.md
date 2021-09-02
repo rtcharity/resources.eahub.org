@@ -293,10 +293,9 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 <p class="large_image_wrapper">
 <img src="/img/bluelightbulbongrey.png" />
-
 </p>
-<a target="_blank" href="https://designer.gravit.io/?token=Vz6_boElydFEUYLg4Jv-k6_xUCRB5_cb">Editable Gravit File</a>
 
+<a target="_blank" href="https://designer.gravit.io/?token=Vz6_boElydFEUYLg4Jv-k6_xUCRB5_cb">Editable Gravit File</a>
 
 <a target="_blank" href="https://drive.google.com/open?id=1K13pIuAj0uV5Xu09IW95k34wavrc0tQb">Image png</a>
 
