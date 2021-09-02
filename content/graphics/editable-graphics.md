@@ -107,6 +107,7 @@ A variety of Effective Altruism logos are available in both .png and .gravit for
 <a target="_blank" href="https://drive.google.com/file/d/1dzNg5zA6_Cxc1flRgM0F8pgRZpYzQimx/view?usp=sharing">High Res png</a>
 
 <a name="default"></a>
+
 # Default EA Groups Graphics
 **All the Default EA Groups Graphics are also on the <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Effective Altruism Groups Canva Team</a>. The Gravit versions are linked below.**
 
@@ -133,7 +134,7 @@ Event Poster:
 <img src="/img/introtoea.png" />
 </p>
 
-<a target="_blank" https://designer.gravit.io/?token=xm5r78Ax59Bd9A3HpZ9rmrUnKBHZjF33U">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=xm5r78Ax59Bd9A3HpZ9rmrUnKBHZjF33U">Editable Gravit file</a>
 
 
 Fellowship:
@@ -141,7 +142,7 @@ Fellowship:
 <img src="/img/Fellowship.jpg" />
 </p>
 
-<a target="_blank" https://designer.gravit.io/?token=zg7u1YY2Gx-GzKTEJlcyHAu1ZYjP6QqZ">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=zg7u1YY2Gx-GzKTEJlcyHAu1ZYjP6QqZ">Editable Gravit file</a>
 
 
 Vertical Banner
@@ -149,7 +150,7 @@ Vertical Banner
 <img src="/img/banner.png" />
 </p>
 
-<a target="_blank" https://designer.gravit.io/?token=bKfjWgPmtUlK2aw-TGW2_YWDswCD6Wcq">Editable Gravit file</a>
+<a target="_blank" href="https://designer.gravit.io/?token=bKfjWgPmtUlK2aw-TGW2_YWDswCD6Wcq">Editable Gravit file</a>
 
 
 
@@ -302,6 +303,7 @@ For other ideas for facebook banner images, check out this <a target="_blank" hr
 
 
 <a name="brochures"></a>
+
 
 ## Brochures and Flyers
 
