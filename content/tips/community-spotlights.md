@@ -11,7 +11,8 @@ This page features different groups and community organisers around the world.
 
 # Contents
 
-* <a href="#arushi">Arushi Gupta, EA New York City
+* <a href="#blue">EA Blue</a>
+* <a href="#arushi">Arushi Gupta, EA New York City</a>
 * <a href="#estonia"> EA Estonia </a>
 * <a href="#unimelb"> EA University of Melbourne, Australia </a>
 * <a href="#nyuad"> EA New York University - Abu Dhabi, United Arab Emirates </a>
@@ -30,6 +31,46 @@ This page features different groups and community organisers around the world.
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="blue"></a>
+
+# EA Blue
+
+### *Published 30th August 2021*
+
+<p class="large_image_wrapper">
+ <img src="/img/ea-blue.png"/>
+</p>
+
+## Describe your group
+
+[EA Blue](https://www.facebook.com/eablue.ph) is a university group founded in 2019 in Ateneo de Manila University in the Philippines (because we are an unaccredited organization in our university, we can’t use our school’s name but can use our school’s color; hence EA Blue instead of EA ADMU). We’re the first student group in the Philippines under our parent chapter [EA Philippines](https://www.facebook.com/EffectiveAltruismPhilippines/), and over the past year have grown from a small group of 5 student organizers to a more engaged group of 13 core organizers and 42 members.
+
+## What challenges have you faced as a group, and how did you manage them?
+
+EA Blue was still a budding group in its second year of organizing when the pandemic struck. With very few core team members and systems in place, organizing in our first semester was slightly difficult, but luckily in our second semester we recruited more core team members who graduated from our first fellowship. As the year progressed, we slowly set up more systems (e.g. project management systems, org structures, etc.) that helped make organizing more efficient.
+
+## What is the best advice/resource you've found?
+
+1. Running a student group becomes more fun and members become more engaged when you have avenues for fun or bonding (like study spaces on Discord), form close-knit relationships in the org (especially with co-organizers), and emphasize a welcoming culture so that no one is afraid to share what’s on their mind. 
+2. Apart from meeting different student chapters abroad, we find it valuable collaborating with, supporting, and being supported by EA Philippines and other local student chapters ([EA UP-Diliman](https://www.facebook.com/effectivealtruismupd) and EA DLSU-Manila). 
+3. There is no “copy-cutter model of groups” to follow in EA (as mentioned by Joan Gass in her talk, “[Goals for university groups](https://www.youtube.com/watch?v=a4-ZDc4rUaQ)”). Hence, while we find it very helpful and valuable to model some of our systems or work after other EA groups, we also try to tailor and test activities or strategies based on our university’s culture e.g. we found that some EA resources need to be more contextualized for us to communicate them better with our members.
+
+## What has been your most successful event, and why?
+
+We held two Introductory Virtual Fellowships over the last year with a total of 48 graduates from ADMU and other schools in the Philippines. These fellowships were both quite fun and resulted in new core team members and more engaged members. Through these fellowships we’ve also been able to connect our members with the wider EA community in virtual conferences like the EAGxAPAC or EA Student Summit.
+
+## Do you have a key goal for your group? How are you working to achieve this?
+
+EA Blue aims to be a welcoming, productive, and engaging community of Ateneans using evidence and careful analysis to think about how they can help others as much as possible. We hope to better support our members in not only learning about and discussing EA but also in having initiatives to help them plan out and prepare their careers for higher social impact. For the coming academic year, EA Blue plans to initiate new programs such as a Career Planning Club and In-depth Fellowship to continuously engage with our current members while continuing with the Introductory Virtual Fellowships to welcome new members. We also hope to create more social events together with other university chapters to get to know our community on a more personal level!
+
+## What is a funny, interesting, or inspiring story from your group?
+
+When the EA Student Summit came around in October 2020, some of our members were a little concerned about the schedule– lots of the talks, workshops, and icebreakers were from 11pm to the wee hours of the morning! This didn’t stop our excitement though, and a lot of us just stayed up or took naps to not miss this cool event.
+
+*You can read more about EA Blue’s achievements & learnings in its second year of organizing in [this EA Forum post](https://bit.ly/EAForumBlueGrowth)!*
 
 <hr>
 
