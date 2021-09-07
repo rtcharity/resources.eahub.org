@@ -8,6 +8,18 @@ This article collates some experiences from different EA groups about how to mos
 
 Note: Many groups call their intro programs “fellowships” and call participants “fellows” – these terms are used interchangeably in this article!
 
+# Contents
+* <a href="#faq">FAQ</a>
+* <a href="#5steps">5 steps to make an advertising plan</a>
+* <a href="#ideas">Ideas for advertising strategies</a>
+* <a href="#sample">Sample Materials</a>
+   * <a href="#graphics">Graphics</a>
+   * <a href="#other">Other Sample Material</a>
+* <a href="#more">More Resources</a>
+* <a href="#hall">Hall of Fame</a>
+
+<a name="faq"></a>
+
 # FAQ
 
 ## What should my advertising aim to do?
@@ -49,6 +61,8 @@ Is “prestige-signalling” a good idea?
 * Once again, think about what you think would work best in your context or try out different strategies and see what works best.
 * Note that if you advertise your program as prestigious, and require a high level of commitment, participants could be disappointed if you are unable to deliver a high quality program. I haven’t seen any evidence that this has happened in the past, but it is worth considering.
 * If you market the program as prestigious, take extra measures to make sure people feel comfortable and not intimidated during the application process, for example by being very friendly in emails and interviews. 
+
+<a name="5steps"></a>
 
 # 5 steps to make an advertising plan
 
@@ -94,6 +108,8 @@ This section lists some concrete steps you can take to make a stellar marketing 
 2. Contact other societies at your university and ask what’s been successful for them.
 3. Look through the list below, brainstorm how you could do each of them and choose any that seem promising.
 
+<a name="ideas"></a>
+
 # Ideas for advertising strategies
 
 The list below contains most of the advertising strategies we’re aware of that have been tried by EA groups. You shouldn’t necessarily advertise in all these places – that’d be a lot of work and it might be better to choose a few but think hard about how to do them most effectively. Instead, use it as a check-box to see if there are any obvious strategies you’ve missed and to get inspiration for new strategies to try out.
@@ -118,11 +134,30 @@ The list below contains most of the advertising strategies we’re aware of that
 * **Collaborating with other university/local societies** – especially if you know the organisers well, they may be willing to advertise your program or host joint events.  
 * **Collaborating with professors**, for example by getting them to advertise (or let you advertise) your program in their classes.
 
+<a name="sample"></a>
+
 # Sample materials
 
 This section contains sample marketing materials that EA groups have used to advertise their intro programs. **You’re welcome to copy all of these materials and adapt them for your own group.**
 
+<a name="graphics"></a>
 ## Graphics
+
+### Finding and modifying graphics
+
+The editing software most commonly used by groups are <a target="_blank" href="https://www.canva.com/">Canva</a> and <a target="_blank" href="https://designer.gravit.io/">Gravit</a>. Canva is easier to use but much less flexible than Gravit. Both software can be used for free on your web browser. 
+
+* <a target="_blank" href="https://www.canva.com/brand/join?token=VaqFCyMwnlpS0t9-sQeUMw&referrer=team-invite">Join the Effective Altruism Groups Canva Team</a>. 
+This has a bunch of editable designs you can use, including several fellowship specific designs. 
+
+
+* <a target="_blank" href="/graphics/editable-graphics/">Available Graphics</a>
+
+This page links all the currently available editable graphics that aren't on the Canva team (plus a few that are), including EA logos, and a few fellowship specific designs. 
+
+
+* <a target="_blank" href="/graphics/how-to-edit/">How to Edit These Graphics (Or Make Your Own)</a> This page includes instructions on how to edit the EA Groups Gravit and Canva files, a size guide for making Facebook and meetup images, and links for finding free images and EA logos.
+
 
 This section contains samples of advertising graphics from a few EA Groups. Most of the links below will take you to the graphic design website Canva, which is free and easy to use. Once you’ve made an account, open a design, press “Use template”, and Canva will make a copy for you that you can freely edit.
 
@@ -146,6 +181,8 @@ This section contains samples of advertising graphics from a few EA Groups. Most
 
 [Design from Yale](https://www.canva.com/design/DAEleIZsQzE/lEpHKubkDAWhJnjuvK_b_Q/view?utm_content=DAEleIZsQzE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
+
+<a name="other"></a>
 ## Other sample materials
 
 ### Sample texts for mailing lists, social media etc.
@@ -185,6 +222,8 @@ This section contains samples of advertising graphics from a few EA Groups. Most
 [Communicating about EA guide](https://resources.eahub.org/learn/communicate-ea/)
 
 [Tips on talking about EA](https://forum.effectivealtruism.org/posts/p6YgPpdhMpajBZ2Lf/tips-on-talking-about-effective-altruism)
+
+<a name="hall"></a>
 
 # Hall of Fame
 
