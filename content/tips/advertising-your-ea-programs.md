@@ -159,27 +159,27 @@ This page links all the currently available editable graphics that aren't on the
 * <a target="_blank" href="/graphics/how-to-edit/">How to Edit These Graphics (Or Make Your Own)</a> This page includes instructions on how to edit the EA Groups Gravit and Canva files, a size guide for making Facebook and meetup images, and links for finding free images and EA logos.
 
 
-This section contains samples of advertising graphics from a few EA Groups. Most of the links below will take you to the graphic design website Canva, which is free and easy to use. Once you’ve made an account, open a design, press “Use template”, and Canva will make a copy for you that you can freely edit.
+The following sections contain samples of advertising graphics from a few EA Groups. Most of the links below will take you to the graphic design website Canva, which is free and easy to use. Once you’ve made an account, open a design, press “Use template”, and Canva will make a copy for you that you can freely edit.
 
-### Facebook banners
+### Example facebook banners
 
-[Design from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtmQCxI/W_fOPMvhgIhz2rVCWLa5xA/view?utm_content=DAElWtmQCxI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+* [Design from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtmQCxI/W_fOPMvhgIhz2rVCWLa5xA/view?utm_content=DAElWtmQCxI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
-[Design from Effective Altruism Cambridge](https://www.canva.com/design/DAEkmVP4ngE/1hZXBtwZwBhuChASlp8XuQ/view?utm_content=DAEkmVP4ngE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+* [Design from Effective Altruism Cambridge](https://www.canva.com/design/DAEkmVP4ngE/1hZXBtwZwBhuChASlp8XuQ/view?utm_content=DAEkmVP4ngE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
-[Design from Yale Effective Altruism](https://www.canva.com/design/DAEleEjV6E4/YvNmCoLtC3PWIspFQGdt4g/view?utm_content=DAEleEjV6E4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+* [Design from Yale Effective Altruism](https://www.canva.com/design/DAEleEjV6E4/YvNmCoLtC3PWIspFQGdt4g/view?utm_content=DAEleEjV6E4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
-### Posters/pictures
+### Example posters/pictures
 
-[Poster (to print or for a Facebook post) from Yale Effective Altruism](https://www.canva.com/design/DAEleA7ZkOo/XCLDhKxFnPzTI-dplfzktQ/view?utm_content=DAEleA7ZkOo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+* [Poster (to print or for a Facebook post) from Yale Effective Altruism](https://www.canva.com/design/DAEleA7ZkOo/XCLDhKxFnPzTI-dplfzktQ/view?utm_content=DAEleA7ZkOo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
-[Testimonials (sized for Instagram) from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtCXgJY/7Z3pp2qGCr09P4fkpuO6rA/view?utm_content=DAElWtCXgJY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+* [Testimonials (sized for Instagram) from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtCXgJY/7Z3pp2qGCr09P4fkpuO6rA/view?utm_content=DAElWtCXgJY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
-[Flyer from Harvard Effective Altruism](https://drive.google.com/file/d/1IJBTGA1BG6SPmgJlVme7_162CVFNjUen/view?usp=sharing) (on Google Sheets, not Canva; press “File” in the top left corner, then “Make a copy”)
+* [Flyer from Harvard Effective Altruism](https://drive.google.com/file/d/1IJBTGA1BG6SPmgJlVme7_162CVFNjUen/view?usp=sharing) (on Google Sheets, not Canva; press “File” in the top left corner, then “Make a copy”)
 
 ### Completion certificates
 
-[Design from Yale](https://www.canva.com/design/DAEleIZsQzE/lEpHKubkDAWhJnjuvK_b_Q/view?utm_content=DAEleIZsQzE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+* [Design from Yale](https://www.canva.com/design/DAEleIZsQzE/lEpHKubkDAWhJnjuvK_b_Q/view?utm_content=DAEleIZsQzE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
 
 <a name="other"></a>
@@ -187,41 +187,41 @@ This section contains samples of advertising graphics from a few EA Groups. Most
 
 ### Sample texts for mailing lists, social media etc.
 
-[Text for Facebook posts and emails for mailing list admins from Effective Altruism Oxford.](https://docs.google.com/document/d/1PNHWlLdonBnfpb4ggjU0ihPnmslHwH1FxZWFCyO2tYk/edit?usp=sharing)
+* [Text for Facebook posts and emails for mailing list admins from Effective Altruism Oxford.](https://docs.google.com/document/d/1PNHWlLdonBnfpb4ggjU0ihPnmslHwH1FxZWFCyO2tYk/edit?usp=sharing)
 
-[Emails for mailing lists (especially well-suited to an Effective Altruism mailing list) from Effective Altruism Stanford. ](https://docs.google.com/document/d/1u4Xzx93HYo6ZHmDbRqR4o_IPtnsuTufUMAf9sICWCQ0/edit?usp=sharing)
+* [Emails for mailing lists (especially well-suited to an Effective Altruism mailing list) from Effective Altruism Stanford. ](https://docs.google.com/document/d/1u4Xzx93HYo6ZHmDbRqR4o_IPtnsuTufUMAf9sICWCQ0/edit?usp=sharing)
 
 ### Application forms
 
-[Application form from Effective Altruism Oxford.](https://airtable.com/shr9v02ixdY1mkqrK)
+* [Application form from Effective Altruism Oxford.](https://airtable.com/shr9v02ixdY1mkqrK)
 
-[Application form from Yale Effective Altruism.](https://docs.google.com/forms/d/e/1FAIpQLSeZNj9sMwTFbzmRm0fOswkwm7-tTurLqw6zNgjOgNNiuqJNDw/viewform)
+* [Application form from Yale Effective Altruism.](https://docs.google.com/forms/d/e/1FAIpQLSeZNj9sMwTFbzmRm0fOswkwm7-tTurLqw6zNgjOgNNiuqJNDw/viewform)
 
 ### Referral form
 
-[Non-anonymous referral form from Yale Effective Altruism](https://docs.google.com/forms/d/e/1FAIpQLSespxnGtew6QAVg7OJHiN1W3nHfDzQYsNllKW08eIp3qSc6Mw/viewform) (type in anything on the first page to see the second page, but remember not to press “Submit”!).
+* [Non-anonymous referral form from Yale Effective Altruism](https://docs.google.com/forms/d/e/1FAIpQLSespxnGtew6QAVg7OJHiN1W3nHfDzQYsNllKW08eIp3qSc6Mw/viewform) (type in anything on the first page to see the second page, but remember not to press “Submit”!).
 
 ### Info sessions
 
-[Presentation from an information session at Effective Altruism Harvard.](https://docs.google.com/presentation/d/1CMG5lGL9l36Or7U3f57LYKRXLbaWTW2Lf73sr-I0f9I/edit?usp=sharing)
+* [Presentation from an information session at Effective Altruism Harvard.](https://docs.google.com/presentation/d/1CMG5lGL9l36Or7U3f57LYKRXLbaWTW2Lf73sr-I0f9I/edit?usp=sharing)
 
 ### Acceptance/rejection emails
 
-[Email templates from Effective Altruism Harvard.](https://docs.google.com/document/d/1LrQt5xUAAptNcyq4h6LyXK84KMu32wGM8eJKmaSEQCo/edit?usp=sharing)
+* [Email templates from Effective Altruism Harvard.](https://docs.google.com/document/d/1LrQt5xUAAptNcyq4h6LyXK84KMu32wGM8eJKmaSEQCo/edit?usp=sharing)
 
 # More resources
 
-[General advice on publicising your group activities](https://resources.eahub.org/tips/publicity/#general)
+* [General advice on publicising your group activities](https://resources.eahub.org/tips/publicity/#general)
 
-[Advice from Brown](https://docs.google.com/document/d/1ulmEbTlP93CIIZFrB_OVK1pfdb9TCkYnb4xErlcTSaI/edit?usp=sharing)
+* [Advice from Brown](https://docs.google.com/document/d/1ulmEbTlP93CIIZFrB_OVK1pfdb9TCkYnb4xErlcTSaI/edit?usp=sharing)
 
-[Advice from Stanford](https://docs.google.com/document/d/1YHPbwBiNxQaJHEzRfsRxcKAbAatvH_bIZx3WLpJkPkA/edit?usp=sharing)
+* [Advice from Stanford](https://docs.google.com/document/d/1YHPbwBiNxQaJHEzRfsRxcKAbAatvH_bIZx3WLpJkPkA/edit?usp=sharing)
 
-[Advice from Harvard](https://docs.google.com/document/d/1UA-RE0pEnuzptrZG5tQhyFKA98gP7MnBYx29KR_6wjk/edit?usp=sharing)
+* [Advice from Harvard](https://docs.google.com/document/d/1UA-RE0pEnuzptrZG5tQhyFKA98gP7MnBYx29KR_6wjk/edit?usp=sharing)
 
-[Communicating about EA guide](https://resources.eahub.org/learn/communicate-ea/)
+* [Communicating about EA guide](https://resources.eahub.org/learn/communicate-ea/)
 
-[Tips on talking about EA](https://forum.effectivealtruism.org/posts/p6YgPpdhMpajBZ2Lf/tips-on-talking-about-effective-altruism)
+* [Tips on talking about EA](https://forum.effectivealtruism.org/posts/p6YgPpdhMpajBZ2Lf/tips-on-talking-about-effective-altruism)
 
 <a name="hall"></a>
 
