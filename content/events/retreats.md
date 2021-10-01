@@ -25,7 +25,7 @@ Retreats involve community members gathering for two or more days, usually out o
 * More resources coming!
 
 ## Retreat Handover Documents
-* <a target="_blank" href="https://docs.google.com/document/d/1QqgTgaN4u4fcQbKboLnfZeFOFWp6nj-A1C1s9if8yXQ/edit#heading=h.6c2zq57w9mu">EA Cambridge</a>
+
 * <a target="_blank" href="https://forum.effectivealtruism.org/posts/YGdkLSToQ6rw5QqDP/yale-retreat-handover-doc">Yale EA</a>
 
 ## Retreat Reviews
