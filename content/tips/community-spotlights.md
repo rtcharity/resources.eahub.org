@@ -11,8 +11,6 @@ This page features different groups and community organisers around the world.
 
 # Contents
 
-
-
 * <a href="#spanish-speaking">The Spanish-Speaking EA Community</a>
 * <a href="#blue">EA Blue</a>
 * <a href="#arushi">Arushi Gupta, EA New York City</a>
@@ -42,6 +40,10 @@ This page features different groups and community organisers around the world.
 # The Spanish-Speaking EA Community
 
 ### *Published 29th September 2021*
+
+<p class="large_image_wrapper">
+ <img src="/img/foto-meeting.png"/>
+</p>
 
 ## Describe your group
 
