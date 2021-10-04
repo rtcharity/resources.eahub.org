@@ -11,6 +11,7 @@ This page features different groups and community organisers around the world.
 
 # Contents
 
+* <a href="#spanish-speaking">The Spanish-Speaking EA Community</a>
 * <a href="#blue">EA Blue</a>
 * <a href="#arushi">Arushi Gupta, EA New York City</a>
 * <a href="#estonia"> EA Estonia </a>
@@ -31,6 +32,56 @@ This page features different groups and community organisers around the world.
 * <a href="#sella">Sella Nevo - EA Israel</a>
 * <a href="#catherine">Catherine Low - EA New Zealand</a>
 * <a href="#neil">Neil Ferro - EA Sydney, Australia</a>
+
+<hr>
+
+<a name="spanish-speaking"></a>
+
+# The Spanish-Speaking EA Community
+
+### *Published 29th September 2021*
+
+<p class="large_image_wrapper">
+ <img src="/img/foto-meeting.png"/>
+</p>
+
+## Describe your group
+
+The Spanish-speaking EA community aims to act as a space to facilitate discussions and make resources available to all Spanish speakers, regardless of geographic location. Our ultimate goal is to make the ideas of EA accessible to a Spanish-speaking audience and build a solid foundation for the future growth of the community, breaking the current language and cultural barriers.
+
+## What is the best advice/resource you've found?
+
+Communication is the key to creating a healthy community and working more efficiently.
+
+Good, constant communication is fundamental in order to build trust and a strong connection with group members.
+
+## How did you start your group?
+
+The Spanish-speaking EA community was born in February 2020 to foster communication, build alliances between the different local groups and projects and to avoid duplicating efforts in the community. Originally, it started as a translation project aiming to translate foundational EA texts into Spanish and make them available on a new website that would function as a directory of groups and resources. However, the community aspect quickly took over, and we expanded our activities to include regular meetings, a reading club, speaker events, and even a Spanish version of the EA fellowships.
+
+## What has been your most successful event, and why?
+
+Not quite an event, but our most successful initiative so far has been the creation of our Slack channel (which has just passed 200 members!) and is our main way to coordinate different projects and stay in contact with everyone. It also functions as a centralised, lively space where Spanish speakers can keep up to date with activities and discussions, find resources and a community of like-minded people.
+
+## What is the strength of your group?
+
+Diversity and the common goal of having an EA space in Spanish.
+
+## What challenges have you faced as a group, and how did you manage them?
+
+Although we are all Spanish speakers, we come from very different geographic and socioeconomic contexts. One of the reasons why we started this community is that we thought it was important to tailor the communication of EA principles and advice to the Hispanic cultural context, but it soon became apparent that there is no one-size-fits-all approach: a Spaniard and a Venezuelan may speak the same language, but their circumstances and opportunities available to them are likely quite different! This geographic diversity also made us struggle with a range of time zones in order to offer events for everyone. We realised that local groups still had a key role to play and that we had to determine what kind of content and projects made sense to localise and what should remain under the scope of the global community.
+
+Good communication and active reaching out have also been key in order to make sure that everyone’s voices were represented.
+
+## Do you have a key goal for your group? How are you working to achieve this?
+
+Our main goal is to build a solid foundation for the future growth of the Spanish-speaking EA community. Because of this, right now we’re emphasising the creation of content tailored to a Spanish audience (in the form of both original and translated texts, for which we have a group of volunteer translators and editors), as well as building networks, making relevant academic contacts in the Hispanic world, and supporting new local and university groups.
+
+## What is a funny, interesting, or inspiring story from your group?
+
+The group was born at the beginning of the COVID-19 pandemic. In a way, the switch from a focus on in-person interactions to online ones contributed to the initial success of the community: it was precisely because everything was taking part online that it seemed unnecessary to restrict events to a certain local group. 
+
+Communication and collaborations between different local and national groups developed in an organic way, in order to avoid the duplication of efforts.
 
 <hr>
 
