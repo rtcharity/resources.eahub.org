@@ -11,7 +11,7 @@ This page features different groups and community organisers around the world.
 
 # Contents
 
-* <a href="#spanish-speaking">The Spanish-Speaking EA Community</a>
+* <a href="#altruismo-eficaz">Altruísmo Eficaz / Effective Altruism Spanish Speakers’ Virtual Group</a>
 * <a href="#blue">EA Blue</a>
 * <a href="#arushi">Arushi Gupta, EA New York City</a>
 * <a href="#estonia"> EA Estonia </a>
@@ -35,9 +35,9 @@ This page features different groups and community organisers around the world.
 
 <hr>
 
-<a name="spanish-speaking"></a>
+<a name="altruismo-eficaz"></a>
 
-# Altruísmo Eficaz / Effective Altruism Spanish Speakers’ Virtual Group
+# The Spanish-Speaking EA Community
 
 ### *Published 29th September 2021*
 
