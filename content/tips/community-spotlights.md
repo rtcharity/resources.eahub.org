@@ -37,7 +37,7 @@ This page features different groups and community organisers around the world.
 
 <a name="spanish-speaking"></a>
 
-# The Spanish-Speaking EA Community
+# Altruísmo Eficaz / Effective Altruism Spanish Speakers’ Virtual Group
 
 ### *Published 29th September 2021*
 
