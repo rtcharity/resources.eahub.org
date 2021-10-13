@@ -9,7 +9,8 @@ license:
 
 You may have the opportunity to make a large positive impact in the world through the career you choose to pursue.
 
-<a target="_blank" href="https://80000hours.org/"><img class="small_image_block" src="/img/80Klogo.png" /></a>
+<a target="_blank" href="https://80000hours.org/"><img class="small_image_block" src="/img/80Klogo.png" />
+</a>
 
 80,000 Hours is an organisation dedicated to helping people use their careers to tackle the world’s most pressing problems. <a target="_blank" href="https://80000hours.org/">Their website</a> contains a wealth of information about causes, high-impact careers, and what makes for a satisfying career. 
 
@@ -26,7 +27,7 @@ The <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">E
 
 <hr>
 
-### [NEXT: Getting the Most Out of an EA Conference](/take_action/ea-conference/)
+### [NEXT: Getting the Most Out of an EA Conference](/take_action/ea-conferences/)
 
 ### [BACK: Use Your Time](/take_action/use-your-time/)
 
