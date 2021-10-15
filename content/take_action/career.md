@@ -14,15 +14,21 @@ You may have the opportunity to make a large positive impact in the world throug
 
 80,000 Hours is an organisation dedicated to helping people use their careers to tackle the world’s most pressing problems. <a target="_blank" href="https://80000hours.org/">Their website</a> contains a wealth of information about causes, high-impact careers, and what makes for a satisfying career. 
 
+If you're interested in a career in animal advocacy, <a href="https://www.animaladvocacycareers.org/">Animal Advocacy Careers</a> has advice on job postings availble.
+
 80,000 Hours maintains a <a target="_blank" href="https://80000hours.org/job-board/">job board</a>, which advertises a few very high-impact job opportunities from around the world.
 
-The <a target="_blank" href="https://www.facebook.com/groups/1062957250383195/">Effective Altruism job postings</a> Facebook group, <a target="_blank" href="https://www.eawork.club/">EA Work Club</a>, and <a href="https://www.animaladvocacycareers.org/">Animal Advocacy Careers</a> have additional opportunities.
-
-
+The <a target="_blank" href="https://www.facebook.com/groups/1062957250383195/">Effective Altruism job postings</a> Facebook group and <a target="_blank" href="https://www.eawork.club/">EA Work Club</a>, and have additional opportunities.
 
 You can also <a target="_blank" href="https://eahub.org/profiles">mark yourself available for job opportunities</a> on the EA Hub. This will cause your profile to be viewable on the <a target="_blank" href="https://eahub.org/candidates">candidates page</a>. 
 
 The <a target="_blank" href="https://www.facebook.com/groups/473795076132698/">Effective Altruism Careers Discussion Facebook group</a> is for members of the EA community to support each other through career plans and changes.
+
+Several organisations also provide career advising or mentorship, including:
+
+* <a href="https://80000hours.org/speak-with-us/">80,000 Hours</a> (see <a href="https://80000hours.org/podcast/episodes/michelle-hutchinson-giving-career-advice/">this podcast</a> for more information)
+* <a href="https://www.wanbam.com/">WANBAM</a> (for women, non-binary, and trans people of all genders)
+* <a href="https://longtermrisk.org/career-coaching/">The Center on Long-Term Risk</a>
 
 <hr>
 
