@@ -42,7 +42,7 @@ This page features different groups and community organisers around the world.
 ### *Published 9th November 2021*
 
 <p class="large_image_wrapper">
- <img src="/img/justen.img"/>
+ <img src="/img/justen.jpg"/>
 </p>
 
 ## What first drew you to effective altruism?
