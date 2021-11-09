@@ -5,13 +5,13 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 4th August 2021*
+### *Updated 9th November 2021*
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
-* <a href="#altruismo-eficaz">Altruísmo Eficaz / Spanish Speakers’ Virtual Group</a>
+* <a href="#justen">Lenni and Michel Justen, EA University of Wisconsin-Madison</a>
 * <a href="#blue">EA Blue</a>
 * <a href="#arushi">Arushi Gupta, EA New York City</a>
 * <a href="#estonia"> EA Estonia </a>
@@ -35,9 +35,58 @@ This page features different groups and community organisers around the world.
 
 <hr>
 
+<a name="justen"></a>
+
+# Lenni and Michel Justen, EA University of Wisconsin-Madison
+
+### *Published 9th November 2021*
+
+<p class="large_image_wrapper">
+ <img src="/img/justen.img"/>
+</p>
+
+## What first drew you to effective altruism?
+
+Lenni went on a gap year after high school and met loads of wandering backpackers who seemed to be living really meaningful and inspiring lives without wealth or excess material possessions. At some point it became apparent that the only reason going to university and spending long hours working would be worth it for us was to give back to the world somehow – a still vague notion at the time. This was especially true given how fortunate our upbringing had been and how uniquely placed we were to make an impact. 
+
+
+
+Thankfully, after listening to Toby Ord and Sam Harris talk about existential risk and the Giving What We Can pledge on the Making Sense podcast our vague aspirations of improving the world were formalized. We became convinced that becoming aspiring effective altruists was the best alternative to becoming traveling monks or something along those lines. There are many things one could do in life, each with their own trials and tribulations, but trying to do good as best as possible just seemed to us like it was a really good baseline. 
+
+## What is the best advice you've found that you still use today?
+
+
+Acting on your beliefs about doing good will make you act differently than a lot of students around you. This advice has come from a mixture of conversations and forum posts on productivity and class enrollment. Commonplace college undertakings like spreading time over lots of clubs, enrolling in classes for funsies, and sometimes even going to classes may just not mesh well with lives lived trying to do good better.
+
+
+
+This can be hard though! It can be scary to spend less time on classes, the very thing you thought you went to college for, especially if a perfectionist attitude towards school has always been the default. But ultimately classes and other involvement are instrumental towards your goals, they’re not the end goal. 
+
+We’d recommend thinking hard about those end goals and not being surprised if different priorities than many of your peers lead to different actions than many of your peers. 
+
+## How do you spend your leisure time? 
+
+When Lenni pokes his head above the dark lair in which he works he likes to spend his time skateboarding, climbing, and being with friends. He also likes justifying long walks somewhere when he clearly should have biked or taken the bus. His guilty pleasure is watching people from warm places suffer through Wisconsin winters (I think it builds character). 
+
+
+
+Michel shares Lenni’s joy in climbing, friends, and skateboarding. (He thinks Lenni is the best skateboarder in EA but is willing to update on new evidence). He also enjoys freestyle skiing and running, but the love for running might become traumatic after his first marathon in two weeks. A guilty pleasure of his is over-outlining blog or forum posts that don’t get written. Oops. 
+
+
+
+
+
+## What has the community come to mean to you? 
+
+EA Global London really changed what the community means to us. (It was a treat to meet so many of you recently!). We had always been impressed by the EA community we interacted with online – a wonderfully helpful and intelligent group of individuals. Finding out that the same people were also wonderfully nice and funny in person sealed the deal on the effective altruism community just being the coolest thing. 
+
+
+
+<hr>
+
 <a name="altruismo-eficaz"></a>
 
-# Altruísmo Eficaz / Spanish Speakers’ Virtual Group
+# Altruismo Eficaz / Spanish Speakers’ Virtual Group
 
 ### *Published 29th September 2021*
 
