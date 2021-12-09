@@ -5,12 +5,13 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-### *Updated 9th November 2021*
+### *Updated 10th December 2021*
 
 This page features different groups and community organisers around the world. 
 
 # Contents
 
+* <a href="#ucla">EA at UCLA, USA</a>
 * <a href="#justen">Lenni and Michel Justen, EA University of Wisconsin-Madison</a>
 * <a href="#blue">EA Blue</a>
 * <a href="#arushi">Arushi Gupta, EA New York City</a>
@@ -35,9 +36,46 @@ This page features different groups and community organisers around the world.
 
 <hr>
 
+<a name="ucla"></a>
+
+# EA at UCLA, USA
+
+### *Published 10th December 2021*
+
+<p class="large_image_wrapper">
+ <img src="/img/ucla.jpg"/>
+</p>
+
+## About Us
+
+
+Effective Altruism at UCLA was founded in 2018 with two founding members in its inaugural year. It remained with only a few members until COVID-19 struck, forcing the club online, where the founding members and some new recruits successfully took on and trained the new leadership of the club through virtual fellowships. Upon return to in-person schooling, EA at UCLA has rapidly grown its leadership and active membership to 7 board members and 25 fellows.
+
+## What is the best resource you’ve found? 
+
+We attribute our growth and surge in leadership ambition to the support and guidance of the EA community. Two of our organizers attended a University Organizer Retreat in August of 2021 which not only gave them concrete tools to expand the club but also super charged their (infectious) excitement to be a part of our growing community. The friendships and connections made at this retreat have been invaluable to our entire board. 
+
+## What are the strengths of your group?
+
+The main strengths of our group are our ambition and our ability to create community. We currently have two exciting projects underway:
+
+1. Our Director of Community Engagement, Leilani Bellamy, is organizing an Intercollegiate Retreat for California University students. She is working closely with Aris Richardson (Berkeley) and Sydney Von Arx (Stanford) to organize an intellectually engaging and exciting weekend for students to engage with EA club members outside of their university groups.
+2. Recognizing the need for alternatives to fellowships within EA uni groups, we are piloting a High Impact Project program which will support driven members to pursue their EA interests and create a piece of work with value to the EA community. Members have proposed projects that include research, literature reviews, and videos communicating EA concepts. Each of these will be posted to the EA Forum upon their completion. Our purpose is to support members with an itch to apply their EA knowledge to the real world to make the first step towards doing so. Feel free to contact us at <a target="_blank" href="mailto:effectivebruins@gmail.com">effectivebruins@gmail.com</a> for more details!
+
+Aside from our ambition, we have cultivated a supportive and friendly community through weekly social events in the fall quarter. As a result, the members of our club have become quite close-knit and our close contact has created a cooperative, welcoming, and productive environment for members to learn together and encourage each other in their endeavors to do more good.
+
+## Do you have a key goal for your group? How are you working to achieve this?
+
+Our main goal is to support our members towards a lifelong path of high-leverage impact. We perceive there to be three main components of this:
+1. Providing educational opportunities like fellowships and workshops in an environment that encourages members to take EA ideas like cause prioritization, longtermism, and moral circle expansion seriously. We want all of our members to be able to have knowledgeable conversations about key EA issues.
+2. Creating a friendly and welcoming community environment where each member is friends with at least 3 other members. We believe a peer support network within EA is critical for maintaining motivation towards achieving one's EA goals.
+3. Connecting our members with the greater EA community. This takes the form of members attending intercollegiate or global EA events, having 1-1's with community members, participating in the forum, taking up opportunities for research and internships, and more! We view our group as a funnel for channeling promising new EA members into our global community.
+
+<hr>
+
 <a name="justen"></a>
 
-# Lenni and Michel Justen, EA University of Wisconsin-Madison
+# Lenni and Michel Justen, EA University of Wisconsin-Madison, USA
 
 ### *Published 9th November 2021*
 
