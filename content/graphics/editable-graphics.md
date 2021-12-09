@@ -44,7 +44,6 @@ Check out <a href="https://resources.eahub.org/graphics/how-to-edit/">our page o
 </p>
 A variety of different coloured high-resolution EA light bulbs on transparent backgrounds without text can be found <a target="_blank" href="https://drive.google.com/open?id=10c81CPd0lM5cYD31sN0h7buoAGfv533J">here</a>, including blue, white and black in both single-tone versions as well as with shading.
 
-
 ## Group Logos
 
 
