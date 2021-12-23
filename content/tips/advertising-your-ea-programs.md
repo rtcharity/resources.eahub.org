@@ -20,8 +20,8 @@ This page collates some experiences from different EA groups about how to most e
 * <a href="#ideas">Ideas for advertising strategies</a>
 * <a href="#template">Template Materials</a>
    * <a href="#graphics">Graphics</a>
-   * <a href="#other">Other Sample Material</a>
-* <a href="#more">More Resources</a>
+   * <a href="#written">Written Materials</a>
+* <a href="#further">Further Resources</a>
 * <a href="#hall">Hall of Fame</a>
 
 <a name="faq"></a>
