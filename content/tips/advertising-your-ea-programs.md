@@ -81,35 +81,24 @@ This section lists some concrete steps you can take to make a stellar marketing 
 ## If you have a few hours:
 
 1. Contact an EA group similar to yours and ask if they’re up for a quick chat about what marketing worked for them. You can find [group contact details on the EA Hub](https://eahub.org/groups/), or reach out to individuals on the [EA Groups Slack](https://join.slack.com/t/eagroups/shared_invite/zt-3ws1vk1v-spLPUkYxNTkpT1RpnC1YLQ). Ask things like:
-
-   a. What advertising method gets you most of your event sign-ups? What did you do when you were just starting out?
-
-   b. What’s the main selling point for your target audience? What’s been your most well-attended event and why?
-
-   c. What’s something you haven’t tried yet that could get loads of sign-ups if successful?
-
-   d. Do you have any thoughts on what might work well in my situation?
+    a. What advertising method gets you most of your event sign-ups? What did you do when you were just starting out?
+    b. What’s the main selling point for your target audience? What’s been your most well-attended event and why?
+    c. What’s something you haven’t tried yet that could get loads of sign-ups if successful?
+    d. Do you have any thoughts on what might work well in my situation?
 2. If you can’t find an organiser to ask, get together a few members of your own group, set a 5 minute timer and brainstorm advertising strategy, using prompts like:
-
-   a. Where do we get most of our current sign-ups?
-
-   b. Where do we already have leverage or contacts? 
-
-   c. What would make you sign up to an event with a society you didn’t know much about?
-
-   d. Skim through the section “Ideas for advertising strategies” below and see if you’ve missed any obvious options.
+    a. Where do we get most of our current sign-ups?
+    b. Where do we already have leverage or contacts? 
+    c. What would make you sign up to an event with a society you didn’t know much about?
+    d. Skim through the section “Ideas for advertising strategies” below and see if you’ve missed any obvious options.
 3. When you have a big list of options, prioritise.
-
-   a. Estimate how much time you’ll have for advertising.
-
-   b. Choose 2-5 most promising strategies you think you can make within that time. They could be:
-
-      * (If you can) Low effort, high reward (e.g. writing to people who’ve already expressed interest).
-      * Low effort, low reward (e.g. writing a Facebook post).
-      * High effort, high reward (e.g. finding 10 people to write individually).
+    a. Estimate how much time you’ll have for advertising.
+    b. Choose 2-5 most promising strategies you think you can make within that time. They could be:
+       * (If you can) Low effort, high reward (e.g. writing to people who’ve already expressed interest).
+       * Low effort, low reward (e.g. writing a Facebook post).
+       * High effort, high reward (e.g. finding 10 people to write individually).
 4. Make advertising materials, including a standard text and graphics (see the section “Sample materials” below). Share it with other organisers/committee members and encourage them to pass it on to at least 3 people each. 
 
-   a. Emphasise how important this will be to the success of the program in order to motivate them to follow through.
+    a. Emphasise how important this will be to the success of the program in order to motivate them to follow through.
 5. Set a time for carrying out each strategy and (if you’re multiple organisers) allocate them between you.
 
 ## If you want to do more:
