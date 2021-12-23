@@ -4,18 +4,24 @@ license:
   - name: Creative Commons Attribution-ShareAlike 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0/legalcode
 ---
-This article collates some experiences from different EA groups about how to most effectively market or advertise your intro programs and get more applications. 
+This page collates some experiences from different EA groups about how to most effectively market or advertise your intro fellowships and get more applications. Much of the advice and resources are also applicable to advertising other events. 
 
-Note: Many groups call their intro programs “fellowships” and call participants “fellows” – these terms are used interchangeably in this article!
+# Tl;dr
+
+* You can increase the number of applicants for your intro fellowship by making a strategic advertising plan.
+* There are lots of template marketing materials available, so you don’t have to start from scratch.
+* Typically, activities fairs, social media, mailing lists, and personal connections are the main ways in which participants hear about fellowships.
+* Advertising strategy varies considerably from place to place, so it’s useful to talk to other EA groups that are similar to yours, and to track how well each of your ads is doing in the application form.
+
 
 # Contents
 * <a href="#faq">FAQ</a>
-* <a href="#5steps">5 steps to make an advertising plan</a>
+* <a href="#5steps">Steps to make an advertising plan</a>
 * <a href="#ideas">Ideas for advertising strategies</a>
-* <a href="#sample">Sample Materials</a>
+* <a href="#template">Template Materials</a>
    * <a href="#graphics">Graphics</a>
-   * <a href="#other">Other Sample Material</a>
-* <a href="#more">More Resources</a>
+   * <a href="#written">Written Materials</a>
+* <a href="#further">Further Resources</a>
 * <a href="#hall">Hall of Fame</a>
 
 <a name="faq"></a>
@@ -30,24 +36,34 @@ Note: Many groups call their intro programs “fellowships” and call participa
 
 ## How much advertising should I do? 
 
-**Strike a balance between (a) making sure as many people as possible hear about your program and (b) avoiding being perceived as spammy.** While it’s important to keep reputation risks in mind, my guess is that most organisers could advertise more on the margin. Consider your context – in some places, persistent advertising of a society/event is more socially acceptable than in others.
+Strike a balance between (a) making sure as many people as possible hear about your program and (b) avoiding being perceived as spammy. While it’s important to keep reputation risks in mind, my guess is that most organisers could advertise more on the margin. Consider your context – in some places, persistent advertising of a society/event is more socially acceptable than in others.
+
 
 ## Where should I advertise? 
 
-* My impression is that some of the most broadly effective strategies are **Freshers/ Activities/Societies Fairs, social media and personal invites**. But this varies between groups – even experienced and successful groups do quite different things!
-* **Ask other similar groups what’s worked for them**, e.g. successful societies in your university/ area, nearby EA groups and existing group members.
-* **Experiment with advertising!** Try one or two new strategies each time. Ask in the application form how people heard of the program so you can track how well each strategy is working.
+* My impression is that some of the most broadly effective strategies are Freshers/ Activities/Societies Fairs, social media and personal invites. But this varies between groups – even experienced and successful groups do quite different things!
+* Ask other similar groups what’s worked for them, e.g. successful societies in your university/ area, nearby EA groups and existing group members.
+* Experiment with advertising! Try one or two new strategies each time. Ask in the application form how people heard of the program so you can track how well each strategy is working.
 
 ## How should I advertise?
 
-* **Make it super easy** for people to sign up for your program. Include a link to the application form and the application deadline in all advertising materials. Make Google Calendar and/or Facebook events and send people links to sign up. Send people reminders close to the deadline and on the day of the deadline.
-* **Adapt your materials to your audience;** emphasise what you think readers will find most exciting, e.g. career advice, social opportunities, academics associated with EA, relevance to activism and charity...
+* Make it super easy for people to sign up for your program. Include a link to the application form and the application deadline in all advertising materials. Make Google Calendar and/or Facebook events and send people links to sign up. Send people reminders close to the deadline and on the day of the deadline.
+* Adapt your materials to your audience; emphasise what you think readers will find most exciting, e.g. career advice, social opportunities, academics associated with EA, relevance to activism and charity...
 
 ## Should I market the program as highly prestigious?
 
+* Different groups have had success with varied levels of “prestige-signalling”. Some degree of this has worked well for many groups, but I also know of groups that advertise the program as a relatively casual discussion group and still have a good number of applications and strong attendance.
+* Once again, think about what you think would work best in your context or try out different strategies and see what works best.
+* Note that if you advertise your program as prestigious, and require a high level of commitment, participants could be disappointed if you are unable to deliver a high quality program. I haven’t seen any evidence that this has happened in the past, but it is worth considering.
+* If you market the program as prestigious, take extra measures to make sure people feel comfortable and not intimidated during the application process, for example by being very friendly in emails and interviews.
+
+# How do I market the program as highly prestigious?
+
 You can market your program as prestigious through:
 
-* The name of the program. “Fellowship” is the most common name used, and this sounds prestigious in many locations. Other names used include “scholars program”, “seminar program” and “discussion group”.
+* The name of the program. 
+   * “Fellowship” is the most common name used, and this sounds prestigious in many locations. Other names used include “scholars program”, “seminar program” and “discussion group”.
+   * Some groups use “Effective Altruism” in the name, others mention “effective altruism” in the content, but choose a different name. The most common alternative name is the “Arete Fellowship”.
 * Using formal language (e.g. avoiding slang/smileys/multiple exclamation marks)
 * Clean and simple posters/banners/visuals
 * Offering completion certificates
@@ -55,20 +71,14 @@ You can market your program as prestigious through:
 * Having policies for attendance and engagement
 * Getting endorsements from or organising events with high-profile EAs (Harvard once got Peter Singer to film a greeting for participants!)
 
-Is “prestige-signalling” a good idea?
-
-* Different groups have had success with varied levels of “prestige-signalling”. Some degree of this has worked well for many groups, but I also know of groups that advertise the program as a relatively casual discussion group and still have a good number of applications and strong attendance.
-* Once again, think about what you think would work best in your context or try out different strategies and see what works best.
-* Note that if you advertise your program as prestigious, and require a high level of commitment, participants could be disappointed if you are unable to deliver a high quality program. I haven’t seen any evidence that this has happened in the past, but it is worth considering.
-* If you market the program as prestigious, take extra measures to make sure people feel comfortable and not intimidated during the application process, for example by being very friendly in emails and interviews. 
 
 <a name="5steps"></a>
 
-# 5 steps to make an advertising plan
+# Steps to make an advertising plan
 
 This section lists some concrete steps you can take to make a stellar marketing strategy.
 
-**If you have a few hours:**
+## If you have a few hours:
 
 1. Contact an EA group similar to yours and ask if they’re up for a quick chat about what marketing worked for them. You can find [group contact details on the EA Hub](https://eahub.org/groups/), or reach out to individuals on the [EA Groups Slack](https://join.slack.com/t/eagroups/shared_invite/zt-3ws1vk1v-spLPUkYxNTkpT1RpnC1YLQ). Ask things like:
 
@@ -94,15 +104,15 @@ This section lists some concrete steps you can take to make a stellar marketing 
 
    b. Choose 2-5 most promising strategies you think you can make within that time. They could be:
 
-   * (If you can) Low effort, high reward (e.g. writing to people who’ve already expressed interest).
-   * Low effort, low reward (e.g. writing a Facebook post).
-   * High effort, high reward (e.g. finding 10 people to write individually).
+      * (If you can) Low effort, high reward (e.g. writing to people who’ve already expressed interest).
+      * Low effort, low reward (e.g. writing a Facebook post).
+      * High effort, high reward (e.g. finding 10 people to write individually).
 4. Make advertising materials, including a standard text and graphics (see the section “Sample materials” below). Share it with other organisers/committee members and encourage them to pass it on to at least 3 people each. 
 
    a. Emphasise how important this will be to the success of the program in order to motivate them to follow through.
 5. Set a time for carrying out each strategy and (if you’re multiple organisers) allocate them between you.
 
-**If you want to do more:**
+## If you want to do more:
 
 1. Choose 1-2 strategies you really want to optimise. You can use a similar method to brainstorm ways to optimise the individual strategy. You can also set a target for how many sign-ups you want to try and get this way. 
 2. Contact other societies at your university and ask what’s been successful for them.
@@ -134,14 +144,19 @@ The list below contains most of the advertising strategies we’re aware of that
 * **Collaborating with other university/local societies** – especially if you know the organisers well, they may be willing to advertise your program or host joint events.  
 * **Collaborating with professors**, for example by getting them to advertise (or let you advertise) your program in their classes.
 
-<a name="sample"></a>
+<a name="template"></a>
 
-# Sample materials
-
-This section contains sample marketing materials that EA groups have used to advertise their intro programs. **You’re welcome to copy all of these materials and adapt them for your own group.**
+# Template materials
 
 <a name="graphics"></a>
 ## Graphics
+
+There are two main sources of free template marketing materials:
+1. [A set of template editable graphics compiled by CEA](https://resources.eahub.org/graphics/editable-graphics/). These templates can be edited using the graphic design program [Gravit](https://designer.gravit.io/), which is free to use. 
+2. [A folder of sample graphics used by other university groups](https://www.canva.com/da_dk/signup/?brandAccessToken=VaqFCyMwnlpS0t9-sQeUMw&signupRedirect=%2Fbrand%2Fjoin%3Ftoken%3DVaqFCyMwnlpS0t9-sQeUMw%26referrer%3Dteam-invite&loginRedirect=%2Fbrand%2Fjoin%3Ftoken%3DVaqFCyMwnlpS0t9-sQeUMw%26referrer%3Dteam-invite). You can make copies of these samples and edit them to fit your EA group. The samples can be edited using the graphic design program [Canva](https://www.canva.com/), which is free and easier to use (though less flexible) than Gravit.
+Both of these folders contain templates of logos, banners, flyers, Facebook profile- and cover photos, and more.
+
+Both of these folders contain templates of logos, banners, flyers, Facebook profile- and cover photos, and more.
 
 ### Finding and modifying graphics
 
@@ -161,29 +176,10 @@ This page links all the currently available editable graphics that aren't on the
 
 The following sections contain samples of advertising graphics from a few EA Groups. Most of the links below will take you to the graphic design website Canva, which is free and easy to use. Once you’ve made an account, open a design, press “Use template”, and Canva will make a copy for you that you can freely edit.
 
-### Example facebook banners
+<a name="written"></a>
+## Written Advertising
 
-* [Design from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtmQCxI/W_fOPMvhgIhz2rVCWLa5xA/view?utm_content=DAElWtmQCxI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
-* [Design from Effective Altruism Cambridge](https://www.canva.com/design/DAEkmVP4ngE/1hZXBtwZwBhuChASlp8XuQ/view?utm_content=DAEkmVP4ngE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
-* [Design from Yale Effective Altruism](https://www.canva.com/design/DAEleEjV6E4/YvNmCoLtC3PWIspFQGdt4g/view?utm_content=DAEleEjV6E4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
-### Example posters/pictures
-
-* [Poster (to print or for a Facebook post) from Yale Effective Altruism](https://www.canva.com/design/DAEleA7ZkOo/XCLDhKxFnPzTI-dplfzktQ/view?utm_content=DAEleA7ZkOo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
-* [Testimonials (sized for Instagram) from Positive Impact Society Erasmus](https://www.canva.com/design/DAElWtCXgJY/7Z3pp2qGCr09P4fkpuO6rA/view?utm_content=DAElWtCXgJY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
-* [Flyer from Harvard Effective Altruism](https://drive.google.com/file/d/1IJBTGA1BG6SPmgJlVme7_162CVFNjUen/view?usp=sharing) (on Google Sheets, not Canva; press “File” in the top left corner, then “Make a copy”)
-
-### Completion certificates
-
-* [Design from Yale](https://www.canva.com/design/DAEleIZsQzE/lEpHKubkDAWhJnjuvK_b_Q/view?utm_content=DAEleIZsQzE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
-
-
-<a name="other"></a>
-## Other sample materials
+In addition to graphics, you will need some text for emails, social media posts, and so on. Some samples of these are available below – feel free to copy, adapt, and use these.
 
 ### Sample texts for mailing lists, social media etc.
 
@@ -191,14 +187,8 @@ The following sections contain samples of advertising graphics from a few EA Gro
 
 * [Emails for mailing lists (especially well-suited to an Effective Altruism mailing list) from Effective Altruism Stanford. ](https://docs.google.com/document/d/1u4Xzx93HYo6ZHmDbRqR4o_IPtnsuTufUMAf9sICWCQ0/edit?usp=sharing)
 
-### Application forms
-
-* [Application form from Effective Altruism Oxford.](https://airtable.com/shr9v02ixdY1mkqrK)
-
-* [Application form from Yale Effective Altruism.](https://docs.google.com/forms/d/e/1FAIpQLSeZNj9sMwTFbzmRm0fOswkwm7-tTurLqw6zNgjOgNNiuqJNDw/viewform)
-
-### Referral form
-
+### Referral forms
+Referral forms are forms where people can recommend a person they think might be interested in the fellowship. Referral forms aim to use existing networks and personal invitations to increase the number of applications.
 * [Non-anonymous referral form from Yale Effective Altruism](https://docs.google.com/forms/d/e/1FAIpQLSespxnGtew6QAVg7OJHiN1W3nHfDzQYsNllKW08eIp3qSc6Mw/viewform) (type in anything on the first page to see the second page, but remember not to press “Submit”!).
 
 ### Info sessions
@@ -209,7 +199,8 @@ The following sections contain samples of advertising graphics from a few EA Gro
 
 * [Email templates from Effective Altruism Harvard.](https://docs.google.com/document/d/1LrQt5xUAAptNcyq4h6LyXK84KMu32wGM8eJKmaSEQCo/edit?usp=sharing)
 
-# More resources
+<a name="further"></a>
+# Further resources
 
 * [General advice on publicising your group activities](https://resources.eahub.org/tips/publicity/#general)
 
