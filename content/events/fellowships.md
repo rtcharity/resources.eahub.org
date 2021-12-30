@@ -38,6 +38,8 @@ Fellowships are multi-week reading- and discussion groups for committed particip
 Introductory fellowships can be great for giving people an in-depth understanding of EA ideas and building your EA group, if you have the capacity to run one. They’ve also been used to start new groups successfully. Some groups also run in-depth and cause area specific fellowships.
 You can also consider sending your group members to <a target="_blank" href="https://www.effectivealtruism.org/virtual-programs/">EA Virtual Programs’ introductory program</a>.
 If you’re interested in running your own introductory fellowship, there are lots of template resources available, as well as funding and one-on-one support.
+
+
 * <a target="_blank" href="https://drive.google.com/drive/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y?usp=sharing">This folder contains the curriculum we recommend for new groups</a>, as well as guides for organisers and facilitators. More template resources are listed at the end of this page.
 *  <a target="_blank" href="https://www.centreforeffectivealtruism.org/group-support-funding">This page contains information about applying to CEA funding</a>.
 Marie Buhl (<a target="_blank" href="mailto:marie@centreforeffectivealtruism.org">marie@centreforeffectivealtruism.org</a>) is available to support groups running fellowships.
@@ -80,14 +82,14 @@ Yi-Yang Chua, who runs EA Virtual Programs, <a target="_blank" href="https://for
 ## Curriculum
 Introductory fellowships typically have a curriculum with weekly readings (and sometimes exercises) that is distributed to participants. Participants do the readings in advance of a weekly fellowship session and then discuss the readings in-session.
 
-**<a target="_blank" href="https://drive.google.com/drive/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y?usp=sharing">This folder contains the most tested and frequently updated curriculum (see "3 – Curriculum")**. 
+**<a target="_blank" href="https://drive.google.com/drive/folders/15HJdBYFyeyG9yVbJ_QDvm811A9IHnC4Y?usp=sharing">This folder</a> contains the most tested and frequently updated curriculum (see "3 – Curriculum")**. 
 
 The folder also contains a guide for organisers and facilitators running this program.
  
 
-This is an 8-week curriculum with 1-2 hours of reading per week and 1-1.5h weekly discussion sessions. The curriculum was developed by EA Oxford and CEA in 2020 with assistance from a variety of experts; trialed over 2020 and 2021; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. (Note that this curriculum contains chapters from Doing Good Better and The Precipice, so you'll need to buy these books for your participants or make sure they have access to them otherwise. You can get books for fellowships funded by CEA – see the "<a href="">Fellowship funding and support</a>" section below.)
+This is an 8-week curriculum with 1-2 hours of reading per week and 1-1.5h weekly discussion sessions. The curriculum was developed by EA Oxford and CEA in 2020 with assistance from a variety of experts; trialed over 2020 and 2021; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. (Note that this curriculum contains chapters from Doing Good Better and The Precipice, so you'll need to buy these books for your participants or make sure they have access to them otherwise. You can get books for fellowships funded by CEA – see the "<a href="#support">Fellowship funding and support</a>" section below.)
 
-There are several other pre-made curricula that you can use; see the "<a href="">Further resources</a>" section of this page. We encourage you to think about which curriculum will work best for your group, but we recommend the curriculum above as a good starting point..
+There are several other pre-made curricula that you can use; see the "<a href="#further">Further resources</a>" section of this page. We encourage you to think about which curriculum will work best for your group, but we recommend the curriculum above as a good starting point..
 <a name="format"></a
 ## Format
 Different groups use different formats. Here are three options:
@@ -171,13 +173,14 @@ Some groups run fellowships focused on giving people a strong familiarity with o
 
 
 
-**AI Safety**
+**AI Safety**
 
 * <a target="_blank" href="https://docs.google.com/document/d/1zhtqbPGyv9mL7Rp9gzRWOGZCKL4qzXg3SmsDdSFnmpY/edit?usp=sharing">EA Cambridge's AGI Safety Fellowship: Created by Richard Ngo with feedback from other AI safety experts</a>
 * <a target="_blank" href="https://docs.google.com/document/d/16Mmbb6cChehG9tAJZuj0Olr5MVC6ooaJaOPl10oxQTI/edit?usp=sharing">Technical AI Safety Reading List: Adapted from Cambridge Effective Altruism’s AGI Safety Fundamentals Syllabus.</a>
 
 
 **Environmentalism**
+
 * <a target="_blank" href="https://docs.google.com/document/d/1yyczawxzDPawVPrnA6_PWktTXwoQpHrkmtxB-C-W9bg/edit?usp=sharing">Stanford Effective Environmentalism Syllabus</a>
 
 
