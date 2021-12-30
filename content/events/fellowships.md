@@ -50,7 +50,7 @@ EA fellowships (also sometimes known as EA Programs, Scholar's Programs, or Semi
 
 Many groups run fellowships for their own community, and online fellowships open to people from anywhere in the world are advertised on the <a target="_blank" href="https://www.effectivealtruism.org/virtual-programs/">EA Virtual Programs platform</a>.
 
-<a name="what"></a>
+<a name="should"></a>
 
 
 # Should I run a fellowship?
@@ -68,12 +68,12 @@ If you'd like your group members to be able to attend a fellowship, but you don'
 Yi-Yang Chua, who runs EA Virtual Programs, <a target="_blank" href="https://forum.effectivealtruism.org/posts/tn328tcnrKiEMb7Lr/should-you-organise-your-own-introductory-ea-program-or">wrote a forum post about when groups should run their own fellowship</a>, collaborate with an experienced organiser, or collaborate with EA Virtual Programs. 
 
 
-<a name="what"></a>
+<a name="how"></a>
 
 
 
 # How to run an Introductory Fellowship 
-<a name="what"></a>
+<a name="curriculum"></a>
 
 
 
@@ -88,21 +88,21 @@ The folder also contains a guide for organisers and facilitators running this pr
 This is an 8-week curriculum with 1-2 hours of reading per week and 1-1.5h weekly discussion sessions. The curriculum was developed by EA Oxford and CEA in 2020 with assistance from a variety of experts; trialed over 2020 and 2021; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. (Note that this curriculum contains chapters from Doing Good Better and The Precipice, so you'll need to buy these books for your participants or make sure they have access to them otherwise. You can get books for fellowships funded by CEA – see the "<a href="">Fellowship funding and support</a>" section below.)
 
 There are several other pre-made curricula that you can use; see the "<a href="">Further resources</a>" section of this page. We encourage you to think about which curriculum will work best for your group, but we recommend the curriculum above as a good starting point..
-
+<a name="format"></a
 ## Format
 Different groups use different formats. Here are three options:
 
 * The most common option: Accept many applicants from a pool and split them into groups of 3-5 fellows. Assign a facilitator to each group. The groups can meet at different times of the week for weekly discussions. Groups using this model often have social events for all their fellows. 
 * Invite approximately 15 people from a pool of applicants to attend weekly discussions. During the discussions, participants split out into smaller breakout groups, each with a facilitator (but the groups and the facilitator can change every week).
 * Run the fellowship through a series of regular one-on-one meetings (or one-on-two meetings). The facilitator’s time commitment is greater with this model, but some groups report that 1-1 dynamics feel more warm and supportive than large group discussions. Additionally, facilitators can tailor the programme to the individuals involved. EA St Andrews and Stanford EA have tried this model. EA St Andrews now uses a combination of 1:1 meetings and group meetings.
-<a name="what"></a>
+<a name="advertising"></a>
 
 
 
 ## Fellowship advertising
 <a target="_blank" href="https://resources.eahub.org/tips/advertising-your-ea-programs/">We have a separate page</a> with tips on how to advertise your fellowship and attract as many applicants as possible.
 
-<a name="what"></a>
+<a name="selection"></a>
 
 
 ## Fellowship Selection Process
@@ -114,7 +114,7 @@ Groups vary in how selective they are with their candidates. This raises similar
 When you're assessing applications, we recommend anonymizing them when you evaluate them, e.g. by giving a black background to the square where people put their names.
 
 
-<a name="what"></a>
+<a name="diverse"></a>
 
 
 ## Encouraging Diverse Applications
@@ -124,7 +124,7 @@ Yale EA has had some success encouraging a more diverse group of people to apply
 
 
 
-<a name="what"></a>
+<a name="support"></a>
 
 
 # Fellowship funding & support
@@ -137,12 +137,12 @@ EA Virtual Programs run regular facilitator training sessions that often have op
 
 
 
-<a name="what"></a>
+<a name="other"></a>
 
 
 # Other kinds of fellowships
 
-<a name="what"></a>
+<a name="indepth"></a>
 
 
 ## In-Depth Fellowships
@@ -157,7 +157,7 @@ In-Depth fellowships are often used for graduates of the introductory fellowship
 * <a target="_blank" href="https://effectivealtruism.ch/fellowship">EA Switzerland</a>
 * <a target="_blank" href="https://docs.google.com/document/d/1MbeU7ChzKpbrWOfSk2dGgVEV9-mFe39pTJCKyRgCiyc/edit">How to run Remote In-depth fellowships for Cohort Organisers</a>
 
-<a name="what"></a>
+<a name="cause"></a>
 
 
 ## Cause-Area Fellowships
@@ -181,25 +181,25 @@ Some groups run fellowships focused on giving people a strong familiarity with o
 * <a target="_blank" href="https://docs.google.com/document/d/1yyczawxzDPawVPrnA6_PWktTXwoQpHrkmtxB-C-W9bg/edit?usp=sharing">Stanford Effective Environmentalism Syllabus</a>
 
 
-<a name="what"></a>
+<a name="reading"></a>
 
 
 ## Reading Groups
 Reading groups sometimes fall under fellowships, but we have a <a target="_blank" href="https://resources.eahub.org/events/articles/content/">separate section for this here</a>. 
 
 
-<a name="what"></a>
+<a name="template"></a>
 
 
 # Template materials
 This section contains a number of templates and samples for various materials you might need when running a fellowship. These have been drawn from Introductory Fellowships, but can be adapted to other types of fellowships.
-<a name="what"></a>
+
 
 
 
 ## Advertising
 For sample advertising materials (flyers, Facebook ads, mailing list text, etc.), see <a target="_blank" href="https://resources.eahub.org/tips/advertising-your-ea-programs/">our page on Publicising Introductory Programs</a>.
-<a name="what"></a>
+
 
 
 
@@ -208,7 +208,7 @@ For sample advertising materials (flyers, Facebook ads, mailing list text, etc.)
 
 * <a target="_blank" href="https://airtable.com/shr9v02ixdY1mkqrK">Application form from Effective Altruism Oxford</a>.
 * <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeZNj9sMwTFbzmRm0fOswkwm7-tTurLqw6zNgjOgNNiuqJNDw/viewform">Application form from Yale Effective Altruism</a>.
-<a name="what"></a>
+
 
 
 ## Acceptance/rejection emails
@@ -217,7 +217,7 @@ For sample advertising materials (flyers, Facebook ads, mailing list text, etc.)
 * <a target="_blank" href="https://docs.google.com/document/d/1LrQt5xUAAptNcyq4h6LyXK84KMu32wGM8eJKmaSEQCo/edit?usp=sharing">Email templates from Effective Altruism Harvard</a>.
 
 
-<a name="what"></a>
+
 
 
 ## Completion certificates
@@ -227,13 +227,13 @@ For sample advertising materials (flyers, Facebook ads, mailing list text, etc.)
 
 
 
-End-of-fellowship surveys
+## End-of-fellowship surveys
 
 
 * <a target="_blank" href="https://docs.google.com/forms/d/1ySctNzXqO1DKCA2Jn2UvgA2-_ZfX6DoxRAcYrRxriU8/copy">Participant survey template</a>.
 * <a target="_blank" href="https://docs.google.com/forms/d/1gEsBo5nA1ulINiL8UCHq1PmtzYqeDTm6edN9AP9EwPk/copy">Facilitator survey template</a>.
 
-<a name="what"></a>
+
 
 
 
@@ -243,7 +243,7 @@ Some groups run info sessions to help attract participants to their fellowship.
 * <a target="_blank" href="https://docs.google.com/presentation/d/1CMG5lGL9l36Or7U3f57LYKRXLbaWTW2Lf73sr-I0f9I/edit?usp=sharing">Presentation from an information session at Effective Altruism Harvard</a>.
 
 
-<a name="what"></a>
+<a name="further"></a>
 
 
 # Further Resources
