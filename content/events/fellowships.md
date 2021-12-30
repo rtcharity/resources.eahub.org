@@ -90,7 +90,7 @@ The folder also contains a guide for organisers and facilitators running this pr
 This is an 8-week curriculum with 1-2 hours of reading per week and 1-1.5h weekly discussion sessions. The curriculum was developed by EA Oxford and CEA in 2020 with assistance from a variety of experts; trialed over 2020 and 2021; and updated based on this feedback. We think this fellowship is an excellent way to introduce people to effective altruism, and we encourage groups to consider using the curriculum. (Note that this curriculum contains chapters from Doing Good Better and The Precipice, so you'll need to buy these books for your participants or make sure they have access to them otherwise. You can get books for fellowships funded by CEA – see the "<a href="#support">Fellowship funding and support</a>" section below.)
 
 There are several other pre-made curricula that you can use; see the "<a href="#further">Further resources</a>" section of this page. We encourage you to think about which curriculum will work best for your group, but we recommend the curriculum above as a good starting point..
-<a name="format"></a
+<a name="format"></a>
 ## Format
 Different groups use different formats. Here are three options:
 
