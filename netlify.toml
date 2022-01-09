@@ -10,251 +10,301 @@
   status = 301
   force = true
 
+[[redirects]]
   from = "/start"
   to = "https://resources.eagroups.org/start-a-group"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/why"
   to = "https://resources.eagroups.org/start-a-group/before-you-begin"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/knowledge"
   to = "https://resources.eagroups.org/start-a-group/before-you-begin"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/run-city-group"
   to = "start-a-group/types-of-groups"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/run-uni-group"
   to = "start-a-group/types-of-groups"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/support"
   to = "https://resources.eagroups.org/start-a-group/key-steps-for-starting-a-group"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/register-uni"
   to = "https://resources.eagroups.org/start-a-group/registering-a-university-group"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/first-event-city/"
   to = "https://resources.eagroups.org/start-a-group/your-first-event"
   status = 301
   force = true
 
+[[redirects]]
   from = "/start/first-event-uni"
   to = "https://resources.eagroups.org/start-a-group/your-first-event"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/support"
   to = "https://resources.eagroups.org/support-and-funding-for-groups"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips"
   to = "https://resources.eagroups.org/running-a-group"
   status = 301
   force = true
 
+[[redirects]]
   from = "/strategy"
   to = "https://resources.eagroups.org/running-a-group/strategy"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/articles/priorities"
   to = "https://resources.eagroups.org/running-a-group/strategy/priorities-for-different-sized-groups"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/articles/models"
   to = "https://resources.eagroups.org/running-a-group/strategy/models-of-movement-building"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/publicity"
   to = "https://resources.eagroups.org/running-a-group/promotion-advertising"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/advertising-your-ea-programs"
   to = "https://resources.eagroups.org/running-a-group/promotion-advertising/publicising-introductory-programs"
   status = 301
   force = true
 
+[[redirects]]
   from = "/events/clubs-fair"
   to = "https://resources.eagroups.org/running-a-group/promotion-advertising/clubs-fair-and-tabling"
   status = 301
   force = true
 
+[[redirects]]
   from = "/events/lightning-giving-games"
   to = "https://resources.eagroups.org/running-a-group/promotion-advertising/lightning-giving-game"
   status = 301
   force = true
 
+[[redirects]]
   from = "/learn/communicate-ea"
   to = "https://resources.eagroups.org/running-a-group/communicating-about-ea"
   status = 301
   force = true
 
+[[redirects]]
   from = "/learn/articles/what-to-say"
   to = "https://resources.eagroups.org/running-a-group/communicating-about-ea/what-to-say-pitch-guide"
   status = 301
   force = true
 
+[[redirects]]
   from = "/learn/articles/tips"
   to = "https://resources.eagroups.org/running-a-group/communicating-about-ea/tips-to-help-your-conversation-go-well"
   status = 301
   force = true
 
+[[redirects]]
   from = "/learn/articles/faqs"
   to = "https://resources.eagroups.org/running-a-group/communicating-about-ea/frequently-asked-questions-about-ea"
   status = 301
   force = true
 
+[[redirects]]
   from = "/learn/articles/objections"
   to = "https://resources.eagroups.org/running-a-group/communicating-about-ea/responding-to-objections-controversies"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/organisation"
   to = "https://resources.eagroups.org/running-a-group/management-systems"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/articles/leadership"
   to = "https://resources.eagroups.org/running-a-group/management-systems/volunteer-management"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/articles/communication-tools"
   to = "https://resources.eagroups.org/running-a-group/management-systems/communicating-between-organizers"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/articles/organiser-meetings"
   to = "https://resources.eagroups.org/running-a-group/management-systems/organiser-meetings"
   status = 301
   force = true
 
+[[redirects]]
   from = "/tips/articles/committee"
   to = "https://resources.eagroups.org/running-a-group/management-systems/committee-structures"
   status = 301
   force = true
 
+[[redirects]]
   from = "tips/handover/"
   to = "https://resources.eagroups.org/running-a-group/management-systems/handing-over-leadership"
   status = 301
   force = true
 
+[[redirects]]
   from = "tips/community-health/"
   to = "https://resources.eagroups.org/running-a-group/community-health"
   status = 301
   force = true
 
+[[redirects]]
   from = "graphics"
   to = "https://resources.eagroups.org/running-a-group/graphics"
   status = 301
   force = true
 
+[[redirects]]
   from = "graphics/editable-graphics"
   to = "https://resources.eagroups.org/running-a-group/graphics/available-graphics"
   status = 301
   force = true
 
+[[redirects]]
   from = "graphics/how-to-edit"
   to = "https://resources.eagroups.org/running-a-group/graphics/editing-graphics"
   status = 301
   force = true
 
+[[redirects]]
   from = "events"
   to = "https://resources.eagroups.org/event-advice"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/guide"
   to = "https://resources.eagroups.org/event-advice/running-an-in-person-event"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/venues"
   to = "https://resources.eagroups.org/event-advice/running-an-in-person-event"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/food"
   to = "https://resources.eagroups.org/event-advice/running-an-in-person-event"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/virtualevents"
   to = "https://resources.eagroups.org/event-advice/running-a-virtual-event"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/articles/discussion-tips"
   to = "https://resources.eagroups.org/event-advice/facilitation-tips"
   status = 301
   force = true
 
+[[redirects]]
   from = "tips/articles/engaging"
   to = "https://resources.eagroups.org/events-program-ideas/fellowships-multi-week-programs"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/discussions"
   to = "https://resources.eagroups.org/events-program-ideas/fellowships-multi-week-programs"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/articles/content"
   to = "https://resources.eagroups.org/events-program-ideas/fellowships-multi-week-programs"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/fellowships"
   to = "https://resources.eagroups.org/events-program-ideas/fellowships-multi-week-programs"
   status = 301
   force = true
 
+[[redirects]]
   from = "tips/one-on-ones"
   to = "https://resources.eagroups.org/events-program-ideas/one-on-ones"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/retreats"
   to = "https://resources.eagroups.org/events-program-ideas/retreats-unconferences"
   status = 301
   force = true
 
+[[redirects]]
   from = "tips/community-spotlights"
   to = "https://resources.eagroups.org/events-program-ideas/groups-spotlight"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/intro"
   to = "https://resources.eagroups.org/events-program-ideas/single-day-events/introductory-presentations"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/social"
   to = "https://resources.eagroups.org/events-program-ideas/single-day-events/social-events"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/gwwc"
   to = "https://resources.eagroups.org/events-program-ideas/single-day-events/promoting-giving-what-we-can-and-effective-giving"
   status = 301
   force = true
 
+[[redirects]]
   from = "events/speaker"
   to = "https://resources.eagroups.org/events-program-ideas/single-day-events/speaker-events"
   status = 301
