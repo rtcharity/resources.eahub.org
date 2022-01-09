@@ -3,3 +3,7 @@
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+
+[[redirects]]
+  from = "/contact/"
+  to = "https://resources.eagroups.org/support-and-funding-for-groups/connecting-with-cea-and-other-organisers"
