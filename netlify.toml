@@ -5,5 +5,7 @@
     Access-Control-Allow-Origin = "*"
 
 [[redirects]]
-  from = "/contact/"
+  from = "/contact"
   to = "https://resources.eagroups.org/support-and-funding-for-groups/connecting-with-cea-and-other-organisers"
+  status = 301
+  force = true
