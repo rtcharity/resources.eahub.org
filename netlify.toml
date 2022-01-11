@@ -281,12 +281,6 @@
   force = true
 
 [[redirects]]
-  from = "tips/community-spotlights"
-  to = "https://resources.eagroups.org/events-program-ideas/groups-spotlight"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "events/intro"
   to = "https://resources.eagroups.org/events-program-ideas/single-day-events/introductory-presentations"
   status = 301
