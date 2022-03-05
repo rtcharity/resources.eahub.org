@@ -303,3 +303,96 @@
   to = "https://resources.eagroups.org/events-program-ideas/single-day-events/speaker-events"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://resources.eagroups.org"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn"
+  to = "https://efctv.org/ea-handbook"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/about-ea"
+  to = "https://efctv.org/ea-handbook"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/glossary"
+  to = "https://forum.effectivealtruism.org/tags/all"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/reading-lists"
+  to = "https://www.effectivealtruism.org/resources"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/orgs"
+  to = "https://forum.effectivealtruism.org/tags/all"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/connect"
+  to = "https://resources.eagroups.org/support-and-funding-for-groups/connecting-with-the-broader-ea-community-and-keeping-up-to-date"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/orgs"
+  to = "https://forum.effectivealtruism.org/tags/all"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "learn/life/"
+  to = "https://resources.eagroups.org/running-a-group/community-health/sustaining-an-ea-lifestyle"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "take_action"
+  to = "https://www.effectivealtruism.org/get-involved"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "take_action/donate/"
+  to = "https://www.givingwhatwecan.org/best-charities-to-donate-to-2022/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "take_action/use-your-time"
+  to = "https://www.effectivealtruism.org/get-involved"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "take_action/career"
+  to = "https://80000hours.org/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "take_action/ea-conferences/"
+  to = "https://resources.eagroups.org/event-advice/getting-the-most-out-of-an-ea-conference"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "tips/community-spotlights/"
+  to = "https://resources.eagroups.org/running-a-group/groups-spotlight"
+  status = 301
+  force = true
+
+
+
