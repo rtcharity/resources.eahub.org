@@ -1,8 +1,9 @@
-# EA Hub Resource Trail Reboot
+# EA Hub Resource    
 
-Rebooting the resource trail of the EA Hub!!
-
-Current URL: https://elated-khorana-9gb345.netlify.com
+## Inactive website
+**This website is no longer in active use**  
+It has been replaced by https://resources.eagroups.org/.  
+Most of its content is being redirected there.  
 
 ## Stack
 * Hosting: netlifycms
